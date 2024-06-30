@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>3069343</docId>
+    <title>Julio Gonzalez scultore. 2.IX.64.</title>
+    <author>Giuseppe Raimondi</author>
+    <uploadTimestamp>1719735360740</uploadTimestamp>
+    <genre>Arts; Literature</genre>
+    <scriptType>HANDWRITTEN</scriptType>
+    <uploader>corrado.consiglio23@yahoo.it</uploader>
+    <uploaderId>222264</uploaderId>
+    <nrOfPages>6</nrOfPages>
+    <pageId>74317195</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=SCMQRARPLATOXRNISSDWUZFI</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=SCMQRARPLATOXRNISSDWUZFI</thumbUrl>
+    <externalId>https://dl.ficlit.unibo.it/iiif/2/19180/manifest</externalId>
+    <authority>https://viaf.org/viaf/7457679/</authority>
+    <desc>Quaderno Manoscritto di G.Raimondi facente parte della prima sottoserie di Quaderni Manoscritti suddivisi per anno. Il quaderno è stato scelto come test dataset per il modello.(versione trascritta direttamente dal modello)</desc>
+    <language>French, Italian</language>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_3069343</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>299374</colId>
+            <colName>Quaderni Raimondi 1954-1961</colName>
+            <description>Collezione di Quaderni scritti da Giuseppe Raimondi tra il 1954  e il 1961</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+    <mainColId>299374</mainColId>
+</trpDocMetadata>

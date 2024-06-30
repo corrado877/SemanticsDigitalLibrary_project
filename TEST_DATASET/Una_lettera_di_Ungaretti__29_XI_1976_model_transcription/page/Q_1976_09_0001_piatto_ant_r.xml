@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=30_06_2024_10:16</Creator>
+        <Created>2024-06-27T11:37:59.171+02:00</Created>
+        <LastChange>2024-06-30T10:16:49.669+02:00</LastChange>
+        <TranskribusMetadata docId="3017223" pageId="74109354" pageNr="1" tsid="175572849" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=EFXVXQQJTZXAZDHQJHPYCJDI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZBQNDDQOBQMDULEFOZLJSSZI" imageId="59955447"/>
+    </Metadata>
+    <Page imageFilename="Q_1976_09_0001_piatto_ant_r.jpg" imageWidth="1798" imageHeight="2414">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719747357093" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="580,500 580,749 1302,749 1302,500"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1043,557 1220,577 1240,566 1270,584 1302,583 1292,465 1271,470 1234,449 1131,459 1101,442 1074,462 1035,462"/>
+                <Baseline points="1046,536 1071,536 1097,539 1122,542 1148,545 1174,547 1199,548 1225,550 1250,553 1276,555 1302,556"/>
+                <TextEquiv>
+                    <Unicode>Laa ve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="576,618 631,586 717,622 905,596 1027,612 1025,567 959,572 901,540 752,557 613,525 573,538"/>
+                <Baseline points="580,588 606,588 632,587 659,587 685,588 711,588 738,589 764,590 790,590 817,592 843,592 869,592 896,593 922,595 948,597 975,598 1001,600 1028,600"/>
+                <TextEquiv>
+                    <Unicode>(8 Broprosito d’amor)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="592,671 819,652 969,659 1004,688 1099,679 1149,661 1147,593 1016,623 968,597 914,629 851,606 717,622 630,593 590,606"/>
+                <Baseline points="596,646 623,646 651,646 679,646 706,646 734,646 762,646 789,647 817,649 845,650 873,650 900,650 928,652 956,652 983,656 1011,656 1039,656 1066,657 1094,657 1122,655 1150,656"/>
+                <TextEquiv>
+                    <Unicode>sna lettera di UEngaretti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="939,725 982,746 1047,736 1085,759 1113,757 1141,769 1158,757 1175,759 1173,695 1144,704 1093,688 1078,699 1043,698 1025,684 938,700"/>
+                <Baseline points="944,722 969,727 995,728 1021,729 1047,731 1072,732 1098,732 1124,732 1150,730 1176,730"/>
+                <TextEquiv>
+                    <Unicode>29.31.1926.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

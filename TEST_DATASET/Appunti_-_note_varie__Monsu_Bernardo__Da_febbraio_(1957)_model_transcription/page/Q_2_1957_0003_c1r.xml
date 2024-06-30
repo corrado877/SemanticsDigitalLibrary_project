@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=29_06_2024_13:33</Creator>
+        <Created>2024-04-09T18:31:35.549+02:00</Created>
+        <LastChange>2024-06-29T13:33:50.158+02:00</LastChange>
+        <TranskribusMetadata docId="3059563" pageId="74284469" pageNr="2" tsid="175460309" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=UYHPNFRWCIOOZHQQFSKLHTAQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KOKWQBFFPQJLEACNAOAVABOB" imageId="54315825"/>
+    </Metadata>
+    <Page imageFilename="Q_2_1957_0003_c1r.jpg" imageWidth="1798" imageHeight="2520" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746881750" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="196,281 202,2224 1536,2224 1535,283"/>
+            <TextLine id="line_1719157260445_95" custom="readingOrder {index:0;} hi {offset:12; length:16;rend:underline;}">
+                <Coords points="197,415 675,377 790,402 946,360 946,320 918,312 846,337 803,313 602,335 543,303 442,327 197,280"/>
+                <Baseline points="205,375 950,372"/>
+                <TextEquiv>
+                    <Unicode>4. Longhi, Critica d'arte, ag. die 1935)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;} hi {offset:0; length:14;rend:underline;} hi {offset:36; length:6;rend:underline;}">
+                <Coords points="205,593 1465,595 1465,522 1363,493 1198,530 205,503"/>
+                <Baseline points="214,562 276,556 339,558 402,556 464,554 527,555 590,556 652,557 715,555 778,555 841,554 903,556 966,558 1029,554 1091,556 1154,559 1217,558 1279,558 1342,559 1405,561 1468,558"/>
+                <TextEquiv>
+                    <Unicode>Monsi Beruardo, cioè Eberhard Seil, dancne di ascendenza tedesca</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="193,648 741,681 1178,653 1178,595 1096,580 193,600"/>
+                <Baseline points="202,638 251,634 300,634 349,634 398,632 447,632 496,632 545,633 594,634 643,632 692,635 741,636 790,634 839,634 888,632 937,634 986,634 1035,632 1084,633 1133,636 1182,640"/>
+                <TextEquiv>
+                    <Unicode>nato n Helsingor nel 1824 (compaesano di mleto!)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="205,725 1200,748 1200,655 205,662"/>
+                <Baseline points="214,708 263,707 313,708 362,708 412,706 461,706 511,706 560,706 610,707 659,707 709,706 758,706 808,706 857,708 907,708 956,709 1006,709 1055,712 1105,713 1154,715 1204,718"/>
+                <TextEquiv>
+                    <Unicode>allievo di Rembrandt, ad Avosterdam, dal 1642 al'44,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;} hi {offset:5; length:11;rend:underline;} hi {offset:23; length:38;rend:underline;}">
+                <Coords points="213,805 1340,831 1340,751 1298,735 213,753"/>
+                <Baseline points="222,784 278,784 334,786 390,784 446,784 502,783 558,783 614,780 670,782 726,780 783,782 839,782 895,782 951,782 1007,784 1063,784 1119,782 1175,786 1231,784 1287,789 1344,796"/>
+                <TextEquiv>
+                    <Unicode>viene in Stalia 1851 (egli anni dal '45 al’50 dove li passa?),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="212,891 562,875 652,896 738,876 871,898 871,828 840,816 567,838 255,800 212,815"/>
+                <Baseline points="220,868 252,866 285,864 318,864 351,864 384,863 416,862 449,863 482,864 515,866 548,866 580,864 613,866 646,864 679,865 711,864 744,864 777,864 810,863 843,862 876,868"/>
+                <TextEquiv>
+                    <Unicode>a Venchia dal '51 al "3es, tre anni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="217,958 332,983 408,955 602,980 968,960 968,901 898,883 693,916 573,880 490,915 408,885 217,895"/>
+                <Baseline points="226,936 263,938 300,938 337,937 375,936 412,936 449,936 487,936 524,936 561,938 599,936 636,936 673,940 710,936 748,938 785,940 822,940 860,940 897,940 934,942 972,944"/>
+                <TextEquiv>
+                    <Unicode>a Bergamo e a Milano, dal '54 cel'56,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="222,1040 1230,1055 1350,1046 1351,966 222,978"/>
+                <Baseline points="230,1024 286,1022 342,1018 398,1014 454,1014 511,1016 567,1014 623,1014 679,1016 735,1017 792,1017 848,1017 904,1016 960,1016 1016,1014 1073,1016 1129,1016 1185,1015 1241,1015 1297,1019 1354,1022"/>
+                <TextEquiv>
+                    <Unicode>poi, per Forlì e Ravenna (e quindi per Bologna o ferrare?),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;} hi {offset:1; length:6;rend:underline;}">
+                <Coords points="232,1118 1448,1118 1425,1043 603,1065 443,1028 232,1066"/>
+                <Baseline points="240,1096 300,1093 361,1089 421,1088 482,1088 543,1087 603,1088 664,1088 724,1089 785,1090 846,1090 906,1090 967,1089 1027,1089 1088,1088 1149,1092 1209,1089 1270,1086 1330,1090 1391,1084 1452,1094"/>
+                <TextEquiv>
+                    <Unicode>a Roma, dove giunge nel 1686: si simane, fino alla morte: 1687</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;} hi {offset:0; length:58;rend:underline; type:red;}">
+                <Coords points="195,1225 310,1178 893,1226 1531,1210 1531,1131 1485,1111 195,1138"/>
+                <Baseline points="204,1178 270,1170 337,1170 403,1170 470,1169 537,1168 603,1170 670,1170 736,1170 803,1170 870,1172 936,1172 1003,1170 1069,1168 1136,1170 1202,1168 1269,1170 1336,1168 1402,1170 1469,1168 1536,1172"/>
+                <TextEquiv>
+                    <Unicode>quiudi un “Italia dal 31 all’87, uguale à Anni 36 in Italia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

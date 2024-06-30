@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:31:35.076+02:00</Created>
+        <LastChange>2024-06-24T09:30:28.165+02:00</LastChange>
+        <TranskribusMetadata docId="1929340" pageId="68037889" pageNr="1" tsid="173605398" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=SFUEFYOAHFGNFNJOWPEWDHOF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ICCKTGSGNKRPJXEYIIALBTRH" imageId="54315820"/>
+    </Metadata>
+    <Page imageFilename="Q_2_1957_0001_piatto_ant_r.jpg" imageWidth="1798" imageHeight="2520" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746853156" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="526,641 526,1055 1064,1055 1064,641"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:20;rend:underline;}">
+                <Coords points="602,689 627,687 653,688 679,689 704,688 730,687 756,687 781,689 807,687 833,688 858,688 884,687 910,688 935,689 961,689 987,689 1012,689 1038,690 1064,691 1064,645 1038,644 1012,643 987,643 961,643 935,643 910,642 884,641 858,642 833,642 807,641 781,643 756,641 730,641 704,642 679,643 653,642 627,641 602,643"/>
+                <Baseline points="602,674 627,672 653,673 679,674 704,673 730,672 756,672 781,674 807,672 833,673 858,673 884,672 910,673 935,674 961,674 987,674 1012,674 1038,675 1064,676"/>
+                <TextEquiv>
+                    <Unicode>Appunti – note varie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} hi {offset:0; length:14;rend:underline;}">
+                <Coords points="532,747 559,747 586,749 613,749 640,749 667,750 694,751 721,751 748,751 775,751 802,751 829,753 856,755 856,709 829,707 802,705 775,705 748,705 721,705 694,705 667,704 640,703 613,703 586,703 559,701 532,701"/>
+                <Baseline points="532,732 559,732 586,734 613,734 640,734 667,735 694,736 721,736 748,736 775,736 802,736 829,738 856,740"/>
+                <TextEquiv>
+                    <Unicode>Monsù Bernardo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="526,1055 552,1054 578,1052 604,1048 630,1045 656,1045 682,1045 708,1045 734,1045 760,1044 786,1043 812,1042 838,1039 838,993 812,996 786,997 760,998 734,999 708,999 682,999 656,999 630,999 604,1002 578,1006 552,1008 526,1009"/>
+                <Baseline points="526,1040 552,1039 578,1037 604,1033 630,1030 656,1030 682,1030 708,1030 734,1030 760,1029 786,1028 812,1027 838,1024"/>
+                <TextEquiv>
+                    <Unicode>da febbraio 1957.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Appunti – note varie&#13;
+Monsù Bernardo&#13;
+da febbraio 1957.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

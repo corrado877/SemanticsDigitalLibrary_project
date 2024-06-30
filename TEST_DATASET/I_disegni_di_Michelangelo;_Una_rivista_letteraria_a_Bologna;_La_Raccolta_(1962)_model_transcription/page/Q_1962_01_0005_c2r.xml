@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=29_06_2024_18:13</Creator>
+        <Created>2024-06-29T13:46:33.278+02:00</Created>
+        <LastChange>2024-06-29T18:13:21.371+02:00</LastChange>
+        <TranskribusMetadata docId="3062983" pageId="74294030" pageNr="4" tsid="175495070" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=DHOOHCVHEISPEVFGFWGAPMQC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HVBCHBUAECKIEGQQPDJMJPUP" imageId="60123761"/>
+    </Metadata>
+    <Page imageFilename="Q_1962_01_0005_c2r.jpg" imageWidth="1798" imageHeight="2515">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719747165987" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:0;}">
+            <Coords points="129,279 133,2065 1599,2065 1595,279"/>
+            <TextLine id="line_1719666465794_581" custom="readingOrder {index:0;}">
+                <Coords points="140,351 149,351 156,356 164,355 167,351 178,351 178,302 167,302 160,306 155,300 140,300"/>
+                <Baseline points="150,335 185,335"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="146,549 1595,557 1577,471 951,500 846,453 757,495 646,460 315,509 146,473"/>
+                <Baseline points="155,527 227,528 299,528 371,525 443,525 516,525 588,525 660,524 732,525 804,524 877,525 949,525 1021,525 1093,525 1165,522 1238,523 1310,523 1382,523 1454,523 1526,520 1599,523"/>
+                <TextEquiv>
+                    <Unicode>nol fermare, non solo nel ricordo, ma nella qualità, nella sostanza di materia, di realtà da traquottere,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="129,618 1537,633 1539,567 1359,557 131,577"/>
+                <Baseline points="139,609 209,608 279,605 349,605 419,602 489,603 559,605 629,606 699,605 769,605 840,605 910,603 980,603 1050,602 1120,599 1190,597 1260,597 1330,597 1400,597 1470,597 1541,599"/>
+                <TextEquiv>
+                    <Unicode>aucora vivente, nella solida, compatta, cedevole qualità della carne umana. In queste oecasioni, il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="142,717 1542,689 1542,646 1457,627 142,646"/>
+                <Baseline points="151,681 220,681 290,677 360,678 430,677 500,679 569,676 639,677 709,677 779,676 849,675 918,675 988,676 1058,675 1128,673 1198,672 1267,672 1337,673 1407,673 1477,674 1547,675"/>
+                <TextEquiv>
+                    <Unicode>segno può esere di una natura da sentire l'incisione, la scavatura, il laglio (quasi di strumento</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="138,778 1537,782 1517,720 1211,691 853,731 198,698 138,733"/>
+                <Baseline points="149,753 218,757 288,758 357,756 427,757 496,757 566,758 635,753 705,753 774,753 844,755 913,753 983,752 1052,751 1122,751 1191,748 1261,748 1330,749 1400,748 1469,750 1539,747"/>
+                <TextEquiv>
+                    <Unicode>metallico, tagliente) dentro la forma dell'oggetto, che gli posa devanti. Unagamba, un piede, un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="144,871 1588,853 1570,775 144,806"/>
+                <Baseline points="153,833 224,833 296,833 368,831 440,829 512,829 584,827 656,829 728,827 800,827 872,827 943,826 1015,826 1087,825 1159,825 1231,825 1303,824 1375,823 1447,827 1519,829 1591,833"/>
+                <TextEquiv>
+                    <Unicode>polpaccio, un ginocchio, o il fascio ancora feroido di una coscia. L'inchiostro è stato il mezzo gra-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="144,944 1555,929 1555,875 1397,855 144,875"/>
+                <Baseline points="153,913 223,911 293,909 363,909 434,909 504,907 574,907 645,905 715,905 785,903 856,903 926,901 996,901 1066,901 1137,899 1207,900 1277,899 1348,899 1418,901 1488,904 1559,907"/>
+                <TextEquiv>
+                    <Unicode>fico. Oppure, con la matita, con la parta della matita, il segno rivela la sua natura di snquieta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="151,1031 464,997 1570,1015 1570,926 1519,918 1159,957 151,937"/>
+                <Baseline points="161,985 231,983 302,982 373,981 443,980 514,979 585,981 655,981 726,979 797,979 868,977 938,977 1009,976 1080,976 1150,975 1221,977 1292,978 1362,979 1433,982 1504,983 1575,989"/>
+                <TextEquiv>
+                    <Unicode>felicità, di senso teepidante, di viticcio, di ricciolo tenero, che insegne la repentina apparenza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="146,1099 1582,1086 1582,1018 1280,1002 146,1037"/>
+                <Baseline points="155,1063 226,1058 298,1059 369,1057 441,1057 513,1055 584,1057 656,1057 727,1053 799,1052 871,1053 942,1053 1014,1053 1085,1052 1157,1051 1229,1051 1300,1050 1372,1051 1443,1053 1515,1053 1587,1059"/>
+                <TextEquiv>
+                    <Unicode>di codesta realtà, l'instabile vevità; e, allora, la mano di Michelengelo vola, corme, e all'impros-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:9;}">
+                <Coords points="135,1159 1579,1155 1579,1088 1510,1077 135,1102"/>
+                <Baseline points="145,1131 216,1135 288,1135 360,1135 432,1132 504,1131 576,1130 648,1129 720,1129 792,1129 864,1129 935,1130 1007,1130 1079,1129 1151,1130 1223,1131 1295,1129 1367,1132 1439,1131 1511,1133 1583,1135"/>
+                <TextEquiv>
+                    <Unicode>viso si ferma, colta dal pensiero della vanità del senso, dell'impossibile sostanza della felicità?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="129,1246 1582,1249 1555,1164 129,1171"/>
+                <Baseline points="140,1213 212,1210 284,1211 356,1211 429,1209 501,1207 573,1208 645,1207 718,1207 790,1205 862,1205 934,1205 1007,1207 1079,1206 1151,1207 1223,1207 1296,1206 1368,1207 1440,1207 1512,1209 1585,1215"/>
+                <TextEquiv>
+                    <Unicode>Allora il segno: la scrittura furiosa di Michelaugelo, ristagna, o s'avverte una sosta nel respiro di lui,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="127,1304 1566,1300 1566,1240 1397,1260 1320,1224 127,1273"/>
+                <Baseline points="137,1289 208,1293 280,1289 352,1286 423,1283 495,1281 567,1283 638,1283 710,1285 782,1287 854,1285 925,1284 997,1285 1069,1284 1140,1284 1212,1281 1284,1280 1355,1281 1427,1281 1499,1282 1571,1287"/>
+                <TextEquiv>
+                    <Unicode>una pesante tristezza cola dall'animo fin dentro la carta; la matita, fragile, femminile, infoltisce,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="136,1375 535,1408 1575,1379 1575,1317 1502,1299 136,1342"/>
+                <Baseline points="147,1365 218,1364 290,1361 361,1359 433,1359 505,1359 576,1360 648,1361 719,1360 791,1360 863,1357 934,1356 1006,1359 1077,1357 1149,1356 1221,1357 1292,1356 1364,1355 1435,1353 1507,1355 1579,1359"/>
+                <TextEquiv>
+                    <Unicode>si circonda di ombra, di buio. La mano di Michel angelo non va più oltre. Il sangue gli batte, dentri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_13" custom="readingOrder {index:13;}">
+                <Coords points="135,1466 209,1455 293,1482 351,1460 418,1477 482,1455 524,1479 571,1455 571,1404 518,1413 440,1384 400,1406 327,1386 198,1415 136,1399"/>
+                <Baseline points="147,1441 172,1441 197,1441 222,1441 247,1441 272,1441 298,1438 323,1437 348,1437 373,1437 398,1437 423,1437 449,1435 474,1435 499,1436 524,1436 549,1436 575,1439"/>
+                <TextEquiv>
+                    <Unicode>la vena, in gola, nella tempia-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_14" custom="readingOrder {index:14;}">
+                <Coords points="173,1537 1580,1533 1580,1462 762,1493 173,1460"/>
+                <Baseline points="183,1509 253,1511 323,1512 393,1511 463,1511 533,1513 603,1511 673,1511 743,1513 813,1513 884,1513 954,1511 1024,1513 1094,1512 1164,1512 1234,1513 1304,1511 1374,1512 1444,1511 1514,1512 1585,1515"/>
+                <TextEquiv>
+                    <Unicode>Quando il dolore, e la battaglia dei pensieri avversi, sono placati o vinti, è per un altemo che ricom-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_15" custom="readingOrder {index:15;}">
+                <Coords points="144,1613 1560,1617 1548,1542 144,1566"/>
+                <Baseline points="153,1597 223,1592 294,1590 364,1591 435,1589 505,1588 576,1587 646,1587 717,1587 787,1587 858,1585 928,1585 999,1585 1069,1583 1140,1583 1210,1583 1281,1584 1351,1583 1422,1584 1492,1585 1563,1585"/>
+                <TextEquiv>
+                    <Unicode>pare qualcosa che ha il sapore, la trama impalpabile della gioia. La matita si scatena: il sentimento</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_16" custom="readingOrder {index:16;}">
+                <Coords points="144,1715 1590,1681 1590,1624 1535,1610 144,1644"/>
+                <Baseline points="153,1671 225,1669 297,1669 369,1663 441,1664 513,1661 585,1661 657,1661 729,1661 801,1661 874,1661 946,1661 1018,1663 1090,1661 1162,1661 1234,1661 1306,1661 1378,1661 1450,1661 1522,1665 1595,1673"/>
+                <TextEquiv>
+                    <Unicode>prende la mano all'uomo Michelangelo, lo trascina con sé in un furia, in una sorta di danza. Danza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_17" custom="readingOrder {index:17;}">
+                <Coords points="146,1755 469,1790 1582,1771 1582,1681 146,1717"/>
+                <Baseline points="155,1743 226,1741 298,1739 369,1740 441,1739 513,1739 584,1739 656,1739 727,1737 799,1736 871,1735 942,1736 1014,1737 1085,1737 1157,1737 1229,1735 1300,1735 1372,1733 1443,1735 1515,1735 1587,1741"/>
+                <TextEquiv>
+                    <Unicode>cerea di filamenti vegetali, di ali, di fili di ali di farfalle, di piume di un necello mai esistito</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_18" custom="readingOrder {index:18;}">
+                <Coords points="158,1846 1262,1830 1328,1862 1548,1826 1548,1784 1322,1759 1002,1795 158,1762"/>
+                <Baseline points="169,1817 238,1815 307,1816 376,1815 445,1816 514,1815 583,1815 652,1815 721,1814 790,1813 860,1815 929,1814 998,1813 1067,1815 1136,1813 1205,1813 1274,1811 1343,1811 1412,1809 1481,1811 1551,1813"/>
+                <TextEquiv>
+                    <Unicode>Fatto sdlo di siune minutissime, e di canto. Sono i due disegni per la figura di una he surrezioni: i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_19" custom="readingOrder {index:19;}">
+                <Coords points="133,1924 1546,1921 1546,1861 1468,1848 133,1864"/>
+                <Baseline points="143,1891 213,1891 283,1892 354,1891 424,1889 495,1888 565,1887 635,1888 706,1889 776,1889 847,1888 917,1889 987,1891 1058,1891 1128,1889 1199,1889 1269,1886 1339,1885 1410,1887 1480,1887 1551,1891"/>
+                <TextEquiv>
+                    <Unicode>neunni do e 81 del Catalego. Iubito dopo, il segno ridiviene umano, carnale, dntrisa di sndore, e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_20" custom="readingOrder {index:20;}">
+                <Coords points="124,1992 1582,1992 1571,1906 1355,1950 1182,1910 124,1944"/>
+                <Baseline points="133,1975 205,1973 278,1970 351,1967 423,1967 496,1965 569,1965 641,1965 714,1965 787,1964 860,1963 932,1963 1005,1963 1078,1963 1150,1962 1223,1961 1296,1961 1368,1961 1441,1961 1514,1962 1587,1959"/>
+                <TextEquiv>
+                    <Unicode>quasi di pianto. Il pianto e il sudore, raccotti e impastati nella grande mano di un vecchio. (Per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_21" custom="readingOrder {index:21;}">
+                <Coords points="142,2062 435,2099 624,2061 1555,2059 1555,2010 1500,1993 142,2032"/>
+                <Baseline points="151,2045 221,2047 291,2046 362,2043 432,2044 503,2043 573,2043 643,2044 714,2043 784,2045 855,2044 925,2041 995,2041 1066,2040 1136,2041 1207,2041 1277,2038 1347,2039 1418,2037 1488,2036 1559,2039"/>
+                <TextEquiv>
+                    <Unicode>chè moai tutta l'opora di Michel angelo, e quindi anche i suri fogli di disegni, danno l'idea di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:31:36.414+02:00</Created>
+        <LastChange>2024-06-24T09:28:55.682+02:00</LastChange>
+        <TranskribusMetadata docId="1929340" pageId="68037910" pageNr="7" tsid="173606214" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=ZQTDWZUXJUWQTWJDPQMQPYVE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HFHKJWOMUXFNDOIWZZCPTKRB" imageId="54315841"/>
+    </Metadata>
+    <Page imageFilename="Q_2_1957_0008_c3v.jpg" imageWidth="1798" imageHeight="2520" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746854713" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1719164114345_428"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1719164114345_428" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1566,348 1566,400 1630,400 1630,348"/>
+            <TextLine id="line_1719164114630_431" custom="readingOrder {index:0;}">
+                <Coords points="1567,348 1630,350 1629,400 1566,398"/>
+                <Baseline points="1566,393 1629,395"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="182,454 182,2103 1648,2103 1648,454"/>
+            <TextLine id="line_1719164110141_418" custom="readingOrder {index:0;}">
+                <Coords points="197,532 500,530 500,580 197,582"/>
+                <Baseline points="197,577 500,575"/>
+                <TextEquiv>
+                    <Unicode>stile quasi barocco </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;} add {offset:0; length:21;place:above;}">
+                <Coords points="380,511 406,509 432,509 458,508 484,507 510,507 536,507 562,507 588,507 614,507 640,506 666,506 692,507 718,507 718,455 692,455 666,454 640,454 614,455 588,455 562,455 536,455 510,455 484,455 458,456 432,457 406,457 380,459"/>
+                <Baseline points="380,494 406,492 432,492 458,491 484,490 510,490 536,490 562,490 588,490 614,490 640,489 666,489 692,490 718,490"/>
+                <TextEquiv>
+                    <Unicode>della maniera veneta:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719164111988_423" custom="readingOrder {index:2;}">
+                <Coords points="516,530 1582,521 1582,571 516,580"/>
+                <Baseline points="516,575 1582,566"/>
+                <TextEquiv>
+                    <Unicode>di Feti e dello Strozzi. Si direbbe che lo spirito della pittura, della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="190,667 262,663 334,662 406,657 479,657 551,655 623,653 696,653 768,653 840,651 913,651 985,652 1057,652 1129,651 1202,652 1274,653 1346,653 1419,653 1491,653 1563,655 1636,659 1636,607 1563,603 1491,601 1419,601 1346,601 1274,601 1202,600 1129,599 1057,600 985,600 913,599 840,599 768,601 696,601 623,601 551,603 479,605 406,605 334,610 262,611 190,615"/>
+                <Baseline points="190,650 262,646 334,645 406,640 479,640 551,638 623,636 696,636 768,636 840,634 913,634 985,635 1057,635 1129,634 1202,635 1274,636 1346,636 1419,636 1491,636 1563,638 1636,642"/>
+                <TextEquiv>
+                    <Unicode>forma plastica di Monsù Bernardo, avendo sfiorato la rivoluzionaria novità, este-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="198,739 270,738 342,735 414,739 486,734 558,737 630,735 702,731 774,733 846,731 918,731 990,730 1062,729 1134,729 1206,729 1278,729 1350,729 1422,729 1494,725 1566,727 1638,729 1638,677 1566,675 1494,673 1422,677 1350,677 1278,677 1206,677 1134,677 1062,677 990,678 918,679 846,679 774,681 702,679 630,683 558,685 486,682 414,687 342,683 270,686 198,687"/>
+                <Baseline points="198,722 270,721 342,718 414,722 486,717 558,720 630,718 702,714 774,716 846,714 918,714 990,713 1062,712 1134,712 1206,712 1278,712 1350,712 1422,712 1494,708 1566,710 1638,712"/>
+                <TextEquiv>
+                    <Unicode>tica e quindi tecnici, dei due grandi olandesi, trovasse in Italia i motivi per addolcire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="198,815 268,813 339,811 410,811 480,810 551,809 622,809 692,809 763,809 834,807 905,806 975,805 1046,807 1117,804 1187,807 1258,803 1329,805 1399,803 1470,805 1541,804 1612,809 1612,757 1541,752 1470,753 1399,751 1329,753 1258,751 1187,755 1117,752 1046,755 975,753 905,754 834,755 763,757 692,757 622,757 551,757 480,758 410,759 339,759 268,761 198,763"/>
+                <Baseline points="198,798 268,796 339,794 410,794 480,793 551,792 622,792 692,792 763,792 834,790 905,789 975,788 1046,790 1117,787 1187,790 1258,786 1329,788 1399,786 1470,788 1541,787 1612,792"/>
+                <TextEquiv>
+                    <Unicode>e quietare l’urgenza morale di quelli: in rivoluzioni di gusto, di piacevolezza, di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="182,887 255,883 328,885 401,887 474,887 547,886 620,885 693,886 766,885 839,883 912,880 985,879 1058,880 1131,881 1204,882 1277,879 1350,879 1423,881 1496,879 1569,883 1642,885 1642,833 1569,831 1496,827 1423,829 1350,827 1277,827 1204,830 1131,829 1058,828 985,827 912,828 839,831 766,833 693,834 620,833 547,834 474,835 401,835 328,833 255,831 182,835"/>
+                <Baseline points="182,870 255,866 328,868 401,870 474,870 547,869 620,868 693,869 766,868 839,866 912,863 985,862 1058,863 1131,864 1204,865 1277,862 1350,862 1423,864 1496,862 1569,866 1642,868"/>
+                <TextEquiv>
+                    <Unicode>bravura espressiva, formale. Fu destino che egli incontrasse per primi i problemi pla-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;} date {offset:83; length:3;year:0; day:0; month:0;} gap {offset:83; length:0;quantity:3; unit:character; reason:unreadable;}">
+                <Coords points="186,963 258,961 330,960 402,962 474,961 546,961 618,959 690,959 762,961 834,958 907,959 979,956 1051,955 1123,955 1195,955 1267,955 1339,955 1411,953 1483,953 1555,955 1628,955 1628,903 1555,903 1483,901 1411,901 1339,903 1267,903 1195,903 1123,903 1051,903 979,904 907,907 834,906 762,909 690,907 618,907 546,909 474,909 402,910 330,908 258,909 186,911"/>
+                <Baseline points="186,946 258,944 330,943 402,945 474,944 546,944 618,942 690,942 762,944 834,941 907,942 979,939 1051,938 1123,938 1195,938 1267,938 1339,938 1411,936 1483,936 1555,938 1628,938"/>
+                <TextEquiv>
+                    <Unicode>stici che la civiltà, la tendenza pittoricamente decorativa della scuola veneziana    </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="190,1043 261,1041 333,1039 405,1037 477,1035 549,1035 621,1034 693,1035 765,1033 837,1033 909,1033 980,1031 1052,1031 1124,1031 1196,1029 1268,1031 1340,1029 1412,1029 1484,1027 1556,1030 1628,1033 1628,981 1556,978 1484,975 1412,977 1340,977 1268,979 1196,977 1124,979 1052,979 980,979 909,981 837,981 765,981 693,983 621,982 549,983 477,983 405,985 333,987 261,989 190,991"/>
+                <Baseline points="190,1026 261,1024 333,1022 405,1020 477,1018 549,1018 621,1017 693,1018 765,1016 837,1016 909,1016 980,1014 1052,1014 1124,1014 1196,1012 1268,1014 1340,1012 1412,1012 1484,1010 1556,1013 1628,1016"/>
+                <TextEquiv>
+                    <Unicode>inclinavano a superare coi mezzi di una sottile interpretazione del colore. Come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:9;}">
+                <Coords points="192,1120 263,1112 335,1110 406,1106 478,1106 549,1106 621,1107 692,1107 764,1108 835,1106 907,1106 978,1108 1050,1106 1121,1106 1193,1108 1264,1103 1336,1105 1407,1102 1479,1104 1550,1106 1622,1108 1622,1059 1550,1057 1479,1055 1407,1053 1336,1056 1264,1054 1193,1059 1121,1057 1050,1057 978,1059 907,1057 835,1057 764,1059 692,1058 621,1058 549,1057 478,1057 406,1057 335,1061 263,1063 192,1071"/>
+                <Baseline points="192,1104 263,1096 335,1094 406,1090 478,1090 549,1090 621,1091 692,1091 764,1092 835,1090 907,1090 978,1092 1050,1090 1121,1090 1193,1092 1264,1087 1336,1089 1407,1086 1479,1088 1550,1090 1622,1092"/>
+                <TextEquiv>
+                    <Unicode>poi si ripeterà nel lavoro di artisti veneti a lui successivi, la sua tavolozza sembra ecci-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="204,1188 275,1188 346,1187 417,1186 488,1184 559,1184 630,1184 701,1182 772,1182 843,1182 914,1184 985,1181 1056,1182 1127,1182 1198,1182 1269,1182 1340,1182 1411,1178 1482,1178 1553,1175 1624,1174 1624,1125 1553,1126 1482,1129 1411,1129 1340,1133 1269,1133 1198,1133 1127,1133 1056,1133 985,1132 914,1135 843,1133 772,1133 701,1133 630,1135 559,1135 488,1135 417,1137 346,1138 275,1139 204,1139"/>
+                <Baseline points="204,1172 275,1172 346,1171 417,1170 488,1168 559,1168 630,1168 701,1166 772,1166 843,1166 914,1168 985,1165 1056,1166 1127,1166 1198,1166 1269,1166 1340,1166 1411,1162 1482,1162 1553,1159 1624,1158"/>
+                <TextEquiv>
+                    <Unicode>tarsi per un effetto della fantasia naturale; e i suoi colori sembreranno quelli più adatti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="198,1267 269,1264 341,1263 412,1263 484,1263 556,1261 627,1261 699,1259 770,1260 842,1259 914,1259 985,1260 1057,1259 1128,1261 1200,1261 1272,1259 1343,1259 1415,1259 1486,1257 1558,1257 1630,1255 1630,1203 1558,1205 1486,1205 1415,1207 1343,1207 1272,1207 1200,1209 1128,1209 1057,1207 985,1208 914,1207 842,1207 770,1208 699,1207 627,1209 556,1209 484,1211 412,1211 341,1211 269,1212 198,1215"/>
+                <Baseline points="198,1250 269,1247 341,1246 412,1246 484,1246 556,1244 627,1244 699,1242 770,1243 842,1242 914,1242 985,1243 1057,1242 1128,1244 1200,1244 1272,1242 1343,1242 1415,1242 1486,1240 1558,1240 1630,1238"/>
+                <TextEquiv>
+                    <Unicode>alla evocazione di esemplari eccezionali della flora terrestre. Peccato che con una simile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="192,1341 240,1342 288,1343 336,1345 384,1344 432,1341 480,1340 528,1343 576,1340 624,1340 673,1343 721,1341 769,1341 817,1339 865,1339 913,1339 961,1339 1009,1337 1057,1337 1105,1337 1154,1343 1154,1291 1105,1285 1057,1285 1009,1285 961,1287 913,1287 865,1287 817,1287 769,1289 721,1289 673,1291 624,1288 576,1288 528,1291 480,1288 432,1289 384,1292 336,1293 288,1291 240,1290 192,1289"/>
+                <Baseline points="192,1324 240,1325 288,1326 336,1328 384,1327 432,1324 480,1323 528,1326 576,1323 624,1323 673,1326 721,1324 769,1324 817,1322 865,1322 913,1322 961,1322 1009,1320 1057,1320 1105,1320 1154,1326"/>
+                <TextEquiv>
+                    <Unicode>tavolozza egli non si applicasse alla pittura di nature morte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:13;}">
+                <Coords points="202,1417 273,1416 344,1420 415,1417 486,1415 558,1413 629,1415 700,1415 771,1411 842,1413 914,1413 985,1413 1056,1414 1127,1411 1198,1413 1270,1411 1341,1409 1412,1411 1483,1411 1554,1411 1626,1417 1626,1365 1554,1359 1483,1359 1412,1359 1341,1357 1270,1359 1198,1361 1127,1359 1056,1362 985,1361 914,1361 842,1361 771,1359 700,1363 629,1363 558,1361 486,1363 415,1365 344,1368 273,1364 202,1365"/>
+                <Baseline points="202,1400 273,1399 344,1403 415,1400 486,1398 558,1396 629,1398 700,1398 771,1394 842,1396 914,1396 985,1396 1056,1397 1127,1394 1198,1396 1270,1394 1341,1392 1412,1394 1483,1394 1554,1394 1626,1400"/>
+                <TextEquiv>
+                    <Unicode>I soggetti dei suoi quadri, i motivi, gli argomenti, sono all’incirca, quelli praticati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:14;}">
+                <Coords points="190,1489 261,1490 332,1490 404,1489 475,1490 547,1489 618,1487 689,1487 761,1491 832,1487 904,1489 975,1487 1046,1487 1118,1487 1189,1485 1261,1484 1332,1487 1403,1483 1475,1485 1546,1485 1618,1489 1618,1437 1546,1433 1475,1433 1403,1431 1332,1435 1261,1432 1189,1433 1118,1435 1046,1435 975,1435 904,1437 832,1435 761,1439 689,1435 618,1435 547,1437 475,1438 404,1437 332,1438 261,1438 190,1437"/>
+                <Baseline points="190,1472 261,1473 332,1473 404,1472 475,1473 547,1472 618,1470 689,1470 761,1474 832,1470 904,1472 975,1470 1046,1470 1118,1470 1189,1468 1261,1467 1332,1470 1403,1466 1475,1468 1546,1468 1618,1472"/>
+                <TextEquiv>
+                    <Unicode>dalla generalità dei bamboccianti, italiani e stranieri, ma con l’avvertenza che egli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:15;}">
+                <Coords points="192,1569 264,1567 336,1569 408,1567 480,1566 553,1565 625,1565 697,1563 769,1563 841,1563 914,1561 986,1561 1058,1561 1130,1561 1202,1561 1275,1561 1347,1561 1419,1561 1491,1561 1563,1562 1636,1563 1636,1511 1563,1510 1491,1509 1419,1509 1347,1509 1275,1509 1202,1509 1130,1509 1058,1509 986,1509 914,1509 841,1511 769,1511 697,1511 625,1513 553,1513 480,1514 408,1515 336,1517 264,1515 192,1517"/>
+                <Baseline points="192,1552 264,1550 336,1552 408,1550 480,1549 553,1548 625,1548 697,1546 769,1546 841,1546 914,1544 986,1544 1058,1544 1130,1544 1202,1544 1275,1544 1347,1544 1419,1544 1491,1544 1563,1545 1636,1546"/>
+                <TextEquiv>
+                    <Unicode>preferisce collocare la figura dei modelli intera, o quasi intera, dentro le dimensioni del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:16;}">
+                <Coords points="196,1653 268,1645 341,1645 413,1641 486,1640 559,1640 631,1643 704,1641 776,1643 849,1642 922,1641 994,1639 1067,1640 1139,1639 1212,1640 1285,1641 1357,1638 1430,1638 1502,1637 1575,1637 1648,1641 1648,1589 1575,1585 1502,1585 1430,1586 1357,1586 1285,1589 1212,1588 1139,1587 1067,1588 994,1587 922,1589 849,1590 776,1591 704,1589 631,1591 559,1588 486,1588 413,1589 341,1593 268,1593 196,1601"/>
+                <Baseline points="196,1636 268,1628 341,1628 413,1624 486,1623 559,1623 631,1626 704,1624 776,1626 849,1625 922,1624 994,1622 1067,1623 1139,1622 1212,1623 1285,1624 1357,1621 1430,1621 1502,1620 1575,1620 1648,1624"/>
+                <TextEquiv>
+                    <Unicode>quadro, trascurando la parte dei fondi, o il paesaggio, o le quinte più o meno di manie-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:17;}">
+                <Coords points="186,1727 257,1725 329,1719 401,1718 472,1716 544,1715 616,1715 687,1717 759,1717 831,1717 903,1713 974,1713 1046,1711 1118,1711 1189,1713 1261,1713 1333,1713 1404,1711 1476,1713 1548,1711 1620,1713 1620,1661 1548,1659 1476,1661 1404,1659 1333,1661 1261,1661 1189,1661 1118,1659 1046,1659 974,1661 903,1661 831,1665 759,1665 687,1665 616,1663 544,1663 472,1664 401,1666 329,1667 257,1673 186,1675"/>
+                <Baseline points="186,1710 257,1708 329,1702 401,1701 472,1699 544,1698 616,1698 687,1700 759,1700 831,1700 903,1696 974,1696 1046,1694 1118,1694 1189,1696 1261,1696 1333,1696 1404,1694 1476,1696 1548,1694 1620,1696"/>
+                <TextEquiv>
+                    <Unicode>ra in tal genere di composizioni. Quasi che Monsù Bernardo, come poi concepiranno in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:18;}">
+                <Coords points="194,1801 265,1800 337,1797 408,1794 480,1795 551,1795 623,1796 694,1793 766,1793 837,1791 909,1789 980,1789 1052,1789 1123,1788 1195,1789 1266,1789 1338,1789 1409,1787 1481,1787 1552,1786 1624,1791 1624,1739 1552,1734 1481,1735 1409,1735 1338,1737 1266,1737 1195,1737 1123,1736 1052,1737 980,1737 909,1737 837,1739 766,1741 694,1741 623,1744 551,1743 480,1743 408,1742 337,1745 265,1748 194,1749"/>
+                <Baseline points="194,1784 265,1783 337,1780 408,1777 480,1778 551,1778 623,1779 694,1776 766,1776 837,1774 909,1772 980,1772 1052,1772 1123,1771 1195,1772 1266,1772 1338,1772 1409,1770 1481,1770 1552,1769 1624,1774"/>
+                <TextEquiv>
+                    <Unicode>pieno settecento artisti più progrediti nella storia umana dei tempi, riponesse importanza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:19;} del {offset:0; length:10;rend:overstrike;}">
+                <Coords points="190,1876 262,1873 335,1867 408,1866 480,1867 553,1866 626,1866 698,1866 771,1864 844,1865 917,1866 989,1866 1062,1866 1135,1865 1207,1865 1280,1869 1353,1865 1425,1862 1498,1868 1571,1867 1644,1870 1644,1822 1571,1819 1498,1820 1425,1814 1353,1817 1280,1821 1207,1817 1135,1817 1062,1818 989,1818 917,1818 844,1817 771,1816 698,1818 626,1818 553,1818 480,1819 408,1818 335,1819 262,1825 190,1828"/>
+                <Baseline points="190,1860 262,1857 335,1851 408,1850 480,1851 553,1850 626,1850 698,1850 771,1848 844,1849 917,1850 989,1850 1062,1850 1135,1849 1207,1849 1280,1853 1353,1849 1425,1846 1498,1852 1571,1851 1644,1854"/>
+                <TextEquiv>
+                    <Unicode>importanza all’azione, alla rappresentazione dei suoi personaggi. Taluni soggetti di lui, ri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:20;}">
+                <Coords points="186,1942 257,1946 329,1946 401,1948 472,1948 544,1946 616,1948 687,1946 759,1944 831,1940 903,1941 974,1938 1046,1938 1118,1938 1189,1938 1261,1938 1333,1938 1404,1936 1476,1938 1548,1939 1620,1938 1620,1890 1548,1891 1476,1890 1404,1888 1333,1890 1261,1890 1189,1890 1118,1890 1046,1890 974,1890 903,1893 831,1892 759,1896 687,1898 616,1900 544,1898 472,1900 401,1900 329,1898 257,1898 186,1894"/>
+                <Baseline points="186,1926 257,1930 329,1930 401,1932 472,1932 544,1930 616,1932 687,1930 759,1928 831,1924 903,1925 974,1922 1046,1922 1118,1922 1189,1922 1261,1922 1333,1922 1404,1920 1476,1922 1548,1923 1620,1922"/>
+                <TextEquiv>
+                    <Unicode>torneranno, appena mutati, in dipinti del Ceruti bresciano, e naturalmente del Todeschini, e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:21;}">
+                <Coords points="190,2029 248,2027 306,2023 364,2023 422,2021 480,2019 538,2022 596,2019 654,2018 712,2018 771,2017 829,2017 887,2016 945,2018 1003,2014 1061,2014 1119,2013 1177,2015 1235,2016 1293,2021 1352,2023 1352,1971 1293,1969 1235,1964 1177,1963 1119,1961 1061,1962 1003,1962 945,1966 887,1964 829,1965 771,1965 712,1966 654,1966 596,1967 538,1970 480,1967 422,1969 364,1971 306,1971 248,1975 190,1977"/>
+                <Baseline points="190,2012 248,2010 306,2006 364,2006 422,2004 480,2002 538,2005 596,2002 654,2001 712,2001 771,2000 829,2000 887,1999 945,2001 1003,1997 1061,1997 1119,1996 1177,1998 1235,1999 1293,2004 1352,2006"/>
+                <TextEquiv>
+                    <Unicode>in qualche modo anche del medesimo: il napoletano Traversi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:22;}">
+                <Coords points="198,2103 267,2100 337,2099 407,2097 477,2096 547,2095 617,2096 687,2096 757,2097 827,2096 897,2099 966,2097 1036,2097 1106,2096 1176,2099 1246,2095 1316,2094 1386,2095 1456,2094 1526,2094 1596,2095 1596,2043 1526,2042 1456,2042 1386,2043 1316,2042 1246,2043 1176,2047 1106,2044 1036,2045 966,2045 897,2047 827,2044 757,2045 687,2044 617,2044 547,2043 477,2044 407,2045 337,2047 267,2048 198,2051"/>
+                <Baseline points="198,2086 267,2083 337,2082 407,2080 477,2079 547,2078 617,2079 687,2079 757,2080 827,2079 897,2082 966,2080 1036,2080 1106,2079 1176,2082 1246,2078 1316,2077 1386,2078 1456,2077 1526,2077 1596,2078"/>
+                <TextEquiv>
+                    <Unicode>I suoi soggetti, davvero, sembrano quelli che un viandante, anche non pittore, potrebbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>stile quasi barocco &#13;
+della maniera veneta:&#13;
+di Feti e dello Strozzi. Si direbbe che lo spirito della pittura, della&#13;
+forma plastica di Monsù Bernardo, avendo sfiorato la rivoluzionaria novità, este-&#13;
+tica e quindi tecnici, dei due grandi olandesi, trovasse in Italia i motivi per addolcire&#13;
+e quietare l’urgenza morale di quelli: in rivoluzioni di gusto, di piacevolezza, di&#13;
+bravura espressiva, formale. Fu destino che egli incontrasse per primi i problemi pla-&#13;
+stici che la civiltà, la tendenza pittoricamente decorativa della scuola veneziana    &#13;
+inclinavano a superare coi mezzi di una sottile interpretazione del colore. Come&#13;
+poi si ripeterà nel lavoro di artisti veneti a lui successivi, la sua tavolozza sembra ecci-&#13;
+tarsi per un effetto della fantasia naturale; e i suoi colori sembreranno quelli più adatti&#13;
+alla evocazione di esemplari eccezionali della flora terrestre. Peccato che con una simile&#13;
+tavolozza egli non si applicasse alla pittura di nature morte.&#13;
+I soggetti dei suoi quadri, i motivi, gli argomenti, sono all’incirca, quelli praticati&#13;
+dalla generalità dei bamboccianti, italiani e stranieri, ma con l’avvertenza che egli&#13;
+preferisce collocare la figura dei modelli intera, o quasi intera, dentro le dimensioni del&#13;
+quadro, trascurando la parte dei fondi, o il paesaggio, o le quinte più o meno di manie-&#13;
+ra in tal genere di composizioni. Quasi che Monsù Bernardo, come poi concepiranno in&#13;
+pieno settecento artisti più progrediti nella storia umana dei tempi, riponesse importanza&#13;
+importanza all’azione, alla rappresentazione dei suoi personaggi. Taluni soggetti di lui, ri-&#13;
+torneranno, appena mutati, in dipinti del Ceruti bresciano, e naturalmente del Todeschini, e&#13;
+in qualche modo anche del medesimo: il napoletano Traversi.&#13;
+I suoi soggetti, davvero, sembrano quelli che un viandante, anche non pittore, potrebbe</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

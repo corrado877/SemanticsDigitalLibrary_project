@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=27_06_2024_20:27</Creator>
+        <Created>2024-06-27T11:37:59.754+02:00</Created>
+        <LastChange>2024-06-27T20:27:54.419+02:00</LastChange>
+        <TranskribusMetadata docId="3017223" pageId="74109612" pageNr="7" tsid="175133432" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=SIRIKYXGDBBAPFRIXESXODZC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EGKENUYSKKKTTQSKHGTTVHMT" imageId="59955191"/>
+    </Metadata>
+    <Page imageFilename="Q_1976_09_0013_c6r.jpg" imageWidth="1798" imageHeight="2414">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719747357967" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="94,327 94,1994 1460,1994 1460,327"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1269,363 1283,363 1288,358 1298,363 1306,361 1313,363 1318,358 1326,358 1326,304 1318,304 1294,316 1293,314 1289,317 1281,314 1269,316"/>
+                <Baseline points="1278,352 1303,352 1328,352"/>
+                <TextEquiv>
+                    <Unicode>5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="749,447 757,448 776,436 796,435 801,431 821,440 826,447 829,443 841,442 841,393 816,395 807,386 779,388 776,384 764,395 750,393"/>
+                <Baseline points="760,428 788,428 816,428 844,426"/>
+                <TextEquiv>
+                    <Unicode>fietro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="109,485 1294,467 1382,499 1455,470 1457,411 1350,442 1220,403 1155,443 901,403 760,447 569,408 111,420"/>
+                <Baseline points="118,466 185,468 252,468 319,468 386,468 453,466 520,467 587,467 654,466 721,466 789,464 856,464 923,462 990,462 1057,460 1124,460 1191,464 1258,462 1325,462 1392,463 1460,466"/>
+                <TextEquiv>
+                    <Unicode>morosa, di pratica sendinentale passate al plimeo letteranio. Nella suio concuasme finino per alle la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="84,566 1425,564 1425,507 1363,492 84,524"/>
+                <Baseline points="94,546 160,546 227,546 294,546 361,544 428,544 494,540 561,540 628,540 695,540 762,540 828,540 895,540 962,539 1029,537 1096,536 1162,536 1229,536 1296,535 1363,536 1430,536"/>
+                <TextEquiv>
+                    <Unicode>re id ua su dello di prosa e di vita seiceutesca proprie nel genera di quale1 ntoine Cfevatier de Méaé</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="435,606 458,604 477,588 492,586 495,589 502,589 502,559 494,557 487,559 480,556 477,551 465,552 457,559 455,556 436,557"/>
+                <Baseline points="446,580 475,580 504,578"/>
+                <TextEquiv>
+                    <Unicode>cire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="91,631 1323,635 1403,626 1405,581 92,572"/>
+                <Baseline points="100,614 165,615 231,616 296,616 362,616 427,614 493,616 558,616 624,614 689,614 755,614 820,614 886,614 951,613 1017,612 1082,608 1148,607 1213,610 1279,608 1344,608 1410,610"/>
+                <TextEquiv>
+                    <Unicode>che nouina anche Unga retti, "l'anture d Oisao urg e di Louvesatims chiavamen ta di dipin tenzz deal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="99,700 393,737 1335,695 1335,661 1202,631 1093,675 945,640 754,665 683,626 99,670"/>
+                <Baseline points="108,690 169,690 231,690 292,692 354,690 415,688 477,687 538,687 600,689 661,690 723,690 784,690 846,689 907,686 969,688 1030,688 1092,688 1153,690 1215,690 1276,688 1338,690"/>
+                <TextEquiv>
+                    <Unicode>suodi di prensira e di rittura pastaliaia. Le confeame della ui'a attritazione non venneroman care.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="91,802 1402,799 1368,720 218,744 91,705"/>
+                <Baseline points="100,768 165,772 230,772 295,772 361,771 426,768 491,768 557,768 622,770 687,769 753,766 818,768 883,768 948,766 1014,766 1079,768 1144,768 1210,768 1275,766 1340,769 1406,772"/>
+                <TextEquiv>
+                    <Unicode>Rmane con u e la lettera in tore deure fuccinte invase della calagrafia anciusa, perfine ngroveglieta e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="196,826 225,824 242,831 255,824 269,828 306,826 306,784 277,779 260,787 250,777 230,786 222,777 210,782 196,779"/>
+                <Baseline points="206,818 232,818 258,819 284,820 310,820"/>
+                <TextEquiv>
+                    <Unicode>inquieta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="111,871 230,883 395,849 460,886 502,858 536,875 589,851 715,866 717,801 504,789 307,828 111,824"/>
+                <Baseline points="120,848 150,848 180,850 210,848 240,846 270,846 300,846 330,844 360,844 390,844 420,844 450,846 480,846 510,846 540,844 570,844 600,842 630,844 660,844 690,846 720,844"/>
+                <TextEquiv>
+                    <Unicode>ripetro surosa dell'avilo Giuope agaritti:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="913,1989 948,1989 967,2001 995,1989 1059,1996 1105,1984 1165,2003 1167,1939 1140,1920 1100,1939 1084,1931 1066,1941 1031,1939 1019,1926 992,1939 948,1927 938,1934 915,1919"/>
+                <Baseline points="922,1982 949,1982 977,1981 1004,1979 1032,1978 1059,1977 1087,1976 1114,1976 1142,1978 1170,1976"/>
+                <TextEquiv>
+                    <Unicode>29.I.1926</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

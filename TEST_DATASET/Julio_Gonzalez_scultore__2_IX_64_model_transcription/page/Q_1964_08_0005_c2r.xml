@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=30_06_2024_10:22</Creator>
+        <Created>2024-06-30T10:16:00.492+02:00</Created>
+        <LastChange>2024-06-30T10:22:34.868+02:00</LastChange>
+        <TranskribusMetadata docId="3069343" pageId="74317232" pageNr="4" tsid="175573630" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=DKSQUZIUPFNLVBWRWXFXYFBP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VFHZOZMXQUUDPGLMKBFMFZRP" imageId="60154532"/>
+    </Metadata>
+    <Page imageFilename="Q_1964_08_0005_c2r.jpg" imageWidth="1798" imageHeight="2511">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719747345013" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="147,316 147,2048 1617,2048 1617,316"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="163,371 173,371 186,376 194,374 197,378 215,376 212,289 194,289 190,292 186,290 181,294 159,292"/>
+                <Baseline points="171,351 219,353"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="172,515 1605,530 1605,457 1556,442 1490,478 172,455"/>
+                <Baseline points="181,505 252,507 323,505 395,505 466,504 538,505 609,505 680,505 752,505 823,503 895,505 966,507 1037,509 1109,507 1180,509 1252,508 1323,507 1394,511 1466,509 1537,509 1609,513"/>
+                <TextEquiv>
+                    <Unicode>cui gli scambi di spinioni e di gusto furono abbastanza sesibili, è Iuan Gris. In sostenza, e a parte l'incontro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="161,590 1594,615 1592,557 1492,544 161,542"/>
+                <Baseline points="171,577 242,577 313,577 384,579 456,577 527,577 598,577 670,575 741,577 812,578 884,579 955,581 1026,582 1097,585 1169,583 1240,581 1311,583 1383,583 1454,583 1525,587 1597,593"/>
+                <TextEquiv>
+                    <Unicode>con Rranceusi e il ritovamento del catedano Manolo, le suue fuquentazioni fumo nella sfura dei pittori. I quali-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="146,668 1450,672 1498,707 1614,687 1613,630 144,615"/>
+                <Baseline points="157,657 230,656 303,655 376,655 449,653 522,655 595,655 668,653 741,655 814,657 887,657 960,657 1033,659 1106,659 1179,657 1252,659 1325,657 1398,657 1471,659 1544,661 1617,665"/>
+                <TextEquiv>
+                    <Unicode>in quegli anni medesimi, erano i coincolti se non i proovertori del maimento artistico cubista. Se dobbiame giudicare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="155,741 1611,774 1598,699 155,696"/>
+                <Baseline points="165,731 237,729 309,729 382,729 454,729 527,731 599,731 671,731 744,733 816,735 889,735 961,737 1033,735 1106,733 1178,733 1251,737 1323,735 1395,735 1468,735 1540,737 1613,741"/>
+                <TextEquiv>
+                    <Unicode>dalla scarsa dommentazione pavventaci di Gonzatur, si è perplessi nel concludere, anche solo null'immaginare quali</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="159,846 1609,836 1585,763 159,767"/>
+                <Baseline points="169,809 241,805 313,807 385,805 457,806 530,807 602,809 674,807 746,809 818,811 891,809 963,810 1035,809 1107,809 1179,809 1252,811 1324,809 1396,811 1468,812 1540,813 1613,815"/>
+                <TextEquiv>
+                    <Unicode>fonoso, in quel tempo, lo sue reazioni erelasioni col movimento dei cubisti. E' solo dopo moltlianni, cioè fra il '25 e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="150,906 1596,911 1596,858 1527,835 1468,867 1014,825 694,860 150,836"/>
+                <Baseline points="159,883 231,881 303,881 375,883 447,883 519,883 591,883 663,885 735,883 807,886 880,887 952,886 1024,887 1096,889 1168,889 1240,889 1312,888 1384,887 1456,887 1528,890 1601,895"/>
+                <TextEquiv>
+                    <Unicode>il '3o, che la sua menta dimostre un ripensamento, un sigroso e personale affronto, verpo la forme nuove scatenate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="142,973 1598,999 1596,913 142,919"/>
+                <Baseline points="153,957 225,956 297,957 370,959 442,961 515,959 587,957 659,959 732,957 804,960 877,959 949,960 1021,963 1094,961 1166,961 1239,961 1311,962 1383,961 1456,961 1528,963 1601,969"/>
+                <TextEquiv>
+                    <Unicode>dall'eresia eu bista. E questo avverrà quande il Gorzalez si iscoprirì la mativa propensiono, la natura originate"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="137,1090 331,1046 811,1050 811,997 621,1015 504,992 462,1015 429,992 382,1010 320,992 300,1010 181,1003 137,970"/>
+                <Baseline points="147,1035 180,1033 213,1031 246,1031 280,1031 313,1030 346,1030 380,1031 413,1033 446,1035 480,1035 513,1035 546,1035 579,1035 613,1035 646,1035 679,1035 713,1033 746,1033 779,1035 813,1039"/>
+                <TextEquiv>
+                    <Unicode>di artista della scuttura. Edirane in quali mordi_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="161,1130 1603,1145 1585,1072 351,1087 161,1054"/>
+                <Baseline points="171,1107 242,1108 314,1109 386,1109 457,1111 529,1111 601,1113 672,1109 744,1109 816,1110 888,1111 959,1113 1031,1113 1103,1111 1174,1114 1246,1113 1318,1113 1389,1113 1461,1115 1533,1117 1605,1121"/>
+                <TextEquiv>
+                    <Unicode>di questo passo, egli giunse prr una di quelle "occasioni "misteriose che il destino porta nella vita degli uomini. Era</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="146,1218 1578,1209 1578,1158 1514,1152 515,1165 469,1129 146,1163"/>
+                <Baseline points="157,1187 228,1188 299,1187 370,1189 442,1187 513,1185 584,1185 656,1185 727,1187 798,1187 870,1189 941,1187 1012,1188 1083,1187 1155,1187 1226,1187 1297,1189 1369,1189 1440,1189 1511,1191 1583,1197"/>
+                <TextEquiv>
+                    <Unicode>il tempo di guerra. E il nostro catalano immigrato, per necesnità di lavro, si trovò impiegato, come artigiano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="142,1271 1592,1286 1592,1242 1529,1227 142,1214"/>
+                <Baseline points="153,1263 225,1263 297,1265 369,1263 441,1261 514,1259 586,1260 658,1261 730,1261 802,1262 875,1263 947,1263 1019,1261 1091,1264 1163,1263 1236,1263 1308,1263 1380,1265 1452,1265 1524,1266 1597,1273"/>
+                <TextEquiv>
+                    <Unicode>del ferro nella fficine Renault. Qui lavorò nel '16 e nel '17, occupato in un reparto di saldatura autogena.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="153,1361 1576,1355 1576,1309 1499,1304 153,1291"/>
+                <Baseline points="163,1337 233,1336 304,1337 375,1337 446,1337 517,1335 588,1337 659,1339 730,1337 801,1338 872,1343 942,1341 1013,1339 1084,1338 1155,1339 1226,1340 1297,1339 1368,1339 1439,1341 1510,1341 1581,1345"/>
+                <TextEquiv>
+                    <Unicode>Colmi che, giovane, nella bottega pateona, aveva mamggiato gli strumenti che piesano le sottili lamiere, le lastro di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="153,1430 1605,1443 1605,1386 1479,1368 415,1393 153,1357"/>
+                <Baseline points="163,1413 235,1416 307,1413 379,1415 452,1413 524,1413 596,1413 669,1413 741,1411 813,1414 886,1417 958,1419 1030,1417 1102,1417 1175,1417 1247,1415 1319,1417 1392,1419 1464,1419 1536,1423 1609,1423"/>
+                <TextEquiv>
+                    <Unicode>rrure e d'argento, e ne cavano oggetti di aste domestica, nella grande falberica meccanica parigina, dvette spprendere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="148,1519 1598,1510 1596,1457 1481,1452 146,1465"/>
+                <Baseline points="157,1487 229,1487 301,1487 373,1489 446,1488 518,1489 590,1490 663,1489 735,1488 807,1489 880,1493 952,1493 1024,1493 1096,1491 1169,1491 1241,1491 1313,1492 1386,1493 1458,1493 1530,1495 1603,1499"/>
+                <TextEquiv>
+                    <Unicode>il mestine di piegare, di forgiare e di unire insieme le parti e i membri di varte strutture di lamiera. Lamiere pe-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="155,1585 1591,1596 1591,1514 1211,1549 155,1516"/>
+                <Baseline points="165,1565 236,1566 308,1563 379,1563 451,1564 522,1567 594,1567 665,1567 737,1565 808,1566 880,1567 951,1567 1023,1567 1094,1567 1166,1565 1237,1567 1309,1567 1380,1567 1452,1567 1523,1570 1595,1575"/>
+                <TextEquiv>
+                    <Unicode>santi, e che divenero per lai usa materia famigliare, amica: quasi sostanza della ma mani, del sun corpo medesimo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="157,1660 1485,1658 1607,1691 1571,1591 1244,1625 157,1598"/>
+                <Baseline points="167,1641 239,1639 311,1639 383,1639 455,1638 527,1641 599,1643 671,1643 743,1641 815,1642 888,1641 960,1644 1032,1645 1104,1645 1176,1644 1248,1645 1320,1646 1392,1645 1464,1645 1536,1648 1609,1653"/>
+                <TextEquiv>
+                    <Unicode>E del suo pensiero quotidiano. La saldatura con la fiamena ossidrica fu la grande scoperta, che dovera ridare vita alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="157,1737 1602,1739 1602,1687 1476,1676 157,1671"/>
+                <Baseline points="167,1715 239,1717 311,1717 383,1715 455,1715 527,1717 599,1716 671,1717 743,1717 815,1716 887,1717 959,1720 1031,1719 1103,1719 1175,1720 1247,1721 1319,1721 1391,1721 1463,1721 1535,1722 1607,1725"/>
+                <TextEquiv>
+                    <Unicode>ma fantasia di costruttore, di plasticatore con mezzi ossoltamento, per allora inediti. Non ci è possibile, allo stato delle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="150,1815 1572,1812 1572,1757 150,1762"/>
+                <Baseline points="159,1795 229,1793 300,1791 371,1791 442,1790 513,1791 583,1793 654,1793 725,1791 796,1791 867,1793 937,1795 1008,1794 1079,1793 1150,1795 1221,1796 1291,1795 1362,1797 1433,1798 1504,1797 1575,1801"/>
+                <TextEquiv>
+                    <Unicode>noste cos oscenze attuali, indorre quali potessuro esere i rapportli, iu coduto piano di ricerca e d'impiege della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="146,1879 1600,1910 1598,1824 144,1837"/>
+                <Baseline points="157,1871 229,1869 301,1867 374,1867 446,1866 519,1867 591,1867 663,1869 736,1867 808,1869 881,1871 953,1874 1025,1871 1098,1869 1170,1871 1243,1871 1315,1871 1387,1873 1460,1874 1532,1873 1605,1881"/>
+                <TextEquiv>
+                    <Unicode>materia, futemente nodrma, sosialmente modena, che è il ferro, con scultori della comento cubista, che furonoterdli.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="155,1981 1605,1974 1605,1919 1468,1901 678,1923 438,1883 155,1923"/>
+                <Baseline points="165,1953 237,1948 309,1945 381,1945 453,1946 526,1945 598,1944 670,1943 742,1941 814,1941 887,1941 959,1944 1031,1943 1103,1943 1175,1944 1248,1945 1320,1947 1392,1949 1464,1951 1536,1951 1609,1957"/>
+                <TextEquiv>
+                    <Unicode>penzto Ladhine. Intanto, già dal 'go8, era avvenuta una rottura can Picasso che, solo anni dopo fu appianato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="161,2034 1598,2065 1596,1996 159,1992"/>
+                <Baseline points="169,2025 240,2020 312,2019 384,2019 455,2021 527,2023 599,2022 670,2021 742,2021 814,2022 886,2025 957,2026 1029,2026 1101,2025 1172,2025 1244,2025 1316,2025 1387,2025 1459,2027 1531,2027 1603,2031"/>
+                <TextEquiv>
+                    <Unicode>cirà nel 1921. Certo, i temperamenti erano diversi, per quanto affini nella aspirazione ad una inripendenza dell'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

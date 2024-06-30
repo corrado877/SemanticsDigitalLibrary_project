@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=29_06_2024_13:33</Creator>
+        <Created>2024-04-09T18:31:35.815+02:00</Created>
+        <LastChange>2024-06-29T13:33:50.316+02:00</LastChange>
+        <TranskribusMetadata docId="3059563" pageId="74284451" pageNr="3" tsid="175460290" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=ELFAMZRLNOJMNNIRHRZRDHKD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WBUBYKBHTYMJLBYJTJUQJBXH" imageId="54315829"/>
+    </Metadata>
+    <Page imageFilename="Q_2_1957_0004_c1v.jpg" imageWidth="1798" imageHeight="2520" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746881864" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="178,430 178,2092 1636,2092 1636,430"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="203,489 237,494 283,476 306,491 328,476 373,480 424,467 424,426 391,426 362,411 342,413 321,433 299,438 270,427 257,437 221,417 203,420"/>
+                <Baseline points="212,464 239,462 266,464 293,463 320,463 347,463 374,462 401,463 428,466"/>
+                <TextEquiv>
+                    <Unicode>nticipatore:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="187,598 246,596 259,585 297,603 322,587 369,614 397,592 449,590 455,491 395,509 373,498 319,525 288,511 259,527 237,514 190,522"/>
+                <Baseline points="198,570 223,568 249,566 275,562 301,562 327,561 352,559 378,557 404,556 430,556 456,556"/>
+                <TextEquiv>
+                    <Unicode>Domenico Fetti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="178,661 1429,656 1429,603 1322,585 178,590"/>
+                <Baseline points="188,638 250,638 312,638 374,638 437,639 499,643 561,638 624,638 686,636 748,636 811,636 873,636 935,638 997,636 1060,638 1122,636 1184,636 1247,638 1309,639 1371,638 1434,640"/>
+                <TextEquiv>
+                    <Unicode>Nato a Roma 1588, muove a Venezia 162l4. Lavora a Mantora, dal 1613</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;} hi {offset:0; length:12;rend:underline;}">
+                <Coords points="179,763 371,743 438,773 529,732 1052,752 1052,681 907,657 659,699 607,670 462,690 418,661 326,699 179,663"/>
+                <Baseline points="190,726 233,717 276,718 319,718 363,718 406,718 449,720 493,720 536,718 579,720 623,718 666,716 709,716 752,716 796,716 839,716 882,718 926,719 969,718 1012,718 1056,722"/>
+                <TextEquiv>
+                    <Unicode>Giovanni Liso (fine 'yo0o; morto1629 a Venezia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="172,815 205,804 344,817 379,804 409,817 442,806 442,764 389,746 335,772 252,744 187,777 172,772"/>
+                <Baseline points="182,796 208,794 234,794 260,795 286,795 313,794 339,794 365,794 391,796 417,796 444,798"/>
+                <TextEquiv>
+                    <Unicode>e Continuatore:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;} hi {offset:12; length:14;rend:underline;}">
+                <Coords points="176,893 1098,900 1074,813 389,840 272,806 176,842"/>
+                <Baseline points="186,870 231,867 277,868 323,864 368,864 414,864 460,862 505,864 551,864 597,864 643,864 688,866 734,866 780,864 825,866 871,868 917,866 962,868 1008,868 1054,870 1100,872"/>
+                <TextEquiv>
+                    <Unicode>il frinbano Antorno Carur, rato 1837, morto 1892.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="245,984 1520,976 1502,864 1273,918 1210,884 245,915"/>
+                <Baseline points="254,942 313,942 372,942 431,942 490,942 549,946 608,946 667,946 726,945 785,948 845,944 904,945 963,944 1022,944 1081,945 1140,944 1199,944 1258,943 1317,943 1376,940 1522,943"/>
+                <TextEquiv>
+                    <Unicode>e il Todeschiui (d’origine tedesca, quindi un poco affine al Heil)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;} hi {offset:14; length:12;rend:underline;}">
+                <Coords points="179,1125 1612,1108 1612,1067 1371,1032 802,1076 737,1040 179,1056"/>
+                <Baseline points="190,1100 261,1098 332,1097 403,1098 475,1096 546,1096 617,1102 689,1097 760,1096 831,1096 903,1096 974,1094 1045,1096 1116,1092 1188,1096 1259,1095 1330,1096 1402,1097 1473,1098 1544,1098 1616,1100"/>
+                <TextEquiv>
+                    <Unicode>e a parte: il cuso amorosi, nato 1660, morto dopo il 1236; opersente dopo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="187,1212 201,1210 212,1221 232,1215 255,1230 268,1224 310,1232 328,1219 357,1226 359,1139 304,1123 255,1150 226,1137 205,1145 188,1139"/>
+                <Baseline points="196,1176 223,1174 251,1174 279,1174 306,1173 334,1170 362,1172"/>
+                <TextEquiv>
+                    <Unicode>il 1700</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="168,1337 500,1377 674,1335 1583,1348 1583,1291 1335,1270 1221,1300 949,1266 782,1308 674,1264 533,1302 168,1284"/>
+                <Baseline points="178,1330 248,1325 319,1325 389,1326 460,1326 530,1325 601,1326 671,1326 742,1325 812,1324 883,1320 953,1320 1024,1320 1094,1321 1165,1322 1235,1320 1306,1320 1376,1322 1447,1324 1517,1325 1588,1326"/>
+                <TextEquiv>
+                    <Unicode>Dunque: un primo momento, anzi un periodo di studio, di apprendistato, di pratica, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="185,1429 1590,1424 1549,1342 185,1358"/>
+                <Baseline points="194,1398 264,1396 334,1400 404,1400 474,1401 544,1397 614,1396 684,1396 754,1393 824,1390 894,1390 964,1393 1034,1392 1104,1392 1174,1396 1244,1394 1314,1396 1384,1395 1454,1398 1524,1396 1594,1398"/>
+                <TextEquiv>
+                    <Unicode>Vlanda, anzi: nello studio, nell'atelier di Rembrandt ( “transfuga dallo studio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="179,1500 1340,1487 1576,1523 1576,1453 1463,1415 1092,1453 179,1431"/>
+                <Baseline points="190,1472 259,1472 329,1470 398,1472 468,1475 537,1474 607,1476 676,1473 746,1474 815,1471 885,1474 954,1472 1024,1472 1093,1470 1163,1472 1232,1473 1302,1472 1371,1471 1441,1477 1510,1476 1580,1480"/>
+                <TextEquiv>
+                    <Unicode>del Rembrandt"7.) ), dal'44s al ’51 è in giro per l'Europa: dove? forse in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="194,1592 1614,1569 1601,1525 1427,1512 375,1531 194,1487"/>
+                <Baseline points="204,1552 274,1550 345,1551 415,1550 486,1550 557,1552 627,1552 698,1550 768,1550 839,1550 910,1550 980,1548 1051,1548 1121,1549 1192,1550 1263,1548 1333,1551 1404,1548 1474,1551 1545,1552 1616,1552"/>
+                <TextEquiv>
+                    <Unicode>Fravia, o ancora nella "patria "germanica; per quanto, nel suo stile, è qualcva che non e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="178,1666 1612,1648 1612,1585 1509,1578 178,1605"/>
+                <Baseline points="188,1628 259,1627 330,1628 402,1630 473,1627 545,1630 616,1628 687,1629 759,1626 830,1623 902,1622 973,1622 1044,1622 1116,1622 1187,1622 1259,1624 1330,1624 1401,1623 1473,1622 1544,1622 1616,1628"/>
+                <TextEquiv>
+                    <Unicode>solamente germanico, ma di una particolare temperie che imnisce ad un carattere di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="174,1730 1616,1726 1616,1663 174,1661"/>
+                <Baseline points="184,1700 255,1702 327,1704 399,1700 471,1702 543,1702 614,1702 686,1700 758,1700 830,1698 902,1698 973,1696 1045,1696 1117,1696 1189,1697 1261,1698 1332,1697 1404,1699 1476,1698 1548,1698 1620,1696"/>
+                <TextEquiv>
+                    <Unicode>rigorosa verità germanica, uno spirito "romentico". lnare, dell'arte più propriamente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;} hi {offset:25; length:57;rend:underline;}">
+                <Coords points="187,1791 1599,1800 1599,1735 1559,1730 187,1741"/>
+                <Baseline points="196,1778 266,1778 336,1778 407,1780 477,1779 548,1779 618,1780 688,1779 759,1778 829,1774 900,1775 970,1772 1040,1772 1111,1773 1181,1772 1252,1774 1322,1774 1392,1774 1463,1774 1533,1774 1604,1782"/>
+                <TextEquiv>
+                    <Unicode>nordica, attlantica, ecc. Ma un passaggio attraverso la Francia può essere accaduto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="179,1884 1632,1880 1630,1820 1581,1809 178,1820"/>
+                <Baseline points="188,1860 260,1856 332,1852 405,1853 477,1850 550,1848 622,1847 694,1846 767,1851 839,1851 912,1848 984,1848 1056,1850 1129,1849 1201,1852 1274,1854 1346,1854 1418,1856 1491,1857 1563,1857 1636,1862"/>
+                <TextEquiv>
+                    <Unicode>la Francia dei pittori della realtà, e delle sccne d'interno, dei gruppi famigline</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="176,1963 1623,1951 1607,1873 1393,1909 1195,1869 916,1911 176,1884"/>
+                <Baseline points="186,1928 258,1928 330,1930 402,1930 474,1931 546,1928 618,1927 690,1926 762,1926 834,1924 907,1926 979,1928 1051,1924 1123,1924 1195,1927 1267,1926 1339,1928 1411,1928 1483,1928 1555,1927 1628,1928"/>
+                <TextEquiv>
+                    <Unicode>degli operai in riposo, delle compagnie di ragazzi, dei containi che sono ritor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;} gap {offset:73; length:0;quantity:12; reason:illegible;}">
+                <Coords points="190,2018 1623,2027 1623,1951 1505,1947 190,1991"/>
+                <Baseline points="200,2010 271,2005 342,2002 414,2000 485,2002 557,2004 628,2003 699,2000 771,2002 842,2000 914,2002 985,2001 1056,1999 1128,2002 1199,2004 1271,2002 1342,2003 1413,2006 1485,2008 1556,2008 1628,2008"/>
+                <TextEquiv>
+                    <Unicode>nati dal lavoro dei campi, dei bonari giuicatori di carte, dei gruppi di fanciulline</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719157557604_147" custom="readingOrder {index:19;}">
+                <Coords points="163,2094 288,2105 344,2094 433,2150 467,2154 469,2056 446,2045 417,2067 380,2047 163,2049"/>
+                <Baseline points="173,2093 472,2084"/>
+                <TextEquiv>
+                    <Unicode>nell'abito di perta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719157560647_152" custom="readingOrder {index:20;}">
+                <Coords points="254,2050 371,2045 418,2068 444,2045 484,2065 511,2045 565,2081 647,2068 786,2083 786,2020 759,2016 415,2023 364,2001 331,2020 254,2018"/>
+                <Baseline points="263,2045 791,2041"/>
+                <TextEquiv>
+                    <Unicode>dei vecchi Innsicent  iegoa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719157564402_157" custom="readingOrder {index:21;}">
+                <Coords points="482,2096 1585,2099 1585,2049 1349,2025 482,2058"/>
+                <Baseline points="492,2086 1590,2084"/>
+                <TextEquiv>
+                    <Unicode>i fratelli Leslain, di Locon in Picardia. I tre Le hain nascono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

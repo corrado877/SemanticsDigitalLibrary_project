@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-06-29T13:46:33.173+02:00</Created>
+        <LastChange>2024-06-29T15:06:53.066+02:00</LastChange>
+        <TranskribusMetadata docId="3059783" pageId="74284945" pageNr="3" tsid="175468932" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=EURCNDWPDIXSDYUUEQBUGLDU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WBSTIDQJJJDZTALIQUDMSXJX" imageId="60123835"/>
+    </Metadata>
+    <Page imageFilename="Q_1962_01_0004_c1v.jpg" imageWidth="1798" imageHeight="2515">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719747130480" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="164,283 177,2076 1666,2070 1653,277"/>
+            <TextLine id="line_1719665856368_500" custom="readingOrder {index:0;}">
+                <Coords points="1547,288 1596,285 1599,335 1550,338"/>
+                <Baseline points="1550,333 1599,330"/>
+                <TextEquiv>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="197,462 224,464 251,466 279,467 306,469 333,471 361,472 361,421 333,420 306,418 279,416 251,415 224,413 197,411"/>
+                <Baseline points="197,445 224,447 251,449 279,450 306,452 333,454 361,455"/>
+                <TextEquiv>
+                    <Unicode>provengono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665949929_509" custom="readingOrder {index:2;}">
+                <Coords points="186,449 338,449 338,499 186,499"/>
+                <Baseline points="186,494 338,494"/>
+                <TextEquiv>
+                    <Unicode>provenienti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="177,552 249,551 321,549 393,548 465,548 538,544 610,549 682,546 754,544 826,544 899,546 971,545 1043,544 1115,542 1187,542 1260,540 1332,537 1404,536 1476,538 1548,540 1621,542 1621,509 1548,507 1476,505 1404,503 1332,504 1260,507 1187,509 1115,509 1043,511 971,512 899,513 826,511 754,511 682,513 610,516 538,511 465,515 393,515 321,516 249,518 177,519"/>
+                <Baseline points="177,541 249,540 321,538 393,537 465,537 538,533 610,538 682,535 754,533 826,533 899,535 971,534 1043,533 1115,531 1187,531 1260,529 1332,526 1404,525 1476,527 1548,529 1621,531"/>
+                <TextEquiv>
+                    <Unicode>dalla stessa raccolta degli Uffizi, e da quella camerata presso la Casa Buonarroti in Fi_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665543300_361" custom="readingOrder {index:4;}">
+                <Coords points="187,597 257,597 328,596 399,595 470,595 541,596 611,595 682,593 747,593 747,623 682,623 611,625 541,626 470,625 399,625 328,626 257,627 187,627"/>
+                <Baseline points="187,617 257,617 328,616 399,615 470,615 541,616 611,615 682,613 747,613"/>
+                <TextEquiv>
+                    <Unicode>renze. E dunque qui riunito quanto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:5;}">
+                <Coords points="747,589 773,591 799,591 825,591 851,591 851,561 825,561 799,561 773,561 747,559"/>
+                <Baseline points="747,579 773,581 799,581 825,581 851,581"/>
+                <TextEquiv>
+                    <Unicode>in fatto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665543299_360" custom="readingOrder {index:6;}">
+                <Coords points="747,593 753,593 824,591 895,591 965,590 1036,589 1107,587 1178,583 1249,585 1390,585 1461,584 1532,586 1603,587 1603,617 1532,616 1461,614 1390,615 1249,615 1178,613 1107,617 1036,619 965,620 895,621 824,621 753,623 747,623"/>
+                <Baseline points="747,613 753,613 824,611 895,611 965,610 1036,609 1107,607 1178,603 1249,605 1319,605 1390,605 1461,604 1532,606 1603,607"/>
+                <TextEquiv>
+                    <Unicode>di disegni di Michelangolo, possiede ancora l'Italia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="189,708 261,706 333,704 406,704 478,704 551,704 623,702 695,702 768,702 840,701 913,698 985,699 1057,698 1130,696 1202,697 1275,696 1347,696 1419,696 1492,698 1564,699 1637,706 1637,655 1564,648 1492,647 1419,645 1347,645 1275,645 1202,646 1130,645 1057,647 985,648 913,647 840,650 768,651 695,651 623,651 551,653 478,653 406,653 333,653 261,655 189,657"/>
+                <Baseline points="189,691 261,689 333,687 406,687 478,687 551,687 623,685 695,685 768,685 840,684 913,681 985,682 1057,681 1130,679 1202,680 1275,679 1347,679 1419,679 1492,681 1564,682 1637,689"/>
+                <TextEquiv>
+                    <Unicode>Pure mancando, ad esempio, la serie delle crocifissioni del Michelangelo vecchio, che detengono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665589682_384" custom="readingOrder {index:8;}">
+                <Coords points="203,735 274,731 345,729 416,728 487,729 559,727 691,727 691,778 559,778 487,780 416,779 345,780 274,782 203,786"/>
+                <Baseline points="203,769 274,765 345,763 416,762 487,763 559,761 630,761 691,761"/>
+                <TextEquiv>
+                    <Unicode>Londra, Oxford, Windsor, da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665577552_372" custom="readingOrder {index:9;}">
+                <Coords points="690,686 786,685 786,735 690,736"/>
+                <Baseline points="690,731 786,730"/>
+                <TextEquiv>
+                    <Unicode>figurare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665602947_389" custom="readingOrder {index:10;}">
+                <Coords points="691,727 701,727 772,726 843,727 855,727 855,778 843,778 772,777 701,778 691,778"/>
+                <Baseline points="691,761 701,761 772,760 843,761 855,761"/>
+                <TextEquiv>
+                    <Unicode>stare come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665581655_377" custom="readingOrder {index:11;}">
+                <Coords points="856,687 890,687 890,737 856,737"/>
+                <Baseline points="856,732 890,732"/>
+                <TextEquiv>
+                    <Unicode>gli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665602946_388" custom="readingOrder {index:12;}">
+                <Coords points="855,727 915,727 986,726 1057,727 1199,727 1271,725 1342,724 1413,723 1484,724 1555,728 1636,729 1636,780 1555,779 1484,775 1413,774 1342,775 1271,776 1199,778 1057,778 986,777 915,778 855,778"/>
+                <Baseline points="855,761 915,761 986,760 1057,761 1128,761 1199,761 1271,759 1342,758 1413,757 1484,758 1555,762 1627,767"/>
+                <TextEquiv>
+                    <Unicode>esemplari più alti del sentimento tragico cristiano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:13;}">
+                <Coords points="191,860 262,858 333,858 404,858 475,858 546,858 617,858 688,858 759,856 830,856 901,854 972,854 1043,852 1114,851 1185,852 1256,852 1327,852 1398,852 1469,851 1540,850 1611,852 1611,801 1540,799 1469,800 1398,801 1327,801 1256,801 1185,801 1114,800 1043,801 972,803 901,803 830,805 759,805 688,807 617,807 546,807 475,807 404,807 333,807 262,807 191,809"/>
+                <Baseline points="191,843 262,841 333,841 404,841 475,841 546,841 617,841 688,841 759,839 830,839 901,837 972,837 1043,835 1114,834 1185,835 1256,835 1327,835 1398,835 1469,834 1540,833 1611,835"/>
+                <TextEquiv>
+                    <Unicode>che possono contrapporsi al senso tragico dello spirito greco, la mostra è comunque tale da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:14;}">
+                <Coords points="185,940 257,939 329,935 401,934 473,934 545,934 617,933 689,932 761,932 833,930 906,930 978,929 1050,930 1122,926 1194,928 1266,926 1338,928 1410,926 1482,928 1554,928 1627,932 1627,881 1554,877 1482,877 1410,875 1338,877 1266,875 1194,877 1122,875 1050,879 978,878 906,879 833,879 761,881 689,881 617,882 545,883 473,883 401,883 329,884 257,888 185,889"/>
+                <Baseline points="185,923 257,922 329,918 401,917 473,917 545,917 617,916 689,915 761,915 833,913 906,913 978,912 1050,913 1122,909 1194,911 1266,909 1338,911 1410,909 1482,911 1554,911 1627,915"/>
+                <TextEquiv>
+                    <Unicode>incutere nel visitatore, fin dall'inizio, quella muta, esterefatta ammirazione, che solo Michela-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="201,1021 270,1015 339,1011 408,1009 477,1007 547,1007 616,1006 685,1005 754,1005 823,1007 893,1007 962,1007 1031,1006 1100,1007 1169,1003 1239,1003 1308,1001 1377,1001 1446,999 1515,999 1585,1003 1585,955 1515,951 1446,951 1377,953 1308,953 1239,955 1169,955 1100,959 1031,958 962,959 893,959 823,959 754,957 685,957 616,958 547,959 477,959 408,961 339,963 270,967 201,973"/>
+                <Baseline points="201,1005 270,999 339,995 408,993 477,991 547,991 616,990 685,989 754,989 823,991 893,991 962,991 1031,990 1100,991 1169,987 1239,987 1308,985 1377,985 1446,983 1515,983 1585,987"/>
+                <TextEquiv>
+                    <Unicode>gelo, tra gli italiani del Cinquecento, è capace di infondere. Il pensiero di un avvenimento</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="193,1087 264,1085 335,1083 406,1081 477,1081 548,1079 619,1079 690,1079 761,1080 832,1081 904,1078 975,1080 1046,1081 1117,1078 1188,1075 1259,1077 1330,1075 1401,1077 1472,1079 1543,1078 1615,1077 1615,1029 1543,1030 1472,1031 1401,1029 1330,1027 1259,1029 1188,1027 1117,1030 1046,1033 975,1032 904,1030 832,1033 761,1032 690,1031 619,1031 548,1031 477,1033 406,1033 335,1035 264,1037 193,1039"/>
+                <Baseline points="193,1071 264,1069 335,1067 406,1065 477,1065 548,1063 619,1063 690,1063 761,1064 832,1065 904,1062 975,1064 1046,1065 1117,1062 1188,1059 1259,1061 1330,1059 1401,1061 1472,1063 1543,1062 1615,1061"/>
+                <TextEquiv>
+                    <Unicode>tutto portato dentro i confini dell'arte di figurare, in cui percuote il sospetto di un trava-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:17;}">
+                <Coords points="205,1169 273,1166 342,1164 411,1161 480,1161 549,1160 618,1157 687,1157 756,1156 825,1155 894,1155 962,1155 1031,1153 1100,1153 1169,1151 1238,1152 1307,1151 1376,1151 1445,1149 1514,1148 1583,1151 1583,1102 1514,1099 1445,1100 1376,1102 1307,1102 1238,1103 1169,1102 1100,1104 1031,1104 962,1106 894,1106 825,1106 756,1107 687,1108 618,1108 549,1111 480,1112 411,1112 342,1115 273,1117 205,1120"/>
+                <Baseline points="205,1153 273,1150 342,1148 411,1145 480,1145 549,1144 618,1141 687,1141 756,1140 825,1139 894,1139 962,1139 1031,1137 1100,1137 1169,1135 1238,1136 1307,1135 1376,1135 1445,1133 1514,1132 1583,1135"/>
+                <TextEquiv>
+                    <Unicode>glio, di una lotta, di un'ansia di ricerca stilistica, lo sforzo di toccare una verità</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:18;}">
+                <Coords points="203,1237 274,1241 345,1239 416,1237 487,1235 558,1233 629,1233 700,1233 771,1233 842,1231 914,1233 985,1233 1056,1231 1127,1230 1198,1229 1269,1229 1340,1227 1411,1225 1482,1226 1553,1225 1625,1226 1625,1177 1553,1176 1482,1177 1411,1176 1340,1178 1269,1180 1198,1180 1127,1181 1056,1182 985,1184 914,1184 842,1182 771,1184 700,1184 629,1184 558,1184 487,1186 416,1188 345,1190 274,1192 203,1188"/>
+                <Baseline points="203,1221 274,1225 345,1223 416,1221 487,1219 558,1217 629,1217 700,1217 771,1217 842,1215 914,1217 985,1217 1056,1215 1127,1214 1198,1213 1269,1213 1340,1211 1411,1209 1482,1210 1553,1209 1625,1210"/>
+                <TextEquiv>
+                    <Unicode>che la mano, armata di matita e di penna, trasposta e confida alla fragile carta l'accor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665677156_420" custom="readingOrder {index:19;}">
+                <Coords points="197,1267 266,1265 336,1263 405,1261 475,1258 545,1263 556,1262 556,1313 545,1314 475,1309 405,1312 336,1314 266,1316 197,1318"/>
+                <Baseline points="197,1301 266,1299 336,1297 405,1295 475,1292 545,1297 556,1296"/>
+                <TextEquiv>
+                    <Unicode>do affannoso di quei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665671858_413" custom="readingOrder {index:20;}">
+                <Coords points="499,1223 542,1226 539,1276 496,1273"/>
+                <Baseline points="496,1268 539,1271"/>
+                <TextEquiv>
+                    <Unicode>dei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665677156_419" custom="readingOrder {index:21;}">
+                <Coords points="556,1262 614,1261 684,1259 753,1259 823,1257 962,1257 1032,1259 1101,1257 1171,1255 1241,1254 1310,1253 1380,1251 1449,1250 1519,1251 1589,1253 1589,1304 1519,1302 1449,1301 1380,1302 1310,1304 1241,1305 1171,1306 1101,1308 1032,1310 962,1308 823,1308 753,1310 684,1310 614,1312 556,1313"/>
+                <Baseline points="556,1296 614,1295 684,1293 753,1293 823,1291 893,1291 962,1291 1032,1293 1101,1291 1171,1289 1241,1288 1310,1287 1380,1285 1449,1284 1519,1285 1589,1287"/>
+                <TextEquiv>
+                    <Unicode>turbamenti e pensieri, di un cuore e di un intelletto forse unici in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:22;}">
+                <Coords points="197,1394 267,1393 337,1388 407,1388 478,1388 548,1388 618,1388 689,1386 759,1384 829,1384 900,1385 970,1386 1040,1384 1110,1385 1181,1386 1251,1386 1321,1385 1392,1384 1462,1382 1532,1379 1603,1376 1603,1325 1532,1328 1462,1331 1392,1333 1321,1334 1251,1335 1181,1335 1110,1334 1040,1333 970,1335 900,1334 829,1333 759,1333 689,1335 618,1337 548,1337 478,1337 407,1337 337,1337 267,1342 197,1343"/>
+                <Baseline points="197,1377 267,1376 337,1371 407,1371 478,1371 548,1371 618,1371 689,1369 759,1367 829,1367 900,1368 970,1369 1040,1367 1110,1368 1181,1369 1251,1369 1321,1368 1392,1367 1462,1365 1532,1362 1603,1359"/>
+                <TextEquiv>
+                    <Unicode>tali discordie sovraumane. Discordie, di grandezza sconvolgente, opprimente, quando, lasciati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:23;}">
+                <Coords points="189,1470 262,1468 335,1466 408,1465 481,1462 554,1461 627,1460 700,1458 773,1458 846,1458 919,1457 992,1458 1065,1457 1138,1456 1211,1457 1284,1458 1357,1456 1430,1456 1503,1456 1576,1456 1649,1462 1649,1411 1576,1405 1503,1405 1430,1405 1357,1405 1284,1407 1211,1406 1138,1405 1065,1406 992,1407 919,1406 846,1407 773,1407 700,1407 627,1409 554,1410 481,1411 408,1414 335,1415 262,1417 189,1419"/>
+                <Baseline points="189,1453 262,1451 335,1449 408,1448 481,1445 554,1444 627,1443 700,1441 773,1441 846,1441 919,1440 992,1441 1065,1440 1138,1439 1211,1440 1284,1441 1357,1439 1430,1439 1503,1439 1576,1439 1649,1445"/>
+                <TextEquiv>
+                    <Unicode>temi della morte umana e cristiana, Michelangelo sembra impazzire tentando di esprimere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:24;}">
+                <Coords points="199,1542 269,1542 340,1540 411,1542 481,1542 552,1541 623,1540 693,1541 764,1539 835,1536 906,1534 976,1534 1047,1532 1118,1530 1188,1532 1259,1530 1330,1532 1400,1532 1471,1531 1542,1532 1613,1536 1613,1485 1542,1481 1471,1480 1400,1481 1330,1481 1259,1479 1188,1481 1118,1479 1047,1481 976,1483 906,1483 835,1485 764,1488 693,1490 623,1489 552,1490 481,1491 411,1491 340,1489 269,1491 199,1491"/>
+                <Baseline points="199,1525 269,1525 340,1523 411,1525 481,1525 552,1524 623,1523 693,1524 764,1522 835,1519 906,1517 976,1517 1047,1515 1118,1513 1188,1515 1259,1513 1330,1515 1400,1515 1471,1514 1542,1515 1613,1519"/>
+                <TextEquiv>
+                    <Unicode>il groviglio e lo spasimo, gli infernali orrori, le bestiali contorsioni dei corpi di uomini,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:25;}">
+                <Coords points="201,1614 272,1614 343,1614 414,1614 486,1612 557,1612 628,1612 700,1614 771,1611 842,1610 914,1610 985,1609 1056,1610 1127,1610 1199,1610 1270,1610 1341,1609 1413,1608 1484,1608 1555,1607 1627,1606 1627,1555 1555,1556 1484,1557 1413,1557 1341,1558 1270,1559 1199,1559 1127,1559 1056,1559 985,1558 914,1559 842,1559 771,1560 700,1563 628,1561 557,1561 486,1561 414,1563 343,1563 272,1563 201,1563"/>
+                <Baseline points="201,1597 272,1597 343,1597 414,1597 486,1595 557,1595 628,1595 700,1597 771,1594 842,1593 914,1593 985,1592 1056,1593 1127,1593 1199,1593 1270,1593 1341,1592 1413,1591 1484,1591 1555,1590 1627,1589"/>
+                <TextEquiv>
+                    <Unicode>che perduto il soccorso dell'anima, devono contendere impiegando la forza, la violenza, e il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:26;}">
+                <Coords points="211,1698 282,1697 354,1692 426,1691 497,1691 569,1690 641,1690 712,1690 784,1687 856,1689 928,1688 999,1690 1071,1690 1143,1688 1214,1684 1286,1686 1358,1685 1429,1684 1501,1684 1573,1682 1645,1682 1645,1631 1573,1631 1501,1633 1429,1633 1358,1634 1286,1635 1214,1633 1143,1637 1071,1639 999,1639 928,1637 856,1638 784,1636 712,1639 641,1639 569,1639 497,1640 426,1640 354,1641 282,1646 211,1647"/>
+                <Baseline points="211,1681 282,1680 354,1675 426,1674 497,1674 569,1673 641,1673 712,1673 784,1670 856,1672 928,1671 999,1673 1071,1673 1143,1671 1214,1667 1286,1669 1358,1668 1429,1667 1501,1667 1573,1665 1645,1665"/>
+                <TextEquiv>
+                    <Unicode>grido soffocato, che solo una potenza infernale ha messo nella loro carne. La Sistina era stata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:27;}">
+                <Coords points="197,1770 231,1770 266,1772 300,1772 335,1772 369,1771 404,1772 438,1770 473,1770 507,1769 542,1767 576,1766 611,1768 645,1766 680,1766 714,1766 749,1765 783,1765 818,1764 852,1764 887,1768 887,1717 852,1713 818,1713 783,1714 749,1714 714,1715 680,1715 645,1715 611,1717 576,1715 542,1716 507,1718 473,1719 438,1719 404,1721 369,1720 335,1721 300,1721 266,1721 231,1719 197,1719"/>
+                <Baseline points="197,1753 231,1753 266,1755 300,1755 335,1755 369,1754 404,1755 438,1753 473,1753 507,1752 542,1750 576,1749 611,1751 645,1749 680,1749 714,1749 749,1748 783,1748 818,1747 852,1747 887,1751"/>
+                <TextEquiv>
+                    <Unicode>l'epilogo di codesta operazione disumana.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:28;}">
+                <Coords points="219,1848 290,1846 361,1847 432,1846 503,1846 574,1846 645,1844 716,1842 787,1840 858,1842 929,1840 1000,1841 1071,1838 1142,1837 1213,1838 1284,1838 1355,1836 1426,1836 1497,1835 1568,1833 1639,1834 1639,1783 1568,1782 1497,1784 1426,1785 1355,1785 1284,1787 1213,1787 1142,1786 1071,1787 1000,1790 929,1789 858,1791 787,1789 716,1791 645,1793 574,1795 503,1795 432,1795 361,1796 290,1795 219,1797"/>
+                <Baseline points="219,1831 290,1829 361,1830 432,1829 503,1829 574,1829 645,1827 716,1825 787,1823 858,1825 929,1823 1000,1824 1071,1821 1142,1820 1213,1821 1284,1821 1355,1819 1426,1819 1497,1818 1568,1816 1639,1817"/>
+                <TextEquiv>
+                    <Unicode>I disegni rappresentano studi di figure umane, e anche, quando non sono che parti staccate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:29;}">
+                <Coords points="203,1918 275,1920 347,1920 419,1918 491,1918 563,1916 635,1918 707,1918 779,1920 851,1917 923,1916 995,1914 1067,1912 1139,1912 1211,1911 1283,1912 1355,1910 1427,1908 1499,1908 1571,1910 1643,1912 1643,1861 1571,1859 1499,1857 1427,1857 1355,1859 1283,1861 1211,1860 1139,1861 1067,1861 995,1863 923,1865 851,1866 779,1869 707,1867 635,1867 563,1865 491,1867 419,1867 347,1869 275,1869 203,1867"/>
+                <Baseline points="203,1901 275,1903 347,1903 419,1901 491,1901 563,1899 635,1901 707,1901 779,1903 851,1900 923,1899 995,1897 1067,1895 1139,1895 1211,1894 1283,1895 1355,1893 1427,1891 1499,1891 1571,1893 1643,1895"/>
+                <TextEquiv>
+                    <Unicode>dal corpo, sembra di scorgere la persona intera vivere intorno ad esse. Come se la luce Ne avves-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665482069_334" custom="readingOrder {index:30;}">
+                <Coords points="199,1947 278,1945 357,1948 437,1945 516,1943 596,1942 675,1941 754,1941 834,1940 913,1937 993,1939 1072,1937 1151,1937 1231,1935 1310,1933 1390,1935 1469,1937 1548,1939 1628,1940 1674,1940 1674,1991 1628,1991 1548,1990 1469,1988 1390,1986 1310,1984 1231,1986 1151,1988 1072,1988 993,1990 913,1988 834,1991 754,1992 675,1992 596,1993 516,1994 437,1996 357,1999 278,1996 199,1998"/>
+                <Baseline points="199,1981 278,1979 357,1982 437,1979 516,1977 596,1976 675,1975 754,1975 834,1974 913,1971 993,1973 1072,1971 1151,1971 1231,1969 1310,1967 1390,1969 1469,1971 1548,1973 1628,1974 1674,1974"/>
+                <TextEquiv>
+                    <Unicode>se scolorito, o abbacinato, il resto del corpo. Niente è più vivente, e completo di vita, di talune figure-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665742484_445" custom="readingOrder {index:31;}">
+                <Coords points="203,2025 282,2024 362,2023 441,2021 521,2018 601,2017 680,2015 760,2014 839,2013 900,2011 900,2062 839,2064 760,2065 680,2066 601,2068 521,2069 441,2072 362,2074 282,2075 203,2076"/>
+                <Baseline points="203,2059 282,2058 362,2057 441,2055 521,2052 601,2051 680,2049 760,2048 839,2047 900,2045"/>
+                <TextEquiv>
+                    <Unicode>di un nudo acefalo. È un atto delle braccia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665733605_438" custom="readingOrder {index:32;}">
+                <Coords points="902,1980 947,1980 947,2030 902,2030"/>
+                <Baseline points="902,2025 947,2025"/>
+                <TextEquiv>
+                    <Unicode>il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665742483_444" custom="readingOrder {index:33;}">
+                <Coords points="900,2011 919,2011 999,2015 1078,2013 1158,2015 1237,2014 1317,2015 1397,2014 1476,2011 1556,2013 1635,2012 1679,2011 1679,2062 1635,2063 1556,2064 1476,2062 1397,2065 1317,2066 1237,2065 1158,2066 1078,2064 999,2066 919,2062 900,2062"/>
+                <Baseline points="900,2045 919,2045 999,2049 1078,2047 1158,2049 1237,2048 1317,2049 1397,2048 1476,2045 1556,2047 1635,2046 1679,2045"/>
+                <TextEquiv>
+                    <Unicode>fremito di un fianco, di un ventre, che l'artista</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2.&#13;
+provengono&#13;
+provenienti&#13;
+dalla stessa raccolta degli Uffizi, e da quella camerata presso la Casa Buonarroti in Fi_&#13;
+renze. E dunque qui riunito quanto,&#13;
+in fatto&#13;
+di disegni di Michelangolo, possiede ancora l'Italia.&#13;
+Pure mancando, ad esempio, la serie delle crocifissioni del Michelangelo vecchio, che detengono&#13;
+Londra, Oxford, Windsor, da&#13;
+figurare&#13;
+stare come&#13;
+gli&#13;
+esemplari più alti del sentimento tragico cristiano&#13;
+che possono contrapporsi al senso tragico dello spirito greco, la mostra è comunque tale da&#13;
+incutere nel visitatore, fin dall'inizio, quella muta, esterefatta ammirazione, che solo Michela-&#13;
+gelo, tra gli italiani del Cinquecento, è capace di infondere. Il pensiero di un avvenimento&#13;
+tutto portato dentro i confini dell'arte di figurare, in cui percuote il sospetto di un trava-&#13;
+glio, di una lotta, di un'ansia di ricerca stilistica, lo sforzo di toccare una verità&#13;
+che la mano, armata di matita e di penna, trasposta e confida alla fragile carta l'accor&#13;
+do affannoso di quei&#13;
+dei&#13;
+turbamenti e pensieri, di un cuore e di un intelletto forse unici in&#13;
+tali discordie sovraumane. Discordie, di grandezza sconvolgente, opprimente, quando, lasciati&#13;
+temi della morte umana e cristiana, Michelangelo sembra impazzire tentando di esprimere&#13;
+il groviglio e lo spasimo, gli infernali orrori, le bestiali contorsioni dei corpi di uomini,&#13;
+che perduto il soccorso dell'anima, devono contendere impiegando la forza, la violenza, e il&#13;
+grido soffocato, che solo una potenza infernale ha messo nella loro carne. La Sistina era stata&#13;
+l'epilogo di codesta operazione disumana.&#13;
+I disegni rappresentano studi di figure umane, e anche, quando non sono che parti staccate&#13;
+dal corpo, sembra di scorgere la persona intera vivere intorno ad esse. Come se la luce Ne avves-&#13;
+se scolorito, o abbacinato, il resto del corpo. Niente è più vivente, e completo di vita, di talune figure-&#13;
+di un nudo acefalo. È un atto delle braccia,&#13;
+il&#13;
+fremito di un fianco, di un ventre, che l'artista</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

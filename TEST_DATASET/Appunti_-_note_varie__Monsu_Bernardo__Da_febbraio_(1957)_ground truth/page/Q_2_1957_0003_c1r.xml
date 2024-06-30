@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:31:35.549+02:00</Created>
+        <LastChange>2024-06-24T19:46:15.905+02:00</LastChange>
+        <TranskribusMetadata docId="1929340" pageId="68037894" pageNr="2" tsid="173776401" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=UYHPNFRWCIOOZHQQFSKLHTAQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MMISDICOSZWJYUOPFHTJIFOJ" imageId="54315825"/>
+    </Metadata>
+    <Page imageFilename="Q_2_1957_0003_c1r.jpg" imageWidth="1798" imageHeight="2520" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746853429" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="196,281 202,2224 1536,2224 1535,283"/>
+            <TextLine id="line_1719157260445_95" custom="readingOrder {index:0;} hi {offset:12; length:16;rend:underline;}">
+                <Coords points="205,330 950,327 950,377 205,380"/>
+                <Baseline points="205,375 950,372"/>
+                <TextEquiv>
+                    <Unicode>[R. Longhi, “Critica d’arte”, ag. dic. 1938]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;} hi {offset:0; length:14;rend:underline;} hi {offset:36; length:6;rend:underline;}">
+                <Coords points="214,580 276,574 339,576 402,574 464,572 527,573 590,574 652,575 715,573 778,573 841,572 903,574 966,576 1029,572 1091,574 1154,577 1217,576 1279,576 1342,577 1405,579 1468,576 1468,521 1405,524 1342,522 1279,521 1217,521 1154,522 1091,519 1029,517 966,521 903,519 841,517 778,518 715,518 652,520 590,519 527,518 464,517 402,519 339,521 276,519 214,525"/>
+                <Baseline points="214,562 276,556 339,558 402,556 464,554 527,555 590,556 652,557 715,555 778,555 841,554 903,556 966,558 1029,554 1091,556 1154,559 1217,558 1279,558 1342,559 1405,561 1468,558"/>
+                <TextEquiv>
+                    <Unicode>Monsù Bernardo, cioè Eberhard Keil, danese di ascendenza tedesca, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="202,656 251,652 300,652 349,652 398,650 447,650 496,650 545,651 594,652 643,650 692,653 741,654 790,652 839,652 888,650 937,652 986,652 1035,650 1084,651 1133,654 1182,658 1182,603 1133,599 1084,596 1035,595 986,597 937,597 888,595 839,597 790,597 741,599 692,598 643,595 594,597 545,596 496,595 447,595 398,595 349,597 300,597 251,597 202,601"/>
+                <Baseline points="202,638 251,634 300,634 349,634 398,632 447,632 496,632 545,633 594,634 643,632 692,635 741,636 790,634 839,634 888,632 937,634 986,634 1035,632 1084,633 1133,636 1182,640"/>
+                <TextEquiv>
+                    <Unicode>nato a Helsingor nel 1624 (compaesano di Amleto!)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="214,725 263,724 313,725 362,725 412,723 461,723 511,723 560,723 610,724 659,724 709,723 758,723 808,723 857,725 907,725 956,726 1006,726 1055,729 1105,730 1154,732 1204,735 1204,683 1154,680 1105,678 1055,677 1006,674 956,674 907,673 857,673 808,671 758,671 709,671 659,672 610,672 560,671 511,671 461,671 412,671 362,673 313,673 263,672 214,673"/>
+                <Baseline points="214,708 263,707 313,708 362,708 412,706 461,706 511,706 560,706 610,707 659,707 709,706 758,706 808,706 857,708 907,708 956,709 1006,709 1055,712 1105,713 1154,715 1204,718"/>
+                <TextEquiv>
+                    <Unicode>allievo di Rembrandt, ad Amsterdam, dal 1642 al ‘44,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;} hi {offset:5; length:11;rend:underline;} hi {offset:23; length:38;rend:underline;}">
+                <Coords points="222,801 278,801 334,803 390,801 446,801 502,800 558,800 614,797 670,799 726,797 783,799 839,799 895,799 951,799 1007,801 1063,801 1119,799 1175,803 1231,801 1287,806 1344,813 1344,761 1287,754 1231,749 1175,751 1119,747 1063,749 1007,749 951,747 895,747 839,747 783,747 726,745 670,747 614,745 558,748 502,748 446,749 390,749 334,751 278,749 222,749"/>
+                <Baseline points="222,784 278,784 334,786 390,784 446,784 502,783 558,783 614,780 670,782 726,780 783,782 839,782 895,782 951,782 1007,784 1063,784 1119,782 1175,786 1231,784 1287,789 1344,796"/>
+                <TextEquiv>
+                    <Unicode>viene in Italia 1651 ( e gli anni dal ‘45 al’50 dove li passa?),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="220,885 252,883 285,881 318,881 351,881 384,880 416,879 449,880 482,881 515,883 548,883 580,881 613,883 646,881 679,882 711,881 744,881 777,881 810,880 843,879 876,885 876,834 843,828 810,829 777,830 744,830 711,830 679,831 646,830 613,832 580,830 548,832 515,832 482,830 449,829 416,828 384,829 351,830 318,830 285,830 252,832 220,834"/>
+                <Baseline points="220,868 252,866 285,864 318,864 351,864 384,863 416,862 449,863 482,864 515,866 548,866 580,864 613,866 646,864 679,865 711,864 744,864 777,864 810,863 843,862 876,868"/>
+                <TextEquiv>
+                    <Unicode>a Venezia dal ‘51 al ‘54, tre anni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="226,952 263,954 300,954 337,953 375,952 412,952 449,952 487,952 524,952 561,954 599,952 636,952 673,956 710,952 748,954 785,956 822,956 860,956 897,956 934,958 972,960 972,911 934,909 897,907 860,907 822,907 785,907 748,905 710,903 673,907 636,903 599,903 561,905 524,903 487,903 449,903 412,903 375,903 337,904 300,905 263,905 226,903"/>
+                <Baseline points="226,936 263,938 300,938 337,937 375,936 412,936 449,936 487,936 524,936 561,938 599,936 636,936 673,940 710,936 748,938 785,940 822,940 860,940 897,940 934,942 972,944"/>
+                <TextEquiv>
+                    <Unicode>a Bergamo e a Milano, dal ‘54 al ‘56,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="230,1042 286,1040 342,1036 398,1032 454,1032 511,1034 567,1032 623,1032 679,1034 735,1035 792,1035 848,1035 904,1034 960,1034 1016,1032 1073,1034 1129,1034 1185,1033 1241,1033 1297,1037 1354,1040 1354,986 1297,983 1241,979 1185,979 1129,980 1073,980 1016,978 960,980 904,980 848,981 792,981 735,981 679,980 623,978 567,978 511,980 454,978 398,978 342,982 286,986 230,988"/>
+                <Baseline points="230,1024 286,1022 342,1018 398,1014 454,1014 511,1016 567,1014 623,1014 679,1016 735,1017 792,1017 848,1017 904,1016 960,1016 1016,1014 1073,1016 1129,1016 1185,1015 1241,1015 1297,1019 1354,1022"/>
+                <TextEquiv>
+                    <Unicode>poi, per Forlì e Ravenna (e quindi per Bologna o Ferrara?),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;} hi {offset:1; length:6;rend:underline;} hi {offset:59; length:4;rend:underline;}">
+                <Coords points="240,1114 300,1111 361,1107 421,1106 482,1106 543,1105 603,1106 664,1106 724,1107 785,1108 846,1108 906,1108 967,1107 1027,1107 1088,1106 1149,1110 1209,1107 1270,1104 1330,1108 1391,1102 1452,1112 1452,1058 1391,1048 1330,1054 1270,1050 1209,1053 1149,1056 1088,1052 1027,1053 967,1053 906,1054 846,1054 785,1054 724,1053 664,1052 603,1052 543,1051 482,1052 421,1052 361,1053 300,1057 240,1060"/>
+                <Baseline points="240,1096 300,1093 361,1089 421,1088 482,1088 543,1087 603,1088 664,1088 724,1089 785,1090 846,1090 906,1090 967,1089 1027,1089 1088,1088 1149,1092 1209,1089 1270,1086 1330,1090 1391,1084 1452,1094"/>
+                <TextEquiv>
+                    <Unicode> a Roma, dove giunse nel 1656: ci rimane, fino alla morte: 1687.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;} hi {offset:0; length:58;rend:underline; type:red;}">
+                <Coords points="204,1197 270,1189 337,1189 403,1189 470,1188 537,1187 603,1189 670,1189 736,1189 803,1189 870,1191 936,1191 1003,1189 1069,1187 1136,1189 1202,1187 1269,1189 1336,1187 1402,1189 1469,1187 1536,1191 1536,1133 1469,1129 1402,1131 1336,1129 1269,1131 1202,1129 1136,1131 1069,1129 1003,1131 936,1133 870,1133 803,1131 736,1131 670,1131 603,1131 537,1129 470,1130 403,1131 337,1131 270,1131 204,1139"/>
+                <Baseline points="204,1178 270,1170 337,1170 403,1170 470,1169 537,1168 603,1170 670,1170 736,1170 803,1170 870,1172 936,1172 1003,1170 1069,1168 1136,1170 1202,1168 1269,1170 1336,1168 1402,1170 1469,1168 1536,1172"/>
+                <TextEquiv>
+                    <Unicode>quindi in Italia dal 51 all’87, uguale:  anni 36 in Italia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>[R. Longhi, “Critica d’arte”, ag. dic. 1938]&#13;
+Monsù Bernardo, cioè Eberhard Keil, danese di ascendenza tedesca, &#13;
+nato a Helsingor nel 1624 (compaesano di Amleto!)&#13;
+allievo di Rembrandt, ad Amsterdam, dal 1642 al ‘44,&#13;
+viene in Italia 1651 ( e gli anni dal ‘45 al’50 dove li passa?),&#13;
+a Venezia dal ‘51 al ‘54, tre anni&#13;
+a Bergamo e a Milano, dal ‘54 al ‘56,&#13;
+poi, per Forlì e Ravenna (e quindi per Bologna o Ferrara?),&#13;
+ a Roma, dove giunse nel 1656: ci rimane, fino alla morte: 1687.&#13;
+quindi in Italia dal 51 all’87, uguale:  anni 36 in Italia</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=27_06_2024_20:27</Creator>
+        <Created>2024-06-27T11:37:59.654+02:00</Created>
+        <LastChange>2024-06-27T20:27:54.287+02:00</LastChange>
+        <TranskribusMetadata docId="3017223" pageId="74109356" pageNr="6" tsid="175133451" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=IIQQTXPOKQSPMKEIWHFLHQJY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QXIXMUYLMMLTTJBKKYTESPNF" imageId="59955449"/>
+    </Metadata>
+    <Page imageFilename="Q_1976_09_0011_c5r.jpg" imageWidth="1798" imageHeight="2414">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719747357835" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="88,316 88,1998 1484,1998 1484,316"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1295,363 1312,360 1324,347 1333,346 1336,349 1340,346 1348,346 1347,284 1340,284 1328,292 1321,289 1303,299 1293,297"/>
+                <Baseline points="1304,336 1352,338"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="588,441 598,439 609,446 615,444 622,449 629,443 638,451 650,449 645,398 629,401 622,394 617,396 610,392 583,396"/>
+                <Baseline points="598,438 626,440 654,444"/>
+                <TextEquiv>
+                    <Unicode>dica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="119,472 586,510 1380,491 1359,415 1087,436 1015,403 965,444 890,410 802,449 505,403 119,420"/>
+                <Baseline points="128,458 190,462 253,466 316,466 379,467 442,466 504,465 567,467 630,468 693,468 756,468 818,466 881,462 944,466 1007,462 1070,462 1132,462 1195,464 1258,463 1321,464 1384,468"/>
+                <TextEquiv>
+                    <Unicode>u Ho lette, per passana ad altro", mprrive", conguando cattenzione il tuo scritto a pruposito del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="104,579 1392,577 1392,503 1352,496 104,505"/>
+                <Baseline points="114,542 178,542 242,544 306,544 370,544 434,543 498,542 562,542 626,542 690,544 755,544 819,544 883,543 947,544 1011,544 1075,544 1139,544 1203,546 1267,545 1331,548 1396,553"/>
+                <TextEquiv>
+                    <Unicode>ficcenos sur les passions d'amom. Latra a nalési dedlo stile e dela pdicolegia orascaliani,-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="104,636 1445,634 1445,577 1352,570 104,579"/>
+                <Baseline points="114,618 180,622 247,622 314,621 381,620 448,620 514,620 581,620 648,620 715,620 782,621 848,620 915,618 982,620 1049,620 1116,621 1182,620 1249,620 1316,620 1383,621 1450,624"/>
+                <TextEquiv>
+                    <Unicode>così profonda che ne sono rimasto pesplesso: perplesso perché ancora non so non considerero quello</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="97,721 1423,733 1424,672 1328,643 99,666"/>
+                <Baseline points="108,698 174,698 240,696 306,696 372,694 438,692 504,694 570,692 636,692 702,694 768,694 834,696 900,691 966,691 1032,696 1098,696 1164,696 1230,694 1296,694 1362,694 1428,692"/>
+                <TextEquiv>
+                    <Unicode>seditto cema nen al Pascal. A parte momenti d'un aromaiticismo cosnì fozdo, che solo Vascal e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="100,787 1314,787 1286,735 714,716 100,752"/>
+                <Baseline points="110,768 170,772 230,772 291,772 351,770 412,770 472,770 532,768 593,770 653,768 714,772 774,772 834,770 895,766 955,770 1016,770 1076,772 1136,772 1197,770 1257,770 1318,770"/>
+                <TextEquiv>
+                    <Unicode>Leopansi potavano apere gli'uguali. "Ripatasfrasi del biscenrs, e prosegue in questo madt-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1184,813 1255,816 1260,821 1276,816 1314,833 1331,828 1328,776 1284,790 1271,781 1255,792 1238,774 1227,780 1220,774 1196,795 1182,792"/>
+                <Baseline points="1194,810 1221,812 1249,814 1276,815 1304,817 1332,820"/>
+                <TextEquiv>
+                    <Unicode>bi cafe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="112,873 806,856 1179,897 1430,861 1430,825 111,797"/>
+                <Baseline points="122,842 187,842 253,842 318,842 384,841 450,844 515,844 581,842 646,840 712,845 778,846 843,848 909,848 974,849 1040,849 1105,848 1171,852 1237,852 1302,852 1368,850 1434,854"/>
+                <TextEquiv>
+                    <Unicode>Mei dico", scriere," che senza il discenrs,  pante napunto impatanto dell iia pasca,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="107,946 1442,937 1411,878 107,887"/>
+                <Baseline points="116,920 182,922 249,921 315,920 382,918 448,920 515,921 581,921 648,920 714,920 781,920 847,921 914,922 980,920 1047,918 1113,918 1180,917 1246,917 1313,922 1379,922 1446,922"/>
+                <TextEquiv>
+                    <Unicode>diana anchrebbe didlocumento da parte suas È pracfasente il psnto in cui il peosntre d'accorse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="111,1029 1469,1022 1469,928 1060,972 111,959"/>
+                <Baseline points="120,1002 187,998 255,996 323,998 390,998 458,998 526,998 593,998 661,998 729,998 797,996 864,996 932,996 1000,993 1067,996 1135,992 1203,992 1270,994 1338,995 1406,994 1474,1002"/>
+                <TextEquiv>
+                    <Unicode>già in modo  yrava" della resistraia della vita, uoncnto nal quale la formula tavvrta per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="961,1077 1020,1079 1089,1115 1203,1096 1245,1115 1290,1099 1359,1113 1463,1101 1461,1037 1386,1023 1336,1056 1278,1032 1236,1048 1189,1018 1131,1049 1065,1034 1015,1060 959,1036"/>
+                <Baseline points="970,1074 996,1074 1022,1073 1048,1072 1074,1072 1100,1072 1126,1072 1152,1070 1178,1070 1204,1071 1231,1073 1257,1074 1283,1074 1309,1074 1335,1076 1361,1074 1387,1074 1413,1074 1439,1073 1466,1074"/>
+                <TextEquiv>
+                    <Unicode>snna accngansi altrimentè l'un Pascol.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="99,1099 814,1106 795,1042 99,1030"/>
+                <Baseline points="108,1074 143,1074 178,1074 214,1073 249,1073 285,1074 320,1074 355,1074 391,1074 426,1074 462,1074 497,1074 532,1074 568,1074 603,1074 639,1074 674,1074 709,1074 745,1074 780,1072 816,1074"/>
+                <TextEquiv>
+                    <Unicode>dal Mané", Esprit de géomitria et espeit de Fisasse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="870,1077 878,1077 885,1072 897,1079 899,1075 908,1075 913,1079 930,1077 925,1036 915,1034 911,1041 904,1036 895,1037 883,1025 864,1032"/>
+                <Baseline points="877,1073 905,1072 934,1079"/>
+                <TextEquiv>
+                    <Unicode>a sr0</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="875,1129 883,1129 895,1113 904,1112 906,1106 934,1110 928,1074 916,1072 911,1077 899,1074 885,1091 871,1091 870,1093"/>
+                <Baseline points="877,1073 905,1086 934,1079"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="965,1108 972,1108 978,1101 985,1106 991,1106 996,1099 997,1101 1006,1096 1023,1106 1036,1106 1032,1077 1001,1079 987,1074 966,1058 958,1058"/>
+                <Baseline points="970,1083 1004,1090 1038,1092"/>
+                <TextEquiv>
+                    <Unicode>n-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="95,1184 194,1151 446,1153 498,1186 885,1155 885,1099 813,1127 477,1131 420,1103 97,1132"/>
+                <Baseline points="106,1152 145,1148 184,1147 223,1148 262,1148 302,1148 341,1148 380,1148 419,1148 458,1149 498,1150 537,1148 576,1148 615,1150 654,1150 694,1150 733,1148 772,1148 811,1149 850,1141 890,1138"/>
+                <TextEquiv>
+                    <Unicode>pironiano, e del fuoco che gli fu necessnio per uscime??'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="171,1172 190,1179 233,1179 251,1170 266,1184 334,1179 334,1155 266,1157 259,1150 242,1155 171,1153"/>
+                <Baseline points="180,1164 206,1164 232,1167 259,1168 285,1169 311,1170 338,1170"/>
+                <TextEquiv>
+                    <Unicode>uma unnne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="854,1196 904,1201 911,1196 930,1203 958,1201 970,1208 984,1198 1004,1198 1004,1157 989,1163 978,1157 956,1162 946,1157 928,1174 909,1170 894,1157 854,1158"/>
+                <Baseline points="864,1190 892,1190 921,1190 950,1192 979,1192 1008,1192"/>
+                <TextEquiv>
+                    <Unicode>illu mincate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="78,1248 1264,1264 1405,1231 1468,1264 1423,1193 1241,1170 970,1208 78,1174"/>
+                <Baseline points="88,1220 157,1218 226,1219 295,1220 364,1222 433,1223 502,1224 571,1226 640,1223 709,1223 779,1224 848,1226 917,1227 986,1230 1055,1228 1124,1226 1193,1226 1262,1224 1331,1224 1400,1226 1470,1232"/>
+                <TextEquiv>
+                    <Unicode>Poichi Ungaretti ha risvegliatop il tesuin i "Fuoco", ci rò che Pascal svuva res</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="365,1279 375,1279 379,1276 380,1278 384,1276 392,1279 399,1274 408,1274 415,1278 427,1278 425,1248 418,1248 417,1250 408,1245 401,1246 398,1243 394,1246 363,1245"/>
+                <Baseline points="374,1268 403,1270 432,1270"/>
+                <TextEquiv>
+                    <Unicode>ana-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="783,1283 838,1281 852,1290 864,1283 890,1281 890,1253 871,1253 861,1262 842,1255 835,1259 830,1255 818,1259 809,1250 783,1250"/>
+                <Baseline points="792,1274 817,1277 843,1278 868,1277 894,1276"/>
+                <TextEquiv>
+                    <Unicode>mi sias</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="100,1305 434,1340 586,1305 717,1342 790,1307 1456,1316 1456,1259 1300,1252 851,1290 100,1267"/>
+                <Baseline points="110,1298 177,1300 245,1298 312,1298 380,1298 447,1300 515,1300 582,1300 650,1298 717,1298 785,1302 852,1302 920,1300 987,1300 1055,1300 1122,1301 1190,1302 1257,1302 1325,1299 1392,1298 1460,1302"/>
+                <TextEquiv>
+                    <Unicode>cazs a si era trnciato alefiauna di na similefuoco nelle misra, al cui calmu a reva tagicanca mbalisto con le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="90,1388 1466,1392 1447,1335 90,1340"/>
+                <Baseline points="100,1376 168,1376 237,1376 305,1376 374,1376 442,1376 511,1377 579,1378 648,1376 716,1377 785,1378 853,1382 922,1379 990,1380 1059,1378 1127,1380 1196,1379 1264,1378 1333,1376 1401,1377 1470,1376"/>
+                <TextEquiv>
+                    <Unicode>preserze mestale e fisale del suo bie, Nu inace la teccdia negoi ssuguiera e incenmita nelle parole do luifunate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="581,1418 610,1419 626,1426 645,1418 653,1424 666,1421 674,1426 697,1423 711,1430 719,1428 719,1392 705,1397 679,1386 674,1392 621,1395 610,1388 581,1388"/>
+                <Baseline points="590,1414 616,1416 643,1416 670,1416 697,1417 724,1416"/>
+                <TextEquiv>
+                    <Unicode>sna moarte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="100,1423 111,1423 116,1419 130,1430 133,1430 135,1426 156,1428 154,1400 142,1402 131,1399 126,1395 123,1399 116,1400 109,1405 99,1404"/>
+                <Baseline points="110,1418 135,1421 160,1422"/>
+                <TextEquiv>
+                    <Unicode>nel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="800,1430 814,1426 838,1428 851,1438 866,1428 885,1435 894,1435 902,1428 925,1431 925,1404 911,1405 892,1397 880,1404 864,1390 830,1400 811,1390 799,1392"/>
+                <Baseline points="810,1422 840,1422 870,1424 900,1424 930,1428"/>
+                <TextEquiv>
+                    <Unicode>dal farsella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="1096,1430 1212,1428 1276,1442 1302,1423 1383,1438 1383,1392 1366,1388 1250,1402 1205,1386 1169,1411 1141,1412 1119,1393 1096,1400"/>
+                <Baseline points="1106,1424 1131,1426 1157,1426 1182,1426 1208,1426 1234,1426 1259,1426 1285,1424 1311,1422 1336,1422 1362,1422 1388,1422"/>
+                <TextEquiv>
+                    <Unicode>la cartuccia, defissita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="93,1461 456,1457 579,1499 752,1459 1440,1480 1440,1416 93,1428"/>
+                <Baseline points="102,1450 169,1450 236,1448 303,1449 370,1450 437,1448 504,1448 571,1450 638,1450 705,1452 772,1452 839,1452 906,1452 973,1450 1040,1452 1107,1453 1174,1453 1241,1456 1308,1456 1375,1453 1442,1454"/>
+                <TextEquiv>
+                    <Unicode>feglietto di parganada ritrava io sore eerFoder dedamu. Dice irfeghietto dipento ome "Me,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="195,1492 220,1492 235,1504 247,1504 258,1494 277,1501 292,1497 292,1463 278,1463 261,1456 254,1463 242,1457 235,1457 225,1464 214,1464 209,1459 195,1463"/>
+                <Baseline points="204,1488 234,1488 265,1488 296,1488"/>
+                <TextEquiv>
+                    <Unicode>segnata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="88,1533 1447,1554 1447,1497 1283,1466 1163,1506 88,1480"/>
+                <Baseline points="98,1526 165,1526 233,1527 301,1528 368,1528 436,1529 504,1528 571,1528 639,1528 707,1530 775,1532 842,1528 910,1528 978,1527 1045,1527 1113,1528 1181,1528 1248,1527 1316,1526 1384,1530 1452,1534"/>
+                <TextEquiv>
+                    <Unicode>modied", Ton ladudo dl "Luncdi 28 noveuto (era il 1684), fn. Dica d'’Abralam, dicco d’Isaal, dove le Ja-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="1328,1580 1340,1578 1347,1584 1348,1580 1367,1584 1371,1578 1381,1582 1395,1580 1399,1584 1435,1582 1431,1546 1411,1547 1402,1556 1392,1547 1361,1554 1348,1546 1340,1554 1326,1558"/>
+                <Baseline points="1338,1572 1363,1574 1389,1575 1414,1577 1440,1582"/>
+                <TextEquiv>
+                    <Unicode>spisito</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="100,1627 1457,1620 1457,1570 1222,1559 100,1580"/>
+                <Baseline points="110,1600 177,1602 245,1602 312,1602 380,1604 448,1606 515,1605 583,1604 650,1606 718,1606 786,1608 853,1606 921,1606 988,1606 1056,1606 1123,1606 1191,1606 1259,1608 1326,1607 1394,1606 1462,1606"/>
+                <TextEquiv>
+                    <Unicode>cob, non lus phicosonus et ds savanto..Is Non è il prido di un filossfo pirnoniana, di un sepiente dello ivi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="1011,1656 1030,1658 1039,1651 1055,1654 1067,1665 1079,1656 1098,1658 1101,1654 1112,1660 1125,1660 1124,1627 1115,1627 1101,1616 1082,1630 1063,1625 1010,1627"/>
+                <Baseline points="1020,1648 1047,1646 1075,1646 1102,1649 1130,1652"/>
+                <TextEquiv>
+                    <Unicode>sasaplico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="603,1660 621,1667 669,1649 705,1660 716,1654 723,1661 835,1661 835,1628 806,1620 785,1632 762,1623 716,1632 698,1618 672,1628 650,1615 603,1635"/>
+                <Baseline points="612,1652 637,1649 662,1649 688,1651 713,1653 738,1654 764,1654 789,1654 814,1654 840,1654"/>
+                <TextEquiv>
+                    <Unicode>praoona sra venita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="320,1658 379,1661 389,1656 398,1661 417,1658 427,1665 474,1661 472,1634 456,1639 443,1627 422,1634 405,1625 387,1632 342,1622 337,1627 318,1625"/>
+                <Baseline points="330,1654 359,1654 389,1652 418,1654 448,1656 478,1654"/>
+                <TextEquiv>
+                    <Unicode>nvaca riore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="145,1713 1428,1701 1414,1644 145,1651"/>
+                <Baseline points="154,1676 217,1676 281,1680 345,1682 409,1683 473,1683 537,1680 601,1682 665,1680 729,1682 793,1684 856,1682 920,1680 984,1680 1048,1680 1112,1682 1176,1680 1240,1682 1304,1682 1368,1682 1432,1680"/>
+                <TextEquiv>
+                    <Unicode>ua il gride, ' di n essero diperte di uono, di corpodinme cune fatta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="109,1791 154,1762 277,1791 323,1763 413,1779 479,1762 500,1779 570,1762 603,1788 704,1763 704,1729 543,1736 486,1715 401,1730 347,1701 233,1729 109,1722"/>
+                <Baseline points="118,1752 147,1752 176,1752 206,1752 235,1754 265,1756 294,1756 323,1756 353,1758 382,1758 412,1756 441,1756 470,1756 500,1756 529,1755 559,1755 588,1756 617,1756 647,1756 676,1756 706,1756"/>
+                <TextEquiv>
+                    <Unicode>cenore nel confento supremo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="107,1838 1383,1867 1424,1865 1423,1786 105,1794"/>
+                <Baseline points="116,1820 181,1826 247,1829 312,1829 378,1830 444,1832 509,1832 575,1832 640,1832 706,1832 772,1832 837,1830 903,1830 968,1830 1034,1831 1099,1832 1165,1834 1231,1834 1296,1834 1362,1834 1428,1834"/>
+                <TextEquiv>
+                    <Unicode>Col suio scutto, in titolato à un "asnimo pascaliano vanso il 1688", mi ero proposto un tipo di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="95,1922 1480,1936 1468,1864 95,1862"/>
+                <Baseline points="104,1906 173,1909 242,1910 311,1908 380,1910 449,1909 518,1910 587,1910 656,1912 725,1911 794,1910 863,1908 932,1908 1001,1908 1070,1908 1139,1910 1208,1912 1277,1910 1346,1910 1415,1908 1484,1914"/>
+                <TextEquiv>
+                    <Unicode>lettura piattorte a cuta e fidolglicamente fondata sul basta del discorsa. Leggevo e in trpolovo aqualcosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="1134,1960 1148,1964 1158,1955 1165,1959 1188,1955 1191,1959 1196,1953 1208,1962 1220,1957 1248,1959 1248,1921 1234,1922 1227,1915 1219,1924 1195,1924 1189,1931 1182,1926 1169,1931 1146,1926 1134,1929"/>
+                <Baseline points="1144,1948 1171,1950 1198,1950 1225,1951 1252,1952"/>
+                <TextEquiv>
+                    <Unicode>provcata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="81,2011 1438,2000 1438,1941 81,1953"/>
+                <Baseline points="90,1982 157,1984 225,1984 292,1982 360,1982 428,1982 495,1982 563,1980 630,1980 698,1982 766,1981 833,1982 901,1980 968,1982 1036,1983 1103,1984 1171,1986 1239,1986 1306,1986 1374,1986 1442,1988"/>
+                <TextEquiv>
+                    <Unicode>di nascosto collocata nei dintrri dell'anima di chi lo compose. Une -scrissorne dpesperinra fisneamente.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

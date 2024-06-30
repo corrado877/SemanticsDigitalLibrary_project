@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=30_06_2024_10:22</Creator>
+        <Created>2024-06-30T10:16:00.718+02:00</Created>
+        <LastChange>2024-06-30T10:22:35.143+02:00</LastChange>
+        <TranskribusMetadata docId="3069343" pageId="74317233" pageNr="6" tsid="175573631" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=UQEOXQNQYGBQSRACGJOACULY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=APFFXPRKCVYVDRYFTAHRHZQM" imageId="60154533"/>
+    </Metadata>
+    <Page imageFilename="Q_1964_08_0007_c3r.jpg" imageWidth="1798" imageHeight="2511">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719747345413" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="141,457 141,2160 1617,2160 1617,457"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="160,524 1605,533 1605,452 1546,484 160,454"/>
+                <Baseline points="171,495 242,494 314,495 386,495 458,495 530,495 602,496 674,497 746,499 818,500 890,501 961,501 1033,501 1105,505 1177,503 1249,505 1321,509 1393,509 1465,513 1537,514 1609,519"/>
+                <TextEquiv>
+                    <Unicode>spazio fisico, dentro il quale si dibatte l'aspirazione a vivere a inventase dell'uomo. Bisogna pura trovare una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="160,598 1570,599 1570,561 1499,544 160,539"/>
+                <Baseline points="171,571 241,571 311,573 381,573 451,574 522,574 592,575 662,574 732,577 802,577 873,579 943,581 1013,583 1083,584 1153,585 1224,585 1294,589 1364,589 1434,589 1504,591 1575,593"/>
+                <TextEquiv>
+                    <Unicode>acdordo, e un poco di pace gfra la piolenza delle norte immaginazioni, e la meditazione susi limiti della vita, del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="149,660 1602,688 1600,634 1287,605 1192,642 978,599 149,620"/>
+                <Baseline points="159,649 231,650 303,651 375,653 447,652 520,653 592,652 664,651 736,653 808,654 881,655 953,657 1025,659 1097,660 1169,661 1242,663 1314,663 1386,661 1458,663 1530,663 1603,671"/>
+                <TextEquiv>
+                    <Unicode>destino umano. Da quel tempo sopratutto dal '29, dal '3o, rino alle fine (Gonzala è monto, solo e senza speranza, del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="143,732 1589,759 1559,702 1442,715 1379,675 1322,715 143,684"/>
+                <Baseline points="153,725 225,724 297,725 369,727 441,726 513,727 585,728 657,727 729,729 801,731 873,731 945,732 1017,733 1089,733 1161,733 1233,735 1305,735 1377,735 1449,737 1521,738 1593,743"/>
+                <TextEquiv>
+                    <Unicode>l'anno di guerona 1942), lo scullore La a dispoazione, come serive V.'agnilera Cerei, due cose: ha uno spirito e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="143,820 1546,842 1576,789 142,770"/>
+                <Baseline points="153,801 224,798 295,798 366,799 438,799 509,799 580,799 652,801 723,803 794,805 866,805 937,807 1008,810 1079,811 1151,810 1222,813 1293,813 1365,814 1436,815 1507,815 1579,819"/>
+                <TextEquiv>
+                    <Unicode>una tecrica". Sopratutto: "Ha la matevia, che è il ferro, e l'aria. Si qui, ormai, ha vita ogni sua opera. Ogni-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="149,914 1561,918 1592,862 1043,824 975,859 811,820 601,866 456,818 147,842"/>
+                <Baseline points="159,883 230,877 302,877 374,879 446,879 518,881 590,881 662,881 734,883 806,883 878,883 949,885 1021,886 1093,889 1165,890 1237,887 1309,887 1381,889 1453,893 1525,894 1597,899"/>
+                <TextEquiv>
+                    <Unicode>problema si dispone, limpido e ferme, nella mente. Nello spirito, hanna presostanza, col suo dolore antico, un coraggio,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="147,978 1576,1002 1589,934 145,912"/>
+                <Baseline points="157,951 228,949 300,951 372,951 444,954 516,955 587,955 659,954 731,955 803,955 875,955 946,957 1018,958 1090,959 1162,961 1234,961 1305,963 1377,965 1449,965 1521,968 1593,973"/>
+                <TextEquiv>
+                    <Unicode>fatto di amore, di comprensione per i sentimenti dell'essere umano. Compie studi di teste, di ritratti, di figure in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="147,1035 1598,1065 1578,1000 147,995"/>
+                <Baseline points="157,1023 229,1026 301,1029 373,1029 445,1029 518,1029 590,1029 662,1029 734,1031 806,1033 879,1035 951,1034 1023,1033 1095,1039 1167,1040 1240,1041 1312,1039 1384,1039 1456,1041 1528,1041 1601,1045"/>
+                <TextEquiv>
+                    <Unicode>movimento. O come fenmate per l'eternità del mondo. Le figure, talvolta sono aggressive, animate di un cuore di lotta_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="154,1123 1550,1140 1548,1079 324,1087 153,1035"/>
+                <Baseline points="163,1101 232,1101 302,1104 371,1103 441,1101 511,1103 580,1105 650,1107 719,1108 789,1111 859,1111 928,1110 998,1111 1067,1113 1137,1113 1207,1115 1276,1115 1346,1115 1415,1115 1485,1119 1555,1125"/>
+                <TextEquiv>
+                    <Unicode>"Le mital anprofil de clef montre les dents, maad l'espace, se Lérisse, soat seo aignilles empoisomées,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="145,1214 1592,1214 1591,1147 145,1136"/>
+                <Baseline points="155,1177 227,1177 299,1179 371,1179 443,1179 515,1179 587,1180 659,1183 731,1183 803,1184 875,1185 947,1186 1019,1189 1091,1187 1163,1188 1235,1193 1307,1193 1379,1195 1451,1195 1523,1197 1595,1205"/>
+                <TextEquiv>
+                    <Unicode>fanche l'air di un coup de serpe, s'arembonte, se redresse, et projette an sommet d'une lame l'ha-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="145,1269 570,1267 706,1307 1578,1285 1578,1219 1513,1250 1127,1210 1092,1243 476,1204 145,1234"/>
+                <Baseline points="155,1249 226,1253 297,1254 368,1253 440,1253 511,1253 582,1255 654,1256 725,1259 796,1259 868,1261 939,1259 1010,1261 1081,1261 1153,1263 1224,1263 1295,1263 1367,1267 1438,1267 1509,1269 1581,1273"/>
+                <TextEquiv>
+                    <Unicode>nour d'un donble bec ilare et maléfique". Sno parole del critico Geonges ti. Salles; e definiscono un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="136,1353 1142,1372 1197,1322 1133,1282 706,1307 579,1269 443,1317 134,1276"/>
+                <Baseline points="147,1329 199,1326 252,1327 305,1327 357,1329 410,1331 463,1332 515,1332 568,1331 621,1335 674,1334 726,1335 779,1337 832,1335 884,1337 937,1337 990,1337 1042,1337 1095,1337 1148,1340 1201,1345"/>
+                <TextEquiv>
+                    <Unicode>tratto della nuova umanità di Gonzalez, l'autico Ferronier di Catalogna:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="145,1416 1596,1438 1541,1379 145,1366"/>
+                <Baseline points="155,1407 227,1409 299,1407 371,1409 443,1409 516,1409 588,1411 660,1411 732,1413 804,1413 877,1413 949,1412 1021,1413 1093,1413 1165,1414 1238,1417 1310,1417 1382,1417 1454,1419 1526,1418 1599,1425"/>
+                <TextEquiv>
+                    <Unicode>Nel '37. Sone allz portò a compimento una grande scultura: La Montserrat. Una figura didonna, di contadina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="136,1499 1607,1524 1607,1453 136,1451"/>
+                <Baseline points="147,1485 220,1481 293,1481 366,1483 439,1484 513,1483 586,1483 659,1483 732,1485 805,1487 879,1489 952,1489 1025,1489 1098,1489 1171,1491 1245,1492 1318,1495 1391,1496 1464,1495 1537,1496 1611,1507"/>
+                <TextEquiv>
+                    <Unicode>della sue terra che mentro stisspe in una mano una falce, con l'alta sostia un banlino, che appare come una cozzza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="149,1570 1464,1607 1587,1602 1587,1541 147,1508"/>
+                <Baseline points="159,1553 230,1557 302,1557 373,1557 445,1557 517,1559 588,1561 660,1561 731,1563 803,1563 875,1563 946,1565 1018,1567 1089,1569 1161,1569 1233,1571 1304,1573 1376,1573 1447,1573 1519,1572 1591,1577"/>
+                <TextEquiv>
+                    <Unicode>dome uno scudo. La lamiora di ferso nera, lucida, anmenta il bragico dell'apparizione. L'anno pecadente, eggli aveva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="142,1655 901,1653 960,1692 1057,1655 1598,1662 1598,1616 1534,1607 142,1613"/>
+                <Baseline points="151,1635 223,1635 296,1635 368,1635 441,1635 514,1635 586,1637 659,1637 731,1637 804,1639 877,1639 949,1641 1022,1643 1094,1643 1167,1645 1240,1644 1312,1643 1385,1645 1457,1645 1530,1647 1603,1651"/>
+                <TextEquiv>
+                    <Unicode>concepito, della medesima donna, una sorta di Maschera urlante. Un frammento, ossessionanto, uscito del tempo, dalla vita-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="131,1719 1609,1745 1609,1695 881,1699 820,1657 131,1693"/>
+                <Baseline points="141,1707 214,1708 288,1709 361,1709 435,1709 508,1709 582,1710 655,1711 729,1712 802,1715 876,1717 949,1719 1023,1718 1096,1717 1170,1719 1243,1719 1317,1719 1390,1722 1464,1723 1537,1725 1611,1729"/>
+                <TextEquiv>
+                    <Unicode>di una civiltà sepolta, necisa. Nnl'92, travolta la ricoluzione di Isugna, e il mondo intero travolto nella follia, snull'osnore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="145,1800 1614,1824 1613,1767 143,1747"/>
+                <Baseline points="153,1787 226,1785 299,1785 372,1785 445,1785 519,1789 592,1789 665,1789 738,1794 811,1795 885,1795 958,1797 1031,1796 1104,1797 1177,1797 1251,1799 1324,1799 1397,1798 1470,1801 1543,1805 1617,1805"/>
+                <TextEquiv>
+                    <Unicode>omune della gnerra itleriana e fascista. Gena cle, già in prossimità della sua fine, sarva nella pietra l'ustime ma opera:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="132,1883 1574,1890 1539,1830 633,1844 581,1807 340,1807 132,1850"/>
+                <Baseline points="143,1867 214,1865 286,1863 358,1863 430,1863 502,1861 573,1863 645,1863 717,1863 789,1864 861,1865 932,1866 1004,1867 1076,1869 1148,1870 1220,1873 1291,1874 1363,1873 1435,1873 1507,1876 1579,1879"/>
+                <TextEquiv>
+                    <Unicode>la coridetta Montserrat 1 2. E una testa femminile, dell'eterna donna catalana, che grida in un meuto dolore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="140,1971 1587,1962 1587,1921 1515,1910 140,1920"/>
+                <Baseline points="149,1937 221,1939 293,1939 365,1941 437,1941 509,1941 581,1941 653,1943 725,1943 797,1945 870,1945 942,1945 1014,1945 1086,1945 1158,1946 1230,1949 1302,1949 1374,1949 1446,1949 1518,1950 1591,1957"/>
+                <TextEquiv>
+                    <Unicode>impieturto. Poco prima di maire, congedendoni dalla figliola, aveva detto solamente:" "Ora so dove vedo; tutto mua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="136,2032 195,2032 204,2026 230,2032 239,2026 272,2048 289,2043 283,1962 268,1964 257,1977 230,1966 206,1980 177,1971 160,1975 147,1988 134,1986"/>
+                <Baseline points="147,2013 175,2011 204,2011 233,2011 262,2016 291,2021"/>
+                <TextEquiv>
+                    <Unicode>è chiaro.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="1199,2135 1241,2137 1267,2148 1283,2140 1296,2149 1368,2149 1386,2144 1383,2096 1353,2094 1329,2111 1243,2102 1232,2092 1223,2102 1197,2104"/>
+                <Baseline points="1209,2131 1235,2133 1261,2134 1287,2136 1313,2138 1339,2139 1365,2139 1391,2141"/>
+                <TextEquiv>
+                    <Unicode>2.111.64</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

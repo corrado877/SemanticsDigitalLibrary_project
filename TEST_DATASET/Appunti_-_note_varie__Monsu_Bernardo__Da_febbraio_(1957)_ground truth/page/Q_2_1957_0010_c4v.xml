@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:31:36.653+02:00</Created>
+        <LastChange>2024-06-24T09:27:48.812+02:00</LastChange>
+        <TranskribusMetadata docId="1929340" pageId="68037915" pageNr="9" tsid="173606537" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=PBTDNVESMDAIGOSXQBUAXJZX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ELQQPINHMTJLMMUWEQSHIUIU" imageId="54315846"/>
+    </Metadata>
+    <Page imageFilename="Q_2_1957_0010_c4v.jpg" imageWidth="1798" imageHeight="2520">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746855165" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1719164665133_565"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="region_1719164665133_565" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="1544,360 1544,413 1600,413 1600,360"/>
+            <TextLine id="line_1719164665226_568" custom="readingOrder {index:0;}">
+                <Coords points="1547,360 1600,363 1597,413 1544,410"/>
+                <Baseline points="1544,405 1597,408"/>
+                <TextEquiv>
+                    <Unicode>5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="196,523 196,1343 1652,1343 1652,523"/>
+            <TextLine id="line_1719164669505_573" custom="readingOrder {index:0;}">
+                <Coords points="204,524 1245,526 1245,576 204,574"/>
+                <Baseline points="204,569 1245,571"/>
+                <TextEquiv>
+                    <Unicode>mentica il turchino dei suoi cieli italiani: un turchino fatto di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719164670947_578" custom="readingOrder {index:1;} add {offset:0; length:2;place:above;}">
+                <Coords points="1242,468 1285,479 1273,528 1230,517"/>
+                <Baseline points="1231,512 1274,523"/>
+                <TextEquiv>
+                    <Unicode>un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719164674137_583" custom="readingOrder {index:2;}">
+                <Coords points="1253,522 1644,517 1645,567 1254,572"/>
+                <Baseline points="1254,567 1645,562"/>
+                <TextEquiv>
+                    <Unicode>grigio chiaro, di un verde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:3;}">
+                <Coords points="200,653 272,652 344,655 417,651 489,651 562,652 634,652 706,653 779,650 851,649 924,649 996,649 1068,649 1141,648 1213,649 1286,648 1358,649 1430,647 1503,648 1575,653 1648,659 1648,613 1575,607 1503,602 1430,601 1358,603 1286,602 1213,603 1141,602 1068,603 996,603 924,603 851,603 779,604 706,607 634,606 562,606 489,605 417,605 344,609 272,606 200,607"/>
+                <Baseline points="200,638 272,637 344,640 417,636 489,636 562,637 634,637 706,638 779,635 851,634 924,634 996,634 1068,634 1141,633 1213,634 1286,633 1358,634 1430,632 1503,633 1575,638 1648,644"/>
+                <TextEquiv>
+                    <Unicode>scolorito. Tavolozza a parte, la pittura di Monsù Bernardo, cioè la particolare rappre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:4;}">
+                <Coords points="196,727 267,729 339,729 410,731 482,728 554,725 625,725 697,725 768,725 840,726 912,726 983,727 1055,723 1126,723 1198,721 1270,721 1341,721 1413,723 1484,726 1556,727 1628,727 1628,681 1556,681 1484,680 1413,677 1341,675 1270,675 1198,675 1126,677 1055,677 983,681 912,680 840,680 768,679 697,679 625,679 554,679 482,682 410,685 339,683 267,683 196,681"/>
+                <Baseline points="196,712 267,714 339,714 410,716 482,713 554,710 625,710 697,710 768,710 840,711 912,711 983,712 1055,708 1126,708 1198,706 1270,706 1341,706 1413,708 1484,711 1556,712 1628,712"/>
+                <TextEquiv>
+                    <Unicode>sentazione di quelle scene, che altri artisti italiani dopo di lui: come il friulano Carneo, o il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:5;}">
+                <Coords points="198,805 269,803 340,803 412,801 483,802 555,799 626,801 697,803 769,801 840,803 912,804 983,803 1054,801 1126,802 1197,801 1269,799 1340,799 1411,799 1483,799 1554,801 1626,805 1626,759 1554,755 1483,753 1411,753 1340,753 1269,753 1197,755 1126,756 1054,755 983,757 912,758 840,757 769,755 697,757 626,755 555,753 483,756 412,755 340,757 269,757 198,759"/>
+                <Baseline points="198,790 269,788 340,788 412,786 483,787 555,784 626,786 697,788 769,786 840,788 912,789 983,788 1054,786 1126,787 1197,786 1269,784 1340,784 1411,784 1483,784 1554,786 1626,790"/>
+                <TextEquiv>
+                    <Unicode>bolognese Gamberini, o Ceruti bresciano si riproporranno come tema di narrazione, im-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:6;}">
+                <Coords points="204,891 273,883 342,886 411,882 480,881 550,882 619,879 688,877 757,878 826,878 896,879 965,879 1034,881 1103,877 1172,877 1242,877 1311,877 1380,875 1449,874 1518,872 1588,877 1588,831 1518,826 1449,828 1380,829 1311,831 1242,831 1172,831 1103,831 1034,835 965,833 896,833 826,832 757,832 688,831 619,833 550,836 480,835 411,836 342,840 273,837 204,845"/>
+                <Baseline points="204,876 273,868 342,871 411,867 480,866 550,867 619,864 688,862 757,863 826,863 896,864 965,864 1034,866 1103,862 1172,862 1242,862 1311,862 1380,860 1449,859 1518,857 1588,862"/>
+                <TextEquiv>
+                    <Unicode>provvisa, appassionata e popolare, usandovi le cadenze, quasi, del dialetto della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:7;}">
+                <Coords points="210,965 281,961 352,960 423,957 494,959 566,956 637,955 708,955 779,955 850,957 922,953 993,953 1064,951 1135,950 1206,949 1278,951 1349,952 1420,951 1491,953 1562,954 1634,957 1634,911 1562,908 1491,907 1420,905 1349,906 1278,905 1206,903 1135,904 1064,905 993,907 922,907 850,911 779,909 708,909 637,909 566,910 494,913 423,911 352,914 281,915 210,919"/>
+                <Baseline points="210,950 281,946 352,945 423,942 494,944 566,941 637,940 708,940 779,940 850,942 922,938 993,938 1064,936 1135,935 1206,934 1278,936 1349,937 1420,936 1491,938 1562,939 1634,942"/>
+                <TextEquiv>
+                    <Unicode>propria terra; la pittura del Keil, in confronto alle elaborazioni di codesti specifici</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:8;}">
+                <Coords points="204,1034 275,1028 347,1028 419,1027 491,1026 563,1026 634,1027 706,1027 778,1027 850,1028 922,1030 993,1030 1065,1028 1137,1027 1209,1025 1281,1024 1352,1022 1424,1024 1496,1024 1568,1024 1640,1030 1640,1000 1568,994 1496,994 1424,994 1352,992 1281,994 1209,995 1137,997 1065,998 993,1000 922,1000 850,998 778,997 706,997 634,997 563,996 491,996 419,997 347,998 275,998 204,1004"/>
+                <Baseline points="204,1024 275,1018 347,1018 419,1017 491,1016 563,1016 634,1017 706,1017 778,1017 850,1018 922,1020 993,1020 1065,1018 1137,1017 1209,1015 1281,1014 1352,1012 1424,1014 1496,1014 1568,1014 1640,1020"/>
+                <TextEquiv>
+                    <Unicode>italiani, risuona dentro la nostra fantasia, e vampeggia nel ricordo, con quel tan-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719164683588_591" custom="readingOrder {index:9;}">
+                <Coords points="203,1058 1120,1049 1120,1099 203,1108"/>
+                <Baseline points="203,1103 1120,1094"/>
+                <TextEquiv>
+                    <Unicode>to di nostalgico, di leggermente alterato nel tono, con cui </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719164697405_604" custom="readingOrder {index:10;} add {offset:0; length:14;place:above;}">
+                <Coords points="1003,1013 1226,1013 1226,1063 1003,1063"/>
+                <Baseline points="1003,1058 1226,1058"/>
+                <TextEquiv>
+                    <Unicode>si producono e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719164691681_596" custom="readingOrder {index:11;}">
+                <Coords points="1140,1053 1655,1051 1655,1101 1140,1103"/>
+                <Baseline points="1140,1098 1655,1096"/>
+                <TextEquiv>
+                    <Unicode>restano in noi le cose di un’ar- </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:12;}">
+                <Coords points="198,1185 270,1183 343,1182 416,1183 488,1183 561,1183 634,1181 706,1183 779,1181 852,1180 925,1179 997,1179 1070,1179 1143,1181 1215,1180 1288,1183 1361,1177 1433,1178 1506,1177 1579,1179 1652,1183 1652,1137 1579,1133 1506,1131 1433,1132 1361,1131 1288,1137 1215,1134 1143,1135 1070,1133 997,1133 925,1133 852,1134 779,1135 706,1137 634,1135 561,1137 488,1137 416,1137 343,1136 270,1137 198,1139"/>
+                <Baseline points="198,1170 270,1168 343,1167 416,1168 488,1168 561,1168 634,1166 706,1168 779,1166 852,1165 925,1164 997,1164 1070,1164 1143,1166 1215,1165 1288,1168 1361,1162 1433,1163 1506,1162 1579,1164 1652,1168"/>
+                <TextEquiv>
+                    <Unicode>te spaesata, sradicata dal luogo e dalla civiltà di origine; e che sa di esserlo. La sua malinco-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:13;}">
+                <Coords points="204,1261 275,1263 346,1263 418,1261 489,1263 561,1261 632,1261 703,1261 775,1259 846,1261 918,1259 989,1257 1060,1259 1132,1259 1203,1258 1275,1259 1346,1257 1417,1257 1489,1255 1560,1255 1632,1257 1632,1211 1560,1209 1489,1209 1417,1211 1346,1211 1275,1213 1203,1212 1132,1213 1060,1213 989,1211 918,1213 846,1215 775,1213 703,1215 632,1215 561,1215 489,1217 418,1215 346,1217 275,1217 204,1215"/>
+                <Baseline points="204,1246 275,1248 346,1248 418,1246 489,1248 561,1246 632,1246 703,1246 775,1244 846,1246 918,1244 989,1242 1060,1244 1132,1244 1203,1243 1275,1244 1346,1242 1417,1242 1489,1240 1560,1240 1632,1242"/>
+                <TextEquiv>
+                    <Unicode>nia, la pace agreste dei suoi racconti, s’incrina e suona, con gli accenti del vagabon-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:14;}">
+                <Coords points="196,1343 265,1340 334,1337 403,1335 472,1335 541,1333 610,1335 679,1333 748,1335 817,1334 886,1333 955,1334 1024,1333 1093,1333 1162,1333 1231,1334 1300,1338 1369,1337 1438,1337 1507,1336 1576,1339 1576,1293 1507,1290 1438,1291 1369,1291 1300,1292 1231,1288 1162,1287 1093,1287 1024,1287 955,1288 886,1287 817,1288 748,1289 679,1287 610,1289 541,1287 472,1289 403,1289 334,1291 265,1294 196,1297"/>
+                <Baseline points="196,1328 265,1325 334,1322 403,1320 472,1320 541,1318 610,1320 679,1318 748,1320 817,1319 886,1318 955,1319 1024,1318 1093,1318 1162,1318 1231,1319 1300,1323 1369,1322 1438,1322 1507,1321 1576,1324"/>
+                <TextEquiv>
+                    <Unicode>do, dell’uomo del nord, venuto a cercar la luce italiana: a Venezia, a Roma.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mentica il turchino dei suoi cieli italiani: un turchino fatto di&#13;
+un&#13;
+grigio chiaro, di un verde&#13;
+scolorito. Tavolozza a parte, la pittura di Monsù Bernardo, cioè la particolare rappre-&#13;
+sentazione di quelle scene, che altri artisti italiani dopo di lui: come il friulano Carneo, o il&#13;
+bolognese Gamberini, o Ceruti bresciano si riproporranno come tema di narrazione, im-&#13;
+provvisa, appassionata e popolare, usandovi le cadenze, quasi, del dialetto della&#13;
+propria terra; la pittura del Keil, in confronto alle elaborazioni di codesti specifici&#13;
+italiani, risuona dentro la nostra fantasia, e vampeggia nel ricordo, con quel tan-&#13;
+to di nostalgico, di leggermente alterato nel tono, con cui &#13;
+si producono e&#13;
+restano in noi le cose di un’ar- &#13;
+te spaesata, sradicata dal luogo e dalla civiltà di origine; e che sa di esserlo. La sua malinco-&#13;
+nia, la pace agreste dei suoi racconti, s’incrina e suona, con gli accenti del vagabon-&#13;
+do, dell’uomo del nord, venuto a cercar la luce italiana: a Venezia, a Roma.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

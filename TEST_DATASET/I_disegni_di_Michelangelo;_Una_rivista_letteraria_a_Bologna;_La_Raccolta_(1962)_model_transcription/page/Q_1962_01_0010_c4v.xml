@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=29_06_2024_18:13</Creator>
+        <Created>2024-06-29T13:46:33.925+02:00</Created>
+        <LastChange>2024-06-29T18:13:21.929+02:00</LastChange>
+        <TranskribusMetadata docId="3062983" pageId="74294032" pageNr="8" tsid="175495072" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=YJPUFTWJTJPDMGOYNTDNLAWJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XYXKPGGPUZDASTDHINAXELHQ" imageId="60123763"/>
+    </Metadata>
+    <Page imageFilename="Q_1962_01_0010_c4v.jpg" imageWidth="1798" imageHeight="2515">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719747166626" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="199,318 197,2078 1664,2069 1666,309"/>
+            <TextLine id="line_1719669659879_1590" custom="readingOrder {index:0;}">
+                <Coords points="1558,402 1573,400 1584,409 1591,411 1600,407 1615,415 1620,415 1628,407 1642,407 1642,360 1618,358 1615,361 1595,361 1589,358 1584,363 1573,358 1558,360"/>
+                <Baseline points="1568,407 1647,407"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="193,582 1617,573 1617,508 1389,479 1310,514 851,464 692,512 477,473 193,528"/>
+                <Baseline points="203,547 273,545 344,545 415,545 486,541 557,541 628,543 699,539 770,541 841,541 912,541 982,541 1053,541 1124,542 1195,539 1266,539 1337,539 1408,539 1479,538 1550,539 1621,545"/>
+                <TextEquiv>
+                    <Unicode>anziano di nor. Riccardo Bacchelli. Bacchelli era qui, in licenza; io, per una licenza di convales</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719669974814_1635" custom="readingOrder {index:2;}">
+                <Coords points="198,659 217,666 246,646 266,653 310,637 347,664 391,655 391,596 365,602 349,589 328,593 297,574 257,593 244,584 229,593 215,582 198,582"/>
+                <Baseline points="209,623 279,621 349,621 395,618"/>
+                <TextEquiv>
+                    <Unicode>za. La cosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719669680943_1598" custom="readingOrder {index:3;}">
+                <Coords points="358,600 376,600 384,595 396,593 426,598 426,565 404,567 396,560 387,558 380,560 376,556 373,558 358,556"/>
+                <Baseline points="368,590 431,590"/>
+                <TextEquiv>
+                    <Unicode>la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719669974814_1634" custom="readingOrder {index:4;}">
+                <Coords points="385,637 1606,633 1606,587 1448,558 385,593"/>
+                <Baseline points="395,618 419,617 489,619 559,617 629,614 699,615 769,617 839,616 910,616 980,613 1050,612 1120,611 1190,611 1260,609 1330,609 1400,611 1470,612 1540,613 1611,615"/>
+                <TextEquiv>
+                    <Unicode>stata dibattota, fre altri discorsi, e frequenti bicchieri di limpido S'auvignora, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="198,706 1631,719 1631,648 1538,640 198,659"/>
+                <Baseline points="209,693 280,695 351,691 422,691 494,689 565,689 636,689 708,687 779,688 850,687 922,687 993,688 1064,689 1135,689 1207,687 1278,687 1349,687 1421,687 1492,687 1563,689 1635,691"/>
+                <TextEquiv>
+                    <Unicode>casa Bacchelli, dove avevo trovato, per la prima votta, divani e poltione, di una comodità, di un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="204,785 1609,778 1609,732 1321,708 400,747 290,714 204,752"/>
+                <Baseline points="213,775 283,775 353,773 423,774 493,772 563,769 633,768 703,767 773,765 843,763 913,763 983,763 1053,764 1123,765 1193,765 1263,763 1333,762 1403,763 1473,762 1543,763 1613,767"/>
+                <TextEquiv>
+                    <Unicode>conforto, che igiovavo. In verità, Bacchelli, aveva ragione di pensere alla pubbbicazione di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="198,862 1628,866 1628,798 1402,780 1341,815 198,815"/>
+                <Baseline points="209,845 280,847 351,846 422,844 493,843 565,843 636,843 707,843 778,842 849,843 921,843 992,840 1063,841 1134,843 1205,843 1277,841 1348,840 1419,840 1490,841 1561,842 1633,841"/>
+                <TextEquiv>
+                    <Unicode>suoi scritti: teneva sul tavolo un mucchietto di fogli, coperti della sua larga, tranquila calle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:8;}">
+                <Coords points="207,943 1631,943 1596,870 207,872"/>
+                <Baseline points="217,933 287,927 358,923 429,921 500,921 571,920 642,919 713,919 784,918 855,917 926,917 996,918 1067,917 1138,915 1209,913 1280,913 1351,913 1422,915 1493,915 1564,915 1635,917"/>
+                <TextEquiv>
+                    <Unicode>grafia, sl primo dei quali, a modo di copertina, spiccava il titolo: Memorie del tempo pre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:9;}">
+                <Coords points="209,1031 1633,1006 1582,940 211,956"/>
+                <Baseline points="221,999 291,999 362,999 433,999 504,998 575,997 645,995 716,994 787,993 858,995 929,991 999,990 1070,991 1141,989 1212,989 1283,989 1353,987 1424,987 1495,988 1566,987 1637,991"/>
+                <TextEquiv>
+                    <Unicode>scsta. Ad un altro gruppo di fogli, metteva le mani di tanto in tanto. Vistava larorando.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:10;}">
+                <Coords points="200,1095 1398,1112 1613,1092 1615,1026 202,1026"/>
+                <Baseline points="211,1073 281,1075 351,1073 421,1073 492,1073 562,1073 632,1071 703,1069 773,1069 843,1071 914,1068 984,1067 1054,1065 1124,1065 1195,1063 1265,1065 1335,1064 1406,1065 1476,1064 1546,1064 1617,1057"/>
+                <TextEquiv>
+                    <Unicode>Questo secondo mucchio eresava nei fogli. Si intitolava, il lavoro: L'avuleto, dramme in Satti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:11;}">
+                <Coords points="198,1193 1637,1160 1637,1110 1584,1095 450,1127 400,1097 347,1129 198,1095"/>
+                <Baseline points="209,1149 327,1151 396,1150 465,1149 534,1149 603,1149 672,1149 742,1147 811,1148 880,1147 949,1147 1018,1146 1087,1146 1156,1145 1226,1145 1295,1145 1364,1145 1433,1145 1502,1144 1571,1144 1641,1143"/>
+                <TextEquiv>
+                    <Unicode>E, agli amici; eravamo in due o tre al massimo, a frequentare l'antica cosa bolognese, già con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:12;}">
+                <Coords points="191,1244 1633,1246 1633,1187 1481,1167 998,1204 892,1169 191,1185"/>
+                <Baseline points="201,1227 272,1227 344,1227 416,1225 488,1224 560,1223 631,1221 703,1223 775,1222 847,1221 919,1219 990,1219 1062,1219 1134,1217 1206,1219 1278,1219 1349,1219 1421,1219 1493,1221 1565,1217 1637,1211"/>
+                <TextEquiv>
+                    <Unicode>vento di frati plivetani; agli amici, lo scrittore, ancora in divisa, almeno coi pantalonidiu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:13;}">
+                <Coords points="193,1334 1650,1314 1652,1239 195,1273"/>
+                <Baseline points="203,1307 275,1303 348,1301 421,1301 493,1299 566,1299 639,1299 711,1299 784,1301 857,1301 930,1299 1002,1299 1075,1297 1148,1297 1220,1294 1293,1293 1366,1290 1438,1291 1511,1289 1584,1289 1657,1287"/>
+                <TextEquiv>
+                    <Unicode>ficiale d'artiglieria, che lo facerasomigliare a un P. L. Courier borghese, le gaiba infilate so1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:14;}">
+                <Coords points="187,1391 1336,1402 1622,1384 1624,1321 956,1354 831,1314 569,1358 264,1321 187,1367"/>
+                <Baseline points="197,1379 268,1378 340,1377 411,1376 483,1375 554,1375 626,1376 697,1375 769,1376 840,1371 912,1371 983,1373 1055,1373 1126,1370 1198,1369 1269,1369 1341,1367 1412,1365 1484,1367 1555,1367 1627,1367"/>
+                <TextEquiv>
+                    <Unicode>to il tavvolo, leggeva a uno a uno i fogli, passandoli da parte. La voce pacata, paziente.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:15;}">
+                <Coords points="204,1474 1652,1464 1652,1411 1396,1389 204,1418"/>
+                <Baseline points="213,1453 285,1453 357,1453 429,1453 501,1453 573,1451 645,1451 717,1451 789,1451 861,1452 934,1449 1006,1449 1078,1447 1150,1447 1222,1444 1294,1443 1366,1443 1438,1441 1510,1441 1582,1441 1655,1445"/>
+                <TextEquiv>
+                    <Unicode>La vicenste clessica inglese, questo pesante e quasi prouibiale dramma dibattuto e finito nel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:16;}">
+                <Coords points="198,1545 1488,1538 1574,1574 1637,1556 1639,1483 198,1507"/>
+                <Baseline points="209,1533 280,1531 352,1529 423,1528 495,1527 567,1527 638,1529 710,1527 781,1526 853,1526 925,1525 996,1525 1068,1525 1139,1525 1211,1523 1283,1523 1354,1521 1426,1523 1497,1523 1569,1523 1641,1527"/>
+                <TextEquiv>
+                    <Unicode>sangue e nel veleno tra i membri di una famiglia, come sono tutte il famiglie, ingroviglista</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:17;}">
+                <Coords points="187,1620 1644,1620 1639,1569 1424,1549 1149,1545 1046,1585 187,1554"/>
+                <Baseline points="197,1603 269,1606 342,1605 414,1603 487,1602 559,1601 632,1603 704,1601 777,1601 849,1602 922,1599 994,1601 1067,1601 1139,1600 1212,1599 1284,1597 1357,1594 1429,1595 1502,1596 1574,1597 1647,1603"/>
+                <TextEquiv>
+                    <Unicode>di odii, di risentimenti e di passioni tra le più comuni, nella voce, nelle parole, nella cadena</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:18;}">
+                <Coords points="195,1712 1176,1686 1541,1718 1633,1696 1635,1640 196,1637"/>
+                <Baseline points="205,1685 276,1678 348,1677 420,1676 491,1675 563,1675 635,1674 706,1677 778,1674 850,1674 922,1675 993,1676 1065,1673 1137,1676 1208,1674 1280,1673 1352,1672 1423,1671 1495,1671 1567,1671 1639,1671"/>
+                <TextEquiv>
+                    <Unicode>e soste dell'animo del nostro amico bolognese, risonara per noi nei termini di un'indi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719669636830_1580" custom="readingOrder {index:19;}">
+                <Coords points="198,1793 1675,1760 1652,1707 1497,1696 1187,1736 1143,1703 200,1718"/>
+                <Baseline points="211,1755 289,1752 368,1751 446,1752 525,1753 603,1751 682,1751 760,1753 839,1753 917,1753 996,1753 1074,1752 1153,1751 1231,1749 1310,1745 1388,1745 1467,1745 1545,1745 1624,1747 1678,1746"/>
+                <TextEquiv>
+                    <Unicode>screzione elevata al limite birico, di un autore, che, per allora era portato a interpredure sl-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719669629998_1571" custom="readingOrder {index:20;}">
+                <Coords points="200,1861 1670,1848 1639,1778 200,1793"/>
+                <Baseline points="211,1831 289,1827 367,1827 446,1827 524,1831 603,1829 681,1831 759,1831 838,1828 916,1829 995,1827 1073,1827 1151,1827 1230,1825 1308,1823 1387,1823 1465,1822 1543,1823 1622,1823 1675,1824"/>
+                <TextEquiv>
+                    <Unicode>bastanza autobiograficamente il dissidio tra fantasia e verità, contenuto in ogni suo apsunto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:21;}">
+                <Coords points="193,1936 202,1936 211,1945 231,1930 250,1927 259,1919 284,1921 295,1930 316,1927 316,1874 305,1874 297,1866 284,1874 268,1872 251,1883 248,1879 233,1881 218,1896 193,1897"/>
+                <Baseline points="203,1913 232,1911 262,1911 291,1911 321,1911"/>
+                <TextEquiv>
+                    <Unicode>d'arte-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719670565806_1699" custom="readingOrder {index:22;}">
+                <Coords points="228,2017 294,1998 339,2006 393,1996 420,2013 459,1996 475,2006 567,1998 567,1963 538,1952 527,1963 484,1940 457,1947 429,1927 378,1947 345,1925 328,1941 299,1934 277,1951 228,1951"/>
+                <Baseline points="237,1981 314,1983 391,1982 468,1984 545,1981 571,1981"/>
+                <TextEquiv>
+                    <Unicode>L'altro amico: quello</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719670559437_1692" custom="readingOrder {index:23;}">
+                <Coords points="521,1952 528,1952 534,1956 536,1952 539,1954 543,1952 556,1960 565,1960 562,1919 541,1918 532,1929 517,1927"/>
+                <Baseline points="529,1948 567,1951"/>
+                <TextEquiv>
+                    <Unicode>il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719670565806_1698" custom="readingOrder {index:24;}">
+                <Coords points="562,1996 1510,1991 1670,2030 1670,1954 1576,1929 562,1941"/>
+                <Baseline points="571,1981 623,1983 700,1979 777,1981 854,1977 931,1980 1009,1978 1086,1977 1163,1977 1240,1975 1317,1975 1395,1973 1472,1973 1549,1973 1626,1975 1673,1971"/>
+                <TextEquiv>
+                    <Unicode>mio coetanco, anzi più giovane di un anno o due, era il franchi, fiorent.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:25;}">
+                <Coords points="204,2086 1642,2074 1642,2028 1453,2011 637,2037 352,2000 204,2042"/>
+                <Baseline points="213,2061 284,2060 356,2059 428,2057 499,2057 571,2057 643,2055 714,2057 786,2057 858,2056 930,2053 1001,2052 1073,2055 1145,2054 1216,2055 1288,2053 1360,2055 1431,2055 1503,2055 1575,2055 1647,2059"/>
+                <TextEquiv>
+                    <Unicode>no. Il figlio del trattore di piazza Pitti; il vivace, infrmabile ragazzo, amico e compagno di pu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=29_06_2024_13:33</Creator>
+        <Created>2024-04-09T18:31:36.185+02:00</Created>
+        <LastChange>2024-06-29T13:33:50.596+02:00</LastChange>
+        <TranskribusMetadata docId="3059563" pageId="74284452" pageNr="5" tsid="175460291" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=AIARFPZDULTDCRCOHIZUQXLQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RTLIQBDQPDUJENLJYQLYEHXR" imageId="54315834"/>
+    </Metadata>
+    <Page imageFilename="Q_2_1957_0006_c2v.jpg" imageWidth="1798" imageHeight="2520" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746882077" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="185,307 182,2097 1646,2097 1649,307"/>
+            <TextLine id="line_1719158005377_236" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="1545,419 1572,421 1581,412 1594,414 1594,316 1581,314 1567,325 1557,317 1545,319"/>
+                <Baseline points="1555,377 1599,377"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;} hi {offset:0; length:15;rend:underline;}">
+                <Coords points="671,401 709,385 1074,387 1076,330 1003,352 956,350 890,316 777,343 746,314 673,317"/>
+                <Baseline points="682,388 708,385 735,383 761,382 788,381 814,380 841,380 867,378 894,376 920,375 947,374 973,373 1000,372 1026,372 1053,372 1080,372"/>
+                <TextEquiv>
+                    <Unicode>Monssi Bernardo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="213,591 1588,573 1588,512 1450,498 213,507"/>
+                <Baseline points="224,560 292,558 360,558 429,558 497,558 566,558 634,558 702,558 771,560 839,559 908,558 976,556 1044,556 1113,557 1181,558 1250,558 1318,561 1386,560 1455,560 1523,559 1592,560"/>
+                <TextEquiv>
+                    <Unicode>Sarà stato detto, immagino, come la pittura del seicento in Italia, inispecie quella che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="182,666 1627,657 1627,585 1501,607 1430,571 1275,609 735,573 182,604"/>
+                <Baseline points="192,640 264,639 336,638 408,638 480,638 552,638 624,635 696,636 768,636 840,634 912,634 984,635 1056,634 1128,634 1200,634 1272,634 1344,632 1416,632 1488,632 1560,630 1632,634"/>
+                <TextEquiv>
+                    <Unicode>nella scconda metà del secolo fu geneicamente chiamata Fibura di genere, abbia servito a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="188,740 1636,728 1607,658 188,660"/>
+                <Baseline points="197,716 298,712 369,713 439,714 510,713 580,710 651,710 721,709 792,709 862,710 933,710 1003,710 1074,712 1144,710 1215,710 1285,710 1356,708 1426,710 1497,710 1567,710 1638,714"/>
+                <TextEquiv>
+                    <Unicode>rappresentare la vita quotidiana della nazione: a raffigurarla in scene ed episodi trat-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="184,812 1373,799 1641,833 1641,742 1470,730 184,753"/>
+                <Baseline points="194,788 266,786 339,786 411,788 484,787 556,786 629,786 701,784 774,784 846,784 919,784 991,786 1064,786 1136,784 1209,782 1281,780 1354,781 1426,780 1499,783 1571,786 1644,790"/>
+                <TextEquiv>
+                    <Unicode>ti dal voro, con più carattere e stile che non sia stato fatto dagli scrittori dello ster-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="179,881 1632,894 1632,833 1545,804 179,833"/>
+                <Baseline points="188,872 260,870 332,867 405,864 477,862 550,860 622,860 694,861 767,860 839,860 912,860 984,859 1056,860 1129,860 1201,858 1274,858 1346,861 1418,860 1491,859 1563,860 1636,868"/>
+                <TextEquiv>
+                    <Unicode>so tempo. Dn scrittori, che fossero narratori o prosatori con spirito d'arte, non cuonisti.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="186,967 1640,972 1640,903 1373,879 1277,914 186,890"/>
+                <Baseline points="196,944 268,940 340,939 413,938 485,937 558,938 630,938 702,937 775,936 847,936 920,936 992,935 1064,934 1137,934 1209,937 1282,934 1354,936 1426,934 1499,934 1571,935 1644,932"/>
+                <TextEquiv>
+                    <Unicode>E nell'opera di codesti pittori di genere: nel loro quadetti, o quadri più grandi, dove</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="186,1041 1612,1061 1612,992 1557,968 186,988"/>
+                <Baseline points="196,1016 267,1014 338,1015 409,1014 480,1014 551,1013 622,1012 693,1012 764,1014 835,1014 906,1015 977,1015 1048,1016 1119,1014 1190,1011 1261,1010 1332,1011 1403,1010 1474,1012 1545,1013 1616,1020"/>
+                <TextEquiv>
+                    <Unicode>il soggetto, o la scena, o l'argomento han parte decisiva, s’avverte davvero il sorgere,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:9;}">
+                <Coords points="182,1123 1641,1109 1641,1052 1408,1038 182,1067"/>
+                <Baseline points="192,1096 264,1092 337,1091 410,1090 482,1088 555,1088 628,1088 700,1088 773,1092 846,1090 919,1092 991,1090 1064,1089 1137,1088 1209,1086 1282,1086 1355,1086 1427,1089 1500,1088 1573,1087 1646,1088"/>
+                <TextEquiv>
+                    <Unicode>lo scortere, riposare e distendersi di una spontaea vena di narrazione, e di racconte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="175,1184 1623,1200 1623,1118 1437,1103 906,1153 607,1111 175,1136"/>
+                <Baseline points="186,1174 258,1170 330,1168 402,1168 474,1165 546,1168 618,1164 690,1168 762,1168 834,1166 906,1166 978,1167 1050,1166 1122,1165 1194,1166 1266,1166 1338,1166 1410,1164 1482,1165 1554,1166 1626,1162"/>
+                <TextEquiv>
+                    <Unicode>in cui, nello spazio limitato e di tempo della loro tela, qualcosa di francamento ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="184,1258 1623,1253 1603,1195 184,1216"/>
+                <Baseline points="194,1244 265,1244 337,1244 409,1243 480,1245 552,1242 624,1243 695,1242 767,1243 839,1241 911,1242 982,1241 1054,1240 1126,1241 1197,1242 1269,1242 1341,1241 1412,1240 1484,1240 1556,1239 1628,1240"/>
+                <TextEquiv>
+                    <Unicode>di ingermamente storico sia stato fermato, e rapprennti, come in una scena, come alla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719158020448_245" custom="readingOrder {index:12;}">
+                <Coords points="182,1361 1585,1330 1585,1286 1284,1258 182,1275"/>
+                <Baseline points="192,1325 1588,1324"/>
+                <TextEquiv>
+                    <Unicode>ribalta di un teatrino improvvisato, la vita semplice della gente. Così chai grardane</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:13;} add {offset:0; length:12;place:above;}">
+                <Coords points="1433,1300 1486,1278 1503,1284 1536,1280 1547,1288 1623,1286 1621,1255 1581,1262 1574,1255 1559,1260 1534,1247 1512,1247 1497,1260 1457,1253 1432,1260"/>
+                <Baseline points="1444,1284 1470,1277 1496,1275 1522,1276 1549,1277 1575,1278 1601,1280 1628,1282"/>
+                <TextEquiv>
+                    <Unicode>partitamente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719158023365_250" custom="readingOrder {index:14;}">
+                <Coords points="1576,1351 1587,1353 1601,1340 1614,1344 1616,1342 1625,1342 1627,1300 1612,1299 1609,1295 1601,1295 1594,1289 1579,1288"/>
+                <Baseline points="1588,1331 1630,1329"/>
+                <TextEquiv>
+                    <Unicode>n</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:15;} del {offset:41; length:12;rend:overstrike;}">
+                <Coords points="184,1419 1616,1432 1616,1339 184,1357"/>
+                <Baseline points="194,1394 265,1394 336,1392 407,1393 479,1392 550,1390 621,1388 693,1390 764,1389 835,1390 907,1392 978,1392 1049,1392 1120,1391 1192,1390 1263,1390 1334,1392 1406,1392 1477,1396 1548,1393 1620,1390"/>
+                <TextEquiv>
+                    <Unicode>una ideale mostra di codesta umile arte, tamente il lavori di pittori d’ogni parte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:16;}">
+                <Coords points="182,1495 1585,1485 1572,1415 1415,1455 1173,1408 182,1441"/>
+                <Baseline points="192,1466 261,1469 331,1472 401,1470 471,1472 541,1471 610,1468 680,1467 750,1466 820,1466 890,1470 959,1468 1029,1470 1099,1472 1169,1470 1239,1470 1308,1470 1378,1470 1448,1470 1518,1470 1588,1470"/>
+                <TextEquiv>
+                    <Unicode>d’Italia: ma in ispecie delle provincie verezianz, lombarde, emiliane, laziali e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:17;}">
+                <Coords points="193,1596 308,1561 1623,1578 1623,1519 1563,1501 193,1490"/>
+                <Baseline points="204,1540 275,1546 346,1544 417,1547 488,1544 559,1544 630,1543 701,1543 772,1542 843,1543 915,1542 986,1544 1057,1542 1128,1544 1199,1544 1270,1544 1341,1544 1412,1544 1483,1545 1554,1548 1626,1554"/>
+                <TextEquiv>
+                    <Unicode>rapolitane, applicati a tal genere di figurazioni, poteebbe credere di veder messo in isce-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:18;}">
+                <Coords points="181,1643 1640,1649 1640,1576 1169,1565 1083,1603 917,1567 702,1605 646,1567 425,1603 295,1574 181,1610"/>
+                <Baseline points="190,1622 262,1622 335,1620 408,1621 480,1620 553,1618 626,1618 698,1618 771,1616 844,1616 917,1616 989,1618 1062,1618 1135,1619 1207,1616 1280,1618 1353,1618 1425,1616 1498,1618 1571,1618 1644,1626"/>
+                <TextEquiv>
+                    <Unicode>na le storie e le vicende buone a esser reccontate da una favolistica popolare e dialet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:19;}">
+                <Coords points="184,1729 1629,1725 1629,1643 184,1667"/>
+                <Baseline points="194,1700 266,1695 338,1694 410,1694 482,1693 554,1694 626,1694 698,1692 770,1692 842,1694 914,1694 986,1694 1058,1697 1130,1698 1202,1696 1274,1694 1346,1695 1418,1694 1490,1694 1562,1696 1634,1696"/>
+                <TextEquiv>
+                    <Unicode>tele che la liegna della patria tendesse a racchudere in un solo corpo. Una ricorrente unifr-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:20;}">
+                <Coords points="188,1793 1605,1791 1605,1740 1485,1713 188,1751"/>
+                <Baseline points="198,1772 268,1775 339,1773 409,1772 480,1771 551,1770 621,1770 692,1769 762,1768 833,1770 904,1770 974,1770 1045,1770 1115,1771 1186,1772 1257,1774 1327,1773 1398,1772 1468,1772 1539,1772 1610,1782"/>
+                <TextEquiv>
+                    <Unicode>mità di motivi: così come, nella narrativa popolare del seicento, un'identica storiella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719158033393_259" custom="readingOrder {index:21;}">
+                <Coords points="177,1873 226,1884 241,1884 243,1880 248,1884 259,1882 255,1831 232,1831 226,1826 217,1835 213,1833 208,1838 197,1837 190,1831 175,1833"/>
+                <Baseline points="187,1854 259,1858"/>
+                <TextEquiv>
+                    <Unicode>una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:22;} add {offset:0; length:6;place:above;}">
+                <Coords points="201,1816 215,1815 230,1826 248,1831 261,1826 272,1816 283,1815 283,1787 263,1793 244,1780 233,1789 226,1787 212,1796 201,1796"/>
+                <Baseline points="210,1810 236,1810 262,1810 288,1814"/>
+                <TextEquiv>
+                    <Unicode>stessa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719158041691_264" custom="readingOrder {index:23;}">
+                <Coords points="272,1880 1647,1880 1647,1813 1499,1798 272,1795"/>
+                <Baseline points="282,1856 1651,1856"/>
+                <TextEquiv>
+                    <Unicode>favola, trova patria e acclimatazione naturale, fanando dalle strade di Napoli ai portia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:24;} hi {offset:15; length:17;rend:underline;} hi {offset:41; length:24;rend:underline;}">
+                <Coords points="175,1961 1636,1950 1596,1869 175,1886"/>
+                <Baseline points="186,1926 258,1924 331,1924 404,1926 476,1925 549,1922 622,1920 694,1920 767,1920 840,1919 913,1918 985,1918 1058,1921 1131,1920 1203,1920 1276,1922 1349,1921 1421,1919 1494,1918 1567,1919 1640,1922"/>
+                <TextEquiv>
+                    <Unicode>di Bologna: Il cunto de li Cunti, divine la Ciaglira dla banzola, spettacolo quotidiamo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:25;}">
+                <Coords points="171,2024 1638,2039 1638,1970 1430,1946 932,1977 804,1937 706,1971 432,1939 171,1982"/>
+                <Baseline points="182,2008 254,2002 327,1999 400,1996 473,1996 546,1997 619,1994 692,1994 765,1994 838,1995 911,1996 983,1996 1056,1996 1129,1998 1202,1999 1275,1996 1348,1998 1421,1996 1494,1996 1567,2000 1640,2006"/>
+                <TextEquiv>
+                    <Unicode>e spontamo della vita nelle sue vicende, illuminato e disto alla luce, della fantasia, della rie-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:26;} del {offset:66; length:5;rend:overstrike;} gap {offset:66; length:0;quantity:5; unit:character; reason:unreadable;}">
+                <Coords points="175,2101 1592,2116 1592,2048 1505,2033 175,2044"/>
+                <Baseline points="186,2080 256,2079 327,2081 397,2074 468,2075 538,2074 609,2072 679,2073 750,2074 820,2073 891,2076 961,2076 1032,2076 1102,2074 1173,2074 1243,2074 1314,2074 1384,2072 1455,2075 1525,2078 1596,2080"/>
+                <TextEquiv>
+                    <Unicode>vocazione, provocata nell cauore dell'uomo, per prendere coraggioa ricominciare ogni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

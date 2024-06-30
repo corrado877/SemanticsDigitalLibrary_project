@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:31:36.185+02:00</Created>
+        <LastChange>2024-06-24T09:29:59.010+02:00</LastChange>
+        <TranskribusMetadata docId="1929340" pageId="68037903" pageNr="5" tsid="173606219" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=AIARFPZDULTDCRCOHIZUQXLQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EBJFKZYDEOMTZTRVNGIRTHQH" imageId="54315834"/>
+    </Metadata>
+    <Page imageFilename="Q_2_1957_0006_c2v.jpg" imageWidth="1798" imageHeight="2520" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746854218" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="185,307 182,2097 1646,2097 1649,307"/>
+            <TextLine id="line_1719158005377_236" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="1555,332 1599,332 1599,382 1555,382"/>
+                <Baseline points="1555,377 1599,377"/>
+                <TextEquiv>
+                    <Unicode>1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;} hi {offset:0; length:15;rend:underline;}">
+                <Coords points="682,404 708,401 735,399 761,398 788,397 814,396 841,396 867,394 894,392 920,391 947,390 973,389 1000,388 1026,388 1053,388 1080,388 1080,339 1053,339 1026,339 1000,339 973,340 947,341 920,342 894,343 867,345 841,347 814,347 788,348 761,349 735,350 708,352 682,355"/>
+                <Baseline points="682,388 708,385 735,383 761,382 788,381 814,380 841,380 867,378 894,376 920,375 947,374 973,373 1000,372 1026,372 1053,372 1080,372"/>
+                <TextEquiv>
+                    <Unicode>Monsù Bernardo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="224,576 292,574 360,574 429,574 497,574 566,574 634,574 702,574 771,576 839,575 908,574 976,572 1044,572 1113,573 1181,574 1250,574 1318,577 1386,576 1455,576 1523,575 1592,576 1592,527 1523,526 1455,527 1386,527 1318,528 1250,525 1181,525 1113,524 1044,523 976,523 908,525 839,526 771,527 702,525 634,525 566,525 497,525 429,525 360,525 292,525 224,527"/>
+                <Baseline points="224,560 292,558 360,558 429,558 497,558 566,558 634,558 702,558 771,560 839,559 908,558 976,556 1044,556 1113,557 1181,558 1250,558 1318,561 1386,560 1455,560 1523,559 1592,560"/>
+                <TextEquiv>
+                    <Unicode>Sarà stato detto, immagino, come la pittura del seicento in Italia, in ispecie quella che,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="192,656 264,655 336,654 408,654 480,654 552,654 624,651 696,652 768,652 840,650 912,650 984,651 1056,650 1128,650 1200,650 1272,650 1344,648 1416,648 1488,648 1560,646 1632,650 1632,601 1560,597 1488,599 1416,599 1344,599 1272,601 1200,601 1128,601 1056,601 984,602 912,601 840,601 768,603 696,603 624,602 552,605 480,605 408,605 336,605 264,606 192,607"/>
+                <Baseline points="192,640 264,639 336,638 408,638 480,638 552,638 624,635 696,636 768,636 840,634 912,634 984,635 1056,634 1128,634 1200,634 1272,634 1344,632 1416,632 1488,632 1560,630 1632,634"/>
+                <TextEquiv>
+                    <Unicode>nella seconda metà del secolo fu genericamente chiamata “pittura di genere”, abbia servito a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="192,730 298,728 369,729 439,730 510,729 580,726 651,726 721,725 792,725 862,726 933,726 1003,726 1074,728 1144,726 1215,726 1285,726 1356,724 1426,726 1497,726 1567,726 1638,730 1638,681 1567,677 1497,677 1426,677 1356,675 1285,677 1215,677 1144,677 1074,679 1003,677 933,677 862,677 792,676 721,676 651,677 580,677 510,680 439,681 369,680 298,679 192,681"/>
+                <Baseline points="197,716 298,712 369,713 439,714 510,713 580,710 651,710 721,709 792,709 862,710 933,710 1003,710 1074,712 1144,710 1215,710 1285,710 1356,708 1426,710 1497,710 1567,710 1638,714"/>
+                <TextEquiv>
+                    <Unicode>rappresentare la vita quotidiana della nazione: a raffigurarla in scene ed episodi trat-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="194,804 266,802 339,802 411,804 484,803 556,802 629,802 701,800 774,800 846,800 919,800 991,802 1064,802 1136,800 1209,798 1281,796 1354,797 1426,796 1499,799 1571,802 1644,806 1644,757 1571,753 1499,750 1426,747 1354,748 1281,747 1209,749 1136,751 1064,753 991,753 919,751 846,751 774,751 701,751 629,753 556,753 484,754 411,755 339,753 266,753 194,755"/>
+                <Baseline points="194,788 266,786 339,786 411,788 484,787 556,786 629,786 701,784 774,784 846,784 919,784 991,786 1064,786 1136,784 1209,782 1281,780 1354,781 1426,780 1499,783 1571,786 1644,790"/>
+                <TextEquiv>
+                    <Unicode>ti dal vero, con più carattere e stile che non sia stato fatto dagli scrittori dello stes-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="188,888 260,886 332,883 405,880 477,878 550,876 622,876 694,877 767,876 839,876 912,876 984,875 1056,876 1129,876 1201,874 1274,874 1346,877 1418,876 1491,875 1563,876 1636,884 1636,836 1563,828 1491,827 1418,828 1346,829 1274,826 1201,826 1129,828 1056,828 984,827 912,828 839,828 767,828 694,829 622,828 550,828 477,830 405,832 332,835 260,838 188,840"/>
+                <Baseline points="188,872 260,870 332,867 405,864 477,862 550,860 622,860 694,861 767,860 839,860 912,860 984,859 1056,860 1129,860 1201,858 1274,858 1346,861 1418,860 1491,859 1563,860 1636,868"/>
+                <TextEquiv>
+                    <Unicode>so tempo. Da scrittori, che fossero narratori o prosatori con spirito d’arte, non cronisti.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="196,960 268,956 340,955 413,954 485,953 558,954 630,954 702,953 775,952 847,952 920,952 992,951 1064,950 1137,950 1209,953 1282,950 1354,952 1426,950 1499,950 1571,951 1644,948 1644,900 1571,903 1499,902 1426,902 1354,904 1282,902 1209,905 1137,902 1064,902 992,903 920,904 847,904 775,904 702,905 630,906 558,906 485,905 413,906 340,907 268,908 196,912"/>
+                <Baseline points="196,944 268,940 340,939 413,938 485,937 558,938 630,938 702,937 775,936 847,936 920,936 992,935 1064,934 1137,934 1209,937 1282,934 1354,936 1426,934 1499,934 1571,935 1644,932"/>
+                <TextEquiv>
+                    <Unicode>E nell’opera di codesti pittori di genere: nei loro quadretti, o quadri più grandi, dove</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="196,1032 267,1030 338,1031 409,1030 480,1030 551,1029 622,1028 693,1028 764,1030 835,1030 906,1031 977,1031 1048,1032 1119,1030 1190,1027 1261,1026 1332,1027 1403,1026 1474,1028 1545,1029 1616,1036 1616,987 1545,980 1474,979 1403,977 1332,978 1261,977 1190,978 1119,981 1048,983 977,982 906,982 835,981 764,981 693,979 622,979 551,980 480,981 409,981 338,982 267,981 196,983"/>
+                <Baseline points="196,1016 267,1014 338,1015 409,1014 480,1014 551,1013 622,1012 693,1012 764,1014 835,1014 906,1015 977,1015 1048,1016 1119,1014 1190,1011 1261,1010 1332,1011 1403,1010 1474,1012 1545,1013 1616,1020"/>
+                <TextEquiv>
+                    <Unicode>il soggetto, o la scena, o l’argomento han parte decisiva, s’avverte davvero il sorgere,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:9;}">
+                <Coords points="192,1112 264,1108 337,1107 410,1106 482,1104 555,1104 628,1104 700,1104 773,1108 846,1106 919,1108 991,1106 1064,1105 1137,1104 1209,1102 1282,1102 1355,1102 1427,1105 1500,1104 1573,1103 1646,1104 1646,1055 1573,1054 1500,1055 1427,1056 1355,1053 1282,1053 1209,1053 1137,1055 1064,1056 991,1057 919,1059 846,1057 773,1059 700,1055 628,1055 555,1055 482,1055 410,1057 337,1058 264,1059 192,1063"/>
+                <Baseline points="192,1096 264,1092 337,1091 410,1090 482,1088 555,1088 628,1088 700,1088 773,1092 846,1090 919,1092 991,1090 1064,1089 1137,1088 1209,1086 1282,1086 1355,1086 1427,1089 1500,1088 1573,1087 1646,1088"/>
+                <TextEquiv>
+                    <Unicode>lo scorrere, riposare e distendersi di una spontanea vena di narrazione, e di racconto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="186,1190 258,1186 330,1184 402,1184 474,1181 546,1184 618,1180 690,1184 762,1184 834,1182 906,1182 978,1183 1050,1182 1122,1181 1194,1182 1266,1182 1338,1182 1410,1180 1482,1181 1554,1182 1626,1178 1626,1129 1554,1133 1482,1132 1410,1131 1338,1133 1266,1133 1194,1133 1122,1132 1050,1133 978,1134 906,1133 834,1133 762,1135 690,1135 618,1131 546,1135 474,1132 402,1135 330,1135 258,1137 186,1141"/>
+                <Baseline points="186,1174 258,1170 330,1168 402,1168 474,1165 546,1168 618,1164 690,1168 762,1168 834,1166 906,1166 978,1167 1050,1166 1122,1165 1194,1166 1266,1166 1338,1166 1410,1164 1482,1165 1554,1166 1626,1162"/>
+                <TextEquiv>
+                    <Unicode>in cui, nello spazio limitato e di tempo della loro tela, qualcosa di francamente vero,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="194,1254 265,1254 337,1254 409,1253 480,1255 552,1252 624,1253 695,1252 767,1253 839,1251 911,1252 982,1251 1054,1250 1126,1251 1197,1252 1269,1252 1341,1251 1412,1250 1484,1250 1556,1249 1628,1250 1628,1220 1556,1219 1484,1220 1412,1220 1341,1221 1269,1222 1197,1222 1126,1221 1054,1220 982,1221 911,1222 839,1221 767,1223 695,1222 624,1223 552,1222 480,1225 409,1223 337,1224 265,1224 194,1224"/>
+                <Baseline points="194,1244 265,1244 337,1244 409,1243 480,1245 552,1242 624,1243 695,1242 767,1243 839,1241 911,1242 982,1241 1054,1240 1126,1241 1197,1242 1269,1242 1341,1241 1412,1240 1484,1240 1556,1239 1628,1240"/>
+                <TextEquiv>
+                    <Unicode>di ingenuamente storico sia stato fermato, e rappresenti, come in una scena, come alla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719158020448_245" custom="readingOrder {index:12;}">
+                <Coords points="192,1280 1588,1279 1588,1329 192,1330"/>
+                <Baseline points="192,1325 1588,1324"/>
+                <TextEquiv>
+                    <Unicode>ribalta di un teatrino improvvisato, la vita semplice della gente. Così chi guardasse </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:13;} add {offset:0; length:12;place:above;}">
+                <Coords points="1444,1294 1470,1287 1496,1285 1522,1286 1549,1287 1575,1288 1601,1290 1628,1292 1628,1262 1601,1260 1575,1258 1549,1257 1522,1256 1496,1255 1470,1257 1444,1264"/>
+                <Baseline points="1444,1284 1470,1277 1496,1275 1522,1276 1549,1277 1575,1278 1601,1280 1628,1282"/>
+                <TextEquiv>
+                    <Unicode>partitamente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719158023365_250" custom="readingOrder {index:14;}">
+                <Coords points="1586,1286 1628,1284 1630,1334 1588,1336"/>
+                <Baseline points="1588,1331 1630,1329"/>
+                <TextEquiv>
+                    <Unicode>, in </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:15;} del {offset:41; length:12;rend:overstrike;}">
+                <Coords points="194,1410 265,1410 336,1408 407,1409 479,1408 550,1406 621,1404 693,1406 764,1405 835,1406 907,1408 978,1408 1049,1408 1120,1407 1192,1406 1263,1406 1334,1408 1406,1408 1477,1412 1548,1409 1620,1406 1620,1357 1548,1360 1477,1363 1406,1359 1334,1359 1263,1357 1192,1357 1120,1358 1049,1359 978,1359 907,1359 835,1357 764,1356 693,1357 621,1355 550,1357 479,1359 407,1360 336,1359 265,1361 194,1361"/>
+                <Baseline points="194,1394 265,1394 336,1392 407,1393 479,1392 550,1390 621,1388 693,1390 764,1389 835,1390 907,1392 978,1392 1049,1392 1120,1391 1192,1390 1263,1390 1334,1392 1406,1392 1477,1396 1548,1393 1620,1390"/>
+                <TextEquiv>
+                    <Unicode>una ideale mostra di codesta umile arte, partitamente i lavori di pittori d’ogni parte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:16;}">
+                <Coords points="192,1482 261,1485 331,1488 401,1486 471,1488 541,1487 610,1484 680,1483 750,1482 820,1482 890,1486 959,1484 1029,1486 1099,1488 1169,1486 1239,1486 1308,1486 1378,1486 1448,1486 1518,1486 1588,1486 1588,1437 1518,1437 1448,1437 1378,1437 1308,1437 1239,1437 1169,1437 1099,1439 1029,1437 959,1435 890,1437 820,1433 750,1433 680,1434 610,1435 541,1438 471,1439 401,1437 331,1439 261,1436 192,1433"/>
+                <Baseline points="192,1466 261,1469 331,1472 401,1470 471,1472 541,1471 610,1468 680,1467 750,1466 820,1466 890,1470 959,1468 1029,1470 1099,1472 1169,1470 1239,1470 1308,1470 1378,1470 1448,1470 1518,1470 1588,1470"/>
+                <TextEquiv>
+                    <Unicode>d'Italia: ma in ispecie delle provincie veneziane, lombarde, emiliane, laziali e </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:17;}">
+                <Coords points="204,1556 275,1562 346,1560 417,1563 488,1560 559,1560 630,1559 701,1559 772,1558 843,1559 915,1558 986,1560 1057,1558 1128,1560 1199,1560 1270,1560 1341,1560 1412,1560 1483,1561 1554,1564 1626,1570 1626,1521 1554,1515 1483,1512 1412,1511 1341,1511 1270,1511 1199,1511 1128,1511 1057,1509 986,1511 915,1509 843,1510 772,1509 701,1510 630,1510 559,1511 488,1511 417,1514 346,1511 275,1513 204,1507"/>
+                <Baseline points="204,1540 275,1546 346,1544 417,1547 488,1544 559,1544 630,1543 701,1543 772,1542 843,1543 915,1542 986,1544 1057,1542 1128,1544 1199,1544 1270,1544 1341,1544 1412,1544 1483,1545 1554,1548 1626,1554"/>
+                <TextEquiv>
+                    <Unicode>napolitane, applicati a tal genere di figurazioni, potrebbe credere di vedere messe in isce-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:18;}">
+                <Coords points="190,1638 262,1638 335,1636 408,1637 480,1636 553,1634 626,1634 698,1634 771,1632 844,1632 917,1632 989,1634 1062,1634 1135,1635 1207,1632 1280,1634 1353,1634 1425,1632 1498,1634 1571,1634 1644,1642 1644,1593 1571,1585 1498,1585 1425,1583 1353,1585 1280,1585 1207,1583 1135,1586 1062,1585 989,1585 917,1583 844,1583 771,1583 698,1585 626,1585 553,1585 480,1587 408,1588 335,1587 262,1589 190,1589"/>
+                <Baseline points="190,1622 262,1622 335,1620 408,1621 480,1620 553,1618 626,1618 698,1618 771,1616 844,1616 917,1616 989,1618 1062,1618 1135,1619 1207,1616 1280,1618 1353,1618 1425,1616 1498,1618 1571,1618 1644,1626"/>
+                <TextEquiv>
+                    <Unicode>na le storie e le vicende buone a esser raccontate da una favolistica popolare e dialet-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:19;}">
+                <Coords points="194,1716 266,1711 338,1710 410,1710 482,1709 554,1710 626,1710 698,1708 770,1708 842,1710 914,1710 986,1710 1058,1713 1130,1714 1202,1712 1274,1710 1346,1711 1418,1710 1490,1710 1562,1712 1634,1712 1634,1663 1562,1663 1490,1661 1418,1661 1346,1662 1274,1661 1202,1663 1130,1665 1058,1664 986,1661 914,1661 842,1661 770,1659 698,1659 626,1661 554,1661 482,1660 410,1661 338,1661 266,1662 194,1667"/>
+                <Baseline points="194,1700 266,1695 338,1694 410,1694 482,1693 554,1694 626,1694 698,1692 770,1692 842,1694 914,1694 986,1694 1058,1697 1130,1698 1202,1696 1274,1694 1346,1695 1418,1694 1490,1694 1562,1696 1634,1696"/>
+                <TextEquiv>
+                    <Unicode>tale che la lingua della patria tendesse a racchiudere in un solo corpo. Una ricorrente unifor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:20;}">
+                <Coords points="198,1782 268,1785 339,1783 409,1782 480,1781 551,1780 621,1780 692,1779 762,1778 833,1780 904,1780 974,1780 1045,1780 1115,1781 1186,1782 1257,1784 1327,1783 1398,1782 1468,1782 1539,1782 1610,1792 1610,1762 1539,1752 1468,1752 1398,1752 1327,1753 1257,1754 1186,1752 1115,1751 1045,1750 974,1750 904,1750 833,1750 762,1748 692,1749 621,1750 551,1750 480,1751 409,1752 339,1753 268,1755 198,1752"/>
+                <Baseline points="198,1772 268,1775 339,1773 409,1772 480,1771 551,1770 621,1770 692,1769 762,1768 833,1770 904,1770 974,1770 1045,1770 1115,1771 1186,1772 1257,1774 1327,1773 1398,1772 1468,1772 1539,1772 1610,1782"/>
+                <TextEquiv>
+                    <Unicode>mità di motivi: così come, nella narrativa popolare del seicento, un’identica storiella,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719158033393_259" custom="readingOrder {index:21;}">
+                <Coords points="189,1809 261,1813 259,1863 187,1859"/>
+                <Baseline points="187,1854 259,1858"/>
+                <TextEquiv>
+                    <Unicode>una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:22;} add {offset:0; length:6;place:above;}">
+                <Coords points="210,1820 236,1820 262,1820 288,1824 288,1794 262,1790 236,1790 210,1790"/>
+                <Baseline points="210,1810 236,1810 262,1810 288,1814"/>
+                <TextEquiv>
+                    <Unicode>stessa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719158041691_264" custom="readingOrder {index:23;}">
+                <Coords points="282,1811 1651,1811 1651,1861 282,1861"/>
+                <Baseline points="282,1856 1651,1856"/>
+                <TextEquiv>
+                    <Unicode>favola, trova patria e acclimatazione culturale, passando dalle strade di Napoli ai portici</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:24;} hi {offset:15; length:17;rend:underline;} hi {offset:41; length:24;rend:underline;}">
+                <Coords points="186,1942 258,1940 331,1940 404,1942 476,1941 549,1938 622,1936 694,1936 767,1936 840,1935 913,1934 985,1934 1058,1937 1131,1936 1203,1936 1276,1938 1349,1937 1421,1935 1494,1934 1567,1935 1640,1938 1640,1889 1567,1886 1494,1885 1421,1886 1349,1888 1276,1889 1203,1887 1131,1887 1058,1888 985,1885 913,1885 840,1886 767,1887 694,1887 622,1887 549,1889 476,1892 404,1893 331,1891 258,1891 186,1893"/>
+                <Baseline points="186,1926 258,1924 331,1924 404,1926 476,1925 549,1922 622,1920 694,1920 767,1920 840,1919 913,1918 985,1918 1058,1921 1131,1920 1203,1920 1276,1922 1349,1921 1421,1919 1494,1918 1567,1919 1640,1922"/>
+                <TextEquiv>
+                    <Unicode>di Bologna: Il Cunto de li Cunti diviene la Ciaqlira dela banzola, spettacolo quotidiano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:25;}">
+                <Coords points="182,2024 254,2018 327,2015 400,2012 473,2012 546,2013 619,2010 692,2010 765,2010 838,2011 911,2012 983,2012 1056,2012 1129,2014 1202,2015 1275,2012 1348,2014 1421,2012 1494,2012 1567,2016 1640,2022 1640,1973 1567,1967 1494,1963 1421,1963 1348,1965 1275,1963 1202,1966 1129,1965 1056,1963 983,1963 911,1963 838,1962 765,1961 692,1961 619,1961 546,1964 473,1963 400,1963 327,1966 254,1969 182,1975"/>
+                <Baseline points="182,2008 254,2002 327,1999 400,1996 473,1996 546,1997 619,1994 692,1994 765,1994 838,1995 911,1996 983,1996 1056,1996 1129,1998 1202,1999 1275,1996 1348,1998 1421,1996 1494,1996 1567,2000 1640,2006"/>
+                <TextEquiv>
+                    <Unicode>e spontaneo della vita nelle sue vicende, illuminato e visto alla luce della fantasia, della rie-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:26;} del {offset:66; length:5;rend:overstrike;} gap {offset:66; length:0;quantity:5; unit:character; reason:unreadable;}">
+                <Coords points="186,2096 256,2095 327,2097 397,2090 468,2091 538,2090 609,2088 679,2089 750,2090 820,2089 891,2092 961,2092 1032,2092 1102,2090 1173,2090 1243,2090 1314,2090 1384,2088 1455,2091 1525,2094 1596,2096 1596,2047 1525,2045 1455,2042 1384,2039 1314,2041 1243,2041 1173,2041 1102,2041 1032,2043 961,2043 891,2043 820,2040 750,2041 679,2040 609,2039 538,2041 468,2042 397,2041 327,2048 256,2046 186,2047"/>
+                <Baseline points="186,2080 256,2079 327,2081 397,2074 468,2075 538,2074 609,2072 679,2073 750,2074 820,2073 891,2076 961,2076 1032,2076 1102,2074 1173,2074 1243,2074 1314,2074 1384,2072 1455,2075 1525,2078 1596,2080"/>
+                <TextEquiv>
+                    <Unicode>vocazione, provocata nel cuore dell’uomo, per prendere coraggio a       ricominciare ogni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1.&#13;
+Monsù Bernardo.&#13;
+Sarà stato detto, immagino, come la pittura del seicento in Italia, in ispecie quella che,&#13;
+nella seconda metà del secolo fu genericamente chiamata “pittura di genere”, abbia servito a&#13;
+rappresentare la vita quotidiana della nazione: a raffigurarla in scene ed episodi trat-&#13;
+ti dal vero, con più carattere e stile che non sia stato fatto dagli scrittori dello stes-&#13;
+so tempo. Da scrittori, che fossero narratori o prosatori con spirito d’arte, non cronisti.&#13;
+E nell’opera di codesti pittori di genere: nei loro quadretti, o quadri più grandi, dove&#13;
+il soggetto, o la scena, o l’argomento han parte decisiva, s’avverte davvero il sorgere,&#13;
+lo scorrere, riposare e distendersi di una spontanea vena di narrazione, e di racconto&#13;
+in cui, nello spazio limitato e di tempo della loro tela, qualcosa di francamente vero,&#13;
+di ingenuamente storico sia stato fermato, e rappresenti, come in una scena, come alla&#13;
+ribalta di un teatrino improvvisato, la vita semplice della gente. Così chi guardasse &#13;
+partitamente&#13;
+, in &#13;
+una ideale mostra di codesta umile arte, partitamente i lavori di pittori d’ogni parte&#13;
+d'Italia: ma in ispecie delle provincie veneziane, lombarde, emiliane, laziali e &#13;
+napolitane, applicati a tal genere di figurazioni, potrebbe credere di vedere messe in isce-&#13;
+na le storie e le vicende buone a esser raccontate da una favolistica popolare e dialet-&#13;
+tale che la lingua della patria tendesse a racchiudere in un solo corpo. Una ricorrente unifor-&#13;
+mità di motivi: così come, nella narrativa popolare del seicento, un’identica storiella,&#13;
+una&#13;
+stessa&#13;
+favola, trova patria e acclimatazione culturale, passando dalle strade di Napoli ai portici&#13;
+di Bologna: Il Cunto de li Cunti diviene la Ciaqlira dela banzola, spettacolo quotidiano&#13;
+e spontaneo della vita nelle sue vicende, illuminato e visto alla luce della fantasia, della rie-&#13;
+vocazione, provocata nel cuore dell’uomo, per prendere coraggio a       ricominciare ogni</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

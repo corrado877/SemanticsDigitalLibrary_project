@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=29_06_2024_13:33</Creator>
+        <Created>2024-04-09T18:31:36.305+02:00</Created>
+        <LastChange>2024-06-29T13:33:50.728+02:00</LastChange>
+        <TranskribusMetadata docId="3059563" pageId="74284471" pageNr="6" tsid="175460311" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=KVPKGSFKHGXJCAOVGCQKYWZR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OFSVMHEMFAXTTEOKMIZMJUQT" imageId="54315838"/>
+    </Metadata>
+    <Page imageFilename="Q_2_1957_0007_c3r.jpg" imageWidth="1798" imageHeight="2520" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746882208" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1719163714147_337"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1719163714147_337" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="149,345 149,395 211,395 211,345"/>
+            <TextLine id="line_1719163714332_340" custom="readingOrder {index:0;}">
+                <Coords points="139,444 152,446 157,440 164,442 173,435 186,444 206,444 206,338 186,342 181,338 175,342 166,340 157,347 139,345"/>
+                <Baseline points="149,390 211,390"/>
+                <TextEquiv>
+                    <Unicode>2:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="146,532 146,2097 1620,2097 1620,532"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="163,597 186,606 228,579 250,590 265,581 307,586 325,575 343,588 354,583 371,594 380,586 398,595 400,528 365,520 318,530 219,499 164,508"/>
+                <Baseline points="174,572 199,568 224,566 250,564 275,566 300,565 326,565 351,566 376,566 402,568"/>
+                <TextEquiv>
+                    <Unicode>giorno nuovo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="172,683 1552,667 1552,601 1406,579 172,603"/>
+                <Baseline points="182,638 250,635 319,634 388,634 456,636 525,636 594,640 662,640 731,643 800,644 869,640 937,638 1006,639 1075,640 1143,636 1212,636 1281,634 1349,636 1418,634 1487,634 1556,636"/>
+                <TextEquiv>
+                    <Unicode>Monssà Bernardo è uno di questi pittori di genere: di questi attori e testimoni della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="163,751 1560,734 1561,665 1320,652 1266,685 164,683"/>
+                <Baseline points="172,718 241,716 311,716 380,713 450,714 520,714 589,712 659,714 728,712 798,710 868,712 937,712 1007,712 1076,712 1146,714 1216,713 1285,710 1355,710 1424,708 1494,710 1564,714"/>
+                <TextEquiv>
+                    <Unicode>confusa, accesa vita italiana, la cui testimonianza parla, francamente, dalle tele che essi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="153,813 1571,822 1560,732 153,752"/>
+                <Baseline points="164,790 234,790 305,789 375,788 446,786 517,788 587,790 658,789 728,786 799,788 870,790 940,792 1011,790 1081,788 1152,790 1223,788 1293,789 1364,788 1434,787 1505,789 1576,792"/>
+                <TextEquiv>
+                    <Unicode>dipinsero e seminarono lungo le strade d'Itolia, nei piccoli e grandi centri, o soddisfare la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="157,904 1602,886 1582,818 1421,846 1275,805 1149,842 1090,807 157,842"/>
+                <Baseline points="168,862 239,867 311,866 383,866 455,867 527,868 599,867 671,866 743,864 815,866 887,864 958,865 1030,863 1102,864 1174,862 1246,860 1318,861 1390,861 1462,864 1534,862 1606,864"/>
+                <TextEquiv>
+                    <Unicode>richiesta della clientela improvvisata: piccola bughesia, più che signori, cristocratici; oppure buone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="148,964 1598,981 1598,888 1541,878 1258,919 1174,880 880,924 798,888 148,908"/>
+                <Baseline points="158,944 230,941 302,940 374,940 446,939 519,938 591,939 663,938 735,938 807,938 880,940 952,938 1024,938 1096,939 1168,938 1241,938 1313,940 1385,938 1457,936 1529,936 1602,946"/>
+                <TextEquiv>
+                    <Unicode>a saldare il conto dell'orte. Monsi Bernardo era il nome italiano, di un artista nato a Helin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;} hi {offset:0; length:3;rend:underline;} gap {offset:22; length:0;quantity:5; unit:character; reason:unreadable;}">
+                <Coords points="164,1057 1589,1037 1589,972 1468,961 164,979"/>
+                <Baseline points="174,1026 245,1022 316,1019 387,1018 458,1018 529,1016 600,1016 671,1014 742,1015 813,1014 884,1013 955,1010 1026,1010 1097,1013 1168,1014 1239,1014 1310,1016 1381,1014 1452,1015 1523,1015 1594,1014"/>
+                <TextEquiv>
+                    <Unicode>gor in Danimarca, ma fose di ceppo germanico: Eburhard Meil. Roberto Loughi, foro da 23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="155,1114 1611,1119 1576,1035 155,1057"/>
+                <Baseline points="166,1096 238,1095 311,1092 383,1095 456,1091 528,1090 601,1089 673,1090 746,1088 818,1090 891,1088 963,1089 1036,1088 1108,1088 1181,1088 1253,1088 1326,1088 1398,1088 1471,1091 1543,1092 1616,1096"/>
+                <TextEquiv>
+                    <Unicode>anni or sono, fu l'autore del ritrovamento e riconoscimento di codesto curioso vittore che, forse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="152,1193 1598,1194 1598,1125 1560,1118 152,1114"/>
+                <Baseline points="162,1176 234,1171 306,1170 378,1169 450,1166 522,1168 594,1166 666,1166 738,1168 810,1168 882,1166 954,1166 1026,1164 1098,1163 1170,1164 1242,1164 1314,1163 1386,1164 1458,1164 1530,1166 1602,1168"/>
+                <TextEquiv>
+                    <Unicode>persseguitato da un destino amletico, come ad un compatriota del Principe danese si coveniva, era</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="157,1269 1589,1275 1589,1200 1399,1183 157,1207"/>
+                <Baseline points="168,1252 239,1246 310,1244 381,1243 453,1244 524,1242 595,1241 667,1240 738,1240 809,1238 881,1238 952,1238 1023,1238 1094,1240 1166,1240 1237,1242 1308,1242 1380,1240 1451,1236 1522,1239 1594,1240"/>
+                <TextEquiv>
+                    <Unicode>sparito, vestito di nuovi panni, dietro le quinte della storia dell'arte. Paziente e, al solito, bil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="152,1348 1576,1335 1576,1273 1492,1262 1266,1297 1138,1258 705,1298 152,1278"/>
+                <Baseline points="162,1324 232,1324 303,1324 374,1322 445,1320 516,1320 587,1320 658,1318 729,1318 800,1316 871,1315 941,1316 1012,1316 1083,1316 1154,1318 1225,1318 1296,1318 1367,1316 1438,1318 1509,1317 1580,1316"/>
+                <TextEquiv>
+                    <Unicode>lante fu l'indagine, poi la ricostenzione storica del Longhi: tanto che oggi, passando davante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="150,1424 1600,1414 1600,1359 1479,1337 150,1373"/>
+                <Baseline points="160,1394 232,1396 304,1396 376,1396 448,1394 521,1394 593,1393 665,1392 737,1392 809,1392 882,1392 954,1392 1026,1394 1098,1394 1170,1395 1243,1398 1315,1394 1387,1394 1459,1395 1531,1395 1604,1396"/>
+                <TextEquiv>
+                    <Unicode>alle vatrive di un antiquario milanese, può accadere di nedere asporti i quadri, col paesfico case</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;} hi {offset:9; length:14;rend:underline;}">
+                <Coords points="135,1503 1600,1490 1578,1426 1350,1414 135,1430"/>
+                <Baseline points="146,1478 218,1474 291,1472 364,1473 437,1470 510,1470 583,1471 656,1470 729,1470 802,1470 875,1470 947,1472 1020,1470 1093,1472 1166,1472 1239,1471 1312,1472 1385,1472 1458,1475 1531,1478 1604,1478"/>
+                <TextEquiv>
+                    <Unicode>tello di. obonsi Bernardo. Vediamo, succintamente, i documentidi costeri. Nato, dunque, in De-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="142,1582 1607,1583 1607,1512 1549,1496 721,1523 499,1490 142,1534"/>
+                <Baseline points="152,1556 225,1552 298,1552 371,1551 444,1554 517,1551 590,1548 663,1548 736,1546 809,1544 882,1543 955,1542 1028,1542 1101,1544 1174,1544 1247,1546 1320,1546 1393,1546 1466,1546 1539,1548 1612,1552"/>
+                <TextEquiv>
+                    <Unicode>immarca nel 1624, an stato allievo di Rembrandt. Dall'Olanda, per chissà qualistrade, a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="155,1656 1587,1642 1587,1580 1519,1563 155,1583"/>
+                <Baseline points="166,1630 237,1628 308,1628 379,1625 451,1622 522,1623 593,1624 665,1624 736,1623 807,1624 879,1624 950,1621 1021,1620 1092,1622 1164,1620 1235,1620 1306,1622 1378,1620 1449,1622 1520,1622 1592,1622"/>
+                <TextEquiv>
+                    <Unicode>toccando chissà quali culture figurative di quella metà di secdo, nel '81 arriva in Italia: a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="161,1728 1602,1717 1576,1649 1308,1638 161,1660"/>
+                <Baseline points="170,1704 241,1705 313,1702 385,1700 457,1700 529,1700 600,1700 672,1698 744,1703 816,1702 888,1700 959,1700 1031,1696 1103,1700 1175,1698 1247,1698 1318,1698 1390,1696 1462,1696 1534,1698 1606,1698"/>
+                <TextEquiv>
+                    <Unicode>Venezia. Lavora a Venezia, fino al '5y, poi, per un paio di anni si trova fra Berfamo e Mila-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="157,1806 1607,1799 1607,1729 1567,1719 157,1731"/>
+                <Baseline points="168,1780 240,1778 312,1778 384,1776 456,1774 529,1774 601,1773 673,1773 745,1772 817,1774 890,1774 962,1772 1034,1775 1106,1776 1178,1777 1251,1776 1323,1775 1395,1772 1467,1772 1539,1776 1612,1778"/>
+                <TextEquiv>
+                    <Unicode>no. Nel '86, si spuorta verso il sud: lasciando traccie in Euilia, finisco a Homa, dove nuore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="153,1870 186,1870 225,1883 263,1872 279,1883 289,1879 305,1890 316,1888 314,1813 300,1810 283,1823 265,1810 247,1819 214,1804 205,1808 181,1801 152,1810"/>
+                <Baseline points="164,1856 189,1856 215,1856 241,1857 266,1858 292,1859 318,1860"/>
+                <TextEquiv>
+                    <Unicode>ue 1617.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="150,1949 1381,1939 1461,1972 1591,1954 1592,1874 150,1901"/>
+                <Baseline points="160,1938 231,1934 303,1930 375,1926 447,1929 519,1928 590,1930 662,1932 734,1933 806,1931 878,1930 949,1929 1021,1926 1093,1926 1165,1925 1237,1926 1308,1928 1380,1926 1452,1928 1524,1926 1596,1926"/>
+                <TextEquiv>
+                    <Unicode>oIn terra veneta, abbastanza va tempo, egli potè recare i succhi di un'estetica fondata sa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="152,2020 1616,2031 1605,1949 1437,1981 152,1952"/>
+                <Baseline points="162,2010 234,2005 307,2002 380,2003 453,2002 526,2004 599,2002 672,2002 745,2003 818,2002 891,2003 963,1998 1036,1998 1109,1999 1182,1998 1255,2002 1328,2000 1401,2002 1474,2002 1547,2008 1620,2010"/>
+                <TextEquiv>
+                    <Unicode>di un'interpretazione appassionata, romantica del vero: intraduendo così l'espressiva penu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719164011602_385" custom="readingOrder {index:20;}">
+                <Coords points="155,2107 274,2107 453,2146 515,2128 583,2139 583,2044 544,2051 519,2034 451,2067 402,2040 259,2055 155,2031"/>
+                <Baseline points="165,2090 585,2087"/>
+                <TextEquiv>
+                    <Unicode>lata improvvisa degnolandes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:21;}">
+                <Coords points="192,2040 358,2053 422,2036 469,2033 480,2044 524,2034 559,2051 561,2013 515,2005 396,2007 382,2022 347,2023 329,2011 267,2022 241,2007 194,2007"/>
+                <Baseline points="202,2038 227,2036 253,2036 279,2036 305,2036 331,2036 357,2036 383,2034 408,2036 434,2033 460,2033 486,2032 512,2030 538,2031 564,2036"/>
+                <TextEquiv>
+                    <Unicode>(Rembraindt e.Hrals</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719164015717_390" custom="readingOrder {index:22;}">
+                <Coords points="599,2104 1611,2115 1611,2031 1556,2022 599,2036"/>
+                <Baseline points="609,2083 1616,2087"/>
+                <TextEquiv>
+                    <Unicode>nel tocco dengo e indugiato di voleete e incassatere di colore nello</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

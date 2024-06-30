@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=29_06_2024_13:33</Creator>
+        <Created>2024-04-09T18:31:36.532+02:00</Created>
+        <LastChange>2024-06-29T13:33:51.000+02:00</LastChange>
+        <TranskribusMetadata docId="3059563" pageId="74284472" pageNr="8" tsid="175460312" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=EWRJAHEBFBMGGEKTGEOIIMBK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TTUUPKRRODENXZREHWRKMZKO" imageId="54315843"/>
+    </Metadata>
+    <Page imageFilename="Q_2_1957_0009_c4r.jpg" imageWidth="1798" imageHeight="2520" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746882440" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1719164367064_496"/>
+                <RegionRefIndexed index="1" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1719164367064_496" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="149,365 149,422 210,422 210,365"/>
+            <TextLine id="line_1719164367258_499" custom="readingOrder {index:0;}">
+                <Coords points="140,403 156,401 181,421 185,417 189,421 198,419 181,308 167,314 154,308 151,316 134,308 125,310"/>
+                <Baseline points="150,409 203,417"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:1;}">
+            <Coords points="154,526 154,2103 1608,2103 1608,526"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="143,588 1592,595 1592,524 1529,510 706,533 519,482 414,530 143,517"/>
+                <Baseline points="154,566 226,563 298,564 370,566 442,563 514,566 586,563 658,562 730,560 802,561 875,562 947,563 1019,562 1091,564 1163,565 1235,566 1307,561 1379,560 1451,562 1523,565 1596,570"/>
+                <TextEquiv>
+                    <Unicode>Raccogliere in mente, quessi a formare una galleria, una scria di tipi colti durante il viaggio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="156,678 1602,675 1585,589 1531,620 1429,580 1281,615 1233,580 813,615 156,591"/>
+                <Baseline points="166,642 238,644 310,644 382,643 454,642 526,643 598,640 670,638 742,638 814,638 886,638 958,637 1030,638 1102,636 1174,638 1246,638 1318,635 1390,634 1462,637 1534,638 1606,646"/>
+                <TextEquiv>
+                    <Unicode>Viaggio che, per quanto rignarda le provincie d’Italia, si è svolto da Venezia e, durante un lun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;} del {offset:39; length:6;rend:overstrike;}">
+                <Coords points="152,755 1585,731 1585,673 1509,662 152,687"/>
+                <Baseline points="162,724 233,720 304,720 376,717 447,716 519,716 590,715 661,714 733,713 804,714 876,714 947,714 1018,714 1090,713 1161,714 1233,712 1304,713 1375,712 1447,714 1518,713 1590,714"/>
+                <TextEquiv>
+                    <Unicode>go tempo, s'è sportato in Rombardia,  Bergamo, a Milano, con una puntata(e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="158,813 1295,803 1480,842 1585,803 1558,740 1340,727 158,778"/>
+                <Baseline points="168,800 239,794 310,795 381,792 452,792 523,792 594,790 665,790 736,790 807,788 879,789 950,790 1021,789 1092,789 1163,788 1234,791 1305,792 1376,786 1447,790 1518,790 1590,800"/>
+                <TextEquiv>
+                    <Unicode>probabile, o certo ) a Mllantova, per scendere in Emilia; passando per Bologna, forse, comu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719164354153_482" custom="readingOrder {index:4;} hi {offset:60; length:5;rend:underline;}">
+                <Coords points="154,901 1268,885 1268,847 1096,814 1047,845 323,816 154,858"/>
+                <Baseline points="164,878 1272,869"/>
+                <TextEquiv>
+                    <Unicode>que per Ravenna e, attraverso il Montefeltro, calando nella Maraa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:5;} add {offset:0; length:5;place:above;}">
+                <Coords points="1184,838 1203,834 1208,840 1228,840 1235,836 1270,851 1284,847 1284,809 1266,811 1261,805 1250,803 1239,809 1228,803 1217,811 1210,803 1184,803"/>
+                <Baseline points="1194,826 1225,826 1256,826 1288,826"/>
+                <TextEquiv>
+                    <Unicode>belarco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719164356780_487" custom="readingOrder {index:6;}">
+                <Coords points="1291,881 1357,894 1397,881 1464,887 1484,900 1520,880 1562,912 1574,903 1598,911 1596,825 1580,820 1567,827 1553,813 1480,842 1436,831 1384,842 1322,814 1290,820"/>
+                <Baseline points="1300,865 1601,874"/>
+                <TextEquiv>
+                    <Unicode>ancora, praudiris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="160,963 323,994 412,958 696,992 831,956 1565,961 1565,898 1369,885 889,927 803,894 160,911"/>
+                <Baseline points="170,946 240,944 310,946 380,943 450,942 520,940 590,940 660,938 730,940 800,939 870,939 940,940 1010,941 1080,941 1150,940 1220,941 1290,943 1360,940 1430,942 1500,940 1570,940"/>
+                <TextEquiv>
+                    <Unicode>zarsi infine verso Roma. Nel viaggio si osservano: i mendicanti, i pellegrini; gli operan-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="172,1043 1571,1050 1571,979 1471,967 172,981"/>
+                <Baseline points="182,1018 251,1018 321,1018 391,1019 460,1018 530,1018 600,1017 669,1016 739,1016 809,1016 879,1016 948,1020 1018,1017 1088,1016 1157,1016 1227,1016 1297,1014 1366,1012 1436,1013 1506,1011 1576,1010"/>
+                <TextEquiv>
+                    <Unicode>al lavoro nella vigna, o che ritornano verso casa; lo famiglie radnate sull'aia: il padr-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:9;}">
+                <Coords points="163,1130 1582,1108 1582,1043 163,1056"/>
+                <Baseline points="174,1098 244,1098 315,1101 385,1096 456,1095 527,1093 597,1094 668,1096 738,1092 809,1092 880,1090 950,1092 1021,1094 1091,1091 1162,1090 1233,1088 1303,1089 1374,1088 1444,1091 1515,1093 1586,1094"/>
+                <TextEquiv>
+                    <Unicode>la madre, i figlioli, maschi e femmine. I contantini fanno mevenda all'ombra: passano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="158,1186 1589,1195 1589,1119 158,1125"/>
+                <Baseline points="168,1176 239,1174 310,1172 381,1173 452,1169 524,1168 595,1169 666,1169 737,1170 808,1168 880,1168 951,1170 1022,1169 1093,1166 1164,1167 1236,1166 1307,1164 1378,1165 1449,1168 1520,1166 1592,1180"/>
+                <TextEquiv>
+                    <Unicode>la fiasca del vino agli operai. Un ragazzo s'è fermato e abbraccia il cane. La ragazzina,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="167,1270 1589,1277 1591,1195 1540,1186 1424,1222 169,1201"/>
+                <Baseline points="176,1256 246,1246 317,1247 388,1246 459,1244 530,1245 601,1248 672,1247 743,1246 814,1244 885,1245 955,1244 1026,1244 1097,1243 1168,1244 1239,1242 1310,1241 1381,1240 1452,1239 1523,1238 1594,1242"/>
+                <TextEquiv>
+                    <Unicode>posato il grande cappello di paglia, chime la testa sul braccio: e sembra donnire. Tutti, vn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="174,1358 1560,1357 1562,1284 176,1277"/>
+                <Baseline points="184,1326 253,1324 322,1322 391,1322 460,1322 529,1323 598,1323 667,1322 736,1321 805,1321 875,1318 944,1316 1013,1316 1082,1316 1151,1320 1220,1318 1289,1318 1358,1316 1427,1318 1496,1317 1566,1316"/>
+                <TextEquiv>
+                    <Unicode>quel caldo silenzio di un pomeriggio d'estate. Mla benta allungare gli occhi dentro le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_13" custom="readingOrder {index:13;}">
+                <Coords points="178,1429 1536,1415 1538,1349 1395,1377 1339,1337 1146,1375 180,1373"/>
+                <Baseline points="190,1396 257,1402 325,1402 392,1400 460,1398 528,1401 595,1398 663,1396 730,1394 798,1396 866,1397 933,1398 1001,1396 1068,1396 1136,1396 1203,1394 1271,1394 1339,1393 1406,1392 1474,1392 1542,1398"/>
+                <TextEquiv>
+                    <Unicode>case di quel paese: ancora donne, giovani e vecchie; i ragazzi e le ragazza, dai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_14" custom="readingOrder {index:14;}">
+                <Coords points="194,1496 1594,1495 1594,1440 1482,1426 194,1442"/>
+                <Baseline points="204,1478 273,1478 343,1476 413,1476 482,1476 552,1476 622,1476 691,1472 761,1474 831,1474 901,1472 970,1473 1040,1475 1110,1472 1179,1471 1249,1468 1319,1470 1388,1470 1458,1470 1528,1468 1598,1468"/>
+                <TextEquiv>
+                    <Unicode>randi occhi sgranati, come hanno le ragazze d'Italia. Sono donne al lavoro : le giovano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_15" custom="readingOrder {index:15;} hi {offset:0; length:9;rend:underline;}">
+                <Coords points="174,1596 1573,1563 1540,1509 764,1496 698,1534 399,1484 326,1529 176,1516"/>
+                <Baseline points="184,1548 253,1550 323,1550 393,1550 462,1548 532,1550 602,1548 671,1548 741,1550 811,1547 881,1548 950,1548 1020,1549 1090,1547 1159,1548 1229,1547 1299,1547 1368,1546 1438,1545 1508,1542 1578,1544"/>
+                <TextEquiv>
+                    <Unicode>mamovrano aftombolo, le anziane a far maglie. In un altra stanza, anzi: una specie di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_16" custom="readingOrder {index:16;}">
+                <Coords points="170,1654 1576,1643 1578,1583 1476,1569 172,1598"/>
+                <Baseline points="180,1636 250,1630 320,1630 390,1626 460,1624 530,1624 600,1624 670,1624 740,1626 810,1625 881,1624 951,1624 1021,1622 1091,1625 1161,1624 1231,1623 1301,1621 1371,1622 1441,1622 1511,1622 1582,1628"/>
+                <TextEquiv>
+                    <Unicode>porticato, il maestro e la maestra fau scuola a ragazzi e ragazzo. Libri squinternati,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_17" custom="readingOrder {index:17;}">
+                <Coords points="161,1743 1603,1730 1603,1669 1469,1652 161,1667"/>
+                <Baseline points="172,1712 243,1706 315,1702 387,1703 459,1700 531,1702 602,1700 674,1700 746,1698 818,1698 890,1696 961,1699 1033,1700 1105,1702 1177,1700 1249,1698 1320,1698 1392,1696 1464,1696 1536,1699 1608,1708"/>
+                <TextEquiv>
+                    <Unicode>faccie attente, o noiate. Là in fondo, contro il cielo tncchino cupo, foglie verdi di vite, pampin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_18" custom="readingOrder {index:18;}">
+                <Coords points="161,1805 1603,1803 1587,1729 161,1747"/>
+                <Baseline points="172,1780 243,1779 315,1781 387,1780 459,1780 531,1780 602,1779 674,1777 746,1774 818,1775 890,1776 961,1775 1033,1775 1105,1776 1177,1774 1249,1774 1320,1772 1392,1774 1464,1774 1536,1778 1608,1782"/>
+                <TextEquiv>
+                    <Unicode>intrecciati s'agitano appena, in quelll'aria ferma. Ma qlel cielo: è cielo veneziano, lom-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_19" custom="readingOrder {index:19;}">
+                <Coords points="143,1874 229,1892 314,1872 439,1894 568,1866 742,1883 742,1803 658,1794 620,1823 492,1792 439,1828 283,1843 238,1812 143,1805"/>
+                <Baseline points="154,1856 183,1852 213,1852 242,1854 272,1854 302,1854 331,1854 361,1854 390,1854 420,1854 450,1856 479,1854 509,1854 538,1852 568,1854 598,1854 627,1854 657,1852 686,1850 716,1850 746,1852"/>
+                <TextEquiv>
+                    <Unicode>bardo o romano? E cielo d’Italia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_20" custom="readingOrder {index:20;} hi {offset:73; length:8;rend:underline;}">
+                <Coords points="176,1953 1591,1966 1591,1892 1495,1866 860,1908 745,1868 176,1879"/>
+                <Baseline points="186,1928 256,1926 327,1928 397,1930 468,1928 538,1929 609,1926 679,1926 750,1926 820,1926 891,1926 961,1924 1032,1924 1102,1924 1173,1926 1243,1924 1314,1924 1384,1926 1455,1924 1525,1923 1596,1922"/>
+                <TextEquiv>
+                    <Unicode>Chi ha visto una volta le pitture (e son pitture d'ambiente italiano) di Eberlard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_21" custom="readingOrder {index:21;}">
+                <Coords points="147,2033 1598,2040 1598,1968 1513,1957 1007,1990 147,1946"/>
+                <Baseline points="156,2004 228,2008 300,2006 372,2006 445,2005 517,2006 589,2003 662,2006 734,2002 806,2003 879,2002 951,2003 1023,2004 1095,2006 1168,2005 1240,2008 1312,2006 1385,2006 1457,2007 1529,2004 1602,2008"/>
+                <TextEquiv>
+                    <Unicode>Reil, non dimenticc facilmente il rono porpora che affiora e campeggia, patetico ed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_22" custom="readingOrder {index:22;}">
+                <Coords points="147,2117 1602,2117 1602,2035 1560,2026 147,2064"/>
+                <Baseline points="156,2086 228,2082 301,2083 373,2082 446,2083 518,2082 591,2080 663,2081 736,2080 808,2078 881,2078 953,2080 1026,2081 1098,2080 1171,2084 1243,2082 1316,2083 1388,2081 1461,2080 1533,2078 1606,2080"/>
+                <TextEquiv>
+                    <Unicode>evocativo come un pezzo di bandiera: la bandiera spavalda della patria danese. Non di-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

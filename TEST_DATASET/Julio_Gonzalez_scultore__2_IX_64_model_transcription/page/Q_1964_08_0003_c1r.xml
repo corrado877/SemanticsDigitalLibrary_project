@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=30_06_2024_10:22</Creator>
+        <Created>2024-06-30T10:16:00.251+02:00</Created>
+        <LastChange>2024-06-30T10:22:34.575+02:00</LastChange>
+        <TranskribusMetadata docId="3069343" pageId="74317231" pageNr="2" tsid="175573629" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=FUEUMEKRDKRADCBMWCULOCAL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YDXZQQIGADGRYYEEVVZUMBUM" imageId="60154531"/>
+    </Metadata>
+    <Page imageFilename="Q_1964_08_0003_c1r.jpg" imageWidth="1798" imageHeight="2511">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719747344628" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="149,461 149,2045 1617,2045 1617,461"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="657,527 684,513 775,522 793,513 804,524 858,513 1000,517 1000,453 953,449 937,466 908,453 877,466 853,442 829,442 802,469 775,471 746,469 720,444 657,446"/>
+                <Baseline points="667,499 693,497 719,497 745,498 771,499 797,499 823,499 849,497 875,497 901,497 927,498 953,499 979,501 1005,505"/>
+                <TextEquiv>
+                    <Unicode>Julis Gouale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="169,597 1606,611 1606,537 169,538"/>
+                <Baseline points="179,573 250,578 322,581 393,581 465,580 537,583 608,581 680,581 751,581 823,583 895,581 966,581 1038,583 1109,585 1181,585 1253,583 1324,583 1396,585 1467,583 1539,583 1611,585"/>
+                <TextEquiv>
+                    <Unicode>Da da più di due mesi, noi ci sforziamo di trovare un legaore, di esprimere in un discerso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="164,671 1602,678 1602,633 1224,607 164,620"/>
+                <Baseline points="173,655 244,656 316,655 388,655 459,654 531,655 603,655 674,655 746,657 818,659 890,659 961,660 1033,661 1105,661 1176,662 1248,661 1320,659 1391,659 1463,659 1535,662 1607,665"/>
+                <TextEquiv>
+                    <Unicode>plansibile, e un poco chiaro, il complesso di emozioni che ci, ha procurato, in verazione della Bicanale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="169,737 1600,764 1600,697 1542,691 169,702"/>
+                <Baseline points="179,727 250,728 321,729 392,729 464,729 535,731 606,731 678,731 749,731 820,730 892,731 963,733 1034,734 1105,737 1177,737 1248,737 1319,737 1391,737 1462,737 1533,741 1605,747"/>
+                <TextEquiv>
+                    <Unicode>venziana, la mostra, per così direcelubrativa, della scultore spagnolo fulio fonzaler. Mostna allertota</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="162,824 1584,838 1584,771 1531,762 1430,793 1388,758 1151,793 162,775"/>
+                <Baseline points="171,805 241,806 312,807 383,807 454,807 525,807 596,807 667,807 738,807 809,806 880,809 950,811 1021,811 1092,812 1163,811 1234,809 1305,809 1376,809 1447,812 1518,813 1589,819"/>
+                <TextEquiv>
+                    <Unicode>come è noto, nel padigliore della nazione forancese, nere in quello della poetria dello scultore: anche perché</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="166,922 1600,908 1600,855 1548,840 1330,868 1131,829 918,860 166,826"/>
+                <Baseline points="175,883 246,884 317,883 389,883 460,883 532,883 603,884 674,885 746,885 817,884 889,885 960,887 1031,886 1103,887 1174,886 1246,885 1317,885 1388,888 1460,889 1531,889 1603,893"/>
+                <TextEquiv>
+                    <Unicode>Fulio Genzalez si ora fatto, fin dalla prioma gioviume, una seconda pratia della terra di degas e di Rrdin_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="166,986 1604,982 1602,920 164,922"/>
+                <Baseline points="175,953 246,955 318,957 390,955 461,955 533,955 605,955 676,955 748,955 820,960 892,963 963,961 1035,961 1107,961 1178,963 1250,963 1322,963 1393,963 1465,963 1537,963 1609,971"/>
+                <TextEquiv>
+                    <Unicode>Ma, i evidente, uon doveva averla scella solamente per una ragione di lomicilio culturale. Hato a Barcetto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="158,1062 1599,1068 1599,1017 1450,989 1271,1020 158,984"/>
+                <Baseline points="169,1027 240,1030 312,1031 384,1031 455,1032 527,1033 599,1032 670,1034 742,1035 814,1035 886,1037 957,1036 1029,1038 1101,1039 1172,1039 1244,1039 1316,1039 1387,1037 1459,1039 1531,1042 1603,1047"/>
+                <TextEquiv>
+                    <Unicode>na nel 1876, mentre contime in sè, nella propria strsttura umona, le radeci della tradizione iberica antica,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="158,1137 1586,1133 1586,1084 1499,1073 158,1066"/>
+                <Baseline points="169,1111 240,1109 311,1109 382,1109 453,1111 524,1109 595,1107 666,1108 737,1109 808,1110 880,1111 951,1111 1022,1112 1093,1115 1164,1113 1235,1115 1306,1113 1377,1113 1448,1114 1519,1119 1591,1121"/>
+                <TextEquiv>
+                    <Unicode>Gonzabre si svituppa in un anuliente civile e artturale, sul quale si agitarso e si equilibrano le aspirazioni e le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="156,1208 1608,1211 1566,1151 156,1160"/>
+                <Baseline points="167,1185 239,1186 311,1183 383,1183 455,1184 528,1185 600,1184 672,1185 744,1185 816,1187 889,1187 961,1189 1033,1187 1105,1187 1177,1188 1250,1189 1322,1187 1394,1187 1466,1190 1538,1191 1611,1197"/>
+                <TextEquiv>
+                    <Unicode>inquietudini di modenità della Catalogna, che è uun una porta aperta verno gli spiriti di rinnoramento del-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="146,1277 1602,1293 1600,1224 1562,1217 146,1222"/>
+                <Baseline points="155,1261 227,1259 300,1257 372,1255 445,1258 517,1261 590,1259 662,1259 735,1261 807,1260 880,1263 952,1263 1025,1263 1097,1263 1170,1263 1242,1265 1315,1267 1387,1267 1460,1267 1532,1269 1605,1275"/>
+                <TextEquiv>
+                    <Unicode>l'Europa. Così nell'arte come nella vita politica. Il pausa di Gonzalez con duava una officina di lavori in feno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="153,1346 1615,1359 1590,1313 1439,1300 153,1304"/>
+                <Baseline points="163,1339 235,1337 308,1333 381,1333 453,1335 526,1335 599,1334 671,1335 744,1335 817,1337 890,1339 962,1341 1035,1341 1108,1341 1180,1339 1253,1342 1326,1343 1398,1341 1471,1343 1544,1345 1617,1351"/>
+                <TextEquiv>
+                    <Unicode>e di metalli pugiali: il ranno, l'argento, e attavono qneste applicosieni, ancora artigianali come dutissazionepra-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="142,1440 1582,1442 1582,1390 1526,1373 398,1393 142,1357"/>
+                <Baseline points="151,1413 222,1415 294,1413 366,1411 438,1411 510,1411 581,1411 653,1413 725,1413 797,1412 869,1411 940,1414 1012,1416 1084,1415 1156,1413 1228,1415 1299,1417 1371,1417 1443,1417 1515,1421 1587,1425"/>
+                <TextEquiv>
+                    <Unicode>tica, già rifluivano le tendenze del preto di quella modemiti. A fianco dell'officina, era la casa den Gonzalez;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="147,1506 1599,1515 1575,1453 147,1444"/>
+                <Baseline points="157,1485 229,1485 301,1485 373,1485 445,1485 518,1485 590,1485 662,1487 734,1487 806,1489 879,1489 951,1490 1023,1493 1095,1492 1167,1491 1240,1491 1312,1491 1384,1493 1456,1494 1528,1495 1601,1497"/>
+                <TextEquiv>
+                    <Unicode>dove gli entisti locali diventerano e si appassiuavano di ogni problima si ogni avanimento che lessero un vollo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="156,1590 1579,1580 1579,1540 1495,1522 156,1531"/>
+                <Baseline points="167,1565 237,1563 308,1564 379,1565 450,1565 521,1565 591,1565 662,1565 733,1567 804,1569 875,1569 945,1567 1016,1567 1087,1567 1158,1567 1229,1567 1299,1568 1370,1571 1441,1569 1512,1571 1583,1575"/>
+                <TextEquiv>
+                    <Unicode>civile alla loro esistenza. Furmo anni dni e confusi per la spagna. La guersa di luta e la peredita di domini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="149,1666 1562,1668 1544,1597 1233,1628 147,1599"/>
+                <Baseline points="157,1641 227,1637 298,1638 368,1637 439,1637 509,1639 580,1639 650,1639 721,1639 791,1641 862,1640 932,1639 1003,1641 1073,1643 1144,1643 1214,1645 1285,1645 1355,1645 1426,1645 1496,1645 1567,1649"/>
+                <TextEquiv>
+                    <Unicode>colouieli. Mentre si diffondevamo le ide rinuovativi di vita sociale, venuto di Francia dalla fermnia. Dell'83,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="146,1737 1580,1742 1580,1686 1451,1671 620,1697 146,1662"/>
+                <Baseline points="155,1713 226,1709 297,1709 369,1709 440,1711 512,1713 583,1714 654,1715 726,1715 797,1716 869,1715 940,1715 1011,1719 1083,1719 1154,1718 1226,1719 1297,1719 1368,1718 1440,1719 1511,1719 1583,1725"/>
+                <TextEquiv>
+                    <Unicode>li achitetto e senltove antossi Gandi arma iniziato i lavori della Sagrada familia. L'Esposizione Universale di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="149,1801 1597,1811 1597,1766 1460,1750 149,1755"/>
+                <Baseline points="159,1787 231,1787 303,1789 375,1787 447,1789 519,1789 591,1790 663,1793 735,1793 807,1793 880,1791 952,1792 1024,1793 1096,1793 1168,1791 1240,1793 1312,1793 1384,1793 1456,1793 1528,1797 1601,1801"/>
+                <TextEquiv>
+                    <Unicode>Carigi dell'89, noeva mandato motizie eccitanti: dall'erifienzione della borse liffedl, alle matre di Van Goph e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="144,1879 1442,1881 1597,1915 1597,1835 1528,1821 1159,1853 144,1826"/>
+                <Baseline points="153,1869 225,1867 297,1867 369,1867 442,1864 514,1865 586,1868 659,1867 731,1867 803,1867 876,1867 948,1867 1020,1869 1092,1869 1165,1870 1237,1871 1309,1869 1382,1869 1454,1869 1526,1873 1599,1875"/>
+                <TextEquiv>
+                    <Unicode>di fanguin. Nel '30, scoppiano a Barulona ndi vivoluzionari. E' insiese, come una rivoluzione rtistica, l'anivo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="138,1968 1564,1962 1531,1904 136,1906"/>
+                <Baseline points="149,1941 220,1939 291,1939 362,1941 433,1939 504,1941 575,1941 646,1941 717,1941 788,1943 859,1943 930,1943 1001,1945 1072,1943 1143,1947 1214,1947 1285,1947 1356,1945 1427,1944 1498,1947 1569,1949"/>
+                <TextEquiv>
+                    <Unicode>della mesica di Hagner. Monto il padre e chiusa l'officina di Battona, ferio Sorzclle si truferisa, alla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="147,2048 1297,2035 1275,1979 147,1979"/>
+                <Baseline points="157,2025 214,2021 271,2017 328,2020 385,2021 443,2021 500,2021 557,2020 614,2019 671,2017 729,2017 786,2017 843,2019 900,2021 957,2021 1015,2020 1072,2020 1129,2021 1186,2021 1243,2021 1301,2027"/>
+                <TextEquiv>
+                    <Unicode>fico dell'anno 1819, a Parigi. Il festuro scnttore vo si stubilisce coro il fratetto e la due serelle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

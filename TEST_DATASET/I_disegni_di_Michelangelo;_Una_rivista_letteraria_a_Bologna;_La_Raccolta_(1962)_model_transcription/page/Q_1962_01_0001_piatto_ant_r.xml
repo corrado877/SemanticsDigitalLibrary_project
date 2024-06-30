@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=29_06_2024_18:13</Creator>
+        <Created>2024-06-29T13:46:32.958+02:00</Created>
+        <LastChange>2024-06-29T18:13:20.819+02:00</LastChange>
+        <TranskribusMetadata docId="3062983" pageId="74293987" pageNr="1" tsid="175495049" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=ZNVNQFYRBIINGNQJUTHYEQWF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NGFOJVFBZAJNRUXCMDPCLXZK" imageId="60123834"/>
+    </Metadata>
+    <Page imageFilename="Q_1962_01_0001_piatto_ant_r.jpg" imageWidth="1798" imageHeight="2515">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719747165552" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="593,641 593,852 1211,852 1211,641"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="588,702 642,696 702,721 824,676 955,678 1008,702 1082,680 1070,639 1005,652 944,634 913,656 877,635 843,659 642,624 588,640"/>
+                <Baseline points="593,673 618,674 644,676 670,677 696,677 721,677 747,677 773,677 799,677 825,676 850,675 876,675 902,675 928,675 954,675 979,675 1005,674 1031,673 1057,673 1083,671"/>
+                <TextEquiv>
+                    <Unicode>I disegni di Michelangelo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1014,739 1026,735 1055,752 1089,739 1132,750 1151,739 1209,740 1208,687 1177,692 1153,677 1146,683 1114,678 1060,696 1013,690"/>
+                <Baseline points="1019,719 1046,721 1073,719 1101,720 1128,721 1156,722 1183,722 1211,723"/>
+                <TextEquiv>
+                    <Unicode>16)!.)1962</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="588,788 696,806 1061,794 1111,821 1163,813 1162,761 1070,744 929,773 858,744 793,769 587,737"/>
+                <Baseline points="593,773 621,782 650,785 678,785 707,785 735,785 764,786 792,787 821,788 849,788 878,788 906,789 935,789 963,789 992,790 1020,791 1049,793 1077,793 1106,791 1134,791 1163,793"/>
+                <TextEquiv>
+                    <Unicode>Una rivista letterana a Bologna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="595,853 655,841 714,856 729,843 752,851 784,840 809,857 870,854 930,876 933,805 911,798 888,814 818,818 785,802 741,821 703,802 593,797"/>
+                <Baseline points="599,829 624,832 650,833 676,834 702,835 728,835 754,835 779,835 805,837 831,837 857,838 883,840 909,841 935,841"/>
+                <TextEquiv>
+                    <Unicode>La Raccoltla 1918,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="1205,231 1205,385 1465,385 1465,231"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

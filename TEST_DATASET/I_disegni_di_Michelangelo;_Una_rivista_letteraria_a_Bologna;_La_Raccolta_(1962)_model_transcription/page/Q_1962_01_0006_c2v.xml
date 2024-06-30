@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=29_06_2024_18:13</Creator>
+        <Created>2024-06-29T13:46:33.378+02:00</Created>
+        <LastChange>2024-06-29T18:13:21.509+02:00</LastChange>
+        <TranskribusMetadata docId="3062983" pageId="74294049" pageNr="5" tsid="175495051" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=KDXEAGBIJVPKRFLNWIXMPOAA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CTQONVMZWLZMUARIUABDLDXK" imageId="60123836"/>
+    </Metadata>
+    <Page imageFilename="Q_1962_01_0006_c2v.jpg" imageWidth="1798" imageHeight="2515">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719747166172" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="185,310 185,2066 1657,2060 1657,304"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1563,369 1581,369 1607,384 1620,384 1620,279 1604,279 1587,272 1581,276 1576,272 1563,272"/>
+                <Baseline points="1573,343 1599,341 1625,343"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719666785520_780" custom="readingOrder {index:1;}">
+                <Coords points="196,566 954,555 954,507 896,492 196,497"/>
+                <Baseline points="205,535 284,533 363,532 442,531 522,532 601,533 680,531 760,532 839,529 918,531 958,532"/>
+                <TextEquiv>
+                    <Unicode>essere il lavoro di un vecchio, di un uomo la cui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719666778929_773" custom="readingOrder {index:2;}">
+                <Coords points="896,507 909,505 913,508 920,503 924,505 929,499 935,499 942,507 950,499 968,501 968,445 950,445 941,454 931,458 928,456 914,466 907,460 896,460"/>
+                <Baseline points="907,490 974,490"/>
+                <TextEquiv>
+                    <Unicode>vita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719666785520_779" custom="readingOrder {index:3;}">
+                <Coords points="946,564 1663,549 1663,503 1619,484 1479,510 1283,479 948,501"/>
+                <Baseline points="958,532 998,533 1077,530 1156,534 1235,533 1315,533 1394,531 1473,531 1553,531 1632,527 1668,527"/>
+                <TextEquiv>
+                    <Unicode>fu lunga, lunghissima di esprienza e di dolores)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="199,665 279,630 1626,620 1626,561 201,570"/>
+                <Baseline points="211,611 282,611 353,609 424,609 495,609 566,609 637,611 708,609 779,611 850,609 921,608 992,609 1063,609 1134,607 1205,607 1276,605 1347,602 1418,601 1489,600 1560,600 1631,605"/>
+                <TextEquiv>
+                    <Unicode>Fosse, nello stesso modo, per cui la pittura di Raffaello sia stata, e sarebhe stata, anche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="197,713 1388,725 1388,650 1319,637 197,667"/>
+                <Baseline points="207,691 266,689 325,689 384,688 443,684 503,687 562,686 621,686 680,685 739,684 799,683 858,683 917,683 976,684 1035,681 1095,681 1154,681 1213,679 1272,679 1331,679 1391,679"/>
+                <TextEquiv>
+                    <Unicode>vivendo a lunso, solo l'opera di un giovane, di un fauciule miracoloso.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719666644434_667" custom="readingOrder {index:6;}">
+                <Coords points="203,786 1592,777 1665,810 1665,736 1607,708 203,721"/>
+                <Baseline points="213,767 292,763 371,761 450,761 529,759 608,760 687,761 766,759 845,763 924,761 1003,759 1082,760 1161,757 1240,756 1319,755 1398,755 1477,754 1556,757 1635,760 1670,761"/>
+                <TextEquiv>
+                    <Unicode>S'apre la mostra col celmbre disegno a penna, ricorosciuto come studio di Indo per la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719666652161_675" custom="readingOrder {index:7;}">
+                <Coords points="188,862 1667,857 1667,821 1522,782 188,797"/>
+                <Baseline points="199,843 278,840 358,837 437,837 517,838 597,837 676,839 756,837 836,837 915,837 995,835 1075,835 1154,833 1234,833 1314,833 1393,833 1473,833 1553,835 1632,836 1672,836"/>
+                <TextEquiv>
+                    <Unicode>battaglia di Cascina. La figura dell'uomo seattante, in atto di spiccare la corsa, di scavalaa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719666664984_687" custom="readingOrder {index:8;}">
+                <Coords points="190,935 1663,929 1663,864 1516,853 190,881"/>
+                <Baseline points="201,913 280,915 360,911 439,911 519,910 598,911 678,911 757,911 837,911 916,911 996,911 1075,909 1155,909 1234,911 1314,909 1393,908 1473,907 1552,907 1632,907 1668,908"/>
+                <TextEquiv>
+                    <Unicode>re un ostacolo, costruita nel corpo di compatti volumi, rinsnisce, nella forma, un tale concetto?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719666680417_695" custom="readingOrder {index:9;}">
+                <Coords points="186,1019 1596,1017 1665,1004 1667,950 773,933 186,982"/>
+                <Baseline points="197,997 276,995 355,993 435,993 514,990 594,987 673,987 752,985 832,985 911,985 991,986 1070,985 1149,985 1229,985 1308,985 1388,985 1467,983 1546,985 1626,985 1669,985"/>
+                <TextEquiv>
+                    <Unicode>a quello di una fermezza e stabilità di bassorilieno, di scultura. Così s'avvicina, e riprande la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719666685265_700" custom="readingOrder {index:10;}">
+                <Coords points="175,1088 1630,1103 1665,1049 1302,1008 177,1030"/>
+                <Baseline points="185,1067 265,1065 345,1067 426,1066 506,1067 587,1063 667,1063 747,1061 828,1063 908,1061 989,1061 1069,1063 1149,1061 1230,1061 1310,1059 1391,1058 1471,1057 1551,1059 1632,1060 1669,1059"/>
+                <TextEquiv>
+                    <Unicode>scrittura, la grafia di studi michel anguoleschi dove sono intespretati modelli dell'antico: il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719666696089_711" custom="readingOrder {index:11;}">
+                <Coords points="175,1162 1663,1155 1663,1095 1589,1084 1287,1118 1155,1084 795,1118 175,1088"/>
+                <Baseline points="185,1145 265,1141 345,1141 426,1141 506,1141 586,1139 667,1140 747,1139 827,1139 908,1139 988,1137 1068,1139 1149,1135 1229,1138 1309,1135 1390,1133 1470,1136 1550,1137 1631,1135 1667,1135"/>
+                <TextEquiv>
+                    <Unicode>tratteggio incrociato di segni intessuti, come in tessuto metallico. È' sono le cosa in cui il cocente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719666705817_720" custom="readingOrder {index:12;}">
+                <Coords points="177,1244 1671,1252 1658,1153 1136,1192 177,1175"/>
+                <Baseline points="187,1223 267,1221 347,1218 428,1216 508,1215 589,1215 669,1213 749,1215 830,1213 910,1215 991,1215 1071,1217 1151,1215 1232,1213 1312,1211 1393,1211 1473,1209 1553,1213 1634,1214 1676,1214"/>
+                <TextEquiv>
+                    <Unicode>sentimento naturale di Michelangalo non azlava sa disgiungersi dalla plastisità arcaica della sua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719666737329_729" custom="readingOrder {index:13;}">
+                <Coords points="177,1317 1665,1300 1665,1248 1453,1231 1172,1268 518,1233 177,1285"/>
+                <Baseline points="187,1297 267,1297 348,1291 429,1293 510,1294 591,1294 672,1293 753,1293 834,1289 915,1289 996,1289 1076,1288 1157,1287 1238,1287 1319,1283 1400,1283 1481,1285 1562,1288 1643,1290 1667,1290"/>
+                <TextEquiv>
+                    <Unicode>origine: quando copmando una figura di fiotto, e taluni personaggi di Mosaccio al Carnine, diin-"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719666744616_738" custom="readingOrder {index:14;}">
+                <Coords points="183,1384 1661,1386 1661,1334 1592,1319 183,1317"/>
+                <Baseline points="193,1373 277,1370 361,1366 445,1363 529,1365 613,1365 697,1365 782,1365 866,1363 950,1365 1034,1365 1118,1364 1202,1360 1287,1359 1371,1359 1455,1359 1539,1361 1623,1365 1665,1363"/>
+                <TextEquiv>
+                    <Unicode>vestiva di una carica di verità nuova. Quasi sciogliesse la lora monumentelità immobile e pie-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719666801881_785" custom="readingOrder {index:15;}">
+                <Coords points="179,1490 192,1490 201,1496 227,1481 233,1484 272,1477 274,1410 263,1410 255,1401 240,1399 231,1404 225,1399 210,1399 192,1384 181,1384"/>
+                <Baseline points="191,1447 263,1445 279,1445"/>
+                <TextEquiv>
+                    <Unicode>tusa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="272,1414 307,1421 332,1410 352,1421 447,1410 464,1421 484,1414 508,1421 508,1382 449,1391 413,1367 382,1371 359,1389 341,1382 304,1393 272,1388"/>
+                <Baseline points="283,1409 308,1409 334,1408 359,1407 385,1406 410,1405 436,1405 461,1407 487,1407 513,1409"/>
+                <TextEquiv>
+                    <Unicode>al contatto del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719666801881_784" custom="readingOrder {index:17;}">
+                <Coords points="268,1462 1626,1466 1626,1402 1447,1386 1278,1421 1019,1386 268,1414"/>
+                <Baseline points="279,1445 335,1445 407,1443 479,1443 551,1439 623,1439 695,1441 767,1441 839,1441 911,1439 983,1441 1055,1441 1127,1441 1199,1437 1271,1437 1343,1437 1415,1435 1487,1437 1559,1439 1631,1443"/>
+                <TextEquiv>
+                    <Unicode>calore di una realtà di un tempo futuro. Lo Studio di testa, riferito alla tstre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667328471_928" custom="readingOrder {index:18;}">
+                <Coords points="179,1542 1252,1548 1298,1531 1300,1473 179,1490"/>
+                <Baseline points="189,1525 260,1521 331,1518 402,1517 473,1517 544,1517 615,1515 686,1515 757,1516 828,1517 900,1517 971,1517 1042,1517 1113,1517 1184,1515 1255,1513 1303,1513"/>
+                <TextEquiv>
+                    <Unicode>della Madonna del Tondo doni, ci trasporta nello spazio e ai modi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667299745_913" custom="readingOrder {index:19;}">
+                <Coords points="1291,1497 1302,1496 1309,1503 1319,1503 1317,1468 1307,1468 1306,1470 1302,1470 1300,1468 1289,1468"/>
+                <Baseline points="1300,1488 1325,1490"/>
+                <TextEquiv>
+                    <Unicode>di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667328471_927" custom="readingOrder {index:20;}">
+                <Coords points="1293,1542 1321,1531 1360,1544 1382,1531 1416,1533 1443,1555 1533,1563 1563,1538 1607,1542 1607,1486 1576,1490 1540,1473 1497,1490 1361,1481 1293,1499"/>
+                <Baseline points="1303,1513 1326,1514 1397,1513 1468,1511 1539,1513 1611,1515"/>
+                <TextEquiv>
+                    <Unicode>mesto nuovo tempo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="173,1609 1633,1613 1635,1555 175,1564"/>
+                <Baseline points="185,1599 257,1595 330,1598 403,1597 475,1597 548,1595 621,1595 693,1593 766,1593 839,1593 912,1595 984,1595 1057,1593 1130,1591 1202,1589 1275,1589 1348,1588 1420,1586 1493,1591 1566,1591 1639,1593"/>
+                <TextEquiv>
+                    <Unicode>michelangielesco, quando il maestro, corvinto in una ricerca di spiviti, per così dive, di umani.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:22;}">
+                <Coords points="184,1712 1632,1684 1632,1633 1395,1615 184,1633"/>
+                <Baseline points="195,1675 267,1673 339,1673 411,1671 483,1672 555,1673 627,1672 699,1670 771,1669 843,1669 916,1667 988,1670 1060,1669 1132,1671 1204,1671 1276,1669 1348,1668 1420,1669 1492,1671 1564,1671 1637,1671"/>
+                <TextEquiv>
+                    <Unicode>tà quotidiana, attinge a una qualità di giovanile freschezza, di quieta eleganza, ma insieme di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:23;}">
+                <Coords points="175,1779 1637,1779 1637,1715 1376,1695 365,1697 175,1736"/>
+                <Baseline points="185,1749 257,1749 330,1747 403,1747 476,1747 549,1746 621,1745 694,1744 767,1743 840,1741 913,1742 985,1743 1058,1746 1131,1747 1204,1746 1277,1743 1349,1740 1422,1739 1495,1741 1568,1741 1641,1745"/>
+                <TextEquiv>
+                    <Unicode>una naturalità epena toccata di fantasia, che, attraverso i campioni più estrosi del masierisme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:24;}">
+                <Coords points="181,1853 1641,1846 1641,1766 181,1792"/>
+                <Baseline points="191,1827 263,1825 336,1824 409,1823 481,1824 554,1825 627,1823 699,1823 772,1823 845,1821 918,1821 990,1823 1063,1823 1136,1821 1208,1823 1281,1821 1354,1818 1426,1816 1499,1815 1572,1814 1645,1815"/>
+                <TextEquiv>
+                    <Unicode>toscano e itabiano, giungeranno ad inquietare le menti dei pittori, fino alle soglie del romanticismo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:25;}">
+                <Coords points="183,1915 1630,1907 1630,1868 1557,1849 792,1883 183,1855"/>
+                <Baseline points="193,1897 265,1896 337,1896 409,1897 481,1898 553,1897 625,1895 697,1897 769,1895 841,1896 914,1895 986,1894 1058,1895 1130,1893 1202,1893 1274,1891 1346,1890 1418,1889 1490,1889 1562,1890 1635,1893"/>
+                <TextEquiv>
+                    <Unicode>europeo. Si avverte, in certo auodo, di essere agli anticipi della Sistina. E qui, tra eltriabberzi, uno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:26;}">
+                <Coords points="190,2000 1619,1998 1619,1931 1550,1917 838,1956 190,1930"/>
+                <Baseline points="201,1973 272,1975 343,1972 414,1973 485,1973 556,1974 627,1975 698,1975 769,1974 840,1971 912,1971 983,1970 1054,1967 1125,1965 1196,1965 1267,1965 1338,1965 1409,1965 1480,1967 1551,1967 1623,1971"/>
+                <TextEquiv>
+                    <Unicode>studio di edo (cat. V.15), che, se pure legato al temperamento di scruttore di Michelangelo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:27;}">
+                <Coords points="192,2077 1643,2062 1643,2008 1531,2002 192,2023"/>
+                <Baseline points="203,2051 275,2051 347,2050 419,2049 491,2048 563,2045 635,2047 707,2047 779,2045 851,2047 924,2047 996,2047 1068,2045 1140,2045 1212,2045 1284,2043 1356,2044 1428,2043 1500,2043 1572,2045 1645,2049"/>
+                <TextEquiv>
+                    <Unicode>raggiunge la tencrezza di modellato, e una risoluzione plastica attraverso il colore, che lo covi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

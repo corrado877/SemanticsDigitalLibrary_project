@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:31:36.004+02:00</Created>
+        <LastChange>2024-06-24T09:30:06.951+02:00</LastChange>
+        <TranskribusMetadata docId="1929340" pageId="68037900" pageNr="4" tsid="173606220" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=VSHZABYFRBWZSUPYYYNLDWUQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PTIHYLFPRNJATBKSJJRVCMWG" imageId="54315831"/>
+    </Metadata>
+    <Page imageFilename="Q_2_1957_0005_c2r.jpg" imageWidth="1798" imageHeight="2520" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746854003" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="162,523 162,883 1592,883 1592,523"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="162,579 232,579 302,577 372,577 442,580 512,578 582,579 652,576 722,576 792,575 863,576 933,577 1003,579 1073,578 1143,578 1213,579 1283,577 1353,577 1423,577 1493,576 1564,581 1564,529 1493,524 1423,525 1353,525 1283,525 1213,527 1143,526 1073,526 1003,527 933,525 863,524 792,523 722,524 652,524 582,527 512,526 442,528 372,525 302,525 232,527 162,527"/>
+                <Baseline points="162,562 232,562 302,560 372,560 442,563 512,561 582,562 652,559 722,559 792,558 863,559 933,560 1003,562 1073,561 1143,561 1213,562 1283,560 1353,560 1423,560 1493,559 1564,564"/>
+                <TextEquiv>
+                    <Unicode>tra il 1588, il ‘93, il ‘607, e finiscono tra il ‘648 e il ‘677: proprio lavoravano negli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="162,655 233,655 305,655 376,654 448,655 519,653 591,654 662,653 734,653 805,653 877,653 948,653 1020,655 1091,653 1163,653 1234,655 1306,651 1377,653 1449,651 1520,650 1592,653 1592,601 1520,598 1449,599 1377,601 1306,599 1234,603 1163,601 1091,601 1020,603 948,601 877,601 805,601 734,601 662,601 591,602 519,601 448,603 376,602 305,603 233,603 162,603"/>
+                <Baseline points="162,638 233,638 305,638 376,637 448,638 519,636 591,637 662,636 734,636 805,636 877,636 948,636 1020,638 1091,636 1163,636 1234,638 1306,634 1377,636 1449,634 1520,633 1592,636"/>
+                <TextEquiv>
+                    <Unicode>anni in cui M. Bernardo può essere stato in Francia. Nei quali anni inoltre, anche il lore-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="164,739 234,735 305,735 376,735 447,731 518,732 588,729 659,731 730,728 801,729 872,727 942,727 1013,727 1084,727 1155,727 1226,727 1296,727 1367,729 1438,729 1509,729 1580,737 1580,686 1509,678 1438,678 1367,678 1296,676 1226,676 1155,676 1084,676 1013,676 942,676 872,676 801,678 730,677 659,680 588,678 518,681 447,680 376,684 305,684 234,684 164,688"/>
+                <Baseline points="164,722 234,718 305,718 376,718 447,714 518,715 588,712 659,714 730,711 801,712 872,710 942,710 1013,710 1084,710 1155,710 1226,710 1296,710 1367,712 1438,712 1509,712 1580,720"/>
+                <TextEquiv>
+                    <Unicode>nese (1593 – 1652), dopo il viaggio probabile in Italia, a Roma, era in piena attività,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="162,809 233,810 304,808 375,807 446,803 517,803 588,803 659,804 730,805 801,807 872,803 943,803 1014,803 1085,803 1156,801 1227,803 1298,803 1369,805 1440,804 1511,803 1582,809 1582,758 1511,752 1440,753 1369,754 1298,752 1227,752 1156,750 1085,752 1014,752 943,752 872,752 801,756 730,754 659,753 588,752 517,752 446,752 375,756 304,757 233,759 162,758"/>
+                <Baseline points="162,792 233,793 304,791 375,790 446,786 517,786 588,786 659,787 730,788 801,790 872,786 943,786 1014,786 1085,786 1156,784 1227,786 1298,786 1369,788 1440,787 1511,786 1582,792"/>
+                <TextEquiv>
+                    <Unicode>che già aveva dato il Contadino e la Contadina (visti alla Mostra di Roma), a lui attribuiti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="166,881 191,882 216,883 242,883 267,881 293,881 318,881 344,883 369,883 395,881 420,881 446,879 446,827 420,829 395,829 369,831 344,831 318,829 293,829 267,829 242,831 216,831 191,830 166,829"/>
+                <Baseline points="166,864 191,865 216,866 242,866 267,864 293,864 318,864 344,866 369,866 395,864 420,864 446,862"/>
+                <TextEquiv>
+                    <Unicode>da V. Block, ecc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tra il 1588, il ‘93, il ‘607, e finiscono tra il ‘648 e il ‘677: proprio lavoravano negli&#13;
+anni in cui M. Bernardo può essere stato in Francia. Nei quali anni inoltre, anche il lore-&#13;
+nese (1593 – 1652), dopo il viaggio probabile in Italia, a Roma, era in piena attività,&#13;
+che già aveva dato il Contadino e la Contadina (visti alla Mostra di Roma), a lui attribuiti&#13;
+da V. Block, ecc.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=29_06_2024_18:13</Creator>
+        <Created>2024-06-29T13:46:33.064+02:00</Created>
+        <LastChange>2024-06-29T18:13:21.074+02:00</LastChange>
+        <TranskribusMetadata docId="3062983" pageId="74294029" pageNr="2" tsid="175495069" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=ZULLZYHKTWYTTQUWNNWZBQUJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OKBXPCKUEVXPCDQMHXWWZAMS" imageId="60123760"/>
+    </Metadata>
+    <Page imageFilename="Q_1962_01_0003_c1r.jpg" imageWidth="1798" imageHeight="2515">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719747165700" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="143,400 143,2176 1597,2176 1597,400"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="605,483 643,496 717,469 906,487 983,467 1063,479 1063,396 1035,409 995,387 924,398 908,385 785,418 699,383 656,400 607,380"/>
+                <Baseline points="615,441 640,441 665,440 690,438 715,438 740,439 765,437 790,437 815,437 841,436 866,436 891,437 916,437 941,437 966,436 991,435 1016,435 1041,435 1067,437"/>
+                <TextEquiv>
+                    <Unicode>I disegni di Michelangole</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="154,616 1562,636 1562,561 1453,547 154,552"/>
+                <Baseline points="165,605 235,605 305,603 375,604 445,604 515,605 585,601 655,602 725,601 795,601 866,599 936,601 1006,599 1076,601 1146,603 1216,599 1286,599 1356,599 1426,597 1496,597 1567,597"/>
+                <TextEquiv>
+                    <Unicode>Non si può negare che tutta l'arte fioventina del Rinescimento non fosse stata la ricerca, e la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="136,708 1546,707 1546,619 136,650"/>
+                <Baseline points="147,683 217,681 287,681 357,679 427,681 498,679 568,679 638,680 708,679 778,677 849,676 919,679 989,677 1059,679 1129,677 1200,679 1270,678 1340,677 1410,675 1480,672 1551,675"/>
+                <TextEquiv>
+                    <Unicode>scoperta, anzi la riscoperta, dopo tenti secoli, della guandezza, dell'importanza: dell'assoluta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="134,797 1582,776 1582,703 1375,692 134,734"/>
+                <Baseline points="145,753 217,752 289,751 361,753 433,751 505,753 577,751 649,753 721,753 793,752 866,753 938,750 1010,749 1082,747 1154,749 1226,747 1298,749 1370,751 1442,751 1514,756 1587,767"/>
+                <TextEquiv>
+                    <Unicode>verità che è la vita, la presenza dell'uomo sulla terra. La terra: un luogo fatto di montie di pin-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="136,865 1580,843 1564,790 1146,772 963,808 263,776 136,812"/>
+                <Baseline points="147,831 218,832 290,833 362,833 434,831 506,829 578,828 650,827 722,827 794,825 866,827 937,825 1009,827 1081,827 1153,826 1225,827 1297,826 1369,825 1441,825 1513,825 1585,827"/>
+                <TextEquiv>
+                    <Unicode>mure, di fiumi, di borchi e vegetazioni, con dentro animali. L'uomo è fatto per dominare queste cose</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="131,946 1577,915 1577,872 1484,855 133,870"/>
+                <Baseline points="143,905 214,906 286,907 358,909 430,907 502,911 574,908 646,907 718,905 790,904 862,903 933,901 1005,901 1077,903 1149,901 1221,901 1293,899 1365,899 1437,901 1509,900 1581,903"/>
+                <TextEquiv>
+                    <Unicode>Mai, come in quel tempo, gli uomini dovettero avere il sospetto, il timore di codesto loro potere, misu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="136,1037 238,999 1587,1006 1587,939 1546,926 136,943"/>
+                <Baseline points="147,983 219,982 291,983 363,981 435,983 508,985 580,983 652,983 724,981 796,983 869,981 941,982 1013,981 1085,980 1157,981 1230,983 1302,983 1374,983 1446,983 1518,984 1591,987"/>
+                <TextEquiv>
+                    <Unicode>randolo con la certezza della morte Ma à con l'opera di Michelangelo che questa presenza, e nuova-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="136,1112 260,1072 1591,1079 1591,1010 1533,1001 136,1037"/>
+                <Baseline points="147,1057 219,1057 291,1057 364,1057 436,1058 509,1059 581,1059 653,1059 726,1059 798,1058 871,1057 943,1059 1015,1059 1088,1057 1160,1057 1233,1057 1305,1056 1377,1055 1450,1055 1522,1055 1595,1059"/>
+                <TextEquiv>
+                    <Unicode>storia della vita dell'uomo, acquista una preponderanza insieme con l'andamento di una nas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="134,1152 1567,1164 1567,1086 1400,1073 134,1113"/>
+                <Baseline points="145,1133 216,1135 287,1133 358,1131 430,1133 501,1134 572,1133 644,1133 715,1131 786,1129 858,1129 929,1129 1000,1129 1071,1130 1143,1129 1214,1129 1285,1131 1357,1131 1428,1131 1499,1131 1571,1131"/>
+                <TextEquiv>
+                    <Unicode>razione, o anzi, col ritmo, il tempo, e le cadenze, le battate di un dramma che, per la prima volta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665237964_227" custom="readingOrder {index:9;}">
+                <Coords points="134,1251 183,1240 198,1248 211,1237 265,1250 300,1230 345,1222 392,1230 392,1193 336,1179 300,1186 267,1166 223,1188 189,1173 169,1175 154,1190 136,1186"/>
+                <Baseline points="147,1211 218,1209 290,1207 361,1206 396,1206"/>
+                <TextEquiv>
+                    <Unicode>dopo lfartiene,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="271,1179 300,1186 340,1179 372,1188 387,1184 394,1190 410,1184 410,1150 390,1146 374,1155 361,1148 327,1148 309,1155 291,1150 280,1159 271,1159"/>
+                <Baseline points="281,1177 307,1175 334,1175 361,1175 388,1175 415,1175"/>
+                <TextEquiv>
+                    <Unicode>aetichita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665237963_226" custom="readingOrder {index:11;}">
+                <Coords points="387,1242 1575,1221 1575,1170 1357,1155 387,1190"/>
+                <Baseline points="396,1206 433,1207 505,1207 576,1207 648,1207 719,1207 791,1207 863,1207 934,1206 1006,1205 1077,1204 1149,1207 1221,1205 1292,1205 1364,1203 1435,1203 1507,1202 1579,1201"/>
+                <TextEquiv>
+                    <Unicode>diedeva al mondo dei viventi di essere rignardato e meditato. L'opera di Michel-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="153,1322 1560,1293 1560,1240 1366,1262 1304,1224 153,1259"/>
+                <Baseline points="163,1289 233,1287 303,1283 373,1283 443,1283 513,1285 583,1284 653,1283 723,1283 793,1282 864,1281 934,1283 1004,1281 1074,1281 1144,1281 1214,1281 1284,1281 1354,1281 1424,1280 1494,1279 1565,1283"/>
+                <TextEquiv>
+                    <Unicode>gelo, tutta gettata in figure di pieno rilievo, costituita di personeggi che ripetono sempre l'identita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:13;}">
+                <Coords points="143,1400 1535,1399 1522,1310 267,1311 143,1348"/>
+                <Baseline points="153,1361 222,1363 291,1363 360,1363 430,1363 499,1362 568,1361 638,1359 707,1361 776,1360 846,1361 915,1359 984,1359 1053,1359 1123,1359 1192,1359 1261,1358 1331,1357 1400,1356 1469,1354 1539,1357"/>
+                <TextEquiv>
+                    <Unicode>di due persone: l'uomo e la donna, rappresenta le parti, le sezioni, le ripartizioni di codesto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:14;}">
+                <Coords points="142,1468 1593,1471 1593,1391 142,1408"/>
+                <Baseline points="151,1439 223,1440 295,1441 367,1439 439,1435 512,1435 584,1433 656,1433 728,1433 800,1433 873,1433 945,1433 1017,1434 1089,1435 1161,1434 1234,1433 1306,1434 1378,1435 1450,1437 1522,1437 1595,1437"/>
+                <TextEquiv>
+                    <Unicode>dramma di ogni giorno. Dei, semidei, santi, eroi, tutti sono do tati e legati ad un corpo mate-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:15;}">
+                <Coords points="134,1533 1595,1527 1595,1471 1438,1464 314,1464 134,1504"/>
+                <Baseline points="145,1515 217,1513 290,1514 362,1511 435,1511 508,1509 580,1509 653,1509 725,1507 798,1510 871,1507 943,1507 1016,1507 1088,1507 1161,1506 1234,1507 1306,1509 1379,1508 1451,1507 1524,1506 1597,1505"/>
+                <TextEquiv>
+                    <Unicode>riale, alla pasi del più comune dei mortali. Ogni corpo avvinto a deue gambe, dee braccia, un bresto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719662388225_128" custom="readingOrder {index:16;}">
+                <Coords points="143,1620 583,1602 685,1633 823,1600 1122,1631 1124,1558 1048,1533 974,1562 145,1558"/>
+                <Baseline points="153,1593 224,1590 296,1589 368,1587 440,1585 512,1585 584,1587 656,1585 728,1585 800,1585 872,1583 943,1584 1015,1583 1087,1583 1126,1583"/>
+                <TextEquiv>
+                    <Unicode>e una testa. Sono anatonie consapevoli di un dolore sepolto, di.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719662484056_145" custom="readingOrder {index:17;}">
+                <Coords points="1086,1557 1101,1557 1106,1553 1110,1557 1121,1549 1137,1549 1146,1558 1150,1555 1161,1555 1161,1526 1110,1524 1099,1529 1095,1526 1086,1526"/>
+                <Baseline points="1096,1548 1165,1548"/>
+                <TextEquiv>
+                    <Unicode>une</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719662388224_127" custom="readingOrder {index:18;}">
+                <Coords points="1115,1616 1152,1631 1239,1604 1282,1622 1331,1602 1375,1620 1415,1604 1586,1616 1575,1547 1517,1562 1466,1540 1420,1560 1351,1544 1251,1564 1182,1540 1115,1547"/>
+                <Baseline points="1126,1583 1159,1583 1231,1583 1303,1583 1375,1583 1447,1583 1519,1583 1591,1585"/>
+                <TextEquiv>
+                    <Unicode>sofferenza che ricomincerà dentre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:19;}">
+                <Coords points="143,1687 1577,1678 1577,1622 1527,1618 529,1642 380,1602 225,1649 143,1618"/>
+                <Baseline points="153,1665 224,1664 295,1664 366,1667 438,1667 509,1665 580,1663 652,1661 723,1661 794,1663 866,1661 937,1661 1008,1661 1079,1661 1151,1662 1222,1663 1293,1663 1365,1662 1436,1663 1507,1665 1579,1669"/>
+                <TextEquiv>
+                    <Unicode>il groviglio di ossa, di mscoli, di nersi. Ogni cosa sente d'essere affondata nella casse e nel sangue_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:20;}">
+                <Coords points="147,1773 1571,1767 1571,1700 1507,1691 147,1713"/>
+                <Baseline points="157,1741 227,1741 298,1738 369,1739 440,1739 511,1741 581,1741 652,1741 723,1743 794,1741 865,1742 935,1738 1006,1739 1077,1740 1148,1739 1219,1741 1289,1741 1360,1739 1431,1738 1502,1736 1573,1735"/>
+                <TextEquiv>
+                    <Unicode>Non sono le natonie, simili ad arborescensa pietrificato, gli spaccati, le asterie di vetro: esseri tra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665340284_248" custom="readingOrder {index:21;}">
+                <Coords points="147,1845 703,1856 786,1827 877,1862 914,1842 914,1784 839,1796 785,1767 674,1780 607,1756 410,1796 147,1773"/>
+                <Baseline points="157,1823 228,1819 300,1819 371,1818 443,1815 515,1817 586,1814 658,1813 729,1813 801,1814 873,1815 919,1815"/>
+                <TextEquiv>
+                    <Unicode>il minerale e il vagetale, di Leonardo. Altra natura,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:22;}">
+                <Coords points="826,1791 950,1778 997,1794 1033,1782 1121,1791 1121,1751 1092,1760 1032,1756 1019,1745 997,1760 972,1749 921,1760 899,1749 826,1756"/>
+                <Baseline points="837,1777 863,1775 889,1775 915,1773 941,1773 967,1773 994,1774 1020,1775 1046,1775 1072,1775 1098,1775 1125,1775"/>
+                <TextEquiv>
+                    <Unicode>quella diMiclangelo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719665340283_247" custom="readingOrder {index:23;}">
+                <Coords points="908,1847 1584,1842 1569,1765 1340,1794 1271,1769 970,1782 908,1804"/>
+                <Baseline points="919,1815 944,1815 1016,1815 1087,1814 1159,1814 1231,1815 1302,1815 1374,1815 1445,1815 1517,1814 1589,1815"/>
+                <TextEquiv>
+                    <Unicode>impastata nel dolore, come una ventola  argil-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:24;}">
+                <Coords points="151,1923 200,1936 294,1913 360,1936 427,1907 538,1905 623,1929 687,1905 687,1845 665,1840 574,1860 465,1842 385,1862 351,1845 329,1860 307,1843 276,1860 151,1847"/>
+                <Baseline points="161,1895 187,1895 214,1895 240,1895 267,1895 293,1895 320,1895 346,1895 373,1895 399,1895 426,1893 452,1894 479,1894 505,1893 532,1894 558,1895 585,1893 611,1893 638,1893 664,1895 691,1895"/>
+                <TextEquiv>
+                    <Unicode>la, che sente l'umidità e l'acqua-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:25;}">
+                <Coords points="147,1989 1591,1989 1567,1907 147,1925"/>
+                <Baseline points="157,1975 228,1972 300,1969 372,1969 444,1967 516,1967 588,1966 660,1965 732,1963 804,1963 876,1963 947,1965 1019,1965 1091,1965 1163,1964 1235,1965 1307,1965 1379,1965 1451,1965 1523,1965 1595,1965"/>
+                <TextEquiv>
+                    <Unicode>Di codesto mico interesse di Michel angelo per l'umano, si può farsene un'idea percorren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:26;}">
+                <Coords points="143,2067 1564,2072 1564,2007 1422,1994 143,2005"/>
+                <Baseline points="153,2047 223,2045 294,2042 365,2043 436,2041 507,2041 577,2041 648,2040 719,2041 790,2039 861,2040 931,2041 1002,2041 1073,2042 1144,2043 1215,2043 1285,2041 1356,2039 1427,2040 1498,2046 1569,2045"/>
+                <TextEquiv>
+                    <Unicode>do la mostra di disegni, ordinata da Paola Barocchi, agli Uffici di Firenze. I disegni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

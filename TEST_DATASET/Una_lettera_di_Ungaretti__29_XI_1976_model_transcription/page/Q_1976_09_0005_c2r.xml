@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=27_06_2024_20:27</Creator>
+        <Created>2024-06-27T11:37:59.356+02:00</Created>
+        <LastChange>2024-06-27T20:27:53.853+02:00</LastChange>
+        <TranskribusMetadata docId="3017223" pageId="74109355" pageNr="3" tsid="175133430" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=KRGZMERSXUPKUTHTKZJSQNCW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BTNIWCSFLLDEFKMWXRMTDFKC" imageId="59955448"/>
+    </Metadata>
+    <Page imageFilename="Q_1976_09_0005_c2r.jpg" imageWidth="1798" imageHeight="2414">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719747357356" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="94,502 94,1977 1484,1977 1484,502"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="99,532 1079,565 1445,529 1388,451 1060,489 99,467"/>
+                <Baseline points="108,524 175,528 242,528 309,526 376,522 443,523 510,526 577,524 644,526 711,529 778,529 845,526 912,524 979,524 1046,524 1113,524 1180,524 1247,523 1314,523 1381,522 1448,522"/>
+                <TextEquiv>
+                    <Unicode>Gon o nell'esiatenza degli uomipù, anche a mmiai, to periovi di lonta-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1141,576 1155,576 1160,572 1169,576 1176,570 1188,572 1191,569 1229,576 1229,541 1205,541 1201,538 1196,541 1188,536 1181,541 1174,536 1165,536 1157,545 1141,548"/>
+                <Baseline points="1150,568 1178,566 1206,566 1234,568"/>
+                <TextEquiv>
+                    <Unicode>i vare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="833,570 863,584 901,572 909,579 927,572 946,579 1003,574 1036,581 1036,550 1017,545 973,543 965,550 944,538 906,541 897,534 875,545 833,541"/>
+                <Baseline points="842,568 870,568 898,566 926,566 955,566 983,567 1011,569 1040,570"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="201,574 576,583 621,564 698,569 698,538 664,531 531,555 413,534 365,550 202,546"/>
+                <Baseline points="212,570 237,570 263,571 289,572 315,572 340,572 366,570 392,570 418,569 444,568 469,568 495,570 521,570 547,568 573,568 598,565 624,562 650,563 676,565 702,568"/>
+                <TextEquiv>
+                    <Unicode>rso in rosti dala sogietà</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="109,619 1426,628 1428,560 1300,538 1023,584 111,555"/>
+                <Baseline points="118,602 183,604 249,604 314,604 380,602 446,600 511,601 577,602 642,600 708,602 774,600 839,600 905,599 970,600 1036,598 1101,600 1167,598 1233,598 1298,598 1364,598 1430,600"/>
+                <TextEquiv>
+                    <Unicode>n2 mento Novi si era degli scrittori, e lo qualifita si incorpora nel dvilo. Oguuno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="595,650 622,650 636,653 640,659 650,652 686,655 697,648 716,652 716,628 702,628 690,617 686,621 678,614 659,629 653,624 643,626 636,619 614,621 603,612 595,612"/>
+                <Baseline points="604,646 633,648 662,648 691,646 720,642"/>
+                <TextEquiv>
+                    <Unicode>seconola</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1203,650 1271,652 1276,657 1298,653 1310,664 1322,657 1340,662 1366,657 1366,634 1345,633 1335,624 1331,628 1324,622 1316,628 1302,622 1293,629 1260,622 1243,628 1203,612"/>
+                <Baseline points="1212,646 1238,646 1264,646 1290,647 1316,648 1342,648 1368,648"/>
+                <TextEquiv>
+                    <Unicode>lora insgani.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="102,709 1431,685 1431,636 1309,664 1131,612 640,659 467,609 102,640"/>
+                <Baseline points="112,680 178,680 244,678 310,677 376,674 443,674 509,676 575,675 641,677 707,679 774,674 840,674 906,674 972,675 1038,674 1105,674 1171,674 1237,675 1303,678 1369,678 1436,676"/>
+                <TextEquiv>
+                    <Unicode>pisolve il raggorto la propria natira. La letturaturan il pi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="800,726 921,723 921,695 901,697 897,693 885,697 875,690 859,692 852,685 838,685 830,686 816,698 802,697"/>
+                <Baseline points="812,718 840,718 868,718 896,718 924,716"/>
+                <TextEquiv>
+                    <Unicode>sostene e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="251,728 280,736 306,731 320,736 335,726 363,724 373,730 382,724 420,728 441,724 443,695 422,692 394,702 363,686 346,695 320,690 301,698 273,692 252,698"/>
+                <Baseline points="260,728 286,728 313,727 339,725 366,723 392,722 419,720 446,720"/>
+                <TextEquiv>
+                    <Unicode>miei oloveri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="351,761 1478,781 1478,723 1340,700 636,731 482,683 351,738"/>
+                <Baseline points="360,756 416,754 472,754 528,754 584,754 640,752 696,752 752,753 808,752 864,752 921,754 977,754 1033,754 1089,752 1145,752 1201,752 1257,754 1313,754 1369,752 1425,752 1482,748"/>
+                <TextEquiv>
+                    <Unicode>lo sterio e lo sciueraceme costattiuto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="109,768 131,773 195,759 213,774 259,771 299,793 323,787 325,733 268,735 242,721 228,733 183,723 166,728 140,717 109,724"/>
+                <Baseline points="118,754 144,756 171,756 197,755 224,754 250,754 277,754 303,754 330,752"/>
+                <TextEquiv>
+                    <Unicode>unene dei uo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="655,806 690,802 704,806 709,800 783,806 783,778 764,778 750,766 728,769 716,764 705,773 692,774 674,764 655,768"/>
+                <Baseline points="664,794 695,794 726,790 757,794 788,796"/>
+                <TextEquiv>
+                    <Unicode>qualician</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="104,844 1471,854 1449,795 1172,764 1098,799 856,768 778,807 555,769 104,795"/>
+                <Baseline points="114,830 182,833 250,832 318,832 386,830 454,829 522,826 590,826 658,826 726,827 795,828 863,826 931,826 999,826 1067,826 1135,826 1203,828 1271,828 1339,826 1407,830 1476,840"/>
+                <TextEquiv>
+                    <Unicode>nostadallilmeadtrazidelctiturmgaesiime civelti. Con gliamici scoittuano, era -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="795,854 813,852 819,857 826,852 838,864 849,854 885,857 909,852 946,857 946,837 866,837 857,830 838,832 832,826 819,832 793,826"/>
+                <Baseline points="804,848 833,848 862,848 891,848 920,850 950,850"/>
+                <TextEquiv>
+                    <Unicode>re prémene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="468,873 1229,887 1407,882 1409,854 468,844"/>
+                <Baseline points="478,872 524,872 571,874 618,873 665,870 712,870 758,871 805,872 852,874 899,874 946,874 992,872 1039,871 1086,871 1133,872 1180,873 1226,872 1273,870 1320,870 1367,870 1414,876"/>
+                <TextEquiv>
+                    <Unicode>sanquo, chaturavadadomoni della sen evo guerra nel monrto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="97,878 145,882 152,889 163,885 178,892 192,883 261,882 261,847 247,844 225,859 206,852 194,861 178,849 164,857 157,852 150,857 137,852 97,856"/>
+                <Baseline points="106,876 132,878 159,880 186,881 212,881 239,879 266,878"/>
+                <TextEquiv>
+                    <Unicode>vano gerott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="802,932 882,913 1086,935 1248,911 1466,918 1466,880 1433,871 802,880"/>
+                <Baseline points="812,900 844,900 877,902 910,906 943,909 976,909 1009,908 1042,906 1075,904 1108,902 1141,902 1173,902 1206,906 1239,903 1272,901 1305,902 1338,902 1371,903 1404,904 1437,906 1470,908"/>
+                <TextEquiv>
+                    <Unicode>inimitemni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="99,930 152,942 242,913 287,932 327,909 389,928 424,911 539,932 679,923 679,878 634,871 543,887 432,868 415,885 296,854 266,883 99,889"/>
+                <Baseline points="108,906 136,905 165,907 194,907 223,905 252,903 280,903 309,903 338,903 367,904 396,904 424,904 453,904 482,905 511,906 540,906 568,906 597,904 626,900 655,900 684,902"/>
+                <TextEquiv>
+                    <Unicode>o dul mezzine..o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="1117,947 1184,958 1203,947 1329,954 1350,944 1369,959 1395,947 1473,959 1473,927 1399,927 1378,913 1354,925 1312,909 1260,925 1144,915 1117,928"/>
+                <Baseline points="1126,940 1151,942 1176,942 1201,943 1226,943 1251,942 1276,942 1302,942 1327,943 1352,945 1377,947 1402,948 1427,948 1452,950 1478,952"/>
+                <TextEquiv>
+                    <Unicode>in quell'intravalle a praci_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="522,991 679,1017 740,989 826,1013 1177,987 1295,1018 1454,1001 1452,949 520,946"/>
+                <Baseline points="530,980 576,979 622,980 669,978 715,978 762,977 808,979 854,982 901,981 947,978 994,978 1040,978 1086,977 1133,978 1179,980 1226,980 1272,978 1318,978 1365,978 1411,981 1458,984"/>
+                <TextEquiv>
+                    <Unicode>ntuilmfincanato. Cl itaficosi a nartimna da qrelliaipo al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="112,997 135,1001 145,991 169,1001 188,992 213,1004 240,992 275,1017 361,997 361,921 294,942 261,928 214,953 112,928"/>
+                <Baseline points="122,984 148,984 175,984 202,984 229,984 256,985 283,985 310,984 337,984 364,986"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="901,1030 916,1034 934,1020 944,1027 958,1023 972,1029 982,1027 982,989 966,991 959,985 946,996 939,996 930,989 918,994 901,994"/>
+                <Baseline points="910,1018 935,1018 960,1019 986,1020"/>
+                <TextEquiv>
+                    <Unicode>fin he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="116,1032 138,1037 216,1034 223,1039 249,1039 249,1004 232,1006 225,999 213,1004 202,994 175,1003 171,999 159,1001 145,991 116,999"/>
+                <Baseline points="126,1032 151,1032 177,1032 202,1032 228,1033 254,1034"/>
+                <TextEquiv>
+                    <Unicode>vestire l</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="99,1072 1082,1077 1067,1004 918,1034 311,1004 264,1046 99,1037"/>
+                <Baseline points="108,1064 156,1062 205,1060 254,1059 303,1056 352,1056 401,1056 450,1054 499,1053 548,1054 597,1056 645,1056 694,1056 743,1054 792,1054 841,1054 890,1057 939,1058 988,1058 1037,1057 1086,1056"/>
+                <TextEquiv>
+                    <Unicode>alito paramilitare, e la lattera tura raspirava col, fiuta graggo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="85,1153 1442,1155 1473,1082 86,1096"/>
+                <Baseline points="94,1130 163,1132 232,1134 301,1134 370,1134 439,1134 508,1132 577,1134 646,1132 715,1134 785,1134 854,1134 923,1132 992,1130 1061,1132 1130,1131 1199,1132 1268,1132 1337,1130 1406,1128 1476,1134"/>
+                <TextEquiv>
+                    <Unicode>Pecquacanti anai La le nto natura mi staca intorno, fra la carte d'ufficio. Espe cienzra particolurei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="244,1186 258,1186 259,1189 264,1189 275,1182 282,1186 290,1186 294,1182 311,1184 313,1148 304,1148 303,1144 287,1153 273,1141 268,1144 264,1141 259,1144 245,1144"/>
+                <Baseline points="254,1180 284,1180 314,1176"/>
+                <TextEquiv>
+                    <Unicode>Per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="97,1219 1473,1219 1473,1162 1297,1146 97,1181"/>
+                <Baseline points="106,1206 174,1207 243,1208 311,1208 380,1208 449,1210 517,1208 586,1208 654,1206 723,1206 792,1208 860,1206 929,1206 997,1206 1066,1206 1135,1205 1203,1206 1272,1206 1340,1206 1409,1207 1478,1214"/>
+                <TextEquiv>
+                    <Unicode>o ponfusione auta nel lavrro trasmesso La mio podoune, mireccdi allore al PocaMzienice</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="629,1250 643,1252 650,1259 655,1253 659,1257 666,1253 672,1257 681,1255 686,1260 704,1253 714,1262 724,1255 743,1257 742,1224 730,1224 711,1215 693,1215 681,1222 655,1220 647,1227 628,1220"/>
+                <Baseline points="638,1244 665,1246 693,1248 720,1248 748,1248"/>
+                <TextEquiv>
+                    <Unicode>lo stugo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="99,1293 375,1328 610,1286 692,1322 1471,1310 1450,1250 1269,1259 1201,1219 1046,1259 901,1224 629,1260 564,1219 99,1248"/>
+                <Baseline points="108,1284 176,1284 244,1284 313,1283 381,1284 450,1284 518,1281 586,1282 655,1283 723,1286 792,1286 860,1286 928,1286 997,1284 1065,1284 1134,1282 1202,1282 1270,1282 1339,1282 1407,1283 1476,1292"/>
+                <TextEquiv>
+                    <Unicode>di Bra xelles. Chaffege Lentrale, di clism, coai s fianco Ze maanali tacmid, aspellavosso Galile e,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="1281,1329 1310,1328 1321,1335 1335,1329 1348,1329 1355,1335 1359,1331 1364,1335 1369,1331 1388,1333 1388,1307 1374,1309 1367,1303 1355,1307 1345,1300 1324,1303 1312,1293 1305,1297 1298,1295 1293,1300 1279,1298"/>
+                <Baseline points="1290,1324 1315,1322 1341,1323 1366,1326 1392,1328"/>
+                <TextEquiv>
+                    <Unicode>lama di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="88,1376 1445,1386 1433,1309 368,1335 88,1293"/>
+                <Baseline points="98,1364 165,1361 233,1360 300,1360 368,1360 436,1358 503,1358 571,1358 638,1358 706,1358 774,1358 841,1358 909,1358 976,1356 1044,1358 1111,1358 1179,1358 1247,1356 1314,1356 1382,1356 1450,1358"/>
+                <TextEquiv>
+                    <Unicode>Paical: Leoprar. Conservavo e nsovo la condetta matia, il calhe per le dena</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="93,1454 1457,1454 1426,1392 1210,1378 93,1402"/>
+                <Baseline points="102,1436 169,1436 237,1436 305,1438 373,1436 441,1434 509,1433 577,1430 645,1430 713,1432 781,1433 848,1432 916,1432 984,1432 1052,1431 1120,1430 1188,1432 1256,1432 1324,1431 1392,1429 1460,1426"/>
+                <TextEquiv>
+                    <Unicode>zia Leigi, ma, M Gn sepe Ruparett'a portami da Pasigi il fascaccle L "Vors et Eros"eud conte-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="1139,1483 1163,1482 1170,1488 1179,1483 1222,1485 1227,1490 1248,1482 1276,1494 1302,1487 1302,1454 1283,1447 1255,1445 1229,1457 1189,1445 1181,1452 1169,1447 1139,1450"/>
+                <Baseline points="1148,1478 1174,1480 1200,1481 1227,1482 1253,1482 1279,1481 1306,1480"/>
+                <TextEquiv>
+                    <Unicode>vrdeva qui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="102,1528 1449,1540 1449,1461 1278,1495 1068,1457 102,1461"/>
+                <Baseline points="112,1510 179,1510 246,1509 313,1506 380,1506 447,1506 514,1504 581,1504 648,1504 715,1506 782,1504 849,1504 916,1506 983,1508 1050,1506 1117,1507 1184,1509 1251,1510 1318,1510 1385,1508 1452,1512"/>
+                <TextEquiv>
+                    <Unicode>menta La Soiaia aosa de. Teste. Era l'agorto del 125. Con Ingoreti ci sio a Bena-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="856,1559 880,1568 899,1554 954,1552 973,1563 985,1551 1160,1559 1160,1520 1139,1514 1117,1514 1093,1533 1068,1518 992,1530 935,1514 856,1518"/>
+                <Baseline points="866,1546 893,1546 920,1548 947,1548 974,1548 1001,1548 1028,1547 1055,1547 1082,1549 1109,1552 1136,1552 1164,1554"/>
+                <TextEquiv>
+                    <Unicode>grcsi a pensatt o critto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="468,1561 477,1561 488,1571 520,1561 532,1566 550,1561 572,1568 572,1533 560,1533 550,1542 541,1539 527,1542 507,1532 468,1535"/>
+                <Baseline points="478,1558 510,1558 543,1560 576,1558"/>
+                <TextEquiv>
+                    <Unicode>ricordo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="104,1599 1454,1587 1454,1551 1262,1520 1162,1561 104,1549"/>
+                <Baseline points="114,1584 181,1584 248,1583 315,1583 382,1584 450,1582 517,1585 584,1583 651,1580 718,1582 786,1582 853,1581 920,1582 987,1582 1054,1581 1122,1582 1189,1578 1256,1578 1323,1580 1390,1582 1458,1584"/>
+                <TextEquiv>
+                    <Unicode>Sopra di ui, nn, i di Apollincire.. avaprai sul nueio, sul "Carterisno digure.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="137,1627 159,1625 166,1632 180,1630 195,1616 211,1622 218,1618 232,1632 249,1632 249,1592 230,1594 225,1590 209,1596 202,1590 175,1590 166,1597 161,1594 156,1599 137,1599"/>
+                <Baseline points="146,1616 173,1618 200,1616 227,1616 254,1618"/>
+                <TextEquiv>
+                    <Unicode>di Valii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="112,1673 1433,1689 1433,1596 692,1644 437,1597 112,1622"/>
+                <Baseline points="122,1656 187,1658 253,1663 319,1663 385,1659 451,1660 516,1662 582,1661 648,1662 714,1664 780,1662 845,1660 911,1659 977,1658 1043,1657 1109,1658 1174,1658 1240,1659 1306,1658 1372,1658 1438,1658"/>
+                <TextEquiv>
+                    <Unicode>Testesche ergi'uao., gingoaao fraqueati le lattre di Ungaretti. Gli spedivo le cose</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="797,1708 813,1710 821,1703 837,1711 861,1710 868,1717 887,1706 902,1711 902,1684 887,1679 849,1680 837,1684 819,1668 809,1679 797,1679"/>
+                <Baseline points="806,1700 831,1702 856,1702 881,1702 906,1700"/>
+                <TextEquiv>
+                    <Unicode>Poi, per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="408,1720 417,1720 420,1724 427,1717 437,1722 462,1722 467,1718 489,1720 488,1684 475,1684 467,1677 465,1680 449,1680 439,1687 427,1686 424,1682 415,1691 406,1691"/>
+                <Baseline points="418,1716 443,1718 468,1719 494,1720"/>
+                <TextEquiv>
+                    <Unicode>ispeo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="107,1767 1246,1770 1246,1711 1188,1687 847,1717 555,1675 437,1724 107,1673"/>
+                <Baseline points="116,1736 172,1736 229,1738 286,1738 342,1738 399,1737 456,1738 512,1738 569,1738 626,1738 683,1738 739,1738 796,1738 853,1736 909,1733 966,1735 1023,1734 1079,1736 1136,1736 1193,1738 1250,1736"/>
+                <TextEquiv>
+                    <Unicode>che pubbleavo, egli a peuntuale.  auni,non crividi i suoi euratrerde e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_44" custom="readingOrder {index:43;}">
+                <Coords points="977,1788 1034,1788 1049,1781 1068,1788 1080,1782 1153,1788 1153,1748 1022,1744 1013,1751 997,1748 991,1755 977,1755"/>
+                <Baseline points="986,1780 1014,1780 1043,1780 1072,1780 1100,1780 1129,1780 1158,1782"/>
+                <TextEquiv>
+                    <Unicode>do termeteerica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_45" custom="readingOrder {index:44;}">
+                <Coords points="636,1786 647,1784 650,1788 700,1786 700,1756 688,1756 676,1748 672,1751 667,1748 659,1753 645,1743 636,1743"/>
+                <Baseline points="646,1782 675,1782 704,1782"/>
+                <TextEquiv>
+                    <Unicode>sullo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_46" custom="readingOrder {index:45;}">
+                <Coords points="85,1827 1210,1851 1433,1815 1435,1763 230,1791 86,1756"/>
+                <Baseline points="94,1812 161,1811 228,1810 295,1812 362,1810 430,1810 497,1811 564,1812 631,1812 698,1811 766,1807 833,1806 900,1804 967,1805 1034,1804 1102,1808 1169,1806 1236,1804 1303,1804 1370,1803 1438,1802"/>
+                <TextEquiv>
+                    <Unicode>Il mio in chiostro, teravis, apdava carte na srlo di. Stavo al tavolo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_47" custom="readingOrder {index:46;}">
+                <Coords points="337,1851 351,1855 377,1851 389,1860 401,1853 422,1857 427,1851 439,1858 470,1857 470,1826 448,1826 441,1831 411,1817 399,1827 377,1820 370,1827 360,1824 337,1829"/>
+                <Baseline points="346,1848 371,1846 397,1846 422,1846 448,1848 474,1848"/>
+                <TextEquiv>
+                    <Unicode>con prassi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_48" custom="readingOrder {index:47;}">
+                <Coords points="1233,1864 1250,1867 1259,1858 1267,1860 1283,1855 1297,1865 1310,1865 1307,1817 1286,1817 1271,1832 1264,1827 1231,1829"/>
+                <Baseline points="1242,1850 1277,1852 1312,1854"/>
+                <TextEquiv>
+                    <Unicode>dalla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_49" custom="readingOrder {index:48;}">
+                <Coords points="97,1898 1454,1912 1454,1853 1373,1843 97,1857"/>
+                <Baseline points="106,1884 173,1884 241,1886 308,1888 376,1884 444,1887 511,1886 579,1882 646,1882 714,1881 782,1882 849,1884 917,1884 984,1886 1052,1886 1119,1888 1187,1888 1255,1889 1322,1889 1390,1888 1458,1892"/>
+                <TextEquiv>
+                    <Unicode>ca disegno fua, praggli eg la la tori e i buoni amini litri, nella separcazione vitaa civile,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_50" custom="readingOrder {index:49;}">
+                <Coords points="863,1931 899,1931 904,1936 918,1931 934,1938 946,1928 965,1929 973,1938 984,1938 984,1907 935,1910 916,1905 892,1910 885,1903 864,1905"/>
+                <Baseline points="872,1926 901,1926 930,1926 959,1924 988,1926"/>
+                <TextEquiv>
+                    <Unicode>en rope a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_51" custom="readingOrder {index:50;}">
+                <Coords points="104,1945 119,1945 131,1936 178,1945 194,1931 216,1945 244,1936 284,1943 284,1917 271,1919 235,1900 220,1912 214,1907 182,1912 169,1903 145,1907 102,1896"/>
+                <Baseline points="114,1930 142,1930 171,1932 200,1932 228,1932 257,1934 286,1934"/>
+                <TextEquiv>
+                    <Unicode>giuessi uedim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_52" custom="readingOrder {index:51;}">
+                <Coords points="100,1988 1482,1992 1447,1909 100,1943"/>
+                <Baseline points="110,1964 178,1964 247,1965 316,1966 384,1966 453,1967 522,1967 590,1966 659,1964 728,1964 797,1964 865,1964 934,1964 1003,1962 1071,1958 1140,1962 1209,1962 1277,1960 1346,1960 1415,1962 1484,1966"/>
+                <TextEquiv>
+                    <Unicode>me tenecane e esupa quia,le cosa ti poesia, le niviste di' Francia. Ogni tanto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

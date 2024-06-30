@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=29_06_2024_18:13</Creator>
+        <Created>2024-06-29T13:46:33.480+02:00</Created>
+        <LastChange>2024-06-29T18:13:21.645+02:00</LastChange>
+        <TranskribusMetadata docId="3062983" pageId="74294031" pageNr="6" tsid="175495071" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=XJTYCBGHGIPSJWKRJTWKXWDW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HZRRGCZRXCVNFELKMDSYVBET" imageId="60123762"/>
+    </Metadata>
+    <Page imageFilename="Q_1962_01_0007_c3r.jpg" imageWidth="1798" imageHeight="2515">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719747166305" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="111,300 111,2162 1595,2171 1595,309"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="113,364 122,364 129,359 146,362 152,368 172,366 177,361 194,366 194,299 183,301 179,298 172,303 146,290 137,292 133,298 122,292 113,292"/>
+                <Baseline points="123,343 148,341 173,342 199,343"/>
+                <TextEquiv>
+                    <Unicode>5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667459145_961" custom="readingOrder {index:1;}">
+                <Coords points="98,558 897,564 897,488 784,471 693,508 623,470 98,488"/>
+                <Baseline points="108,528 142,528 187,527 232,528 276,527 321,527 365,527 410,525 455,525 499,525 544,527 588,525 633,526 678,526 722,528 767,527 811,528 856,529 901,531"/>
+                <TextEquiv>
+                    <Unicode>3) Cina al genere di stile pittorico, quasi, di Corsaggio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667536175_1029" custom="readingOrder {index:2;}">
+                <Coords points="155,619 904,643 904,581 874,566 324,562 270,592 155,560"/>
+                <Baseline points="165,603 236,606 307,605 379,602 450,601 522,600 593,601 664,601 736,603 807,603 879,601 908,601"/>
+                <TextEquiv>
+                    <Unicode>Il gruppo dei covidetti studi architettonici non fa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667530953_1022" custom="readingOrder {index:3;}">
+                <Coords points="878,586 887,586 897,577 898,579 900,577 902,579 923,579 923,542 913,542 900,549 893,547 887,542 878,542"/>
+                <Baseline points="889,576 925,576"/>
+                <TextEquiv>
+                    <Unicode>che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667536175_1028" custom="readingOrder {index:4;}">
+                <Coords points="898,634 969,651 1057,621 1590,627 1590,582 1442,553 1309,579 1216,551 898,579"/>
+                <Baseline points="908,601 950,603 1021,603 1093,601 1164,601 1236,601 1307,599 1378,599 1450,601 1521,599 1593,601"/>
+                <TextEquiv>
+                    <Unicode>anmentare nel riguasdante quuelconcetto di comideva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667549280_1038" custom="readingOrder {index:5;}">
+                <Coords points="137,714 244,704 264,717 346,714 359,727 394,732 394,666 344,664 314,642 303,653 281,643 253,664 242,651 183,649 161,634 139,640"/>
+                <Baseline points="147,685 218,685 289,683 360,683 397,681"/>
+                <TextEquiv>
+                    <Unicode>l'arte di figura</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="322,654 344,664 396,647 464,664 481,654 508,662 519,651 551,660 551,617 512,625 433,617 425,625 397,612 373,632 351,619 322,625"/>
+                <Baseline points="331,649 359,647 387,646 415,645 443,645 471,645 499,645 527,643 555,645"/>
+                <TextEquiv>
+                    <Unicode>in Michelangelo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667599040_1061" custom="readingOrder {index:7;}">
+                <Coords points="386,712 1165,706 1165,643 1120,636 923,662 782,632 617,664 386,649"/>
+                <Baseline points="397,681 431,681 502,680 573,679 644,679 715,677 786,679 858,679 929,679 1000,679 1071,679 1142,679 1169,679"/>
+                <TextEquiv>
+                    <Unicode>come conoscenza del cuore dell'uomo, di cui si è fatto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667592368_1054" custom="readingOrder {index:8;}">
+                <Coords points="1168,660 1198,658 1204,664 1215,660 1222,664 1233,664 1231,627 1220,627 1216,630 1209,627 1198,629 1183,621 1178,625 1167,627"/>
+                <Baseline points="1178,658 1238,661"/>
+                <TextEquiv>
+                    <Unicode>anno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667599039_1060" custom="readingOrder {index:9;}">
+                <Coords points="1159,701 1187,714 1244,695 1337,717 1364,703 1403,719 1431,697 1512,721 1540,703 1564,710 1564,638 1546,634 1531,649 1427,638 1353,653 1289,629 1242,666 1159,653"/>
+                <Baseline points="1169,679 1213,679 1284,676 1355,677 1426,677 1497,678 1569,683"/>
+                <TextEquiv>
+                    <Unicode>. Porte e lora stipiti, comicn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:10;}">
+                <Coords points="116,780 1584,784 1584,730 1170,701 116,741"/>
+                <Baseline points="127,765 200,764 273,759 346,757 419,755 492,753 565,755 638,754 711,754 784,751 858,751 931,751 1004,751 1077,751 1150,753 1223,753 1296,751 1369,753 1442,749 1515,750 1589,751"/>
+                <TextEquiv>
+                    <Unicode>di finestre, tronchi cilindorici di colonne, capitalli, muri, si sentono esistere in quanto l'uomo deve vivere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:11;}">
+                <Coords points="142,871 1544,860 1575,786 142,799"/>
+                <Baseline points="153,839 224,839 295,833 366,832 437,831 509,829 580,829 651,829 722,828 793,829 865,827 936,827 1007,827 1078,829 1149,830 1221,831 1292,828 1363,829 1434,825 1505,825 1577,827"/>
+                <TextEquiv>
+                    <Unicode>con lora, dentro di loro. di sente che l'uomo, staccatosi della natura, intende, con queste opere materiali.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667663111_1086" custom="readingOrder {index:12;}">
+                <Coords points="142,932 152,932 165,945 166,943 176,943 177,873 168,873 159,878 152,873 142,873"/>
+                <Baseline points="153,913 181,912"/>
+                <TextEquiv>
+                    <Unicode>di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:13;}">
+                <Coords points="168,891 185,895 194,886 216,887 229,898 251,884 274,887 281,880 314,886 348,878 362,884 366,847 311,856 285,850 268,858 255,852 226,858 207,847 194,860 170,865"/>
+                <Baseline points="179,883 206,879 233,878 260,876 287,874 314,873 341,871 369,869"/>
+                <TextEquiv>
+                    <Unicode>possi al centro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667663111_1085" custom="readingOrder {index:14;}">
+                <Coords points="170,939 1557,941 1584,860 170,891"/>
+                <Baseline points="181,912 224,911 296,907 367,905 439,905 511,903 582,904 654,907 725,905 797,904 869,907 940,906 1012,903 1083,902 1155,901 1227,901 1298,900 1370,901 1441,903 1513,901 1585,903"/>
+                <TextEquiv>
+                    <Unicode>una nuova natura, che egli ha costruito, eretto, e raggiunto con illavoro dell'ingegno e dello spirito. D</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667478391_984" custom="readingOrder {index:15;}">
+                <Coords points="94,1015 1581,1011 1581,943 1522,926 1281,961 207,939 94,974"/>
+                <Baseline points="105,986 168,989 246,987 325,987 404,983 482,984 561,985 639,982 718,985 797,981 875,983 954,981 1032,983 1111,980 1190,977 1268,977 1347,975 1425,975 1504,977 1583,983"/>
+                <TextEquiv>
+                    <Unicode>sta considerare il foglio con il profilo (un profilo palpitante) di basi di pilastri, per il Convente dif. Lovenzo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:16;}">
+                <Coords points="128,1096 1579,1080 1579,1024 1525,1009 200,1045 129,1015"/>
+                <Baseline points="137,1063 209,1061 281,1059 353,1057 426,1056 498,1055 570,1053 643,1056 715,1055 787,1055 860,1057 932,1055 1004,1057 1076,1055 1149,1055 1221,1053 1293,1050 1366,1049 1438,1049 1510,1051 1583,1053"/>
+                <TextEquiv>
+                    <Unicode>dove la scrittura potente di Michelaugelo annotapsche parole, che echeggiano come in un simbolo:l "cento octante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667703560_1108" custom="readingOrder {index:17;}">
+                <Coords points="118,1168 187,1180 209,1161 373,1150 399,1167 564,1154 608,1174 610,1118 566,1104 274,1113 220,1089 120,1124"/>
+                <Baseline points="129,1141 202,1139 275,1137 348,1136 421,1137 494,1136 567,1135 614,1134"/>
+                <TextEquiv>
+                    <Unicode>sccte; il cielo e la terra.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:18;}">
+                <Coords points="483,1107 494,1107 499,1113 514,1106 521,1111 529,1107 534,1113 544,1107 553,1111 564,1106 593,1115 614,1111 614,1083 605,1083 592,1074 581,1082 536,1070 521,1070 512,1078 501,1072 483,1076"/>
+                <Baseline points="493,1099 518,1101 543,1101 568,1101 593,1101 619,1099"/>
+                <TextEquiv>
+                    <Unicode>Oppure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667703558_1107" custom="readingOrder {index:19;}">
+                <Coords points="605,1155 895,1183 1041,1148 1102,1174 1584,1157 1584,1100 1509,1091 605,1091"/>
+                <Baseline points="614,1134 640,1134 713,1131 786,1129 859,1133 932,1133 1005,1132 1078,1131 1151,1130 1224,1129 1297,1130 1370,1129 1443,1131 1516,1133 1589,1139"/>
+                <TextEquiv>
+                    <Unicode>il patelico schizzo, un prospetto per la facciata di Sanborenzo, che ha signi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667743944_1125" custom="readingOrder {index:20;}">
+                <Coords points="92,1257 118,1252 131,1261 187,1231 224,1226 268,1235 342,1231 342,1192 314,1198 283,1183 227,1192 179,1174 157,1185 124,1165 94,1170"/>
+                <Baseline points="105,1215 158,1216 237,1215 317,1212 344,1211"/>
+                <TextEquiv>
+                    <Unicode>e ficato di mia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:21;}">
+                <Coords points="327,1187 431,1194 457,1183 556,1196 556,1167 538,1167 521,1154 488,1161 447,1155 422,1165 401,1148 327,1150"/>
+                <Baseline points="337,1185 365,1183 393,1183 421,1181 449,1181 477,1181 505,1182 533,1184 561,1187"/>
+                <TextEquiv>
+                    <Unicode>éttre aninazione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667743943_1124" custom="readingOrder {index:22;}">
+                <Coords points="335,1239 1581,1231 1581,1181 1409,1165 335,1191"/>
+                <Baseline points="344,1211 396,1210 475,1209 554,1210 634,1208 713,1209 792,1207 871,1207 951,1207 1030,1207 1109,1207 1188,1205 1268,1205 1347,1207 1426,1206 1505,1206 1585,1207"/>
+                <TextEquiv>
+                    <Unicode>setoone lirica, commossa, di forme da ricavare nella pietra e nel sasso. Sono poi gli studi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:23;}">
+                <Coords points="131,1313 1577,1303 1577,1248 1229,1235 131,1272"/>
+                <Baseline points="141,1297 213,1294 285,1289 357,1289 429,1288 501,1287 573,1286 645,1285 717,1283 789,1283 861,1281 933,1281 1005,1281 1077,1281 1149,1279 1221,1279 1293,1280 1365,1281 1437,1281 1509,1282 1581,1285"/>
+                <TextEquiv>
+                    <Unicode>per le fortificazioni alla Porta del Prato d'oguissanti: simili a mostruosi labirinti di eura, architetture</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="131,1379 1388,1374 1570,1412 1571,1331 131,1331"/>
+                <Baseline points="141,1363 212,1367 284,1363 356,1364 427,1361 499,1361 571,1361 642,1361 714,1359 786,1359 858,1359 929,1358 1001,1361 1073,1361 1144,1363 1216,1359 1288,1361 1359,1359 1431,1359 1503,1358 1575,1361"/>
+                <TextEquiv>
+                    <Unicode>nella loro medità geoutrica, di un fantastico alla Peromesi. Anche qui, nel foglio N. Sè di catalogo, si leggono,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="131,1457 1581,1464 1583,1411 1473,1381 133,1416"/>
+                <Baseline points="141,1441 213,1437 285,1436 357,1435 429,1437 502,1439 574,1438 646,1437 718,1435 790,1437 863,1433 935,1436 1007,1431 1079,1431 1151,1432 1224,1431 1296,1429 1368,1431 1440,1431 1512,1431 1585,1435"/>
+                <TextEquiv>
+                    <Unicode>nei caratteri di Michelangelo, quista ed echaggianti pardle di lui: “fosso; fosso che melle dentro d' bastioni; muro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="126,1542 1584,1536 1564,1468 128,1490"/>
+                <Baseline points="137,1515 209,1516 282,1513 355,1513 427,1513 500,1513 573,1513 645,1515 718,1512 791,1511 864,1511 936,1511 1009,1507 1082,1508 1154,1509 1227,1507 1300,1507 1372,1507 1445,1508 1518,1509 1591,1515"/>
+                <TextEquiv>
+                    <Unicode>della terra; ecc. Fosso dove oggi è Mugnione; Megnione fuor del lecto suo: cerso; Port’al Prato; portic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:27;}">
+                <Coords points="141,1625 1581,1614 1581,1553 1285,1538 1233,1570 1056,1536 141,1568"/>
+                <Baseline points="151,1595 222,1592 294,1591 366,1593 437,1593 509,1590 581,1592 652,1589 724,1588 796,1587 868,1587 939,1585 1011,1585 1083,1583 1154,1581 1226,1583 1298,1583 1369,1583 1441,1585 1513,1587 1585,1585"/>
+                <TextEquiv>
+                    <Unicode>ciola; argine. Quella posticciola dentro l'argine, pare di toccarla. Ancora, nelle soste dell'architetto, appunti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:28;}">
+                <Coords points="137,1693 1568,1697 1568,1638 1403,1621 137,1644"/>
+                <Baseline points="147,1667 218,1669 289,1666 360,1667 431,1665 503,1665 574,1665 645,1665 716,1664 787,1665 859,1664 930,1662 1001,1663 1072,1662 1143,1661 1215,1661 1286,1660 1357,1659 1428,1661 1499,1661 1571,1663"/>
+                <TextEquiv>
+                    <Unicode>e studi figure: teste, un braccio umano, una gamba staccata, un torso femminile; e gambe ancora; ea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:29;}">
+                <Coords points="126,1767 1520,1767 1577,1714 740,1725 588,1686 126,1723"/>
+                <Baseline points="135,1747 207,1743 279,1741 351,1739 423,1738 495,1737 567,1738 639,1737 711,1737 783,1737 856,1737 928,1739 1000,1737 1072,1739 1144,1738 1216,1735 1288,1735 1360,1733 1432,1737 1504,1737 1577,1739"/>
+                <TextEquiv>
+                    <Unicode>crovifisso. Una Madonna col bambino, reso con matita nera, sanguigna e gessetto. Il bambino, ferso in una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:30;}">
+                <Coords points="133,1851 1592,1838 1592,1756 1148,1799 952,1767 283,1803 133,1767"/>
+                <Baseline points="143,1823 215,1823 288,1820 360,1819 433,1817 506,1815 578,1817 651,1815 723,1813 796,1812 869,1813 941,1813 1014,1813 1086,1815 1159,1813 1232,1815 1304,1813 1377,1812 1449,1809 1522,1811 1595,1813"/>
+                <TextEquiv>
+                    <Unicode>materia come il marmo, rilevato da uno sfumato", come fa la luce nel marmo; appeso al petto della madre. La ma-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:31;}">
+                <Coords points="137,1917 1322,1904 1435,1950 1527,1917 1516,1854 137,1865"/>
+                <Baseline points="147,1897 216,1895 285,1895 354,1895 423,1895 493,1896 562,1895 631,1897 700,1894 769,1890 839,1889 908,1888 977,1888 1046,1889 1115,1889 1185,1888 1254,1889 1323,1891 1392,1891 1461,1894 1531,1893"/>
+                <TextEquiv>
+                    <Unicode>dre in atto di sospensione trasognata, flice. Giustamente osserva la Berocchi come questo troviprs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:32;}">
+                <Coords points="1425,1858 1438,1854 1459,1862 1468,1852 1490,1858 1509,1854 1533,1871 1562,1864 1590,1867 1588,1838 1560,1841 1533,1828 1424,1828"/>
+                <Baseline points="1433,1847 1460,1847 1487,1847 1514,1850 1541,1853 1568,1856 1595,1857"/>
+                <TextEquiv>
+                    <Unicode>il duo rapare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667828584_1145" custom="readingOrder {index:33;}">
+                <Coords points="142,1952 168,1956 181,1949 189,1952 200,1949 209,1956 220,1956 220,1899 205,1897 190,1910 183,1910 165,1919 157,1913 142,1912"/>
+                <Baseline points="152,1947 225,1947"/>
+                <TextEquiv>
+                    <Unicode>conla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667849512_1159" custom="readingOrder {index:34;}">
+                <Coords points="135,1987 237,2015 281,1989 782,1982 893,2010 893,1939 789,1952 727,1919 682,1943 592,1915 342,1956 255,1928 135,1954"/>
+                <Baseline points="145,1969 207,1971 270,1970 333,1969 395,1969 458,1971 521,1969 583,1969 646,1969 709,1969 772,1967 834,1967 897,1966 898,1965"/>
+                <TextEquiv>
+                    <Unicode>nella Madomna della Sagrestia Vuova. Un capolavoro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:35;}">
+                <Coords points="756,1945 830,1928 836,1934 852,1930 873,1943 893,1928 904,1939 915,1934 939,1943 939,1906 924,1910 910,1904 900,1910 860,1899 849,1908 830,1904 819,1910 797,1893 756,1912"/>
+                <Baseline points="767,1931 792,1928 817,1924 842,1924 867,1925 892,1925 917,1925 943,1931"/>
+                <TextEquiv>
+                    <Unicode>fra i disegni,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719667849511_1158" custom="readingOrder {index:36;}">
+                <Coords points="887,2006 982,1989 1039,2019 1152,1987 1394,1986 1394,1936 1313,1917 1274,1936 1205,1923 1074,1943 991,1913 939,1949 887,1930"/>
+                <Baseline points="898,1965 960,1964 1022,1964 1085,1963 1148,1963 1210,1963 1273,1963 1336,1961 1399,1967"/>
+                <TextEquiv>
+                    <Unicode>da mettre con i più alti di Leonardo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:37;}">
+                <Coords points="1045,2169 1106,2169 1131,2182 1154,2169 1204,2163 1237,2178 1241,2106 1229,2102 1213,2115 1183,2121 1163,2113 1137,2122 1113,2117 1087,2096 1048,2111"/>
+                <Baseline points="1055,2155 1081,2153 1108,2153 1134,2152 1161,2151 1187,2150 1214,2147 1241,2145"/>
+                <TextEquiv>
+                    <Unicode>16.1.962</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

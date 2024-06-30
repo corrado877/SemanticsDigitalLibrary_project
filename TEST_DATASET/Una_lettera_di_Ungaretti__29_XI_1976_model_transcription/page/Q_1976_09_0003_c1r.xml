@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=30_06_2024_10:16</Creator>
+        <Created>2024-06-27T11:37:59.270+02:00</Created>
+        <LastChange>2024-06-30T10:16:49.933+02:00</LastChange>
+        <TranskribusMetadata docId="3017223" pageId="74109609" pageNr="2" tsid="175572869" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=WPTGTQFHBTALBSYYFUMZFIEO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZIGKOSREZRXRNMLDNNRSNROX" imageId="59955188"/>
+    </Metadata>
+    <Page imageFilename="Q_1976_09_0003_c1r.jpg" imageWidth="1798" imageHeight="2414">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719747357224" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="430,507 1023,507 1023,573 430,573"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="435,559 667,542 820,568 875,538 994,563 993,510 936,492 755,504 708,482 682,506 539,491 487,509 434,477"/>
+                <Baseline points="440,537 474,535 541,537 576,537 662,537 764,535 817,537 866,534 921,537 972,541 993,541 996,541"/>
+                <TextEquiv>
+                    <Unicode>Tnce lettece di Giusappe Avincali</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

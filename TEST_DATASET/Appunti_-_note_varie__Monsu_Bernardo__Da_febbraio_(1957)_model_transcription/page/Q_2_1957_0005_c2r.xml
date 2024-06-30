@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=118033:lm=none:date=29_06_2024_13:33</Creator>
+        <Created>2024-04-09T18:31:36.004+02:00</Created>
+        <LastChange>2024-06-29T13:33:50.468+02:00</LastChange>
+        <TranskribusMetadata docId="3059563" pageId="74284470" pageNr="4" tsid="175460310" status="IN_PROGRESS" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=VSHZABYFRBWZSUPYYYNLDWUQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OZITZHCRHESDVIPJOOPYNUBO" imageId="54315831"/>
+    </Metadata>
+    <Page imageFilename="Q_2_1957_0005_c2r.jpg" imageWidth="1798" imageHeight="2520" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746881966" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="162,523 162,883 1592,883 1592,523"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="152,576 1560,587 1560,521 1427,510 152,517"/>
+                <Baseline points="162,562 232,562 302,560 372,560 442,563 512,561 582,562 652,559 722,559 792,558 863,559 933,560 1003,562 1073,561 1143,561 1213,562 1283,560 1353,560 1423,560 1493,559 1564,564"/>
+                <TextEquiv>
+                    <Unicode>tra il 15884, il '93, il '607, e finiscono tra il '698 e il '877: proprio lavoravano negli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="152,656 1590,656 1562,597 1363,580 152,606"/>
+                <Baseline points="162,638 233,638 305,638 376,637 448,638 519,636 591,637 662,636 734,636 805,636 877,636 948,636 1020,638 1091,636 1163,636 1234,638 1306,634 1377,636 1449,634 1520,633 1592,636"/>
+                <TextEquiv>
+                    <Unicode>anni in cui Me. Bernardo può essere stato in Francia. Nei quali auni inoltre, anche il lore-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="154,735 1576,737 1576,676 1343,660 630,698 154,665"/>
+                <Baseline points="164,722 234,718 305,718 376,718 447,714 518,715 588,712 659,714 730,711 801,712 872,710 942,710 1013,710 1084,710 1155,710 1226,710 1296,710 1367,712 1438,712 1509,712 1580,720"/>
+                <TextEquiv>
+                    <Unicode>nese (15993-1652), dopo il viaggio probabile in Italia, a Roma, era in piena attività,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="152,823 1578,825 1578,737 152,741"/>
+                <Baseline points="162,792 233,793 304,791 375,790 446,786 517,786 588,786 659,787 730,788 801,790 872,786 943,786 1014,786 1085,786 1156,784 1227,786 1298,786 1369,788 1440,787 1511,786 1582,792"/>
+                <TextEquiv>
+                    <Unicode>che già aveva dato il Contadino e la Conta dina (visti alla Mostra di Roma), a huiattibuita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="156,916 186,903 211,919 243,894 292,912 327,902 345,910 379,891 442,894 442,839 404,828 340,830 241,810 220,830 188,819 156,830"/>
+                <Baseline points="166,864 191,865 216,866 242,866 267,864 293,864 318,864 344,866 369,866 395,864 420,864 446,862"/>
+                <TextEquiv>
+                    <Unicode>da V.Block, ecc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

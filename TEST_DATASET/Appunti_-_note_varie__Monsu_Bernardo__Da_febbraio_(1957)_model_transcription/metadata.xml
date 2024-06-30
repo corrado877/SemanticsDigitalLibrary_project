@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>3059563</docId>
+    <title>Appunti - note varie. Monsu Bernardo. Da febbraio (1957)_duplicated</title>
+    <author>Giuseppe Raimondi</author>
+    <uploadTimestamp>1719660602066</uploadTimestamp>
+    <scriptType>HANDWRITTEN</scriptType>
+    <uploader>corrado.consiglio23@yahoo.it</uploader>
+    <uploaderId>222264</uploaderId>
+    <nrOfPages>9</nrOfPages>
+    <pageId>74284450</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=SFUEFYOAHFGNFNJOWPEWDHOF</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=SFUEFYOAHFGNFNJOWPEWDHOF</thumbUrl>
+    <externalId>https://dl.ficlit.unibo.it/iiif/19327/manifest</externalId>
+    <authority>https://viaf.org/viaf/7457679/</authority>
+    <desc>Quaderno Manoscritto di G.Raimondi facente parte della prima sottoserie di Quaderni Manoscritti suddivisi per anno. Il quaderno è stato scelto come test dataset per il modello. (copia trascritta dal modello)</desc>
+    <language>French, Italian</language>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_3059563</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>299374</colId>
+            <colName>Quaderni Raimondi 1954-1961</colName>
+            <description>Collezione di Quaderni scritti da Giuseppe Raimondi tra il 1954  e il 1961</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+    <mainColId>299374</mainColId>
+</trpDocMetadata>

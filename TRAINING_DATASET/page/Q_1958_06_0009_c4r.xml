@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:22:27.966+01:00</Created>
+        <LastChange>2024-06-20T10:59:14.698+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325437" pageNr="15" tsid="175603476" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=TNZSSOTCWSGZZIYVBKOJFTNB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NEJCHCOFNQRSQRMUMTATYRDK" imageId="53899342"/>
+    </Metadata>
+    <Page imageFilename="Q_1958_06_0009_c4r.jpg" imageWidth="1798" imageHeight="2539" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746060025" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1715795442227_97"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="115,246 111,2215 1569,2215 1573,246"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:22;rend:center;}">
+                <Coords points="545,296 570,294 595,293 620,290 645,290 670,290 695,290 720,289 745,288 770,288 795,288 820,285 845,285 870,287 895,289 920,290 945,292 945,253 920,251 895,250 870,248 845,246 820,246 795,249 770,249 745,249 720,250 695,251 670,251 645,251 620,251 595,254 570,255 545,257"/>
+                <Baseline points="545,283 570,281 595,280 620,277 645,277 670,277 695,277 720,276 745,275 770,275 795,275 820,272 845,272 870,274 895,276 920,277 945,279"/>
+                <TextEquiv>
+                    <Unicode>La valigia delle Indie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;} hi {offset:0; length:36;rend:underline; type:double;} del {offset:0; length:36;rend:overstrike;} person {offset:0; length:11;firstname:Isidore\u0020Lucien\u0020; dateOfDeath:24\u0020November\u00201870; dateOfBirth:4\u0020April\u00201846; lastname:Ducasse;}">
+                <Coords points="199,366 238,365 278,364 318,364 358,364 398,364 438,362 478,362 518,364 558,362 598,361 637,358 677,355 717,352 757,350 797,348 837,345 877,344 917,343 957,343 997,344 997,305 957,304 917,304 877,305 837,306 797,309 757,311 717,313 677,316 637,319 598,322 558,323 518,325 478,323 438,323 398,325 358,325 318,325 278,325 238,326 199,327"/>
+                <Baseline points="199,353 238,352 278,351 318,351 358,351 398,351 438,349 478,349 518,351 558,349 598,348 637,345 677,342 717,339 757,337 797,335 837,332 877,331 917,330 957,330 997,331"/>
+                <TextEquiv>
+                    <Unicode>Lautréamont, ovvero l'Hermaphrodite.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="1035,315 1060,313 1086,314 1112,314 1138,314 1164,315 1189,315 1215,315 1241,315 1267,315 1293,315 1318,315 1344,316 1370,317 1396,317 1422,319 1447,318 1473,317 1499,317 1525,318 1551,321 1551,279 1525,276 1499,275 1473,275 1447,276 1422,277 1396,275 1370,275 1344,274 1318,273 1293,273 1267,273 1241,273 1215,273 1189,273 1164,273 1138,272 1112,272 1086,272 1060,271 1035,273"/>
+                <Baseline points="1035,301 1060,299 1086,300 1112,300 1138,300 1164,301 1189,301 1215,301 1241,301 1267,301 1293,301 1318,301 1344,302 1370,303 1396,303 1422,305 1447,304 1473,303 1499,303 1525,304 1551,307"/>
+                <TextEquiv>
+                    <Unicode>Invenzione dell'ermafrodito</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;} person {offset:1; length:11;firstname:Isidore\u0020Lucien; dateOfDeath:24\u0020November\u00201870; dateOfBirth:4\u0020April\u00201846; lastname:Ducasse;}">
+                <Coords points="1051,385 1077,383 1104,383 1131,383 1158,384 1185,385 1212,386 1238,387 1265,387 1292,387 1319,389 1346,391 1373,385 1373,343 1346,349 1319,347 1292,345 1265,345 1238,345 1212,344 1185,343 1158,342 1131,341 1104,341 1077,341 1051,343"/>
+                <Baseline points="1051,371 1077,369 1104,369 1131,369 1158,370 1185,371 1212,372 1238,373 1265,373 1292,373 1319,375 1346,377 1373,371"/>
+                <TextEquiv>
+                    <Unicode>(Lautréamont)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La valigia delle Indie&#13;
+Lautréamont, ovvero l'Hermaphrodite.&#13;
+Invenzione dell'ermafrodito&#13;
+(Lautréamont)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1715795442227_97" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="116,419 1568,421 1568,2072 116,2070"/>
+            <TextLine id="line_1715957095783_261" custom="readingOrder {index:0;} del {offset:0; length:13;rend:overstrike;}">
+                <Coords points="175,497 244,500 313,500 382,501 451,499 459,499 459,541 451,541 382,543 313,542 244,542 175,539"/>
+                <Baseline points="175,525 244,528 313,528 382,529 451,527 459,527"/>
+                <TextEquiv>
+                    <Unicode>Come sentimmo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:1;} add {offset:0; length:15;place:above;}">
+                <Coords points="177,477 203,477 229,477 256,477 282,477 308,478 335,479 361,479 387,479 414,479 440,481 466,481 493,481 493,439 466,439 440,439 414,437 387,437 361,437 335,437 308,436 282,435 256,435 229,435 203,435 177,435"/>
+                <Baseline points="177,463 203,463 229,463 256,463 282,463 308,464 335,465 361,465 387,465 414,465 440,467 466,467 493,467"/>
+                <TextEquiv>
+                    <Unicode>Quando leggemmo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715957095782_260" custom="readingOrder {index:2;} person {offset:27; length:11;firstname:Isidore\u0020Lucien; dateOfDeath:24\u0020November\u00201870; dateOfBirth:4\u0020April\u00201846; lastname:Ducasse;}">
+                <Coords points="459,499 520,501 589,499 658,497 727,495 866,495 935,497 1418,497 1487,499 1557,501 1557,543 1487,541 1418,539 935,539 866,537 727,537 658,539 589,541 520,543 459,541"/>
+                <Baseline points="459,527 520,529 589,527 658,525 727,523 796,523 866,523 935,525 1004,525 1073,525 1142,525 1211,525 1280,525 1349,525 1418,525 1487,527 1557,529"/>
+                <TextEquiv>
+                    <Unicode>la prima volta, il nome di Lautréamont? chi ci parlò, al tempo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="143,617 213,615 283,613 353,611 423,613 493,611 563,609 633,608 703,609 773,609 844,609 914,609 984,610 1054,611 1124,611 1194,610 1264,611 1334,613 1404,611 1474,611 1545,611 1545,581 1474,581 1404,581 1334,583 1264,581 1194,580 1124,581 1054,581 984,580 914,579 844,579 773,579 703,579 633,578 563,579 493,581 423,583 353,581 283,583 213,585 143,587"/>
+                <Baseline points="143,607 213,605 283,603 353,601 423,603 493,601 563,599 633,598 703,599 773,599 844,599 914,599 984,600 1054,601 1124,601 1194,600 1264,601 1334,603 1404,601 1474,601 1545,601"/>
+                <TextEquiv>
+                    <Unicode>della infanzia letteraria, dei Canti di Maldoror? Dico: infanzia, perchè la giovinezza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715957123803_272" custom="readingOrder {index:4;}">
+                <Coords points="143,661 213,658 262,658 262,688 213,688 143,691"/>
+                <Baseline points="143,681 213,678 262,678"/>
+                <TextEquiv>
+                    <Unicode>dovette</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;} add {offset:0; length:7;place:above;}">
+                <Coords points="205,655 231,653 257,650 283,649 309,649 335,651 335,621 309,619 283,619 257,620 231,623 205,625"/>
+                <Baseline points="205,645 231,643 257,640 283,639 309,639 335,641"/>
+                <TextEquiv>
+                    <Unicode>per noi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715957123802_271" custom="readingOrder {index:6;}">
+                <Coords points="262,658 284,659 568,659 639,657 710,659 852,659 922,657 993,660 1064,660 1135,659 1206,659 1277,657 1348,657 1419,656 1490,655 1561,663 1561,693 1490,685 1419,686 1348,687 1277,687 1206,689 1135,689 1064,690 993,690 922,687 852,689 710,689 639,687 568,689 284,689 262,688"/>
+                <Baseline points="262,678 284,679 355,679 426,679 497,679 568,679 639,677 710,679 781,679 852,679 922,677 993,680 1064,680 1135,679 1206,679 1277,677 1348,677 1419,676 1490,675 1561,683"/>
+                <TextEquiv>
+                    <Unicode> incominicare assai per tempo. C'erano molte cose da fare. Sta di fatto che, nell'a-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715957156145_287" custom="readingOrder {index:7;}">
+                <Coords points="153,739 223,741 293,737 363,735 433,736 504,735 574,737 644,735 714,735 747,736 747,766 714,765 644,765 574,767 504,765 433,766 363,765 293,767 223,771 153,769"/>
+                <Baseline points="153,759 223,761 293,757 363,755 433,756 504,755 574,757 644,755 714,755 747,756"/>
+                <TextEquiv>
+                    <Unicode>gosto del 1913, era stato pubblicato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;} add {offset:0; length:12;place:above;} organization {offset:4; length:7;}">
+                <Coords points="589,723 615,723 641,723 667,723 693,724 719,725 745,725 771,727 771,697 745,695 719,695 693,694 667,693 641,693 615,693 589,693"/>
+                <Baseline points="589,713 615,713 641,713 667,713 693,714 719,715 745,715 771,717"/>
+                <TextEquiv>
+                    <Unicode>in "Lacerba"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715957156145_286" custom="readingOrder {index:9;}">
+                <Coords points="747,736 784,738 855,735 925,737 1065,737 1135,735 1206,733 1276,733 1346,731 1416,733 1486,732 1557,735 1557,765 1486,762 1416,763 1346,761 1276,763 1206,763 1135,765 1065,767 925,767 855,765 784,768 747,766"/>
+                <Baseline points="747,756 784,758 855,755 925,757 995,757 1065,757 1135,755 1206,753 1276,753 1346,751 1416,753 1486,752 1557,755"/>
+                <TextEquiv>
+                    <Unicode>un brano di quei Canti, col titolo di: "L'herma-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="147,849 217,843 287,843 357,843 427,843 498,843 568,843 638,841 708,839 778,839 849,840 919,841 989,840 1059,840 1129,839 1200,838 1270,837 1340,837 1410,837 1480,838 1551,839 1551,809 1480,808 1410,807 1340,807 1270,807 1200,808 1129,809 1059,810 989,810 919,811 849,810 778,809 708,809 638,811 568,813 498,813 427,813 357,813 287,813 217,813 147,819"/>
+                <Baseline points="147,839 217,833 287,833 357,833 427,833 498,833 568,833 638,831 708,829 778,829 849,830 919,831 989,830 1059,830 1129,829 1200,828 1270,827 1340,827 1410,827 1480,828 1551,829"/>
+                <TextEquiv>
+                    <Unicode>phrodite" che in quel foglio di dichiarato immoralismo papiniano, suonava ancora come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715957182850_300" custom="readingOrder {index:11;} del {offset:10; length:5;rend:overstrike;} gap {offset:10; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="145,891 283,891 352,888 400,888 400,918 352,918 283,921 145,921"/>
+                <Baseline points="145,911 214,911 283,911 352,908 400,908"/>
+                <TextEquiv>
+                    <Unicode>un eco in      </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;} add {offset:0; length:5;place:above;}">
+                <Coords points="301,883 330,883 359,883 389,881 389,851 359,853 330,853 301,853"/>
+                <Baseline points="301,873 330,873 359,873 389,871"/>
+                <TextEquiv>
+                    <Unicode>certa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715957182850_299" custom="readingOrder {index:13;}">
+                <Coords points="400,888 422,889 630,889 699,888 768,890 838,889 907,887 976,886 1045,885 1115,883 1253,883 1323,885 1392,883 1461,883 1531,879 1531,909 1461,913 1392,913 1323,915 1253,913 1115,913 1045,915 976,916 907,917 838,919 768,920 699,918 630,919 422,919 400,918"/>
+                <Baseline points="400,908 422,909 491,909 560,909 630,909 699,908 768,910 838,909 907,907 976,906 1045,905 1115,903 1184,903 1253,903 1323,905 1392,903 1461,903 1531,899"/>
+                <TextEquiv>
+                    <Unicode> di arcadia settecentesca inglese. Oppure scambiammo l'autore, con quel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;} person {offset:51; length:8;firstname:Jacques; dateOfDeath:25\u0020September\u00201792; dateOfBirth:17\u0020October\u00201719; lastname:Cazotte;} person {offset:63; length:7;firstname:Nicolas-Edme; dateOfDeath:3\u0020February\u00201806; dateOfBirth:23\u0020October\u00201734; lastname:Restif;}">
+                <Coords points="139,1001 210,997 281,996 352,995 423,995 495,997 566,995 637,999 708,999 779,999 851,997 922,997 993,999 1064,997 1135,996 1207,995 1278,996 1349,993 1420,995 1491,995 1563,997 1563,955 1491,953 1420,953 1349,951 1278,954 1207,953 1135,954 1064,955 993,957 922,955 851,955 779,957 708,957 637,957 566,953 495,955 423,953 352,953 281,954 210,955 139,959"/>
+                <Baseline points="139,987 210,983 281,982 352,981 423,981 495,983 566,981 637,985 708,985 779,985 851,983 922,983 993,985 1064,983 1135,982 1207,981 1278,982 1349,979 1420,981 1491,981 1563,983"/>
+                <TextEquiv>
+                    <Unicode>titolo nobiliare di Conte, per un contemporaneo di Cazotte, di Restif. In quanto all'argo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;} person {offset:53; length:11;firstname:Oscar; dateOfDeath:30\u0020November\u00201900; dateOfBirth:16\u0020October\u00201854; lastname:Wilde;}">
+                <Coords points="139,1073 208,1073 278,1075 348,1075 418,1073 488,1073 557,1072 627,1073 697,1071 767,1071 837,1069 906,1069 976,1068 1046,1069 1116,1065 1186,1067 1255,1067 1325,1069 1395,1072 1465,1070 1535,1069 1535,1027 1465,1028 1395,1030 1325,1027 1255,1025 1186,1025 1116,1023 1046,1027 976,1026 906,1027 837,1027 767,1029 697,1029 627,1031 557,1030 488,1031 418,1031 348,1033 278,1033 208,1031 139,1031"/>
+                <Baseline points="139,1059 208,1059 278,1061 348,1061 418,1059 488,1059 557,1058 627,1059 697,1057 767,1057 837,1055 906,1055 976,1054 1046,1055 1116,1051 1186,1053 1255,1053 1325,1055 1395,1058 1465,1056 1535,1055"/>
+                <TextEquiv>
+                    <Unicode>mento, mitico - sensuale in quegli anni andava molto Oscar Wilde. Un anno dopo ero a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;} place {offset:0; length:8;country:Italy;} person {offset:56; length:16;firstname:Giacomo; dateOfDeath:14\u0020June\u00201837; dateOfBirth:\u002029\u0020June\u00201798; lastname:Leopardi;}">
+                <Coords points="155,1153 224,1152 293,1153 362,1151 431,1151 500,1149 569,1149 638,1149 707,1150 776,1148 845,1149 914,1147 983,1148 1052,1147 1121,1145 1190,1145 1259,1145 1328,1147 1397,1148 1466,1150 1535,1153 1535,1111 1466,1108 1397,1106 1328,1105 1259,1103 1190,1103 1121,1103 1052,1105 983,1106 914,1105 845,1107 776,1106 707,1108 638,1107 569,1107 500,1107 431,1109 362,1109 293,1111 224,1110 155,1111"/>
+                <Baseline points="155,1139 224,1138 293,1139 362,1137 431,1137 500,1135 569,1135 638,1135 707,1136 776,1134 845,1135 914,1133 983,1134 1052,1133 1121,1131 1190,1131 1259,1131 1328,1133 1397,1134 1466,1136 1535,1139"/>
+                <TextEquiv>
+                    <Unicode>Ferrara. Ero in casa di un mio amico poeta: "poeta come Giacomo Leopardi", egli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="155,1225 225,1226 296,1227 366,1223 437,1224 508,1225 578,1225 649,1224 719,1223 790,1223 861,1223 931,1223 1002,1223 1072,1223 1143,1225 1214,1223 1284,1223 1355,1223 1425,1223 1496,1223 1567,1229 1567,1187 1496,1181 1425,1181 1355,1181 1284,1181 1214,1181 1143,1183 1072,1181 1002,1181 931,1181 861,1181 790,1181 719,1181 649,1182 578,1183 508,1183 437,1182 366,1181 296,1185 225,1184 155,1183"/>
+                <Baseline points="155,1211 225,1212 296,1213 366,1209 437,1210 508,1211 578,1211 649,1210 719,1209 790,1209 861,1209 931,1209 1002,1209 1072,1209 1143,1211 1214,1209 1284,1209 1355,1209 1425,1209 1496,1209 1567,1215"/>
+                <TextEquiv>
+                    <Unicode>usava di dire, tanto per qualificarsi con la vecchia portinaia, col pasticcere, dove compe-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="145,1303 213,1305 282,1304 351,1303 420,1303 489,1302 558,1299 627,1301 696,1300 765,1301 834,1299 902,1301 971,1299 1040,1299 1109,1299 1178,1297 1247,1297 1316,1295 1385,1295 1454,1293 1523,1295 1523,1253 1454,1251 1385,1253 1316,1253 1247,1255 1178,1255 1109,1257 1040,1257 971,1257 902,1259 834,1257 765,1259 696,1258 627,1259 558,1257 489,1260 420,1261 351,1261 282,1262 213,1263 145,1261"/>
+                <Baseline points="145,1289 213,1291 282,1290 351,1289 420,1289 489,1288 558,1285 627,1287 696,1286 765,1287 834,1285 902,1287 971,1285 1040,1285 1109,1285 1178,1283 1247,1283 1316,1281 1385,1281 1454,1279 1523,1281"/>
+                <TextEquiv>
+                    <Unicode>rava il tè del pomeriggio, coi contadini di suo padre che, ogni sabato passando dalle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;} del {offset:0; length:6;rend:overstrike;} gap {offset:0; length:0;quantity:6; unit:character; reason:illegible;}">
+                <Coords points="145,1379 214,1377 283,1378 352,1378 422,1377 491,1373 560,1376 630,1373 699,1376 768,1375 838,1375 907,1377 976,1378 1045,1379 1115,1377 1184,1375 1253,1376 1323,1371 1392,1371 1461,1372 1531,1371 1531,1329 1461,1330 1392,1329 1323,1329 1253,1334 1184,1333 1115,1335 1045,1337 976,1336 907,1335 838,1333 768,1333 699,1334 630,1331 560,1334 491,1331 422,1335 352,1336 283,1336 214,1335 145,1337"/>
+                <Baseline points="145,1365 214,1363 283,1364 352,1364 422,1363 491,1359 560,1362 630,1359 699,1362 768,1361 838,1361 907,1363 976,1364 1045,1365 1115,1363 1184,1361 1253,1362 1323,1357 1392,1357 1461,1358 1531,1357"/>
+                <TextEquiv>
+                    <Unicode>      campagne sperdute in valle si presentavano in "palazzo", per l'udienza del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715957300805_345" custom="readingOrder {index:20;}">
+                <Coords points="151,1413 220,1409 290,1409 360,1407 569,1407 638,1405 708,1405 778,1408 848,1409 917,1409 919,1408 919,1450 917,1451 848,1451 778,1450 708,1447 638,1447 569,1449 360,1449 290,1451 220,1451 151,1455"/>
+                <Baseline points="151,1441 220,1437 290,1437 360,1435 429,1435 499,1435 569,1435 638,1433 708,1433 778,1436 848,1437 917,1437 919,1436"/>
+                <TextEquiv>
+                    <Unicode>padrone. Nella stanza dell'amico, sul tavolino di </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715957239054_321" custom="readingOrder {index:21;} add {offset:0; length:2;place:above;}">
+                <Coords points="907,1382 959,1378 957,1406 904,1406"/>
+                <Baseline points="904,1401 957,1401"/>
+                <TextEquiv>
+                    <Unicode>un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715957300804_344" custom="readingOrder {index:22;}">
+                <Coords points="919,1408 987,1407 1057,1407 1126,1405 1196,1406 1266,1405 1335,1405 1405,1404 1475,1406 1545,1409 1545,1451 1475,1448 1405,1446 1335,1447 1266,1447 1196,1448 1126,1447 1057,1449 987,1449 919,1450"/>
+                <Baseline points="919,1436 987,1435 1057,1435 1126,1433 1196,1434 1266,1433 1335,1433 1405,1432 1475,1434 1545,1437"/>
+                <TextEquiv>
+                    <Unicode>bureau ingombro di carte e di libri, vidi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:23;} organization {offset:26; length:7;}">
+                <Coords points="147,1533 218,1528 289,1528 360,1523 432,1522 503,1521 574,1521 646,1523 717,1525 788,1521 860,1521 931,1523 1002,1521 1073,1521 1145,1521 1216,1520 1287,1519 1359,1520 1430,1521 1501,1525 1573,1533 1573,1503 1501,1495 1430,1491 1359,1490 1287,1489 1216,1490 1145,1491 1073,1491 1002,1491 931,1493 860,1491 788,1491 717,1495 646,1493 574,1491 503,1491 432,1492 360,1493 289,1498 218,1498 147,1503"/>
+                <Baseline points="147,1523 218,1518 289,1518 360,1513 432,1512 503,1511 574,1511 646,1513 717,1515 788,1511 860,1511 931,1513 1002,1511 1073,1511 1145,1511 1216,1510 1287,1509 1359,1510 1430,1511 1501,1515 1573,1523"/>
+                <TextEquiv>
+                    <Unicode>sporgere un fascicolo di "Lacerba": quello medesimo con la pagina sull'ermafrodito. L'a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715957323474_358" custom="readingOrder {index:24;} del {offset:16; length:7;rend:overstrike;} gap {offset:16; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="115,1579 187,1573 475,1573 547,1574 618,1572 618,1602 547,1604 475,1603 187,1603 115,1609"/>
+                <Baseline points="115,1599 187,1593 259,1593 331,1593 403,1593 475,1593 547,1594 618,1592"/>
+                <TextEquiv>
+                    <Unicode>mico mi informò        </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:25;}">
+                <Coords points="427,1563 454,1563 481,1562 508,1561 535,1562 562,1563 589,1563 617,1561 617,1531 589,1533 562,1533 535,1532 508,1531 481,1532 454,1533 427,1533"/>
+                <Baseline points="427,1553 454,1553 481,1552 508,1551 535,1552 562,1553 589,1553 617,1551"/>
+                <TextEquiv>
+                    <Unicode>non senza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715957323473_357" custom="readingOrder {index:26;}">
+                <Coords points="618,1572 619,1572 691,1569 763,1567 836,1565 1052,1565 1124,1566 1196,1565 1268,1563 1340,1565 1412,1563 1484,1565 1557,1565 1557,1595 1484,1595 1412,1593 1340,1595 1268,1593 1196,1595 1124,1596 1052,1595 836,1595 763,1597 691,1599 619,1602 618,1602"/>
+                <Baseline points="618,1592 619,1592 691,1589 763,1587 836,1585 908,1585 980,1585 1052,1585 1124,1586 1196,1585 1268,1583 1340,1585 1412,1583 1484,1585 1557,1585"/>
+                <TextEquiv>
+                    <Unicode> poetica e crepuscolare confusione, che si trattava di un poeta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:27;} person {offset:47; length:8;firstname:Paul-Marie; dateOfDeath:8\u0020January\u00201896; dateOfBirth:30\u0020March\u00201844; lastname:Verlaine;} person {offset:61; length:7;firstname:Arthur; dateOfDeath:10\u0020November\u00201891; dateOfBirth:\u002020\u0020October\u00201854\u0020; lastname:Rimbaud;}">
+                <Coords points="161,1681 230,1685 300,1683 370,1684 440,1683 510,1683 579,1679 649,1679 719,1677 789,1677 859,1676 928,1677 998,1676 1068,1676 1138,1675 1208,1675 1277,1675 1347,1677 1417,1675 1487,1677 1557,1677 1557,1635 1487,1635 1417,1633 1347,1635 1277,1633 1208,1633 1138,1633 1068,1634 998,1634 928,1635 859,1634 789,1635 719,1635 649,1637 579,1637 510,1641 440,1641 370,1642 300,1641 230,1643 161,1639"/>
+                <Baseline points="161,1667 230,1671 300,1669 370,1670 440,1669 510,1669 579,1665 649,1665 719,1663 789,1663 859,1662 928,1663 998,1662 1068,1662 1138,1661 1208,1661 1277,1661 1347,1663 1417,1661 1487,1663 1557,1663"/>
+                <TextEquiv>
+                    <Unicode>francese; ed aggiunsi: "naturalmente, amico di Verlaine e di Rimbaud". Il platonico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:28;}">
+                <Coords points="117,1753 188,1755 260,1755 332,1755 404,1755 476,1755 548,1753 620,1751 692,1755 764,1752 836,1753 907,1752 979,1752 1051,1753 1123,1754 1195,1753 1267,1755 1339,1753 1411,1753 1483,1751 1555,1747 1555,1705 1483,1709 1411,1711 1339,1711 1267,1713 1195,1711 1123,1712 1051,1711 979,1710 907,1710 836,1711 764,1710 692,1713 620,1709 548,1711 476,1713 404,1713 332,1713 260,1713 188,1713 117,1711"/>
+                <Baseline points="117,1739 188,1741 260,1741 332,1741 404,1741 476,1741 548,1739 620,1737 692,1741 764,1738 836,1739 907,1738 979,1738 1051,1739 1123,1740 1195,1739 1267,1741 1339,1739 1411,1739 1483,1737 1555,1733"/>
+                <TextEquiv>
+                    <Unicode>sodalizio dei due, era un grande argomento, per dei ragazzi intorno al 1916. Oggi non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:29;} person {offset:90; length:8;firstname:Paul-Marie; dateOfDeath:8\u0020January\u00201896; dateOfBirth:30\u0020March\u00201844; lastname:Verlaine;}">
+                <Coords points="157,1835 226,1832 296,1833 366,1831 436,1830 506,1831 576,1829 646,1829 716,1829 786,1829 856,1829 925,1829 995,1830 1065,1829 1135,1827 1205,1827 1275,1824 1345,1823 1415,1825 1485,1826 1555,1825 1555,1783 1485,1784 1415,1783 1345,1781 1275,1782 1205,1785 1135,1785 1065,1787 995,1788 925,1787 856,1787 786,1787 716,1787 646,1787 576,1787 506,1789 436,1788 366,1789 296,1791 226,1790 157,1793"/>
+                <Baseline points="157,1821 226,1818 296,1819 366,1817 436,1816 506,1817 576,1815 646,1815 716,1815 786,1815 856,1815 925,1815 995,1816 1065,1815 1135,1813 1205,1813 1275,1810 1345,1809 1415,1811 1485,1812 1555,1811"/>
+                <TextEquiv>
+                    <Unicode>farebbe impressione, soprattutto non inciderebbe come ideologia estetica. Nelle poesie di Verlaine,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:30;}">
+                <Coords points="145,1907 216,1905 287,1905 358,1903 429,1905 500,1903 571,1903 642,1901 713,1903 784,1901 855,1901 926,1901 997,1901 1068,1901 1139,1901 1210,1901 1281,1901 1352,1899 1423,1900 1494,1901 1565,1905 1565,1863 1494,1859 1423,1858 1352,1857 1281,1859 1210,1859 1139,1859 1068,1859 997,1859 926,1859 855,1859 784,1859 713,1861 642,1859 571,1861 500,1861 429,1863 358,1861 287,1863 216,1863 145,1865"/>
+                <Baseline points="145,1893 216,1891 287,1891 358,1889 429,1891 500,1889 571,1889 642,1887 713,1889 784,1887 855,1887 926,1887 997,1887 1068,1887 1139,1887 1210,1887 1281,1887 1352,1885 1423,1886 1494,1887 1565,1891"/>
+                <TextEquiv>
+                    <Unicode>sotto il banco di ginnasio, ne cercavamo le conferme. Naturale che, ogni ragazzo, ne ricavasse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:31;}">
+                <Coords points="147,1989 184,1987 222,1985 260,1985 298,1985 336,1984 373,1983 411,1981 449,1981 487,1981 525,1981 562,1979 600,1979 638,1979 676,1979 714,1981 751,1980 789,1981 827,1981 865,1981 903,1983 903,1941 865,1939 827,1939 789,1939 751,1938 714,1939 676,1937 638,1937 600,1937 562,1937 525,1939 487,1939 449,1939 411,1939 373,1941 336,1942 298,1943 260,1943 222,1943 184,1945 147,1947"/>
+                <Baseline points="147,1975 184,1973 222,1971 260,1971 298,1971 336,1970 373,1969 411,1967 449,1967 487,1967 525,1967 562,1965 600,1965 638,1965 676,1965 714,1967 751,1966 789,1967 827,1967 865,1967 903,1969"/>
+                <TextEquiv>
+                    <Unicode>le proprie conclusioni, nè due diversi ordini.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:32;} person {offset:35; length:11;firstname:Isidore\u0020Lucien; dateOfDeath:24\u0020November\u00201870; dateOfBirth:4\u0020April\u00201846; lastname:Ducasse;}">
+                <Coords points="155,2059 224,2060 294,2063 364,2060 434,2060 504,2057 574,2057 644,2057 714,2057 784,2058 854,2058 923,2057 993,2056 1063,2055 1133,2055 1203,2055 1273,2056 1343,2051 1413,2056 1483,2056 1553,2055 1553,2013 1483,2014 1413,2014 1343,2009 1273,2014 1203,2013 1133,2013 1063,2013 993,2014 923,2015 854,2016 784,2016 714,2015 644,2015 574,2015 504,2015 434,2018 364,2018 294,2021 224,2018 155,2017"/>
+                <Baseline points="155,2045 224,2046 294,2049 364,2046 434,2046 504,2043 574,2043 644,2043 714,2043 784,2044 854,2044 923,2043 993,2042 1063,2041 1133,2041 1203,2041 1273,2042 1343,2037 1413,2042 1483,2042 1553,2041"/>
+                <TextEquiv>
+                    <Unicode>A parte la favola: l'invenzione di Lautréamont, "amico di V. e di R.", il mio amico,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Come sentimmo&#13;
+Quando leggemmo&#13;
+la prima volta, il nome di Lautréamont? chi ci parlò, al tempo&#13;
+della infanzia letteraria, dei Canti di Maldoror? Dico: infanzia, perchè la giovinezza&#13;
+dovette&#13;
+per noi&#13;
+ incominicare assai per tempo. C'erano molte cose da fare. Sta di fatto che, nell'a-&#13;
+gosto del 1913, era stato pubblicato&#13;
+in "Lacerba"&#13;
+un brano di quei Canti, col titolo di: "L'herma-&#13;
+phrodite" che in quel foglio di dichiarato immoralismo papiniano, suonava ancora come&#13;
+un eco in      &#13;
+certa&#13;
+ di arcadia settecentesca inglese. Oppure scambiammo l'autore, con quel&#13;
+titolo nobiliare di Conte, per un contemporaneo di Cazotte, di Restif. In quanto all'argo-&#13;
+mento, mitico - sensuale in quegli anni andava molto Oscar Wilde. Un anno dopo ero a&#13;
+Ferrara. Ero in casa di un mio amico poeta: "poeta come Giacomo Leopardi", egli&#13;
+usava di dire, tanto per qualificarsi con la vecchia portinaia, col pasticcere, dove compe-&#13;
+rava il tè del pomeriggio, coi contadini di suo padre che, ogni sabato passando dalle&#13;
+      campagne sperdute in valle si presentavano in "palazzo", per l'udienza del&#13;
+padrone. Nella stanza dell'amico, sul tavolino di &#13;
+un&#13;
+bureau ingombro di carte e di libri, vidi&#13;
+sporgere un fascicolo di "Lacerba": quello medesimo con la pagina sull'ermafrodito. L'a&#13;
+mico mi informò        &#13;
+non senza&#13;
+ poetica e crepuscolare confusione, che si trattava di un poeta&#13;
+francese; ed aggiunsi: "naturalmente, amico di Verlaine e di Rimbaud". Il platonico&#13;
+sodalizio dei due, era un grande argomento, per dei ragazzi intorno al 1916. Oggi non&#13;
+farebbe impressione, soprattutto non inciderebbe come ideologia estetica. Nelle poesie di Verlaine,&#13;
+sotto il banco di ginnasio, ne cercavamo le conferme. Naturale che, ogni ragazzo, ne ricavasse&#13;
+le proprie conclusioni, nè due diversi ordini.&#13;
+A parte la favola: l'invenzione di Lautréamont, "amico di V. e di R.", il mio amico,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:22:30.277+01:00</Created>
+        <LastChange>2024-06-20T12:04:44.109+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326024" pageNr="68" tsid="175602717" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=BXVHOAXEYBTDXRVWOTYYOPRO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FIQTXTUHLNYKLGSIXUFFFBRT" imageId="53903859"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_08_0011_c5r.jpg" imageWidth="1798" imageHeight="2471" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746070455" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718186978226_2328"/>
+                <RegionRefIndexed index="1" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718186978226_2328" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="152,273 152,323 196,323 196,273"/>
+            <TextLine id="line_1718186978374_2331" custom="readingOrder {index:0;}">
+                <Coords points="152,273 196,273 196,323 152,323"/>
+                <Baseline points="152,318 196,318"/>
+                <TextEquiv>
+                    <Unicode>8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:1;}">
+            <Coords points="135,414 135,1988 1583,1988 1583,414"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="141,472 212,470 283,471 354,468 425,466 497,466 568,466 639,464 710,466 781,466 853,464 924,464 995,462 1066,462 1137,462 1209,460 1280,460 1351,460 1422,462 1493,462 1565,466 1565,420 1493,416 1422,416 1351,414 1280,414 1209,414 1137,416 1066,416 995,416 924,418 853,418 781,420 710,420 639,418 568,420 497,420 425,420 354,422 283,425 212,424 141,426"/>
+                <Baseline points="141,457 212,455 283,456 354,453 425,451 497,451 568,451 639,449 710,451 781,451 853,449 924,449 995,447 1066,447 1137,447 1209,445 1280,445 1351,445 1422,447 1493,447 1565,451"/>
+                <TextEquiv>
+                    <Unicode>bo non rifiuta del tutto i dubbi, condivide l'attesa senza disperazione del compagno. Allega le sue ra-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="145,548 216,544 287,541 358,541 429,540 500,537 571,536 642,536 713,534 784,534 856,537 927,534 998,536 1069,534 1140,534 1211,532 1282,532 1353,532 1424,530 1495,532 1567,538 1567,505 1495,499 1424,497 1353,499 1282,499 1211,499 1140,501 1069,501 998,503 927,501 856,504 784,501 713,501 642,503 571,503 500,504 429,507 358,508 287,508 216,511 145,515"/>
+                <Baseline points="145,537 216,533 287,530 358,530 429,529 500,526 571,525 642,525 713,523 784,523 856,526 927,523 998,525 1069,523 1140,523 1211,521 1282,521 1353,521 1424,519 1495,521 1567,527"/>
+                <TextEquiv>
+                    <Unicode>gioni, diremo, di scienza. Non senza concedere agli argomenti di una fantasia, che sta fra la delatazione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186923015_2297" custom="readingOrder {index:2;}">
+                <Coords points="146,566 1195,563 1195,613 146,616"/>
+                <Baseline points="146,611 1195,608"/>
+                <TextEquiv>
+                    <Unicode>della logica e i suggerimenti della speranza."... che puoi tu sapere, dice</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:3;} add {offset:0; length:7;place:above;}">
+                <Coords points="1155,577 1185,575 1215,575 1245,575 1275,575 1275,545 1245,545 1215,545 1185,545 1155,547"/>
+                <Baseline points="1155,567 1185,565 1215,565 1245,565 1275,565"/>
+                <TextEquiv>
+                    <Unicode>Colombo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186925102_2302" custom="readingOrder {index:4;}">
+                <Coords points="1203,561 1582,564 1582,614 1203,611"/>
+                <Baseline points="1203,606 1582,609"/>
+                <TextEquiv>
+                    <Unicode>, che non sia tutto accurato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186929166_2307" custom="readingOrder {index:5;}">
+                <Coords points="138,646 924,637 925,687 139,696"/>
+                <Baseline points="139,691 925,682"/>
+                <TextEquiv>
+                    <Unicode>da un mare amico e immenso? o che in vece di terra,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:6;} add {offset:0; length:16;place:above;}">
+                <Coords points="881,645 906,647 932,647 957,648 983,649 1008,649 1034,649 1059,649 1085,649 1085,619 1059,619 1034,619 1008,619 983,619 957,618 932,617 906,617 881,615"/>
+                <Baseline points="881,635 906,637 932,637 957,638 983,639 1008,639 1034,639 1059,639 1085,639"/>
+                <TextEquiv>
+                    <Unicode>e anche di terra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186931058_2312" custom="readingOrder {index:7;}">
+                <Coords points="940,643 1576,646 1576,696 940,693"/>
+                <Baseline points="940,688 1576,691"/>
+                <TextEquiv>
+                    <Unicode>e d'acqua, non contenga qualche altro elemento?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:8;}">
+                <Coords points="137,778 207,774 278,772 348,768 419,768 489,766 560,766 630,766 701,764 771,766 842,766 912,764 983,764 1053,765 1124,764 1194,764 1265,762 1335,762 1406,762 1476,762 1565,765 1565,719 1476,716 1406,716 1335,716 1265,716 1194,718 1124,718 1053,719 983,718 912,718 842,720 771,720 701,718 630,720 560,720 489,720 419,722 348,722 278,726 207,728 137,732"/>
+                <Baseline points="137,763 207,759 278,757 348,753 419,753 489,751 560,751 630,751 701,749 771,751 842,751 912,749 983,749 1053,750 1124,749 1194,749 1265,747 1335,747 1406,747 1476,747 1547,753"/>
+                <TextEquiv>
+                    <Unicode>Dato che abbia terre e mari come d'alta, non potrebbe essere che fosse inalitato? anzi inalitabile?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:9;}">
+                <Coords points="145,856 215,851 285,848 356,846 426,846 497,842 567,842 637,840 708,840 778,840 849,841 919,842 989,844 1060,844 1130,844 1201,844 1271,842 1341,842 1412,840 1482,842 1574,851 1574,805 1482,796 1412,794 1341,796 1271,796 1201,798 1130,798 1060,798 989,798 919,796 849,795 778,794 708,794 637,794 567,796 497,796 426,800 356,800 285,802 215,805 145,810"/>
+                <Baseline points="145,841 215,836 285,833 356,831 426,831 497,827 567,827 637,825 708,825 778,825 849,826 919,827 989,829 1060,829 1130,829 1201,829 1271,827 1341,827 1412,825 1482,827 1573,835"/>
+                <TextEquiv>
+                    <Unicode>Facciamo che non sia meno alitato del nostro: che certezza hai tu che vi abbia creature razionali,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:10;} gap {offset:25; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="157,922 228,924 299,923 370,922 441,921 512,920 583,920 654,919 725,918 796,918 867,918 938,920 1009,916 1080,914 1151,916 1222,916 1293,916 1364,916 1435,916 1506,916 1577,922 1577,876 1506,870 1435,870 1364,870 1293,870 1222,870 1151,870 1080,868 1009,870 938,874 867,872 796,872 725,872 654,873 583,874 512,874 441,875 370,876 299,877 228,878 157,876"/>
+                <Baseline points="157,907 228,909 299,908 370,907 441,906 512,905 583,905 654,904 725,903 796,903 867,903 938,905 1009,901 1080,899 1151,901 1222,901 1293,901 1364,901 1435,901 1506,901 1577,907"/>
+                <TextEquiv>
+                    <Unicode>come in questo? e quando         ne abbia, come ti assicuri che siano uomini, e non qualche altro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:11;}">
+                <Coords points="159,1002 229,998 300,998 371,996 442,996 513,994 584,996 655,994 726,997 797,998 868,996 938,996 1009,994 1080,993 1151,990 1222,994 1293,990 1364,992 1435,993 1506,992 1577,996 1577,950 1506,946 1435,947 1364,946 1293,944 1222,948 1151,944 1080,947 1009,948 938,950 868,950 797,952 726,951 655,948 584,950 513,948 442,950 371,950 300,952 229,952 159,956"/>
+                <Baseline points="159,987 229,983 300,983 371,981 442,981 513,979 584,981 655,979 726,982 797,983 868,981 938,981 1009,979 1080,978 1151,975 1222,979 1293,975 1364,977 1435,978 1506,977 1577,981"/>
+                <TextEquiv>
+                    <Unicode>genere di animali intellettivi? ed essendo uomini... Queste cose vengo pensando fra me stesso...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:12;} del {offset:34; length:5;rend:overstrike;}">
+                <Coords points="151,1072 220,1074 290,1072 360,1071 430,1070 500,1070 569,1069 639,1070 709,1070 779,1070 849,1072 918,1072 988,1071 1058,1068 1128,1066 1198,1066 1267,1064 1337,1064 1407,1067 1477,1067 1547,1070 1547,1024 1477,1021 1407,1021 1337,1018 1267,1018 1198,1020 1128,1020 1058,1022 988,1025 918,1026 849,1026 779,1024 709,1024 639,1024 569,1023 500,1024 430,1024 360,1025 290,1026 220,1028 151,1026"/>
+                <Baseline points="151,1057 220,1059 290,1057 360,1056 430,1055 500,1055 569,1054 639,1055 709,1055 779,1055 849,1057 918,1057 988,1056 1058,1053 1128,1051 1198,1051 1267,1049 1337,1049 1407,1052 1477,1052 1547,1055"/>
+                <TextEquiv>
+                    <Unicode>Ecco che noi veggiamo cogli occhi occhi propri che l'ago in questi mari declina dalla stella per un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:13;}">
+                <Coords points="145,1150 216,1149 288,1148 360,1148 432,1149 504,1144 576,1145 648,1142 720,1144 792,1146 864,1148 935,1146 1007,1144 1079,1142 1151,1142 1223,1142 1295,1140 1367,1141 1439,1145 1511,1146 1583,1150 1583,1104 1511,1100 1439,1099 1367,1095 1295,1094 1223,1096 1151,1096 1079,1096 1007,1098 935,1100 864,1102 792,1100 720,1098 648,1096 576,1099 504,1098 432,1103 360,1102 288,1102 216,1103 145,1104"/>
+                <Baseline points="145,1135 216,1134 288,1133 360,1133 432,1134 504,1129 576,1130 648,1127 720,1129 792,1131 864,1133 935,1131 1007,1129 1079,1127 1151,1127 1223,1127 1295,1125 1367,1126 1439,1130 1511,1131 1583,1135"/>
+                <TextEquiv>
+                    <Unicode>piccolo spazio verso ponenti, cosa noiosissima, e infino adesso inaudita a tutti i navigatori; della quale,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_13" custom="readingOrder {index:14;}">
+                <Coords points="149,1230 220,1224 292,1226 363,1221 435,1222 506,1222 578,1220 649,1222 721,1220 792,1220 864,1220 935,1222 1007,1220 1078,1219 1150,1218 1221,1220 1293,1218 1364,1218 1436,1218 1507,1218 1579,1224 1579,1178 1507,1172 1436,1172 1364,1172 1293,1172 1221,1174 1150,1172 1078,1173 1007,1174 935,1176 864,1174 792,1174 721,1174 649,1176 578,1174 506,1176 435,1176 363,1175 292,1180 220,1178 149,1184"/>
+                <Baseline points="149,1215 220,1209 292,1211 363,1206 435,1207 506,1207 578,1205 649,1207 721,1205 792,1205 864,1205 935,1207 1007,1205 1078,1204 1150,1203 1221,1205 1293,1203 1364,1203 1436,1203 1507,1203 1579,1209"/>
+                <TextEquiv>
+                    <Unicode>per molto fantasticare, io non so pensare una ragione che mi contenti." Qualche ragione del calcolo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_14" custom="readingOrder {index:15;}">
+                <Coords points="145,1298 216,1299 287,1299 359,1296 430,1296 502,1298 573,1296 644,1295 716,1294 787,1294 859,1294 930,1292 1001,1293 1073,1292 1144,1292 1216,1292 1287,1294 1358,1293 1430,1294 1501,1296 1573,1298 1573,1252 1501,1250 1430,1248 1358,1247 1287,1248 1216,1246 1144,1246 1073,1246 1001,1247 930,1246 859,1248 787,1248 716,1248 644,1249 573,1250 502,1252 430,1250 359,1250 287,1253 216,1253 145,1252"/>
+                <Baseline points="145,1283 216,1284 287,1284 359,1281 430,1281 502,1283 573,1281 644,1280 716,1279 787,1279 859,1279 930,1277 1001,1278 1073,1277 1144,1277 1216,1277 1287,1279 1358,1278 1430,1279 1501,1281 1573,1283"/>
+                <TextEquiv>
+                    <Unicode>dei disegni e speculazioni di "geografi, astronomi e navigatori eccellenti" insiste ancora. Ma chi può</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_15" custom="readingOrder {index:16;}">
+                <Coords points="137,1382 208,1379 280,1376 352,1376 424,1376 496,1374 567,1373 639,1372 711,1371 783,1370 855,1370 926,1371 998,1372 1070,1372 1142,1370 1214,1372 1285,1370 1357,1370 1429,1370 1501,1373 1573,1374 1573,1328 1501,1327 1429,1324 1357,1324 1285,1324 1214,1326 1142,1324 1070,1326 998,1326 926,1325 855,1324 783,1324 711,1325 639,1326 567,1327 496,1328 424,1330 352,1330 280,1330 208,1333 137,1336"/>
+                <Baseline points="137,1367 208,1364 280,1361 352,1361 424,1361 496,1359 567,1358 639,1357 711,1356 783,1355 855,1355 926,1356 998,1357 1070,1357 1142,1355 1214,1357 1285,1355 1357,1355 1429,1355 1501,1358 1573,1359"/>
+                <TextEquiv>
+                    <Unicode>essere certo di una verità matematica di fronte alla potenza della natura? E tu, dice Gutierrez: "Di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_16" custom="readingOrder {index:17;}">
+                <Coords points="147,1454 217,1456 288,1455 358,1452 429,1451 499,1453 570,1450 640,1448 711,1448 781,1448 852,1449 922,1448 993,1446 1063,1445 1134,1444 1204,1444 1275,1445 1345,1444 1416,1442 1486,1444 1557,1444 1557,1398 1486,1398 1416,1396 1345,1398 1275,1399 1204,1398 1134,1398 1063,1399 993,1400 922,1402 852,1403 781,1402 711,1402 640,1402 570,1404 499,1407 429,1405 358,1406 288,1409 217,1410 147,1408"/>
+                <Baseline points="147,1439 217,1441 288,1440 358,1437 429,1436 499,1438 570,1435 640,1433 711,1433 781,1433 852,1434 922,1433 993,1431 1063,1430 1134,1429 1204,1429 1275,1430 1345,1429 1416,1427 1486,1429 1557,1429"/>
+                <TextEquiv>
+                    <Unicode>modo che tu, in sostanza, hai posto la tua vita e quella de' tuoi compagni, in sul fondamento di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_17" custom="readingOrder {index:18;}">
+                <Coords points="137,1532 209,1533 281,1530 353,1531 425,1526 497,1528 569,1524 641,1524 713,1526 785,1525 857,1524 929,1523 1001,1524 1073,1524 1145,1524 1217,1524 1289,1524 1361,1522 1433,1524 1505,1523 1577,1530 1577,1484 1505,1477 1433,1478 1361,1476 1289,1478 1217,1478 1145,1478 1073,1478 1001,1478 929,1477 857,1478 785,1479 713,1480 641,1478 569,1478 497,1482 425,1480 353,1485 281,1484 209,1487 137,1486"/>
+                <Baseline points="137,1517 209,1518 281,1515 353,1516 425,1511 497,1513 569,1509 641,1509 713,1511 785,1510 857,1509 929,1508 1001,1509 1073,1509 1145,1509 1217,1509 1289,1509 1361,1507 1433,1509 1505,1508 1577,1515"/>
+                <TextEquiv>
+                    <Unicode>una semplice opinione speculativa." È  la domanda del buon senso umano. Colombo non indugia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_18" custom="readingOrder {index:19;}">
+                <Coords points="147,1604 177,1604 207,1604 238,1602 268,1600 299,1600 329,1598 359,1601 390,1599 420,1598 451,1598 481,1598 511,1598 542,1600 572,1598 603,1598 633,1598 663,1598 694,1598 724,1598 810,1600 810,1554 724,1552 694,1552 663,1552 633,1552 603,1552 572,1552 542,1554 511,1552 481,1552 451,1552 420,1552 390,1553 359,1555 329,1552 299,1554 268,1554 238,1556 207,1558 177,1558 147,1558"/>
+                <Baseline points="147,1589 177,1589 207,1589 238,1587 268,1585 299,1585 329,1583 359,1586 390,1584 420,1583 451,1583 481,1583 511,1583 542,1585 572,1583 603,1583 633,1583 663,1583 694,1583 724,1583 791,1583"/>
+                <TextEquiv>
+                    <Unicode>a rispondere:" Così è. non posso negare."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_19" custom="readingOrder {index:20;} gap {offset:15; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="149,1684 219,1680 290,1679 361,1678 431,1676 502,1677 573,1676 643,1677 714,1677 785,1676 856,1676 926,1676 997,1674 1068,1674 1138,1676 1209,1674 1280,1672 1350,1674 1421,1673 1492,1674 1563,1680 1563,1634 1492,1628 1421,1627 1350,1628 1280,1626 1209,1628 1138,1630 1068,1628 997,1628 926,1630 856,1630 785,1630 714,1631 643,1631 573,1630 502,1631 431,1630 361,1632 290,1633 219,1634 149,1638"/>
+                <Baseline points="149,1669 219,1665 290,1664 361,1663 431,1661 502,1662 573,1661 643,1662 714,1662 785,1661 856,1661 926,1661 997,1659 1068,1659 1138,1661 1209,1659 1280,1657 1350,1659 1421,1658 1492,1659 1563,1665"/>
+                <TextEquiv>
+                    <Unicode>La sostiene la          amarezza, l'esperienza di ogni cosa umana, il calcolo dell'inutilità finale,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_20" custom="readingOrder {index:21;}">
+                <Coords points="149,1758 220,1758 291,1753 362,1754 433,1752 504,1754 575,1752 646,1754 717,1754 788,1754 859,1754 930,1754 1001,1752 1072,1751 1143,1750 1214,1750 1285,1749 1356,1748 1427,1749 1498,1750 1569,1752 1569,1706 1498,1704 1427,1703 1356,1702 1285,1703 1214,1704 1143,1704 1072,1705 1001,1706 930,1708 859,1708 788,1708 717,1708 646,1708 575,1706 504,1708 433,1706 362,1708 291,1707 220,1712 149,1712"/>
+                <Baseline points="149,1743 220,1743 291,1738 362,1739 433,1737 504,1739 575,1737 646,1739 717,1739 788,1739 859,1739 930,1739 1001,1737 1072,1736 1143,1735 1214,1735 1285,1734 1356,1733 1427,1734 1498,1735 1569,1737"/>
+                <TextEquiv>
+                    <Unicode>misurato dalla mente di Leopardi. "Ma, lasciando da parte che gli uomini tutto giorno si mettono a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_21" custom="readingOrder {index:22;}">
+                <Coords points="145,1838 215,1833 286,1831 356,1828 427,1826 497,1826 568,1828 638,1828 709,1828 779,1828 850,1828 920,1828 991,1828 1061,1830 1132,1826 1202,1828 1273,1826 1343,1824 1414,1825 1484,1826 1555,1828 1555,1782 1484,1780 1414,1779 1343,1778 1273,1780 1202,1782 1132,1780 1061,1784 991,1782 920,1782 850,1782 779,1782 709,1782 638,1782 568,1782 497,1780 427,1780 356,1782 286,1785 215,1787 145,1792"/>
+                <Baseline points="145,1823 215,1818 286,1816 356,1813 427,1811 497,1811 568,1813 638,1813 709,1813 779,1813 850,1813 920,1813 991,1813 1061,1815 1132,1811 1202,1813 1273,1811 1343,1809 1414,1810 1484,1811 1555,1813"/>
+                <TextEquiv>
+                    <Unicode>pericolo della vita con fondamenti più deboli di gran lunga, e per cose di piccolissimo conto, o anche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_22" custom="readingOrder {index:23;}">
+                <Coords points="137,1914 209,1913 281,1911 353,1912 425,1911 497,1908 569,1907 641,1908 713,1908 785,1906 858,1906 930,1904 1002,1906 1074,1904 1146,1903 1218,1902 1290,1901 1362,1900 1434,1902 1506,1904 1579,1906 1579,1860 1506,1858 1434,1856 1362,1854 1290,1855 1218,1856 1146,1857 1074,1858 1002,1860 930,1858 858,1860 785,1860 713,1862 641,1862 569,1861 497,1862 425,1865 353,1866 281,1865 209,1867 137,1868"/>
+                <Baseline points="137,1899 209,1898 281,1896 353,1897 425,1896 497,1893 569,1892 641,1893 713,1893 785,1891 858,1891 930,1889 1002,1891 1074,1889 1146,1888 1218,1887 1290,1886 1362,1885 1434,1887 1506,1889 1579,1891"/>
+                <TextEquiv>
+                    <Unicode>senza pensarlo; anzi dura un poco." Ed, ecco, incalzanti, le ragioni del calcolo, della misura, della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_23" custom="readingOrder {index:24;}">
+                <Coords points="147,1988 217,1986 288,1986 359,1984 430,1980 501,1981 571,1982 642,1980 713,1980 784,1982 855,1980 925,1980 996,1982 1067,1980 1138,1980 1209,1980 1279,1980 1350,1980 1421,1979 1492,1979 1563,1980 1563,1934 1492,1933 1421,1933 1350,1934 1279,1934 1209,1934 1138,1934 1067,1934 996,1936 925,1934 855,1934 784,1936 713,1934 642,1934 571,1936 501,1935 430,1934 359,1938 288,1940 217,1940 147,1942"/>
+                <Baseline points="147,1973 217,1971 288,1971 359,1969 430,1965 501,1966 571,1967 642,1965 713,1965 784,1967 855,1965 925,1965 996,1967 1067,1965 1138,1965 1209,1965 1279,1965 1350,1965 1421,1964 1492,1964 1563,1965"/>
+                <TextEquiv>
+                    <Unicode>certezza, ormai, della fragilità e inconsistenza umana. Se " non fossimo in su queste navi, in mezzo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bo non rifiuta del tutto i dubbi, condivide l'attesa senza disperazione del compagno. Allega le sue ra-&#13;
+gioni, diremo, di scienza. Non senza concedere agli argomenti di una fantasia, che sta fra la delatazione&#13;
+della logica e i suggerimenti della speranza."... che puoi tu sapere, dice&#13;
+Colombo&#13;
+, che non sia tutto accurato&#13;
+da un mare amico e immenso? o che in vece di terra,&#13;
+e anche di terra&#13;
+e d'acqua, non contenga qualche altro elemento?&#13;
+Dato che abbia terre e mari come d'alta, non potrebbe essere che fosse inalitato? anzi inalitabile?&#13;
+Facciamo che non sia meno alitato del nostro: che certezza hai tu che vi abbia creature razionali,&#13;
+come in questo? e quando         ne abbia, come ti assicuri che siano uomini, e non qualche altro&#13;
+genere di animali intellettivi? ed essendo uomini... Queste cose vengo pensando fra me stesso...&#13;
+Ecco che noi veggiamo cogli occhi occhi propri che l'ago in questi mari declina dalla stella per un&#13;
+piccolo spazio verso ponenti, cosa noiosissima, e infino adesso inaudita a tutti i navigatori; della quale,&#13;
+per molto fantasticare, io non so pensare una ragione che mi contenti." Qualche ragione del calcolo,&#13;
+dei disegni e speculazioni di "geografi, astronomi e navigatori eccellenti" insiste ancora. Ma chi può&#13;
+essere certo di una verità matematica di fronte alla potenza della natura? E tu, dice Gutierrez: "Di&#13;
+modo che tu, in sostanza, hai posto la tua vita e quella de' tuoi compagni, in sul fondamento di&#13;
+una semplice opinione speculativa." È  la domanda del buon senso umano. Colombo non indugia&#13;
+a rispondere:" Così è. non posso negare."&#13;
+La sostiene la          amarezza, l'esperienza di ogni cosa umana, il calcolo dell'inutilità finale,&#13;
+misurato dalla mente di Leopardi. "Ma, lasciando da parte che gli uomini tutto giorno si mettono a&#13;
+pericolo della vita con fondamenti più deboli di gran lunga, e per cose di piccolissimo conto, o anche&#13;
+senza pensarlo; anzi dura un poco." Ed, ecco, incalzanti, le ragioni del calcolo, della misura, della&#13;
+certezza, ormai, della fragilità e inconsistenza umana. Se " non fossimo in su queste navi, in mezzo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

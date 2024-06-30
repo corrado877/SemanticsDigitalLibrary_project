@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:16:23.033+01:00</Created>
+        <LastChange>2024-06-20T11:15:07.445+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325972" pageNr="8" tsid="175603492" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=TDVJYQLORXWQESHVJKABZOVH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZGFIGRFXABADUFKFVDAXZFTG" imageId="53898452"/>
+    </Metadata>
+    <Page imageFilename="Q_1958_03_0010_c4v.jpg" imageWidth="1798" imageHeight="2531" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746058528" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="328,345 322,873 1670,879 1674,336"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:14; length:7;rend:underline;}">
+                <Coords points="973,398 998,396 1023,395 1048,396 1074,396 1099,398 1124,397 1150,397 1175,397 1200,396 1225,396 1251,398 1276,398 1301,399 1327,400 1352,400 1377,399 1657,401 1658,346 1377,353 1352,354 1327,354 1301,353 1276,352 1251,352 1225,350 1200,350 1175,351 1150,351 1124,351 1099,352 1074,350 1048,350 1023,349 998,350 973,352"/>
+                <Baseline points="973,383 998,381 1023,380 1048,381 1074,381 1099,383 1124,382 1150,382 1175,382 1200,381 1225,381 1251,383 1276,383 1301,384 1327,385 1352,385 1377,384 1624,395"/>
+                <TextEquiv>
+                    <Unicode>G. Magagnoli, Pirelli, 37.0001.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="973,462 999,469 1025,467 1051,466 1077,466 1103,467 1129,469 1155,470 1181,470 1207,472 1233,474 1259,472 1285,472 1311,473 1337,474 1363,474 1363,428 1337,428 1311,427 1285,426 1259,426 1233,428 1207,426 1181,424 1155,424 1129,423 1103,421 1077,420 1051,420 1025,421 999,423 973,416"/>
+                <Baseline points="973,447 999,454 1025,452 1051,451 1077,451 1103,452 1129,454 1155,455 1181,455 1207,457 1233,459 1259,457 1285,457 1311,458 1337,459 1363,459"/>
+                <TextEquiv>
+                    <Unicode>(sig ra Bernardi, sup.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} foreign {offset:0; length:12;lang:french;} unclear {offset:13; length:7;reason:illegible;}">
+                <Coords points="335,558 369,556 403,558 438,559 472,561 507,563 541,561 575,564 610,564 644,565 679,566 713,566 747,567 782,566 816,568 851,570 885,568 919,568 954,569 988,572 1023,568 1023,516 988,520 954,517 919,516 885,516 851,518 816,516 782,514 747,515 713,514 679,514 644,513 610,512 575,512 541,509 507,511 472,509 438,507 403,506 369,504 335,506"/>
+                <Baseline points="335,541 369,539 403,541 438,542 472,544 507,546 541,544 575,547 610,547 644,548 679,549 713,549 747,550 782,549 816,551 851,553 885,551 919,551 954,552 988,555 1023,551"/>
+                <TextEquiv>
+                    <Unicode>Chaudronnier-Gronier (calderaio)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;} foreign {offset:0; length:11;lang:french;} unclear {offset:12; length:6;reason:illegible;} foreign {offset:19; length:5;lang:french;}">
+                <Coords points="341,632 384,640 427,642 471,643 514,646 558,643 601,645 644,646 688,646 731,646 775,646 818,646 861,644 905,646 948,649 992,650 1035,650 1078,650 1122,652 1165,654 1209,656 1209,604 1165,602 1122,600 1078,598 1035,598 992,598 948,597 905,594 861,592 818,594 775,594 731,594 688,594 644,594 601,593 558,591 514,594 471,591 427,590 384,588 341,580"/>
+                <Baseline points="341,615 384,623 427,625 471,626 514,629 558,626 601,628 644,629 688,629 731,629 775,629 818,629 861,627 905,629 948,632 992,633 1035,633 1078,633 1122,635 1165,637 1209,639"/>
+                <TextEquiv>
+                    <Unicode>Fonte de la drogiè moulè (fonduta di ?)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;} foreign {offset:0; length:12;lang:french;} foreign {offset:15; length:8;lang:french;}">
+                <Coords points="333,716 358,716 383,716 408,716 433,717 459,718 484,718 509,720 534,720 560,720 585,720 610,720 635,718 660,718 686,720 711,719 736,719 761,720 787,720 787,668 761,668 736,667 711,667 686,668 660,666 635,666 610,668 585,668 560,668 534,668 509,668 484,666 459,666 433,665 408,664 383,664 358,664 333,664"/>
+                <Baseline points="333,699 358,699 383,699 408,699 433,700 459,701 484,701 509,703 534,703 560,703 585,703 610,703 635,701 660,701 686,703 711,702 736,702 761,703 787,703"/>
+                <TextEquiv>
+                    <Unicode>Chaudronnier - plombeur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;} foreign {offset:0; length:12;lang:french;} unclear {offset:13; length:6;reason:illegible;} foreign {offset:20; length:7;lang:french;}">
+                <Coords points="339,804 366,801 394,798 422,798 450,796 478,798 506,796 534,798 562,798 590,796 618,796 645,796 673,796 701,797 729,799 757,799 785,797 813,796 841,798 869,798 897,796 897,744 869,746 841,746 813,744 785,745 757,747 729,747 701,745 673,744 645,744 618,744 590,744 562,746 534,746 506,744 478,746 450,744 422,746 394,746 366,749 339,752"/>
+                <Baseline points="339,787 366,784 394,781 422,781 450,779 478,781 506,779 534,781 562,781 590,779 618,779 645,779 673,779 701,780 729,782 757,782 785,780 813,779 841,781 869,781 897,779"/>
+                <TextEquiv>
+                    <Unicode>Fonder de ta drapéé a l'eau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;} foreign {offset:0; length:34;lang:french;}">
+                <Coords points="337,878 371,874 405,874 440,874 474,874 509,874 543,874 577,874 612,874 646,875 681,873 715,873 749,874 784,874 818,874 853,874 887,875 921,876 956,876 990,874 1025,872 1025,820 990,822 956,824 921,824 887,823 853,822 818,822 784,822 749,822 715,821 681,821 646,823 612,822 577,822 543,822 509,822 474,822 440,822 405,822 371,822 337,826"/>
+                <Baseline points="337,861 371,857 405,857 440,857 474,857 509,857 543,857 577,857 612,857 646,858 681,856 715,856 749,857 784,857 818,857 853,857 887,858 921,859 956,859 990,857 1025,855"/>
+                <TextEquiv>
+                    <Unicode>Chaudronnier faison d'instrumentes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>G. Magagnoli, Pirelli, 37.0001.)&#13;
+(sig ra Bernardi, sup.&#13;
+Chaudronnier-Gronier (calderaio)&#13;
+Fonte de la drogiè moulè (fonduta di ?)&#13;
+Chaudronnier - plombeur&#13;
+Fonder de ta drapéé a l'eau&#13;
+Chaudronnier faison d'instrumentes</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

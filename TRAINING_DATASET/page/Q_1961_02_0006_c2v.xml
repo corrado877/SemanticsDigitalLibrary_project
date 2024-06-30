@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:07:49.763+01:00</Created>
+        <LastChange>2024-06-20T11:25:13.613+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326010" pageNr="40" tsid="175603517" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=PUKEPFWXFXVMKIPXGHIGQNXY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PEODGOQLXEGKLCEMZECZNHOP" imageId="53903595"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_02_0006_c2v.jpg" imageWidth="1798" imageHeight="2479" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746065041" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718106275336_574"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718106275336_574" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1556,270 1556,323 1599,323 1599,270"/>
+            <TextLine id="line_1718106275455_577" custom="readingOrder {index:0;}">
+                <Coords points="1559,270 1599,273 1596,323 1556,320"/>
+                <Baseline points="1556,315 1596,318"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="186,445 184,2068 1658,2068 1660,445"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="223,511 269,510 316,509 363,510 410,507 457,506 503,507 550,508 597,507 644,509 691,509 737,507 784,507 831,507 878,507 925,507 971,505 1018,506 1065,505 1112,506 1159,509 1159,455 1112,452 1065,451 1018,452 971,451 925,453 878,453 831,453 784,453 737,453 691,455 644,455 597,453 550,454 503,453 457,452 410,453 363,456 316,455 269,456 223,457"/>
+                <Baseline points="223,493 269,492 316,491 363,492 410,489 457,488 503,489 550,490 597,489 644,491 691,491 737,489 784,489 831,489 878,489 925,489 971,487 1018,488 1065,487 1112,488 1159,491"/>
+                <TextEquiv>
+                    <Unicode>za: giallo, rosso, verde, e chiazze più grandi di bianco, di nero.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="227,586 296,583 366,582 436,584 506,580 576,580 646,580 716,580 786,580 856,584 926,581 995,581 1065,582 1135,582 1205,581 1275,580 1345,579 1415,580 1485,582 1555,582 1625,588 1625,537 1555,531 1485,531 1415,529 1345,528 1275,529 1205,530 1135,531 1065,531 995,530 926,530 856,533 786,529 716,529 646,529 576,529 506,529 436,533 366,531 296,532 227,535"/>
+                <Baseline points="227,569 296,566 366,565 436,567 506,563 576,563 646,563 716,563 786,563 856,567 926,564 995,564 1065,565 1135,565 1205,564 1275,563 1345,562 1415,563 1485,565 1555,565 1625,571"/>
+                <TextEquiv>
+                    <Unicode>La mano di Carrà reggeva (e l'uomo parlava), reggeva il pennello non lieve. I pen_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718106282583_582" custom="readingOrder {index:2;}">
+                <Coords points="196,602 1657,607 1657,657 196,652"/>
+                <Baseline points="196,647 1657,652"/>
+                <TextEquiv>
+                    <Unicode>nelli di Carrà sono sempre stati abbastanza spessi di setole, il bastoncino, grossetto. Come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="203,744 274,734 346,734 417,733 489,734 561,732 632,732 704,734 775,733 847,730 919,733 990,731 1062,730 1133,728 1205,727 1277,726 1348,729 1420,730 1491,731 1563,732 1635,740 1635,688 1563,680 1491,679 1420,678 1348,677 1277,674 1205,675 1133,676 1062,678 990,679 919,681 847,678 775,681 704,682 632,680 561,680 489,682 417,681 346,682 274,682 203,692"/>
+                <Baseline points="203,727 274,717 346,717 417,716 489,717 561,715 632,715 704,717 775,716 847,713 919,716 990,714 1062,713 1133,711 1205,710 1277,709 1348,712 1420,713 1491,714 1563,715 1635,723"/>
+                <TextEquiv>
+                    <Unicode>quelli che usano, se non sbaglio, i decoratori, gli operai del colore. Li impugna, li stringe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="215,810 285,812 355,809 425,808 495,809 565,807 635,806 705,807 775,808 845,804 916,804 986,803 1056,804 1126,804 1196,804 1266,804 1336,805 1406,805 1476,806 1546,807 1617,814 1617,762 1546,755 1476,754 1406,753 1336,753 1266,752 1196,752 1126,752 1056,752 986,751 916,752 845,752 775,756 705,755 635,754 565,755 495,757 425,756 355,757 285,760 215,758"/>
+                <Baseline points="215,793 285,795 355,792 425,791 495,792 565,790 635,789 705,790 775,791 845,787 916,787 986,786 1056,787 1126,787 1196,787 1266,787 1336,788 1406,788 1476,789 1546,790 1617,797"/>
+                <TextEquiv>
+                    <Unicode>come strumenti di lavoro. Come lo stuccatore, in piedi sul ponte, la spatola. L'atto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="201,889 272,889 343,887 414,889 486,885 557,885 628,886 700,885 771,885 842,885 914,887 985,886 1056,885 1127,884 1199,884 1270,881 1341,882 1413,883 1484,885 1555,886 1627,887 1627,833 1555,832 1484,831 1413,829 1341,828 1270,827 1199,830 1127,830 1056,831 985,832 914,833 842,831 771,831 700,831 628,832 557,831 486,831 414,835 343,833 272,835 201,835"/>
+                <Baseline points="201,871 272,871 343,869 414,871 486,867 557,867 628,868 700,867 771,867 842,867 914,869 985,868 1056,867 1127,866 1199,866 1270,863 1341,864 1413,865 1484,867 1555,868 1627,869"/>
+                <TextEquiv>
+                    <Unicode>con il quale il Carrà prima deposita poi stende e liscia il tozzo di colore sulla tela, sogguar_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:6;}">
+                <Coords points="201,962 272,962 344,962 415,962 487,962 559,962 630,962 702,962 773,962 845,960 917,960 988,959 1060,958 1131,958 1203,959 1275,958 1346,960 1418,960 1489,960 1561,960 1633,958 1633,906 1561,908 1489,908 1418,908 1346,908 1275,906 1203,907 1131,906 1060,906 988,907 917,908 845,908 773,910 702,910 630,910 559,910 487,910 415,910 344,910 272,910 201,910"/>
+                <Baseline points="201,945 272,945 344,945 415,945 487,945 559,945 630,945 702,945 773,945 845,943 917,943 988,942 1060,941 1131,941 1203,942 1275,941 1346,943 1418,943 1489,943 1561,943 1633,941"/>
+                <TextEquiv>
+                    <Unicode>dando la pittura e la punta del pennello, è un atto consueto, tranquillo, di attenzione e di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:7;}">
+                <Coords points="213,1036 284,1035 355,1035 426,1036 498,1034 569,1034 640,1034 712,1032 783,1034 854,1035 926,1036 997,1034 1068,1035 1139,1034 1211,1036 1282,1037 1353,1036 1425,1034 1496,1032 1567,1032 1639,1036 1639,984 1567,980 1496,980 1425,982 1353,984 1282,985 1211,984 1139,982 1068,983 997,982 926,984 854,983 783,982 712,980 640,982 569,982 498,982 426,984 355,983 284,983 213,984"/>
+                <Baseline points="213,1019 284,1018 355,1018 426,1019 498,1017 569,1017 640,1017 712,1015 783,1017 854,1018 926,1019 997,1017 1068,1018 1139,1017 1211,1019 1282,1020 1353,1019 1425,1017 1496,1015 1567,1015 1639,1019"/>
+                <TextEquiv>
+                    <Unicode>affetto. Il lavoro deve riuscire bene. Depositava - ricordo - un poco di bianco sul volto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:8;}">
+                <Coords points="197,1117 267,1111 338,1111 409,1111 480,1111 551,1110 622,1109 693,1113 764,1110 835,1111 906,1109 976,1111 1047,1109 1118,1110 1189,1109 1260,1109 1331,1110 1402,1111 1473,1109 1544,1109 1615,1107 1615,1058 1544,1060 1473,1060 1402,1062 1331,1061 1260,1060 1189,1060 1118,1061 1047,1060 976,1062 906,1060 835,1062 764,1061 693,1064 622,1060 551,1061 480,1062 409,1062 338,1062 267,1062 197,1068"/>
+                <Baseline points="197,1101 267,1095 338,1095 409,1095 480,1095 551,1094 622,1093 693,1097 764,1094 835,1095 906,1093 976,1095 1047,1093 1118,1094 1189,1093 1260,1093 1331,1094 1402,1095 1473,1093 1544,1093 1615,1091"/>
+                <TextEquiv>
+                    <Unicode>del "Gentiluomo ubriaco": questo "Zuccone" donatelliano del ventesimo secolo. Alla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:9;}">
+                <Coords points="203,1183 274,1182 345,1184 416,1185 487,1187 558,1187 629,1187 700,1187 771,1187 842,1187 914,1187 985,1189 1056,1190 1127,1189 1198,1187 1269,1187 1340,1187 1411,1187 1482,1188 1553,1187 1625,1193 1625,1145 1553,1139 1482,1140 1411,1139 1340,1139 1269,1139 1198,1139 1127,1141 1056,1142 985,1141 914,1139 842,1139 771,1139 700,1139 629,1139 558,1139 487,1139 416,1137 345,1136 274,1134 203,1135"/>
+                <Baseline points="203,1167 274,1166 345,1168 416,1169 487,1171 558,1171 629,1171 700,1171 771,1171 842,1171 914,1171 985,1173 1056,1174 1127,1173 1198,1171 1269,1171 1340,1171 1411,1171 1482,1172 1553,1171 1625,1177"/>
+                <TextEquiv>
+                    <Unicode>base del naso, dove il naso si spicca dal volto. Poi, più sotto, dove diremo che è il men_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:10;}">
+                <Coords points="201,1264 272,1264 343,1263 415,1262 486,1260 558,1260 629,1262 700,1262 772,1264 843,1262 915,1262 986,1262 1057,1262 1129,1262 1200,1262 1272,1262 1343,1262 1414,1265 1486,1266 1557,1268 1629,1270 1629,1218 1557,1216 1486,1214 1414,1213 1343,1210 1272,1210 1200,1210 1129,1210 1057,1210 986,1210 915,1210 843,1210 772,1212 700,1210 629,1210 558,1208 486,1208 415,1210 343,1211 272,1212 201,1212"/>
+                <Baseline points="201,1247 272,1247 343,1246 415,1245 486,1243 558,1243 629,1245 700,1245 772,1247 843,1245 915,1245 986,1245 1057,1245 1129,1245 1200,1245 1272,1245 1343,1245 1414,1248 1486,1249 1557,1251 1629,1253"/>
+                <TextEquiv>
+                    <Unicode>to, dove l'ovoide allungato del capo dovrebbe inserirsi nel collo. E' qui, come si sa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:11;}">
+                <Coords points="199,1346 268,1342 337,1339 406,1336 475,1338 544,1336 613,1338 682,1336 751,1336 820,1338 890,1334 959,1338 1028,1338 1097,1338 1166,1338 1235,1338 1304,1338 1373,1338 1442,1337 1511,1336 1581,1336 1581,1285 1511,1285 1442,1286 1373,1287 1304,1287 1235,1287 1166,1287 1097,1287 1028,1287 959,1287 890,1283 820,1287 751,1285 682,1285 613,1287 544,1285 475,1287 406,1285 337,1288 268,1291 199,1295"/>
+                <Baseline points="199,1329 268,1325 337,1322 406,1319 475,1321 544,1319 613,1321 682,1319 751,1319 820,1321 890,1317 959,1321 1028,1321 1097,1321 1166,1321 1235,1321 1304,1321 1373,1321 1442,1320 1511,1319 1581,1319"/>
+                <TextEquiv>
+                    <Unicode>il collo è invece solo un cilindro, un breve cilindro, ma staccato, tagliato fuori dal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:12;}">
+                <Coords points="199,1416 270,1412 342,1412 413,1414 485,1414 557,1414 628,1415 700,1417 771,1414 843,1414 915,1412 986,1412 1058,1413 1129,1414 1201,1414 1273,1416 1344,1418 1416,1416 1487,1414 1559,1412 1631,1422 1631,1371 1559,1361 1487,1363 1416,1365 1344,1367 1273,1365 1201,1363 1129,1363 1058,1362 986,1361 915,1361 843,1363 771,1363 700,1366 628,1364 557,1363 485,1363 413,1363 342,1361 270,1361 199,1365"/>
+                <Baseline points="199,1399 270,1395 342,1395 413,1397 485,1397 557,1397 628,1398 700,1400 771,1397 843,1397 915,1395 986,1395 1058,1396 1129,1397 1201,1397 1273,1399 1344,1401 1416,1399 1487,1397 1559,1395 1631,1405"/>
+                <TextEquiv>
+                    <Unicode>soprastante capo. Poi ancora, le aggiunte di colore andavano a raggiungere l'orecchio,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:13;}">
+                <Coords points="189,1497 260,1496 332,1491 403,1491 475,1491 547,1489 618,1488 690,1493 761,1491 833,1490 905,1489 976,1489 1048,1487 1119,1490 1191,1489 1263,1493 1334,1490 1406,1489 1477,1491 1549,1490 1621,1485 1621,1431 1549,1436 1477,1437 1406,1435 1334,1436 1263,1439 1191,1435 1119,1436 1048,1433 976,1435 905,1435 833,1436 761,1437 690,1439 618,1434 547,1435 475,1437 403,1437 332,1437 260,1442 189,1443"/>
+                <Baseline points="189,1479 260,1478 332,1473 403,1473 475,1473 547,1471 618,1470 690,1475 761,1473 833,1472 905,1471 976,1471 1048,1469 1119,1472 1191,1471 1263,1475 1334,1472 1406,1471 1477,1473 1549,1472 1621,1467"/>
+                <TextEquiv>
+                    <Unicode>il padiglione dell'orecchio, - che è l'recchio sinistro del "Gentiluomo", dove questo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:14;}">
+                <Coords points="193,1572 264,1570 335,1569 406,1566 477,1566 548,1566 619,1566 690,1568 761,1566 832,1566 903,1566 974,1566 1045,1566 1116,1568 1187,1566 1258,1566 1329,1564 1400,1564 1471,1567 1542,1568 1613,1570 1613,1518 1542,1516 1471,1515 1400,1512 1329,1512 1258,1514 1187,1514 1116,1516 1045,1514 974,1514 903,1514 832,1514 761,1514 690,1516 619,1514 548,1514 477,1514 406,1514 335,1517 264,1518 193,1520"/>
+                <Baseline points="193,1555 264,1553 335,1552 406,1549 477,1549 548,1549 619,1549 690,1551 761,1549 832,1549 903,1549 974,1549 1045,1549 1116,1551 1187,1549 1258,1549 1329,1547 1400,1547 1471,1550 1542,1551 1613,1553"/>
+                <TextEquiv>
+                    <Unicode>si attacca, aderisce alla parte cilindrica posteriore della testa. Quel bianco si posava,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:15;}">
+                <Coords points="205,1640 275,1642 345,1642 415,1642 485,1642 556,1642 626,1642 696,1639 766,1640 836,1640 907,1640 977,1641 1047,1642 1117,1640 1187,1640 1258,1642 1328,1640 1398,1640 1468,1640 1538,1641 1609,1644 1609,1592 1538,1589 1468,1588 1398,1588 1328,1588 1258,1590 1187,1588 1117,1588 1047,1590 977,1589 907,1588 836,1588 766,1588 696,1587 626,1590 556,1590 485,1590 415,1590 345,1590 275,1590 205,1588"/>
+                <Baseline points="205,1623 275,1625 345,1625 415,1625 485,1625 556,1625 626,1625 696,1622 766,1623 836,1623 907,1623 977,1624 1047,1625 1117,1623 1187,1623 1258,1625 1328,1623 1398,1623 1468,1623 1538,1624 1609,1627"/>
+                <TextEquiv>
+                    <Unicode>col peso e la stabilità di un cemento, con la pronta opacità del gesso sul muro. E il di_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718106298630_590" custom="readingOrder {index:16;} del {offset:55; length:3;rend:overstrike;} gap {offset:55; length:0;quantity:3; unit:character; reason:illegible;}">
+                <Coords points="211,1661 1202,1661 1202,1711 211,1711"/>
+                <Baseline points="211,1706 1202,1706"/>
+                <TextEquiv>
+                    <Unicode>pinto pareva, veramente, un pezzo, uno spazio di muro,    </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718106301183_595" custom="readingOrder {index:17;}">
+                <Coords points="1195,1622 1241,1625 1238,1675 1192,1672"/>
+                <Baseline points="1192,1667 1238,1670"/>
+                <TextEquiv>
+                    <Unicode>cui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718106304121_600" custom="readingOrder {index:18;}">
+                <Coords points="1222,1659 1603,1668 1602,1718 1221,1709"/>
+                <Baseline points="1221,1704 1602,1713"/>
+                <TextEquiv>
+                    <Unicode>il "maestro" applicava i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:19;}">
+                <Coords points="201,1796 272,1794 344,1796 415,1798 487,1795 559,1794 630,1794 702,1795 773,1794 845,1795 917,1796 988,1796 1060,1796 1131,1794 1203,1794 1275,1792 1346,1790 1418,1792 1489,1794 1561,1797 1633,1798 1633,1746 1561,1745 1489,1742 1418,1740 1346,1738 1275,1740 1203,1742 1131,1742 1060,1744 988,1744 917,1744 845,1743 773,1742 702,1743 630,1742 559,1742 487,1743 415,1746 344,1744 272,1742 201,1744"/>
+                <Baseline points="201,1779 272,1777 344,1779 415,1781 487,1778 559,1777 630,1777 702,1778 773,1777 845,1778 917,1779 988,1779 1060,1779 1131,1777 1203,1777 1275,1775 1346,1773 1418,1775 1489,1777 1561,1780 1633,1781"/>
+                <TextEquiv>
+                    <Unicode>tocchi finali, gli aggiustamenti, riempiva con mano esperta i piccoli invisibili vuoti, spia_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:20;}">
+                <Coords points="201,1876 269,1873 337,1872 406,1870 474,1869 543,1866 611,1866 679,1866 748,1869 816,1866 885,1866 953,1867 1021,1866 1090,1866 1158,1866 1227,1865 1295,1866 1363,1868 1432,1868 1500,1871 1569,1874 1569,1823 1500,1820 1432,1817 1363,1817 1295,1815 1227,1814 1158,1815 1090,1815 1021,1815 953,1816 885,1815 816,1815 748,1818 679,1815 611,1815 543,1815 474,1818 406,1819 337,1821 269,1822 201,1825"/>
+                <Baseline points="201,1859 269,1856 337,1855 406,1853 474,1852 543,1849 611,1849 679,1849 748,1852 816,1849 885,1849 953,1850 1021,1849 1090,1849 1158,1849 1227,1848 1295,1849 1363,1851 1432,1851 1500,1854 1569,1857"/>
+                <TextEquiv>
+                    <Unicode>nava e livellava le impercettibili mancanze, che solo il suo occhio può avvertire.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:21;}">
+                <Coords points="247,1948 316,1944 385,1944 454,1944 523,1944 593,1944 662,1944 731,1942 800,1942 869,1942 939,1942 1008,1942 1077,1941 1146,1940 1215,1940 1285,1941 1354,1940 1423,1942 1492,1943 1561,1944 1631,1956 1631,1905 1561,1893 1492,1892 1423,1891 1354,1889 1285,1890 1215,1889 1146,1889 1077,1890 1008,1891 939,1891 869,1891 800,1891 731,1891 662,1893 593,1893 523,1893 454,1893 385,1893 316,1893 247,1897"/>
+                <Baseline points="247,1931 316,1927 385,1927 454,1927 523,1927 593,1927 662,1927 731,1925 800,1925 869,1925 939,1925 1008,1925 1077,1924 1146,1923 1215,1923 1285,1924 1354,1923 1423,1925 1492,1926 1561,1927 1631,1939"/>
+                <TextEquiv>
+                    <Unicode>Lo Zuccone, la testa-cilindro del signore "Ubriaco" si andava così completando, ostruen_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:22;}">
+                <Coords points="201,2030 272,2026 343,2024 414,2024 485,2022 556,2023 627,2024 698,2022 769,2022 840,2022 912,2019 983,2016 1054,2016 1125,2016 1196,2018 1267,2020 1338,2019 1409,2018 1480,2016 1551,2017 1623,2016 1623,1971 1551,1972 1480,1971 1409,1973 1338,1974 1267,1975 1196,1973 1125,1971 1054,1971 983,1971 912,1974 840,1977 769,1977 698,1977 627,1979 556,1978 485,1977 414,1979 343,1979 272,1981 201,1985"/>
+                <Baseline points="201,2015 272,2011 343,2009 414,2009 485,2007 556,2008 627,2009 698,2007 769,2007 840,2007 912,2004 983,2001 1054,2001 1125,2001 1196,2003 1267,2005 1338,2004 1409,2003 1480,2001 1551,2002 1623,2001"/>
+                <TextEquiv>
+                    <Unicode>do in una pienezza, in un giusto peso e giusta dimensione, che di più non si poteva. A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>za: giallo, rosso, verde, e chiazze più grandi di bianco, di nero.&#13;
+La mano di Carrà reggeva (e l'uomo parlava), reggeva il pennello non lieve. I pen_&#13;
+nelli di Carrà sono sempre stati abbastanza spessi di setole, il bastoncino, grossetto. Come&#13;
+quelli che usano, se non sbaglio, i decoratori, gli operai del colore. Li impugna, li stringe&#13;
+come strumenti di lavoro. Come lo stuccatore, in piedi sul ponte, la spatola. L'atto,&#13;
+con il quale il Carrà prima deposita poi stende e liscia il tozzo di colore sulla tela, sogguar_&#13;
+dando la pittura e la punta del pennello, è un atto consueto, tranquillo, di attenzione e di&#13;
+affetto. Il lavoro deve riuscire bene. Depositava - ricordo - un poco di bianco sul volto&#13;
+del "Gentiluomo ubriaco": questo "Zuccone" donatelliano del ventesimo secolo. Alla&#13;
+base del naso, dove il naso si spicca dal volto. Poi, più sotto, dove diremo che è il men_&#13;
+to, dove l'ovoide allungato del capo dovrebbe inserirsi nel collo. E' qui, come si sa,&#13;
+il collo è invece solo un cilindro, un breve cilindro, ma staccato, tagliato fuori dal&#13;
+soprastante capo. Poi ancora, le aggiunte di colore andavano a raggiungere l'orecchio,&#13;
+il padiglione dell'orecchio, - che è l'recchio sinistro del "Gentiluomo", dove questo&#13;
+si attacca, aderisce alla parte cilindrica posteriore della testa. Quel bianco si posava,&#13;
+col peso e la stabilità di un cemento, con la pronta opacità del gesso sul muro. E il di_&#13;
+pinto pareva, veramente, un pezzo, uno spazio di muro,    &#13;
+cui&#13;
+il "maestro" applicava i&#13;
+tocchi finali, gli aggiustamenti, riempiva con mano esperta i piccoli invisibili vuoti, spia_&#13;
+nava e livellava le impercettibili mancanze, che solo il suo occhio può avvertire.&#13;
+Lo Zuccone, la testa-cilindro del signore "Ubriaco" si andava così completando, ostruen_&#13;
+do in una pienezza, in un giusto peso e giusta dimensione, che di più non si poteva. A</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

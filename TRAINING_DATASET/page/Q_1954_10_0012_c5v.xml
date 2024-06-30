@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:23:18.999+02:00</Created>
+        <LastChange>2024-06-21T10:05:30.445+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326006" pageNr="92" tsid="175603573" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=FSZAEWEIOQCLTKZZXFQIBAIY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OFVMZRMNBLTEANLVLNKBOZSB" imageId="54296164"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_10_0012_c5v.jpg" imageWidth="1798" imageHeight="2427" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746075206" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="189,282 189,2071 1795,2071 1795,282"/>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:0;}">
+                <Coords points="205,549 275,549 346,546 417,545 488,545 559,544 629,543 700,543 771,541 842,543 913,543 983,542 1054,541 1125,538 1196,539 1267,537 1337,539 1408,539 1479,538 1550,541 1621,545 1621,490 1550,486 1479,483 1408,484 1337,484 1267,482 1196,484 1125,483 1054,486 983,487 913,488 842,488 771,486 700,488 629,488 559,489 488,490 417,490 346,491 275,494 205,494"/>
+                <Baseline points="205,531 275,531 346,528 417,527 488,527 559,526 629,525 700,525 771,523 842,525 913,525 983,524 1054,523 1125,520 1196,521 1267,519 1337,521 1408,521 1479,520 1550,523 1621,527"/>
+                <TextEquiv>
+                    <Unicode>cratère de volcan éteint et comblé an fond par le sable de la mer. On n'y voit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:1;}">
+                <Coords points="195,629 267,627 339,621 411,621 483,621 555,620 627,621 699,623 771,624 843,625 916,622 988,621 1060,619 1132,619 1204,619 1276,619 1348,618 1420,615 1492,615 1564,615 1637,613 1637,559 1564,561 1492,561 1420,561 1348,564 1276,565 1204,565 1132,565 1060,565 988,567 916,568 843,571 771,570 699,569 627,567 555,566 483,567 411,567 339,567 267,573 195,575"/>
+                <Baseline points="195,611 267,609 339,603 411,603 483,603 555,602 627,603 699,605 771,606 843,607 916,604 988,603 1060,601 1132,601 1204,601 1276,601 1348,600 1420,597 1492,597 1564,597 1637,595"/>
+                <TextEquiv>
+                    <Unicode>et on n'y touche donc absolument que des laves et des sable qui ne peurent prodaire le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715358660610_1220" custom="readingOrder {index:2;} date {offset:11; length:8;year:0; day:0; month:0;} gap {offset:11; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="197,652 1638,640 1638,690 197,702"/>
+                <Baseline points="197,697 1638,685"/>
+                <TextEquiv>
+                    <Unicode>plus mince          végétal. Les ervirons sont un désert de sable absolument aride.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:3;}">
+                <Coords points="197,776 267,778 338,776 409,774 480,774 551,771 621,770 692,770 763,770 834,768 905,768 975,767 1046,766 1117,766 1188,766 1259,766 1329,766 1400,764 1471,765 1542,766 1613,766 1613,715 1542,715 1471,714 1400,713 1329,715 1259,715 1188,715 1117,715 1046,715 975,716 905,717 834,717 763,719 692,719 621,719 551,720 480,723 409,723 338,725 267,727 197,725"/>
+                <Baseline points="197,759 267,761 338,759 409,757 480,757 551,754 621,753 692,753 763,753 834,751 905,751 975,750 1046,749 1117,749 1188,749 1259,749 1329,749 1400,747 1471,748 1542,749 1613,749"/>
+                <TextEquiv>
+                    <Unicode>Ici les parois des cratère empêchent l’air d’entrer, et nous rôtissons an fond de ce</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:4;}">
+                <Coords points="189,855 262,856 335,855 408,855 482,851 555,853 628,851 702,851 775,848 848,847 922,844 995,843 1068,846 1141,845 1215,844 1288,841 1361,843 1435,842 1508,843 1581,845 1655,851 1655,796 1581,790 1508,788 1435,787 1361,788 1288,786 1215,789 1141,790 1068,791 995,788 922,789 848,792 775,793 702,796 628,796 555,798 482,796 408,800 335,800 262,801 189,800"/>
+                <Baseline points="189,837 262,838 335,837 408,837 482,833 555,835 628,833 702,833 775,830 848,829 922,826 995,825 1068,828 1141,827 1215,826 1288,823 1361,825 1435,824 1508,825 1581,827 1655,833"/>
+                <TextEquiv>
+                    <Unicode>tron comme dans un four à chanse&lt;/gap&gt;. Il font être victime de la fatalité pour s’em-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:5;} hi {offset:33; length:17;rend:underline;}">
+                <Coords points="207,929 251,928 296,927 341,928 386,927 431,928 476,929 521,927 566,925 611,927 656,925 700,924 745,925 790,923 835,921 880,919 925,917 970,919 1015,921 1060,923 1105,927 1105,878 1060,874 1015,872 970,870 925,868 880,870 835,872 790,874 745,876 700,875 656,876 611,878 566,876 521,878 476,880 431,879 386,878 341,879 296,878 251,879 207,880"/>
+                <Baseline points="207,913 251,912 296,911 341,912 386,911 431,912 476,913 521,911 566,909 611,911 656,909 700,908 745,909 790,907 835,905 880,903 925,901 970,903 1015,905 1060,907 1105,911"/>
+                <TextEquiv>
+                    <Unicode>ployer dans des enfers pareils." In simili inferni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:6;}">
+                <Coords points="205,1004 274,1002 344,1002 414,1002 484,1000 554,1001 623,999 693,998 763,998 833,997 903,994 972,995 1042,994 1112,994 1182,995 1252,997 1321,997 1391,996 1461,996 1531,998 1601,996 1601,944 1531,946 1461,944 1391,944 1321,945 1252,945 1182,943 1112,942 1042,942 972,943 903,942 833,945 763,946 693,946 623,947 554,949 484,948 414,950 344,950 274,950 205,952"/>
+                <Baseline points="205,987 274,985 344,985 414,985 484,983 554,984 623,982 693,981 763,981 833,980 903,977 972,978 1042,977 1112,977 1182,978 1252,980 1321,980 1391,979 1461,979 1531,981 1601,979"/>
+                <TextEquiv>
+                    <Unicode>Al principio dell’83, Rimbaud, d’accordo con Monsieur Bardey, progetta un nuovo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:7;}">
+                <Coords points="191,1083 264,1082 338,1085 411,1081 485,1079 558,1077 632,1075 705,1073 779,1075 852,1075 926,1074 999,1075 1073,1075 1146,1075 1220,1077 1293,1076 1367,1075 1440,1075 1514,1075 1587,1078 1661,1079 1661,1025 1587,1024 1514,1021 1440,1021 1367,1021 1293,1022 1220,1023 1146,1021 1073,1021 999,1021 926,1020 852,1021 779,1021 705,1019 632,1021 558,1023 485,1025 411,1027 338,1031 264,1028 191,1029"/>
+                <Baseline points="191,1065 264,1064 338,1067 411,1063 485,1061 558,1059 632,1057 705,1055 779,1057 852,1057 926,1056 999,1057 1073,1057 1146,1057 1220,1059 1293,1058 1367,1057 1440,1057 1514,1057 1587,1060 1661,1061"/>
+                <TextEquiv>
+                    <Unicode>viaggio, e una sosta nello Harrar. Nel marzo, scrivendo ai famigliari, accusa ricevuta, con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715358670130_1225" custom="readingOrder {index:8;}">
+                <Coords points="209,1102 1648,1100 1648,1150 209,1152"/>
+                <Baseline points="209,1147 1648,1145"/>
+                <TextEquiv>
+                    <Unicode>compiacimento, di una cassa con i desiderati libri tecnici. Con i libri, una macchina foto-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715358674553_1230" custom="readingOrder {index:9;}">
+                <Coords points="204,1179 1641,1176 1641,1226 204,1229"/>
+                <Baseline points="204,1224 1641,1221"/>
+                <TextEquiv>
+                    <Unicode>grafica. I libri, dice, mi saranno preziosi in una contrada dove ci si sente “bestia come un asino".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715358677751_1235" custom="readingOrder {index:10;}">
+                <Coords points="204,1255 1644,1246 1644,1296 204,1305"/>
+                <Baseline points="204,1300 1644,1291"/>
+                <TextEquiv>
+                    <Unicode>E aggiunge: “Les jours et les nuits, surtout, sont bien longues en Harar, et en bouquins</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715358682260_1240" custom="readingOrder {index:11;}">
+                <Coords points="209,1327 1623,1327 1623,1377 209,1377"/>
+                <Baseline points="209,1372 1623,1372"/>
+                <TextEquiv>
+                    <Unicode>me feront agréablement passer le temps. Etc. Je compte, d’ailleurs, faire un curieuse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715358685808_1245" custom="readingOrder {index:12;}">
+                <Coords points="200,1405 1625,1398 1625,1448 200,1455"/>
+                <Baseline points="200,1450 1625,1443"/>
+                <TextEquiv>
+                    <Unicode>album de tout cela". Calcolo di ricavare un curioso album da tutto ciò. Non se ne sa di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715358690176_1250" custom="readingOrder {index:13;}">
+                <Coords points="207,1482 1653,1479 1653,1529 207,1532"/>
+                <Baseline points="207,1527 1653,1524"/>
+                <TextEquiv>
+                    <Unicode>più. Sta di fatto che, anche in Africa, Rimbaud non dico coltivava, non si asteneva dallo scaraboc-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:14;}">
+                <Coords points="205,1612 275,1612 346,1612 416,1610 487,1611 557,1608 628,1607 698,1607 769,1606 839,1605 910,1602 980,1602 1051,1601 1121,1603 1192,1602 1262,1603 1333,1600 1403,1600 1474,1600 1544,1602 1615,1602 1615,1551 1544,1551 1474,1549 1403,1549 1333,1549 1262,1552 1192,1551 1121,1552 1051,1550 980,1551 910,1551 839,1554 769,1555 698,1556 628,1556 557,1557 487,1560 416,1559 346,1561 275,1561 205,1561"/>
+                <Baseline points="205,1595 275,1595 346,1595 416,1593 487,1594 557,1591 628,1590 698,1590 769,1589 839,1588 910,1585 980,1585 1051,1584 1121,1586 1192,1585 1262,1586 1333,1583 1403,1583 1474,1583 1544,1585 1615,1585"/>
+                <TextEquiv>
+                    <Unicode>chiare la carta con disegni. Rimane una veduta di Aden, e il gruppo più compatto dei disegni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:15;}">
+                <Coords points="191,1685 261,1689 332,1687 403,1687 474,1685 545,1684 616,1685 687,1688 758,1687 829,1689 900,1686 970,1685 1041,1683 1112,1683 1183,1681 1254,1681 1325,1680 1396,1677 1467,1677 1538,1679 1609,1681 1609,1626 1538,1624 1467,1622 1396,1622 1325,1625 1254,1626 1183,1626 1112,1628 1041,1628 970,1630 900,1631 829,1634 758,1632 687,1633 616,1630 545,1629 474,1630 403,1632 332,1632 261,1634 191,1630"/>
+                <Baseline points="191,1667 261,1671 332,1669 403,1669 474,1667 545,1666 616,1667 687,1670 758,1669 829,1671 900,1668 970,1667 1041,1665 1112,1665 1183,1663 1254,1663 1325,1662 1396,1659 1467,1659 1538,1661 1609,1663"/>
+                <TextEquiv>
+                    <Unicode>tracciati in Abissinia, nell’87. Dunque nell’aprile Rimbaud si ristabilì nella fattoria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:16;}">
+                <Coords points="201,1758 273,1760 345,1760 418,1760 490,1758 563,1758 635,1758 707,1758 780,1759 852,1758 925,1758 997,1757 1069,1758 1142,1758 1214,1758 1287,1756 1359,1756 1431,1754 1504,1754 1576,1756 1649,1760 1649,1708 1576,1704 1504,1702 1431,1702 1359,1704 1287,1704 1214,1706 1142,1706 1069,1706 997,1705 925,1706 852,1706 780,1707 707,1706 635,1706 563,1706 490,1706 418,1708 345,1708 273,1708 201,1706"/>
+                <Baseline points="201,1741 273,1743 345,1743 418,1743 490,1741 563,1741 635,1741 707,1741 780,1742 852,1741 925,1741 997,1740 1069,1741 1142,1741 1214,1741 1287,1739 1359,1739 1431,1737 1504,1737 1576,1739 1649,1743"/>
+                <TextEquiv>
+                    <Unicode>Bardey dello Harrar. Il lavoro era più tranquillo, e “l’aria vi è buona, e c’è del verde".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715358613202_1141" custom="readingOrder {index:17;}">
+                <Coords points="206,1782 1631,1780 1631,1830 206,1832"/>
+                <Baseline points="206,1827 1631,1825"/>
+                <TextEquiv>
+                    <Unicode>Ha tutto il tempo di applicarsi alla sua macchina fotografica. Pare che si dilettasse di ri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:18;}">
+                <Coords points="195,1922 266,1920 338,1918 410,1915 482,1916 553,1916 625,1913 697,1912 769,1910 840,1910 912,1910 984,1908 1056,1908 1127,1907 1199,1904 1271,1906 1343,1904 1414,1904 1486,1906 1558,1906 1630,1908 1630,1856 1558,1854 1486,1854 1414,1852 1343,1852 1271,1854 1199,1852 1127,1855 1056,1856 984,1856 912,1858 840,1858 769,1858 697,1860 625,1861 553,1864 482,1864 410,1863 338,1866 266,1868 195,1870"/>
+                <Baseline points="195,1905 266,1903 338,1901 410,1898 482,1899 553,1899 625,1896 697,1895 769,1893 840,1893 912,1893 984,1891 1056,1891 1127,1890 1199,1887 1271,1889 1343,1887 1414,1887 1486,1889 1558,1889 1630,1891"/>
+                <TextEquiv>
+                    <Unicode>trarre i capi Galla, che offrivano “una ghinea per fotografia". È certa almeno, di lui, una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715358700402_1255" custom="readingOrder {index:19;}">
+                <Coords points="209,1936 1661,1936 1661,1986 209,1986"/>
+                <Baseline points="209,1981 1661,1981"/>
+                <TextEquiv>
+                    <Unicode>fotografia, una probabilmente delle due che egli accompagnava con la lettera del 6 maggio ‘83.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715358704548_1260" custom="readingOrder {index:20;}">
+                <Coords points="211,2013 1658,2013 1658,2063 211,2063"/>
+                <Baseline points="211,2058 1658,2058"/>
+                <TextEquiv>
+                    <Unicode>Quella resa nota dalla Errid Starttie. Rimbaud è in piedi, presso un torrente, a piedi scalzi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>cratère de volcan éteint et comblé an fond par le sable de la mer. On n'y voit &#13;
+et on n'y touche donc absolument que des laves et des sable qui ne peurent prodaire le&#13;
+plus mince          végétal. Les ervirons sont un désert de sable absolument aride.&#13;
+Ici les parois des cratère empêchent l’air d’entrer, et nous rôtissons an fond de ce&#13;
+tron comme dans un four à chanse&lt;/gap&gt;. Il font être victime de la fatalité pour s’em-&#13;
+ployer dans des enfers pareils." In simili inferni.&#13;
+Al principio dell’83, Rimbaud, d’accordo con Monsieur Bardey, progetta un nuovo&#13;
+viaggio, e una sosta nello Harrar. Nel marzo, scrivendo ai famigliari, accusa ricevuta, con&#13;
+compiacimento, di una cassa con i desiderati libri tecnici. Con i libri, una macchina foto-&#13;
+grafica. I libri, dice, mi saranno preziosi in una contrada dove ci si sente “bestia come un asino".&#13;
+E aggiunge: “Les jours et les nuits, surtout, sont bien longues en Harar, et en bouquins&#13;
+me feront agréablement passer le temps. Etc. Je compte, d’ailleurs, faire un curieuse&#13;
+album de tout cela". Calcolo di ricavare un curioso album da tutto ciò. Non se ne sa di&#13;
+più. Sta di fatto che, anche in Africa, Rimbaud non dico coltivava, non si asteneva dallo scaraboc-&#13;
+chiare la carta con disegni. Rimane una veduta di Aden, e il gruppo più compatto dei disegni&#13;
+tracciati in Abissinia, nell’87. Dunque nell’aprile Rimbaud si ristabilì nella fattoria&#13;
+Bardey dello Harrar. Il lavoro era più tranquillo, e “l’aria vi è buona, e c’è del verde".&#13;
+Ha tutto il tempo di applicarsi alla sua macchina fotografica. Pare che si dilettasse di ri-&#13;
+trarre i capi Galla, che offrivano “una ghinea per fotografia". È certa almeno, di lui, una&#13;
+fotografia, una probabilmente delle due che egli accompagnava con la lettera del 6 maggio ‘83.&#13;
+Quella resa nota dalla Errid Starttie. Rimbaud è in piedi, presso un torrente, a piedi scalzi.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

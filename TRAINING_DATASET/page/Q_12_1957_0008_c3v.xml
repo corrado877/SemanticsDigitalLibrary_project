@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:37:28.859+02:00</Created>
+        <LastChange>2024-06-21T10:21:10.898+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326047" pageNr="114" tsid="175603600" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=XXFXGGMNTBNODOUFUZJDXMIN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JLTUNXBNKTJUMMBXMNTGQMCD" imageId="54316462"/>
+    </Metadata>
+    <Page imageFilename="Q_12_1957_0008_c3v.jpg" imageWidth="1798" imageHeight="2523" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746079875" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1716114747097_336"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1716114747097_336" custom="readingOrder {index:0;}">
+            <Coords points="853,352 853,404 904,404 904,352"/>
+            <TextLine id="line_1716114747285_339" custom="readingOrder {index:0;} hi {offset:0; length:1;rend:center;}">
+                <Coords points="853,354 902,352 904,402 855,404"/>
+                <Baseline points="855,399 904,397"/>
+                <TextEquiv>
+                    <Unicode>*</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>*</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="205,518 205,2089 1671,2089 1671,518"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="243,569 312,567 382,565 452,565 521,565 591,565 661,565 730,565 800,564 870,561 940,565 1009,565 1079,563 1149,563 1218,564 1288,563 1358,563 1427,563 1497,565 1567,565 1637,569 1637,526 1567,522 1497,522 1427,520 1358,520 1288,520 1218,521 1149,520 1079,520 1009,522 940,522 870,518 800,521 730,522 661,522 591,522 521,522 452,522 382,522 312,524 243,526"/>
+                <Baseline points="243,555 312,553 382,551 452,551 521,551 591,551 661,551 730,551 800,550 870,547 940,551 1009,551 1079,549 1149,549 1218,550 1288,549 1358,549 1427,549 1497,551 1567,551 1637,555"/>
+                <TextEquiv>
+                    <Unicode>Il principio dell'estate portava in città un'aria di pace, un senso di tranquilla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="219,645 289,645 360,645 430,643 501,643 571,644 642,643 712,640 783,641 853,639 924,641 994,641 1065,641 1135,641 1206,641 1276,639 1347,638 1417,639 1488,641 1558,642 1659,644 1659,601 1558,599 1488,598 1417,596 1347,595 1276,596 1206,598 1135,598 1065,598 994,598 924,598 853,596 783,598 712,597 642,600 571,601 501,600 430,600 360,602 289,602 219,602"/>
+                <Baseline points="219,631 289,631 360,631 430,629 501,629 571,630 642,629 712,626 783,627 853,625 924,627 994,627 1065,627 1135,627 1206,627 1276,625 1347,624 1417,625 1488,627 1558,628 1649,638"/>
+                <TextEquiv>
+                    <Unicode>felicità. Il commercio, i lavori riposavano un poco. Anche il bottegaio, la mattina presto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="225,717 296,717 367,717 438,719 509,718 580,717 651,717 722,716 793,717 864,718 936,719 1007,717 1078,716 1149,715 1220,713 1291,713 1362,713 1433,715 1504,716 1575,719 1647,721 1647,678 1575,676 1504,673 1433,672 1362,670 1291,670 1220,670 1149,672 1078,673 1007,674 936,676 864,675 793,674 722,673 651,674 580,674 509,675 438,676 367,674 296,674 225,674"/>
+                <Baseline points="225,703 296,703 367,703 438,705 509,704 580,703 651,703 722,702 793,703 864,704 936,705 1007,703 1078,702 1149,701 1220,699 1291,699 1362,699 1433,701 1504,702 1575,705 1647,707"/>
+                <TextEquiv>
+                    <Unicode>tirata fuori una panca, si sedeva a leggere il giornale, a fare due chiacchiere coi vicini. I ra-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="225,799 295,797 366,794 437,795 508,791 579,790 649,789 720,789 791,789 862,789 933,789 1003,789 1074,791 1145,788 1216,787 1287,787 1357,785 1428,787 1499,788 1570,790 1641,789 1641,746 1570,747 1499,745 1428,744 1357,742 1287,744 1216,744 1145,745 1074,748 1003,746 933,746 862,746 791,746 720,746 649,746 579,747 508,748 437,752 366,751 295,754 225,756"/>
+                <Baseline points="225,785 295,783 366,780 437,781 508,777 579,776 649,775 720,775 791,775 862,775 933,775 1003,775 1074,777 1145,774 1216,773 1287,773 1357,771 1428,773 1499,774 1570,776 1641,775"/>
+                <TextEquiv>
+                    <Unicode>gazzi avevano finite scuole. La madre li lasciava andare a San Luca, a Monte Dorato, purche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="225,869 296,868 368,867 439,867 511,866 583,867 654,866 726,868 797,869 869,868 941,869 1012,867 1084,867 1155,865 1227,867 1299,869 1370,865 1442,867 1513,867 1585,872 1657,875 1657,832 1585,829 1513,824 1442,824 1370,822 1299,826 1227,824 1155,822 1084,824 1012,824 941,826 869,825 797,826 726,825 654,823 583,824 511,823 439,824 368,824 296,825 225,826"/>
+                <Baseline points="225,855 296,854 368,853 439,853 511,852 583,853 654,852 726,854 797,855 869,854 941,855 1012,853 1084,853 1155,851 1227,853 1299,855 1370,851 1442,853 1513,853 1585,858 1657,861"/>
+                <TextEquiv>
+                    <Unicode>ritornassero per la colazione: a mezzogiorno. "Così, -diceva,- fanno un poco di campagna."-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="229,947 300,947 371,946 442,944 513,943 585,943 656,943 727,945 798,945 869,943 941,944 1012,945 1083,945 1154,946 1225,946 1297,943 1368,942 1439,941 1510,941 1581,942 1653,943 1653,900 1581,899 1510,898 1439,898 1368,899 1297,900 1225,903 1154,903 1083,902 1012,902 941,901 869,900 798,902 727,902 656,900 585,900 513,900 442,901 371,903 300,904 229,904"/>
+                <Baseline points="229,933 300,933 371,932 442,930 513,929 585,929 656,929 727,931 798,931 869,929 941,930 1012,931 1083,931 1154,932 1225,932 1297,929 1368,928 1439,927 1510,927 1581,928 1653,929"/>
+                <TextEquiv>
+                    <Unicode>E alla sera, dopo cena, c'erano sempre i due giardinetti pubblici: quello di piazza Minghetti e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="227,1021 296,1021 366,1021 436,1021 505,1019 575,1017 645,1018 714,1019 784,1019 854,1020 924,1017 993,1019 1063,1018 1133,1018 1202,1015 1272,1017 1342,1015 1411,1015 1481,1016 1551,1018 1621,1015 1621,972 1551,975 1481,973 1411,972 1342,972 1272,974 1202,972 1133,975 1063,975 993,976 924,974 854,977 784,976 714,976 645,975 575,974 505,976 436,978 366,978 296,978 227,978"/>
+                <Baseline points="227,1007 296,1007 366,1007 436,1007 505,1005 575,1003 645,1004 714,1005 784,1005 854,1006 924,1003 993,1005 1063,1004 1133,1004 1202,1001 1272,1003 1342,1001 1411,1001 1481,1002 1551,1004 1621,1001"/>
+                <TextEquiv>
+                    <Unicode>quello di Piazza Cavour, che offrivano un'ora di fresco, fra gli alberi coperti di verde. La gente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="213,1093 283,1093 354,1094 425,1095 496,1095 567,1093 637,1091 708,1093 779,1093 850,1091 921,1092 991,1093 1062,1092 1133,1091 1204,1093 1275,1095 1345,1095 1416,1095 1487,1095 1558,1095 1629,1093 1629,1050 1558,1052 1487,1052 1416,1052 1345,1052 1275,1052 1204,1050 1133,1048 1062,1049 991,1050 921,1049 850,1048 779,1050 708,1050 637,1048 567,1050 496,1052 425,1052 354,1051 283,1050 213,1050"/>
+                <Baseline points="213,1079 283,1079 354,1080 425,1081 496,1081 567,1079 637,1077 708,1079 779,1079 850,1077 921,1078 991,1079 1062,1078 1133,1077 1204,1079 1275,1081 1345,1081 1416,1081 1487,1081 1558,1081 1629,1079"/>
+                <TextEquiv>
+                    <Unicode>diceva:-"Questa è una villegiatura da signori". Le donne si facevano vento, scambiandosi parole di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="227,1179 298,1174 370,1173 441,1173 513,1171 585,1171 656,1169 728,1169 799,1169 871,1168 943,1169 1014,1169 1086,1167 1157,1169 1229,1170 1301,1171 1372,1170 1444,1171 1515,1171 1587,1175 1659,1177 1659,1134 1587,1132 1515,1128 1444,1128 1372,1127 1301,1128 1229,1127 1157,1126 1086,1124 1014,1126 943,1126 871,1125 799,1126 728,1126 656,1126 585,1128 513,1128 441,1130 370,1130 298,1131 227,1136"/>
+                <Baseline points="227,1165 298,1160 370,1159 441,1159 513,1157 585,1157 656,1155 728,1155 799,1155 871,1154 943,1155 1014,1155 1086,1153 1157,1155 1229,1156 1301,1157 1372,1156 1444,1157 1515,1157 1587,1161 1659,1163"/>
+                <TextEquiv>
+                    <Unicode>panchina in panchina. Gli uomini, sbracciati, in maglia di lana, tirati i pantaloni fin quasi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="227,1245 296,1245 366,1245 436,1247 505,1246 575,1244 645,1245 714,1245 784,1245 854,1243 924,1243 993,1243 1063,1243 1133,1245 1202,1245 1272,1245 1342,1247 1411,1248 1481,1247 1551,1251 1621,1249 1621,1206 1551,1208 1481,1204 1411,1205 1342,1204 1272,1202 1202,1202 1133,1202 1063,1200 993,1200 924,1200 854,1200 784,1202 714,1202 645,1202 575,1201 505,1203 436,1204 366,1202 296,1202 227,1202"/>
+                <Baseline points="227,1231 296,1231 366,1231 436,1233 505,1232 575,1230 645,1231 714,1231 784,1231 854,1229 924,1229 993,1229 1063,1229 1133,1231 1202,1231 1272,1231 1342,1233 1411,1234 1481,1233 1551,1237 1621,1235"/>
+                <TextEquiv>
+                    <Unicode>al ginocchio, vi si frescavano i polpacci delle gambe. C'erano perfino ottime gazzose, che si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="217,1329 271,1326 326,1325 381,1325 436,1323 491,1323 545,1321 600,1323 655,1321 710,1321 765,1321 819,1321 874,1321 929,1321 984,1321 1039,1321 1093,1323 1148,1321 1203,1322 1258,1323 1313,1325 1313,1282 1258,1280 1203,1279 1148,1278 1093,1280 1039,1278 984,1278 929,1278 874,1278 819,1278 765,1278 710,1278 655,1278 600,1280 545,1278 491,1280 436,1280 381,1282 326,1282 271,1283 217,1286"/>
+                <Baseline points="217,1315 271,1312 326,1311 381,1311 436,1309 491,1309 545,1307 600,1309 655,1307 710,1307 765,1307 819,1307 874,1307 929,1307 984,1307 1039,1307 1093,1309 1148,1307 1203,1308 1258,1309 1313,1311"/>
+                <TextEquiv>
+                    <Unicode>comperavano alla baracchina presso la Posta. Insomma, si viveva bene.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="237,1399 306,1395 375,1393 444,1391 513,1393 582,1393 651,1395 720,1395 789,1395 858,1396 928,1395 997,1395 1066,1394 1135,1395 1204,1395 1273,1396 1342,1397 1411,1399 1480,1396 1549,1396 1619,1399 1619,1369 1549,1366 1480,1366 1411,1369 1342,1367 1273,1366 1204,1365 1135,1365 1066,1364 997,1365 928,1365 858,1366 789,1365 720,1365 651,1365 582,1363 513,1363 444,1361 375,1363 306,1365 237,1369"/>
+                <Baseline points="237,1389 306,1385 375,1383 444,1381 513,1383 582,1383 651,1385 720,1385 789,1385 858,1386 928,1385 997,1385 1066,1384 1135,1385 1204,1385 1273,1386 1342,1387 1411,1389 1480,1386 1549,1386 1619,1389"/>
+                <TextEquiv>
+                    <Unicode>Stanto al giardino Cavour, se tirava appena un poco di vento, giungeva un buon odore di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716112735321_15" custom="readingOrder {index:12;}">
+                <Coords points="212,1427 352,1425 353,1475 213,1477"/>
+                <Baseline points="213,1472 353,1470"/>
+                <TextEquiv>
+                    <Unicode>dolci, di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:13;}">
+                <Coords points="309,1427 336,1427 363,1427 390,1427 417,1427 445,1425 445,1395 417,1397 390,1397 363,1397 336,1397 309,1397"/>
+                <Baseline points="309,1417 336,1417 363,1417 390,1417 417,1417 445,1415"/>
+                <TextEquiv>
+                    <Unicode>zucchero di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716112747714_27" custom="readingOrder {index:14;}">
+                <Coords points="367,1421 1672,1423 1672,1473 367,1471"/>
+                <Baseline points="367,1466 1672,1468"/>
+                <TextEquiv>
+                    <Unicode>vaniglia. Veniva da una stanza, poco lontana. I ragazzi conoscevano questo odore. e con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:15;}">
+                <Coords points="225,1549 296,1547 368,1547 440,1547 512,1546 584,1545 656,1545 728,1547 800,1547 872,1545 944,1545 1015,1543 1087,1545 1159,1547 1231,1546 1303,1545 1375,1546 1447,1546 1519,1543 1591,1546 1663,1551 1663,1521 1591,1516 1519,1513 1447,1516 1375,1516 1303,1515 1231,1516 1159,1517 1087,1515 1015,1513 944,1515 872,1515 800,1517 728,1517 656,1515 584,1515 512,1516 440,1517 368,1517 296,1517 225,1519"/>
+                <Baseline points="225,1539 296,1537 368,1537 440,1537 512,1536 584,1535 656,1535 728,1537 800,1537 872,1535 944,1535 1015,1533 1087,1535 1159,1537 1231,1536 1303,1535 1375,1536 1447,1536 1519,1533 1591,1536 1663,1541"/>
+                <TextEquiv>
+                    <Unicode>la madre, o fra di loro, vi andavano incontro. Nella via del Cane era una fabbrica di dolci. Più</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716112759208_38" custom="readingOrder {index:16;}">
+                <Coords points="218,1577 1100,1577 1100,1627 218,1627"/>
+                <Baseline points="218,1622 1100,1622"/>
+                <TextEquiv>
+                    <Unicode>che fabbrica, una modesta bottega. Nella strada si apriva un </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:17;} add {offset:0; length:10;place:above;}">
+                <Coords points="1107,1591 1135,1587 1164,1587 1193,1587 1222,1587 1251,1589 1251,1559 1222,1557 1193,1557 1164,1557 1135,1557 1107,1561"/>
+                <Baseline points="1107,1581 1135,1577 1164,1577 1193,1577 1222,1577 1251,1579"/>
+                <TextEquiv>
+                    <Unicode>portoncino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716112762718_43" custom="readingOrder {index:18;} del {offset:0; length:5;rend:overwritten;}">
+                <Coords points="1138,1575 1659,1575 1659,1625 1138,1625"/>
+                <Baseline points="1139,1615 1659,1620"/>
+                <TextEquiv>
+                    <Unicode>porta di casa: e sull'ingresso, tutto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716112778270_48" custom="readingOrder {index:19;} del {offset:35; length:3;rend:overstrike;}">
+                <Coords points="214,1648 830,1650 830,1700 214,1698"/>
+                <Baseline points="214,1693 830,1695"/>
+                <TextEquiv>
+                    <Unicode>invaso dal profumo di dolci, due o tre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:20;} add {offset:0; length:5;place:above;}">
+                <Coords points="813,1657 839,1657 865,1657 891,1659 891,1629 865,1627 839,1627 813,1627"/>
+                <Baseline points="813,1647 839,1647 865,1647 891,1649"/>
+                <TextEquiv>
+                    <Unicode>sedie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716112781169_53" custom="readingOrder {index:21;}">
+                <Coords points="842,1647 1668,1657 1667,1707 841,1697"/>
+                <Baseline points="841,1692 1667,1702"/>
+                <TextEquiv>
+                    <Unicode>sedie di vimini, verniciate di verde, servivano per i clien-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:22;}">
+                <Coords points="215,1781 287,1781 359,1777 432,1779 504,1777 577,1777 649,1777 721,1777 794,1776 866,1775 939,1775 1011,1776 1083,1775 1156,1775 1228,1773 1301,1773 1373,1773 1445,1773 1518,1773 1590,1777 1663,1783 1663,1740 1590,1734 1518,1730 1445,1730 1373,1730 1301,1730 1228,1730 1156,1732 1083,1732 1011,1733 939,1732 866,1732 794,1733 721,1734 649,1734 577,1734 504,1734 432,1736 359,1734 287,1738 215,1738"/>
+                <Baseline points="215,1767 287,1767 359,1763 432,1765 504,1763 577,1763 649,1763 721,1763 794,1762 866,1761 939,1761 1011,1762 1083,1761 1156,1761 1228,1759 1301,1759 1373,1759 1445,1759 1518,1759 1590,1763 1663,1769"/>
+                <TextEquiv>
+                    <Unicode>ti. Dall'ingresso, si centrava, diciamo, nel laboratorio, e nello spaccio. Un bancone di legno divi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:23;}">
+                <Coords points="209,1855 280,1855 352,1855 424,1853 495,1853 567,1853 639,1853 710,1851 782,1852 854,1851 926,1851 997,1849 1069,1851 1141,1851 1212,1849 1284,1849 1356,1850 1427,1849 1499,1849 1571,1849 1643,1851 1643,1808 1571,1806 1499,1806 1427,1806 1356,1807 1284,1806 1212,1806 1141,1808 1069,1808 997,1806 926,1808 854,1808 782,1809 710,1808 639,1810 567,1810 495,1810 424,1810 352,1812 280,1812 209,1812"/>
+                <Baseline points="209,1841 280,1841 352,1841 424,1839 495,1839 567,1839 639,1839 710,1837 782,1838 854,1837 926,1837 997,1835 1069,1837 1141,1837 1212,1835 1284,1835 1356,1836 1427,1835 1499,1835 1571,1835 1643,1837"/>
+                <TextEquiv>
+                    <Unicode>deva per metà la camera, e nel bancone una grata di legno, pure verniciata di verde, lasciava</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:24;}">
+                <Coords points="209,1935 280,1931 351,1929 423,1928 494,1929 566,1930 637,1930 708,1927 780,1929 851,1929 923,1927 994,1928 1065,1931 1137,1929 1208,1927 1280,1927 1351,1927 1422,1925 1494,1925 1565,1924 1637,1927 1637,1884 1565,1881 1494,1882 1422,1882 1351,1884 1280,1884 1208,1884 1137,1886 1065,1888 994,1885 923,1884 851,1886 780,1886 708,1884 637,1887 566,1887 494,1886 423,1885 351,1886 280,1888 209,1892"/>
+                <Baseline points="209,1921 280,1917 351,1915 423,1914 494,1915 566,1916 637,1916 708,1913 780,1915 851,1915 923,1913 994,1914 1065,1917 1137,1915 1208,1913 1280,1913 1351,1913 1422,1911 1494,1911 1565,1910 1637,1913"/>
+                <TextEquiv>
+                    <Unicode>intravvedere i dolci già pronti per la vendita: ciambelle, torte, e soprattutto la famosa bocca di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716112792642_61" custom="readingOrder {index:25;} del {offset:23; length:3;rend:overwritten;}">
+                <Coords points="212,1953 579,1946 580,1996 213,2003"/>
+                <Baseline points="213,1998 580,1991"/>
+                <TextEquiv>
+                    <Unicode>donna. Questa, esalava per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716112795005_66" custom="readingOrder {index:26;}">
+                <Coords points="560,1922 597,1919 601,1969 564,1972"/>
+                <Baseline points="564,1967 601,1964"/>
+                <TextEquiv>
+                    <Unicode>il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716112798232_71" custom="readingOrder {index:27;}">
+                <Coords points="591,1951 1640,1958 1640,2008 591,2001"/>
+                <Baseline points="591,1996 1640,2003"/>
+                <TextEquiv>
+                    <Unicode>meraviglioso odore di vaniglia, che giungeva, per le strade accaldate,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:28;}">
+                <Coords points="225,2089 250,2088 276,2087 301,2087 327,2087 352,2085 378,2083 404,2083 429,2083 455,2082 480,2081 506,2081 531,2081 557,2081 583,2081 608,2081 634,2081 659,2081 685,2082 711,2085 711,2042 685,2039 659,2038 634,2038 608,2038 583,2038 557,2038 531,2038 506,2038 480,2038 455,2039 429,2040 404,2040 378,2040 352,2042 327,2044 301,2044 276,2044 250,2045 225,2046"/>
+                <Baseline points="225,2075 250,2074 276,2073 301,2073 327,2073 352,2071 378,2069 404,2069 429,2069 455,2068 480,2067 506,2067 531,2067 557,2067 583,2067 608,2067 634,2067 659,2067 685,2068 711,2071"/>
+                <TextEquiv>
+                    <Unicode>fino alle panche del giardinetto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Il principio dell'estate portava in città un'aria di pace, un senso di tranquilla&#13;
+felicità. Il commercio, i lavori riposavano un poco. Anche il bottegaio, la mattina presto,&#13;
+tirata fuori una panca, si sedeva a leggere il giornale, a fare due chiacchiere coi vicini. I ra-&#13;
+gazzi avevano finite scuole. La madre li lasciava andare a San Luca, a Monte Dorato, purche&#13;
+ritornassero per la colazione: a mezzogiorno. "Così, -diceva,- fanno un poco di campagna."-&#13;
+E alla sera, dopo cena, c'erano sempre i due giardinetti pubblici: quello di piazza Minghetti e&#13;
+quello di Piazza Cavour, che offrivano un'ora di fresco, fra gli alberi coperti di verde. La gente&#13;
+diceva:-"Questa è una villegiatura da signori". Le donne si facevano vento, scambiandosi parole di&#13;
+panchina in panchina. Gli uomini, sbracciati, in maglia di lana, tirati i pantaloni fin quasi&#13;
+al ginocchio, vi si frescavano i polpacci delle gambe. C'erano perfino ottime gazzose, che si&#13;
+comperavano alla baracchina presso la Posta. Insomma, si viveva bene.&#13;
+Stanto al giardino Cavour, se tirava appena un poco di vento, giungeva un buon odore di&#13;
+dolci, di&#13;
+zucchero di&#13;
+vaniglia. Veniva da una stanza, poco lontana. I ragazzi conoscevano questo odore. e con&#13;
+la madre, o fra di loro, vi andavano incontro. Nella via del Cane era una fabbrica di dolci. Più&#13;
+che fabbrica, una modesta bottega. Nella strada si apriva un &#13;
+portoncino&#13;
+porta di casa: e sull'ingresso, tutto&#13;
+invaso dal profumo di dolci, due o tre&#13;
+sedie&#13;
+sedie di vimini, verniciate di verde, servivano per i clien-&#13;
+ti. Dall'ingresso, si centrava, diciamo, nel laboratorio, e nello spaccio. Un bancone di legno divi-&#13;
+deva per metà la camera, e nel bancone una grata di legno, pure verniciata di verde, lasciava&#13;
+intravvedere i dolci già pronti per la vendita: ciambelle, torte, e soprattutto la famosa bocca di&#13;
+donna. Questa, esalava per&#13;
+il&#13;
+meraviglioso odore di vaniglia, che giungeva, per le strade accaldate,&#13;
+fino alle panche del giardinetto.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

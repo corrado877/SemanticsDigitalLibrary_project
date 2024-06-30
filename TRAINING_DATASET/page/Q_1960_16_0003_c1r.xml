@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:59:35.464+01:00</Created>
+        <LastChange>2024-06-20T11:18:14.638+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325443" pageNr="27" tsid="175603510" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=GADGGOYIPKBIXODZOGCRQDUY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LZIVXSSRFUXVSTCKDOIBPGQB" imageId="53902852"/>
+    </Metadata>
+    <Page imageFilename="Q_1960_16_0003_c1r.jpg" imageWidth="1798" imageHeight="2473" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746062407" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1718548550932_99"/>
+                <RegionRefIndexed index="2" regionRef="region_1718548629730_107"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="138,255 165,2145 1638,2157 1611,267"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718548550932_99" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="158,414 1607,413 1602,1500 153,1501"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="208,504 275,504 342,504 409,507 476,506 544,502 611,501 678,501 745,504 812,504 880,504 947,504 1014,506 1081,506 1148,506 1216,508 1283,504 1350,504 1417,502 1484,501 1552,504 1552,456 1484,453 1417,454 1350,456 1283,456 1216,460 1148,458 1081,458 1014,458 947,456 880,456 812,456 745,456 678,453 611,453 544,454 476,458 409,459 342,456 275,456 208,456"/>
+                <Baseline points="208,488 275,488 342,488 409,491 476,490 544,486 611,485 678,485 745,488 812,488 880,488 947,488 1014,490 1081,490 1148,490 1216,492 1283,488 1350,488 1417,486 1484,485 1552,488"/>
+                <TextEquiv>
+                    <Unicode>È destino dei tempi moderni, nelle nazioni giunte al grado di "modernità"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="170,584 241,585 312,584 384,582 455,579 527,582 598,581 669,579 741,580 812,580 884,578 955,580 1026,580 1098,580 1169,579 1241,579 1312,578 1383,576 1455,576 1526,578 1598,584 1598,536 1526,530 1455,528 1383,528 1312,530 1241,531 1169,531 1098,532 1026,532 955,532 884,530 812,532 741,532 669,531 598,533 527,534 455,531 384,534 312,536 241,537 170,536"/>
+                <Baseline points="170,568 241,569 312,568 384,566 455,563 527,566 598,565 669,563 741,564 812,564 884,562 955,564 1026,564 1098,564 1169,563 1241,563 1312,562 1383,560 1455,560 1526,562 1598,568"/>
+                <TextEquiv>
+                    <Unicode>del proprio progresso civile, che uno scambio lento e profondo si realizzi fra le ricerche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="172,662 243,659 314,658 385,658 456,656 527,656 598,659 669,656 740,656 811,654 882,654 953,658 1024,656 1095,656 1166,654 1237,654 1308,654 1379,654 1450,656 1521,658 1592,664 1592,616 1521,610 1450,608 1379,606 1308,606 1237,606 1166,606 1095,608 1024,608 953,610 882,606 811,606 740,608 669,608 598,611 527,608 456,608 385,610 314,610 243,611 172,614"/>
+                <Baseline points="172,646 243,643 314,642 385,642 456,640 527,640 598,643 669,640 740,640 811,638 882,638 953,642 1024,640 1095,640 1166,638 1237,638 1308,638 1379,638 1450,640 1521,642 1592,648"/>
+                <TextEquiv>
+                    <Unicode>tentate e attuate dagli artisti figurativi di essa, con quello che sono le opere, i rag-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="172,742 241,736 310,734 379,733 449,732 518,732 587,733 657,730 726,731 795,730 865,730 934,730 1003,731 1072,732 1142,734 1211,731 1280,732 1350,730 1419,733 1488,731 1558,734 1558,686 1488,683 1419,685 1350,682 1280,684 1211,683 1142,686 1072,684 1003,683 934,682 865,682 795,682 726,683 657,682 587,685 518,684 449,684 379,685 310,686 241,688 172,694"/>
+                <Baseline points="172,726 241,720 310,718 379,717 449,716 518,716 587,717 657,714 726,715 795,714 865,714 934,714 1003,715 1072,716 1142,718 1211,715 1280,716 1350,714 1419,717 1488,715 1558,718"/>
+                <TextEquiv>
+                    <Unicode>giungimenti dei loro artisti letterari, i loro poeti in versi o in prosa: le quali</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="166,812 237,813 308,812 380,812 451,811 523,810 594,808 665,809 737,808 808,807 880,808 951,808 1022,808 1094,810 1165,810 1237,810 1308,810 1379,810 1451,812 1522,812 1594,816 1594,768 1522,764 1451,764 1379,762 1308,762 1237,762 1165,762 1094,762 1022,760 951,760 880,760 808,759 737,760 665,761 594,760 523,762 451,763 380,764 308,764 237,765 166,764"/>
+                <Baseline points="166,796 237,797 308,796 380,796 451,795 523,794 594,792 665,793 737,792 808,791 880,792 951,792 1022,792 1094,794 1165,794 1237,794 1308,794 1379,794 1451,796 1522,796 1594,800"/>
+                <TextEquiv>
+                    <Unicode>due diverse, ma non opposte, attitudini non avvengono senza un rapporto e una ragione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="172,886 242,886 312,885 382,886 453,886 523,882 593,882 664,884 734,882 804,884 875,884 945,884 1015,882 1085,884 1156,884 1226,882 1296,883 1367,886 1437,888 1507,891 1578,896 1578,848 1507,843 1437,840 1367,838 1296,835 1226,834 1156,836 1085,836 1015,834 945,836 875,836 804,836 734,834 664,836 593,834 523,834 453,838 382,838 312,837 242,838 172,838"/>
+                <Baseline points="172,870 242,870 312,869 382,870 453,870 523,866 593,866 664,868 734,866 804,868 875,868 945,868 1015,866 1085,868 1156,868 1226,866 1296,867 1367,870 1437,872 1507,875 1578,880"/>
+                <TextEquiv>
+                    <Unicode>che si affonda nel grado e nelle condizioni storiche, e sociali, di una nazione in un tempo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="170,964 241,960 312,962 383,962 454,958 526,958 597,958 668,957 739,956 810,956 882,956 953,958 1024,957 1095,957 1166,956 1238,959 1309,958 1380,958 1451,961 1522,962 1594,964 1594,916 1522,914 1451,913 1380,910 1309,910 1238,911 1166,908 1095,909 1024,909 953,910 882,908 810,908 739,908 668,909 597,910 526,910 454,910 383,914 312,914 241,912 170,916"/>
+                <Baseline points="170,948 241,944 312,946 383,946 454,942 526,942 597,942 668,941 739,940 810,940 882,940 953,942 1024,941 1095,941 1166,940 1238,943 1309,942 1380,942 1451,945 1522,946 1594,948"/>
+                <TextEquiv>
+                    <Unicode>determinato. Può verificarsi che tali diverse attitudini, o mezzi di comunicare col mondo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="170,1042 240,1038 310,1037 380,1036 450,1038 520,1038 590,1038 660,1036 730,1038 800,1036 871,1036 941,1034 1011,1036 1081,1036 1151,1036 1221,1036 1291,1036 1361,1036 1431,1036 1501,1039 1572,1042 1572,994 1501,991 1431,988 1361,988 1291,988 1221,988 1151,988 1081,988 1011,988 941,986 871,988 800,988 730,990 660,988 590,990 520,990 450,990 380,988 310,989 240,990 170,994"/>
+                <Baseline points="170,1026 240,1022 310,1021 380,1020 450,1022 520,1022 590,1022 660,1020 730,1022 800,1020 871,1020 941,1018 1011,1020 1081,1020 1151,1020 1221,1020 1291,1020 1361,1020 1431,1020 1501,1023 1572,1026"/>
+                <TextEquiv>
+                    <Unicode>sterno, raggiungano una gravità, si sviluppino in un parallelismo di espressione e di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;} del {offset:0; length:11;rend:overstrike;}">
+                <Coords points="166,1110 237,1113 308,1113 379,1112 450,1112 521,1112 592,1114 663,1112 734,1112 805,1112 876,1111 947,1112 1018,1111 1089,1110 1160,1114 1231,1115 1302,1118 1373,1116 1444,1116 1515,1114 1586,1120 1586,1072 1515,1066 1444,1068 1373,1068 1302,1070 1231,1067 1160,1066 1089,1062 1018,1063 947,1064 876,1063 805,1064 734,1064 663,1064 592,1066 521,1064 450,1064 379,1064 308,1065 237,1065 166,1062"/>
+                <Baseline points="166,1094 237,1097 308,1097 379,1096 450,1096 521,1096 592,1098 663,1096 734,1096 805,1096 876,1095 947,1096 1018,1095 1089,1094 1160,1098 1231,1099 1302,1102 1373,1100 1444,1100 1515,1098 1586,1104"/>
+                <TextEquiv>
+                    <Unicode>espressione intensità formale; e sono i ricordi di concreta felicità, di purezza poetica, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="158,1188 230,1187 302,1190 374,1190 446,1186 518,1186 590,1186 662,1184 734,1184 806,1184 879,1186 951,1186 1023,1186 1095,1188 1167,1189 1239,1190 1311,1189 1383,1188 1455,1188 1527,1187 1600,1190 1600,1142 1527,1139 1455,1140 1383,1140 1311,1141 1239,1142 1167,1141 1095,1140 1023,1138 951,1138 879,1138 806,1136 734,1136 662,1136 590,1138 518,1138 446,1138 374,1142 302,1142 230,1139 158,1140"/>
+                <Baseline points="158,1172 230,1171 302,1174 374,1174 446,1170 518,1170 590,1170 662,1168 734,1168 806,1168 879,1170 951,1170 1023,1170 1095,1172 1167,1173 1239,1174 1311,1173 1383,1172 1455,1172 1527,1171 1600,1174"/>
+                <TextEquiv>
+                    <Unicode>di maternità culturale, di splendore civile di tali nazioni. La quale cosa fu toccata, come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;} place {offset:16; length:7;country:France;}">
+                <Coords points="162,1264 233,1266 305,1268 376,1268 448,1268 520,1266 591,1264 663,1264 734,1264 806,1263 878,1262 949,1262 1021,1262 1092,1264 1164,1265 1236,1266 1307,1264 1379,1262 1450,1262 1522,1267 1594,1270 1594,1222 1522,1219 1450,1214 1379,1214 1307,1216 1236,1218 1164,1217 1092,1216 1021,1214 949,1214 878,1214 806,1215 734,1216 663,1216 591,1216 520,1218 448,1220 376,1220 305,1220 233,1218 162,1216"/>
+                <Baseline points="162,1248 233,1250 305,1252 376,1252 448,1252 520,1250 591,1248 663,1248 734,1248 806,1247 878,1246 949,1246 1021,1246 1092,1248 1164,1249 1236,1250 1307,1248 1379,1246 1450,1246 1522,1251 1594,1254"/>
+                <TextEquiv>
+                    <Unicode>tutti sanno, in Francia nel secolo scorso. Non è forse a caso, anzi è per una giusta ragione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;} person {offset:66; length:10;occupation:poet; firstname:Charles\u0020Pierre\u0020; dateOfDeath:31\u0020August\u00201867; dateOfBirth:9\u0020April\u00201821; lastname:Baudelaire;}">
+                <Coords points="164,1346 234,1344 304,1344 374,1340 445,1340 515,1338 585,1338 656,1338 726,1340 796,1338 867,1341 937,1340 1007,1342 1077,1342 1148,1342 1218,1343 1288,1343 1359,1342 1429,1342 1499,1342 1570,1338 1570,1290 1499,1294 1429,1294 1359,1294 1288,1295 1218,1295 1148,1294 1077,1294 1007,1294 937,1292 867,1293 796,1290 726,1292 656,1290 585,1290 515,1290 445,1292 374,1292 304,1296 234,1296 164,1298"/>
+                <Baseline points="164,1330 234,1328 304,1328 374,1324 445,1324 515,1322 585,1322 656,1322 726,1324 796,1322 867,1325 937,1324 1007,1326 1077,1326 1148,1326 1218,1327 1288,1327 1359,1326 1429,1326 1499,1326 1570,1322"/>
+                <TextEquiv>
+                    <Unicode>di equilibrio morale, oltre che estetico, raggiunto in pieno, che Baudelaire non fu </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="158,1420 227,1418 297,1417 366,1415 436,1414 505,1412 575,1413 644,1412 714,1414 783,1415 853,1414 922,1416 992,1416 1061,1414 1131,1416 1200,1417 1270,1417 1339,1416 1409,1416 1478,1418 1548,1418 1548,1370 1478,1370 1409,1368 1339,1368 1270,1369 1200,1369 1131,1368 1061,1366 992,1368 922,1368 853,1366 783,1367 714,1366 644,1364 575,1365 505,1364 436,1366 366,1367 297,1369 227,1370 158,1372"/>
+                <Baseline points="158,1404 227,1402 297,1401 366,1399 436,1398 505,1396 575,1397 644,1396 714,1398 783,1399 853,1398 922,1400 992,1400 1061,1398 1131,1400 1200,1401 1270,1401 1339,1400 1409,1400 1478,1402 1548,1402"/>
+                <TextEquiv>
+                    <Unicode>solo il poeta iniziatore della "nuova poesia"ma anche il primo dei critici della moderna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="162,1492 188,1492 214,1494 240,1494 266,1493 292,1493 318,1492 344,1490 370,1490 396,1490 396,1442 370,1442 344,1442 318,1444 292,1445 266,1445 240,1446 214,1446 188,1444 162,1444"/>
+                <Baseline points="162,1476 188,1476 214,1478 240,1478 266,1477 292,1477 318,1476 344,1474 370,1474 396,1474"/>
+                <TextEquiv>
+                    <Unicode>critica d'arte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>È destino dei tempi moderni, nelle nazioni giunte al grado di "modernità"&#13;
+del proprio progresso civile, che uno scambio lento e profondo si realizzi fra le ricerche&#13;
+tentate e attuate dagli artisti figurativi di essa, con quello che sono le opere, i rag-&#13;
+giungimenti dei loro artisti letterari, i loro poeti in versi o in prosa: le quali&#13;
+due diverse, ma non opposte, attitudini non avvengono senza un rapporto e una ragione&#13;
+che si affonda nel grado e nelle condizioni storiche, e sociali, di una nazione in un tempo&#13;
+determinato. Può verificarsi che tali diverse attitudini, o mezzi di comunicare col mondo&#13;
+sterno, raggiungano una gravità, si sviluppino in un parallelismo di espressione e di&#13;
+espressione intensità formale; e sono i ricordi di concreta felicità, di purezza poetica, &#13;
+di maternità culturale, di splendore civile di tali nazioni. La quale cosa fu toccata, come&#13;
+tutti sanno, in Francia nel secolo scorso. Non è forse a caso, anzi è per una giusta ragione&#13;
+di equilibrio morale, oltre che estetico, raggiunto in pieno, che Baudelaire non fu &#13;
+solo il poeta iniziatore della "nuova poesia"ma anche il primo dei critici della moderna&#13;
+critica d'arte.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718548629730_107" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="163,1516 1612,1516 1612,2057 163,2057"/>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:0;}">
+                <Coords points="178,1574 247,1570 317,1568 387,1567 457,1570 527,1568 596,1567 666,1566 736,1566 806,1563 876,1563 945,1564 1015,1562 1085,1564 1155,1566 1225,1566 1294,1566 1364,1566 1434,1567 1504,1568 1574,1570 1574,1522 1504,1520 1434,1519 1364,1518 1294,1518 1225,1518 1155,1518 1085,1516 1015,1514 945,1516 876,1515 806,1515 736,1518 666,1518 596,1519 527,1520 457,1522 387,1519 317,1520 247,1522 178,1526"/>
+                <Baseline points="178,1558 247,1554 317,1552 387,1551 457,1554 527,1552 596,1551 666,1550 736,1550 806,1547 876,1547 945,1548 1015,1546 1085,1548 1155,1550 1225,1550 1294,1550 1364,1550 1434,1551 1504,1552 1574,1554"/>
+                <TextEquiv>
+                    <Unicode>L'attitudine, l'applicazione, la vocazione di Baudelaire a "inventare", è il caso di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:1;}">
+                <Coords points="162,1639 232,1640 303,1639 374,1643 445,1641 516,1639 586,1639 657,1641 728,1637 799,1639 870,1638 940,1639 1011,1639 1082,1639 1153,1641 1224,1644 1294,1643 1365,1643 1436,1646 1507,1649 1578,1651 1578,1605 1507,1603 1436,1600 1365,1597 1294,1597 1224,1598 1153,1595 1082,1593 1011,1593 940,1593 870,1592 799,1593 728,1591 657,1595 586,1593 516,1593 445,1595 374,1597 303,1593 232,1594 162,1593"/>
+                <Baseline points="162,1624 232,1625 303,1624 374,1628 445,1626 516,1624 586,1624 657,1626 728,1622 799,1624 870,1623 940,1624 1011,1624 1082,1624 1153,1626 1224,1629 1294,1628 1365,1628 1436,1631 1507,1634 1578,1636"/>
+                <TextEquiv>
+                    <Unicode>dirlo, non i principi estetici, ma i motivi di sentimento, sui quali appoggiare, quasi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:2;}">
+                <Coords points="172,1712 242,1708 312,1710 382,1710 453,1714 523,1712 593,1710 664,1710 734,1708 804,1710 875,1709 945,1710 1015,1712 1085,1710 1156,1712 1226,1712 1296,1712 1367,1714 1437,1710 1507,1709 1578,1710 1578,1680 1507,1679 1437,1680 1367,1684 1296,1682 1226,1682 1156,1682 1085,1680 1015,1682 945,1680 875,1679 804,1680 734,1678 664,1680 593,1680 523,1682 453,1684 382,1680 312,1680 242,1678 172,1682"/>
+                <Baseline points="172,1702 242,1698 312,1700 382,1700 453,1704 523,1702 593,1700 664,1700 734,1698 804,1700 875,1699 945,1700 1015,1702 1085,1700 1156,1702 1226,1702 1296,1702 1367,1704 1437,1700 1507,1699 1578,1700"/>
+                <TextEquiv>
+                    <Unicode>distrattamente, quasi da dilettante e letterato, la sostanza continua della sua intelli-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718562581982_78" custom="readingOrder {index:3;}">
+                <Coords points="176,1760 247,1760 318,1758 390,1754 461,1755 533,1756 604,1754 675,1756 747,1758 818,1756 890,1756 961,1754 1032,1753 1104,1754 1175,1754 1247,1756 1318,1754 1389,1758 1461,1758 1505,1760 1505,1790 1461,1788 1389,1788 1318,1784 1247,1786 1175,1784 1104,1784 1032,1783 961,1784 890,1786 818,1786 747,1788 675,1786 604,1784 533,1786 461,1785 390,1784 318,1788 247,1790 176,1790"/>
+                <Baseline points="176,1780 247,1780 318,1778 390,1774 461,1775 533,1776 604,1774 675,1776 747,1778 818,1776 890,1776 961,1774 1032,1773 1104,1774 1175,1774 1247,1776 1318,1774 1389,1778 1461,1778 1505,1780"/>
+                <TextEquiv>
+                    <Unicode>genza, interpretazione, rivelazione di una critica dell'arte contemporanea, non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:4;} add {offset:0; length:5;place:above;}">
+                <Coords points="1458,1748 1485,1746 1513,1748 1540,1748 1568,1750 1568,1720 1540,1718 1513,1718 1485,1716 1458,1718"/>
+                <Baseline points="1458,1738 1485,1736 1513,1738 1540,1738 1568,1740"/>
+                <TextEquiv>
+                    <Unicode>hanno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718562581982_77" custom="readingOrder {index:5;} del {offset:0; length:2;rend:overstrike;} gap {offset:0; length:0;quantity:2; unit:character; reason:illegible;}">
+                <Coords points="1505,1760 1532,1762 1604,1764 1604,1794 1532,1792 1505,1790"/>
+                <Baseline points="1505,1780 1532,1782 1604,1784"/>
+                <TextEquiv>
+                    <Unicode>   pre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718562728921_94" custom="readingOrder {index:6;} del {offset:21; length:2;rend:overstrike;}">
+                <Coords points="172,1829 243,1832 314,1834 385,1833 456,1831 522,1831 522,1862 456,1862 385,1864 314,1865 243,1863 172,1860"/>
+                <Baseline points="172,1850 243,1853 314,1855 385,1854 456,1852 522,1852"/>
+                <TextEquiv>
+                    <Unicode>cedenti; e forse non ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:7;} add {offset:0; length:5;place:above;}">
+                <Coords points="454,1818 479,1817 505,1815 530,1814 556,1816 556,1786 530,1784 505,1785 479,1787 454,1788"/>
+                <Baseline points="454,1808 479,1807 505,1805 530,1804 556,1806"/>
+                <TextEquiv>
+                    <Unicode>hanno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718562728920_93" custom="readingOrder {index:8;} person {offset:49; length:10;occupation:poet; firstname:Charles\u0020Pierre\u0020; dateOfDeath:31\u0020August\u00201867; dateOfBirth:9\u0020April\u00201821; lastname:Baudelaire\u0020;}">
+                <Coords points="522,1831 527,1831 598,1829 811,1829 882,1832 953,1829 1024,1832 1095,1831 1166,1831 1237,1832 1308,1829 1379,1831 1450,1833 1521,1831 1592,1837 1592,1868 1521,1862 1450,1864 1379,1862 1308,1860 1237,1863 1166,1862 1095,1862 1024,1863 953,1860 882,1863 811,1860 598,1860 527,1862 522,1862"/>
+                <Baseline points="522,1852 527,1852 598,1850 669,1850 740,1850 811,1850 882,1853 953,1850 1024,1853 1095,1852 1166,1852 1237,1853 1308,1850 1379,1852 1450,1854 1521,1852 1592,1858"/>
+                <TextEquiv>
+                    <Unicode>ancora avuto una continuazione degna di essa. Da Baudelaire,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:9;}">
+                <Coords points="172,1946 240,1942 308,1942 376,1944 444,1942 513,1942 581,1942 649,1942 717,1942 785,1944 854,1943 922,1944 990,1944 1058,1944 1126,1945 1195,1945 1263,1944 1331,1944 1399,1943 1467,1941 1536,1942 1536,1894 1467,1893 1399,1895 1331,1896 1263,1896 1195,1897 1126,1897 1058,1896 990,1896 922,1896 854,1895 785,1896 717,1894 649,1894 581,1894 513,1894 444,1894 376,1896 308,1894 240,1894 172,1898"/>
+                <Baseline points="172,1930 240,1926 308,1926 376,1928 444,1926 513,1926 581,1926 649,1926 717,1926 785,1928 854,1927 922,1928 990,1928 1058,1928 1126,1929 1195,1929 1263,1928 1331,1928 1399,1927 1467,1925 1536,1926"/>
+                <TextEquiv>
+                    <Unicode>veramente, è è incominciata un'età nuova, così per la poesia, come per la critica della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:10;} person {offset:60; length:10;occupation:poet; firstname:Charles\u0020Pierre\u0020; dateOfDeath:31\u0020August\u00201867; dateOfBirth:9\u0020April\u00201821; lastname:Baudelaire\u0020;}">
+                <Coords points="172,2032 243,2024 314,2023 385,2019 456,2018 528,2019 599,2020 670,2020 741,2020 812,2018 884,2020 955,2019 1026,2018 1097,2018 1168,2019 1240,2018 1311,2021 1382,2022 1453,2022 1524,2021 1596,2024 1596,1976 1524,1973 1453,1974 1382,1974 1311,1973 1240,1970 1168,1971 1097,1970 1026,1970 955,1971 884,1972 812,1970 741,1972 670,1972 599,1972 528,1971 456,1970 385,1971 314,1975 243,1976 172,1984"/>
+                <Baseline points="172,2016 243,2008 314,2007 385,2003 456,2002 528,2003 599,2004 670,2004 741,2004 812,2002 884,2004 955,2003 1026,2002 1097,2002 1168,2003 1240,2002 1311,2005 1382,2006 1453,2006 1524,2005 1596,2008"/>
+                <TextEquiv>
+                    <Unicode>poesia, nella quale l'arte figurativa rientra di dovere. Di Baudelaire critico, dice Valéry</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>L'attitudine, l'applicazione, la vocazione di Baudelaire a "inventare", è il caso di&#13;
+dirlo, non i principi estetici, ma i motivi di sentimento, sui quali appoggiare, quasi&#13;
+distrattamente, quasi da dilettante e letterato, la sostanza continua della sua intelli-&#13;
+genza, interpretazione, rivelazione di una critica dell'arte contemporanea, non&#13;
+hanno&#13;
+   pre-&#13;
+cedenti; e forse non ha&#13;
+hanno&#13;
+ancora avuto una continuazione degna di essa. Da Baudelaire,&#13;
+veramente, è è incominciata un'età nuova, così per la poesia, come per la critica della&#13;
+poesia, nella quale l'arte figurativa rientra di dovere. Di Baudelaire critico, dice Valéry</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

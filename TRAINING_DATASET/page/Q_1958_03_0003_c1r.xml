@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:16:22.069+01:00</Created>
+        <LastChange>2024-06-20T11:00:18.512+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325431" pageNr="2" tsid="175603470" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=ONSXEAVDHRBRGEJEBHTEZUNV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BBUKVRZYBTNGFFILNRHVPUGE" imageId="53898437"/>
+    </Metadata>
+    <Page imageFilename="Q_1958_03_0003_c1r.jpg" imageWidth="1798" imageHeight="2531" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746057217" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1713205755967_895"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1713205755967_895" custom="readingOrder {index:0;}">
+            <Coords points="117,345 1593,345 1593,2173 117,2173"/>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="133,493 133,2098 1581,2098 1581,493"/>
+            <TextLine id="line_1712393188317_299" custom="readingOrder {index:0;} del {offset:4; length:19;rend:overtyped\u0020;}">
+                <Coords points="175,588 604,607 610,644 168,638"/>
+                <Baseline points="176,634 591,640"/>
+                <TextEquiv>
+                    <Unicode>Chi vivendo e lavorando</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="237,589 262,591 287,591 313,591 338,591 364,591 389,591 415,591 440,591 465,595 491,598 516,600 542,603 567,605 593,607 593,577 567,575 542,573 516,570 491,568 465,565 440,561 415,561 389,561 364,561 338,561 313,561 287,561 262,561 237,559"/>
+                <Baseline points="237,579 262,581 287,581 313,581 338,581 364,581 389,581 415,581 440,581 465,585 491,588 516,590 542,593 567,595 593,597"/>
+                <TextEquiv>
+                    <Unicode>si trova a vivere e lavorare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1712405775868_281" custom="readingOrder {index:2;} add {offset:0; length:3;place:above;}">
+                <Coords points="555,536 601,535 608,571 551,571"/>
+                <Baseline points="551,566 608,566"/>
+                <TextEquiv>
+                    <Unicode>per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:3;} add {offset:0; length:5;place:above;}">
+                <Coords points="603,526 639,526 675,526 675,493 639,493 603,493"/>
+                <Baseline points="603,515 639,515 675,515"/>
+                <TextEquiv>
+                    <Unicode>circa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1712405786876_286" custom="readingOrder {index:4;}">
+                <Coords points="613,529 836,530 838,566 614,566"/>
+                <Baseline points="620,561 838,561"/>
+                <TextEquiv>
+                    <Unicode>mezzo secolo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1712942882663_202" custom="readingOrder {index:5;}">
+                <Coords points="623,594 1233,598 1233,648 623,644"/>
+                <Baseline points="634,640 1233,643"/>
+                <TextEquiv>
+                    <Unicode>nella medesima città (che è anche la </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:6;} add {offset:0; length:3;place:above;}">
+                <Coords points="1237,601 1267,603 1293,601 1293,571 1267,573 1221,568"/>
+                <Baseline points="1241,593 1267,593 1293,591"/>
+                <TextEquiv>
+                    <Unicode>sua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1712942984348_240" custom="readingOrder {index:7;}">
+                <Coords points="1260,605 1551,594 1551,644 1262,645"/>
+                <Baseline points="1270,639 1551,639"/>
+                <TextEquiv>
+                    <Unicode> città nativa), ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:8;}">
+                <Coords points="151,716 222,716 293,717 364,718 435,717 507,720 578,720 649,718 720,716 791,718 863,718 934,718 1005,719 1076,720 1147,720 1219,720 1290,720 1361,721 1432,722 1503,720 1575,722 1575,677 1503,675 1432,677 1361,676 1290,675 1219,675 1147,675 1076,675 1005,674 934,673 863,673 791,673 720,671 649,673 578,675 507,675 435,672 364,673 293,672 222,671 151,671"/>
+                <Baseline points="151,701 222,701 293,702 364,703 435,702 507,705 578,705 649,703 720,701 791,703 863,703 934,703 1005,704 1076,705 1147,705 1219,705 1290,705 1361,706 1432,707 1503,705 1575,707"/>
+                <TextEquiv>
+                    <Unicode>impiegato la propria attività, e le risorse della propria esperienza, in un solo e me-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:9;}">
+                <Coords points="155,794 226,794 297,796 368,794 439,795 510,796 581,796 652,796 723,796 794,796 866,795 937,796 1008,794 1079,797 1150,797 1221,798 1292,798 1363,799 1434,800 1505,800 1577,802 1577,757 1505,755 1434,755 1363,754 1292,753 1221,753 1150,752 1079,752 1008,749 937,751 866,750 794,751 723,751 652,751 581,751 510,751 439,750 368,749 297,751 226,749 155,749"/>
+                <Baseline points="155,779 226,779 297,781 368,779 439,780 510,781 581,781 652,781 723,781 794,781 866,780 937,781 1008,779 1079,782 1150,782 1221,783 1292,783 1363,784 1434,785 1505,785 1577,787"/>
+                <TextEquiv>
+                    <Unicode>desimo lavoro, è forse in grado di riferire qualche osservazione su questa profes-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:10;}">
+                <Coords points="157,870 226,868 296,868 366,866 436,866 506,869 576,868 646,868 716,868 786,870 856,871 925,871 995,874 1065,874 1135,874 1205,872 1275,873 1345,874 1415,876 1485,876 1555,878 1555,833 1485,831 1415,831 1345,829 1275,828 1205,827 1135,829 1065,829 995,829 925,826 856,826 786,825 716,823 646,823 576,823 506,824 436,821 366,821 296,823 226,823 157,825"/>
+                <Baseline points="157,855 226,853 296,853 366,851 436,851 506,854 576,853 646,853 716,853 786,855 856,856 925,856 995,859 1065,859 1135,859 1205,857 1275,858 1345,859 1415,861 1485,861 1555,863"/>
+                <TextEquiv>
+                    <Unicode>sione: una professione materiale, e sui mestieri ad essa affini, per quello che è dei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:11;}">
+                <Coords points="149,948 219,946 290,946 361,946 432,944 503,944 573,944 644,944 715,946 786,944 857,945 927,944 998,946 1069,946 1140,948 1211,948 1281,947 1352,946 1423,946 1494,946 1565,946 1565,901 1494,901 1423,901 1352,901 1281,902 1211,903 1140,903 1069,901 998,901 927,899 857,900 786,899 715,901 644,899 573,899 503,899 432,899 361,901 290,901 219,901 149,903"/>
+                <Baseline points="149,933 219,931 290,931 361,931 432,929 503,929 573,929 644,929 715,931 786,929 857,930 927,929 998,931 1069,931 1140,933 1211,933 1281,932 1352,931 1423,931 1494,931 1565,931"/>
+                <TextEquiv>
+                    <Unicode>riflessi storici di essa, del suo destino, del suo avvenire, ammesso che ne abbia. Il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:12;} add {offset:88; length:1;place:above;}">
+                <Coords points="157,1022 228,1021 299,1021 370,1020 441,1020 513,1020 584,1020 655,1018 726,1022 797,1017 869,1019 940,1020 1011,1019 1082,1020 1153,1020 1225,1021 1296,1022 1367,1020 1438,1021 1509,1022 1581,1022 1581,977 1530,959 1438,976 1367,975 1296,977 1225,976 1153,975 1082,975 1011,974 940,975 869,974 797,972 726,977 655,973 584,975 513,975 441,975 370,975 299,976 228,976 157,977"/>
+                <Baseline points="157,1007 228,1006 299,1006 370,1005 441,1005 513,1005 584,1005 655,1003 726,1007 797,1002 869,1004 940,1005 1011,1004 1082,1005 1153,1005 1225,1006 1296,1007 1367,1005 1438,1006 1509,1007 1581,1007"/>
+                <TextEquiv>
+                    <Unicode>sottoscritto fu allevato ed educato a lavorare: cioè a produrre e fabbricare, oltre che a com- </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:13;} del {offset:36; length:12;rend:overstrike;}">
+                <Coords points="147,1094 218,1095 289,1095 360,1098 431,1096 502,1096 573,1094 644,1094 715,1096 786,1096 858,1094 929,1100 1000,1096 1071,1098 1142,1100 1213,1100 1284,1098 1355,1097 1426,1097 1497,1098 1569,1098 1569,1053 1497,1053 1426,1052 1355,1052 1284,1053 1213,1055 1142,1055 1071,1053 1000,1051 929,1055 858,1049 786,1051 715,1051 644,1049 573,1049 502,1051 431,1051 360,1053 289,1050 218,1050 147,1049"/>
+                <Baseline points="147,1079 218,1080 289,1080 360,1083 431,1081 502,1081 573,1079 644,1079 715,1081 786,1081 858,1079 929,1085 1000,1081 1071,1083 1142,1085 1213,1085 1284,1083 1355,1082 1426,1082 1497,1083 1569,1083"/>
+                <TextEquiv>
+                    <Unicode>merciare, oggetti e manufatti utili al benessere, al godimento tranquillo della vita do-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:14;}">
+                <Coords points="145,1170 215,1174 286,1173 356,1174 427,1171 498,1172 568,1172 639,1171 709,1172 780,1172 851,1173 921,1174 992,1176 1062,1175 1133,1174 1204,1174 1274,1175 1345,1174 1415,1174 1486,1175 1557,1176 1557,1131 1486,1130 1415,1129 1345,1129 1274,1130 1204,1129 1133,1129 1062,1130 992,1131 921,1129 851,1128 780,1127 709,1127 639,1126 568,1127 498,1127 427,1126 356,1129 286,1128 215,1129 145,1125"/>
+                <Baseline points="145,1155 215,1159 286,1158 356,1159 427,1156 498,1157 568,1157 639,1156 709,1157 780,1157 851,1158 921,1159 992,1161 1062,1160 1133,1159 1204,1159 1274,1160 1345,1159 1415,1159 1486,1160 1557,1161"/>
+                <TextEquiv>
+                    <Unicode>mestica, e alla convivenza comoda e salubre di persone in locali di abitazione civile e di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:15;}">
+                <Coords points="151,1256 222,1251 293,1249 364,1250 435,1248 506,1248 577,1250 648,1249 719,1248 790,1248 861,1249 932,1250 1003,1248 1074,1250 1145,1250 1216,1251 1287,1250 1358,1252 1429,1254 1500,1252 1571,1258 1571,1213 1500,1207 1429,1209 1358,1207 1287,1205 1216,1206 1145,1205 1074,1205 1003,1203 932,1205 861,1204 790,1203 719,1203 648,1204 577,1205 506,1203 435,1203 364,1205 293,1204 222,1206 151,1211"/>
+                <Baseline points="151,1241 222,1236 293,1234 364,1235 435,1233 506,1233 577,1235 648,1234 719,1233 790,1233 861,1234 932,1235 1003,1233 1074,1235 1145,1235 1216,1236 1287,1235 1358,1237 1429,1239 1500,1237 1571,1243"/>
+                <TextEquiv>
+                    <Unicode>lavoro collettivo, ecc. Il secolo scorso: l'ottocento, con l'eredità di principi sociali di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:16;}">
+                <Coords points="155,1324 225,1326 296,1325 367,1324 437,1323 508,1322 579,1320 649,1320 720,1322 791,1324 862,1324 932,1324 1003,1324 1074,1322 1144,1322 1215,1322 1286,1320 1356,1324 1427,1324 1498,1326 1581,1325 1580,1280 1498,1281 1427,1279 1356,1279 1286,1275 1215,1277 1144,1277 1074,1277 1003,1279 932,1279 862,1279 791,1279 720,1277 649,1275 579,1275 508,1277 437,1278 367,1279 296,1280 225,1281 155,1279"/>
+                <Baseline points="155,1309 225,1311 296,1310 367,1309 437,1308 508,1307 579,1305 649,1305 720,1307 791,1309 862,1309 932,1309 1003,1309 1074,1307 1144,1307 1215,1307 1286,1305 1356,1309 1427,1309 1498,1311 1569,1311"/>
+                <TextEquiv>
+                    <Unicode>una morale che fu chiamata umanitaria, e che si potrebbe definire semplicemente: ci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:17;}">
+                <Coords points="155,1401 226,1398 297,1398 368,1397 439,1395 510,1393 581,1393 652,1391 723,1391 794,1394 865,1396 936,1397 1007,1398 1078,1397 1149,1395 1220,1396 1291,1397 1362,1399 1433,1400 1504,1403 1575,1401 1575,1370 1504,1372 1433,1369 1362,1368 1291,1366 1220,1365 1149,1364 1078,1366 1007,1367 936,1366 865,1365 794,1363 723,1360 652,1360 581,1362 510,1362 439,1364 368,1366 297,1367 226,1367 155,1370"/>
+                <Baseline points="155,1391 226,1388 297,1388 368,1387 439,1385 510,1383 581,1383 652,1381 723,1381 794,1384 865,1386 936,1387 1007,1388 1078,1387 1149,1385 1220,1386 1291,1387 1362,1389 1433,1390 1504,1393 1575,1391"/>
+                <TextEquiv>
+                    <Unicode>vile, aveva praticamente sollecitato l'inventiva artigiana alla costruzione e fab-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1712944899654_372" custom="readingOrder {index:18;} del {offset:21; length:8;rend:overstrike;}">
+                <Coords points="636,1488 157,1484 156,1422 626,1436"/>
+                <Baseline points="169,1470 623,1471"/>
+                <TextEquiv>
+                    <Unicode>bricazione di quegli attrezzi, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:19;} add {offset:0; length:9;place:above;}">
+                <Coords points="493,1433 521,1431 550,1435 579,1435 608,1435 637,1433 637,1403 608,1405 579,1405 550,1405 521,1401 493,1403"/>
+                <Baseline points="493,1423 521,1421 550,1425 579,1425 608,1425 637,1423"/>
+                <TextEquiv>
+                    <Unicode>accessori </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1712944746277_356" custom="readingOrder {index:20;}">
+                <Coords points="629,1434 1571,1430 1571,1480 637,1478"/>
+                <Baseline points="640,1464 949,1468 1572,1465"/>
+                <TextEquiv>
+                    <Unicode>strumenti o mobili che meglio scrissero a codesto giusto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:21;}">
+                <Coords points="141,1556 210,1554 279,1553 348,1552 418,1550 487,1550 556,1550 626,1550 695,1552 764,1550 834,1552 903,1550 972,1550 1041,1552 1111,1552 1180,1553 1249,1554 1319,1553 1388,1554 1457,1552 1527,1556 1527,1511 1457,1507 1388,1509 1319,1508 1249,1509 1180,1508 1111,1507 1041,1507 972,1505 903,1505 834,1507 764,1505 695,1507 626,1505 556,1505 487,1505 418,1505 348,1507 279,1508 210,1509 141,1511"/>
+                <Baseline points="141,1541 210,1539 279,1538 348,1537 418,1535 487,1535 556,1535 626,1535 695,1537 764,1535 834,1537 903,1535 972,1535 1041,1537 1111,1537 1180,1538 1249,1539 1319,1538 1388,1539 1457,1537 1527,1541"/>
+                <TextEquiv>
+                    <Unicode>scopo. Una delle branche di quell'infinita attività furono gli oggetti e gli apparecchi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:22;}">
+                <Coords points="151,1628 222,1627 293,1628 364,1628 435,1627 507,1628 578,1628 649,1628 720,1626 791,1626 863,1627 934,1626 1005,1627 1076,1628 1147,1628 1219,1627 1290,1628 1361,1628 1432,1628 1503,1628 1575,1630 1575,1585 1503,1583 1432,1583 1361,1583 1290,1583 1219,1582 1147,1583 1076,1583 1005,1582 934,1581 863,1582 791,1581 720,1581 649,1583 578,1583 507,1583 435,1582 364,1583 293,1583 222,1582 151,1583"/>
+                <Baseline points="151,1613 222,1612 293,1613 364,1613 435,1612 507,1613 578,1613 649,1613 720,1611 791,1611 863,1612 934,1611 1005,1612 1076,1613 1147,1613 1219,1612 1290,1613 1361,1613 1432,1613 1503,1613 1575,1615"/>
+                <TextEquiv>
+                    <Unicode>adibiti al riscaldamento delle case civili, degli edifici di uso pubblico. In questo ramo del-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713205497761_867" custom="readingOrder {index:23;}">
+                <Coords points="152,1655 399,1651 502,1652 625,1647 694,1644 684,1667 736,1717 715,1728 667,1697 626,1697 503,1702 399,1701 153,1705"/>
+                <Baseline points="153,1700 399,1696 503,1697 626,1692 668,1692 718,1724"/>
+                <TextEquiv>
+                    <Unicode>la modesta industria urbana, furono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713205557041_874" custom="readingOrder {index:24;}">
+                <Coords points="724,1644 740,1654 905,1649 1143,1647 1347,1647 1565,1649 1565,1699 1347,1697 1143,1697 906,1699 724,1705 690,1672"/>
+                <Baseline points="695,1677 729,1698 906,1694 1143,1692 1347,1692 1565,1694"/>
+                <TextEquiv>
+                    <Unicode>applicati il lavoro, e le attitudini della mia famiglia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:25;}">
+                <Coords points="151,1786 221,1784 292,1782 363,1780 434,1779 505,1778 575,1778 646,1778 717,1780 788,1780 859,1777 929,1776 1000,1777 1071,1777 1142,1778 1213,1779 1283,1779 1354,1780 1425,1780 1496,1780 1567,1786 1567,1741 1496,1735 1425,1735 1354,1735 1283,1734 1213,1734 1142,1733 1071,1732 1000,1732 929,1731 859,1732 788,1735 717,1735 646,1733 575,1733 505,1733 434,1734 363,1735 292,1737 221,1739 151,1741"/>
+                <Baseline points="151,1771 221,1769 292,1767 363,1765 434,1764 505,1763 575,1763 646,1763 717,1765 788,1765 859,1762 929,1761 1000,1762 1071,1762 1142,1763 1213,1764 1283,1764 1354,1765 1425,1765 1496,1765 1567,1771"/>
+                <TextEquiv>
+                    <Unicode>e quindi le mie. La particolare esplicazione di codesta industria, che fu chiamata generica-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1712945028606_395" custom="readingOrder {index:26;} hi {offset:7; length:10;rend:underline;}">
+                <Coords points="156,1809 772,1817 765,1858 156,1859"/>
+                <Baseline points="156,1854 765,1853"/>
+                <TextEquiv>
+                    <Unicode>mente: fumisteria, e che si appoggiava </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:27;} add {offset:0; length:8;place:above;}">
+                <Coords points="707,1811 739,1812 772,1812 804,1811 805,1785 772,1783 739,1785 707,1781"/>
+                <Baseline points="707,1801 739,1805 772,1803 805,1805"/>
+                <TextEquiv>
+                    <Unicode>in parte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713024334713_117" custom="readingOrder {index:28;}">
+                <Coords points="780,1812 1576,1809 1576,1862 775,1857"/>
+                <Baseline points="781,1851 1580,1854"/>
+                <TextEquiv>
+                    <Unicode>alla pratica edilizia e in parte si giovava della tecni-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:29;}">
+                <Coords points="137,1934 206,1932 275,1932 344,1930 414,1930 483,1930 552,1930 622,1930 691,1931 760,1928 830,1928 899,1928 968,1928 1037,1928 1107,1928 1176,1930 1245,1930 1315,1928 1384,1929 1453,1928 1523,1930 1523,1885 1453,1883 1384,1884 1315,1883 1245,1885 1176,1885 1107,1883 1037,1883 968,1883 899,1883 830,1883 760,1883 691,1886 622,1885 552,1885 483,1885 414,1885 344,1885 275,1887 206,1887 137,1889"/>
+                <Baseline points="137,1919 206,1917 275,1917 344,1915 414,1915 483,1915 552,1915 622,1915 691,1916 760,1913 830,1913 899,1913 968,1913 1037,1913 1107,1913 1176,1915 1245,1915 1315,1913 1384,1914 1453,1913 1523,1915"/>
+                <TextEquiv>
+                    <Unicode>ca vastissima della meccanica, aveva di necessità una rete continua di rapporti con altri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:30;}">
+                <Coords points="137,2008 208,2006 280,2006 352,2006 424,2006 496,2006 568,2006 640,2006 712,2006 784,2006 856,2006 927,2005 999,2007 1071,2006 1143,2006 1215,2006 1287,2007 1359,2008 1431,2010 1503,2011 1575,2016 1575,1971 1503,1966 1431,1965 1359,1963 1287,1962 1215,1961 1143,1961 1071,1961 999,1962 927,1960 856,1961 784,1961 712,1961 640,1961 568,1961 496,1961 424,1961 352,1961 280,1961 208,1961 137,1963"/>
+                <Baseline points="137,1993 208,1991 280,1991 352,1991 424,1991 496,1991 568,1991 640,1991 712,1991 784,1991 856,1991 927,1990 999,1992 1071,1991 1143,1991 1215,1991 1287,1992 1359,1993 1431,1995 1503,1996 1575,2001"/>
+                <TextEquiv>
+                    <Unicode>mestieri, o professioni; tutti, in quegli inizi, di portata artigiana, come era la fumiste-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:31;}">
+                <Coords points="133,2082 159,2084 185,2084 212,2085 238,2086 265,2087 291,2088 318,2088 344,2090 371,2090 371,2045 344,2045 318,2043 291,2043 265,2042 238,2041 212,2040 185,2039 159,2039 133,2037"/>
+                <Baseline points="133,2067 159,2069 185,2069 212,2070 238,2071 265,2072 291,2073 318,2073 344,2075 371,2075"/>
+                <TextEquiv>
+                    <Unicode>ria medesima.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Chi vivendo e lavorando&#13;
+si trova a vivere e lavorare&#13;
+per&#13;
+circa&#13;
+mezzo secolo&#13;
+nella medesima città (che è anche la &#13;
+sua&#13;
+ città nativa), ha&#13;
+impiegato la propria attività, e le risorse della propria esperienza, in un solo e me-&#13;
+desimo lavoro, è forse in grado di riferire qualche osservazione su questa profes-&#13;
+sione: una professione materiale, e sui mestieri ad essa affini, per quello che è dei&#13;
+riflessi storici di essa, del suo destino, del suo avvenire, ammesso che ne abbia. Il&#13;
+sottoscritto fu allevato ed educato a lavorare: cioè a produrre e fabbricare, oltre che a com- &#13;
+merciare, oggetti e manufatti utili al benessere, al godimento tranquillo della vita do-&#13;
+mestica, e alla convivenza comoda e salubre di persone in locali di abitazione civile e di&#13;
+lavoro collettivo, ecc. Il secolo scorso: l'ottocento, con l'eredità di principi sociali di&#13;
+una morale che fu chiamata umanitaria, e che si potrebbe definire semplicemente: ci&#13;
+vile, aveva praticamente sollecitato l'inventiva artigiana alla costruzione e fab-&#13;
+bricazione di quegli attrezzi, &#13;
+accessori &#13;
+strumenti o mobili che meglio scrissero a codesto giusto&#13;
+scopo. Una delle branche di quell'infinita attività furono gli oggetti e gli apparecchi&#13;
+adibiti al riscaldamento delle case civili, degli edifici di uso pubblico. In questo ramo del-&#13;
+la modesta industria urbana, furono&#13;
+applicati il lavoro, e le attitudini della mia famiglia,&#13;
+e quindi le mie. La particolare esplicazione di codesta industria, che fu chiamata generica-&#13;
+mente: fumisteria, e che si appoggiava &#13;
+in parte&#13;
+alla pratica edilizia e in parte si giovava della tecni-&#13;
+ca vastissima della meccanica, aveva di necessità una rete continua di rapporti con altri&#13;
+mestieri, o professioni; tutti, in quegli inizi, di portata artigiana, come era la fumiste-&#13;
+ria medesima.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

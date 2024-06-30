@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:22:30.114+01:00</Created>
+        <LastChange>2024-06-20T12:04:25.216+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325994" pageNr="67" tsid="175603541" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=EBYXWHDXBDYLGYIZJEYDYWIA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YSSCVCCFYRFPQUKOTSEQSWDD" imageId="53903858"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_08_0010_c4v.jpg" imageWidth="1798" imageHeight="2471" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746070264" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718186846846_2251"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718186846846_2251" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1533,265 1533,315 1587,315 1587,265"/>
+            <TextLine id="line_1718186846946_2254" custom="readingOrder {index:0;}">
+                <Coords points="1533,265 1587,265 1587,315 1533,315"/>
+                <Baseline points="1533,310 1587,310"/>
+                <TextEquiv>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="191,358 191,1998 1660,1998 1660,358"/>
+            <TextLine id="line_1718186864656_2265" custom="readingOrder {index:0;}">
+                <Coords points="233,417 1638,422 1638,472 233,467"/>
+                <Baseline points="233,462 1638,467"/>
+                <TextEquiv>
+                    <Unicode>cosa ci riserba il tempo che viene. Anche in questo, come in quasi tutti i Dialoghi delle Operette</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186869102_2270" custom="readingOrder {index:1;} gap {offset:83; length:0;quantity:8; reason:illegible;}">
+                <Coords points="213,488 1633,486 1633,536 213,538"/>
+                <Baseline points="213,533 1633,531"/>
+                <TextEquiv>
+                    <Unicode>morali, si direbbe che Leopardi ha inteso di immettere, nel tessuto narrativo, una         </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186872598_2275" custom="readingOrder {index:2;}">
+                <Coords points="211,569 1650,574 1650,624 211,619"/>
+                <Baseline points="211,614 1650,619"/>
+                <TextEquiv>
+                    <Unicode>di pensiero e di movimento autobiografico, modellandola, dilatandola su di una lunga li-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="209,698 278,700 348,702 417,700 487,701 556,700 626,700 695,700 765,699 834,700 904,698 973,697 1043,698 1112,696 1182,694 1251,695 1321,694 1390,694 1460,695 1529,696 1599,700 1599,648 1529,644 1460,643 1390,642 1321,642 1251,643 1182,642 1112,644 1043,646 973,645 904,646 834,648 765,647 695,648 626,648 556,648 487,649 417,648 348,650 278,648 209,646"/>
+                <Baseline points="209,681 278,683 348,685 417,683 487,684 556,683 626,683 695,683 765,682 834,683 904,681 973,680 1043,681 1112,679 1182,677 1251,678 1321,677 1390,677 1460,678 1529,679 1599,683"/>
+                <TextEquiv>
+                    <Unicode>nea di accompagnamento, per così dire, musicale. Ed è solo la particolare musica e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="213,776 283,774 354,775 425,774 495,772 566,770 637,770 707,772 778,770 849,772 920,771 990,770 1061,770 1132,771 1202,770 1273,770 1344,770 1414,768 1485,770 1556,772 1627,776 1627,724 1556,720 1485,718 1414,716 1344,718 1273,718 1202,718 1132,719 1061,718 990,718 920,719 849,720 778,718 707,720 637,718 566,718 495,720 425,722 354,723 283,722 213,724"/>
+                <Baseline points="213,759 283,757 354,758 425,757 495,755 566,753 637,753 707,755 778,753 849,755 920,754 990,753 1061,753 1132,754 1202,753 1273,753 1344,753 1414,751 1485,753 1556,755 1627,759"/>
+                <TextEquiv>
+                    <Unicode>melodia, la cadenza e il ritmo di Leopardi cava, come si cava un respiro dal petto, dalla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="217,866 285,854 356,851 427,848 498,848 569,846 639,848 710,847 781,848 852,848 923,848 993,847 1064,846 1135,848 1206,849 1277,848 1347,847 1418,844 1489,844 1560,846 1631,848 1631,803 1560,801 1489,799 1418,799 1347,802 1277,803 1206,804 1135,803 1064,801 993,802 923,803 852,803 781,803 710,802 639,803 569,801 498,803 427,803 356,806 285,809 217,821"/>
+                <Baseline points="217,851 285,839 356,836 427,833 498,833 569,831 639,833 710,832 781,833 852,833 923,833 993,832 1064,831 1135,833 1206,834 1277,833 1347,832 1418,829 1489,829 1560,831 1631,833"/>
+                <TextEquiv>
+                    <Unicode>pia mente. Pare incredibile, ma è proprio a codesta "musica", fatta solo di parole abbassate di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="209,928 279,924 349,924 419,923 489,924 559,924 629,922 699,923 769,920 839,920 909,920 979,920 1049,920 1119,921 1189,922 1259,922 1329,923 1399,920 1469,920 1539,920 1609,924 1609,879 1539,875 1469,875 1399,875 1329,878 1259,877 1189,877 1119,876 1049,875 979,875 909,875 839,875 769,875 699,878 629,877 559,879 489,879 419,878 349,879 279,879 209,883"/>
+                <Baseline points="209,913 279,909 349,909 419,908 489,909 559,909 629,907 699,908 769,905 839,905 909,905 979,905 1049,905 1119,906 1189,907 1259,907 1329,908 1399,905 1469,905 1539,905 1609,909"/>
+                <TextEquiv>
+                    <Unicode>tono, e legata ad un genere di semplice e casta sintassi, che Leopardi affida, non solo la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:7;}">
+                <Coords points="221,1005 291,1003 361,1000 431,999 501,999 571,1001 641,1001 711,1001 781,1000 851,1001 922,998 992,998 1062,999 1132,999 1202,1001 1272,1001 1342,1002 1412,1001 1482,1005 1552,1006 1623,1013 1623,959 1552,952 1482,951 1412,947 1342,948 1272,947 1202,947 1132,945 1062,945 992,944 922,944 851,947 781,946 711,947 641,947 571,947 501,945 431,945 361,946 291,949 221,951"/>
+                <Baseline points="221,987 291,985 361,982 431,981 501,981 571,983 641,983 711,983 781,982 851,983 922,980 992,980 1062,981 1132,981 1202,983 1272,983 1342,984 1412,983 1482,987 1552,988 1623,995"/>
+                <TextEquiv>
+                    <Unicode>malinconia lucida dell'animo, ma proprio i motivi del suo pensiero. Che è, naturalmente, un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:8;}">
+                <Coords points="231,1085 300,1079 369,1077 438,1077 507,1077 577,1076 646,1077 715,1075 784,1076 853,1075 923,1077 992,1078 1061,1078 1130,1079 1199,1077 1269,1077 1338,1077 1407,1077 1476,1077 1545,1079 1615,1085 1615,1031 1545,1025 1476,1023 1407,1023 1338,1023 1269,1023 1199,1023 1130,1025 1061,1024 992,1024 923,1023 853,1021 784,1022 715,1021 646,1023 577,1022 507,1023 438,1023 369,1023 300,1025 231,1031"/>
+                <Baseline points="231,1067 300,1061 369,1059 438,1059 507,1059 577,1058 646,1059 715,1057 784,1058 853,1057 923,1059 992,1060 1061,1060 1130,1061 1199,1059 1269,1059 1338,1059 1407,1059 1476,1059 1545,1061 1615,1067"/>
+                <TextEquiv>
+                    <Unicode>pensiero costante e fermo di sfiducia nelle azioni e nelle opere umane. Unico compiacimento,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:9;}">
+                <Coords points="223,1156 293,1152 364,1150 434,1150 505,1150 575,1150 646,1152 716,1150 787,1150 857,1152 928,1152 998,1152 1069,1150 1139,1151 1210,1150 1280,1150 1351,1150 1421,1150 1492,1151 1562,1149 1633,1148 1633,1096 1562,1097 1492,1099 1421,1098 1351,1098 1280,1098 1210,1098 1139,1099 1069,1098 998,1100 928,1100 857,1100 787,1098 716,1098 646,1100 575,1098 505,1098 434,1098 364,1098 293,1100 223,1104"/>
+                <Baseline points="223,1139 293,1135 364,1133 434,1133 505,1133 575,1133 646,1135 716,1133 787,1133 857,1135 928,1135 998,1135 1069,1133 1139,1134 1210,1133 1280,1133 1351,1133 1421,1133 1492,1134 1562,1132 1633,1131"/>
+                <TextEquiv>
+                    <Unicode>e concessione al lavoro di poesia, l'invenzione dei motivi e delle scene, e il movimento del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:10;}">
+                <Coords points="221,1228 290,1230 360,1230 430,1232 500,1231 570,1228 640,1228 710,1226 780,1226 850,1226 920,1227 989,1228 1059,1228 1129,1227 1199,1228 1269,1226 1339,1230 1409,1229 1479,1228 1549,1226 1619,1228 1619,1176 1549,1174 1479,1176 1409,1177 1339,1178 1269,1174 1199,1176 1129,1175 1059,1176 989,1176 920,1175 850,1174 780,1174 710,1174 640,1176 570,1176 500,1179 430,1180 360,1178 290,1178 221,1176"/>
+                <Baseline points="221,1211 290,1213 360,1213 430,1215 500,1214 570,1211 640,1211 710,1209 780,1209 850,1209 920,1210 989,1211 1059,1211 1129,1210 1199,1211 1269,1209 1339,1213 1409,1212 1479,1211 1549,1209 1619,1211"/>
+                <TextEquiv>
+                    <Unicode>discorso dei personaggi, che si prestano ad agire e quasi a recitare su di una scena ideale e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:11;}">
+                <Coords points="213,1306 271,1304 329,1304 387,1304 445,1302 504,1302 562,1302 620,1300 678,1300 736,1303 795,1301 853,1301 911,1302 969,1301 1027,1301 1086,1300 1144,1300 1202,1300 1260,1304 1318,1304 1377,1302 1377,1250 1318,1252 1260,1252 1202,1248 1144,1248 1086,1248 1027,1249 969,1249 911,1250 853,1249 795,1249 736,1251 678,1248 620,1248 562,1250 504,1250 445,1250 387,1252 329,1252 271,1252 213,1254"/>
+                <Baseline points="213,1289 271,1287 329,1287 387,1287 445,1285 504,1285 562,1285 620,1283 678,1283 736,1286 795,1284 853,1284 911,1285 969,1284 1027,1284 1086,1283 1144,1283 1202,1283 1260,1287 1318,1287 1377,1285"/>
+                <TextEquiv>
+                    <Unicode>metafisica. Così il Colombo, e il suo compagno Gutierrez di questo dialogo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:12;}">
+                <Coords points="219,1378 289,1378 359,1378 429,1376 499,1375 570,1376 640,1376 710,1378 780,1379 850,1378 921,1380 991,1381 1061,1380 1131,1380 1201,1378 1272,1378 1342,1380 1412,1380 1482,1378 1552,1379 1623,1384 1623,1332 1552,1327 1482,1326 1412,1328 1342,1328 1272,1326 1201,1326 1131,1328 1061,1328 991,1329 921,1328 850,1326 780,1327 710,1326 640,1324 570,1324 499,1323 429,1324 359,1326 289,1326 219,1326"/>
+                <Baseline points="219,1361 289,1361 359,1361 429,1359 499,1358 570,1359 640,1359 710,1361 780,1362 850,1361 921,1363 991,1364 1061,1363 1131,1363 1201,1361 1272,1361 1342,1363 1412,1363 1482,1361 1552,1362 1623,1367"/>
+                <TextEquiv>
+                    <Unicode>Parlano e argomentano, divagano, parlano ancora. Come i protagonisti di un melodramma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:13;}">
+                <Coords points="213,1458 283,1454 354,1455 424,1456 495,1456 565,1455 636,1454 706,1457 777,1454 847,1454 918,1455 988,1458 1059,1454 1129,1455 1200,1454 1270,1454 1341,1455 1411,1452 1482,1454 1552,1454 1623,1458 1623,1406 1552,1402 1482,1402 1411,1400 1341,1403 1270,1402 1200,1402 1129,1403 1059,1402 988,1406 918,1403 847,1402 777,1402 706,1405 636,1402 565,1403 495,1404 424,1404 354,1403 283,1402 213,1406"/>
+                <Baseline points="213,1441 283,1437 354,1438 424,1439 495,1439 565,1438 636,1437 706,1440 777,1437 847,1437 918,1438 988,1441 1059,1437 1129,1438 1200,1437 1270,1437 1341,1438 1411,1435 1482,1437 1552,1437 1623,1441"/>
+                <TextEquiv>
+                    <Unicode>romantico. Quasi sempre i Dialoghi leopardiani, in quanto potenziali "operette" sceniche, sono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:14;} gap {offset:90; length:0; continued:true;}">
+                <Coords points="207,1536 278,1534 350,1534 421,1534 493,1534 564,1532 636,1531 707,1530 779,1531 850,1530 922,1534 993,1534 1065,1534 1136,1533 1208,1531 1279,1528 1351,1528 1422,1526 1494,1527 1565,1527 1637,1534 1637,1482 1565,1475 1494,1475 1422,1474 1351,1476 1279,1476 1208,1479 1136,1481 1065,1482 993,1482 922,1482 850,1478 779,1479 707,1478 636,1479 564,1480 493,1482 421,1482 350,1482 278,1482 207,1484"/>
+                <Baseline points="207,1519 278,1517 350,1517 421,1517 493,1517 564,1515 636,1514 707,1513 779,1514 850,1513 922,1517 993,1517 1065,1517 1136,1516 1208,1514 1279,1511 1351,1511 1422,1509 1494,1510 1565,1510 1637,1517"/>
+                <TextEquiv>
+                    <Unicode>degli atti eroici. I due navigatori discorrono, di sera, appoggiati ai bordi della nave. "Colom-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:15;} gap {offset:0; length:0; continued:true;} hi {offset:24; length:9;rend:underline;}">
+                <Coords points="211,1616 280,1610 350,1610 420,1608 489,1606 559,1607 629,1607 698,1604 768,1606 838,1604 908,1602 977,1602 1047,1602 1117,1602 1186,1602 1256,1602 1326,1602 1395,1602 1465,1603 1535,1603 1605,1604 1605,1552 1535,1551 1465,1551 1395,1550 1326,1550 1256,1550 1186,1550 1117,1550 1047,1550 977,1550 908,1550 838,1552 768,1554 698,1552 629,1555 559,1555 489,1554 420,1556 350,1558 280,1558 211,1564"/>
+                <Baseline points="211,1599 280,1593 350,1593 420,1591 489,1589 559,1590 629,1590 698,1587 768,1589 838,1587 908,1585 977,1585 1047,1585 1117,1585 1186,1585 1256,1585 1326,1585 1395,1585 1465,1586 1535,1586 1605,1587"/>
+                <TextEquiv>
+                    <Unicode>bo. Bella notte, amico. Gutierrez. Bella in verità: e credo che a vederla da tona, sarebbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:16;} hi {offset:11; length:7;rend:underline;} hi {offset:65; length:9;rend:underline;}">
+                <Coords points="215,1690 285,1687 356,1684 426,1678 497,1679 567,1679 638,1680 708,1680 779,1678 849,1678 920,1678 990,1680 1061,1678 1131,1680 1202,1680 1272,1682 1343,1682 1413,1680 1484,1680 1554,1680 1625,1680 1625,1628 1554,1628 1484,1628 1413,1628 1343,1630 1272,1630 1202,1628 1131,1628 1061,1626 990,1628 920,1626 849,1626 779,1626 708,1628 638,1628 567,1627 497,1627 426,1626 356,1632 285,1635 215,1638"/>
+                <Baseline points="215,1673 285,1670 356,1667 426,1661 497,1662 567,1662 638,1663 708,1663 779,1661 849,1661 920,1661 990,1663 1061,1661 1131,1663 1202,1663 1272,1665 1343,1665 1413,1663 1484,1663 1554,1663 1625,1663"/>
+                <TextEquiv>
+                    <Unicode>più bella. Colombo. Benissimo: anche tu sei stanco del navigare. Gutierrez. Non del navigare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:17;}">
+                <Coords points="213,1766 283,1764 353,1764 423,1766 493,1763 564,1762 634,1762 704,1762 774,1760 844,1762 915,1760 985,1762 1055,1758 1125,1760 1195,1756 1266,1758 1336,1757 1406,1758 1476,1758 1546,1759 1617,1760 1617,1708 1546,1707 1476,1706 1406,1706 1336,1705 1266,1706 1195,1704 1125,1708 1055,1706 985,1710 915,1708 844,1710 774,1708 704,1710 634,1710 564,1710 493,1711 423,1714 353,1712 283,1712 213,1714"/>
+                <Baseline points="213,1749 283,1747 353,1747 423,1749 493,1746 564,1745 634,1745 704,1745 774,1743 844,1745 915,1743 985,1745 1055,1741 1125,1743 1195,1739 1266,1741 1336,1740 1406,1741 1476,1741 1546,1742 1617,1743"/>
+                <TextEquiv>
+                    <Unicode>in ogni modo; ma questa navigazione mi riesce più lunga che io non avevo creduto, e mi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:18;}">
+                <Coords points="205,1840 276,1840 348,1838 420,1838 491,1834 563,1838 635,1836 706,1835 778,1836 850,1835 922,1838 993,1835 1065,1834 1137,1834 1208,1832 1280,1830 1352,1832 1423,1832 1495,1834 1567,1838 1639,1842 1639,1790 1567,1786 1495,1782 1423,1780 1352,1780 1280,1778 1208,1780 1137,1782 1065,1782 993,1783 922,1786 850,1783 778,1784 706,1783 635,1784 563,1786 491,1782 420,1786 348,1786 276,1788 205,1788"/>
+                <Baseline points="205,1823 276,1823 348,1821 420,1821 491,1817 563,1821 635,1819 706,1818 778,1819 850,1818 922,1821 993,1818 1065,1817 1137,1817 1208,1815 1280,1813 1352,1815 1423,1815 1495,1817 1567,1821 1639,1825"/>
+                <TextEquiv>
+                    <Unicode>dà un poco di noia... " Gutierrez, in sostanza, confessa al navigatore i suoi dubbi sull'impresa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:19;}">
+                <Coords points="221,1914 292,1914 363,1912 434,1912 505,1910 576,1912 647,1912 718,1910 789,1909 860,1910 931,1910 1002,1908 1073,1908 1144,1906 1215,1908 1286,1904 1357,1907 1428,1908 1499,1909 1570,1910 1641,1912 1641,1860 1570,1858 1499,1857 1428,1856 1357,1855 1286,1852 1215,1856 1144,1854 1073,1856 1002,1856 931,1858 860,1858 789,1857 718,1858 647,1860 576,1860 505,1858 434,1860 363,1860 292,1862 221,1862"/>
+                <Baseline points="221,1897 292,1897 363,1895 434,1895 505,1893 576,1895 647,1895 718,1893 789,1892 860,1893 931,1893 1002,1891 1073,1891 1144,1889 1215,1891 1286,1887 1357,1890 1428,1891 1499,1892 1570,1893 1641,1895"/>
+                <TextEquiv>
+                    <Unicode>Quand'è che si scorgerà il primo lembo di questa nuova terra? Sorgono le albe, l'una dietro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:20;}">
+                <Coords points="207,1987 278,1989 350,1989 422,1989 494,1989 566,1989 638,1987 710,1988 782,1987 854,1985 926,1985 997,1985 1069,1987 1141,1985 1213,1986 1285,1989 1357,1985 1429,1985 1501,1987 1573,1987 1645,1991 1645,1937 1573,1933 1501,1933 1429,1931 1357,1931 1285,1935 1213,1932 1141,1931 1069,1933 997,1931 926,1931 854,1931 782,1933 710,1934 638,1933 566,1935 494,1935 422,1935 350,1935 278,1935 207,1933"/>
+                <Baseline points="207,1969 278,1971 350,1971 422,1971 494,1971 566,1971 638,1969 710,1970 782,1969 854,1967 926,1967 997,1967 1069,1969 1141,1967 1213,1968 1285,1971 1357,1967 1429,1967 1501,1969 1573,1969 1645,1973"/>
+                <TextEquiv>
+                    <Unicode>l'alba e nel silenzio misterioso dell'Oceano l'occhio non scorge che l'infinito del mare Colom-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>cosa ci riserba il tempo che viene. Anche in questo, come in quasi tutti i Dialoghi delle Operette&#13;
+morali, si direbbe che Leopardi ha inteso di immettere, nel tessuto narrativo, una         &#13;
+di pensiero e di movimento autobiografico, modellandola, dilatandola su di una lunga li-&#13;
+nea di accompagnamento, per così dire, musicale. Ed è solo la particolare musica e&#13;
+melodia, la cadenza e il ritmo di Leopardi cava, come si cava un respiro dal petto, dalla&#13;
+pia mente. Pare incredibile, ma è proprio a codesta "musica", fatta solo di parole abbassate di&#13;
+tono, e legata ad un genere di semplice e casta sintassi, che Leopardi affida, non solo la&#13;
+malinconia lucida dell'animo, ma proprio i motivi del suo pensiero. Che è, naturalmente, un&#13;
+pensiero costante e fermo di sfiducia nelle azioni e nelle opere umane. Unico compiacimento,&#13;
+e concessione al lavoro di poesia, l'invenzione dei motivi e delle scene, e il movimento del&#13;
+discorso dei personaggi, che si prestano ad agire e quasi a recitare su di una scena ideale e&#13;
+metafisica. Così il Colombo, e il suo compagno Gutierrez di questo dialogo.&#13;
+Parlano e argomentano, divagano, parlano ancora. Come i protagonisti di un melodramma&#13;
+romantico. Quasi sempre i Dialoghi leopardiani, in quanto potenziali "operette" sceniche, sono&#13;
+degli atti eroici. I due navigatori discorrono, di sera, appoggiati ai bordi della nave. "Colom-&#13;
+bo. Bella notte, amico. Gutierrez. Bella in verità: e credo che a vederla da tona, sarebbe&#13;
+più bella. Colombo. Benissimo: anche tu sei stanco del navigare. Gutierrez. Non del navigare&#13;
+in ogni modo; ma questa navigazione mi riesce più lunga che io non avevo creduto, e mi&#13;
+dà un poco di noia... " Gutierrez, in sostanza, confessa al navigatore i suoi dubbi sull'impresa.&#13;
+Quand'è che si scorgerà il primo lembo di questa nuova terra? Sorgono le albe, l'una dietro&#13;
+l'alba e nel silenzio misterioso dell'Oceano l'occhio non scorge che l'infinito del mare Colom-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

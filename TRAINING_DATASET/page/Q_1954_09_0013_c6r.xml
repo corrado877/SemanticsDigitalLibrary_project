@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:14:14.174+02:00</Created>
+        <LastChange>2024-06-21T09:57:03.767+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326031" pageNr="81" tsid="175602724" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=NYQYMFOEZMQKYVJSZOESXKZY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VUUPNMVURUOAWRIIMXSXMSVV" imageId="54294244"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_09_0013_c6r.jpg" imageWidth="1798" imageHeight="2383" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746072988" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1713888781074_406"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1713888781074_406" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="172,288 248,288 248,366 172,366"/>
+            <TextLine id="line_1713888786514_409" custom="readingOrder {index:0;}">
+                <Coords points="177,302 241,302 241,352 177,352"/>
+                <Baseline points="177,347 241,347"/>
+                <TextEquiv>
+                    <Unicode>6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>6.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="133,403 135,2073 1619,2073 1617,403"/>
+            <TextLine id="line_1713888856577_424" custom="readingOrder {index:0;}">
+                <Coords points="170,478 602,483 601,533 169,528"/>
+                <Baseline points="169,523 601,528"/>
+                <TextEquiv>
+                    <Unicode>subito del verde delle siepi, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713888860335_429" custom="readingOrder {index:1;} add {offset:0; length:1;place:above;}">
+                <Coords points="617,435 637,440 625,489 605,484"/>
+                <Baseline points="606,479 626,484"/>
+                <TextEquiv>
+                    <Unicode>e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713888874076_434" custom="readingOrder {index:2;} gap {offset:29; length:0;quantity:10; unit:10; reason:illegible;}">
+                <Coords points="623,476 1566,467 1566,517 623,526"/>
+                <Baseline points="623,521 1566,512"/>
+                <TextEquiv>
+                    <Unicode>degli orti. Orti e coltivati           , premevano sul giro delle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:3;}">
+                <Coords points="173,608 242,606 311,604 381,605 450,604 520,604 589,606 658,602 728,602 797,601 867,600 936,598 1005,599 1075,596 1144,592 1214,593 1283,591 1352,588 1422,590 1491,589 1561,588 1561,543 1491,544 1422,545 1352,543 1283,546 1214,548 1144,547 1075,551 1005,554 936,553 867,555 797,556 728,557 658,557 589,561 520,559 450,559 381,560 311,559 242,561 173,563"/>
+                <Baseline points="173,593 242,591 311,589 381,590 450,589 520,589 589,591 658,587 728,587 797,586 867,585 936,583 1005,584 1075,581 1144,577 1214,578 1283,576 1352,573 1422,575 1491,574 1561,573"/>
+                <TextEquiv>
+                    <Unicode>Mura. Ancora rimangono, perse tra le nuove costruzioni, traccie di codesto tempo, e delle sue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:4;}">
+                <Coords points="167,686 239,683 311,682 383,676 455,675 527,674 599,675 671,674 743,672 815,673 888,674 960,670 1032,670 1104,668 1176,670 1248,668 1320,666 1392,668 1464,668 1536,667 1609,672 1609,627 1536,622 1464,623 1392,623 1320,621 1248,623 1176,625 1104,623 1032,625 960,625 888,629 815,628 743,627 671,629 599,630 527,629 455,630 383,631 311,637 239,638 167,641"/>
+                <Baseline points="167,671 239,668 311,667 383,661 455,660 527,659 599,660 671,659 743,657 815,658 888,659 960,655 1032,655 1104,653 1176,655 1248,653 1320,651 1392,653 1464,653 1536,652 1609,657"/>
+                <TextEquiv>
+                    <Unicode>case così cariche del significato della terra e dei suoi abitatori. E la traccia è rappresenta-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:5;}">
+                <Coords points="163,766 235,760 307,758 379,756 451,755 524,756 596,752 668,751 740,748 812,748 885,748 957,748 1029,744 1101,744 1173,743 1246,742 1318,747 1390,742 1462,744 1534,742 1607,754 1607,709 1534,697 1462,699 1390,697 1318,702 1246,697 1173,698 1101,699 1029,699 957,703 885,703 812,703 740,703 668,706 596,707 524,711 451,710 379,711 307,713 235,715 163,721"/>
+                <Baseline points="163,751 235,745 307,743 379,741 451,740 524,741 596,737 668,736 740,733 812,733 885,733 957,733 1029,729 1101,729 1173,728 1246,727 1318,732 1390,727 1462,729 1534,727 1607,739"/>
+                <TextEquiv>
+                    <Unicode>ta in due diversi modi. Dalle basse, tozze case, tinte di rosso carota, di giallo pannocchia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:6;}">
+                <Coords points="135,842 205,835 276,831 346,830 417,829 488,830 558,828 629,827 699,827 770,826 841,826 911,824 982,822 1052,821 1123,822 1194,822 1264,821 1335,818 1405,817 1476,816 1547,818 1547,773 1476,771 1405,772 1335,773 1264,776 1194,777 1123,777 1052,776 982,777 911,779 841,781 770,781 699,782 629,782 558,783 488,785 417,784 346,785 276,786 205,790 135,797"/>
+                <Baseline points="135,827 205,820 276,816 346,815 417,814 488,815 558,813 629,812 699,812 770,811 841,811 911,809 982,807 1052,806 1123,807 1194,807 1264,806 1335,803 1405,802 1476,801 1547,803"/>
+                <TextEquiv>
+                    <Unicode>coi loro intonachi scorticati, come di cuoi spelati e crepati, che più tengono delle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:7;}">
+                <Coords points="175,905 246,905 317,904 388,902 460,901 531,902 602,900 674,897 745,897 816,895 888,895 959,893 1030,891 1101,891 1173,891 1244,889 1315,890 1387,887 1458,889 1529,889 1601,887 1601,857 1529,859 1458,859 1387,857 1315,860 1244,859 1173,861 1101,861 1030,861 959,863 888,865 816,865 745,867 674,867 602,870 531,872 460,871 388,872 317,874 246,875 175,875"/>
+                <Baseline points="175,895 246,895 317,894 388,892 460,891 531,892 602,890 674,887 745,887 816,885 888,885 959,883 1030,881 1101,881 1173,881 1244,879 1315,880 1387,877 1458,879 1529,879 1601,877"/>
+                <TextEquiv>
+                    <Unicode>case di campagna e di pianura.             coloniche con il muro di cinta rico-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713889751306_500" custom="readingOrder {index:8;}">
+                <Coords points="179,939 1104,930 1104,980 179,989"/>
+                <Baseline points="179,984 1104,975"/>
+                <TextEquiv>
+                    <Unicode>perto di rampicanti a foglie dense e rimpolverate, degne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:9;}">
+                <Coords points="1089,933 1116,934 1143,934 1171,933 1198,933 1225,931 1253,929 1253,899 1225,901 1198,903 1171,903 1143,904 1116,904 1089,903"/>
+                <Baseline points="1089,923 1116,924 1143,924 1171,923 1198,923 1225,921 1253,919"/>
+                <TextEquiv>
+                    <Unicode>compagne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713889758026_505" custom="readingOrder {index:10;} del {offset:1; length:7;rend:overstriked;}">
+                <Coords points="1127,925 1599,923 1599,973 1127,975"/>
+                <Baseline points="1127,970 1599,968"/>
+                <TextEquiv>
+                    <Unicode>         di tutte quelle seminate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713889763782_510" custom="readingOrder {index:11;}">
+                <Coords points="187,1002 467,1011 466,1061 186,1052"/>
+                <Baseline points="186,1047 466,1056"/>
+                <TextEquiv>
+                    <Unicode>nelle campagne,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:12;}">
+                <Coords points="397,1013 422,1013 447,1013 472,1013 497,1013 497,983 472,983 447,983 422,983 397,983"/>
+                <Baseline points="397,1003 422,1003 447,1003 472,1003 497,1003"/>
+                <TextEquiv>
+                    <Unicode>sepolte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713889769254_515" custom="readingOrder {index:13;}">
+                <Coords points="486,1002 1610,1000 1610,1050 486,1052"/>
+                <Baseline points="486,1047 1610,1045"/>
+                <TextEquiv>
+                    <Unicode> ai bordi delle coltivazioni di grano e di canapa. Ma c’è altro. Basta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:14;}">
+                <Coords points="169,1136 239,1134 309,1134 379,1132 449,1132 520,1130 590,1130 660,1128 730,1128 800,1128 871,1128 941,1126 1011,1127 1081,1124 1151,1122 1222,1123 1292,1123 1362,1120 1432,1120 1502,1120 1573,1118 1573,1073 1502,1075 1432,1075 1362,1075 1292,1078 1222,1078 1151,1077 1081,1079 1011,1082 941,1081 871,1083 800,1083 730,1083 660,1083 590,1085 520,1085 449,1087 379,1087 309,1089 239,1089 169,1091"/>
+                <Baseline points="169,1121 239,1119 309,1119 379,1117 449,1117 520,1115 590,1115 660,1113 730,1113 800,1113 871,1113 941,1111 1011,1112 1081,1109 1151,1107 1222,1108 1292,1108 1362,1105 1432,1105 1502,1105 1573,1103"/>
+                <TextEquiv>
+                    <Unicode>riandare con la memoria al quartiere dei mulini, delle concerie di pelli, ora in parte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:15;}">
+                <Coords points="169,1208 241,1209 313,1212 385,1208 457,1205 529,1206 601,1206 673,1206 745,1204 817,1201 889,1200 961,1201 1033,1200 1105,1198 1177,1197 1249,1198 1321,1196 1393,1196 1465,1196 1537,1197 1609,1198 1609,1153 1537,1152 1465,1151 1393,1151 1321,1151 1249,1153 1177,1152 1105,1153 1033,1155 961,1156 889,1155 817,1156 745,1159 673,1161 601,1161 529,1161 457,1160 385,1163 313,1167 241,1164 169,1163"/>
+                <Baseline points="169,1193 241,1194 313,1197 385,1193 457,1190 529,1191 601,1191 673,1191 745,1189 817,1186 889,1185 961,1186 1033,1185 1105,1183 1177,1182 1249,1183 1321,1181 1393,1181 1465,1181 1537,1182 1609,1183"/>
+                <TextEquiv>
+                    <Unicode>demolito, tra il canale di Reno e il canale Naviglio: in via del Porto, in via Azzo Gardino. Sono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:16;}">
+                <Coords points="165,1288 237,1288 309,1286 381,1284 453,1283 526,1282 598,1280 670,1281 742,1280 814,1279 887,1278 959,1280 1031,1276 1103,1274 1175,1274 1248,1274 1320,1273 1392,1272 1464,1272 1536,1272 1609,1276 1609,1231 1536,1227 1464,1227 1392,1227 1320,1228 1248,1229 1175,1229 1103,1229 1031,1231 959,1235 887,1233 814,1234 742,1235 670,1236 598,1235 526,1237 453,1238 381,1239 309,1241 237,1243 165,1243"/>
+                <Baseline points="165,1273 237,1273 309,1271 381,1269 453,1268 526,1267 598,1265 670,1266 742,1265 814,1264 887,1263 959,1265 1031,1261 1103,1259 1175,1259 1248,1259 1320,1258 1392,1257 1464,1257 1536,1257 1609,1261"/>
+                <TextEquiv>
+                    <Unicode>casamenti alti, di cupo mattone mangiato dall’umidità del canale. Visti all’improvviso, sem-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:17;}">
+                <Coords points="171,1364 243,1360 315,1360 388,1360 460,1358 533,1358 605,1356 677,1357 750,1356 822,1355 895,1352 967,1352 1039,1351 1112,1350 1184,1349 1257,1350 1329,1346 1401,1346 1474,1346 1546,1346 1619,1350 1619,1305 1546,1301 1474,1301 1401,1301 1329,1301 1257,1305 1184,1304 1112,1305 1039,1306 967,1307 895,1307 822,1310 750,1311 677,1312 605,1311 533,1313 460,1313 388,1315 315,1315 243,1315 171,1319"/>
+                <Baseline points="171,1349 243,1345 315,1345 388,1345 460,1343 533,1343 605,1341 677,1342 750,1341 822,1340 895,1337 967,1337 1039,1336 1112,1335 1184,1334 1257,1335 1329,1331 1401,1331 1474,1331 1546,1331 1619,1335"/>
+                <TextEquiv>
+                    <Unicode>brano le case alte e dirupate d’Appennino, colorate sul fiume, quasi a contenere le acque nelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:18;}">
+                <Coords points="169,1442 239,1438 310,1436 381,1436 452,1434 523,1434 593,1432 664,1431 735,1430 806,1430 877,1429 947,1427 1018,1426 1089,1426 1160,1424 1231,1424 1301,1422 1372,1420 1443,1420 1514,1422 1585,1424 1585,1379 1514,1377 1443,1375 1372,1375 1301,1377 1231,1379 1160,1379 1089,1381 1018,1381 947,1382 877,1384 806,1385 735,1385 664,1386 593,1387 523,1389 452,1389 381,1391 310,1391 239,1393 169,1397"/>
+                <Baseline points="169,1427 239,1423 310,1421 381,1421 452,1419 523,1419 593,1417 664,1416 735,1415 806,1415 877,1414 947,1412 1018,1411 1089,1411 1160,1409 1231,1409 1301,1407 1372,1405 1443,1405 1514,1407 1585,1409"/>
+                <TextEquiv>
+                    <Unicode>stagioni delle piogge. Come case ricavate dal sasso. Su tali costruzioni, insolite alla pianura, già</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:19;}">
+                <Coords points="161,1518 232,1514 304,1512 376,1510 447,1510 519,1508 591,1508 662,1508 734,1506 806,1504 878,1504 949,1502 1021,1502 1093,1501 1164,1500 1236,1500 1308,1499 1379,1496 1451,1498 1523,1498 1595,1500 1595,1455 1523,1453 1451,1453 1379,1451 1308,1454 1236,1455 1164,1455 1093,1456 1021,1457 949,1457 878,1459 806,1459 734,1461 662,1463 591,1463 519,1463 447,1465 376,1465 304,1467 232,1469 161,1473"/>
+                <Baseline points="161,1503 232,1499 304,1497 376,1495 447,1495 519,1493 591,1493 662,1493 734,1491 806,1489 878,1489 949,1487 1021,1487 1093,1486 1164,1485 1236,1485 1308,1484 1379,1481 1451,1483 1523,1483 1595,1485"/>
+                <TextEquiv>
+                    <Unicode>altissime, sovrastano torricelle e alture, dove asciugare le pelli e i sacchi di tela al sole. Sotto di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:20;}">
+                <Coords points="171,1595 242,1590 314,1587 385,1586 457,1585 528,1586 600,1582 671,1582 743,1582 814,1583 886,1580 957,1580 1029,1578 1100,1576 1172,1578 1243,1578 1315,1578 1386,1577 1458,1576 1529,1580 1601,1578 1601,1533 1529,1535 1458,1531 1386,1532 1315,1533 1243,1533 1172,1533 1100,1531 1029,1533 957,1535 886,1535 814,1538 743,1537 671,1537 600,1537 528,1541 457,1540 385,1541 314,1542 242,1545 171,1550"/>
+                <Baseline points="171,1580 242,1575 314,1572 385,1571 457,1570 528,1571 600,1567 671,1567 743,1567 814,1568 886,1565 957,1565 1029,1563 1100,1561 1172,1563 1243,1563 1315,1563 1386,1562 1458,1561 1529,1565 1601,1563"/>
+                <TextEquiv>
+                    <Unicode>loro, e dentro di loro, in cunicoli e canaletti corrono precipitose le acque, in un musicale, assorto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:21;} gap {offset:49; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="183,1676 253,1667 323,1664 393,1662 464,1660 534,1658 604,1658 675,1658 745,1658 815,1661 886,1657 956,1656 1026,1654 1096,1653 1167,1652 1237,1652 1307,1652 1378,1650 1448,1651 1518,1650 1589,1650 1589,1605 1518,1605 1448,1606 1378,1605 1307,1607 1237,1607 1167,1607 1096,1608 1026,1609 956,1611 886,1612 815,1616 745,1613 675,1613 604,1613 534,1613 464,1615 393,1617 323,1619 253,1622 183,1631"/>
+                <Baseline points="183,1661 253,1652 323,1649 393,1647 464,1645 534,1643 604,1643 675,1643 745,1643 815,1646 886,1642 956,1641 1026,1639 1096,1638 1167,1637 1237,1637 1307,1637 1378,1635 1448,1636 1518,1635 1589,1635"/>
+                <TextEquiv>
+                    <Unicode>fragore di montagna. Nelle notti serene, la luna         nei trafori delle terrazze e le stelle sono di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:22;}">
+                <Coords points="175,1750 207,1744 239,1742 271,1741 303,1740 336,1740 368,1736 400,1736 432,1736 464,1736 497,1735 529,1734 561,1734 593,1735 625,1735 658,1734 690,1734 722,1734 754,1732 786,1734 819,1738 819,1693 786,1689 754,1687 722,1689 690,1689 658,1689 625,1690 593,1690 561,1689 529,1689 497,1690 464,1691 432,1691 400,1691 368,1691 336,1695 303,1695 271,1696 239,1697 207,1699 175,1705"/>
+                <Baseline points="175,1735 207,1729 239,1727 271,1726 303,1725 336,1725 368,1721 400,1721 432,1721 464,1721 497,1720 529,1719 561,1719 593,1720 625,1720 658,1719 690,1719 722,1719 754,1717 786,1719 819,1723"/>
+                <TextEquiv>
+                    <Unicode>diamante come sulle alture appenniniche.&lt;lb/&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:23;}">
+                <Coords points="173,1820 244,1818 315,1816 386,1816 458,1816 529,1814 600,1813 672,1812 743,1811 814,1810 886,1810 957,1808 1028,1806 1099,1804 1171,1803 1242,1802 1313,1803 1385,1802 1456,1804 1527,1801 1599,1808 1599,1763 1527,1756 1456,1759 1385,1757 1313,1758 1242,1757 1171,1758 1099,1759 1028,1761 957,1763 886,1765 814,1765 743,1766 672,1767 600,1768 529,1769 458,1771 386,1771 315,1771 244,1773 173,1775"/>
+                <Baseline points="173,1805 244,1803 315,1801 386,1801 458,1801 529,1799 600,1798 672,1797 743,1796 814,1795 886,1795 957,1793 1028,1791 1099,1789 1171,1788 1242,1787 1313,1788 1385,1787 1456,1789 1527,1786 1599,1793"/>
+                <TextEquiv>
+                    <Unicode>Così Bologna e l’Emilia accoglie ancora i segni materiali della vita di uomini, destinati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:24;}">
+                <Coords points="173,1889 244,1885 315,1885 386,1884 458,1883 529,1881 600,1881 672,1881 743,1880 814,1879 886,1881 957,1879 1028,1877 1099,1876 1171,1875 1242,1875 1313,1872 1385,1871 1456,1871 1527,1870 1599,1875 1599,1845 1527,1840 1456,1841 1385,1841 1313,1842 1242,1845 1171,1845 1099,1846 1028,1847 957,1849 886,1851 814,1849 743,1850 672,1851 600,1851 529,1851 458,1853 386,1854 315,1855 244,1855 173,1859"/>
+                <Baseline points="173,1879 244,1875 315,1875 386,1874 458,1873 529,1871 600,1871 672,1871 743,1870 814,1869 886,1871 957,1869 1028,1867 1099,1866 1171,1865 1242,1865 1313,1862 1385,1861 1456,1861 1527,1860 1599,1865"/>
+                <TextEquiv>
+                    <Unicode>ai lavori antichi della terra, tra la pianura e la montagna. Passano gli uomini, di generazione in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713890464026_581" custom="readingOrder {index:25;}">
+                <Coords points="188,1916 1503,1905 1503,1955 188,1966"/>
+                <Baseline points="188,1961 1503,1950"/>
+                <TextEquiv>
+                    <Unicode>generazione e di loro non resta che il ricordo palpabile e severo, sui muri, sulle pietre </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:26;}">
+                <Coords points="1395,1903 1424,1901 1454,1901 1483,1901 1513,1901 1543,1905 1543,1875 1513,1871 1483,1871 1454,1871 1424,1871 1395,1873"/>
+                <Baseline points="1395,1893 1424,1891 1454,1891 1483,1891 1513,1891 1543,1895"/>
+                <TextEquiv>
+                    <Unicode>sulle travi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713890470983_586" custom="readingOrder {index:27;}">
+                <Coords points="1515,1901 1608,1905 1606,1955 1513,1951"/>
+                <Baseline points="1513,1946 1606,1950"/>
+                <TextEquiv>
+                    <Unicode>di case</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:28;}">
+                <Coords points="183,2044 208,2046 234,2046 260,2046 285,2045 311,2042 337,2042 337,1997 311,1997 285,2000 260,2001 234,2001 208,2001 183,1999"/>
+                <Baseline points="183,2029 208,2031 234,2031 260,2031 285,2030 311,2027 337,2027"/>
+                <TextEquiv>
+                    <Unicode>e di case</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>subito del verde delle siepi, &#13;
+e&#13;
+degli orti. Orti e coltivati           , premevano sul giro delle&#13;
+Mura. Ancora rimangono, perse tra le nuove costruzioni, traccie di codesto tempo, e delle sue&#13;
+case così cariche del significato della terra e dei suoi abitatori. E la traccia è rappresenta-&#13;
+ta in due diversi modi. Dalle basse, tozze case, tinte di rosso carota, di giallo pannocchia,&#13;
+coi loro intonachi scorticati, come di cuoi spelati e crepati, che più tengono delle&#13;
+case di campagna e di pianura.             coloniche con il muro di cinta rico-&#13;
+perto di rampicanti a foglie dense e rimpolverate, degne&#13;
+compagne&#13;
+         di tutte quelle seminate&#13;
+nelle campagne,&#13;
+sepolte&#13;
+ ai bordi delle coltivazioni di grano e di canapa. Ma c’è altro. Basta&#13;
+riandare con la memoria al quartiere dei mulini, delle concerie di pelli, ora in parte&#13;
+demolito, tra il canale di Reno e il canale Naviglio: in via del Porto, in via Azzo Gardino. Sono&#13;
+casamenti alti, di cupo mattone mangiato dall’umidità del canale. Visti all’improvviso, sem-&#13;
+brano le case alte e dirupate d’Appennino, colorate sul fiume, quasi a contenere le acque nelle&#13;
+stagioni delle piogge. Come case ricavate dal sasso. Su tali costruzioni, insolite alla pianura, già&#13;
+altissime, sovrastano torricelle e alture, dove asciugare le pelli e i sacchi di tela al sole. Sotto di&#13;
+loro, e dentro di loro, in cunicoli e canaletti corrono precipitose le acque, in un musicale, assorto&#13;
+fragore di montagna. Nelle notti serene, la luna         nei trafori delle terrazze e le stelle sono di&#13;
+diamante come sulle alture appenniniche.&lt;lb/&gt;&#13;
+Così Bologna e l’Emilia accoglie ancora i segni materiali della vita di uomini, destinati&#13;
+ai lavori antichi della terra, tra la pianura e la montagna. Passano gli uomini, di generazione in&#13;
+generazione e di loro non resta che il ricordo palpabile e severo, sui muri, sulle pietre &#13;
+sulle travi&#13;
+di case&#13;
+e di case</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

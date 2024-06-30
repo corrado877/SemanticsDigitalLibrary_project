@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:59:34.757+01:00</Created>
+        <LastChange>2024-06-20T11:18:04.332+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325490" pageNr="26" tsid="175603501" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=HTGSNDOKFRNXYKRMKJRBLETO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JVGPNJKBIPMUIPWGTCRCLFIP" imageId="53902845"/>
+    </Metadata>
+    <Page imageFilename="Q_1960_16_0001_piatto_ant_r.jpg" imageWidth="1798" imageHeight="2473" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746062226" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718547809163_23"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="heading" id="region_1718547809163_23" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="824,723 318,723 318,470 824,470"/>
+            <TextLine id="line_1718547855139_35" custom="readingOrder {index:0;} person {offset:1; length:11;occupation:poet; firstname:Guillaume; dateOfDeath:9\u0020November\u00201918; dateOfBirth:26\u0020August\u00201880; lastname:Apollinaire;}">
+                <Coords points="377,478 459,475 490,474 550,479 602,479 634,479 673,479 713,479 713,529 673,529 634,529 602,529 548,529 489,524 461,525 379,528"/>
+                <Baseline points="379,523 461,520 489,519 548,524 602,524 634,524 673,524 713,524"/>
+                <TextEquiv>
+                    <Unicode> Apollinaire e le </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718547877644_45" custom="readingOrder {index:1;}">
+                <Coords points="345,530 396,531 444,532 484,529 533,528 558,527 593,527 639,526 675,526 702,530 704,530 704,580 699,580 672,576 639,576 593,577 559,577 534,578 486,579 445,582 395,581 344,580"/>
+                <Baseline points="344,575 395,576 445,577 486,574 534,573 559,572 593,572 639,571 672,571 699,575 704,575"/>
+                <TextEquiv>
+                    <Unicode>arti figurative</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718547903316_50" custom="readingOrder {index:2;} person {offset:14; length:11;occupation:poet; firstname:Guillaume\u0020; dateOfDeath:9\u0020November\u00201918; dateOfBirth:26\u0020August\u00201880; lastname:Apollinaire;}">
+                <Coords points="342,612 386,613 448,617 509,614 564,614 593,611 641,611 689,611 750,611 807,610 814,610 814,660 807,660 750,661 689,661 641,661 595,661 566,664 510,664 448,667 384,663 341,662"/>
+                <Baseline points="341,657 384,658 448,662 510,659 566,659 595,656 641,656 689,656 750,656 807,655 814,655"/>
+                <TextEquiv>
+                    <Unicode>per la Mostra Apollinaire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718547911443_55" custom="readingOrder {index:3;} place {offset:2; length:4;country:Italy;}">
+                <Coords points="579,662 601,661 687,659 729,654 777,654 777,704 732,704 690,709 603,711 581,712"/>
+                <Baseline points="581,707 603,706 690,704 732,699 777,699"/>
+                <TextEquiv>
+                    <Unicode>a Roma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> Apollinaire e le &#13;
+arti figurative&#13;
+per la Mostra Apollinaire&#13;
+a Roma</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="948,469 950,539 1098,537 1094,465"/>
+            <TextLine id="line_1718548051596_66" custom="readingOrder {index:0;} date {offset:0; length:7;year:1960; day:3; month:12;}">
+                <Coords points="956,479 985,478 1026,474 1066,471 1070,508 1021,508 981,509 956,511"/>
+                <Baseline points="956,506 980,503 1025,496 1072,492"/>
+                <TextEquiv>
+                    <Unicode>3.12.60</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3.12.60</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

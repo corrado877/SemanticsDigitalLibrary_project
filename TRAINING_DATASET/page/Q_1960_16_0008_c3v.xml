@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:59:36.547+01:00</Created>
+        <LastChange>2024-06-20T11:18:38.395+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325493" pageNr="32" tsid="175603504" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=AMSQZXUCURXMIICCIEASVOFC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HHMHRXFCOPGMGHMZOHTLJOCK" imageId="53902871"/>
+    </Metadata>
+    <Page imageFilename="Q_1960_16_0008_c3v.jpg" imageWidth="1798" imageHeight="2473" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746063388" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1718645366134_1285"/>
+                <RegionRefIndexed index="2" regionRef="region_1718645170422_1274"/>
+                <RegionRefIndexed index="3" regionRef="region_1718645334166_1277"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="194,272 193,2099 1670,2093 1671,266"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1718645366134_1285" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="1640,344 1542,344 1542,273 1640,273"/>
+            <TextLine id="line_1718645362185_1280" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:right;}">
+                <Coords points="1567,281 1623,281 1623,331 1567,331"/>
+                <Baseline points="1567,326 1623,326"/>
+                <TextEquiv>
+                    <Unicode>6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>6.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718645170422_1274" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="206,396 1665,396 1665,1638 206,1638"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} person {offset:35; length:11;occupation:poet; firstname:Guillaume\u0020; dateOfDeath:9\u0020novembre\u00201918; dateOfBirth:26\u0020agosto\u00201880; lastname:Apollinaire;}">
+                <Coords points="222,503 291,502 360,502 429,503 499,501 568,504 637,506 707,503 776,504 845,501 915,503 984,501 1053,500 1122,499 1192,502 1261,500 1330,501 1400,503 1469,503 1538,503 1608,505 1608,453 1538,451 1469,451 1400,451 1330,449 1261,448 1192,450 1122,447 1053,448 984,449 915,451 845,449 776,452 707,451 637,454 568,452 499,449 429,451 360,450 291,450 222,451"/>
+                <Baseline points="222,486 291,485 360,485 429,486 499,484 568,487 637,489 707,486 776,487 845,484 915,486 984,484 1053,483 1122,482 1192,485 1261,483 1330,484 1400,486 1469,486 1538,486 1608,488"/>
+                <TextEquiv>
+                    <Unicode>di Derain, al quale per l'appunto, Apollinaire chiede di illustrare il suo libro di quel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="220,581 255,579 290,579 325,579 360,579 396,579 431,577 466,577 501,576 536,576 572,576 607,577 642,579 677,579 712,578 748,577 783,577 818,575 853,577 888,579 924,581 924,529 888,527 853,525 818,523 783,525 748,525 712,526 677,527 642,527 607,525 572,524 536,524 501,524 466,525 431,525 396,527 360,527 325,527 290,527 255,527 220,529"/>
+                <Baseline points="220,564 255,562 290,562 325,562 360,562 396,562 431,560 466,560 501,559 536,559 572,559 607,560 642,562 677,562 712,561 748,560 783,560 818,558 853,560 888,562 924,564"/>
+                <TextEquiv>
+                    <Unicode>momento: "L'Enchanteur pourrissant."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="212,657 281,654 351,655 421,653 491,653 561,651 630,651 700,652 770,653 840,653 910,652 979,654 1049,655 1119,655 1189,653 1259,653 1328,651 1398,652 1468,653 1538,655 1608,659 1608,607 1538,603 1468,601 1398,600 1328,599 1259,601 1189,601 1119,603 1049,603 979,602 910,600 840,601 770,601 700,600 630,599 561,599 491,601 421,601 351,603 281,602 212,605"/>
+                <Baseline points="212,640 281,637 351,638 421,636 491,636 561,634 630,634 700,635 770,636 840,636 910,635 979,637 1049,638 1119,638 1189,636 1259,636 1328,634 1398,635 1468,636 1538,638 1608,642"/>
+                <TextEquiv>
+                    <Unicode>È un punto d'arte: circa il 1910, che il lavoro letterario, la nascita ordinata della sua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="226,735 297,732 368,731 439,729 511,729 582,727 653,729 725,727 796,727 867,727 939,729 1010,729 1081,729 1152,729 1224,729 1295,729 1366,729 1438,730 1509,733 1580,735 1652,737 1652,685 1580,683 1509,681 1438,678 1366,677 1295,677 1224,677 1152,677 1081,677 1010,677 939,677 867,675 796,675 725,675 653,677 582,675 511,677 439,677 368,679 297,680 226,683"/>
+                <Baseline points="226,718 297,715 368,714 439,712 511,712 582,710 653,712 725,710 796,710 867,710 939,712 1010,712 1081,712 1152,712 1224,712 1295,712 1366,712 1438,713 1509,716 1580,718 1652,720"/>
+                <TextEquiv>
+                    <Unicode>poesia, si svolge in una contemporaneità significativa con le ricerche e i raggiungi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="214,807 285,807 357,805 429,805 500,805 572,803 644,802 715,802 787,803 859,804 931,805 1002,804 1074,805 1146,803 1217,803 1289,803 1361,805 1432,804 1504,807 1576,807 1648,815 1648,763 1576,755 1504,755 1432,752 1361,753 1289,751 1217,751 1146,751 1074,753 1002,752 931,753 859,752 787,751 715,750 644,750 572,751 500,753 429,753 357,753 285,755 214,755"/>
+                <Baseline points="214,790 285,790 357,788 429,788 500,788 572,786 644,785 715,785 787,786 859,787 931,788 1002,787 1074,788 1146,786 1217,786 1289,786 1361,788 1432,787 1504,790 1576,790 1648,798"/>
+                <TextEquiv>
+                    <Unicode>menti dell'arte figurativa dello stesso tempo. E vero che le prime le prime scoperte, le prime at-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:5;} person {offset:12; length:7;occupation:painter; firstname:Pablo; dateOfDeath:8\u0020April\u00201973; dateOfBirth:25\u0020October\u00201881; lastname:Picasso;} person {offset:25; length:6;occupation:painter; firstname:Georges; dateOfDeath:31\u0020August\u00201963; dateOfBirth:13\u0020May\u00201882; lastname:Braque;}">
+                <Coords points="230,885 301,884 372,879 444,881 515,878 587,881 658,880 729,880 801,879 872,879 944,879 1015,879 1086,879 1158,881 1229,882 1301,883 1372,883 1443,884 1515,885 1586,889 1658,887 1658,836 1586,838 1515,834 1443,833 1372,832 1301,832 1229,831 1158,830 1086,828 1015,828 944,828 872,828 801,828 729,829 658,829 587,830 515,827 444,830 372,828 301,833 230,834"/>
+                <Baseline points="230,868 301,867 372,862 444,864 515,861 587,864 658,863 729,863 801,862 872,862 944,862 1015,862 1086,862 1158,864 1229,865 1301,866 1372,866 1443,867 1515,868 1586,872 1658,870"/>
+                <TextEquiv>
+                    <Unicode>tenzioni di Picasso e di Braque in ordine alla tecnica, alla poetica dal Crocifisso, con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:6;}">
+                <Coords points="220,953 290,952 361,953 431,955 502,956 572,956 643,955 713,958 784,957 854,957 925,955 995,955 1066,955 1136,957 1207,957 1277,960 1348,963 1418,961 1489,960 1559,959 1630,961 1630,910 1559,908 1489,909 1418,910 1348,912 1277,909 1207,906 1136,906 1066,904 995,904 925,904 854,906 784,906 713,907 643,904 572,905 502,905 431,904 361,902 290,901 220,902"/>
+                <Baseline points="220,936 290,935 361,936 431,938 502,939 572,939 643,938 713,941 784,940 854,940 925,938 995,938 1066,938 1136,940 1207,940 1277,943 1348,946 1418,944 1489,943 1559,942 1630,944"/>
+                <TextEquiv>
+                    <Unicode>tutte le implicazioni estetiche che si portavano dietro, sono del '907 e '908. Ma è </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:7;}">
+                <Coords points="226,1035 297,1033 368,1032 439,1031 510,1033 581,1033 652,1031 723,1032 794,1031 865,1031 937,1031 1008,1031 1079,1031 1150,1034 1221,1034 1292,1033 1363,1033 1434,1031 1505,1035 1576,1033 1648,1037 1648,985 1576,981 1505,983 1434,979 1363,981 1292,981 1221,982 1150,982 1079,979 1008,979 937,979 865,979 794,979 723,980 652,979 581,981 510,981 439,979 368,980 297,981 226,983"/>
+                <Baseline points="226,1018 297,1016 368,1015 439,1014 510,1016 581,1016 652,1014 723,1015 794,1014 865,1014 937,1014 1008,1014 1079,1014 1150,1017 1221,1017 1292,1016 1363,1016 1434,1014 1505,1018 1576,1016 1648,1020"/>
+                <TextEquiv>
+                    <Unicode>in realtà, con l'inizio del secondo decennio del secolo, che codesta profonda rivolu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:8;}">
+                <Coords points="238,1111 307,1110 377,1110 447,1109 517,1110 587,1109 657,1109 727,1109 797,1107 867,1109 937,1106 1006,1107 1076,1109 1146,1108 1216,1108 1286,1109 1356,1111 1426,1113 1496,1113 1566,1112 1636,1113 1636,1062 1566,1061 1496,1062 1426,1062 1356,1060 1286,1058 1216,1057 1146,1057 1076,1058 1006,1056 937,1055 867,1058 797,1056 727,1058 657,1058 587,1058 517,1059 447,1058 377,1059 307,1059 238,1060"/>
+                <Baseline points="238,1094 307,1093 377,1093 447,1092 517,1093 587,1092 657,1092 727,1092 797,1090 867,1092 937,1089 1006,1090 1076,1092 1146,1091 1216,1091 1286,1092 1356,1094 1426,1096 1496,1096 1566,1095 1636,1096"/>
+                <TextEquiv>
+                    <Unicode>zione, non solo di un'arte, ma dello spirito europeo, sommava un pensiero, sposta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:9;}">
+                <Coords points="238,1189 308,1188 378,1187 448,1187 518,1187 588,1185 658,1184 728,1183 798,1183 868,1183 938,1182 1008,1183 1078,1184 1148,1183 1218,1181 1288,1183 1358,1183 1428,1183 1498,1184 1568,1184 1638,1185 1638,1133 1568,1132 1498,1132 1428,1131 1358,1131 1288,1131 1218,1129 1148,1131 1078,1132 1008,1131 938,1130 868,1131 798,1131 728,1131 658,1132 588,1133 518,1135 448,1135 378,1135 308,1136 238,1137"/>
+                <Baseline points="238,1172 308,1171 378,1170 448,1170 518,1170 588,1168 658,1167 728,1166 798,1166 868,1166 938,1165 1008,1166 1078,1167 1148,1166 1218,1164 1288,1166 1358,1166 1428,1166 1498,1167 1568,1167 1638,1168"/>
+                <TextEquiv>
+                    <Unicode>una massa di iniziative poetiche, e suscita un'onda vasta di sentimenti che si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718645104753_1262" custom="readingOrder {index:10;}">
+                <Coords points="230,1212 307,1208 385,1206 463,1206 541,1204 619,1206 853,1206 931,1205 1009,1208 1086,1206 1164,1208 1242,1207 1320,1205 1398,1206 1476,1206 1554,1208 1632,1214 1670,1217 1670,1268 1632,1265 1554,1259 1476,1257 1398,1257 1320,1256 1242,1258 1164,1259 1086,1257 1009,1259 931,1256 853,1257 619,1257 541,1255 463,1257 385,1257 307,1259 230,1263"/>
+                <Baseline points="230,1246 307,1242 385,1240 463,1240 541,1238 619,1240 697,1240 775,1240 853,1240 931,1239 1009,1242 1086,1240 1164,1242 1242,1241 1320,1239 1398,1240 1476,1240 1554,1242 1660,1254"/>
+                <TextEquiv>
+                    <Unicode>inscrivono, matematicamente, dentro il disegno di una forma poetica nuova, col mezzo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:11;}">
+                <Coords points="220,1341 289,1339 358,1333 427,1331 496,1331 566,1332 635,1332 704,1333 773,1335 842,1334 912,1333 981,1335 1050,1333 1119,1335 1188,1335 1258,1334 1327,1335 1396,1333 1465,1335 1534,1335 1604,1339 1604,1287 1534,1283 1465,1283 1396,1281 1327,1283 1258,1282 1188,1283 1119,1283 1050,1281 981,1283 912,1281 842,1282 773,1283 704,1281 635,1280 566,1280 496,1279 427,1279 358,1281 289,1287 220,1289"/>
+                <Baseline points="220,1324 289,1322 358,1316 427,1314 496,1314 566,1315 635,1315 704,1316 773,1318 842,1317 912,1316 981,1318 1050,1316 1119,1318 1188,1318 1258,1317 1327,1318 1396,1316 1465,1318 1534,1318 1604,1322"/>
+                <TextEquiv>
+                    <Unicode>delle parole scritte, o delle forme, delle linee plastiche raggiunte. Si trattava di una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:12;}">
+                <Coords points="218,1417 287,1416 357,1415 427,1411 497,1410 567,1411 637,1410 707,1412 777,1411 847,1414 917,1413 986,1413 1056,1414 1126,1413 1196,1413 1266,1411 1336,1411 1406,1411 1476,1409 1546,1410 1616,1409 1616,1357 1546,1358 1476,1357 1406,1359 1336,1359 1266,1359 1196,1361 1126,1361 1056,1362 986,1361 917,1361 847,1362 777,1359 707,1360 637,1358 567,1359 497,1358 427,1359 357,1363 287,1364 218,1365"/>
+                <Baseline points="218,1400 287,1399 357,1398 427,1394 497,1393 567,1394 637,1393 707,1395 777,1394 847,1397 917,1396 986,1396 1056,1397 1126,1396 1196,1396 1266,1394 1336,1394 1406,1394 1476,1392 1546,1393 1616,1392"/>
+                <TextEquiv>
+                    <Unicode>riforma, di un'avventura, di una rivoluzione, la cui portata si è prolungata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:13;}">
+                <Coords points="232,1500 303,1488 374,1487 445,1486 516,1486 587,1484 658,1486 729,1484 800,1486 871,1486 942,1486 1013,1486 1084,1488 1155,1486 1226,1489 1297,1488 1368,1488 1439,1488 1510,1489 1581,1490 1652,1494 1652,1446 1581,1442 1510,1441 1439,1440 1368,1440 1297,1440 1226,1441 1155,1438 1084,1440 1013,1438 942,1438 871,1438 800,1438 729,1436 658,1438 587,1436 516,1438 445,1438 374,1439 303,1440 232,1452"/>
+                <Baseline points="232,1484 303,1472 374,1471 445,1470 516,1470 587,1468 658,1470 729,1468 800,1470 871,1470 942,1470 1013,1470 1084,1472 1155,1470 1226,1473 1297,1472 1368,1472 1439,1472 1510,1473 1581,1474 1652,1478"/>
+                <TextEquiv>
+                    <Unicode>per due decenni almeno, e i cui riflessi, a ben giudicare, non si sono ancora spenti.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:14;} person {offset:0; length:11;occupation:poet; firstname:Guillaume; dateOfDeath:9\u0020November\u00201918; dateOfBirth:26\u0020August\u00201880; lastname:Apollinaire;}">
+                <Coords points="236,1566 306,1566 377,1563 448,1564 518,1562 589,1561 660,1562 730,1562 801,1564 872,1562 943,1564 1013,1566 1084,1568 1155,1566 1225,1566 1296,1566 1367,1564 1437,1564 1508,1562 1579,1562 1650,1562 1650,1513 1579,1513 1508,1513 1437,1515 1367,1515 1296,1517 1225,1517 1155,1517 1084,1519 1013,1517 943,1515 872,1513 801,1515 730,1513 660,1513 589,1512 518,1513 448,1515 377,1514 306,1517 236,1517"/>
+                <Baseline points="236,1550 306,1550 377,1547 448,1548 518,1546 589,1545 660,1546 730,1546 801,1548 872,1546 943,1548 1013,1550 1084,1552 1155,1550 1225,1550 1296,1550 1367,1548 1437,1548 1508,1546 1579,1546 1650,1546"/>
+                <TextEquiv>
+                    <Unicode>Apollinaire, con la sua mente ansiosa e precorritrice, non poteva non trovarsi al centro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:15;}">
+                <Coords points="224,1645 251,1643 278,1643 306,1642 333,1641 361,1640 388,1639 415,1639 443,1639 470,1637 498,1637 525,1639 552,1639 580,1638 607,1637 635,1638 662,1639 689,1639 717,1637 744,1637 772,1641 772,1590 744,1586 717,1586 689,1588 662,1588 635,1587 607,1586 580,1587 552,1588 525,1588 498,1586 470,1586 443,1588 415,1588 388,1588 361,1589 333,1590 306,1591 278,1592 251,1592 224,1594"/>
+                <Baseline points="224,1628 251,1626 278,1626 306,1625 333,1624 361,1623 388,1622 415,1622 443,1622 470,1620 498,1620 525,1622 552,1622 580,1621 607,1620 635,1621 662,1622 689,1622 717,1620 744,1620 772,1624"/>
+                <TextEquiv>
+                    <Unicode>di un tale movimento di idee.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>di Derain, al quale per l'appunto, Apollinaire chiede di illustrare il suo libro di quel&#13;
+momento: "L'Enchanteur pourrissant."&#13;
+È un punto d'arte: circa il 1910, che il lavoro letterario, la nascita ordinata della sua&#13;
+poesia, si svolge in una contemporaneità significativa con le ricerche e i raggiungi-&#13;
+menti dell'arte figurativa dello stesso tempo. E vero che le prime le prime scoperte, le prime at-&#13;
+tenzioni di Picasso e di Braque in ordine alla tecnica, alla poetica dal Crocifisso, con&#13;
+tutte le implicazioni estetiche che si portavano dietro, sono del '907 e '908. Ma è &#13;
+in realtà, con l'inizio del secondo decennio del secolo, che codesta profonda rivolu-&#13;
+zione, non solo di un'arte, ma dello spirito europeo, sommava un pensiero, sposta&#13;
+una massa di iniziative poetiche, e suscita un'onda vasta di sentimenti che si&#13;
+inscrivono, matematicamente, dentro il disegno di una forma poetica nuova, col mezzo&#13;
+delle parole scritte, o delle forme, delle linee plastiche raggiunte. Si trattava di una&#13;
+riforma, di un'avventura, di una rivoluzione, la cui portata si è prolungata&#13;
+per due decenni almeno, e i cui riflessi, a ben giudicare, non si sono ancora spenti.&#13;
+Apollinaire, con la sua mente ansiosa e precorritrice, non poteva non trovarsi al centro&#13;
+di un tale movimento di idee.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718645334166_1277" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="205,1658 1668,1658 1668,2038 205,2038"/>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:0;}">
+                <Coords points="226,1717 296,1716 366,1713 436,1711 506,1710 576,1707 646,1709 716,1708 786,1705 856,1707 926,1706 996,1707 1066,1707 1136,1709 1206,1711 1276,1712 1346,1712 1416,1711 1486,1711 1556,1712 1626,1715 1626,1664 1556,1661 1486,1660 1416,1660 1346,1661 1276,1661 1206,1660 1136,1658 1066,1656 996,1656 926,1655 856,1656 786,1654 716,1657 646,1658 576,1656 506,1659 436,1660 366,1662 296,1665 226,1666"/>
+                <Baseline points="226,1700 296,1699 366,1696 436,1694 506,1693 576,1690 646,1692 716,1691 786,1688 856,1690 926,1689 996,1690 1066,1690 1136,1692 1206,1694 1276,1695 1346,1695 1416,1694 1486,1694 1556,1695 1626,1698"/>
+                <TextEquiv>
+                    <Unicode>Sono rintracciabili, sul vasto terreno della poesia francese, anticipazioni che, senza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:1;} person {offset:8; length:11;occupation:poet; firstname:Guillaume; dateOfDeath:9\u0020November\u00201918; dateOfBirth:26\u0020August\u00201880; lastname:Apollinaire;}">
+                <Coords points="216,1785 287,1787 359,1787 431,1783 503,1785 575,1783 646,1783 718,1783 790,1783 862,1785 934,1785 1005,1788 1077,1790 1149,1789 1221,1790 1293,1789 1364,1789 1436,1788 1508,1787 1580,1789 1652,1795 1652,1744 1580,1738 1508,1736 1436,1737 1364,1738 1293,1738 1221,1739 1149,1738 1077,1739 1005,1737 934,1734 862,1734 790,1732 718,1732 646,1732 575,1732 503,1734 431,1732 359,1736 287,1736 216,1734"/>
+                <Baseline points="216,1768 287,1770 359,1770 431,1766 503,1768 575,1766 646,1766 718,1766 790,1766 862,1768 934,1768 1005,1771 1077,1773 1149,1772 1221,1773 1293,1772 1364,1772 1436,1771 1508,1770 1580,1772 1652,1778"/>
+                <TextEquiv>
+                    <Unicode>dubbio, Apollinaire non ha voluto trascurare. Citatissimo l'esempio della "bouteille"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:2;} person {offset:18; length:8;occupation:writer; firstname:François; lastname:Rabelais;} person {offset:72; length:16; continued:true;occupation:novelist; firstname:Nicolas\u0020Restif; dateOfDeath:\u00203\u0020February\u00201806; dateOfBirth:23\u0020October\u00201734; lastname:de\u0020la\u0020Bretonne;}">
+                <Coords points="216,1865 288,1865 360,1865 432,1863 505,1862 577,1861 649,1859 722,1859 794,1861 866,1863 939,1865 1011,1865 1083,1865 1155,1867 1228,1865 1300,1865 1372,1866 1445,1865 1517,1863 1589,1864 1662,1861 1662,1809 1589,1812 1517,1811 1445,1813 1372,1814 1300,1813 1228,1813 1155,1815 1083,1813 1011,1813 939,1813 866,1811 794,1809 722,1807 649,1807 577,1809 505,1810 432,1811 360,1813 288,1813 216,1813"/>
+                <Baseline points="216,1848 288,1848 360,1848 432,1846 505,1845 577,1844 649,1842 722,1842 794,1844 866,1846 939,1848 1011,1848 1083,1848 1155,1850 1228,1848 1300,1848 1372,1849 1445,1848 1517,1846 1589,1847 1662,1844"/>
+                <TextEquiv>
+                    <Unicode>idrogrammatica di Rabelais, e i tentativi di "fantasie tipografiche" di Rétif de la Bre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:3;} person {offset:0; length:5; continued:true;occupation:novelist; firstname:Nicolas\u0020Restif; dateOfDeath:\u00203\u0020February\u00201806; dateOfBirth:23\u0020October\u00201734; lastname:de\u0020la\u0020Bretonne;}">
+                <Coords points="222,1947 293,1944 365,1941 437,1939 509,1938 581,1937 653,1937 725,1939 797,1939 869,1943 941,1945 1012,1945 1084,1947 1156,1947 1228,1947 1300,1945 1372,1945 1444,1945 1516,1947 1588,1945 1660,1947 1660,1896 1588,1894 1516,1896 1444,1894 1372,1894 1300,1894 1228,1896 1156,1896 1084,1896 1012,1894 941,1894 869,1892 797,1888 725,1888 653,1886 581,1886 509,1887 437,1888 365,1890 293,1893 222,1896"/>
+                <Baseline points="222,1930 293,1927 365,1924 437,1922 509,1921 581,1920 653,1920 725,1922 797,1922 869,1926 941,1928 1012,1928 1084,1930 1156,1930 1228,1930 1300,1928 1372,1928 1444,1928 1516,1930 1588,1928 1660,1930"/>
+                <TextEquiv>
+                    <Unicode>tonne, incontra molti antenati con l'impiego dei più vari, diversi, contrastanti" carat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:4;}">
+                <Coords points="232,2025 303,2021 374,2021 446,2019 517,2017 589,2017 660,2018 731,2019 803,2019 874,2023 946,2021 1017,2023 1088,2019 1160,2018 1231,2018 1303,2017 1374,2017 1445,2017 1517,2017 1588,2017 1660,2017 1660,1966 1588,1966 1517,1966 1445,1966 1374,1966 1303,1966 1231,1967 1160,1967 1088,1968 1017,1972 946,1970 874,1972 803,1968 731,1968 660,1967 589,1966 517,1966 446,1968 374,1970 303,1970 232,1974"/>
+                <Baseline points="232,2008 303,2004 374,2004 446,2002 517,2000 589,2000 660,2001 731,2002 803,2002 874,2006 946,2004 1017,2006 1088,2002 1160,2001 1231,2001 1303,2000 1374,2000 1445,2000 1517,2000 1588,2000 1660,2000"/>
+                <TextEquiv>
+                    <Unicode>"di stampa. E il grande esempio, ancora crepitante del Campo di Mallar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sono rintracciabili, sul vasto terreno della poesia francese, anticipazioni che, senza&#13;
+dubbio, Apollinaire non ha voluto trascurare. Citatissimo l'esempio della "bouteille"&#13;
+idrogrammatica di Rabelais, e i tentativi di "fantasie tipografiche" di Rétif de la Bre-&#13;
+tonne, incontra molti antenati con l'impiego dei più vari, diversi, contrastanti" carat&#13;
+"di stampa. E il grande esempio, ancora crepitante del Campo di Mallar</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

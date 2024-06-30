@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:23:17.931+02:00</Created>
+        <LastChange>2024-06-21T10:00:20.479+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326034" pageNr="87" tsid="175602727" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=KWNQPLHGYAKLJTAVZJYIOJGV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PZBGWOCAKIFUEHQLTJLNDTYU" imageId="54296147"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_10_0005_c2r.jpg" imageWidth="1798" imageHeight="2427" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746074184" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="151,481 151,2061 1623,2055 1623,475"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="165,536 236,530 307,530 378,529 449,526 521,528 592,528 663,528 734,528 805,528 877,529 948,529 1019,528 1090,525 1161,525 1233,526 1304,525 1375,524 1446,524 1517,521 1589,524 1589,478 1517,475 1446,478 1375,478 1304,479 1233,480 1161,479 1090,479 1019,482 948,483 877,483 805,482 734,482 663,482 592,482 521,482 449,480 378,483 307,484 236,484 165,490"/>
+                <Baseline points="165,521 236,515 307,515 378,514 449,511 521,513 592,513 663,513 734,513 805,513 877,514 948,514 1019,513 1090,510 1161,510 1233,511 1304,510 1375,509 1446,509 1517,506 1589,509"/>
+                <TextEquiv>
+                    <Unicode>narchia, di sarcasmo, cadrà presto, due giorni dopo, quando intravvede: Verranno degli altri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;} hi {offset:0; length:19;rend:underline;}">
+                <Coords points="185,606 256,606 327,604 398,602 470,602 541,604 612,602 684,604 755,605 826,604 898,604 969,602 1040,602 1111,601 1183,601 1254,600 1325,599 1397,600 1468,598 1539,600 1611,600 1611,554 1539,554 1468,552 1397,554 1325,553 1254,554 1183,555 1111,555 1040,556 969,556 898,558 826,558 755,559 684,558 612,556 541,558 470,556 398,556 327,558 256,560 185,560"/>
+                <Baseline points="185,591 256,591 327,589 398,587 470,587 541,589 612,587 684,589 755,590 826,589 898,589 969,587 1040,587 1111,586 1183,586 1254,585 1325,584 1397,585 1468,583 1539,585 1611,585"/>
+                <TextEquiv>
+                    <Unicode>orribili lavoratori. Rimbaud ha, di colpo, la visione di lui sulle rive dell’Harrar. È un pre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="175,686 247,685 319,684 391,682 463,680 535,682 607,680 679,679 751,680 823,679 896,678 968,679 1040,678 1112,676 1184,676 1256,676 1328,676 1400,678 1472,678 1544,679 1617,682 1617,636 1544,633 1472,632 1400,632 1328,630 1256,630 1184,630 1112,630 1040,632 968,633 896,632 823,633 751,634 679,633 607,634 535,636 463,634 391,636 319,638 247,639 175,640"/>
+                <Baseline points="175,671 247,670 319,669 391,667 463,665 535,667 607,665 679,664 751,665 823,664 896,663 968,664 1040,663 1112,661 1184,661 1256,661 1328,661 1400,663 1472,663 1544,664 1617,667"/>
+                <TextEquiv>
+                    <Unicode>sagio. Ma, ancora la bocca impastata per il festino di poesia, può misurare tutto il rischio, la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713953029161_767" custom="readingOrder {index:3;}">
+                <Coords points="167,713 1095,709 1095,759 167,763"/>
+                <Baseline points="167,758 1095,754"/>
+                <TextEquiv>
+                    <Unicode>disumana forza che l’ha portato a possedere, per terra o in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713953034382_772" custom="readingOrder {index:4;}">
+                <Coords points="1110,669 1139,676 1127,725 1098,718"/>
+                <Baseline points="1099,713 1128,720"/>
+                <TextEquiv>
+                    <Unicode>un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713953042199_777" custom="readingOrder {index:5;}">
+                <Coords points="1106,703 1589,703 1589,753 1106,753"/>
+                <Baseline points="1106,748 1589,748"/>
+                <TextEquiv>
+                    <Unicode>sottoscala il puro, il casto, il </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713953058621_782" custom="readingOrder {index:6;} hi {offset:53; length:17;rend:underline;} del {offset:53; length:17;rend:overstrike;}">
+                <Coords points="166,786 999,784 1298,784 1298,834 999,834 166,836"/>
+                <Baseline points="166,831 999,829 1298,829"/>
+                <TextEquiv>
+                    <Unicode>sacro corpo della “ragazza poesia". Solo la violenza, il deregolamento</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:7;}">
+                <Coords points="1007,787 1033,789 1059,789 1086,788 1112,786 1139,785 1165,784 1191,783 1218,785 1244,789 1271,791 1271,761 1244,759 1218,755 1191,753 1165,754 1139,755 1112,756 1086,758 1059,759 1033,759 1007,757"/>
+                <Baseline points="1007,777 1033,779 1059,779 1086,778 1112,776 1139,775 1165,774 1191,773 1218,775 1244,779 1271,781"/>
+                <TextEquiv>
+                    <Unicode>lo sregolamento</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713953063596_787" custom="readingOrder {index:8;}">
+                <Coords points="1315,779 1618,786 1617,836 1314,829"/>
+                <Baseline points="1314,824 1617,831"/>
+                <TextEquiv>
+                    <Unicode>di tutti i sensi, condu -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:9;}">
+                <Coords points="179,901 249,901 320,903 391,905 462,901 533,902 603,901 674,902 745,903 816,905 887,901 957,901 1028,899 1099,901 1170,901 1241,903 1311,900 1382,899 1453,899 1524,899 1595,897 1595,867 1524,869 1453,869 1382,869 1311,870 1241,873 1170,871 1099,871 1028,869 957,871 887,871 816,875 745,873 674,872 603,871 533,872 462,871 391,875 320,873 249,871 179,871"/>
+                <Baseline points="179,891 249,891 320,893 391,895 462,891 533,892 603,891 674,892 745,893 816,895 887,891 957,891 1028,889 1099,891 1170,891 1241,893 1311,890 1382,889 1453,889 1524,889 1595,887"/>
+                <TextEquiv>
+                    <Unicode>cevano a questo, saltando, delittuosamente, diabolicamente, le tappe dei sentimenti umani.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713953068820_792" custom="readingOrder {index:10;} hi {offset:33; length:14;rend:underline;}">
+                <Coords points="182,933 1324,930 1324,980 182,983"/>
+                <Baseline points="182,978 1324,975"/>
+                <TextEquiv>
+                    <Unicode>È il prezzo per la tappa finale: l’inconosciuto dell’anima e dell’arte. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:11;}">
+                <Coords points="1333,937 1361,933 1389,931 1417,935 1417,905 1389,901 1361,903 1333,907"/>
+                <Baseline points="1333,927 1361,923 1389,921 1417,925"/>
+                <TextEquiv>
+                    <Unicode>È una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713953072019_797" custom="readingOrder {index:12;}">
+                <Coords points="1340,926 1620,926 1620,976 1340,976"/>
+                <Baseline points="1340,971 1620,971"/>
+                <TextEquiv>
+                    <Unicode>Esperienza morta,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713953085852_802" custom="readingOrder {index:13;}">
+                <Coords points="170,1013 625,1008 625,1058 170,1063"/>
+                <Baseline points="170,1058 625,1053"/>
+                <TextEquiv>
+                    <Unicode>le: le sofferenze, dice, sono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:14;}">
+                <Coords points="577,1019 607,1019 638,1017 668,1017 729,1019 729,989 668,987 638,987 607,989 577,989"/>
+                <Baseline points="577,1009 607,1009 638,1007 668,1007 699,1009"/>
+                <TextEquiv>
+                    <Unicode>e saranno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713953126544_811" custom="readingOrder {index:15;}">
+                <Coords points="637,1009 1620,1009 1620,1059 637,1059"/>
+                <Baseline points="637,1054 1620,1054"/>
+                <TextEquiv>
+                    <Unicode>emozioni. Occorre farsi l’anima mostruosa. Come un selvag-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:16;}">
+                <Coords points="153,1146 226,1144 299,1140 373,1139 446,1138 520,1136 593,1136 666,1136 740,1135 813,1136 887,1135 960,1134 1033,1133 1107,1134 1180,1132 1254,1134 1327,1132 1400,1132 1474,1132 1547,1134 1621,1136 1621,1090 1547,1088 1474,1086 1400,1086 1327,1086 1254,1088 1180,1086 1107,1088 1033,1087 960,1088 887,1089 813,1090 740,1089 666,1090 593,1090 520,1090 446,1092 373,1093 299,1094 226,1098 153,1100"/>
+                <Baseline points="153,1131 226,1129 299,1125 373,1124 446,1123 520,1121 593,1121 666,1121 740,1120 813,1121 887,1120 960,1119 1033,1118 1107,1119 1180,1117 1254,1119 1327,1117 1400,1117 1474,1117 1547,1119 1621,1121"/>
+                <TextEquiv>
+                    <Unicode>gio, tatuarsi, coprirsi il volto di segni, di rughe, di colori spaventosi. Farsi una maschera.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:17;}">
+                <Coords points="187,1216 257,1216 327,1216 397,1215 467,1214 537,1212 607,1211 677,1211 747,1210 817,1208 888,1208 958,1208 1028,1207 1098,1207 1168,1208 1238,1208 1308,1207 1378,1208 1448,1207 1518,1211 1589,1210 1589,1164 1518,1165 1448,1161 1378,1162 1308,1161 1238,1162 1168,1162 1098,1161 1028,1161 958,1162 888,1162 817,1162 747,1164 677,1165 607,1165 537,1166 467,1168 397,1169 327,1170 257,1170 187,1170"/>
+                <Baseline points="187,1201 257,1201 327,1201 397,1200 467,1199 537,1197 607,1196 677,1196 747,1195 817,1193 888,1193 958,1193 1028,1192 1098,1192 1168,1193 1238,1193 1308,1192 1378,1193 1448,1192 1518,1196 1589,1195"/>
+                <TextEquiv>
+                    <Unicode>Lasciarsi crescere malato, criminale, maledetto. Così mostrarsi, come uno Stregone, agli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:18;}">
+                <Coords points="175,1294 245,1288 316,1286 387,1284 457,1284 528,1284 599,1282 669,1282 740,1282 811,1282 882,1282 952,1282 1023,1284 1094,1286 1164,1282 1235,1282 1306,1281 1376,1280 1447,1281 1518,1283 1589,1284 1589,1238 1518,1237 1447,1235 1376,1234 1306,1235 1235,1236 1164,1236 1094,1240 1023,1238 952,1236 882,1236 811,1236 740,1236 669,1236 599,1236 528,1238 457,1238 387,1238 316,1240 245,1242 175,1248"/>
+                <Baseline points="175,1279 245,1273 316,1271 387,1269 457,1269 528,1269 599,1267 669,1267 740,1267 811,1267 882,1267 952,1267 1023,1269 1094,1271 1164,1267 1235,1267 1306,1266 1376,1265 1447,1266 1518,1268 1589,1269"/>
+                <TextEquiv>
+                    <Unicode>occhi civilizzati della Tribù! Mangiare il fuoco, pisciare in alto, arrostire le tenere carni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:19;}">
+                <Coords points="177,1368 248,1367 320,1366 392,1368 464,1364 536,1362 608,1363 680,1362 752,1362 824,1362 896,1360 967,1360 1039,1360 1111,1360 1183,1361 1255,1360 1327,1360 1399,1358 1471,1360 1543,1359 1615,1358 1615,1312 1543,1313 1471,1314 1399,1312 1327,1314 1255,1314 1183,1315 1111,1314 1039,1314 967,1314 896,1314 824,1316 752,1316 680,1316 608,1317 536,1316 464,1318 392,1322 320,1320 248,1321 177,1322"/>
+                <Baseline points="177,1353 248,1352 320,1351 392,1353 464,1349 536,1347 608,1348 680,1347 752,1347 824,1347 896,1345 967,1345 1039,1345 1111,1345 1183,1346 1255,1345 1327,1345 1399,1343 1471,1345 1543,1344 1615,1343"/>
+                <TextEquiv>
+                    <Unicode>dei neonati.  Dopo una simile operazione d’arte, a cosa sarà ridotta l’anima del poeta? </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:20;}">
+                <Coords points="169,1446 239,1444 309,1444 379,1442 449,1439 520,1438 590,1438 660,1439 730,1438 800,1440 871,1440 941,1440 1011,1439 1081,1440 1151,1440 1222,1439 1292,1437 1362,1436 1432,1435 1502,1435 1573,1432 1573,1386 1502,1389 1432,1389 1362,1390 1292,1391 1222,1393 1151,1394 1081,1394 1011,1393 941,1394 871,1394 800,1394 730,1392 660,1393 590,1392 520,1392 449,1393 379,1396 309,1398 239,1398 169,1400"/>
+                <Baseline points="169,1431 239,1429 309,1429 379,1427 449,1424 520,1423 590,1423 660,1424 730,1423 800,1425 871,1425 941,1425 1011,1424 1081,1425 1151,1425 1222,1424 1292,1422 1362,1421 1432,1420 1502,1420 1573,1417"/>
+                <TextEquiv>
+                    <Unicode>Poiché, è da ritenere, anche il poeta ha un’anima, e una storia, uguale a quella di ogni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:21;}">
+                <Coords points="169,1520 241,1520 314,1520 386,1518 459,1515 532,1515 604,1514 677,1514 749,1516 822,1515 895,1514 967,1514 1040,1515 1112,1516 1185,1516 1258,1516 1330,1515 1403,1513 1475,1514 1548,1513 1621,1512 1621,1466 1548,1467 1475,1468 1403,1467 1330,1469 1258,1470 1185,1470 1112,1470 1040,1469 967,1468 895,1468 822,1469 749,1470 677,1468 604,1468 532,1469 459,1469 386,1472 314,1474 241,1474 169,1474"/>
+                <Baseline points="169,1505 241,1505 314,1505 386,1503 459,1500 532,1500 604,1499 677,1499 749,1501 822,1500 895,1499 967,1499 1040,1500 1112,1501 1185,1501 1258,1501 1330,1500 1403,1498 1475,1499 1548,1498 1621,1497"/>
+                <TextEquiv>
+                    <Unicode>uomo. L’operazione “cannibale", l’operazione “mago" esaurite, finito lo spettacolo, spente le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:22;}">
+                <Coords points="165,1594 236,1595 308,1592 380,1592 452,1592 524,1590 596,1590 668,1592 740,1592 812,1589 884,1588 955,1587 1027,1588 1099,1586 1171,1586 1243,1588 1315,1588 1387,1586 1459,1586 1531,1586 1603,1584 1603,1538 1531,1540 1459,1540 1387,1540 1315,1542 1243,1542 1171,1540 1099,1540 1027,1542 955,1541 884,1542 812,1543 740,1546 668,1546 596,1544 524,1544 452,1546 380,1546 308,1546 236,1549 165,1548"/>
+                <Baseline points="165,1579 236,1580 308,1577 380,1577 452,1577 524,1575 596,1575 668,1577 740,1577 812,1574 884,1573 955,1572 1027,1573 1099,1571 1171,1571 1243,1573 1315,1573 1387,1571 1459,1571 1531,1571 1603,1569"/>
+                <TextEquiv>
+                    <Unicode>luci; rimasto solo sulla piazza del villaggio, si strofina le mani, impiastricciate di zolfo e di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:23;}">
+                <Coords points="173,1672 244,1666 315,1666 387,1665 458,1666 530,1666 601,1666 672,1666 744,1665 815,1666 887,1664 958,1665 1029,1664 1101,1665 1172,1663 1244,1662 1315,1663 1386,1662 1458,1664 1529,1664 1601,1662 1601,1616 1529,1618 1458,1618 1386,1616 1315,1617 1244,1616 1172,1617 1101,1619 1029,1618 958,1619 887,1618 815,1620 744,1619 672,1620 601,1620 530,1620 458,1620 387,1619 315,1620 244,1620 173,1626"/>
+                <Baseline points="173,1657 244,1651 315,1651 387,1650 458,1651 530,1651 601,1651 672,1651 744,1650 815,1651 887,1649 958,1650 1029,1649 1101,1650 1172,1648 1244,1647 1315,1648 1386,1647 1458,1649 1529,1649 1601,1647"/>
+                <TextEquiv>
+                    <Unicode>fumo; va alla fortuna, e incomincia a lavarsi la faccia. Spariscono i colori, i segni del trucco.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:24;}">
+                <Coords points="169,1746 241,1744 313,1744 385,1744 458,1742 530,1744 602,1742 675,1742 747,1742 819,1740 892,1740 964,1740 1036,1741 1108,1744 1181,1742 1253,1738 1325,1741 1398,1740 1470,1742 1542,1739 1615,1736 1615,1690 1542,1693 1470,1696 1398,1694 1325,1695 1253,1692 1181,1696 1108,1698 1036,1695 964,1694 892,1694 819,1694 747,1696 675,1696 602,1696 530,1698 458,1696 385,1698 313,1698 241,1698 169,1700"/>
+                <Baseline points="169,1731 241,1729 313,1729 385,1729 458,1727 530,1729 602,1727 675,1727 747,1727 819,1725 892,1725 964,1725 1036,1726 1108,1729 1181,1727 1253,1723 1325,1726 1398,1725 1470,1727 1542,1724 1615,1721"/>
+                <TextEquiv>
+                    <Unicode>Si guarda nello specchio dell’acqua. Vede un volto umano. Non è però che un uomo, un povero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:25;}">
+                <Coords points="174,1820 258,1822 315,1819 373,1818 430,1818 488,1819 545,1818 602,1817 660,1818 717,1820 775,1818 832,1816 889,1816 947,1816 1004,1815 1062,1814 1119,1815 1176,1814 1234,1815 1291,1812 1349,1810 1349,1764 1291,1766 1234,1769 1176,1768 1119,1769 1062,1768 1004,1769 947,1770 889,1770 832,1770 775,1772 717,1774 660,1772 602,1771 545,1772 488,1773 430,1772 373,1772 315,1773 258,1776 174,1774"/>
+                <Baseline points="201,1805 258,1807 315,1804 373,1803 430,1803 488,1804 545,1803 602,1802 660,1803 717,1805 775,1803 832,1801 889,1801 947,1801 1004,1800 1062,1799 1119,1800 1176,1799 1234,1800 1291,1797 1349,1795"/>
+                <TextEquiv>
+                    <Unicode>uomo: due occhi, una bocca, un naso, e due mani dintorno. E adesso?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:26;}">
+                <Coords points="193,1894 263,1895 334,1895 405,1892 475,1894 546,1892 617,1892 687,1893 758,1892 829,1894 900,1893 970,1892 1041,1891 1112,1892 1182,1892 1253,1890 1324,1890 1394,1890 1465,1891 1536,1894 1607,1894 1607,1848 1536,1848 1465,1845 1394,1844 1324,1844 1253,1844 1182,1846 1112,1846 1041,1845 970,1846 900,1847 829,1848 758,1846 687,1847 617,1846 546,1846 475,1848 405,1846 334,1849 263,1849 193,1848"/>
+                <Baseline points="193,1879 263,1880 334,1880 405,1877 475,1879 546,1877 617,1877 687,1878 758,1877 829,1879 900,1878 970,1877 1041,1876 1112,1877 1182,1877 1253,1875 1324,1875 1394,1875 1465,1876 1536,1879 1607,1879"/>
+                <TextEquiv>
+                    <Unicode>Nella minacciosa lettera del 15 maggio ‘71, è scritto anche questo: _ Trouver une langue;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:27;}">
+                <Coords points="167,1970 284,1974 353,1972 423,1972 492,1972 562,1971 631,1970 700,1970 770,1970 839,1970 909,1970 978,1969 1047,1970 1117,1970 1186,1969 1256,1968 1325,1968 1394,1968 1464,1969 1533,1972 1603,1974 1603,1928 1533,1926 1464,1923 1394,1922 1325,1922 1256,1922 1186,1923 1117,1924 1047,1924 978,1923 909,1924 839,1924 770,1924 700,1924 631,1924 562,1925 492,1926 423,1926 353,1926 284,1928 167,1924"/>
+                <Baseline points="215,1957 284,1959 353,1957 423,1957 492,1957 562,1956 631,1955 700,1955 770,1955 839,1955 909,1955 978,1954 1047,1955 1117,1955 1186,1954 1256,1953 1325,1953 1394,1953 1464,1954 1533,1957 1603,1959"/>
+                <TextEquiv>
+                    <Unicode>_ du reste, toute parole étant idée, le temps d’un langage universel viendra!... Le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713952951728_733" custom="readingOrder {index:28;}">
+                <Coords points="194,2003 1569,1984 1566,2047 194,2053"/>
+                <Baseline points="194,2048 1566,2042"/>
+                <TextEquiv>
+                    <Unicode>poëte définirait la quantité d’inconnu s’éveillant en son temps dans l’âme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>narchia, di sarcasmo, cadrà presto, due giorni dopo, quando intravvede: Verranno degli altri&#13;
+orribili lavoratori. Rimbaud ha, di colpo, la visione di lui sulle rive dell’Harrar. È un pre-&#13;
+sagio. Ma, ancora la bocca impastata per il festino di poesia, può misurare tutto il rischio, la&#13;
+disumana forza che l’ha portato a possedere, per terra o in&#13;
+un&#13;
+sottoscala il puro, il casto, il &#13;
+sacro corpo della “ragazza poesia". Solo la violenza, il deregolamento&#13;
+lo sregolamento&#13;
+di tutti i sensi, condu -&#13;
+cevano a questo, saltando, delittuosamente, diabolicamente, le tappe dei sentimenti umani.&#13;
+È il prezzo per la tappa finale: l’inconosciuto dell’anima e dell’arte. &#13;
+È una&#13;
+Esperienza morta,&#13;
+le: le sofferenze, dice, sono&#13;
+e saranno&#13;
+emozioni. Occorre farsi l’anima mostruosa. Come un selvag-&#13;
+gio, tatuarsi, coprirsi il volto di segni, di rughe, di colori spaventosi. Farsi una maschera.&#13;
+Lasciarsi crescere malato, criminale, maledetto. Così mostrarsi, come uno Stregone, agli&#13;
+occhi civilizzati della Tribù! Mangiare il fuoco, pisciare in alto, arrostire le tenere carni&#13;
+dei neonati.  Dopo una simile operazione d’arte, a cosa sarà ridotta l’anima del poeta? &#13;
+Poiché, è da ritenere, anche il poeta ha un’anima, e una storia, uguale a quella di ogni&#13;
+uomo. L’operazione “cannibale", l’operazione “mago" esaurite, finito lo spettacolo, spente le&#13;
+luci; rimasto solo sulla piazza del villaggio, si strofina le mani, impiastricciate di zolfo e di&#13;
+fumo; va alla fortuna, e incomincia a lavarsi la faccia. Spariscono i colori, i segni del trucco.&#13;
+Si guarda nello specchio dell’acqua. Vede un volto umano. Non è però che un uomo, un povero&#13;
+uomo: due occhi, una bocca, un naso, e due mani dintorno. E adesso?&#13;
+Nella minacciosa lettera del 15 maggio ‘71, è scritto anche questo: _ Trouver une langue;&#13;
+_ du reste, toute parole étant idée, le temps d’un langage universel viendra!... Le&#13;
+poëte définirait la quantité d’inconnu s’éveillant en son temps dans l’âme</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

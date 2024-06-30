@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:16:38.981+01:00</Created>
+        <LastChange>2024-06-20T11:42:43.379+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326015" pageNr="51" tsid="175603522" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=UPTHJOYNADYLWESXGEKOMIGC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CLGHLUNPFEYEXZNLRBFNICQL" imageId="53903822"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_07_0003_c1r.jpg" imageWidth="1798" imageHeight="2476" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746067149" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="136,366 136,2024 1574,2024 1574,366"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="586,418 612,418 638,418 664,418 690,419 716,419 742,418 768,418 794,418 820,416 846,416 872,416 898,415 924,415 950,416 976,416 1002,414 1002,366 976,368 950,368 924,367 898,367 872,368 846,368 820,368 794,370 768,370 742,370 716,371 690,371 664,370 638,370 612,370 586,370"/>
+                <Baseline points="586,402 612,402 638,402 664,402 690,403 716,403 742,402 768,402 794,402 820,400 846,400 872,400 898,399 924,399 950,400 976,400 1002,398"/>
+                <TextEquiv>
+                    <Unicode>I viaggi di Ungaretti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="174,576 243,577 312,576 382,576 451,574 521,574 590,572 659,574 729,574 798,572 868,574 937,577 1006,578 1076,576 1145,578 1215,576 1284,574 1353,573 1423,576 1492,578 1562,580 1562,532 1492,530 1423,528 1353,525 1284,526 1215,528 1145,530 1076,528 1006,530 937,529 868,526 798,524 729,526 659,526 590,524 521,526 451,526 382,528 312,528 243,529 174,528"/>
+                <Baseline points="174,560 243,561 312,560 382,560 451,558 521,558 590,556 659,558 729,558 798,556 868,558 937,561 1006,562 1076,560 1145,562 1215,560 1284,558 1353,557 1423,560 1492,562 1562,564"/>
+                <TextEquiv>
+                    <Unicode>Giuseppe Ungaretti ha raccolto i suoi vecchi articoli di viaggio, prima pubblicati, per la mag_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="158,656 228,651 298,650 368,647 438,646 508,646 578,646 648,647 718,646 788,646 859,647 929,646 999,648 1069,646 1139,648 1209,645 1279,645 1349,644 1419,646 1489,650 1560,650 1560,620 1489,620 1419,616 1349,614 1279,615 1209,615 1139,618 1069,616 999,618 929,616 859,617 788,616 718,616 648,617 578,616 508,616 438,616 368,617 298,620 228,621 158,626"/>
+                <Baseline points="158,646 228,641 298,640 368,637 438,636 508,636 578,636 648,637 718,636 788,636 859,637 929,636 999,638 1069,636 1139,638 1209,635 1279,635 1349,634 1419,636 1489,640 1560,640"/>
+                <TextEquiv>
+                    <Unicode>gior parte, su giornali quitidiani, fra il 1931 e il 1935. Dire: articoli, è abbastanza improprio,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718178260972_10" custom="readingOrder {index:3;}">
+                <Coords points="157,676 1437,676 1437,726 157,726"/>
+                <Baseline points="157,721 1437,721"/>
+                <TextEquiv>
+                    <Unicode>per un materiale di tanto pregio e peso. Ma non è forse vero che anche le fantasie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;} add {offset:0; length:8;place:above;}">
+                <Coords points="1402,684 1428,684 1454,684 1480,685 1506,686 1532,686 1532,656 1506,656 1480,655 1454,654 1428,654 1402,654"/>
+                <Baseline points="1402,674 1428,674 1454,674 1480,675 1506,676 1532,676"/>
+                <TextEquiv>
+                    <Unicode>in prosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718178262676_15" custom="readingOrder {index:5;} del {offset:0; length:9;rend:overstrike;}">
+                <Coords points="1449,666 1568,670 1566,720 1447,716"/>
+                <Baseline points="1447,711 1566,715"/>
+                <TextEquiv>
+                    <Unicode>di viaggi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="152,802 221,803 290,803 359,802 428,802 497,802 566,802 635,802 704,803 773,802 843,802 912,803 981,804 1050,804 1119,802 1188,802 1257,802 1326,802 1395,802 1464,804 1534,804 1534,756 1464,756 1395,754 1326,754 1257,754 1188,754 1119,754 1050,756 981,756 912,755 843,754 773,754 704,755 635,754 566,754 497,754 428,754 359,754 290,755 221,755 152,754"/>
+                <Baseline points="152,786 221,787 290,787 359,786 428,786 497,786 566,786 635,786 704,787 773,786 843,786 912,787 981,788 1050,788 1119,786 1188,786 1257,786 1326,786 1395,786 1464,788 1534,788"/>
+                <TextEquiv>
+                    <Unicode>di Nerval, scaturiti dall'occasione del viaggio in oriente, o da quelli in Germania e in Belgio,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="152,882 223,880 294,880 365,878 436,880 507,880 578,880 649,879 720,878 791,878 862,879 933,878 1004,878 1075,878 1146,878 1217,878 1288,880 1359,878 1430,880 1501,880 1572,886 1572,838 1501,832 1430,832 1359,830 1288,832 1217,830 1146,830 1075,830 1004,830 933,830 862,831 791,830 720,830 649,831 578,832 507,832 436,832 365,830 294,832 223,832 152,834"/>
+                <Baseline points="152,866 223,864 294,864 365,862 436,864 507,864 578,864 649,863 720,862 791,862 862,863 933,862 1004,862 1075,862 1146,862 1217,862 1288,864 1359,862 1430,864 1501,864 1572,870"/>
+                <TextEquiv>
+                    <Unicode>vedevano la luce in giornali del tempo, con la qualifica di articoli, er eranospesso rivisti e cor_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718178275290_23" custom="readingOrder {index:8;}">
+                <Coords points="146,899 1488,899 1488,949 146,949"/>
+                <Baseline points="146,944 1488,944"/>
+                <TextEquiv>
+                    <Unicode>retti da qualche zelante redattore quotidiano? E restano fra i campioni più alti della prosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718178278282_28" custom="readingOrder {index:9;} add {offset:0; length:8;place:above;}">
+                <Coords points="1409,863 1502,865 1501,915 1408,913"/>
+                <Baseline points="1408,908 1501,910"/>
+                <TextEquiv>
+                    <Unicode>francese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718178281049_33" custom="readingOrder {index:10;}">
+                <Coords points="1493,899 1538,897 1540,947 1495,949"/>
+                <Baseline points="1495,944 1540,942"/>
+                <TextEquiv>
+                    <Unicode>:_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:11;}">
+                <Coords points="136,1032 206,1034 277,1032 348,1030 419,1028 490,1027 560,1026 631,1026 702,1026 773,1026 844,1025 914,1027 985,1028 1056,1028 1127,1026 1198,1028 1268,1027 1339,1028 1410,1029 1481,1028 1552,1028 1552,980 1481,980 1410,981 1339,980 1268,979 1198,980 1127,978 1056,980 985,980 914,979 844,977 773,978 702,978 631,978 560,978 490,979 419,980 348,982 277,984 206,986 136,984"/>
+                <Baseline points="136,1016 206,1018 277,1016 348,1014 419,1012 490,1011 560,1010 631,1010 702,1010 773,1010 844,1009 914,1011 985,1012 1056,1012 1127,1010 1198,1012 1268,1011 1339,1012 1410,1013 1481,1012 1552,1012"/>
+                <TextEquiv>
+                    <Unicode>una prosa talmente intessuta sul filo dell'ispirazione poetica, da formare l'esempio più mera_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:12;}">
+                <Coords points="140,1104 210,1105 281,1105 352,1104 423,1105 494,1106 564,1108 635,1106 706,1104 777,1104 848,1104 918,1104 989,1105 1060,1106 1131,1106 1202,1107 1272,1108 1343,1110 1414,1106 1485,1108 1556,1104 1556,1056 1485,1060 1414,1058 1343,1062 1272,1060 1202,1059 1131,1058 1060,1058 989,1057 918,1056 848,1056 777,1056 706,1056 635,1058 564,1060 494,1058 423,1057 352,1056 281,1057 210,1057 140,1056"/>
+                <Baseline points="140,1088 210,1089 281,1089 352,1088 423,1089 494,1090 564,1092 635,1090 706,1088 777,1088 848,1088 918,1088 989,1089 1060,1090 1131,1090 1202,1091 1272,1092 1343,1094 1414,1090 1485,1092 1556,1088"/>
+                <TextEquiv>
+                    <Unicode>viglioso, nel loro secolo, insieme alla prosa d'occasione di Baudlaire, per ogni tempo futuro. Co-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:13;}">
+                <Coords points="142,1180 212,1180 283,1178 354,1178 425,1176 496,1175 566,1174 637,1176 708,1175 779,1172 850,1172 920,1172 991,1172 1062,1172 1133,1172 1204,1174 1274,1174 1345,1174 1416,1174 1487,1173 1558,1172 1558,1141 1487,1142 1416,1143 1345,1143 1274,1143 1204,1143 1133,1141 1062,1141 991,1141 920,1141 850,1141 779,1141 708,1144 637,1145 566,1143 496,1144 425,1145 354,1147 283,1147 212,1149 142,1149"/>
+                <Baseline points="142,1170 212,1170 283,1168 354,1168 425,1166 496,1165 566,1164 637,1166 708,1165 779,1162 850,1162 920,1162 991,1162 1062,1162 1133,1162 1204,1164 1274,1164 1345,1164 1416,1164 1487,1163 1558,1162"/>
+                <TextEquiv>
+                    <Unicode>munque, diremo che le ragioni di Ungaretti, ottenuto con uno scrupolo d'arte, con la rapida vi_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718178292918_41" custom="readingOrder {index:14;}">
+                <Coords points="144,1204 1087,1204 1087,1254 144,1254"/>
+                <Baseline points="144,1249 1087,1249"/>
+                <TextEquiv>
+                    <Unicode>sione e interpretazione della realtà e la paziente elaborazione,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:15;} add {offset:0; length:11;place:above;}">
+                <Coords points="1050,1214 1079,1214 1108,1214 1137,1214 1166,1214 1196,1216 1196,1186 1166,1184 1137,1184 1108,1184 1079,1184 1050,1184"/>
+                <Baseline points="1050,1204 1079,1204 1108,1204 1137,1204 1166,1204 1196,1206"/>
+                <TextEquiv>
+                    <Unicode>e confronto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718178296066_46" custom="readingOrder {index:16;}">
+                <Coords points="1103,1200 1564,1212 1563,1262 1102,1250"/>
+                <Baseline points="1102,1245 1563,1257"/>
+                <TextEquiv>
+                    <Unicode>che è fra l'osservazione suddetta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:17;}">
+                <Coords points="150,1334 219,1332 289,1332 359,1332 428,1332 498,1332 568,1333 637,1334 707,1334 777,1335 847,1333 916,1334 986,1329 1056,1329 1125,1328 1195,1330 1265,1329 1334,1328 1404,1329 1474,1328 1544,1330 1544,1282 1474,1280 1404,1281 1334,1280 1265,1281 1195,1282 1125,1280 1056,1281 986,1281 916,1286 847,1285 777,1287 707,1286 637,1286 568,1285 498,1284 428,1284 359,1284 289,1284 219,1284 150,1286"/>
+                <Baseline points="150,1318 219,1316 289,1316 359,1316 428,1316 498,1316 568,1317 637,1318 707,1318 777,1319 847,1317 916,1318 986,1313 1056,1313 1125,1312 1195,1314 1265,1313 1334,1312 1404,1313 1474,1312 1544,1314"/>
+                <TextEquiv>
+                    <Unicode>e il continuo rapporto col sentimento del proprio cuore, furono condotte con l'impegno e, mate_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:18;}">
+                <Coords points="144,1410 215,1410 286,1410 357,1410 428,1408 500,1408 571,1408 642,1408 713,1410 784,1409 856,1408 927,1408 998,1406 1069,1406 1140,1404 1212,1405 1283,1406 1354,1404 1425,1405 1496,1406 1568,1416 1568,1368 1496,1358 1425,1357 1354,1356 1283,1358 1212,1357 1140,1356 1069,1358 998,1358 927,1360 856,1360 784,1361 713,1362 642,1360 571,1360 500,1360 428,1360 357,1362 286,1362 215,1362 144,1362"/>
+                <Baseline points="144,1394 215,1394 286,1394 357,1394 428,1392 500,1392 571,1392 642,1392 713,1394 784,1393 856,1392 927,1392 998,1390 1069,1390 1140,1388 1212,1389 1283,1390 1354,1388 1425,1389 1496,1390 1568,1400"/>
+                <TextEquiv>
+                    <Unicode>rialmente, la necessità avvertiti e impiegati nell'ottenere i risultati stilistici dei contempo_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:19;}">
+                <Coords points="156,1484 225,1484 294,1484 364,1484 433,1484 503,1484 572,1486 641,1486 711,1485 780,1486 850,1484 919,1486 988,1486 1058,1488 1127,1487 1197,1485 1266,1486 1335,1485 1405,1485 1474,1486 1544,1490 1544,1442 1474,1438 1405,1437 1335,1437 1266,1438 1197,1437 1127,1439 1058,1440 988,1438 919,1438 850,1436 780,1438 711,1437 641,1438 572,1438 503,1436 433,1436 364,1436 294,1436 225,1436 156,1436"/>
+                <Baseline points="156,1468 225,1468 294,1468 364,1468 433,1468 503,1468 572,1470 641,1470 711,1469 780,1470 850,1468 919,1470 988,1470 1058,1472 1127,1471 1197,1469 1266,1470 1335,1469 1405,1469 1474,1470 1544,1474"/>
+                <TextEquiv>
+                    <Unicode>ranei suoi componimenti in poesia. Si può aggiungere che tali pagine, occasionate da un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:20;}">
+                <Coords points="146,1564 216,1563 287,1561 358,1560 429,1558 500,1558 571,1558 642,1559 713,1560 784,1558 855,1560 925,1562 996,1562 1067,1564 1138,1560 1209,1561 1280,1560 1351,1560 1422,1559 1493,1560 1564,1566 1564,1518 1493,1512 1422,1511 1351,1512 1280,1512 1209,1513 1138,1512 1067,1516 996,1514 925,1514 855,1512 784,1510 713,1512 642,1511 571,1510 500,1510 429,1510 358,1512 287,1513 216,1515 146,1516"/>
+                <Baseline points="146,1548 216,1547 287,1545 358,1544 429,1542 500,1542 571,1542 642,1543 713,1544 784,1542 855,1544 925,1546 996,1546 1067,1548 1138,1544 1209,1545 1280,1544 1351,1544 1422,1543 1493,1544 1564,1550"/>
+                <TextEquiv>
+                    <Unicode>viaggio, dalla meditazione di un paesaggio, dall'incontro con popoli e gente diversa, sotto cieli che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:21;} gap {offset:3; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="144,1640 215,1638 286,1635 357,1634 428,1632 499,1632 570,1632 641,1632 712,1632 783,1634 854,1634 925,1636 996,1635 1067,1634 1138,1634 1209,1635 1280,1636 1351,1634 1422,1635 1493,1638 1564,1642 1564,1594 1493,1590 1422,1587 1351,1586 1280,1588 1209,1587 1138,1586 1067,1586 996,1587 925,1588 854,1586 783,1586 712,1584 641,1584 570,1584 499,1584 428,1584 357,1586 286,1587 215,1590 144,1592"/>
+                <Baseline points="144,1624 215,1622 286,1619 357,1618 428,1616 499,1616 570,1616 641,1616 712,1616 783,1618 854,1618 925,1620 996,1619 1067,1618 1138,1618 1209,1619 1280,1620 1351,1618 1422,1619 1493,1622 1564,1626"/>
+                <TextEquiv>
+                    <Unicode>di       non hanno che il destino di oscurarsi quando fa sera, più che essere lo spunto, l'anno_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:22;}">
+                <Coords points="148,1714 217,1712 287,1710 356,1710 426,1712 495,1713 565,1712 634,1712 704,1712 773,1712 843,1712 912,1712 982,1712 1051,1710 1121,1708 1190,1709 1260,1709 1329,1708 1399,1709 1468,1710 1538,1712 1538,1664 1468,1662 1399,1661 1329,1660 1260,1661 1190,1661 1121,1660 1051,1662 982,1664 912,1664 843,1664 773,1664 704,1664 634,1664 565,1664 495,1665 426,1664 356,1662 287,1662 217,1664 148,1666"/>
+                <Baseline points="148,1698 217,1696 287,1694 356,1694 426,1696 495,1697 565,1696 634,1696 704,1696 773,1696 843,1696 912,1696 982,1696 1051,1694 1121,1692 1190,1693 1260,1693 1329,1692 1399,1693 1468,1694 1538,1696"/>
+                <TextEquiv>
+                    <Unicode>tazione subitanea, la preparazione e la traccia per corrispondenti motivi in poesia, sono la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:23;}">
+                <Coords points="156,1796 225,1792 295,1790 364,1787 434,1788 503,1786 573,1786 642,1786 712,1786 781,1786 851,1788 920,1788 990,1786 1059,1786 1129,1784 1198,1785 1268,1784 1337,1786 1407,1786 1476,1784 1546,1786 1546,1738 1476,1736 1407,1738 1337,1738 1268,1736 1198,1737 1129,1736 1059,1738 990,1738 920,1740 851,1740 781,1738 712,1738 642,1738 573,1738 503,1738 434,1740 364,1739 295,1742 225,1744 156,1748"/>
+                <Baseline points="156,1780 225,1776 295,1774 364,1771 434,1772 503,1770 573,1770 642,1770 712,1770 781,1770 851,1772 920,1772 990,1770 1059,1770 1129,1768 1198,1769 1268,1768 1337,1770 1407,1770 1476,1768 1546,1770"/>
+                <TextEquiv>
+                    <Unicode>prova e la riprova della fondatezza del sentimento, della giustezza dell'immagine provocata dal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:24;}">
+                <Coords points="154,1868 225,1866 296,1865 367,1864 438,1862 509,1863 580,1862 651,1862 722,1861 793,1862 864,1862 935,1862 1006,1862 1077,1862 1148,1862 1219,1860 1290,1860 1361,1860 1432,1863 1503,1864 1574,1866 1574,1818 1503,1816 1432,1815 1361,1812 1290,1812 1219,1812 1148,1814 1077,1814 1006,1814 935,1814 864,1814 793,1814 722,1813 651,1814 580,1814 509,1815 438,1814 367,1816 296,1817 225,1818 154,1820"/>
+                <Baseline points="154,1852 225,1850 296,1849 367,1848 438,1846 509,1847 580,1846 651,1846 722,1845 793,1846 864,1846 935,1846 1006,1846 1077,1846 1148,1846 1219,1844 1290,1844 1361,1844 1432,1847 1503,1848 1574,1850"/>
+                <TextEquiv>
+                    <Unicode>vero, o dal ricordo del vero, della profondità "somma" del linguaggio espressivo, attraverso le quali,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:25;} hi {offset:77; length:12;rend:overstrike;}">
+                <Coords points="146,1946 216,1944 287,1942 358,1938 428,1940 499,1938 570,1940 640,1941 711,1940 782,1940 853,1938 923,1938 994,1936 1065,1936 1135,1934 1206,1934 1277,1935 1347,1936 1418,1937 1489,1939 1560,1942 1560,1894 1489,1891 1418,1889 1347,1888 1277,1887 1206,1886 1135,1886 1065,1888 994,1888 923,1890 853,1890 782,1892 711,1892 640,1893 570,1892 499,1890 428,1892 358,1890 287,1894 216,1896 146,1898"/>
+                <Baseline points="146,1930 216,1928 287,1926 358,1922 428,1924 499,1922 570,1924 640,1925 711,1924 782,1924 853,1922 923,1922 994,1920 1065,1920 1135,1918 1206,1918 1277,1919 1347,1920 1418,1921 1489,1923 1560,1926"/>
+                <TextEquiv>
+                    <Unicode>nell'una e nell'altra forma, il poeta ha risolto il dramma di ricostruire un'altra realtà, che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:26;}">
+                <Coords points="154,2014 223,2018 293,2018 362,2018 432,2015 502,2016 571,2016 641,2018 710,2018 780,2016 850,2018 919,2018 989,2016 1058,2016 1128,2014 1198,2012 1267,2014 1337,2016 1406,2018 1476,2018 1546,2024 1546,1976 1476,1970 1406,1970 1337,1968 1267,1966 1198,1964 1128,1966 1058,1968 989,1968 919,1970 850,1970 780,1968 710,1970 641,1970 571,1968 502,1968 432,1967 362,1970 293,1970 223,1970 154,1966"/>
+                <Baseline points="154,1998 223,2002 293,2002 362,2002 432,1999 502,2000 571,2000 641,2002 710,2002 780,2000 850,2002 919,2002 989,2000 1058,2000 1128,1998 1198,1996 1267,1998 1337,2000 1406,2002 1476,2002 1546,2008"/>
+                <TextEquiv>
+                    <Unicode>non è solo quella acquisita dai sensi. Per quanto, proprio col tramite dell'espressione in prosa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>I viaggi di Ungaretti&#13;
+Giuseppe Ungaretti ha raccolto i suoi vecchi articoli di viaggio, prima pubblicati, per la mag_&#13;
+gior parte, su giornali quitidiani, fra il 1931 e il 1935. Dire: articoli, è abbastanza improprio,&#13;
+per un materiale di tanto pregio e peso. Ma non è forse vero che anche le fantasie&#13;
+in prosa&#13;
+di viaggi&#13;
+di Nerval, scaturiti dall'occasione del viaggio in oriente, o da quelli in Germania e in Belgio,&#13;
+vedevano la luce in giornali del tempo, con la qualifica di articoli, er eranospesso rivisti e cor_&#13;
+retti da qualche zelante redattore quotidiano? E restano fra i campioni più alti della prosa&#13;
+francese&#13;
+:_&#13;
+una prosa talmente intessuta sul filo dell'ispirazione poetica, da formare l'esempio più mera_&#13;
+viglioso, nel loro secolo, insieme alla prosa d'occasione di Baudlaire, per ogni tempo futuro. Co-&#13;
+munque, diremo che le ragioni di Ungaretti, ottenuto con uno scrupolo d'arte, con la rapida vi_&#13;
+sione e interpretazione della realtà e la paziente elaborazione,&#13;
+e confronto&#13;
+che è fra l'osservazione suddetta&#13;
+e il continuo rapporto col sentimento del proprio cuore, furono condotte con l'impegno e, mate_&#13;
+rialmente, la necessità avvertiti e impiegati nell'ottenere i risultati stilistici dei contempo_&#13;
+ranei suoi componimenti in poesia. Si può aggiungere che tali pagine, occasionate da un&#13;
+viaggio, dalla meditazione di un paesaggio, dall'incontro con popoli e gente diversa, sotto cieli che&#13;
+di       non hanno che il destino di oscurarsi quando fa sera, più che essere lo spunto, l'anno_&#13;
+tazione subitanea, la preparazione e la traccia per corrispondenti motivi in poesia, sono la&#13;
+prova e la riprova della fondatezza del sentimento, della giustezza dell'immagine provocata dal&#13;
+vero, o dal ricordo del vero, della profondità "somma" del linguaggio espressivo, attraverso le quali,&#13;
+nell'una e nell'altra forma, il poeta ha risolto il dramma di ricostruire un'altra realtà, che&#13;
+non è solo quella acquisita dai sensi. Per quanto, proprio col tramite dell'espressione in prosa,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

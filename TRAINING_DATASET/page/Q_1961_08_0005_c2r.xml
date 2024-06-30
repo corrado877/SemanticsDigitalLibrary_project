@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:22:29.433+01:00</Created>
+        <LastChange>2024-06-20T11:57:58.085+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325508" pageNr="63" tsid="175603539" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=JLMADINLBNTYTOCFNJMJHKKD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BXLPNFKFGGZSHBYETHCIEZKA" imageId="53903853"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_08_0005_c2r.jpg" imageWidth="1798" imageHeight="2471" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746069499" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718202014351_200"/>
+                <RegionRefIndexed index="1" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718202014351_200" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="136,306 136,358 179,358 179,306"/>
+            <TextLine id="line_1718202014571_203" custom="readingOrder {index:0;}">
+                <Coords points="138,306 179,308 177,358 136,356"/>
+                <Baseline points="136,351 177,353"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:1;}">
+            <Coords points="129,417 129,1983 1579,1983 1579,417"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;} gap {offset:22; length:0;quantity:8; unit:character; reason:illegible;} del {offset:59; length:1;rend:overstrike;}">
+                <Coords points="133,479 201,476 270,475 339,471 407,471 476,472 545,471 613,471 682,469 751,469 820,469 888,469 957,467 1026,467 1094,465 1163,466 1232,467 1300,465 1369,466 1438,466 1507,467 1507,419 1438,418 1369,418 1300,417 1232,419 1163,418 1094,417 1026,419 957,419 888,421 820,421 751,421 682,421 613,423 545,423 476,424 407,423 339,423 270,427 201,428 133,431"/>
+                <Baseline points="133,463 201,460 270,459 339,455 407,455 476,456 545,455 613,455 682,453 751,453 820,453 888,453 957,451 1026,451 1094,449 1163,450 1232,451 1300,449 1369,450 1438,450 1507,451"/>
+                <TextEquiv>
+                    <Unicode>ad una cordicella. Le          posano, ritte ad una parete , della baracca. Fu così, cogliendo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="129,557 199,549 270,548 341,547 411,544 482,546 553,547 623,546 694,548 765,545 836,546 906,545 977,545 1048,544 1118,543 1189,543 1260,543 1330,543 1401,544 1472,543 1543,539 1543,491 1472,495 1401,496 1330,495 1260,495 1189,495 1118,495 1048,496 977,497 906,497 836,498 765,497 694,500 623,498 553,499 482,498 411,496 341,499 270,500 199,501 129,509"/>
+                <Baseline points="129,541 199,533 270,532 341,531 411,528 482,530 553,531 623,530 694,532 765,529 836,530 906,529 977,529 1048,528 1118,527 1189,527 1260,527 1330,527 1401,528 1472,527 1543,523"/>
+                <TextEquiv>
+                    <Unicode>quello sguardo smarrito, che una sera noi offrimmo alla signora della Pista qualche colpo al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="139,627 208,625 278,621 348,620 417,621 487,621 557,622 626,623 696,621 766,621 836,621 905,619 975,619 1045,617 1114,621 1184,619 1254,620 1323,617 1393,619 1463,617 1533,615 1533,567 1463,569 1393,571 1323,569 1254,572 1184,571 1114,573 1045,569 975,571 905,571 836,573 766,573 696,573 626,575 557,574 487,573 417,573 348,572 278,573 208,577 139,579"/>
+                <Baseline points="139,611 208,609 278,605 348,604 417,605 487,605 557,606 626,607 696,605 766,605 836,605 905,603 975,603 1045,601 1114,605 1184,603 1254,604 1323,601 1393,603 1463,601 1533,599"/>
+                <TextEquiv>
+                    <Unicode>Tiro. Disse: -“Mi piace di tirare ai fantocci.”- Poiché v’erano, in un rango dietro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="129,705 199,705 269,701 339,699 410,698 480,697 550,697 621,696 691,695 761,695 832,694 902,693 972,695 1042,693 1113,695 1183,695 1253,695 1324,693 1394,693 1464,691 1535,691 1535,643 1464,643 1394,645 1324,645 1253,647 1183,647 1113,647 1042,645 972,647 902,645 832,646 761,647 691,647 621,648 550,649 480,649 410,650 339,651 269,653 199,657 129,657"/>
+                <Baseline points="129,689 199,689 269,685 339,683 410,682 480,681 550,681 621,680 691,679 761,679 832,678 902,677 972,679 1042,677 1113,679 1183,679 1253,679 1324,677 1394,677 1464,675 1535,675"/>
+                <TextEquiv>
+                    <Unicode>le pipe, alcune teste di legno. Si doveva mirare ad un disco dipinto, che sporgeva dalla testa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="137,779 207,779 278,777 349,775 420,775 491,774 562,771 633,770 704,770 775,771 846,773 916,771 987,771 1058,772 1129,771 1200,769 1271,771 1342,771 1413,773 1484,772 1555,775 1555,727 1484,724 1413,725 1342,723 1271,723 1200,721 1129,723 1058,724 987,723 916,723 846,725 775,723 704,722 633,722 562,723 491,726 420,727 349,727 278,729 207,731 137,731"/>
+                <Baseline points="137,763 207,763 278,761 349,759 420,759 491,758 562,755 633,754 704,754 775,755 846,757 916,755 987,755 1058,756 1129,755 1200,753 1271,755 1342,755 1413,757 1484,756 1555,759"/>
+                <TextEquiv>
+                    <Unicode>Tutti e tre, - era ormai l’ora della chiusura, passammo alla baracca del tiro. La signora si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="131,855 202,853 273,851 344,849 416,849 487,850 558,850 630,849 701,847 772,848 844,847 915,847 986,847 1057,846 1129,846 1200,845 1271,847 1343,845 1414,845 1485,847 1557,849 1557,801 1485,799 1414,797 1343,797 1271,799 1200,797 1129,798 1057,798 986,799 915,799 844,799 772,800 701,799 630,801 558,802 487,802 416,801 344,801 273,803 202,805 131,807"/>
+                <Baseline points="131,839 202,837 273,835 344,833 416,833 487,834 558,834 630,833 701,831 772,832 844,831 915,831 986,831 1057,830 1129,830 1200,829 1271,831 1343,829 1414,829 1485,831 1557,833"/>
+                <TextEquiv>
+                    <Unicode>dimostrò, nell’esercizio, più esperta di noi. Il mio amico, chiassoso, si disperava. Conti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="135,931 206,929 277,927 348,925 419,925 490,925 561,924 632,925 703,922 774,923 845,922 916,921 987,919 1058,919 1129,919 1200,919 1271,917 1342,921 1413,920 1484,922 1555,925 1555,877 1484,874 1413,872 1342,873 1271,869 1200,871 1129,871 1058,871 987,871 916,873 845,874 774,875 703,874 632,877 561,876 490,877 419,877 348,877 277,879 206,881 135,883"/>
+                <Baseline points="135,915 206,913 277,911 348,909 419,909 490,909 561,908 632,909 703,906 774,907 845,906 916,905 987,903 1058,903 1129,903 1200,903 1271,901 1342,905 1413,904 1484,906 1555,909"/>
+                <TextEquiv>
+                    <Unicode>nuò, da solo, a sparare. Il piccolo romagnolo si ridestava nei ricordi delle battaglie d’infanzia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="137,1011 207,1009 278,1005 349,1003 420,1003 491,1001 561,1001 632,1001 703,1001 774,1001 845,997 915,995 986,995 1057,995 1128,997 1199,997 1269,996 1340,997 1411,999 1482,997 1553,997 1553,949 1482,949 1411,951 1340,949 1269,948 1199,949 1128,949 1057,947 986,947 915,947 845,949 774,953 703,953 632,953 561,953 491,953 420,955 349,955 278,957 207,961 137,963"/>
+                <Baseline points="137,995 207,993 278,989 349,987 420,987 491,985 561,985 632,985 703,985 774,985 845,981 915,979 986,979 1057,979 1128,981 1199,981 1269,980 1340,981 1411,983 1482,981 1553,981"/>
+                <TextEquiv>
+                    <Unicode>fra ragazzi. Gridava ancora: “Signora, lei deve scommettere con me. Mio nonno era un gari-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="133,1077 204,1081 275,1081 346,1081 418,1079 489,1079 560,1077 632,1078 703,1077 774,1074 846,1073 917,1073 988,1072 1059,1073 1131,1073 1202,1074 1273,1073 1345,1075 1416,1075 1487,1077 1559,1083 1559,1035 1487,1029 1416,1027 1345,1027 1273,1025 1202,1026 1131,1025 1059,1025 988,1024 917,1025 846,1025 774,1026 703,1029 632,1030 560,1029 489,1031 418,1031 346,1033 275,1033 204,1033 133,1029"/>
+                <Baseline points="133,1061 204,1065 275,1065 346,1065 418,1063 489,1063 560,1061 632,1062 703,1061 774,1058 846,1057 917,1057 988,1056 1059,1057 1131,1057 1202,1058 1273,1057 1345,1059 1416,1059 1487,1061 1559,1067"/>
+                <TextEquiv>
+                    <Unicode>baldino… “, quando già la ragazza era rientrata nel suo recinto. Ringraziava, lieta, della nostra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="129,1157 169,1157 209,1155 249,1155 290,1153 330,1153 370,1153 411,1151 451,1153 491,1151 532,1149 572,1149 612,1149 652,1150 693,1149 733,1150 773,1150 814,1151 854,1152 894,1152 935,1155 935,1107 894,1104 854,1104 814,1103 773,1102 733,1102 693,1101 652,1102 612,1101 572,1101 532,1101 491,1103 451,1105 411,1103 370,1105 330,1105 290,1105 249,1107 209,1107 169,1109 129,1109"/>
+                <Baseline points="129,1141 169,1141 209,1139 249,1139 290,1137 330,1137 370,1137 411,1135 451,1137 491,1135 532,1133 572,1133 612,1133 652,1134 693,1133 733,1134 773,1134 814,1135 854,1136 894,1136 935,1139"/>
+                <TextEquiv>
+                    <Unicode>offerta. Divenimmo frequentatori assidui della pista.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="155,1233 224,1231 294,1229 364,1227 434,1228 504,1229 574,1229 644,1229 714,1229 784,1230 854,1230 923,1231 993,1228 1063,1225 1133,1225 1203,1224 1273,1223 1343,1223 1413,1224 1483,1225 1553,1225 1553,1177 1483,1177 1413,1176 1343,1175 1273,1175 1203,1176 1133,1177 1063,1177 993,1180 923,1183 854,1182 784,1182 714,1181 644,1181 574,1181 504,1181 434,1180 364,1179 294,1181 224,1183 155,1185"/>
+                <Baseline points="155,1217 224,1215 294,1213 364,1211 434,1212 504,1213 574,1213 644,1213 714,1213 784,1214 854,1214 923,1215 993,1212 1063,1209 1133,1209 1203,1208 1273,1207 1343,1207 1413,1208 1483,1209 1553,1209"/>
+                <TextEquiv>
+                    <Unicode>A parte che il giuoco accendeva quel fuoco d’allegria nel mio amico: quel suo viso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186553579_1964" custom="readingOrder {index:11;} del {offset:85; length:5;rend:overstrike;} div {offset:85; length:0;}">
+                <Coords points="142,1255 1549,1251 1549,1301 142,1305"/>
+                <Baseline points="142,1300 1549,1296"/>
+                <TextEquiv>
+                    <Unicode>grigiastro di ragazzo inquieto dove scoppiava una felicità tenuta compressa. Nel suo      </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186556040_1969" custom="readingOrder {index:12;}">
+                <Coords points="1470,1218 1554,1216 1555,1266 1471,1268"/>
+                <Baseline points="1471,1263 1555,1261"/>
+                <TextEquiv>
+                    <Unicode>corpo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186557767_1974" custom="readingOrder {index:13;}">
+                <Coords points="1551,1258 1562,1256 1571,1305 1560,1307"/>
+                <Baseline points="1559,1302 1570,1300"/>
+                <TextEquiv>
+                    <Unicode>,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_13" custom="readingOrder {index:14;}">
+                <Coords points="141,1385 211,1385 282,1382 353,1383 423,1380 494,1381 565,1379 635,1378 706,1378 777,1377 848,1376 918,1375 989,1373 1060,1373 1130,1373 1201,1373 1272,1375 1342,1375 1413,1375 1484,1377 1555,1383 1555,1335 1484,1329 1413,1327 1342,1327 1272,1327 1201,1325 1130,1325 1060,1325 989,1325 918,1327 848,1328 777,1329 706,1330 635,1330 565,1331 494,1333 423,1332 353,1335 282,1334 211,1337 141,1337"/>
+                <Baseline points="141,1369 211,1369 282,1366 353,1367 423,1364 494,1365 565,1363 635,1362 706,1362 777,1361 848,1360 918,1359 989,1357 1060,1357 1130,1357 1201,1357 1272,1359 1342,1359 1413,1359 1484,1361 1555,1367"/>
+                <TextEquiv>
+                    <Unicode>nei gesti delle mani, nella ressa di parole avventate, risorgeva la visibilità degli uomini di Ro-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_14" custom="readingOrder {index:15;} gap {offset:79; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="133,1457 203,1461 274,1458 345,1457 415,1456 486,1455 557,1455 627,1454 698,1455 769,1453 840,1452 910,1451 981,1451 1052,1453 1122,1451 1193,1451 1264,1451 1334,1449 1405,1450 1476,1449 1547,1453 1547,1405 1476,1401 1405,1402 1334,1401 1264,1403 1193,1403 1122,1403 1052,1405 981,1403 910,1403 840,1404 769,1405 698,1407 627,1406 557,1407 486,1407 415,1408 345,1409 274,1410 203,1413 133,1409"/>
+                <Baseline points="133,1441 203,1445 274,1442 345,1441 415,1440 486,1439 557,1439 627,1438 698,1439 769,1437 840,1436 910,1435 981,1435 1052,1437 1122,1435 1193,1435 1264,1435 1334,1433 1405,1434 1476,1433 1547,1437"/>
+                <TextEquiv>
+                    <Unicode>magna, la violenza campagnola dei mercati, delle contrattazioni al sole, sulla          di strade.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_15" custom="readingOrder {index:16;}">
+                <Coords points="153,1539 224,1537 295,1534 366,1531 437,1531 508,1529 579,1529 650,1531 721,1530 792,1531 864,1530 935,1529 1006,1531 1077,1529 1148,1529 1219,1529 1290,1529 1361,1529 1432,1529 1503,1529 1575,1535 1575,1487 1503,1481 1432,1481 1361,1481 1290,1481 1219,1481 1148,1481 1077,1481 1006,1483 935,1481 864,1482 792,1483 721,1482 650,1483 579,1481 508,1481 437,1483 366,1483 295,1486 224,1489 153,1491"/>
+                <Baseline points="153,1523 224,1521 295,1518 366,1515 437,1515 508,1513 579,1513 650,1515 721,1514 792,1515 864,1514 935,1513 1006,1515 1077,1513 1148,1513 1219,1513 1290,1513 1361,1513 1432,1513 1503,1513 1575,1519"/>
+                <TextEquiv>
+                    <Unicode>Fantasia, bizza e umore, che si fanno rancore, baruffa, brevi come il fuoco di paglia. Dopo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_16" custom="readingOrder {index:17;}">
+                <Coords points="133,1607 203,1609 250,1606 345,1607 416,1607 487,1605 558,1603 629,1605 700,1605 771,1605 842,1604 912,1604 983,1607 1054,1604 1125,1605 1196,1605 1267,1604 1338,1607 1409,1605 1480,1604 1551,1605 1551,1557 1480,1556 1409,1557 1338,1559 1267,1556 1196,1557 1125,1557 1054,1556 983,1559 912,1556 842,1556 771,1557 700,1557 629,1557 558,1555 487,1557 416,1559 345,1559 274,1561 203,1561 133,1559"/>
+                <Baseline points="133,1591 203,1593 274,1593 345,1591 416,1591 487,1589 558,1587 629,1589 700,1589 771,1589 842,1588 912,1588 983,1591 1054,1588 1125,1589 1196,1589 1267,1588 1338,1591 1409,1589 1480,1588 1551,1589"/>
+                <TextEquiv>
+                    <Unicode>rimane un poco di fumo. Il suo viso allungato, sotto il ciuffo spavaldo, sentiva di quel fumo. E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_17" custom="readingOrder {index:18;}">
+                <Coords points="135,1689 204,1683 274,1681 344,1681 414,1681 484,1681 553,1681 623,1682 693,1679 763,1679 833,1680 902,1681 972,1682 1042,1679 1112,1679 1182,1680 1251,1680 1321,1683 1391,1682 1461,1682 1531,1685 1531,1637 1461,1634 1391,1634 1321,1635 1251,1632 1182,1632 1112,1631 1042,1631 972,1634 902,1633 833,1632 763,1631 693,1631 623,1634 553,1633 484,1633 414,1633 344,1633 274,1633 204,1635 135,1641"/>
+                <Baseline points="135,1673 204,1667 274,1665 344,1665 414,1665 484,1665 553,1665 623,1666 693,1663 763,1663 833,1664 902,1665 972,1666 1042,1663 1112,1663 1182,1664 1251,1664 1321,1667 1391,1666 1461,1666 1531,1669"/>
+                <TextEquiv>
+                    <Unicode>io mi lasciavo attirare dall’impeto di sensi dell’amico. E di sentimenti confusi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_18" custom="readingOrder {index:19;}">
+                <Coords points="133,1763 204,1762 276,1759 348,1760 420,1760 492,1759 563,1757 635,1757 707,1754 779,1755 851,1755 922,1755 994,1757 1066,1755 1138,1759 1210,1759 1281,1757 1353,1757 1425,1757 1497,1757 1569,1757 1569,1709 1497,1709 1425,1709 1353,1709 1281,1709 1210,1711 1138,1711 1066,1707 994,1709 922,1707 851,1707 779,1707 707,1706 635,1709 563,1709 492,1711 420,1712 348,1712 276,1711 204,1714 133,1715"/>
+                <Baseline points="133,1747 204,1746 276,1743 348,1744 420,1744 492,1743 563,1741 635,1741 707,1738 779,1739 851,1739 922,1739 994,1741 1066,1739 1138,1743 1210,1743 1281,1741 1353,1741 1425,1741 1497,1741 1569,1741"/>
+                <TextEquiv>
+                    <Unicode>Solo che la ragazza, è probabile, piaceva ad ambedue. Io, più cauto; e quasi volendo volgere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_19" custom="readingOrder {index:20;}">
+                <Coords points="133,1843 205,1839 277,1838 349,1837 422,1835 494,1835 566,1835 639,1833 711,1833 783,1833 856,1833 928,1829 1000,1829 1072,1829 1145,1830 1217,1831 1289,1830 1362,1831 1434,1829 1506,1830 1579,1837 1579,1789 1506,1782 1434,1781 1362,1783 1289,1782 1217,1783 1145,1782 1072,1781 1000,1781 928,1781 856,1785 783,1785 711,1785 639,1785 566,1787 494,1787 422,1787 349,1789 277,1790 205,1791 133,1795"/>
+                <Baseline points="133,1827 205,1823 277,1822 349,1821 422,1819 494,1819 566,1819 639,1817 711,1817 783,1817 856,1817 928,1813 1000,1813 1072,1813 1145,1814 1217,1815 1289,1814 1362,1815 1434,1813 1506,1814 1579,1821"/>
+                <TextEquiv>
+                    <Unicode>in ischerzo e divertimento i trapassi di un avvenimento, che teneva, nel suo modo, sbozza-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_20" custom="readingOrder {index:21;}">
+                <Coords points="139,1911 210,1909 281,1908 352,1907 423,1907 494,1907 565,1905 636,1903 707,1903 778,1903 849,1900 920,1901 991,1901 1062,1901 1133,1899 1204,1899 1275,1901 1346,1901 1417,1902 1488,1901 1559,1903 1559,1873 1488,1871 1417,1872 1346,1871 1275,1871 1204,1869 1133,1869 1062,1871 991,1871 920,1871 849,1870 778,1873 707,1873 636,1873 565,1875 494,1877 423,1877 352,1877 281,1878 210,1879 139,1881"/>
+                <Baseline points="139,1901 210,1899 281,1898 352,1897 423,1897 494,1897 565,1895 636,1893 707,1893 778,1893 849,1890 920,1891 991,1891 1062,1891 1133,1889 1204,1889 1275,1891 1346,1891 1417,1892 1488,1891 1559,1893"/>
+                <TextEquiv>
+                    <Unicode>to appena, dell’idillio. E non v’era, forse, che lo sfondo di una notturna fantasia, di una scossa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_21" custom="readingOrder {index:22;}">
+                <Coords points="143,1951 177,1949 211,1947 211,1917 177,1919 143,1921"/>
+                <Baseline points="143,1941 177,1939 211,1937"/>
+                <TextEquiv>
+                    <Unicode>ento</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186569692_1982" custom="readingOrder {index:23;} del {offset:0; length:4;rend:overstrike;} gap {offset:0; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="142,1931 1143,1929 1143,1979 142,1981"/>
+                <Baseline points="142,1976 1143,1974"/>
+                <TextEquiv>
+                    <Unicode>     cui muovere i primi tratti di una novelletta sentimentale.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ad una cordicella. Le          posano, ritte ad una parete , della baracca. Fu così, cogliendo&#13;
+quello sguardo smarrito, che una sera noi offrimmo alla signora della Pista qualche colpo al&#13;
+Tiro. Disse: -“Mi piace di tirare ai fantocci.”- Poiché v’erano, in un rango dietro&#13;
+le pipe, alcune teste di legno. Si doveva mirare ad un disco dipinto, che sporgeva dalla testa.&#13;
+Tutti e tre, - era ormai l’ora della chiusura, passammo alla baracca del tiro. La signora si&#13;
+dimostrò, nell’esercizio, più esperta di noi. Il mio amico, chiassoso, si disperava. Conti-&#13;
+nuò, da solo, a sparare. Il piccolo romagnolo si ridestava nei ricordi delle battaglie d’infanzia&#13;
+fra ragazzi. Gridava ancora: “Signora, lei deve scommettere con me. Mio nonno era un gari-&#13;
+baldino… “, quando già la ragazza era rientrata nel suo recinto. Ringraziava, lieta, della nostra&#13;
+offerta. Divenimmo frequentatori assidui della pista.&#13;
+A parte che il giuoco accendeva quel fuoco d’allegria nel mio amico: quel suo viso&#13;
+grigiastro di ragazzo inquieto dove scoppiava una felicità tenuta compressa. Nel suo      &#13;
+corpo,&#13;
+,&#13;
+nei gesti delle mani, nella ressa di parole avventate, risorgeva la visibilità degli uomini di Ro-&#13;
+magna, la violenza campagnola dei mercati, delle contrattazioni al sole, sulla          di strade.&#13;
+Fantasia, bizza e umore, che si fanno rancore, baruffa, brevi come il fuoco di paglia. Dopo,&#13;
+rimane un poco di fumo. Il suo viso allungato, sotto il ciuffo spavaldo, sentiva di quel fumo. E&#13;
+io mi lasciavo attirare dall’impeto di sensi dell’amico. E di sentimenti confusi.&#13;
+Solo che la ragazza, è probabile, piaceva ad ambedue. Io, più cauto; e quasi volendo volgere&#13;
+in ischerzo e divertimento i trapassi di un avvenimento, che teneva, nel suo modo, sbozza-&#13;
+to appena, dell’idillio. E non v’era, forse, che lo sfondo di una notturna fantasia, di una scossa&#13;
+ento&#13;
+     cui muovere i primi tratti di una novelletta sentimentale.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

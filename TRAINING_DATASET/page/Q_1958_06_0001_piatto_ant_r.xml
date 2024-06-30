@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:22:25.866+01:00</Created>
+        <LastChange>2024-06-20T10:55:34.952+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325434" pageNr="9" tsid="175603473" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=WDJRGZZXSJZWWVIGGHORAMNP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QMGKCYILXVSSLTKATVVTMCWH" imageId="53899334"/>
+    </Metadata>
+    <Page imageFilename="Q_1958_06_0001_piatto_ant_r.jpg" imageWidth="1798" imageHeight="2539" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746058722" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1714066899470_898"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" type="heading" id="tr_1" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="567,538 567,814 1313,814 1313,538"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="567,656 597,655 628,655 658,654 689,654 720,654 750,653 781,652 811,653 842,652 873,654 903,652 934,652 964,654 995,652 1026,652 1056,650 1087,650 1117,650 1148,650 1179,652 1179,540 1148,538 1117,538 1087,538 1056,538 1026,540 995,540 964,542 934,540 903,540 873,542 842,540 811,541 781,540 750,541 720,542 689,542 658,542 628,543 597,543 567,544"/>
+                <Baseline points="567,619 597,618 628,618 658,617 689,617 720,617 750,616 781,615 811,616 842,615 873,617 903,615 934,615 964,617 995,615 1026,615 1056,613 1087,613 1117,613 1148,613 1179,615"/>
+                <TextEquiv>
+                    <Unicode>Tre bambini in maschera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="579,806 615,804 652,806 689,806 725,806 762,808 799,807 835,807 872,808 909,808 946,808 982,808 1019,809 1056,808 1092,810 1129,809 1166,810 1202,810 1239,812 1276,814 1313,812 1313,700 1276,702 1239,700 1202,698 1166,698 1129,697 1092,698 1056,696 1019,697 982,696 946,696 909,696 872,696 835,695 799,695 762,696 725,694 689,694 652,694 615,692 579,694"/>
+                <Baseline points="579,769 615,767 652,769 689,769 725,769 762,771 799,770 835,770 872,771 909,771 946,771 982,771 1019,772 1056,771 1092,773 1129,772 1166,773 1202,773 1239,775 1276,777 1313,775"/>
+                <TextEquiv>
+                    <Unicode>Laturéamont: "L'Hermaphrodite"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tre bambini in maschera
+Laturéamont: "L'Hermaphrodite"</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="other" id="region_1714066899470_898" custom="readingOrder {index:1;} structure {type:other;}">
+            <Coords points="571,1043 705,1043 705,936 571,936"/>
+            <TextLine id="line_1714067054552_904" custom="readingOrder {index:0;} hi {offset:0; length:8;rend:color; type:\u0022grey\u0022;}">
+                <Coords points="579,958 691,960 690,1018 581,1018"/>
+                <Baseline points="581,1013 690,1013"/>
+                <TextEquiv>
+                    <Unicode>febbraio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>febbraio</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

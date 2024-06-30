@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:07:51.185+01:00</Created>
+        <LastChange>2024-06-20T11:31:20.818+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325500" pageNr="47" tsid="175603531" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=MGLLGOSWCCCYSILKOFQQEYXP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TQBQKBRQQRBBFLYRCHTMUXTC" imageId="53903605"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_02_0014_c6v.jpg" imageWidth="1798" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746066460" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718875851327_481"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718875851327_481" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1623,343 1520,343 1520,278 1623,278"/>
+            <TextLine id="line_1718120902542_1605" custom="readingOrder {index:0;}">
+                <Coords points="1535,286 1611,290 1609,340 1533,336"/>
+                <Baseline points="1533,331 1609,335"/>
+                <TextEquiv>
+                    <Unicode>12.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>12.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="206,277 209,2101 1669,2097 1666,273"/>
+            <TextLine id="line_1718120908353_1610" custom="readingOrder {index:0;}">
+                <Coords points="226,464 1624,459 1624,509 226,514"/>
+                <Baseline points="226,509 1624,504"/>
+                <TextEquiv>
+                    <Unicode>il calice, il cilindro di legno e l'altro blocchetto di legno-a-vene, una visione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120912991_1615" custom="readingOrder {index:1;}">
+                <Coords points="224,540 1626,533 1626,583 224,590"/>
+                <Baseline points="224,585 1626,578"/>
+                <TextEquiv>
+                    <Unicode>di oggetti a loro modo patetici a furia di silenzio, per convincersi di come, anche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120917987_1620" custom="readingOrder {index:2;}">
+                <Coords points="228,611 1657,608 1657,658 228,661"/>
+                <Baseline points="228,656 1657,653"/>
+                <TextEquiv>
+                    <Unicode>sul pieno della polemica e della fase del tempo metafisico, l'arte di Carrà non aveva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120922509_1625" custom="readingOrder {index:3;}">
+                <Coords points="221,689 1652,689 1652,739 221,739"/>
+                <Baseline points="221,734 1652,734"/>
+                <TextEquiv>
+                    <Unicode>altri scopi all'infuori di quelli, di toccare ed esprimere, attraverso la risoluzione plasti_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120925949_1630" custom="readingOrder {index:4;}">
+                <Coords points="224,767 1654,762 1654,812 224,817"/>
+                <Baseline points="224,812 1654,807"/>
+                <TextEquiv>
+                    <Unicode>ca, motivi profondi di meditazione lirica. Nell'esplicazione di un tale carattere, nella rea_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120931657_1635" custom="readingOrder {index:5;}">
+                <Coords points="214,845 1647,841 1647,891 214,895"/>
+                <Baseline points="214,890 1647,886"/>
+                <TextEquiv>
+                    <Unicode>lizzazione delle opere che ne seguono, Carrà dimostro di fare opere a parte, nella corren_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120935918_1640" custom="readingOrder {index:6;}">
+                <Coords points="221,914 1643,909 1643,959 221,964"/>
+                <Baseline points="221,959 1643,954"/>
+                <TextEquiv>
+                    <Unicode>te e nel movimento pittorico denominato "metafisico".Non diversa sarà la sostanza del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="217,1050 243,1048 270,1048 297,1046 323,1045 350,1045 377,1046 403,1046 430,1046 457,1046 484,1046 510,1046 537,1048 564,1046 590,1045 617,1044 644,1044 670,1044 697,1044 724,1044 751,1048 751,996 724,992 697,992 670,992 644,992 617,992 590,993 564,994 537,996 510,994 484,994 457,994 430,994 403,994 377,994 350,993 323,993 297,994 270,996 243,996 217,998"/>
+                <Baseline points="217,1033 243,1031 270,1031 297,1029 323,1028 350,1028 377,1029 403,1029 430,1029 457,1029 484,1029 510,1029 537,1031 564,1029 590,1028 617,1027 644,1027 670,1027 697,1027 724,1027 751,1031"/>
+                <TextEquiv>
+                    <Unicode>suo lavoro nel tempo successivo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120942669_1645" custom="readingOrder {index:8;}">
+                <Coords points="233,1067 1650,1070 1650,1120 233,1117"/>
+                <Baseline points="233,1112 1650,1115"/>
+                <TextEquiv>
+                    <Unicode>Sono poi due anni, fra il '21 e il '22, in cui l'invenzione della immagine o figura plastica,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120947662_1650" custom="readingOrder {index:9;}">
+                <Coords points="223,1147 1612,1138 1612,1188 223,1197"/>
+                <Baseline points="223,1192 1612,1183"/>
+                <TextEquiv>
+                    <Unicode>in Carrà, si accompagna al bisogno raggiungere questa attraverso il filtro di una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120951603_1655" custom="readingOrder {index:10;}">
+                <Coords points="231,1220 1652,1216 1652,1266 231,1270"/>
+                <Baseline points="231,1265 1652,1261"/>
+                <TextEquiv>
+                    <Unicode>favola, o simbologia letteraria. Non si può dire che la riuscita pittorica ne scapiti: ma co-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120955484_1660" custom="readingOrder {index:11;}">
+                <Coords points="225,1289 1663,1296 1663,1346 225,1339"/>
+                <Baseline points="225,1334 1663,1341"/>
+                <TextEquiv>
+                    <Unicode>munque opere come l' "Amante dell'ingengere", "Il mulino di Sant'Anna", "Il pino sul mare",</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120959377_1665" custom="readingOrder {index:12;}">
+                <Coords points="225,1378 1659,1369 1659,1419 225,1428"/>
+                <Baseline points="225,1423 1659,1414"/>
+                <TextEquiv>
+                    <Unicode>"La casa dell'amore", non nascondono la traccia di un' equivoco, generoso per eccesso di sen_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120964642_1670" custom="readingOrder {index:13;}">
+                <Coords points="220,1449 1655,1440 1655,1490 220,1499"/>
+                <Baseline points="220,1494 1655,1485"/>
+                <TextEquiv>
+                    <Unicode>timento, quale può essere contenuto in una situazione del genere di quella accennata. E'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120971021_1675" custom="readingOrder {index:14;}">
+                <Coords points="221,1530 1656,1523 1656,1573 221,1580"/>
+                <Baseline points="221,1575 1656,1568"/>
+                <TextEquiv>
+                    <Unicode>evidente che Carrà si preparava a procedere, intellettualmente e nel piano pittorico, verso o_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120975077_1680" custom="readingOrder {index:15;}">
+                <Coords points="228,1601 1654,1598 1654,1648 228,1651"/>
+                <Baseline points="228,1646 1654,1643"/>
+                <TextEquiv>
+                    <Unicode>rizzonti nuovi, quelli riassumibili in un concetto di nuovo realismo, o di realismo ap_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120978709_1685" custom="readingOrder {index:16;}">
+                <Coords points="228,1674 1651,1674 1651,1724 228,1724"/>
+                <Baseline points="228,1719 1651,1719"/>
+                <TextEquiv>
+                    <Unicode>passionato: come dire di un artista che, guardando e giudicando il volto delle cose, e del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120982040_1690" custom="readingOrder {index:17;}">
+                <Coords points="228,1747 1660,1749 1660,1799 228,1797"/>
+                <Baseline points="228,1792 1660,1794"/>
+                <TextEquiv>
+                    <Unicode>mondo, disponga l'animo di una malinconica e forte riflessione. La felicità: perché anche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120986002_1695" custom="readingOrder {index:18;} gap {offset:76; length:0;quantity:9; unit:character; reason:illegible;}">
+                <Coords points="230,1818 1643,1820 1643,1870 230,1868"/>
+                <Baseline points="230,1863 1643,1865"/>
+                <TextEquiv>
+                    <Unicode>felicità, che tali opere esprimono, è quella del vero e della verità umana,           da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120988884_1700" custom="readingOrder {index:19;}">
+                <Coords points="241,1900 1630,1898 1630,1948 241,1950"/>
+                <Baseline points="241,1945 1630,1943"/>
+                <TextEquiv>
+                    <Unicode>ognuno nella propria coscienza. Sono del '21 e '23, paesaggi marini dove qualità del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718120992786_1705" custom="readingOrder {index:20;}">
+                <Coords points="241,1982 1634,1973 1634,2023 241,2032"/>
+                <Baseline points="241,2027 1634,2018"/>
+                <TextEquiv>
+                    <Unicode>mare, qualità del cielo, sostanza delle vele, sono ricavati e fusi nell'unica qualità</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>il calice, il cilindro di legno e l'altro blocchetto di legno-a-vene, una visione&#13;
+di oggetti a loro modo patetici a furia di silenzio, per convincersi di come, anche&#13;
+sul pieno della polemica e della fase del tempo metafisico, l'arte di Carrà non aveva&#13;
+altri scopi all'infuori di quelli, di toccare ed esprimere, attraverso la risoluzione plasti_&#13;
+ca, motivi profondi di meditazione lirica. Nell'esplicazione di un tale carattere, nella rea_&#13;
+lizzazione delle opere che ne seguono, Carrà dimostro di fare opere a parte, nella corren_&#13;
+te e nel movimento pittorico denominato "metafisico".Non diversa sarà la sostanza del&#13;
+suo lavoro nel tempo successivo.&#13;
+Sono poi due anni, fra il '21 e il '22, in cui l'invenzione della immagine o figura plastica,&#13;
+in Carrà, si accompagna al bisogno raggiungere questa attraverso il filtro di una&#13;
+favola, o simbologia letteraria. Non si può dire che la riuscita pittorica ne scapiti: ma co-&#13;
+munque opere come l' "Amante dell'ingengere", "Il mulino di Sant'Anna", "Il pino sul mare",&#13;
+"La casa dell'amore", non nascondono la traccia di un' equivoco, generoso per eccesso di sen_&#13;
+timento, quale può essere contenuto in una situazione del genere di quella accennata. E'&#13;
+evidente che Carrà si preparava a procedere, intellettualmente e nel piano pittorico, verso o_&#13;
+rizzonti nuovi, quelli riassumibili in un concetto di nuovo realismo, o di realismo ap_&#13;
+passionato: come dire di un artista che, guardando e giudicando il volto delle cose, e del&#13;
+mondo, disponga l'animo di una malinconica e forte riflessione. La felicità: perché anche&#13;
+felicità, che tali opere esprimono, è quella del vero e della verità umana,           da&#13;
+ognuno nella propria coscienza. Sono del '21 e '23, paesaggi marini dove qualità del&#13;
+mare, qualità del cielo, sostanza delle vele, sono ricavati e fusi nell'unica qualità</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

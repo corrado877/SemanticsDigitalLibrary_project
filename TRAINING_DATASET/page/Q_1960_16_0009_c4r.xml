@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:59:36.858+01:00</Created>
+        <LastChange>2024-06-20T11:18:46.087+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325446" pageNr="33" tsid="175603513" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=ULFDXGRHSCEDAJOFNMXGMFCL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OGIZSCKWTXBLKTPLRAIHQEUZ" imageId="53902874"/>
+    </Metadata>
+    <Page imageFilename="Q_1960_16_0009_c4r.jpg" imageWidth="1798" imageHeight="2473" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746063595" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="region_1718645785189_1442"/>
+                <RegionRefIndexed index="2" regionRef="region_1718645453558_1326"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="136,249 121,2070 1619,2066 1634,245"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1718645785189_1442" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="239,342 143,342 143,269 239,269"/>
+            <TextLine id="line_1718645772475_1437" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:left;}">
+                <Coords points="154,288 220,288 220,338 154,338"/>
+                <Baseline points="154,333 220,333"/>
+                <TextEquiv>
+                    <Unicode>7.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>7.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718645453558_1326" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="143,398 1598,398 1598,2045 143,2045"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="174,506 245,504 316,505 387,506 458,503 529,504 600,504 671,503 742,502 813,503 884,504 955,504 1026,504 1097,504 1168,504 1239,506 1310,504 1381,504 1452,506 1523,508 1594,514 1594,465 1523,459 1452,457 1381,455 1310,455 1239,457 1168,455 1097,455 1026,455 955,455 884,455 813,454 742,453 671,454 600,455 529,455 458,454 387,457 316,456 245,455 174,457"/>
+                <Baseline points="174,490 245,488 316,489 387,490 458,487 529,488 600,488 671,487 742,486 813,487 884,488 955,488 1026,488 1097,488 1168,488 1239,490 1310,488 1381,488 1452,490 1523,492 1594,498"/>
+                <TextEquiv>
+                    <Unicode>mì. O i vari, pungenti "papiers collès, di parole insinuanti, ironicamente, da Jules Re-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="166,582 237,582 308,582 379,583 450,580 522,580 593,578 664,580 735,581 806,582 878,581 949,579 1020,578 1091,576 1162,575 1234,576 1305,576 1376,576 1447,576 1518,578 1590,580 1590,532 1518,530 1447,528 1376,528 1305,528 1234,528 1162,527 1091,528 1020,530 949,531 878,533 806,534 735,533 664,532 593,530 522,532 450,532 379,535 308,534 237,534 166,534"/>
+                <Baseline points="166,566 237,566 308,566 379,567 450,564 522,564 593,562 664,564 735,565 806,566 878,565 949,563 1020,562 1091,560 1162,559 1234,560 1305,560 1376,560 1447,560 1518,562 1590,564"/>
+                <TextEquiv>
+                    <Unicode>nard sulle pagine della "Revue blanche" in piena stagione simbolista, o suggerire e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;} del {offset:78; length:5;rend:overstrike;} gap {offset:78; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="166,663 236,655 306,654 377,653 447,653 518,653 588,653 658,656 729,655 799,657 870,655 940,655 1010,653 1081,652 1151,651 1222,651 1292,652 1362,653 1433,654 1503,654 1574,659 1574,608 1503,603 1433,603 1362,602 1292,601 1222,600 1151,600 1081,601 1010,602 940,604 870,604 799,606 729,604 658,605 588,602 518,602 447,602 377,602 306,603 236,604 166,612"/>
+                <Baseline points="166,646 236,638 306,637 377,636 447,636 518,636 588,636 658,639 729,638 799,640 870,638 940,638 1010,636 1081,635 1151,634 1222,634 1292,635 1362,636 1433,637 1503,637 1574,642"/>
+                <TextEquiv>
+                    <Unicode>presentare i contorni di "figure" con un disegno di sole lettere. Ma è invece       certo che </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;} person {offset:54; length:11;occupation:poet; firstname:Guillaume\u0020; dateOfDeath:9\u0020November\u00201918; dateOfBirth:26\u0020August\u00201880; lastname:Apollinaire;}">
+                <Coords points="168,733 237,731 306,732 376,731 445,731 515,731 584,732 653,733 723,731 792,731 862,729 931,729 1000,732 1070,727 1139,727 1209,727 1278,725 1347,725 1417,726 1486,726 1556,725 1556,673 1486,674 1417,674 1347,673 1278,673 1209,675 1139,675 1070,675 1000,680 931,677 862,677 792,679 723,679 653,681 584,680 515,679 445,679 376,679 306,680 237,679 168,681"/>
+                <Baseline points="168,716 237,714 306,715 376,714 445,714 515,714 584,715 653,716 723,714 792,714 862,712 931,712 1000,715 1070,710 1139,710 1209,710 1278,708 1347,708 1417,709 1486,709 1556,708"/>
+                <TextEquiv>
+                    <Unicode>le ragioni, le motivazioni delle ricerche poetiche di Apollinaire affondavano le radici, e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="164,811 234,811 305,811 375,811 446,812 516,812 587,809 657,808 728,807 798,807 869,807 939,805 1010,805 1080,804 1151,805 1221,803 1292,803 1362,805 1433,802 1503,803 1574,801 1574,749 1503,751 1433,750 1362,753 1292,751 1221,751 1151,753 1080,752 1010,753 939,753 869,755 798,755 728,755 657,756 587,757 516,760 446,760 375,759 305,759 234,759 164,759"/>
+                <Baseline points="164,794 234,794 305,794 375,794 446,795 516,795 587,792 657,791 728,790 798,790 869,790 939,788 1010,788 1080,787 1151,788 1221,786 1292,786 1362,788 1433,785 1503,786 1574,784"/>
+                <TextEquiv>
+                    <Unicode>cercavano, giorno per giorno, nel terreno medesimo dentro cui crescevano e mettevano già</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="166,889 236,886 307,883 377,883 448,882 519,883 589,881 660,881 730,881 801,881 872,882 942,881 1013,881 1083,881 1154,881 1225,883 1295,882 1366,881 1436,881 1507,884 1578,889 1578,837 1507,832 1436,829 1366,829 1295,830 1225,831 1154,829 1083,829 1013,829 942,829 872,830 801,829 730,829 660,829 589,829 519,831 448,830 377,831 307,831 236,834 166,837"/>
+                <Baseline points="166,872 236,869 307,866 377,866 448,865 519,866 589,864 660,864 730,864 801,864 872,865 942,864 1013,864 1083,864 1154,864 1225,866 1295,865 1366,864 1436,864 1507,867 1578,872"/>
+                <TextEquiv>
+                    <Unicode>frutti assai evidenti le ricerche dei pittori e degli scultori suoi contemporanei. Inestricabile è,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;} person {offset:53; length:11;occupation:poet; firstname:Guillaume\u0020; dateOfDeath:9\u0020November\u00201918; dateOfBirth:26\u0020August\u00201880; lastname:Apollinaire;}">
+                <Coords points="166,961 235,958 305,959 375,961 445,960 515,961 585,959 655,959 725,957 795,957 865,957 934,957 1004,957 1074,957 1144,955 1214,956 1284,957 1354,955 1424,955 1494,955 1564,959 1564,907 1494,903 1424,903 1354,903 1284,905 1214,904 1144,903 1074,905 1004,905 934,905 865,905 795,905 725,905 655,907 585,907 515,909 445,908 375,909 305,907 235,906 166,909"/>
+                <Baseline points="166,944 235,941 305,942 375,944 445,943 515,944 585,942 655,942 725,940 795,940 865,940 934,940 1004,940 1074,940 1144,938 1214,939 1284,940 1354,938 1424,938 1494,938 1564,942"/>
+                <TextEquiv>
+                    <Unicode>storicamente, questo rapporto spontaneo dell'arte di Apollinaire con l'arte dei cubisti, e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;} person {offset:50; length:11;occupation:poet; firstname:Guillaume\u0020; dateOfDeath:9\u0020November\u00201918; dateOfBirth:26\u0020August\u00201880; lastname:Apollinaire;}">
+                <Coords points="158,1033 227,1038 297,1037 367,1037 437,1037 507,1036 577,1035 647,1035 717,1036 787,1035 857,1031 926,1033 996,1031 1066,1031 1136,1032 1206,1031 1276,1032 1346,1033 1416,1031 1486,1031 1556,1037 1556,985 1486,979 1416,979 1346,981 1276,980 1206,979 1136,980 1066,979 996,979 926,981 857,979 787,983 717,984 647,983 577,983 507,984 437,985 367,985 297,985 227,986 158,981"/>
+                <Baseline points="158,1016 227,1021 297,1020 367,1020 437,1020 507,1019 577,1018 647,1018 717,1019 787,1018 857,1014 926,1016 996,1014 1066,1014 1136,1015 1206,1014 1276,1015 1346,1016 1416,1014 1486,1014 1556,1020"/>
+                <TextEquiv>
+                    <Unicode>degli innovatori figurativi dei suoi anni. Quando Apollinaire formula in termini critici</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="158,1107 230,1109 302,1111 375,1111 447,1110 520,1109 592,1109 664,1109 737,1110 809,1108 882,1111 954,1108 1026,1107 1099,1108 1171,1107 1244,1107 1316,1106 1388,1107 1461,1106 1533,1107 1606,1107 1606,1055 1533,1055 1461,1054 1388,1055 1316,1054 1244,1055 1171,1055 1099,1056 1026,1055 954,1056 882,1059 809,1056 737,1058 664,1057 592,1057 520,1057 447,1058 375,1059 302,1059 230,1057 158,1055"/>
+                <Baseline points="158,1090 230,1092 302,1094 375,1094 447,1093 520,1092 592,1092 664,1092 737,1093 809,1091 882,1094 954,1091 1026,1090 1099,1091 1171,1090 1244,1090 1316,1089 1388,1090 1461,1089 1533,1090 1606,1090"/>
+                <TextEquiv>
+                    <Unicode>il fondamento di codesta sua estetica, ricorre, naturalmente, a termini e espressioni impie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="180,1197 248,1189 317,1188 386,1187 455,1185 524,1185 593,1183 662,1183 731,1181 800,1179 869,1179 937,1178 1006,1179 1075,1179 1144,1179 1213,1180 1282,1181 1351,1183 1420,1181 1489,1181 1558,1181 1558,1129 1489,1129 1420,1129 1351,1131 1282,1129 1213,1128 1144,1127 1075,1127 1006,1127 937,1126 869,1127 800,1127 731,1129 662,1131 593,1131 524,1133 455,1133 386,1135 317,1136 248,1137 180,1145"/>
+                <Baseline points="180,1180 248,1172 317,1171 386,1170 455,1168 524,1168 593,1166 662,1166 731,1164 800,1162 869,1162 937,1161 1006,1162 1075,1162 1144,1162 1213,1163 1282,1164 1351,1166 1420,1164 1489,1164 1558,1164"/>
+                <TextEquiv>
+                    <Unicode>gati dagli artisti e dai commentatori critici dell'arte nuova. La parola "simultaneità"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718645413959_1318" custom="readingOrder {index:10;} unclear {offset:77; length:7;reason:illegible;} gap {offset:77; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="152,1212 155,1213 230,1212 305,1209 381,1208 456,1207 531,1208 607,1209 682,1208 833,1208 908,1206 983,1206 1058,1207 1134,1206 1209,1208 1284,1208 1360,1206 1435,1208 1510,1206 1586,1206 1586,1260 1510,1260 1435,1262 1360,1260 1284,1262 1209,1262 1134,1260 1058,1261 983,1260 908,1260 833,1262 682,1262 607,1263 531,1262 456,1261 381,1262 305,1263 230,1266 155,1267 152,1266"/>
+                <Baseline points="152,1248 155,1249 230,1248 305,1245 381,1244 456,1243 531,1244 607,1245 682,1244 757,1244 833,1244 908,1242 983,1242 1058,1243 1134,1242 1209,1244 1284,1244 1360,1242 1435,1244 1510,1242 1586,1242"/>
+                <TextEquiv>
+                    <Unicode>è tra le più frequenti del suo linguaggio. Pur rammentando che anche essendo          </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;} unclear {offset:18; length:6;reason:illegible;} gap {offset:18; length:0;quantity:6; unit:character; reason:illegible;}">
+                <Coords points="162,1340 230,1337 299,1338 368,1336 437,1336 506,1337 575,1336 644,1334 713,1336 782,1334 851,1332 919,1332 988,1333 1057,1334 1126,1332 1195,1334 1264,1334 1333,1338 1402,1338 1471,1338 1540,1342 1540,1293 1471,1289 1402,1289 1333,1289 1264,1285 1195,1285 1126,1283 1057,1285 988,1284 919,1283 851,1283 782,1285 713,1287 644,1285 575,1287 506,1288 437,1287 368,1287 299,1289 230,1288 162,1291"/>
+                <Baseline points="162,1324 230,1321 299,1322 368,1320 437,1320 506,1321 575,1320 644,1318 713,1320 782,1318 851,1316 919,1316 988,1317 1057,1318 1126,1316 1195,1318 1264,1318 1333,1322 1402,1322 1471,1322 1540,1326"/>
+                <TextEquiv>
+                    <Unicode>di alcuni un tale        ,come si ritrova in suoi quaderni e scritti, è nel 1912</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;} unclear {offset:33; length:8;reason:illegible;} gap {offset:33; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="166,1406 237,1412 308,1412 379,1412 450,1410 521,1412 592,1412 663,1412 734,1412 805,1411 876,1410 947,1410 1018,1410 1089,1410 1160,1410 1231,1412 1302,1412 1373,1412 1444,1415 1515,1418 1586,1424 1586,1376 1515,1370 1444,1367 1373,1364 1302,1364 1231,1364 1160,1362 1089,1362 1018,1362 947,1362 876,1362 805,1363 734,1364 663,1364 592,1364 521,1364 450,1362 379,1364 308,1364 237,1364 166,1358"/>
+                <Baseline points="166,1390 237,1396 308,1396 379,1396 450,1394 521,1396 592,1396 663,1396 734,1396 805,1395 876,1394 947,1394 1018,1394 1089,1394 1160,1394 1231,1396 1302,1396 1373,1396 1444,1399 1515,1402 1586,1408"/>
+                <TextEquiv>
+                    <Unicode>che Egli lo comunica in sue note           e nelle "Soirées de Paris"; finché è in que-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:13;} date {offset:33; length:13;year:0; day:0; month:0;} person {offset:48; length:11;occupation:poet; firstname:Guillaume\u0020; dateOfDeath:9\u0020November\u00201918; dateOfBirth:\u002026\u0020August\u00201880; lastname:Apollinaire;}">
+                <Coords points="160,1488 231,1490 303,1488 375,1488 447,1489 519,1490 590,1490 662,1492 734,1492 806,1494 878,1492 949,1491 1021,1490 1093,1488 1165,1486 1237,1486 1308,1486 1380,1486 1452,1490 1524,1492 1596,1498 1596,1449 1524,1443 1452,1441 1380,1437 1308,1437 1237,1437 1165,1437 1093,1439 1021,1441 949,1442 878,1443 806,1445 734,1443 662,1443 590,1441 519,1441 447,1440 375,1439 303,1439 231,1441 160,1439"/>
+                <Baseline points="160,1472 231,1474 303,1472 375,1472 447,1473 519,1474 590,1474 662,1476 734,1476 806,1478 878,1476 949,1475 1021,1474 1093,1472 1165,1470 1237,1470 1308,1470 1380,1470 1452,1474 1524,1476 1596,1482"/>
+                <TextEquiv>
+                    <Unicode>sta ultima rivista che, in data 15 giugno 1914, Apollinaire concentra un programma, un prin-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:14;} hi {offset:33; length:25;rend:underline;}">
+                <Coords points="170,1570 241,1564 312,1562 383,1562 454,1560 525,1561 596,1562 667,1562 738,1563 809,1562 881,1562 952,1560 1023,1560 1094,1558 1165,1558 1236,1560 1307,1561 1378,1562 1449,1564 1520,1566 1592,1568 1592,1519 1520,1517 1449,1515 1378,1513 1307,1512 1236,1511 1165,1509 1094,1509 1023,1511 952,1511 881,1513 809,1513 738,1514 667,1513 596,1513 525,1512 454,1511 383,1513 312,1513 241,1515 170,1521"/>
+                <Baseline points="170,1554 241,1548 312,1546 383,1546 454,1544 525,1545 596,1546 667,1546 738,1547 809,1546 881,1546 952,1544 1023,1544 1094,1542 1165,1542 1236,1544 1307,1545 1378,1546 1449,1548 1520,1550 1592,1552"/>
+                <TextEquiv>
+                    <Unicode>cipio estetico sotto il titolo di Simultanisme-Librettisme. In codesto articolo, in cui ricorrono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:15;} person {offset:76; length:7;occupation:painter; firstname:Marcel\u0020; dateOfDeath:2\u0020October\u00201968; dateOfBirth:\u002028\u0020July\u00201887; lastname:Duchamp;} unclear {offset:85; length:7;reason:illegible;} gap {offset:85; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="164,1639 235,1638 307,1639 378,1637 450,1640 521,1637 593,1638 664,1637 736,1639 807,1638 879,1639 950,1641 1022,1639 1093,1637 1165,1634 1236,1636 1308,1637 1379,1637 1451,1639 1522,1638 1594,1643 1594,1592 1522,1587 1451,1588 1379,1586 1308,1586 1236,1585 1165,1583 1093,1586 1022,1588 950,1590 879,1588 807,1587 736,1588 664,1586 593,1587 521,1586 450,1589 378,1586 307,1588 235,1587 164,1588"/>
+                <Baseline points="164,1622 235,1621 307,1622 378,1620 450,1623 521,1620 593,1621 664,1620 736,1622 807,1621 879,1622 950,1624 1022,1622 1093,1620 1165,1617 1236,1619 1308,1620 1379,1620 1451,1622 1522,1621 1594,1626"/>
+                <TextEquiv>
+                    <Unicode>le citazioni dell'opera di cubisti famosi, e di loro "casi" paralleli, come Duchamp,         </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:16;} person {offset:25; length:8;occupation:painter; firstname:Robert\u0020; dateOfDeath:25\u0020October\u00201941; dateOfBirth:12\u0020April\u00201885; lastname:Delaunay;}">
+                <Coords points="162,1715 233,1717 305,1715 376,1713 448,1713 519,1713 591,1713 662,1711 734,1713 805,1714 877,1711 948,1713 1020,1712 1091,1713 1163,1712 1234,1713 1306,1713 1377,1715 1449,1715 1520,1717 1592,1725 1592,1673 1520,1665 1449,1663 1377,1663 1306,1661 1234,1661 1163,1660 1091,1661 1020,1660 948,1661 877,1659 805,1662 734,1661 662,1659 591,1661 519,1661 448,1661 376,1661 305,1663 233,1665 162,1663"/>
+                <Baseline points="162,1698 233,1700 305,1698 376,1696 448,1696 519,1696 591,1696 662,1694 734,1696 805,1697 877,1694 948,1696 1020,1695 1091,1696 1163,1695 1234,1696 1306,1696 1377,1698 1449,1698 1520,1700 1592,1708"/>
+                <TextEquiv>
+                    <Unicode>e l'intrinseco suo amico Delaunay, non manca neppure il ricorso ai futuristi italiani. Così,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:17;}">
+                <Coords points="174,1792 244,1792 315,1792 386,1789 457,1788 528,1789 599,1789 670,1790 741,1789 812,1791 883,1790 953,1789 1024,1787 1095,1789 1166,1787 1237,1787 1308,1787 1379,1791 1450,1789 1521,1791 1592,1797 1592,1745 1521,1739 1450,1737 1379,1739 1308,1735 1237,1735 1166,1735 1095,1737 1024,1735 953,1737 883,1738 812,1739 741,1737 670,1738 599,1737 528,1737 457,1736 386,1737 315,1740 244,1740 174,1740"/>
+                <Baseline points="174,1775 244,1775 315,1775 386,1772 457,1771 528,1772 599,1772 670,1773 741,1772 812,1774 883,1773 953,1772 1024,1770 1095,1772 1166,1770 1237,1770 1308,1770 1379,1774 1450,1772 1521,1774 1592,1780"/>
+                <TextEquiv>
+                    <Unicode>offre alla testimonianza relativa al proprio lavoro poetico, vi si possono leggere dichiara-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:18;} foreign {offset:48; length:12;lang:french;} foreign {offset:60; length:17;lang:french;} foreign {offset:78; length:9; continued:true;lang:french;}">
+                <Coords points="164,1874 235,1871 307,1868 379,1868 450,1868 522,1866 594,1864 665,1866 737,1866 809,1866 881,1868 952,1867 1024,1868 1096,1866 1167,1868 1239,1868 1311,1866 1382,1864 1454,1866 1526,1865 1598,1872 1598,1818 1526,1811 1454,1812 1382,1810 1311,1812 1239,1814 1167,1814 1096,1812 1024,1814 952,1813 881,1814 809,1812 737,1812 665,1812 594,1810 522,1812 450,1814 379,1814 307,1814 235,1817 164,1820"/>
+                <Baseline points="164,1856 235,1853 307,1850 379,1850 450,1850 522,1848 594,1846 665,1848 737,1848 809,1848 881,1850 952,1849 1024,1850 1096,1848 1167,1850 1239,1850 1311,1848 1382,1846 1454,1848 1526,1847 1598,1854"/>
+                <TextEquiv>
+                    <Unicode>zioni, di questo genere pittorico illuminante: "C'est ainsi que si on a tenté (L'enchan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:19;} foreign {offset:0; length:11; continued:true;lang:french;} foreign {offset:13; length:11;lang:french;} foreign {offset:26; length:12;lang:french;} foreign {offset:46; length:10;lang:french;} foreign {offset:57; length:23;lang:french;}">
+                <Coords points="160,1948 229,1946 298,1942 368,1940 437,1944 507,1940 576,1942 645,1942 715,1944 784,1941 854,1942 923,1940 992,1941 1062,1938 1131,1940 1201,1940 1270,1941 1339,1940 1409,1941 1478,1943 1548,1946 1548,1892 1478,1889 1409,1887 1339,1886 1270,1887 1201,1886 1131,1886 1062,1884 992,1887 923,1886 854,1888 784,1887 715,1890 645,1888 576,1888 507,1886 437,1890 368,1886 298,1888 229,1892 160,1894"/>
+                <Baseline points="160,1930 229,1928 298,1924 368,1922 437,1926 507,1922 576,1924 645,1924 715,1926 784,1923 854,1924 923,1922 992,1923 1062,1920 1131,1922 1201,1922 1270,1923 1339,1922 1409,1923 1478,1925 1548,1928"/>
+                <TextEquiv>
+                    <Unicode>pourrissant, Vendémiaire, Les fenêtres, etc.) d'habituer l'esprit à concourir un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26" custom="readingOrder {index:20;} foreign {offset:0; length:69;lang:french;}">
+                <Coords points="170,2022 241,2016 312,2016 383,2016 454,2016 526,2018 597,2018 668,2020 739,2020 810,2019 882,2018 953,2018 1024,2018 1095,2018 1166,2018 1238,2017 1309,2016 1380,2019 1451,2019 1522,2020 1594,2022 1594,1968 1522,1966 1451,1965 1380,1965 1309,1962 1238,1963 1166,1964 1095,1964 1024,1964 953,1964 882,1964 810,1965 739,1966 668,1966 597,1964 526,1964 454,1962 383,1962 312,1962 241,1962 170,1968"/>
+                <Baseline points="170,2004 241,1998 312,1998 383,1998 454,1998 526,2000 597,2000 668,2002 739,2002 810,2001 882,2000 953,2000 1024,2000 1095,2000 1166,2000 1238,1999 1309,1998 1380,2001 1451,2001 1522,2002 1594,2004"/>
+                <TextEquiv>
+                    <Unicode>poème simultanément comme une scène de la vie, Blaise Cendrars et Mme. Delau-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mì. O i vari, pungenti "papiers collès, di parole insinuanti, ironicamente, da Jules Re-&#13;
+nard sulle pagine della "Revue blanche" in piena stagione simbolista, o suggerire e&#13;
+presentare i contorni di "figure" con un disegno di sole lettere. Ma è invece       certo che &#13;
+le ragioni, le motivazioni delle ricerche poetiche di Apollinaire affondavano le radici, e&#13;
+cercavano, giorno per giorno, nel terreno medesimo dentro cui crescevano e mettevano già&#13;
+frutti assai evidenti le ricerche dei pittori e degli scultori suoi contemporanei. Inestricabile è,&#13;
+storicamente, questo rapporto spontaneo dell'arte di Apollinaire con l'arte dei cubisti, e&#13;
+degli innovatori figurativi dei suoi anni. Quando Apollinaire formula in termini critici&#13;
+il fondamento di codesta sua estetica, ricorre, naturalmente, a termini e espressioni impie&#13;
+gati dagli artisti e dai commentatori critici dell'arte nuova. La parola "simultaneità"&#13;
+è tra le più frequenti del suo linguaggio. Pur rammentando che anche essendo          &#13;
+di alcuni un tale        ,come si ritrova in suoi quaderni e scritti, è nel 1912&#13;
+che Egli lo comunica in sue note           e nelle "Soirées de Paris"; finché è in que-&#13;
+sta ultima rivista che, in data 15 giugno 1914, Apollinaire concentra un programma, un prin-&#13;
+cipio estetico sotto il titolo di Simultanisme-Librettisme. In codesto articolo, in cui ricorrono&#13;
+le citazioni dell'opera di cubisti famosi, e di loro "casi" paralleli, come Duchamp,         &#13;
+e l'intrinseco suo amico Delaunay, non manca neppure il ricorso ai futuristi italiani. Così,&#13;
+offre alla testimonianza relativa al proprio lavoro poetico, vi si possono leggere dichiara-&#13;
+zioni, di questo genere pittorico illuminante: "C'est ainsi que si on a tenté (L'enchan&#13;
+pourrissant, Vendémiaire, Les fenêtres, etc.) d'habituer l'esprit à concourir un&#13;
+poème simultanément comme une scène de la vie, Blaise Cendrars et Mme. Delau-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

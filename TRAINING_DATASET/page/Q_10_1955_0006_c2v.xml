@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:48:59.917+02:00</Created>
+        <LastChange>2024-06-20T10:47:08.862+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326065" pageNr="130" tsid="175603612" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=BRWCHEGNWICZBLSFDSJGYMEL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BWZEUAPFKTUTPSWZYAFXZCZQ" imageId="54317592"/>
+    </Metadata>
+    <Page imageFilename="Q_10_1955_0006_c2v.jpg" imageWidth="1798" imageHeight="2324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746083188" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="150,465 150,2030 1624,2030 1624,465"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="172,520 241,518 310,516 380,516 449,516 519,516 588,513 657,514 727,514 796,513 866,512 935,510 1004,508 1074,508 1143,510 1213,513 1282,512 1351,512 1421,511 1490,509 1560,510 1560,467 1490,466 1421,468 1351,469 1282,469 1213,470 1143,467 1074,465 1004,465 935,467 866,469 796,470 727,471 657,471 588,470 519,473 449,473 380,473 310,473 241,475 172,477"/>
+                <Baseline points="172,506 241,504 310,502 380,502 449,502 519,502 588,499 657,500 727,500 796,499 866,498 935,496 1004,494 1074,494 1143,496 1213,499 1282,498 1351,498 1421,497 1490,495 1560,496"/>
+                <TextEquiv>
+                    <Unicode>scene di una gigantomachia", che è anche lo spirito della cronava polizianesca; e quando</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="172,594 242,592 313,592 384,592 455,588 526,588 597,586 668,584 739,583 810,582 881,583 951,583 1022,584 1093,585 1164,584 1235,584 1306,583 1377,582 1448,584 1519,584 1590,586 1590,543 1519,541 1448,541 1377,539 1306,540 1235,541 1164,541 1093,542 1022,541 951,540 881,540 810,539 739,540 668,541 597,543 526,545 455,545 384,549 313,549 242,549 172,551"/>
+                <Baseline points="172,580 242,578 313,578 384,578 455,574 526,574 597,572 668,570 739,569 810,568 881,569 951,569 1022,570 1093,571 1164,570 1235,570 1306,569 1377,568 1448,570 1519,570 1590,572"/>
+                <TextEquiv>
+                    <Unicode>precisa:"Il Pollaiuolo, dallo spettacolo dell'esistenza estrae così l'immagine di una rissa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="180,678 250,671 320,670 390,670 460,665 531,664 601,666 671,664 741,664 811,664 882,662 952,660 1022,660 1092,660 1162,662 1233,663 1303,663 1373,662 1443,661 1513,660 1584,662 1584,619 1513,617 1443,618 1373,619 1303,620 1233,620 1162,619 1092,617 1022,617 952,617 882,619 811,621 741,621 671,621 601,623 531,621 460,622 390,627 320,627 250,628 180,635"/>
+                <Baseline points="180,664 250,657 320,656 390,656 460,651 531,650 601,652 671,650 741,650 811,650 882,648 952,646 1022,646 1092,646 1162,648 1233,649 1303,649 1373,648 1443,647 1513,646 1584,648"/>
+                <TextEquiv>
+                    <Unicode>perpetua; o l'immagine di dolori che si manifestano in azioni non meno frene-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="174,748 243,746 313,746 383,740 452,738 522,738 592,738 661,738 731,736 801,737 871,734 940,734 1010,732 1080,733 1149,734 1219,733 1289,732 1358,734 1428,736 1498,737 1568,738 1568,695 1498,694 1428,693 1358,691 1289,689 1219,690 1149,691 1080,690 1010,689 940,691 871,691 801,694 731,693 661,695 592,695 522,695 452,695 383,697 313,703 243,703 174,705"/>
+                <Baseline points="174,734 243,732 313,732 383,726 452,724 522,724 592,724 661,724 731,722 801,723 871,720 940,720 1010,718 1080,719 1149,720 1219,719 1289,718 1358,720 1428,722 1498,723 1568,724"/>
+                <TextEquiv>
+                    <Unicode>tiche di quelle d'una rissa o d'una battaglia. Guardate nel disegno dell'Ercole e i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="184,826 254,822 324,820 394,817 464,817 534,816 604,815 674,814 744,814 814,812 885,811 955,810 1025,812 1095,810 1165,810 1235,811 1305,811 1375,810 1445,809 1515,808 1586,808 1586,765 1515,765 1445,766 1375,767 1305,768 1235,768 1165,767 1095,767 1025,769 955,767 885,768 814,769 744,771 674,771 604,772 534,773 464,774 394,774 324,777 254,779 184,783"/>
+                <Baseline points="184,812 254,808 324,806 394,803 464,803 534,802 604,801 674,800 744,800 814,798 885,797 955,796 1025,798 1095,796 1165,796 1235,797 1305,797 1375,796 1445,795 1515,794 1586,794"/>
+                <TextEquiv>
+                    <Unicode>giganti: le grinte, le grinfie, i muscoli d'acciaio, le mascelle da stritolare i sassi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="178,898 247,896 317,894 387,894 456,894 526,892 596,892 665,890 735,890 805,890 875,890 944,888 1014,887 1084,888 1153,886 1223,886 1293,885 1362,882 1432,883 1502,884 1572,884 1572,841 1502,841 1432,840 1362,839 1293,842 1223,843 1153,843 1084,845 1014,844 944,845 875,847 805,847 735,847 665,847 596,849 526,849 456,851 387,851 317,851 247,853 178,855"/>
+                <Baseline points="178,884 247,882 317,880 387,880 456,880 526,878 596,878 665,876 735,876 805,876 875,876 944,874 1014,873 1084,874 1153,872 1223,872 1293,871 1362,868 1432,869 1502,870 1572,870"/>
+                <TextEquiv>
+                    <Unicode>Impacchettati uno nell'altro, gli ignudi come si succhiellano con le daghe. Stanno in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="170,968 242,968 314,969 386,968 458,968 531,966 603,967 675,965 747,966 819,965 892,964 964,962 1036,961 1108,962 1180,962 1253,962 1325,962 1397,962 1469,964 1541,965 1614,970 1614,927 1541,922 1469,921 1397,919 1325,919 1253,919 1180,919 1108,919 1036,918 964,919 892,921 819,922 747,923 675,922 603,924 531,923 458,925 386,925 314,926 242,925 170,925"/>
+                <Baseline points="170,954 242,954 314,955 386,954 458,954 531,952 603,953 675,951 747,952 819,951 892,950 964,948 1036,947 1108,948 1180,948 1253,948 1325,948 1397,948 1469,950 1541,951 1614,956"/>
+                <TextEquiv>
+                    <Unicode>bilico sulla punta dei ferri. "Questa è l'arte toscana, che sembra guardare più da vicino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="170,1050 240,1048 311,1047 382,1044 453,1044 524,1041 595,1040 666,1040 737,1040 808,1040 879,1039 949,1040 1020,1040 1091,1038 1162,1041 1233,1040 1304,1042 1375,1040 1446,1041 1517,1043 1588,1046 1588,1003 1517,1000 1446,998 1375,997 1304,999 1233,997 1162,998 1091,995 1020,997 949,997 879,996 808,997 737,997 666,997 595,997 524,998 453,1001 382,1001 311,1004 240,1005 170,1007"/>
+                <Baseline points="170,1036 240,1034 311,1033 382,1030 453,1030 524,1027 595,1026 666,1026 737,1026 808,1026 879,1025 949,1026 1020,1026 1091,1024 1162,1027 1233,1026 1304,1028 1375,1026 1446,1027 1517,1029 1588,1032"/>
+                <TextEquiv>
+                    <Unicode>e con più calma, ogni aspetto di natura. E gli occhi dei suoi autori, con fredda fantasia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="172,1126 242,1124 313,1124 384,1124 454,1122 525,1120 596,1120 666,1117 737,1118 808,1116 879,1116 949,1114 1020,1114 1091,1114 1161,1116 1232,1116 1303,1117 1373,1118 1444,1116 1515,1116 1586,1118 1586,1075 1515,1073 1444,1073 1373,1075 1303,1074 1232,1073 1161,1073 1091,1071 1020,1071 949,1071 879,1073 808,1073 737,1075 666,1074 596,1077 525,1077 454,1079 384,1081 313,1081 242,1081 172,1083"/>
+                <Baseline points="172,1112 242,1110 313,1110 384,1110 454,1108 525,1106 596,1106 666,1103 737,1104 808,1102 879,1102 949,1100 1020,1100 1091,1100 1161,1102 1232,1102 1303,1103 1373,1104 1444,1102 1515,1102 1586,1104"/>
+                <TextEquiv>
+                    <Unicode>con pazienza, con arguzia, pentrare in ogni parte del vero: piante, fiori, cielo e senti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="162,1202 234,1200 306,1198 379,1198 451,1197 524,1196 596,1194 668,1195 741,1192 813,1196 886,1194 958,1194 1030,1194 1103,1192 1175,1193 1248,1192 1320,1193 1392,1192 1465,1190 1537,1193 1610,1194 1610,1151 1537,1150 1465,1147 1392,1149 1320,1150 1248,1149 1175,1150 1103,1149 1030,1151 958,1151 886,1151 813,1153 741,1149 668,1152 596,1151 524,1153 451,1154 379,1155 306,1155 234,1157 162,1159"/>
+                <Baseline points="162,1188 234,1186 306,1184 379,1184 451,1183 524,1182 596,1180 668,1181 741,1178 813,1182 886,1180 958,1180 1030,1180 1103,1178 1175,1179 1248,1178 1320,1179 1392,1178 1465,1176 1537,1179 1610,1180"/>
+                <TextEquiv>
+                    <Unicode>menti dell'uomo, con infinite liceità e forza, fino ad essere eleganza e spirito. Una cogni-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="166,1280 236,1274 306,1271 376,1270 447,1268 517,1268 587,1266 658,1268 728,1266 798,1266 869,1266 939,1264 1009,1264 1079,1262 1150,1262 1220,1260 1290,1262 1361,1259 1431,1258 1501,1258 1572,1258 1572,1228 1501,1228 1431,1228 1361,1229 1290,1232 1220,1230 1150,1232 1079,1232 1009,1234 939,1234 869,1236 798,1236 728,1236 658,1238 587,1236 517,1238 447,1238 376,1240 306,1241 236,1244 166,1250"/>
+                <Baseline points="166,1270 236,1264 306,1261 376,1260 447,1258 517,1258 587,1256 658,1258 728,1256 798,1256 869,1256 939,1254 1009,1254 1079,1252 1150,1252 1220,1250 1290,1252 1361,1249 1431,1248 1501,1248 1572,1248"/>
+                <TextEquiv>
+                    <Unicode>zione e una meditazione, una convivenza col vero, col cuore più profondo della verità.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715536776320_689" custom="readingOrder {index:11;}">
+                <Coords points="161,1298 1379,1289 1379,1339 161,1348"/>
+                <Baseline points="161,1343 1379,1334"/>
+                <TextEquiv>
+                    <Unicode>Di qui, lo spirito e l'intellettuale coscienza del vero, e della natura. Un </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="1362,1292 1390,1290 1418,1290 1446,1290 1446,1260 1418,1260 1390,1260 1362,1262"/>
+                <Baseline points="1362,1282 1390,1280 1418,1280 1446,1280"/>
+                <TextEquiv>
+                    <Unicode>giorno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715536778300_694" custom="readingOrder {index:13;}">
+                <Coords points="1393,1289 1590,1288 1598,1355 1393,1339"/>
+                <Baseline points="1393,1334 1590,1333"/>
+                <TextEquiv>
+                    <Unicode>io guardavo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:14;}">
+                <Coords points="150,1426 222,1426 295,1424 368,1424 441,1422 514,1421 586,1418 659,1421 732,1420 805,1419 878,1419 950,1418 1023,1416 1096,1416 1169,1417 1242,1416 1314,1415 1387,1414 1460,1414 1533,1416 1606,1424 1606,1381 1533,1373 1460,1371 1387,1371 1314,1372 1242,1373 1169,1374 1096,1373 1023,1373 950,1375 878,1376 805,1376 732,1377 659,1378 586,1375 514,1378 441,1379 368,1381 295,1381 222,1383 150,1383"/>
+                <Baseline points="150,1412 222,1412 295,1410 368,1410 441,1408 514,1407 586,1404 659,1407 732,1406 805,1405 878,1405 950,1404 1023,1402 1096,1402 1169,1403 1242,1402 1314,1401 1387,1400 1460,1400 1533,1402 1606,1410"/>
+                <TextEquiv>
+                    <Unicode>in San Pietro di Roma, la Tomba di Sisto IV. Anzichè nel bronzo, si direbbe che il Pollaiuo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:15;}">
+                <Coords points="154,1506 225,1501 297,1500 368,1498 440,1498 512,1498 583,1497 655,1494 726,1494 798,1493 870,1494 941,1495 1013,1494 1084,1494 1156,1494 1228,1492 1299,1492 1371,1492 1442,1490 1514,1488 1586,1486 1586,1443 1514,1445 1442,1447 1371,1449 1299,1449 1228,1449 1156,1451 1084,1451 1013,1451 941,1452 870,1451 798,1450 726,1451 655,1451 583,1454 512,1455 440,1455 368,1455 297,1457 225,1458 154,1463"/>
+                <Baseline points="154,1492 225,1487 297,1486 368,1484 440,1484 512,1484 583,1483 655,1480 726,1480 798,1479 870,1480 941,1481 1013,1480 1084,1480 1156,1480 1228,1478 1299,1478 1371,1478 1442,1476 1514,1474 1586,1472"/>
+                <TextEquiv>
+                    <Unicode>lo abbia lavorato in una sudata, molle, misteriosa materia, quale possa essere espressa, spre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:16;}">
+                <Coords points="156,1576 226,1574 296,1574 366,1571 436,1571 506,1572 576,1571 646,1569 716,1570 786,1570 856,1572 926,1572 996,1572 1066,1568 1136,1568 1206,1568 1276,1568 1346,1568 1416,1568 1486,1568 1556,1568 1556,1525 1486,1525 1416,1525 1346,1525 1276,1525 1206,1525 1136,1525 1066,1525 996,1529 926,1529 856,1529 786,1527 716,1527 646,1526 576,1528 506,1529 436,1528 366,1528 296,1531 226,1531 156,1533"/>
+                <Baseline points="156,1562 226,1560 296,1560 366,1557 436,1557 506,1558 576,1557 646,1555 716,1556 786,1556 856,1558 926,1558 996,1558 1066,1554 1136,1554 1206,1554 1276,1554 1346,1554 1416,1554 1486,1554 1556,1554"/>
+                <TextEquiv>
+                    <Unicode>muta dalla mente umana. Il corpo del vecchio papa giace, cadavere di povera carne, ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:17;}">
+                <Coords points="150,1648 223,1650 296,1648 369,1649 442,1648 515,1650 588,1648 661,1646 734,1646 807,1644 880,1644 953,1644 1026,1644 1099,1644 1172,1644 1245,1642 1318,1642 1391,1641 1464,1642 1537,1646 1610,1650 1610,1607 1537,1603 1464,1599 1391,1598 1318,1599 1245,1599 1172,1601 1099,1601 1026,1601 953,1601 880,1601 807,1601 734,1603 661,1603 588,1605 515,1607 442,1605 369,1606 296,1605 223,1607 150,1605"/>
+                <Baseline points="150,1634 223,1636 296,1634 369,1635 442,1634 515,1636 588,1634 661,1632 734,1632 807,1630 880,1630 953,1630 1026,1630 1099,1630 1172,1630 1245,1628 1318,1628 1391,1627 1464,1628 1537,1632 1610,1636"/>
+                <TextEquiv>
+                    <Unicode>trasformato in un simbolo più duraturo di passioni, di desideri e di volontà umane. L'in-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:18;}">
+                <Coords points="150,1728 222,1726 294,1726 367,1726 439,1726 512,1722 584,1722 656,1721 729,1720 801,1719 874,1720 946,1720 1018,1720 1091,1720 1163,1720 1236,1718 1308,1720 1380,1720 1453,1720 1525,1720 1598,1722 1598,1679 1525,1677 1453,1677 1380,1677 1308,1677 1236,1675 1163,1677 1091,1677 1018,1677 946,1677 874,1677 801,1676 729,1677 656,1678 584,1679 512,1679 439,1683 367,1683 294,1683 222,1683 150,1685"/>
+                <Baseline points="150,1714 222,1712 294,1712 367,1712 439,1712 512,1708 584,1708 656,1707 729,1706 801,1705 874,1706 946,1706 1018,1706 1091,1706 1163,1706 1236,1704 1308,1706 1380,1706 1453,1706 1525,1706 1598,1708"/>
+                <TextEquiv>
+                    <Unicode>trico di questi è così profondo che dilaga, dal corpo, alle vesti, agli ornamenti, alle vesti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:19;}">
+                <Coords points="150,1800 223,1800 297,1802 371,1800 444,1799 518,1798 592,1799 665,1796 739,1795 813,1794 887,1791 960,1792 1034,1794 1108,1794 1181,1795 1255,1793 1329,1790 1402,1790 1476,1790 1550,1793 1624,1798 1624,1768 1550,1763 1476,1760 1402,1760 1329,1760 1255,1763 1181,1765 1108,1764 1034,1764 960,1762 887,1761 813,1764 739,1765 665,1766 592,1769 518,1768 444,1769 371,1770 297,1772 223,1770 150,1770"/>
+                <Baseline points="150,1790 223,1790 297,1792 371,1790 444,1789 518,1788 592,1789 665,1786 739,1785 813,1784 887,1781 960,1782 1034,1784 1108,1784 1181,1785 1255,1783 1329,1780 1402,1780 1476,1780 1550,1783 1624,1788"/>
+                <TextEquiv>
+                    <Unicode>ai cuscini, che divengono così una vegetazine mostruosa, di una natura indecifrabile. Al-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715536999578_738" custom="readingOrder {index:20;}">
+                <Coords points="151,1831 223,1829 224,1879 152,1881"/>
+                <Baseline points="152,1876 224,1874"/>
+                <TextEquiv>
+                    <Unicode>lora</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:21;}">
+                <Coords points="162,1826 189,1831 217,1832 244,1833 272,1834 272,1804 244,1803 217,1802 189,1801 162,1796"/>
+                <Baseline points="162,1816 189,1821 217,1822 244,1823 272,1824"/>
+                <TextEquiv>
+                    <Unicode>si pensa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715537017554_751" custom="readingOrder {index:22;}">
+                <Coords points="222,1823 1617,1823 1617,1873 222,1873"/>
+                <Baseline points="222,1868 1617,1868"/>
+                <TextEquiv>
+                    <Unicode>che la fantasia dell'artista, con mezzi inafferrabili, abbia riassunto ed espres-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715537081172_769" custom="readingOrder {index:23;}">
+                <Coords points="162,1899 1568,1899 1568,1949 162,1949"/>
+                <Baseline points="162,1944 1568,1944"/>
+                <TextEquiv>
+                    <Unicode>so, quasi senza compiacersene, la potenza e la vastità del rapporto tra il cuore umano,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:24;}">
+                <Coords points="1402,1904 1428,1904 1454,1903 1480,1903 1506,1905 1532,1907 1558,1908 1584,1910 1584,1880 1558,1878 1532,1877 1506,1875 1480,1873 1454,1873 1428,1874 1402,1874"/>
+                <Baseline points="1402,1894 1428,1894 1454,1893 1480,1893 1506,1895 1532,1897 1558,1898 1584,1900"/>
+                <TextEquiv>
+                    <Unicode>così fragile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715537083226_774" custom="readingOrder {index:25;}">
+                <Coords points="1577,1894 1597,1892 1601,1942 1581,1944"/>
+                <Baseline points="1581,1939 1601,1937"/>
+                <TextEquiv>
+                    <Unicode>e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:26;}">
+                <Coords points="154,2028 227,2029 300,2030 373,2029 446,2028 519,2026 592,2026 665,2026 738,2025 811,2026 885,2025 958,2024 1031,2024 1104,2024 1177,2022 1250,2022 1323,2020 1396,2020 1469,2018 1542,2022 1616,2026 1616,1983 1542,1979 1469,1975 1396,1977 1323,1977 1250,1979 1177,1979 1104,1981 1031,1981 958,1981 885,1982 811,1983 738,1982 665,1983 592,1983 519,1983 446,1985 373,1986 300,1987 227,1986 154,1985"/>
+                <Baseline points="154,2014 227,2015 300,2016 373,2015 446,2014 519,2012 592,2012 665,2012 738,2011 811,2012 885,2011 958,2010 1031,2010 1104,2010 1177,2008 1250,2008 1323,2006 1396,2006 1469,2004 1542,2008 1616,2012"/>
+                <TextEquiv>
+                    <Unicode>le forme della natura. (Avevo finito il mio giro nell'orto, richiuso il libro. Qualcuno in-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>scene di una gigantomachia", che è anche lo spirito della cronava polizianesca; e quando&#13;
+precisa:"Il Pollaiuolo, dallo spettacolo dell'esistenza estrae così l'immagine di una rissa&#13;
+perpetua; o l'immagine di dolori che si manifestano in azioni non meno frene-&#13;
+tiche di quelle d'una rissa o d'una battaglia. Guardate nel disegno dell'Ercole e i&#13;
+giganti: le grinte, le grinfie, i muscoli d'acciaio, le mascelle da stritolare i sassi.&#13;
+Impacchettati uno nell'altro, gli ignudi come si succhiellano con le daghe. Stanno in&#13;
+bilico sulla punta dei ferri. "Questa è l'arte toscana, che sembra guardare più da vicino&#13;
+e con più calma, ogni aspetto di natura. E gli occhi dei suoi autori, con fredda fantasia,&#13;
+con pazienza, con arguzia, pentrare in ogni parte del vero: piante, fiori, cielo e senti-&#13;
+menti dell'uomo, con infinite liceità e forza, fino ad essere eleganza e spirito. Una cogni-&#13;
+zione e una meditazione, una convivenza col vero, col cuore più profondo della verità.&#13;
+Di qui, lo spirito e l'intellettuale coscienza del vero, e della natura. Un &#13;
+giorno&#13;
+io guardavo,&#13;
+in San Pietro di Roma, la Tomba di Sisto IV. Anzichè nel bronzo, si direbbe che il Pollaiuo-&#13;
+lo abbia lavorato in una sudata, molle, misteriosa materia, quale possa essere espressa, spre-&#13;
+muta dalla mente umana. Il corpo del vecchio papa giace, cadavere di povera carne, ma&#13;
+trasformato in un simbolo più duraturo di passioni, di desideri e di volontà umane. L'in-&#13;
+trico di questi è così profondo che dilaga, dal corpo, alle vesti, agli ornamenti, alle vesti&#13;
+ai cuscini, che divengono così una vegetazine mostruosa, di una natura indecifrabile. Al-&#13;
+lora&#13;
+si pensa&#13;
+che la fantasia dell'artista, con mezzi inafferrabili, abbia riassunto ed espres-&#13;
+so, quasi senza compiacersene, la potenza e la vastità del rapporto tra il cuore umano,&#13;
+così fragile&#13;
+e&#13;
+le forme della natura. (Avevo finito il mio giro nell'orto, richiuso il libro. Qualcuno in-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

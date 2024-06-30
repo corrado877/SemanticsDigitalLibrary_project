@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:16:40.091+01:00</Created>
+        <LastChange>2024-06-20T11:44:44.830+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325505" pageNr="57" tsid="175603536" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=SQBVVLFGFIJNHGDCPPHCRRGG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YDHVLWDGASBFEFIFDFMZSNOO" imageId="53903830"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_07_0011_c5r.jpg" imageWidth="1798" imageHeight="2476" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746068396" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718876661010_100"/>
+                <RegionRefIndexed index="1" regionRef="tr_4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718876661010_100" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="161,296 161,346 209,346 209,296"/>
+            <TextLine id="line_1718876661151_103" custom="readingOrder {index:0;}">
+                <Coords points="161,296 209,296 209,346 161,346"/>
+                <Baseline points="161,341 209,341"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_4" custom="readingOrder {index:1;}">
+            <Coords points="136,409 136,2011 1588,2011 1588,409"/>
+            <TextLine id="line_1718184167903_1320" custom="readingOrder {index:0;} del {offset:50; length:7;rend:overstrike;} gap {offset:50; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="155,449 1038,451 1038,501 155,499"/>
+                <Baseline points="155,494 1038,496"/>
+                <TextEquiv>
+                    <Unicode>rifiuti sociali, occupato dal silenzio minaccioso        </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:1;} add {offset:0; length:9;place:above;}">
+                <Coords points="894,443 920,443 946,443 973,444 999,445 1026,443 1026,409 999,411 973,410 946,409 920,409 894,409"/>
+                <Baseline points="894,432 920,432 946,432 973,433 999,434 1026,432"/>
+                <TextEquiv>
+                    <Unicode>dei negri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718184170894_1325" custom="readingOrder {index:2;}">
+                <Coords points="1046,445 1536,451 1535,501 1045,495"/>
+                <Baseline points="1045,490 1535,496"/>
+                <TextEquiv>
+                    <Unicode>ha conosciuto la figura del cencioso,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="140,570 210,570 281,573 352,572 422,570 493,569 564,570 634,571 705,569 776,568 847,568 917,568 988,568 1059,568 1129,568 1200,566 1271,566 1341,568 1412,569 1483,567 1554,564 1554,533 1483,536 1412,538 1341,537 1271,535 1200,535 1129,537 1059,537 988,537 917,537 847,537 776,537 705,538 634,540 564,539 493,538 422,539 352,541 281,542 210,539 140,539"/>
+                <Baseline points="140,560 210,560 281,563 352,562 422,560 493,559 564,560 634,561 705,559 776,558 847,558 917,558 988,558 1059,558 1129,558 1200,556 1271,556 1341,558 1412,559 1483,557 1554,554"/>
+                <TextEquiv>
+                    <Unicode>dell'affamato "giovane francese, magro da far paura, con gli occhi azzurri senza speranza". La città</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718184180363_1333" custom="readingOrder {index:4;}">
+                <Coords points="149,597 1313,593 1313,643 149,647"/>
+                <Baseline points="149,642 1313,638"/>
+                <TextEquiv>
+                    <Unicode>di Haszar è una città di fango; le strade, come il fondo di torrenti. Capanne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_4" custom="readingOrder {index:5;} add {offset:0; length:9;place:above;}">
+                <Coords points="1232,604 1258,606 1284,606 1310,608 1336,611 1362,614 1362,584 1336,581 1310,578 1284,576 1258,576 1232,574"/>
+                <Baseline points="1232,594 1258,596 1284,596 1310,598 1336,601 1362,604"/>
+                <TextEquiv>
+                    <Unicode>di paglia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718184184237_1338" custom="readingOrder {index:6;} del {offset:8; length:6;rend:overstrike;}">
+                <Coords points="1330,591 1531,591 1531,641 1330,641"/>
+                <Baseline points="1330,636 1531,636"/>
+                <TextEquiv>
+                    <Unicode>case di paglia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_5" custom="readingOrder {index:7;} add {offset:0; length:6;place:above;}">
+                <Coords points="1434,612 1461,612 1488,612 1515,616 1542,620 1542,590 1515,586 1488,582 1461,582 1434,582"/>
+                <Baseline points="1434,602 1461,602 1488,602 1515,606 1542,610"/>
+                <TextEquiv>
+                    <Unicode>pietra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718184188598_1343" custom="readingOrder {index:8;}">
+                <Coords points="1532,596 1588,596 1588,646 1532,646"/>
+                <Baseline points="1532,641 1588,641"/>
+                <TextEquiv>
+                    <Unicode>Solo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_7" custom="readingOrder {index:9;} del {offset:61; length:7;rend:overstrike;}">
+                <Coords points="142,725 213,723 285,723 357,721 429,721 501,719 573,721 645,719 717,719 789,719 861,719 932,720 1004,719 1076,721 1148,721 1220,721 1292,721 1364,722 1436,723 1508,723 1580,725 1580,685 1508,683 1436,683 1364,682 1292,681 1220,681 1148,681 1076,681 1004,679 932,680 861,679 789,679 717,679 645,679 573,681 501,679 429,681 357,681 285,683 213,683 142,685"/>
+                <Baseline points="142,712 213,710 285,710 357,708 429,708 501,706 573,708 645,706 717,706 789,706 861,706 932,707 1004,706 1076,708 1148,708 1220,708 1292,708 1364,709 1436,710 1508,710 1580,712"/>
+                <TextEquiv>
+                    <Unicode>la moschea, col suo splendore bianco. I mercati di bestiame: piccoli monticelli di pecore, di sto_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_8" custom="readingOrder {index:10;}">
+                <Coords points="152,801 223,800 294,801 366,799 437,798 509,797 580,797 651,796 723,795 794,795 866,795 937,797 1008,796 1080,795 1151,796 1223,797 1294,797 1365,798 1437,801 1508,801 1580,803 1580,763 1508,761 1437,761 1365,758 1294,757 1223,757 1151,756 1080,755 1008,756 937,757 866,755 794,755 723,755 651,756 580,757 509,757 437,758 366,759 294,761 223,760 152,761"/>
+                <Baseline points="152,788 223,787 294,788 366,786 437,785 509,784 580,784 651,783 723,782 794,782 866,782 937,784 1008,783 1080,782 1151,783 1223,784 1294,784 1365,785 1437,788 1508,788 1580,790"/>
+                <TextEquiv>
+                    <Unicode>viglie, di arnesi rudimentali da lavoro. Muli legati ai pali. Cammelli in riposo, su prati pela_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_9" custom="readingOrder {index:11;}">
+                <Coords points="150,872 219,873 289,870 359,870 429,869 499,868 568,868 638,868 708,868 778,868 848,868 917,869 987,870 1057,872 1127,870 1197,870 1266,870 1336,871 1406,872 1476,870 1546,874 1546,844 1476,840 1406,842 1336,841 1266,840 1197,840 1127,840 1057,842 987,840 917,839 848,838 778,838 708,838 638,838 568,838 499,838 429,839 359,840 289,840 219,843 150,842"/>
+                <Baseline points="150,862 219,863 289,860 359,860 429,859 499,858 568,858 638,858 708,858 778,858 848,858 917,859 987,860 1057,862 1127,860 1197,860 1266,860 1336,861 1406,862 1476,860 1546,864"/>
+                <TextEquiv>
+                    <Unicode>ti. Per le strade, verso il mercato, le donne, file di schiavi. Commerci, all'aperto: il legname,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718184203390_1351" custom="readingOrder {index:12;}">
+                <Coords points="158,894 289,899 287,949 156,944"/>
+                <Baseline points="156,939 287,944"/>
+                <TextEquiv>
+                    <Unicode>l'avorio,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_10" custom="readingOrder {index:13;} add {offset:0; length:31;place:above;}">
+                <Coords points="174,906 199,909 224,909 249,908 274,907 299,906 324,908 349,906 374,906 399,906 424,906 449,906 474,906 499,906 524,905 549,905 574,905 599,904 624,904 650,908 650,878 624,874 599,874 574,875 549,875 524,875 499,876 474,876 449,876 424,876 399,876 374,876 349,876 324,878 299,876 274,877 249,878 224,879 199,879 174,876"/>
+                <Baseline points="174,896 199,899 224,899 249,898 274,897 299,896 324,898 349,896 374,896 399,896 424,896 449,896 474,896 499,896 524,895 549,895 574,895 599,894 624,894 650,898"/>
+                <TextEquiv>
+                    <Unicode>il catrame, le pelli, la gomme.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718184206612_1356" custom="readingOrder {index:14;}">
+                <Coords points="297,898 1567,901 1567,951 297,948"/>
+                <Baseline points="297,943 1567,946"/>
+                <TextEquiv>
+                    <Unicode>Rimbaud progettava di apprendere professioni tecniche. Ordinò in Francia libri, cioè&lt;lb/&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_12" custom="readingOrder {index:15;} gap {offset:65; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="154,1029 225,1025 296,1023 367,1022 438,1021 509,1020 580,1019 651,1019 722,1021 793,1021 865,1021 936,1022 1007,1023 1078,1021 1149,1021 1220,1023 1291,1022 1362,1023 1433,1025 1504,1025 1576,1025 1576,985 1504,985 1433,985 1362,983 1291,982 1220,983 1149,981 1078,981 1007,983 936,982 865,981 793,981 722,981 651,979 580,979 509,980 438,981 367,982 296,983 225,985 154,989"/>
+                <Baseline points="154,1016 225,1012 296,1010 367,1009 438,1008 509,1007 580,1006 651,1006 722,1008 793,1008 865,1008 936,1009 1007,1010 1078,1008 1149,1008 1220,1010 1291,1009 1362,1010 1433,1012 1504,1012 1576,1012"/>
+                <TextEquiv>
+                    <Unicode>manuali: Le Manuel du Charmon, Le Manuel del Tanneur, Le Parfait         , L'Ex_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_13" custom="readingOrder {index:16;}">
+                <Coords points="152,1111 221,1105 291,1101 360,1100 430,1099 500,1099 569,1099 639,1099 708,1097 778,1097 848,1095 917,1097 987,1097 1056,1099 1126,1099 1196,1099 1265,1099 1335,1097 1404,1098 1474,1097 1544,1099 1544,1059 1474,1057 1404,1058 1335,1057 1265,1059 1196,1059 1126,1059 1056,1059 987,1057 917,1057 848,1055 778,1057 708,1057 639,1059 569,1059 500,1059 430,1059 360,1060 291,1061 221,1065 152,1071"/>
+                <Baseline points="152,1098 221,1092 291,1088 360,1087 430,1086 500,1086 569,1086 639,1086 708,1084 778,1084 848,1082 917,1084 987,1084 1056,1086 1126,1086 1196,1086 1265,1086 1335,1084 1404,1085 1474,1084 1544,1086"/>
+                <TextEquiv>
+                    <Unicode>ploritaton des Mines...Dizionari, vocabolari. Li chiedeva, con la serenità e la modestia del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_14" custom="readingOrder {index:17;}">
+                <Coords points="146,1186 216,1180 287,1177 358,1174 429,1172 500,1172 570,1170 641,1170 712,1169 783,1170 854,1170 924,1170 995,1172 1066,1172 1137,1172 1208,1170 1278,1172 1349,1172 1420,1172 1491,1174 1562,1174 1562,1144 1491,1144 1420,1142 1349,1142 1278,1142 1208,1140 1137,1142 1066,1142 995,1142 924,1140 854,1140 783,1140 712,1139 641,1140 570,1140 500,1142 429,1142 358,1144 287,1147 216,1150 146,1156"/>
+                <Baseline points="146,1176 216,1170 287,1167 358,1164 429,1162 500,1162 570,1160 641,1160 712,1159 783,1160 854,1160 924,1160 995,1162 1066,1162 1137,1162 1208,1160 1278,1162 1349,1162 1420,1162 1491,1164 1562,1164"/>
+                <TextEquiv>
+                    <Unicode>giovane apprendista. Quandi li ebbe, presto li trascurò. La necessità lo spingeva a far presto. Inco_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718184218588_1364" custom="readingOrder {index:18;}">
+                <Coords points="148,1201 1329,1205 1329,1255 148,1251"/>
+                <Baseline points="148,1246 1329,1250"/>
+                <TextEquiv>
+                    <Unicode>minciarono i suoi rapporti con armeni, egiziani, turchi e greci. Avventurieri,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_15" custom="readingOrder {index:19;} add {offset:0; length:8;place:above;}">
+                <Coords points="1274,1210 1299,1210 1325,1209 1350,1208 1376,1207 1402,1204 1402,1174 1376,1177 1350,1178 1325,1179 1299,1180 1274,1180"/>
+                <Baseline points="1274,1200 1299,1200 1325,1199 1350,1198 1376,1197 1402,1194"/>
+                <TextEquiv>
+                    <Unicode>predoni,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718184221390_1369" custom="readingOrder {index:20;}">
+                <Coords points="1342,1203 1580,1205 1580,1255 1342,1253"/>
+                <Baseline points="1342,1248 1580,1250"/>
+                <TextEquiv>
+                    <Unicode>gente fra la peg_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_17" custom="readingOrder {index:21;}">
+                <Coords points="150,1337 221,1332 293,1329 365,1327 437,1327 509,1327 581,1327 653,1327 725,1327 797,1327 869,1327 940,1327 1012,1329 1084,1329 1156,1326 1228,1327 1300,1327 1372,1325 1444,1323 1516,1325 1588,1329 1588,1289 1516,1285 1444,1283 1372,1285 1300,1287 1228,1287 1156,1286 1084,1289 1012,1289 940,1287 869,1287 797,1287 725,1287 653,1287 581,1287 509,1287 437,1287 365,1287 293,1289 221,1292 150,1297"/>
+                <Baseline points="150,1324 221,1319 293,1316 365,1314 437,1314 509,1314 581,1314 653,1314 725,1314 797,1314 869,1314 940,1314 1012,1316 1084,1316 1156,1313 1228,1314 1300,1314 1372,1312 1444,1310 1516,1312 1588,1316"/>
+                <TextEquiv>
+                    <Unicode>giore. Si sentica solo, ma questo lo riempiva.Tentava gli affari, con ogni mezzo. Al cadere della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_18" custom="readingOrder {index:22;}">
+                <Coords points="152,1407 223,1406 295,1403 366,1401 438,1400 510,1403 581,1401 653,1401 724,1399 796,1399 868,1399 939,1399 1011,1400 1082,1401 1154,1401 1226,1399 1297,1399 1369,1399 1440,1401 1512,1404 1584,1407 1584,1367 1512,1364 1440,1361 1369,1359 1297,1359 1226,1359 1154,1361 1082,1361 1011,1360 939,1359 868,1359 796,1359 724,1359 653,1361 581,1361 510,1363 438,1360 366,1361 295,1363 223,1366 152,1367"/>
+                <Baseline points="152,1394 223,1393 295,1390 366,1388 438,1387 510,1390 581,1388 653,1388 724,1386 796,1386 868,1386 939,1386 1011,1387 1082,1388 1154,1388 1226,1386 1297,1386 1369,1386 1440,1388 1512,1391 1584,1394"/>
+                <TextEquiv>
+                    <Unicode>notte, si chiudeva nella sua casa, dava le disposizioni ai servi. Consumava l'ultimo pasto. Se_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_19" custom="readingOrder {index:23;}">
+                <Coords points="142,1481 211,1479 281,1477 351,1475 421,1473 491,1475 561,1475 631,1474 701,1475 771,1475 841,1473 910,1475 980,1477 1050,1477 1120,1475 1190,1476 1260,1476 1330,1475 1400,1477 1470,1480 1540,1477 1540,1437 1470,1440 1400,1437 1330,1435 1260,1436 1190,1436 1120,1435 1050,1437 980,1437 910,1435 841,1433 771,1435 701,1435 631,1434 561,1435 491,1435 421,1433 351,1435 281,1437 211,1439 142,1441"/>
+                <Baseline points="142,1468 211,1466 281,1464 351,1462 421,1460 491,1462 561,1462 631,1461 701,1462 771,1462 841,1460 910,1462 980,1464 1050,1464 1120,1462 1190,1463 1260,1463 1330,1462 1400,1464 1470,1467 1540,1464"/>
+                <TextEquiv>
+                    <Unicode>duto al tavolo, dove nessuno gli teneva compagnia. Talvolta, prendeva annotazioni degli affari,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_20" custom="readingOrder {index:24;} gap {offset:88; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="142,1553 212,1551 283,1551 353,1551 424,1549 494,1549 565,1547 635,1548 706,1549 776,1549 847,1551 917,1551 988,1551 1058,1552 1129,1553 1199,1553 1270,1552 1340,1553 1411,1552 1481,1552 1552,1557 1552,1517 1481,1512 1411,1512 1340,1513 1270,1512 1199,1513 1129,1513 1058,1512 988,1511 917,1511 847,1511 776,1509 706,1509 635,1508 565,1507 494,1509 424,1509 353,1511 283,1511 212,1511 142,1513"/>
+                <Baseline points="142,1540 212,1538 283,1538 353,1538 424,1536 494,1536 565,1534 635,1535 706,1536 776,1536 847,1538 917,1538 988,1538 1058,1539 1129,1540 1199,1540 1270,1539 1340,1540 1411,1539 1481,1539 1552,1544"/>
+                <TextEquiv>
+                    <Unicode>e scriveva, con l'occhio distratto, vecchie carte geografiche. Oppure cavava un poco di          da uno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_21" custom="readingOrder {index:25;}">
+                <Coords points="150,1629 221,1629 293,1631 365,1629 436,1629 508,1629 580,1629 651,1627 723,1627 795,1627 867,1627 938,1627 1010,1626 1082,1627 1153,1627 1225,1627 1297,1627 1368,1627 1440,1629 1512,1631 1584,1633 1584,1593 1512,1591 1440,1589 1368,1587 1297,1587 1225,1587 1153,1587 1082,1587 1010,1586 938,1587 867,1587 795,1587 723,1587 651,1587 580,1589 508,1589 436,1589 365,1589 293,1591 221,1589 150,1589"/>
+                <Baseline points="150,1616 221,1616 293,1618 365,1616 436,1616 508,1616 580,1616 651,1614 723,1614 795,1614 867,1614 938,1614 1010,1613 1082,1614 1153,1614 1225,1614 1297,1614 1368,1614 1440,1616 1512,1618 1584,1620"/>
+                <TextEquiv>
+                    <Unicode>strumento indigeno a corda. Finiva per buttarsi sul letto. Nelle notti, che on passavano mai, sten_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_22" custom="readingOrder {index:26;} gap {offset:82; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="150,1705 220,1703 291,1701 361,1703 432,1704 503,1703 573,1705 644,1707 714,1707 785,1707 856,1706 926,1705 997,1703 1067,1703 1138,1703 1209,1701 1279,1701 1350,1701 1420,1702 1491,1701 1562,1699 1562,1659 1491,1661 1420,1662 1350,1661 1279,1661 1209,1661 1138,1663 1067,1663 997,1663 926,1665 856,1666 785,1667 714,1667 644,1667 573,1665 503,1663 432,1664 361,1663 291,1661 220,1663 150,1665"/>
+                <Baseline points="150,1692 220,1690 291,1688 361,1690 432,1691 503,1690 573,1692 644,1694 714,1694 785,1694 856,1693 926,1692 997,1690 1067,1690 1138,1690 1209,1688 1279,1688 1350,1688 1420,1689 1491,1688 1562,1686"/>
+                <TextEquiv>
+                    <Unicode>tava a prendere sonno. Gli giungeva, nel buio profondo, il latrato dei cani delle      di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_23" custom="readingOrder {index:27;}">
+                <Coords points="164,1781 190,1781 216,1781 242,1782 268,1787 268,1747 242,1742 216,1741 190,1741 164,1741"/>
+                <Baseline points="164,1768 190,1768 216,1768 242,1769 268,1774"/>
+                <TextEquiv>
+                    <Unicode>guardia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_24" custom="readingOrder {index:28;}">
+                <Coords points="150,1863 221,1857 292,1855 363,1855 435,1853 506,1853 577,1854 649,1853 720,1855 791,1855 863,1855 934,1854 1005,1855 1076,1855 1148,1857 1219,1855 1290,1855 1362,1855 1433,1857 1504,1855 1576,1861 1576,1821 1504,1815 1433,1817 1362,1815 1290,1815 1219,1815 1148,1817 1076,1815 1005,1815 934,1814 863,1815 791,1815 720,1815 649,1813 577,1814 506,1813 435,1813 363,1815 292,1815 221,1817 150,1823"/>
+                <Baseline points="150,1850 221,1844 292,1842 363,1842 435,1840 506,1840 577,1841 649,1840 720,1842 791,1842 863,1842 934,1841 1005,1842 1076,1842 1148,1844 1219,1842 1290,1842 1362,1842 1433,1844 1504,1842 1576,1848"/>
+                <TextEquiv>
+                    <Unicode>In una lettera alla famiglia, del maggio 1881, sono i sogni di una cupa decisioni, che la disperazione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_25" custom="readingOrder {index:29;} gap {offset:49; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="138,1937 208,1935 279,1933 349,1931 420,1931 490,1931 561,1931 631,1933 702,1933 772,1933 843,1933 913,1933 984,1931 1054,1930 1125,1931 1195,1933 1266,1931 1336,1931 1407,1931 1477,1931 1548,1933 1548,1893 1477,1891 1407,1891 1336,1891 1266,1891 1195,1893 1125,1891 1054,1890 984,1891 913,1893 843,1893 772,1893 702,1893 631,1893 561,1891 490,1891 420,1891 349,1891 279,1893 208,1895 138,1897"/>
+                <Baseline points="138,1924 208,1922 279,1920 349,1918 420,1918 490,1918 561,1918 631,1920 702,1920 772,1920 843,1920 913,1920 984,1918 1054,1917 1125,1918 1195,1920 1266,1918 1336,1918 1407,1918 1477,1918 1548,1920"/>
+                <TextEquiv>
+                    <Unicode>non può vincere:" Hilas! moi, je ne tiens pas du       à la vie; et si je vis, je mis habitué à</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718184234638_1377" custom="readingOrder {index:30;}">
+                <Coords points="147,1958 482,1958 482,2008 147,2008"/>
+                <Baseline points="147,2003 482,2003"/>
+                <TextEquiv>
+                    <Unicode>vivre de fatigue; mais </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718184236863_1382" custom="readingOrder {index:31;} add {offset:0; length:2;place:above;}">
+                <Coords points="466,1923 524,1929 518,1979 460,1973"/>
+                <Baseline points="461,1968 519,1974"/>
+                <TextEquiv>
+                    <Unicode>si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718184241111_1387" custom="readingOrder {index:32;}">
+                <Coords points="492,1958 1531,1958 1531,2008 492,2008"/>
+                <Baseline points="492,2003 1531,2003"/>
+                <TextEquiv>
+                    <Unicode>je mis force de continuere à me fatiguer comme à présent, et à me</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rifiuti sociali, occupato dal silenzio minaccioso        &#13;
+dei negri&#13;
+ha conosciuto la figura del cencioso,&#13;
+dell'affamato "giovane francese, magro da far paura, con gli occhi azzurri senza speranza". La città&#13;
+di Haszar è una città di fango; le strade, come il fondo di torrenti. Capanne&#13;
+di paglia&#13;
+case di paglia.&#13;
+pietra&#13;
+Solo&#13;
+la moschea, col suo splendore bianco. I mercati di bestiame: piccoli monticelli di pecore, di sto_&#13;
+viglie, di arnesi rudimentali da lavoro. Muli legati ai pali. Cammelli in riposo, su prati pela_&#13;
+ti. Per le strade, verso il mercato, le donne, file di schiavi. Commerci, all'aperto: il legname,&#13;
+l'avorio,&#13;
+il catrame, le pelli, la gomme.&#13;
+Rimbaud progettava di apprendere professioni tecniche. Ordinò in Francia libri, cioè&lt;lb/&gt;&#13;
+manuali: Le Manuel du Charmon, Le Manuel del Tanneur, Le Parfait         , L'Ex_&#13;
+ploritaton des Mines...Dizionari, vocabolari. Li chiedeva, con la serenità e la modestia del&#13;
+giovane apprendista. Quandi li ebbe, presto li trascurò. La necessità lo spingeva a far presto. Inco_&#13;
+minciarono i suoi rapporti con armeni, egiziani, turchi e greci. Avventurieri,&#13;
+predoni,&#13;
+gente fra la peg_&#13;
+giore. Si sentica solo, ma questo lo riempiva.Tentava gli affari, con ogni mezzo. Al cadere della&#13;
+notte, si chiudeva nella sua casa, dava le disposizioni ai servi. Consumava l'ultimo pasto. Se_&#13;
+duto al tavolo, dove nessuno gli teneva compagnia. Talvolta, prendeva annotazioni degli affari,&#13;
+e scriveva, con l'occhio distratto, vecchie carte geografiche. Oppure cavava un poco di          da uno&#13;
+strumento indigeno a corda. Finiva per buttarsi sul letto. Nelle notti, che on passavano mai, sten_&#13;
+tava a prendere sonno. Gli giungeva, nel buio profondo, il latrato dei cani delle      di&#13;
+guardia.&#13;
+In una lettera alla famiglia, del maggio 1881, sono i sogni di una cupa decisioni, che la disperazione&#13;
+non può vincere:" Hilas! moi, je ne tiens pas du       à la vie; et si je vis, je mis habitué à&#13;
+vivre de fatigue; mais &#13;
+si&#13;
+je mis force de continuere à me fatiguer comme à présent, et à me</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:49:01.705+02:00</Created>
+        <LastChange>2024-06-20T10:48:24.337+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326079" pageNr="138" tsid="175603632" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=VSYQTXLBGIDVLQJISOXTAUYS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UNGCYRODDHIQKCEJTMDJSQOF" imageId="54317618"/>
+    </Metadata>
+    <Page imageFilename="Q_10_1955_0016_c7v.jpg" imageWidth="1798" imageHeight="2324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746084784" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="159,435 170,744 1592,744 1581,435"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="170,509 240,507 311,511 382,509 452,507 523,504 594,503 664,503 735,501 806,499 877,500 947,499 1018,499 1089,499 1159,497 1230,497 1301,497 1371,495 1442,494 1513,492 1584,495 1584,443 1513,440 1442,442 1371,443 1301,445 1230,445 1159,445 1089,447 1018,447 947,447 877,448 806,447 735,449 664,451 594,451 523,452 452,455 382,457 311,459 240,455 170,457"/>
+                <Baseline points="170,492 240,490 311,494 382,492 452,490 523,487 594,486 664,486 735,484 806,482 877,483 947,482 1018,482 1089,482 1159,480 1230,480 1301,480 1371,478 1442,477 1513,475 1584,478"/>
+                <TextEquiv>
+                    <Unicode>compagnano i puri colori in "zone" delimitate, e non fanno tono. E' un disegno di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="172,591 242,589 313,586 384,583 455,583 526,580 596,579 667,578 738,576 809,575 880,575 950,574 1021,573 1092,573 1163,573 1234,569 1304,568 1375,567 1446,568 1517,567 1588,569 1588,517 1517,515 1446,516 1375,515 1304,516 1234,517 1163,521 1092,521 1021,521 950,522 880,523 809,523 738,524 667,526 596,527 526,528 455,531 384,531 313,534 242,537 172,539"/>
+                <Baseline points="172,574 242,572 313,569 384,566 455,566 526,563 596,562 667,561 738,559 809,558 880,558 950,557 1021,556 1092,556 1163,556 1234,552 1304,551 1375,550 1446,551 1517,550 1588,552"/>
+                <TextEquiv>
+                    <Unicode>intenso contorno, che il colore invade, ma essendone contenuto. Questa è anche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="174,661 244,663 315,663 386,659 457,657 528,655 599,653 670,653 741,651 812,651 883,651 953,651 1024,649 1095,650 1166,645 1237,645 1308,644 1379,643 1450,643 1521,643 1592,645 1592,593 1521,591 1450,591 1379,591 1308,592 1237,593 1166,593 1095,598 1024,597 953,599 883,599 812,599 741,599 670,601 599,601 528,603 457,605 386,607 315,611 244,611 174,609"/>
+                <Baseline points="174,644 244,646 315,646 386,642 457,640 528,638 599,636 670,636 741,634 812,634 883,634 953,634 1024,632 1095,633 1166,628 1237,628 1308,627 1379,626 1450,626 1521,626 1592,628"/>
+                <TextEquiv>
+                    <Unicode>l'origine, e il carattere, della pittura francese, fino a Fouquet. Vetrata, arezzo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="174,744 237,742 300,740 363,740 426,738 490,737 553,738 616,736 679,735 742,734 806,732 869,732 932,732 995,728 1058,728 1122,728 1185,726 1248,723 1311,722 1374,720 1438,722 1438,667 1374,665 1311,667 1248,668 1185,671 1122,673 1058,673 995,673 932,677 869,677 806,677 742,679 679,680 616,681 553,683 490,682 426,683 363,685 300,685 237,687 174,689"/>
+                <Baseline points="174,726 237,724 300,722 363,722 426,720 490,719 553,720 616,718 679,717 742,716 806,714 869,714 932,714 995,710 1058,710 1122,710 1185,708 1248,705 1311,704 1374,702 1438,704"/>
+                <TextEquiv>
+                    <Unicode>Questo spostamento, di cultura e di sentimento, mi sembra significativo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>compagnano i puri colori in "zone" delimitate, e non fanno tono. E' un disegno di&#13;
+intenso contorno, che il colore invade, ma essendone contenuto. Questa è anche&#13;
+l'origine, e il carattere, della pittura francese, fino a Fouquet. Vetrata, arezzo.&#13;
+Questo spostamento, di cultura e di sentimento, mi sembra significativo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

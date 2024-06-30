@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:23:19.856+02:00</Created>
+        <LastChange>2024-06-21T10:06:14.279+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326049" pageNr="97" tsid="175603576" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=COEJLCWVOMYOWDEVSJOQSDSI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YFPPNBHDUEUYFHNYMIIYCNVV" imageId="54296173"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_10_0017_c8r.jpg" imageWidth="1798" imageHeight="2427" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746076250" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="0,318 0,2055 1627,2055 1627,318"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="195,531 266,527 337,525 408,524 479,525 551,527 622,527 693,525 764,525 835,529 907,527 978,527 1049,527 1120,525 1191,525 1263,523 1334,524 1405,521 1476,521 1547,520 1619,525 1619,476 1547,471 1476,472 1405,472 1334,475 1263,474 1191,476 1120,476 1049,478 978,478 907,478 835,480 764,476 693,476 622,478 551,478 479,476 408,475 337,476 266,478 195,482"/>
+                <Baseline points="195,515 266,511 337,509 408,508 479,509 551,511 622,511 693,509 764,509 835,513 907,511 978,511 1049,511 1120,509 1191,509 1263,507 1334,508 1405,505 1476,505 1547,504 1619,509"/>
+                <TextEquiv>
+                    <Unicode>leville. Nelle lettere, nei solitari colloqui e monologhi, nei silenzi dell’ospedale, Rimbaud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="179,611 250,607 321,607 392,606 464,607 535,607 606,603 678,603 749,605 820,603 892,601 963,599 1034,599 1105,599 1177,599 1248,597 1319,597 1391,598 1462,597 1533,600 1605,607 1605,558 1533,551 1462,548 1391,549 1319,548 1248,548 1177,550 1105,550 1034,550 963,550 892,552 820,554 749,556 678,554 606,554 535,558 464,558 392,557 321,558 250,558 179,562"/>
+                <Baseline points="179,595 250,591 321,591 392,590 464,591 535,591 606,587 678,587 749,589 820,587 892,585 963,583 1034,583 1105,583 1177,583 1248,581 1319,581 1391,582 1462,581 1533,584 1605,591"/>
+                <TextEquiv>
+                    <Unicode>ricorda perfettamente ogni tempo della sua vita, rievoca il martirio più recente: la partenza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364659034_2034" custom="readingOrder {index:2;}">
+                <Coords points="182,630 1611,628 1611,678 182,680"/>
+                <Baseline points="182,675 1611,673"/>
+                <TextEquiv>
+                    <Unicode>da Harrar per Zeilah in portantina, in quella sorta di comica sedia e letto, gabbia di canne,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="167,759 226,759 286,757 345,757 405,755 465,755 524,757 584,753 643,753 703,753 763,755 822,755 882,755 941,755 1001,755 1061,755 1120,753 1180,753 1239,753 1299,753 1359,759 1359,711 1299,705 1239,705 1180,705 1120,705 1061,707 1001,707 941,707 882,707 822,707 763,707 703,705 643,705 584,705 524,709 465,707 405,707 345,709 286,709 226,711 167,711"/>
+                <Baseline points="167,743 226,743 286,741 345,741 405,739 465,739 524,741 584,737 643,737 703,737 763,739 822,739 882,739 941,739 1001,739 1061,739 1120,737 1180,737 1239,737 1299,737 1359,743"/>
+                <TextEquiv>
+                    <Unicode>che trasporta un uomo mesto e urlante di dolore, di pena, e di umiliazione.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364447768_1912" custom="readingOrder {index:4;} del {offset:4; length:3;rend:overtyped;}">
+                <Coords points="173,778 271,778 271,828 173,828"/>
+                <Baseline points="173,823 271,823"/>
+                <TextEquiv>
+                    <Unicode>Per tre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364451466_1917" custom="readingOrder {index:5;}">
+                <Coords points="227,740 281,740 281,790 227,790"/>
+                <Baseline points="227,785 281,785"/>
+                <TextEquiv>
+                    <Unicode>due</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364456494_1922" custom="readingOrder {index:6;}">
+                <Coords points="275,778 1614,777 1614,827 275,828"/>
+                <Baseline points="275,823 1614,822"/>
+                <TextEquiv>
+                    <Unicode>mesi, in una convalescenza che è preludio alla morte fisica, egli resta con la famiglia a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364463181_1927" custom="readingOrder {index:7;} date {offset:23; length:24;year:0; day:0; month:0;}">
+                <Coords points="160,857 869,855 869,905 160,907"/>
+                <Baseline points="160,902 869,900"/>
+                <TextEquiv>
+                    <Unicode>Roche. Poi, aggravato, al principio di novembre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364466692_1932" custom="readingOrder {index:8;} del {offset:0; length:22;rend:overtyped;} hi {offset:23; length:18;rend:underlined;}">
+                <Coords points="536,814 1106,809 1106,859 536,864"/>
+                <Baseline points="536,859 1106,854"/>
+                <TextEquiv>
+                    <Unicode>alla fine di settembre alla fine d’agosto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364475859_1937" custom="readingOrder {index:9;}">
+                <Coords points="872,856 1624,851 1624,901 872,906"/>
+                <Baseline points="872,901 1624,896"/>
+                <TextEquiv>
+                    <Unicode> si fa trasportare di nuovo a Marsiglia, ospedale della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="173,983 244,987 316,985 387,984 459,983 531,981 602,981 674,979 745,980 817,981 889,979 960,981 1032,979 1103,977 1175,979 1247,975 1318,973 1390,973 1461,973 1533,973 1605,975 1605,926 1533,924 1461,924 1390,924 1318,924 1247,926 1175,930 1103,928 1032,930 960,932 889,930 817,932 745,931 674,930 602,932 531,932 459,934 387,935 316,936 244,938 173,934"/>
+                <Baseline points="173,967 244,971 316,969 387,968 459,967 531,965 602,965 674,963 745,964 817,965 889,963 960,965 1032,963 1103,961 1175,963 1247,959 1318,957 1390,957 1461,957 1533,957 1605,959"/>
+                <TextEquiv>
+                    <Unicode>Concezione. Ancora due mesi e più di ospedale, di inutili sofferenze. La La sorella Isabella è con lui. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="161,1059 232,1057 303,1056 375,1057 446,1056 518,1057 589,1057 660,1057 732,1057 803,1056 875,1055 946,1055 1017,1055 1089,1055 1160,1053 1232,1053 1303,1051 1374,1052 1446,1053 1517,1053 1589,1059 1589,1010 1517,1004 1446,1004 1374,1003 1303,1002 1232,1004 1160,1004 1089,1006 1017,1006 946,1006 875,1006 803,1007 732,1008 660,1008 589,1008 518,1008 446,1007 375,1008 303,1007 232,1008 161,1010"/>
+                <Baseline points="161,1043 232,1041 303,1040 375,1041 446,1040 518,1041 589,1041 660,1041 732,1041 803,1040 875,1039 946,1039 1017,1039 1089,1039 1160,1037 1232,1037 1303,1035 1374,1036 1446,1037 1517,1037 1589,1043"/>
+                <TextEquiv>
+                    <Unicode>Sono deliri, smarrimenti, spasimi, e assopimenti mortali. Si racconta delle sue visioni e alluci-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="169,1139 241,1137 313,1136 385,1135 458,1135 530,1133 602,1133 675,1134 747,1133 819,1131 892,1131 964,1131 1036,1131 1108,1131 1181,1129 1253,1127 1325,1127 1398,1129 1470,1129 1542,1130 1615,1137 1615,1088 1542,1081 1470,1080 1398,1080 1325,1078 1253,1078 1181,1080 1108,1082 1036,1082 964,1082 892,1082 819,1082 747,1084 675,1085 602,1084 530,1084 458,1086 385,1086 313,1087 241,1088 169,1090"/>
+                <Baseline points="169,1123 241,1121 313,1120 385,1119 458,1119 530,1117 602,1117 675,1118 747,1117 819,1115 892,1115 964,1115 1036,1115 1108,1115 1181,1113 1253,1111 1325,1111 1398,1113 1470,1113 1542,1114 1615,1121"/>
+                <TextEquiv>
+                    <Unicode>nazioni, in prossimità della fine; e della cristiana rassegnazione dopo ribellioni e bestemmie durate fino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715365265369_2170" custom="readingOrder {index:13;}">
+                <Coords points="167,1162 1618,1154 1618,1204 167,1212"/>
+                <Baseline points="167,1207 1618,1199"/>
+                <TextEquiv>
+                    <Unicode>all'estremo. Morì il 10 novembre 1891, all’età di 37 anni. La vigiglia, aveva voluto dettare alla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364486539_1942" custom="readingOrder {index:14;} del {offset:31; length:2;rend:overtyped;}">
+                <Coords points="165,1238 627,1233 627,1283 165,1288"/>
+                <Baseline points="165,1283 627,1278"/>
+                <TextEquiv>
+                    <Unicode>sorella una lettera, un sogno, al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364488976_1947" custom="readingOrder {index:15;} add {offset:0; length:6;place:above;}">
+                <Coords points="562,1193 651,1197 649,1247 560,1243"/>
+                <Baseline points="560,1238 649,1242"/>
+                <TextEquiv>
+                    <Unicode>per il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364492292_1952" custom="readingOrder {index:16;}">
+                <Coords points="628,1231 1624,1238 1624,1288 628,1281"/>
+                <Baseline points="639,1274 1624,1283"/>
+                <TextEquiv>
+                    <Unicode>direttore delle Messaggerie Marittime, chiedendogli di ripartire per Suez:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:17;}">
+                <Coords points="177,1373 248,1366 320,1365 392,1365 464,1362 536,1363 608,1359 680,1359 752,1359 824,1360 896,1361 967,1360 1039,1361 1111,1359 1183,1358 1255,1357 1327,1357 1399,1355 1471,1357 1543,1359 1615,1365 1615,1316 1543,1310 1471,1308 1399,1306 1327,1308 1255,1308 1183,1309 1111,1310 1039,1312 967,1311 896,1312 824,1311 752,1310 680,1310 608,1310 536,1314 464,1313 392,1316 320,1316 248,1317 177,1324"/>
+                <Baseline points="177,1357 248,1350 320,1349 392,1349 464,1346 536,1347 608,1343 680,1343 752,1343 824,1344 896,1345 967,1344 1039,1345 1111,1343 1183,1342 1255,1341 1327,1341 1399,1339 1471,1341 1543,1343 1615,1349"/>
+                <TextEquiv>
+                    <Unicode>“... donc je désire me trouver de bonne heure à bord. Dites-moi à quelle heure je dois</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:18;}">
+                <Coords points="177,1443 248,1441 320,1439 392,1439 464,1438 536,1437 608,1436 680,1435 752,1435 824,1434 896,1435 967,1435 1039,1437 1111,1433 1183,1433 1255,1435 1327,1433 1399,1433 1471,1433 1543,1437 1615,1441 1615,1392 1543,1388 1471,1384 1399,1384 1327,1384 1255,1386 1183,1384 1111,1384 1039,1388 967,1386 896,1386 824,1385 752,1386 680,1386 608,1387 536,1388 464,1389 392,1390 320,1390 248,1392 177,1394"/>
+                <Baseline points="177,1427 248,1425 320,1423 392,1423 464,1422 536,1421 608,1420 680,1419 752,1419 824,1418 896,1419 967,1419 1039,1421 1111,1417 1183,1417 1255,1419 1327,1417 1399,1417 1471,1417 1543,1421 1615,1425"/>
+                <TextEquiv>
+                    <Unicode>être trasnsporté à bord..." Il suo nome è sepolto, con la sua gloria. Difatti, due anni dopo, un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364497746_1957" custom="readingOrder {index:19;}">
+                <Coords points="175,1471 791,1469 791,1519 175,1521"/>
+                <Baseline points="175,1516 791,1514"/>
+                <TextEquiv>
+                    <Unicode>vecchio amico, il poeta Germain Nouveau,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364500642_1962" custom="readingOrder {index:20;}">
+                <Coords points="741,1428 835,1422 838,1472 744,1478"/>
+                <Baseline points="744,1473 838,1467"/>
+                <TextEquiv>
+                    <Unicode>ignaro,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364504369_1967" custom="readingOrder {index:21;}">
+                <Coords points="793,1465 1616,1456 1616,1506 793,1515"/>
+                <Baseline points="793,1510 1616,1501"/>
+                <TextEquiv>
+                    <Unicode>gli indirizza una lettera a Aden. Piena di ricordi e di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364509392_1972" custom="readingOrder {index:22;}">
+                <Coords points="157,1544 572,1542 572,1592 157,1594"/>
+                <Baseline points="157,1589 572,1587"/>
+                <TextEquiv>
+                    <Unicode>affetto. Vagabondo, disperato,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364511964_1977" custom="readingOrder {index:23;}">
+                <Coords points="488,1497 614,1489 617,1539 491,1547"/>
+                <Baseline points="491,1542 617,1534"/>
+                <TextEquiv>
+                    <Unicode>come lui,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364516850_1982" custom="readingOrder {index:24;} del {offset:47; length:2;rend:overtyped;} gap {offset:47; length:0;quantity:2; unit:character; reason:illegible;}">
+                <Coords points="578,1531 1292,1537 1292,1587 578,1581"/>
+                <Baseline points="578,1576 1292,1582"/>
+                <TextEquiv>
+                    <Unicode>Nouveau gli chiede di poter lavorare, con lui,    </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364518775_1987" custom="readingOrder {index:25;}">
+                <Coords points="1268,1499 1295,1497 1298,1547 1271,1549"/>
+                <Baseline points="1271,1544 1298,1542"/>
+                <TextEquiv>
+                    <Unicode>a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364521427_1992" custom="readingOrder {index:26;}">
+                <Coords points="1312,1533 1600,1533 1600,1583 1312,1583"/>
+                <Baseline points="1312,1578 1600,1578"/>
+                <TextEquiv>
+                    <Unicode>Aden. La poesia, per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364541349_2005" custom="readingOrder {index:27;}">
+                <Coords points="175,1621 1624,1612 1624,1662 175,1671"/>
+                <Baseline points="175,1666 1624,1657"/>
+                <TextEquiv>
+                    <Unicode>loro, è finita. Dice, scherzando: “N'ai pas vus Verlompe depuis bientôt deux ans, non plus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364527336_1997" custom="readingOrder {index:28;}">
+                <Coords points="173,1693 1640,1691 1640,1741 173,1743"/>
+                <Baseline points="173,1738 1640,1736"/>
+                <TextEquiv>
+                    <Unicode>que Delahappe. L'un est célìbe, et l’autre..." Verlaine; la poesia. Un miraggio svanito.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364598905_2010" custom="readingOrder {index:29;}">
+                <Coords points="213,1772 1583,1766 1583,1816 213,1822"/>
+                <Baseline points="213,1817 1583,1811"/>
+                <TextEquiv>
+                    <Unicode>_ Che cosa è stata, per Rimbaud, l’Africa? Difficile rispondere sensatamente. Forse è</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364604275_2015" custom="readingOrder {index:30;}">
+                <Coords points="166,1849 1617,1837 1617,1887 166,1899"/>
+                <Baseline points="166,1894 1617,1882"/>
+                <TextEquiv>
+                    <Unicode>stato come l’estrema conseguenza logica di un calcolo, incominciato a Charleville e concluso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364607711_2020" custom="readingOrder {index:31;}">
+                <Coords points="164,1924 1621,1918 1621,1968 164,1974"/>
+                <Baseline points="164,1969 1621,1963"/>
+                <TextEquiv>
+                    <Unicode>all’ospedale di Marsiglia; il calcolo e il progetto di una vita da realizzare in condizioni ecce-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364611030_2025" custom="readingOrder {index:32;}">
+                <Coords points="174,1997 1621,1993 1621,2043 174,2047"/>
+                <Baseline points="174,2042 1621,2038"/>
+                <TextEquiv>
+                    <Unicode>zionali e in vista di un “fine unico": la volontà, accompagnata dal genio, e l’orgoglio smisurato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>leville. Nelle lettere, nei solitari colloqui e monologhi, nei silenzi dell’ospedale, Rimbaud&#13;
+ricorda perfettamente ogni tempo della sua vita, rievoca il martirio più recente: la partenza&#13;
+da Harrar per Zeilah in portantina, in quella sorta di comica sedia e letto, gabbia di canne,&#13;
+che trasporta un uomo mesto e urlante di dolore, di pena, e di umiliazione.&#13;
+Per tre&#13;
+due&#13;
+mesi, in una convalescenza che è preludio alla morte fisica, egli resta con la famiglia a&#13;
+Roche. Poi, aggravato, al principio di novembre&#13;
+alla fine di settembre alla fine d’agosto,&#13;
+ si fa trasportare di nuovo a Marsiglia, ospedale della&#13;
+Concezione. Ancora due mesi e più di ospedale, di inutili sofferenze. La La sorella Isabella è con lui. &#13;
+Sono deliri, smarrimenti, spasimi, e assopimenti mortali. Si racconta delle sue visioni e alluci-&#13;
+nazioni, in prossimità della fine; e della cristiana rassegnazione dopo ribellioni e bestemmie durate fino&#13;
+all'estremo. Morì il 10 novembre 1891, all’età di 37 anni. La vigiglia, aveva voluto dettare alla&#13;
+sorella una lettera, un sogno, al&#13;
+per il&#13;
+direttore delle Messaggerie Marittime, chiedendogli di ripartire per Suez:&#13;
+“... donc je désire me trouver de bonne heure à bord. Dites-moi à quelle heure je dois&#13;
+être trasnsporté à bord..." Il suo nome è sepolto, con la sua gloria. Difatti, due anni dopo, un&#13;
+vecchio amico, il poeta Germain Nouveau,&#13;
+ignaro,&#13;
+gli indirizza una lettera a Aden. Piena di ricordi e di&#13;
+affetto. Vagabondo, disperato,&#13;
+come lui,&#13;
+Nouveau gli chiede di poter lavorare, con lui,    &#13;
+a&#13;
+Aden. La poesia, per&#13;
+loro, è finita. Dice, scherzando: “N'ai pas vus Verlompe depuis bientôt deux ans, non plus&#13;
+que Delahappe. L'un est célìbe, et l’autre..." Verlaine; la poesia. Un miraggio svanito.&#13;
+_ Che cosa è stata, per Rimbaud, l’Africa? Difficile rispondere sensatamente. Forse è&#13;
+stato come l’estrema conseguenza logica di un calcolo, incominciato a Charleville e concluso&#13;
+all’ospedale di Marsiglia; il calcolo e il progetto di una vita da realizzare in condizioni ecce-&#13;
+zionali e in vista di un “fine unico": la volontà, accompagnata dal genio, e l’orgoglio smisurato</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="9,413 9,569 91,569 91,413"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="9,563 36,565 63,568 91,569 91,419 63,418 36,415 9,413"/>
+                <Baseline points="9,513 36,515 63,518 91,519"/>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

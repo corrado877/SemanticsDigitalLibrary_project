@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:37:29.660+02:00</Created>
+        <LastChange>2024-06-21T10:21:56.058+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326059" pageNr="117" tsid="175603586" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=VAWVYMQXEASDCZLPBPHEEGPI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DHDKQEOULDFLLOFYGXGWZHYY" imageId="54316471"/>
+    </Metadata>
+    <Page imageFilename="Q_12_1957_0012_c5v.jpg" imageWidth="1798" imageHeight="2523" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746080564" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="213,269 213,2083 1795,2083 1795,269"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:17;rend:underline; type:double;}">
+                <Coords points="673,317 698,317 724,318 750,320 776,322 802,323 828,323 854,323 879,323 905,325 931,325 957,325 983,325 1009,325 1035,325 1061,327 1061,279 1035,277 1009,277 983,277 957,277 931,277 905,277 879,275 854,275 828,275 802,275 776,274 750,272 724,270 698,269 673,269"/>
+                <Baseline points="673,301 698,301 724,302 750,304 776,306 802,307 828,307 854,307 879,307 905,309 931,309 957,309 983,309 1009,309 1035,309 1061,311"/>
+                <TextEquiv>
+                    <Unicode>Viaggio in Belgio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117128276_547" custom="readingOrder {index:1;} structure {type:page-number;}">
+                <Coords points="1481,272 1567,277 1564,357 1478,352"/>
+                <Baseline points="1478,347 1564,352"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="1555,383 1580,384 1606,388 1632,391 1632,343 1606,340 1580,336 1555,335"/>
+                <Baseline points="1555,367 1580,368 1606,372 1632,375"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;} hi {offset:0; length:5;rend:underline; type:double;}">
+                <Coords points="300,450 342,444 371,442 398,442 432,440 435,339 403,335 382,336 352,336 303,337"/>
+                <Baseline points="315,391 342,389 370,387 397,387 425,385"/>
+                <TextEquiv>
+                    <Unicode>Ensot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1331,471 1356,467 1381,465 1406,465 1431,463 1456,460 1481,457 1507,457 1507,409 1481,409 1456,412 1431,415 1406,417 1381,417 1356,419 1331,423"/>
+                <Baseline points="1331,455 1356,451 1381,449 1406,449 1431,447 1456,444 1481,441 1507,441"/>
+                <TextEquiv>
+                    <Unicode>Casson</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="267,561 335,561 404,563 473,565 541,563 610,564 679,564 747,563 816,563 885,566 954,565 1022,565 1091,566 1160,565 1228,565 1297,565 1366,565 1434,565 1503,567 1572,566 1641,567 1641,519 1572,518 1503,519 1434,517 1366,517 1297,517 1228,517 1160,517 1091,518 1022,517 954,517 885,518 816,515 747,515 679,516 610,516 541,515 473,517 404,515 335,513 267,513"/>
+                <Baseline points="267,545 335,545 404,547 473,549 541,547 610,548 679,548 747,547 816,547 885,550 954,549 1022,549 1091,550 1160,549 1228,549 1297,549 1366,549 1434,549 1503,551 1572,550 1641,551"/>
+                <TextEquiv>
+                    <Unicode>Com'è difficile intendersi, anche fra persone in buona fede. Si era a pranzo: e dalla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="225,637 297,639 369,639 441,639 513,639 585,639 657,640 730,639 802,639 874,639 946,639 1018,641 1090,641 1162,641 1235,641 1307,639 1379,639 1451,639 1523,639 1595,640 1668,643 1668,595 1595,592 1523,591 1451,591 1379,591 1307,591 1235,593 1162,593 1090,593 1018,593 946,591 874,591 802,591 730,591 657,592 585,591 513,591 441,591 369,591 297,591 225,589"/>
+                <Baseline points="225,621 297,623 369,623 441,623 513,623 585,623 657,624 730,623 802,623 874,623 946,623 1018,625 1090,625 1162,625 1235,625 1307,623 1379,623 1451,623 1523,623 1595,624 1668,627"/>
+                <TextEquiv>
+                    <Unicode>vasta spiaggia iridata, dopo una mobile, lenta frangia di schiuma, incominciava a sten-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="219,707 291,709 364,707 436,711 509,707 581,705 654,707 726,707 799,706 871,709 944,709 1016,708 1089,707 1161,708 1234,707 1306,708 1379,707 1451,707 1524,708 1596,707 1669,709 1669,679 1596,677 1524,678 1451,677 1379,677 1306,678 1234,677 1161,678 1089,677 1016,678 944,679 871,679 799,676 726,677 654,677 581,675 509,677 436,681 364,677 291,679 219,677"/>
+                <Baseline points="219,697 291,699 364,697 436,701 509,697 581,695 654,697 726,697 799,696 871,699 944,699 1016,698 1089,697 1161,698 1234,697 1306,698 1379,697 1451,697 1524,698 1596,697 1669,699"/>
+                <TextEquiv>
+                    <Unicode>dersi, prendeva spazio, prendeva corpo la distesa, quasi immobile, verdastra, nerastra del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117189398_625" custom="readingOrder {index:8;}">
+                <Coords points="221,738 595,741 595,791 221,788"/>
+                <Baseline points="221,783 595,786"/>
+                <TextEquiv>
+                    <Unicode>mare del Nord. Si fece, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="583,749 608,749 633,749 658,749 683,749 708,749 733,749 759,753 759,723 733,719 708,719 683,719 658,719 633,719 608,719 583,719"/>
+                <Baseline points="583,739 608,739 633,739 658,739 683,739 708,739 733,739 759,743"/>
+                <TextEquiv>
+                    <Unicode>non so come,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117192675_630" custom="readingOrder {index:10;}">
+                <Coords points="602,734 1673,745 1673,795 602,784"/>
+                <Baseline points="602,779 1673,790"/>
+                <TextEquiv>
+                    <Unicode>il nome di Ensor: e io raccontavo in termini di meraviglia, non so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:11;} gap {offset:72; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="233,861 304,862 376,865 448,865 520,864 592,863 664,865 736,865 808,863 880,866 952,865 1023,865 1095,865 1167,865 1239,867 1311,867 1383,869 1455,868 1527,867 1599,868 1671,869 1671,821 1599,820 1527,819 1455,820 1383,821 1311,819 1239,819 1167,817 1095,817 1023,817 952,817 880,818 808,815 736,817 664,817 592,815 520,816 448,817 376,817 304,814 233,813"/>
+                <Baseline points="233,845 304,846 376,849 448,849 520,848 592,847 664,849 736,849 808,847 880,850 952,849 1023,849 1095,849 1167,849 1239,851 1311,851 1383,853 1455,852 1527,851 1599,852 1671,853"/>
+                <TextEquiv>
+                    <Unicode>trovare altre parole, la visita compiuta la vigilia alla casa di Ensor.        , che mi se-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117199122_635" custom="readingOrder {index:12;}">
+                <Coords points="227,887 1653,894 1653,944 227,937"/>
+                <Baseline points="227,932 1653,939"/>
+                <TextEquiv>
+                    <Unicode>deva a fianco, interruppe con garbo la mia ammirazione. Disse di conoscere bene, il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:13;}">
+                <Coords points="231,1007 303,1011 376,1010 448,1011 521,1008 593,1011 666,1009 738,1011 811,1011 883,1013 956,1011 1029,1011 1101,1013 1174,1011 1246,1012 1319,1013 1391,1015 1464,1013 1536,1015 1609,1018 1682,1020 1682,990 1609,988 1536,985 1464,983 1391,985 1319,983 1246,982 1174,981 1101,983 1029,981 956,981 883,983 811,981 738,981 666,979 593,981 521,978 448,981 376,980 303,981 231,977"/>
+                <Baseline points="231,997 303,1001 376,1000 448,1001 521,998 593,1001 666,999 738,1001 811,1001 883,1003 956,1001 1029,1001 1101,1003 1174,1001 1246,1002 1319,1003 1391,1005 1464,1003 1536,1005 1609,1008 1682,1010"/>
+                <TextEquiv>
+                    <Unicode>luogo, l'uomo e la sua opera. La sua osservazione: il pensiero, girando sui dettagli, mirava-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117203529_640" custom="readingOrder {index:14;}">
+                <Coords points="227,1039 1162,1044 1162,1094 227,1089"/>
+                <Baseline points="227,1084 1162,1089"/>
+                <TextEquiv>
+                    <Unicode>no ad un giudizio. Disse di essere stato, anch'egli, preso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:15;} add {offset:0; length:9;place:above;}">
+                <Coords points="1117,1045 1144,1045 1172,1047 1199,1048 1227,1049 1227,1019 1199,1018 1172,1017 1144,1015 1117,1015"/>
+                <Baseline points="1117,1035 1144,1035 1172,1037 1199,1038 1227,1039"/>
+                <TextEquiv>
+                    <Unicode>una volta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117206165_645" custom="readingOrder {index:16;}">
+                <Coords points="1168,1037 1683,1039 1683,1089 1168,1087"/>
+                <Baseline points="1168,1082 1683,1084"/>
+                <TextEquiv>
+                    <Unicode>nel sortilegio di quell'arte e del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117210624_650" custom="readingOrder {index:17;}">
+                <Coords points="218,1115 1683,1120 1683,1170 218,1165"/>
+                <Baseline points="218,1160 1683,1165"/>
+                <TextEquiv>
+                    <Unicode>suo ambiente. Ma non a lungo: -sembrava sottindere. Parlò di Ensor, come di un mago bonario,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117214866_655" custom="readingOrder {index:18;}">
+                <Coords points="225,1192 1681,1198 1681,1248 225,1242"/>
+                <Baseline points="225,1237 1681,1243"/>
+                <TextEquiv>
+                    <Unicode>di un malizioso stregone, nella sua bottega. Il grosso viso di Casson: la sua maschera di Ca-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117221543_660" custom="readingOrder {index:19;}">
+                <Coords points="222,1267 1668,1273 1668,1323 222,1317"/>
+                <Baseline points="222,1312 1668,1318"/>
+                <TextEquiv>
+                    <Unicode>tino ammiccava negli occhi. Azzarda appena:"..un bon vicux malin..." Fu pronta la rispo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117226002_665" custom="readingOrder {index:20;}">
+                <Coords points="216,1343 1691,1347 1691,1397 216,1393"/>
+                <Baseline points="216,1388 1691,1392"/>
+                <TextEquiv>
+                    <Unicode>sta:"..oni, mais pons comme ce vieux Cezanne..."- Aveva ragione: altra cosa. Il cri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117229138_670" custom="readingOrder {index:21;}">
+                <Coords points="220,1421 1681,1427 1681,1477 220,1471"/>
+                <Baseline points="220,1466 1681,1472"/>
+                <TextEquiv>
+                    <Unicode>tico parigino spiegò, in breve, quello che divide l'arte e lo spirito del nord dall'arte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:22;}">
+                <Coords points="221,1555 251,1553 281,1551 311,1551 341,1551 372,1551 402,1549 432,1551 462,1547 492,1547 523,1545 553,1545 583,1547 613,1547 643,1547 674,1547 704,1547 734,1547 764,1549 794,1551 825,1549 825,1501 794,1503 764,1501 734,1499 704,1499 674,1499 643,1499 613,1499 583,1499 553,1497 523,1497 492,1499 462,1499 432,1503 402,1501 372,1503 341,1503 311,1503 281,1503 251,1505 221,1507"/>
+                <Baseline points="221,1539 251,1537 281,1535 311,1535 341,1535 372,1535 402,1533 432,1535 462,1531 492,1531 523,1529 553,1529 583,1531 613,1531 643,1531 674,1531 704,1531 734,1531 764,1533 794,1535 825,1533"/>
+                <TextEquiv>
+                    <Unicode>e dallo spirito francese. Tuttavia...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117649343_772" custom="readingOrder {index:23;} hi {offset:39; length:24;rend:underline;}">
+                <Coords points="233,1570 1640,1576 1640,1626 233,1620"/>
+                <Baseline points="233,1615 1640,1621"/>
+                <TextEquiv>
+                    <Unicode>Bisogna vederla, quella casa di Ensor: la bottega di conchiglie&lt;/hi&gt;, al n° 27 di rue de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117244321_675" custom="readingOrder {index:24;}">
+                <Coords points="234,1647 1672,1654 1672,1704 234,1697"/>
+                <Baseline points="234,1692 1672,1699"/>
+                <TextEquiv>
+                    <Unicode>Flandre. Vista di fuori, è un negozio come in tante città di mare: una vendita di ri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117249169_680" custom="readingOrder {index:25;}">
+                <Coords points="238,1722 1682,1729 1682,1779 238,1772"/>
+                <Baseline points="238,1767 1682,1774"/>
+                <TextEquiv>
+                    <Unicode>cordi, di regalucci, per marinai di passaggio. Poichè il porto è qui dietro, a due passi, do-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117252383_685" custom="readingOrder {index:26;}">
+                <Coords points="236,1796 1665,1806 1665,1856 236,1846"/>
+                <Baseline points="236,1841 1665,1851"/>
+                <TextEquiv>
+                    <Unicode>vevano venirci volentieri. Trovavano vasi di foggia orientale, bambole avvolte nelle stinte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117270025_696" custom="readingOrder {index:27;} gap {offset:34; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="227,1876 1114,1878 1114,1928 227,1926"/>
+                <Baseline points="227,1921 1114,1923"/>
+                <TextEquiv>
+                    <Unicode>seta giapponesi, statuette: finte        , da poche lire.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117272971_701" custom="readingOrder {index:28;} add {offset:0; length:49;place:above;}">
+                <Coords points="691,1833 1483,1833 1483,1883 691,1883"/>
+                <Baseline points="691,1878 1483,1878"/>
+                <TextEquiv>
+                    <Unicode>Bastimentini in miniatura; piccole ancore dorate.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117275123_706" custom="readingOrder {index:29;}">
+                <Coords points="1130,1874 1660,1876 1660,1926 1130,1924"/>
+                <Baseline points="1130,1919 1660,1921"/>
+                <TextEquiv>
+                    <Unicode> Perfino cuori d'argento, e cuori da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117278555_711" custom="readingOrder {index:30;}">
+                <Coords points="231,1949 1664,1955 1664,2005 231,1999"/>
+                <Baseline points="231,1994 1664,2000"/>
+                <TextEquiv>
+                    <Unicode>offrire in chiesa: a rammentare la tremenda burrasca di mare, un naufragio miracolosa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716117282765_716" custom="readingOrder {index:31;}">
+                <Coords points="223,2033 1688,2031 1688,2081 223,2083"/>
+                <Baseline points="223,2078 1688,2076"/>
+                <TextEquiv>
+                    <Unicode>mente scampato. Poi, le maschere: maschere del carnevale ostendese, buffe, comiche, spaven-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Viaggio in Belgio&#13;
+1&#13;
+1&#13;
+Ensot&#13;
+Casson&#13;
+Com'è difficile intendersi, anche fra persone in buona fede. Si era a pranzo: e dalla&#13;
+vasta spiaggia iridata, dopo una mobile, lenta frangia di schiuma, incominciava a sten-&#13;
+dersi, prendeva spazio, prendeva corpo la distesa, quasi immobile, verdastra, nerastra del&#13;
+mare del Nord. Si fece, &#13;
+non so come,&#13;
+il nome di Ensor: e io raccontavo in termini di meraviglia, non so&#13;
+trovare altre parole, la visita compiuta la vigilia alla casa di Ensor.        , che mi se-&#13;
+deva a fianco, interruppe con garbo la mia ammirazione. Disse di conoscere bene, il&#13;
+luogo, l'uomo e la sua opera. La sua osservazione: il pensiero, girando sui dettagli, mirava-&#13;
+no ad un giudizio. Disse di essere stato, anch'egli, preso&#13;
+una volta&#13;
+nel sortilegio di quell'arte e del&#13;
+suo ambiente. Ma non a lungo: -sembrava sottindere. Parlò di Ensor, come di un mago bonario,&#13;
+di un malizioso stregone, nella sua bottega. Il grosso viso di Casson: la sua maschera di Ca-&#13;
+tino ammiccava negli occhi. Azzarda appena:"..un bon vicux malin..." Fu pronta la rispo-&#13;
+sta:"..oni, mais pons comme ce vieux Cezanne..."- Aveva ragione: altra cosa. Il cri-&#13;
+tico parigino spiegò, in breve, quello che divide l'arte e lo spirito del nord dall'arte&#13;
+e dallo spirito francese. Tuttavia...&#13;
+Bisogna vederla, quella casa di Ensor: la bottega di conchiglie&lt;/hi&gt;, al n° 27 di rue de&#13;
+Flandre. Vista di fuori, è un negozio come in tante città di mare: una vendita di ri-&#13;
+cordi, di regalucci, per marinai di passaggio. Poichè il porto è qui dietro, a due passi, do-&#13;
+vevano venirci volentieri. Trovavano vasi di foggia orientale, bambole avvolte nelle stinte&#13;
+seta giapponesi, statuette: finte        , da poche lire.&#13;
+Bastimentini in miniatura; piccole ancore dorate.&#13;
+ Perfino cuori d'argento, e cuori da&#13;
+offrire in chiesa: a rammentare la tremenda burrasca di mare, un naufragio miracolosa-&#13;
+mente scampato. Poi, le maschere: maschere del carnevale ostendese, buffe, comiche, spaven-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

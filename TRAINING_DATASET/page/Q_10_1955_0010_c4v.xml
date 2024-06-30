@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:49:00.602+02:00</Created>
+        <LastChange>2024-06-20T10:47:42.867+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326067" pageNr="133" tsid="175603614" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=YJSMKCHSWNFESUXTUIOWCWRO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TDTJGPWNEBLFXTKJVCRNXFLM" imageId="54317602"/>
+    </Metadata>
+    <Page imageFilename="Q_10_1955_0010_c4v.jpg" imageWidth="1798" imageHeight="2324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746083720" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="166,431 166,1024 1580,1024 1580,431"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="230,487 295,489 360,489 425,489 490,489 556,489 621,489 686,489 751,488 816,487 882,485 947,489 1012,489 1077,489 1142,489 1208,491 1273,490 1338,488 1403,487 1468,483 1534,483 1534,431 1468,431 1403,435 1338,436 1273,438 1208,439 1142,437 1077,437 1012,437 947,437 882,433 816,435 751,436 686,437 621,437 556,437 490,437 425,437 360,437 295,437 230,435"/>
+                <Baseline points="230,470 295,472 360,472 425,472 490,472 556,472 621,472 686,472 751,471 816,470 882,468 947,472 1012,472 1077,472 1142,472 1208,474 1273,473 1338,471 1403,470 1468,466 1534,466"/>
+                <TextEquiv>
+                    <Unicode>Il dolce stile: un "coro di amici", i poeti compagni, cui risponde il coro delle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="176,565 244,569 313,570 382,569 451,569 520,566 588,566 657,565 726,565 795,566 864,565 932,565 1001,564 1070,564 1139,565 1208,563 1276,563 1345,561 1414,561 1483,558 1552,561 1552,509 1483,506 1414,509 1345,509 1276,511 1208,511 1139,513 1070,512 1001,512 932,513 864,513 795,514 726,513 657,513 588,514 520,514 451,517 382,517 313,518 244,517 176,513"/>
+                <Baseline points="176,548 244,552 313,553 382,552 451,552 520,549 588,549 657,548 726,548 795,549 864,548 932,548 1001,547 1070,547 1139,548 1208,546 1276,546 1345,544 1414,544 1483,541 1552,544"/>
+                <TextEquiv>
+                    <Unicode>donne, in cui si stacca e domina la donna del cuore, la prescelta "la beatrice"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="166,640 236,644 306,645 377,644 447,644 518,642 588,641 658,640 729,640 799,640 870,639 940,640 1010,640 1081,640 1151,638 1222,637 1292,636 1362,638 1433,637 1503,636 1574,638 1574,584 1503,582 1433,583 1362,584 1292,582 1222,583 1151,584 1081,586 1010,586 940,586 870,585 799,586 729,586 658,586 588,587 518,588 447,590 377,590 306,591 236,590 166,586"/>
+                <Baseline points="166,622 236,626 306,627 377,626 447,626 518,624 588,623 658,622 729,622 799,622 870,621 940,622 1010,622 1081,622 1151,620 1222,619 1292,618 1362,620 1433,619 1503,618 1574,620"/>
+                <TextEquiv>
+                    <Unicode>di Cino, di Guinizzelli, di Cavalcanti: lo sfondo non è più quello liturgico, medievale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="166,720 236,720 307,721 378,724 448,721 519,719 590,722 660,720 731,722 802,720 873,718 943,720 1014,718 1085,716 1155,716 1226,714 1297,712 1367,712 1438,712 1509,712 1580,716 1580,662 1509,658 1438,658 1367,658 1297,658 1226,660 1155,662 1085,662 1014,664 943,666 873,664 802,666 731,668 660,666 590,668 519,665 448,667 378,670 307,667 236,666 166,666"/>
+                <Baseline points="166,702 236,702 307,703 378,706 448,703 519,701 590,704 660,702 731,704 802,702 873,700 943,702 1014,700 1085,698 1155,698 1226,696 1297,694 1367,694 1438,694 1509,694 1580,698"/>
+                <TextEquiv>
+                    <Unicode>delle azioni religiose popolari, ma quello idealizzato, intellettuale da "paradiso terrestre"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="172,796 242,799 312,800 382,796 452,795 522,796 592,795 662,796 732,794 802,795 873,796 943,794 1013,791 1083,790 1153,790 1223,790 1293,791 1363,792 1433,794 1503,793 1574,794 1574,740 1503,739 1433,740 1363,738 1293,737 1223,736 1153,736 1083,736 1013,737 943,740 873,742 802,741 732,740 662,742 592,741 522,742 452,741 382,742 312,746 242,745 172,742"/>
+                <Baseline points="172,778 242,781 312,782 382,778 452,777 522,778 592,777 662,778 732,776 802,777 873,778 943,776 1013,773 1083,772 1153,772 1223,772 1293,773 1363,774 1433,776 1503,775 1574,776"/>
+                <TextEquiv>
+                    <Unicode>dei nuovi poeti: In ambedue le scene, o palcoscenici, le persone sono materializzate, rese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;} hi {offset:0; length:9;rend:underline;}">
+                <Coords points="178,879 204,877 231,877 258,877 285,878 312,879 339,879 365,879 392,879 419,877 446,877 473,877 500,879 500,822 473,820 446,820 419,820 392,822 365,822 339,822 312,822 285,821 258,820 231,820 204,820 178,822"/>
+                <Baseline points="178,860 204,858 231,858 258,858 285,859 312,860 339,860 365,860 392,860 419,858 446,858 473,858 500,860"/>
+                <TextEquiv>
+                    <Unicode>plastiche. Cioè vere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;} hi {offset:56; length:17;rend:underline;}">
+                <Coords points="204,1018 272,1022 340,1022 409,1022 477,1024 546,1023 614,1024 682,1024 751,1024 819,1024 888,1022 956,1024 1024,1022 1093,1023 1161,1020 1230,1020 1298,1020 1366,1021 1435,1018 1503,1019 1572,1022 1572,961 1503,958 1435,957 1366,960 1298,959 1230,959 1161,959 1093,962 1024,961 956,963 888,961 819,963 751,963 682,963 614,963 546,962 477,963 409,961 340,961 272,961 204,957"/>
+                <Baseline points="204,998 272,1002 340,1002 409,1002 477,1004 546,1003 614,1004 682,1004 751,1004 819,1004 888,1002 956,1004 1024,1002 1093,1003 1161,1000 1230,1000 1298,1000 1366,1001 1435,998 1503,999 1572,1002"/>
+                <TextEquiv>
+                    <Unicode>Il "guittonismo" di Dante: "sono galanterie, scommesse, peccati juventuty, ecc"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Il dolce stile: un "coro di amici", i poeti compagni, cui risponde il coro delle&#13;
+donne, in cui si stacca e domina la donna del cuore, la prescelta "la beatrice"&#13;
+di Cino, di Guinizzelli, di Cavalcanti: lo sfondo non è più quello liturgico, medievale&#13;
+delle azioni religiose popolari, ma quello idealizzato, intellettuale da "paradiso terrestre"&#13;
+dei nuovi poeti: In ambedue le scene, o palcoscenici, le persone sono materializzate, rese&#13;
+plastiche. Cioè vere.&#13;
+Il "guittonismo" di Dante: "sono galanterie, scommesse, peccati juventuty, ecc"</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

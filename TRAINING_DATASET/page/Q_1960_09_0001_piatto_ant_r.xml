@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:48:55.072+01:00</Created>
+        <LastChange>2024-06-20T11:15:19.443+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325439" pageNr="19" tsid="175602712" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=PGBJLOTXRQFWXCJZXMILQPLJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OKDQYMGRDXOZYLOGEPIUKZMR" imageId="53902121"/>
+    </Metadata>
+    <Page imageFilename="Q_1960_09_0001_piatto_ant_r.jpg" imageWidth="1798" imageHeight="2501" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746060872" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1718102160698_27"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="heading" id="tr_1" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="602,574 1100,574 1100,636 602,636"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} person {offset:13; length:12;occupation:poet; firstname:Diego; dateOfDeath:28\u0020November\u00201976; dateOfBirth:25\u0020January\u00201887; lastname:Valeri;}">
+                <Coords points="602,581 632,581 662,581 692,581 722,581 752,579 782,579 812,579 842,579 872,579 902,581 932,581 962,581 992,581 1022,579 1052,581 1082,581 1100,581 1100,631 1082,631 1052,631 1022,629 992,631 962,631 932,631 902,631 872,629 842,629 812,629 782,629 752,629 722,631 692,631 662,631 632,631 602,631"/>
+                <Baseline points="602,626 632,626 662,626 692,626 722,626 752,624 782,624 812,624 842,624 872,624 902,626 932,626 962,626 992,626 1022,624 1052,626 1082,626 1100,626"/>
+                <TextEquiv>
+                    <Unicode>Noterella su Diego Valeri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Noterella su Diego Valeri</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1718102160698_27" custom="readingOrder {index:1;}">
+            <Coords points="755,881 596,881 593,813 754,813"/>
+            <TextLine id="line_1718102206362_31" custom="readingOrder {index:0;} date {offset:0; length:6;year:1960; day:5; month:7;} hi {offset:0; length:6;rend:left;}">
+                <Coords points="615,824 666,824 737,824 737,874 666,874 615,874"/>
+                <Baseline points="615,869 666,869 737,869"/>
+                <TextEquiv>
+                    <Unicode>5.7.60</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5.7.60</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

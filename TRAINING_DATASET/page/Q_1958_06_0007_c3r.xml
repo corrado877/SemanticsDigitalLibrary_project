@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:22:27.394+01:00</Created>
+        <LastChange>2024-06-20T10:59:02.511+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325975" pageNr="14" tsid="175603495" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=MSGEMMYNKTUMQWLHTHREKSKZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IGPYPWLSBVIWWARTZCWXCXZN" imageId="53899340"/>
+    </Metadata>
+    <Page imageFilename="Q_1958_06_0007_c3r.jpg" imageWidth="1798" imageHeight="2539">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746059812" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_3"/>
+                <RegionRefIndexed index="1" regionRef="region_1715706830224_527"/>
+                <RegionRefIndexed index="2" regionRef="region_1715706937524_544"/>
+                <RegionRefIndexed index="3" regionRef="region_1715707121722_595"/>
+                <RegionRefIndexed index="4" regionRef="region_1715795210028_81"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:0;}">
+            <Coords points="121,278 124,2232 1579,2224 1576,270"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1715706830224_527" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="202,357 136,357 136,305 202,305"/>
+            <TextLine id="line_1715706837745_530" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:left;}">
+                <Coords points="149,315 195,316 194,355 146,353"/>
+                <Baseline points="146,348 194,350"/>
+                <TextEquiv>
+                    <Unicode>5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1715706937524_544" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="135,479 1579,486 1575,1388 131,1381"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="149,549 217,546 286,541 354,539 423,540 492,539 560,539 629,539 697,540 766,539 835,539 903,540 972,540 1040,537 1109,537 1178,538 1246,539 1315,539 1383,542 1452,542 1521,543 1521,513 1452,512 1383,512 1315,509 1246,509 1178,508 1109,507 1040,507 972,510 903,510 835,509 766,509 697,510 629,509 560,509 492,509 423,510 354,509 286,511 217,516 149,519"/>
+                <Baseline points="149,539 217,536 286,531 354,529 423,530 492,529 560,529 629,529 697,530 766,529 835,529 903,530 972,530 1040,527 1109,527 1178,528 1246,529 1315,529 1383,532 1452,532 1521,533"/>
+                <TextEquiv>
+                    <Unicode>pena provato di stringere a sè la bassotta figlia, che si svincola, e scivola, liscia, rotonda,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705658929_310" custom="readingOrder {index:1;} del {offset:65; length:6;rend:overstrike;} gap {offset:65; length:0;quantity:6; unit:character; reason:illegibile;}">
+                <Coords points="150,567 256,568 336,563 405,563 529,564 641,564 723,564 765,562 856,562 932,561 1017,578 1211,590 1214,610 1021,610 979,610 856,612 766,612 724,614 641,614 529,614 405,613 337,613 257,618 150,617"/>
+                <Baseline points="150,612 257,613 337,608 405,608 529,609 641,609 724,609 766,607 856,607 979,605 1021,605 1214,605"/>
+                <TextEquiv>
+                    <Unicode>a inseguire la madre fra le sedie, il tavolo, e gli altri mobili       </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:2;} add {offset:0; length:12;place:above;}">
+                <Coords points="1055,577 1083,575 1111,575 1140,575 1168,577 1196,578 1225,585 1225,555 1196,548 1168,547 1140,545 1111,545 1083,545 1055,547"/>
+                <Baseline points="1055,567 1083,565 1111,565 1140,565 1168,567 1196,568 1225,575"/>
+                <TextEquiv>
+                    <Unicode>della stanza.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705688369_317" custom="readingOrder {index:3;}">
+                <Coords points="1240,563 1295,565 1337,565 1417,565 1500,568 1521,568 1521,618 1499,618 1416,615 1337,615 1294,615 1238,613"/>
+                <Baseline points="1243,608 1294,610 1337,610 1416,610 1499,613 1521,613"/>
+                <TextEquiv>
+                    <Unicode>Il piccolo alza la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705764594_329" custom="readingOrder {index:4;}">
+                <Coords points="145,643 249,639 301,636 402,639 482,639 597,641 639,634 694,638 773,639 810,638 853,634 942,636 960,632 1046,635 1143,635 1143,685 1045,685 964,682 946,686 855,684 813,688 773,689 692,688 641,684 601,691 482,689 401,689 302,686 251,689 147,693"/>
+                <Baseline points="147,688 251,684 302,681 401,684 482,684 601,686 641,679 692,683 773,684 813,683 855,679 946,681 964,677 1045,680 1143,680"/>
+                <TextEquiv>
+                    <Unicode>mano:tozza, fatta di carne, la manina tocca il velluto della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:5;} add {offset:0; length:9;place:above;}">
+                <Coords points="1140,645 1186,647 1215,649 1244,653 1273,657 1273,627 1244,623 1215,619 1186,617 1140,615"/>
+                <Baseline points="1146,635 1186,637 1215,639 1244,643 1273,647"/>
+                <TextEquiv>
+                    <Unicode>fanciulla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705778561_334" custom="readingOrder {index:6;} del {offset:0; length:7;rend:overstrike;}">
+                <Coords points="1163,650 1246,657 1338,644 1404,642 1455,642 1560,642 1560,692 1455,692 1403,692 1334,689 1238,695 1165,696"/>
+                <Baseline points="1165,691 1238,690 1334,684 1403,687 1455,687 1560,687"/>
+                <TextEquiv>
+                    <Unicode>bambina. Si sposta di toppa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:7;}">
+                <Coords points="145,778 214,776 284,774 353,772 423,770 493,770 562,770 632,770 701,770 771,770 841,768 910,770 980,770 1049,770 1119,774 1189,771 1258,772 1328,770 1397,770 1467,768 1537,776 1537,737 1467,729 1397,731 1328,731 1258,733 1189,732 1119,735 1049,731 980,731 910,731 841,729 771,731 701,731 632,731 562,731 493,731 423,731 353,733 284,735 214,737 145,739"/>
+                <Baseline points="145,765 214,763 284,761 353,759 423,757 493,757 562,757 632,757 701,757 771,757 841,755 910,757 980,757 1049,757 1119,761 1189,758 1258,759 1328,757 1397,757 1467,755 1537,763"/>
+                <TextEquiv>
+                    <Unicode>in toppa. sosta sul rosso, sull'azzurro. La bambina sorride, benevola. E poichè la bambina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705833058_347" custom="readingOrder {index:8;}">
+                <Coords points="142,797 195,797 291,812 287,845 195,847 142,847"/>
+                <Baseline points="142,842 195,842 291,840"/>
+                <TextEquiv>
+                    <Unicode>ha preso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705860048_355" custom="readingOrder {index:9;} add {offset:0; length:5;place:above;}">
+                <Coords points="272,780 358,775 354,806 273,809"/>
+                <Baseline points="273,804 354,801"/>
+                <TextEquiv>
+                    <Unicode>dalla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705906865_362" custom="readingOrder {index:10;} del {offset:0; length:2;rend:overstrike;} gap {offset:0; length:0;quantity:2; unit:character; reason:illegible;}">
+                <Coords points="302,811 465,791 551,791 710,788 746,789 868,789 949,788 1046,788 1083,784 1159,784 1225,784 1347,784 1459,791 1511,791 1530,788 1539,837 1515,841 1458,841 1346,834 1225,834 1159,834 1085,834 1048,838 949,838 868,839 745,839 710,838 551,841 465,841 304,841"/>
+                <Baseline points="310,836 465,836 551,836 710,833 745,834 868,834 949,833 1048,833 1085,829 1159,829 1225,829 1346,829 1458,836 1515,836 1538,832"/>
+                <TextEquiv>
+                    <Unicode>  mano della zia la maschera, lieve, e fa l'atto di collocarla sul suo viso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705976114_371" custom="readingOrder {index:11;} del {offset:34; length:6;rend:overstrike;} gap {offset:34; length:0;quantity:6; unit:character; reason:illegible;}">
+                <Coords points="139,868 243,867 349,867 424,863 524,868 571,867 635,863 748,863 845,863 903,863 983,863 1077,877 1151,877 1152,913 1081,913 983,913 903,913 845,913 748,913 636,913 573,917 523,918 424,913 350,917 243,917 139,918"/>
+                <Baseline points="139,913 243,912 350,912 424,908 523,913 573,912 636,908 748,908 845,908 903,908 983,908 1081,908 1152,908"/>
+                <TextEquiv>
+                    <Unicode>rotondo: anzi la mette e la cava,        alternando quel volto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:12;} add {offset:0; length:8;place:above;}">
+                <Coords points="1077,873 1106,873 1135,873 1164,873 1193,875 1193,845 1164,843 1135,843 1106,843 1077,843"/>
+                <Baseline points="1077,863 1106,863 1135,863 1164,863 1193,865"/>
+                <TextEquiv>
+                    <Unicode>di carta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705997226_378" custom="readingOrder {index:13;}">
+                <Coords points="1166,880 1239,867 1281,863 1335,863 1423,863 1476,863 1519,863 1519,913 1476,913 1423,913 1335,913 1282,913 1239,915 1161,922"/>
+                <Baseline points="1166,910 1239,910 1282,908 1335,908 1423,908 1476,908 1519,908"/>
+                <TextEquiv>
+                    <Unicode> a segni rossi e neri al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:14;}">
+                <Coords points="139,998 207,998 276,1000 345,998 414,996 483,996 552,994 621,996 690,994 759,994 828,994 896,996 965,996 1034,998 1103,998 1172,999 1241,999 1310,998 1379,1001 1448,999 1517,1002 1517,963 1448,960 1379,962 1310,959 1241,960 1172,960 1103,959 1034,959 965,957 896,957 828,955 759,955 690,955 621,957 552,955 483,957 414,957 345,959 276,961 207,959 139,959"/>
+                <Baseline points="139,985 207,985 276,987 345,985 414,983 483,983 552,981 621,983 690,981 759,981 828,981 896,983 965,983 1034,985 1103,985 1172,986 1241,986 1310,985 1379,988 1448,986 1517,989"/>
+                <TextEquiv>
+                    <Unicode>suo, di tratti appena rilevanti, sensibili, delicati, il piedino si confonde, forse si annoia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:15;}">
+                <Coords points="139,1078 208,1078 277,1076 346,1076 415,1074 484,1075 553,1073 622,1072 691,1074 760,1073 830,1072 899,1073 968,1070 1037,1072 1106,1070 1175,1070 1244,1070 1313,1072 1382,1074 1451,1077 1521,1076 1521,1037 1451,1038 1382,1035 1313,1033 1244,1031 1175,1031 1106,1031 1037,1033 968,1031 899,1034 830,1033 760,1034 691,1035 622,1033 553,1034 484,1036 415,1035 346,1037 277,1037 208,1039 139,1039"/>
+                <Baseline points="139,1065 208,1065 277,1063 346,1063 415,1061 484,1062 553,1060 622,1059 691,1061 760,1060 830,1059 899,1060 968,1057 1037,1059 1106,1057 1175,1057 1244,1057 1316,1061 1382,1061 1451,1064 1521,1063"/>
+                <TextEquiv>
+                    <Unicode>E distoglie gli occhi dalla cugina. Si volge altrove. Sposta a scatola di cartone. vi sono cenci,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715709587580_781" custom="readingOrder {index:16;}">
+                <Coords points="157,1109 362,1109 430,1107 704,1107 772,1106 841,1105 1114,1105 1183,1107 1251,1107 1318,1112 1351,1110 1351,1146 1319,1146 1183,1146 1114,1144 841,1144 772,1145 704,1146 430,1146 362,1148 157,1148"/>
+                <Baseline points="157,1135 225,1135 293,1135 362,1135 430,1133 499,1133 567,1133 635,1133 704,1133 772,1132 841,1131 909,1131 977,1131 1046,1131 1114,1131 1183,1133 1251,1133 1319,1133 1356,1134"/>
+                <TextEquiv>
+                    <Unicode>frammenti di giocattoli, parti di automobili, di locomotiva di latta, astucci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715709460821_759" custom="readingOrder {index:17;} add {offset:0; length:5;place:above;}">
+                <Coords points="1307,1077 1388,1080 1384,1110 1309,1107"/>
+                <Baseline points="1309,1102 1378,1105"/>
+                <TextEquiv>
+                    <Unicode>vuoti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715709587578_780" custom="readingOrder {index:18;}">
+                <Coords points="1355,1111 1390,1111 1456,1109 1525,1113 1525,1152 1456,1148 1388,1148 1355,1147"/>
+                <Baseline points="1356,1134 1388,1135 1456,1135 1525,1139"/>
+                <TextEquiv>
+                    <Unicode>di medicine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_13" custom="readingOrder {index:19;}">
+                <Coords points="145,1217 215,1219 285,1221 355,1221 425,1221 496,1219 566,1221 636,1218 706,1219 776,1219 847,1220 917,1218 987,1219 1057,1219 1127,1219 1198,1219 1268,1219 1338,1219 1408,1221 1478,1222 1549,1219 1549,1189 1478,1192 1408,1191 1338,1189 1268,1189 1198,1189 1127,1189 1057,1189 987,1189 917,1188 847,1190 776,1189 706,1189 636,1188 566,1191 496,1189 425,1191 355,1191 285,1191 215,1189 145,1187"/>
+                <Baseline points="145,1207 215,1209 285,1211 355,1211 425,1211 496,1209 566,1211 636,1208 706,1209 776,1209 847,1210 917,1208 987,1209 1057,1209 1127,1209 1198,1209 1268,1209 1338,1209 1408,1211 1478,1212 1549,1209"/>
+                <TextEquiv>
+                    <Unicode>cartoline, vecchie fotografie. Ne cava la cosa che cercava. E una piccola serratura: un rettan-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706077128_394" custom="readingOrder {index:20;}">
+                <Coords points="151,1271 222,1270 222,1300 151,1301"/>
+                <Baseline points="151,1291 222,1290"/>
+                <TextEquiv>
+                    <Unicode>golo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_14" custom="readingOrder {index:21;} add {offset:0; length:8;place:above;}">
+                <Coords points="171,1257 198,1259 225,1259 252,1258 279,1259 279,1229 252,1228 225,1229 198,1229 171,1227"/>
+                <Baseline points="171,1247 198,1249 225,1249 252,1248 279,1249"/>
+                <TextEquiv>
+                    <Unicode>di ferro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706077128_393" custom="readingOrder {index:22;}">
+                <Coords points="222,1270 293,1268 364,1267 435,1266 506,1265 648,1265 719,1269 790,1266 861,1266 932,1267 1003,1265 1145,1265 1216,1263 1287,1265 1358,1265 1429,1267 1500,1271 1571,1277 1571,1307 1500,1301 1429,1297 1358,1295 1287,1295 1216,1293 1145,1295 1003,1295 932,1297 861,1296 790,1296 719,1299 648,1295 506,1295 435,1296 364,1297 293,1298 222,1300"/>
+                <Baseline points="222,1290 293,1288 364,1287 435,1286 506,1285 577,1285 648,1285 719,1289 790,1286 861,1286 932,1287 1003,1285 1074,1285 1145,1285 1216,1283 1287,1285 1358,1285 1429,1287 1500,1291 1571,1297"/>
+                <TextEquiv>
+                    <Unicode> quasi una scatoletta di ferro, con la sua toppa, e i fori dei chiodi. Il bimbino la guard-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_16" custom="readingOrder {index:23;}">
+                <Coords points="141,1380 200,1380 259,1378 318,1378 378,1376 437,1376 496,1374 556,1376 615,1374 674,1376 734,1374 793,1375 852,1376 911,1376 971,1375 1030,1376 1089,1377 1149,1376 1208,1376 1267,1377 1327,1380 1327,1341 1267,1338 1208,1337 1149,1337 1089,1338 1030,1337 971,1336 911,1337 852,1337 793,1336 734,1335 674,1337 615,1335 556,1337 496,1335 437,1337 378,1337 318,1339 259,1339 200,1341 141,1341"/>
+                <Baseline points="141,1367 200,1367 259,1365 318,1365 378,1363 437,1363 496,1361 556,1363 615,1361 674,1363 734,1361 793,1362 852,1363 911,1363 971,1362 1030,1363 1089,1364 1149,1363 1208,1363 1267,1364 1327,1367"/>
+                <TextEquiv>
+                    <Unicode>da, con affetto. Il più bello, il più desiato dei suoi giuochi. Il più misterioso.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>pena provato di stringere a sè la bassotta figlia, che si svincola, e scivola, liscia, rotonda,&#13;
+a inseguire la madre fra le sedie, il tavolo, e gli altri mobili       &#13;
+della stanza.&#13;
+Il piccolo alza la&#13;
+mano:tozza, fatta di carne, la manina tocca il velluto della&#13;
+fanciulla&#13;
+bambina. Si sposta di toppa&#13;
+in toppa. sosta sul rosso, sull'azzurro. La bambina sorride, benevola. E poichè la bambina&#13;
+ha preso&#13;
+dalla&#13;
+  mano della zia la maschera, lieve, e fa l'atto di collocarla sul suo viso&#13;
+rotondo: anzi la mette e la cava,        alternando quel volto&#13;
+di carta&#13;
+ a segni rossi e neri al&#13;
+suo, di tratti appena rilevanti, sensibili, delicati, il piedino si confonde, forse si annoia.&#13;
+E distoglie gli occhi dalla cugina. Si volge altrove. Sposta a scatola di cartone. vi sono cenci,&#13;
+frammenti di giocattoli, parti di automobili, di locomotiva di latta, astucci&#13;
+vuoti&#13;
+di medicine&#13;
+cartoline, vecchie fotografie. Ne cava la cosa che cercava. E una piccola serratura: un rettan-&#13;
+golo,&#13;
+di ferro&#13;
+ quasi una scatoletta di ferro, con la sua toppa, e i fori dei chiodi. Il bimbino la guard-&#13;
+da, con affetto. Il più bello, il più desiato dei suoi giuochi. Il più misterioso.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1715707121722_595" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="127,1405 1574,1402 1573,2066 126,2069"/>
+            <TextLine id="tr_3_tl_17" custom="readingOrder {index:0;}">
+                <Coords points="171,1454 237,1452 304,1451 371,1452 437,1452 504,1452 571,1452 637,1453 704,1454 771,1452 838,1452 904,1452 971,1453 1038,1454 1104,1454 1171,1451 1238,1452 1304,1452 1371,1456 1438,1458 1505,1460 1505,1421 1438,1419 1371,1417 1304,1413 1238,1413 1171,1412 1104,1415 1038,1415 971,1414 904,1413 838,1413 771,1413 704,1415 637,1414 571,1413 504,1413 437,1413 371,1413 304,1412 237,1413 171,1415"/>
+                <Baseline points="171,1441 237,1439 304,1438 371,1439 437,1439 504,1439 571,1439 637,1440 704,1441 771,1439 838,1439 904,1439 971,1440 1038,1441 1104,1441 1171,1438 1238,1439 1304,1439 1371,1443 1438,1445 1505,1447"/>
+                <TextEquiv>
+                    <Unicode>Le due zie, la mamma, la nonna stanno intorno alla bambina, commentando,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_18" custom="readingOrder {index:1;}">
+                <Coords points="151,1527 220,1526 290,1527 360,1526 430,1526 500,1525 570,1526 640,1526 710,1523 780,1523 850,1523 919,1523 989,1523 1059,1523 1129,1523 1199,1521 1269,1523 1339,1525 1409,1526 1479,1526 1549,1525 1549,1495 1479,1496 1409,1496 1339,1495 1269,1493 1199,1491 1129,1493 1059,1493 989,1493 919,1493 850,1493 780,1493 710,1493 640,1496 570,1496 500,1495 430,1496 360,1496 290,1497 220,1496 151,1497"/>
+                <Baseline points="151,1517 220,1516 290,1517 360,1516 430,1516 500,1515 570,1516 640,1516 710,1513 780,1513 850,1513 919,1513 989,1513 1059,1513 1129,1513 1199,1511 1269,1513 1339,1515 1409,1516 1479,1516 1549,1515"/>
+                <TextEquiv>
+                    <Unicode>giudicando. E già parlano d'altro. Anche la bambina presenta che il divertimento, il nuovo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706363747_422" custom="readingOrder {index:2;} del {offset:57; length:10;rend:overstrike;}">
+                <Coords points="157,1577 227,1573 298,1571 369,1569 439,1569 510,1571 793,1571 864,1570 934,1569 1005,1569 1076,1570 1146,1567 1217,1568 1254,1568 1254,1598 1217,1598 1146,1597 1076,1600 1005,1599 934,1599 864,1600 793,1601 510,1601 439,1599 369,1599 298,1601 227,1603 157,1607"/>
+                <Baseline points="157,1597 227,1593 298,1591 369,1589 439,1589 510,1591 581,1591 651,1591 722,1591 793,1591 864,1590 934,1589 1005,1589 1076,1590 1146,1587 1217,1588 1254,1588"/>
+                <TextEquiv>
+                    <Unicode>giuoco sta finendo. Per mettersi più comoda si toglie la casacchina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_19" custom="readingOrder {index:3;} add {offset:0; length:7;place:above;}">
+                <Coords points="1089,1561 1116,1561 1144,1559 1171,1559 1199,1559 1227,1563 1227,1533 1199,1529 1171,1529 1144,1529 1116,1531 1089,1531"/>
+                <Baseline points="1089,1551 1116,1551 1144,1549 1171,1549 1199,1549 1227,1553"/>
+                <TextEquiv>
+                    <Unicode>casacca</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706363747_421" custom="readingOrder {index:4;}">
+                <Coords points="1254,1568 1288,1568 1358,1567 1429,1567 1500,1570 1571,1577 1571,1607 1500,1600 1429,1597 1358,1597 1288,1598 1254,1598"/>
+                <Baseline points="1254,1588 1288,1588 1358,1587 1429,1587 1500,1590 1571,1597"/>
+                <TextEquiv>
+                    <Unicode>a mandorle. Le restano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706422266_442" custom="readingOrder {index:5;}">
+                <Coords points="153,1647 221,1649 290,1647 358,1645 427,1645 495,1643 632,1643 701,1644 769,1647 838,1647 906,1646 975,1645 1043,1647 1112,1647 1120,1647 1120,1677 1112,1677 1043,1677 975,1675 906,1676 838,1677 769,1677 701,1674 632,1673 495,1673 427,1675 358,1675 290,1677 221,1679 153,1677"/>
+                <Baseline points="153,1667 221,1669 290,1667 358,1665 427,1665 495,1663 564,1663 632,1663 701,1664 769,1667 838,1667 906,1666 975,1665 1043,1667 1112,1667 1120,1667"/>
+                <TextEquiv>
+                    <Unicode>i pantaloni, sotto una maglietta gialla limone. Raggiunge il </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_21" custom="readingOrder {index:6;} add {offset:0; length:8;place:above;}">
+                <Coords points="1109,1623 1135,1625 1162,1625 1189,1626 1216,1629 1243,1633 1243,1603 1216,1599 1189,1596 1162,1595 1135,1595 1109,1593"/>
+                <Baseline points="1109,1613 1135,1615 1162,1615 1189,1616 1216,1619 1243,1623"/>
+                <TextEquiv>
+                    <Unicode>fratello</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706422266_441" custom="readingOrder {index:7;} del {offset:1; length:5;rend:overstrike;} gap {offset:1; length:0;quantity:5; unit:character; reason:illegible;} del {offset:16; length:5;} gap {offset:16; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="1120,1647 1180,1650 1249,1647 1317,1647 1386,1646 1454,1646 1523,1645 1523,1675 1454,1676 1386,1676 1317,1677 1249,1677 1180,1680 1120,1677"/>
+                <Baseline points="1120,1667 1180,1670 1249,1667 1317,1667 1386,1666 1454,1666 1523,1665"/>
+                <TextEquiv>
+                    <Unicode>      intento a      </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_22" custom="readingOrder {index:8;} add {offset:0; length:7;place:above;}">
+                <Coords points="1395,1637 1424,1637 1454,1639 1483,1641 1513,1643 1513,1613 1483,1611 1454,1609 1424,1607 1395,1607"/>
+                <Baseline points="1395,1627 1424,1627 1454,1629 1483,1631 1513,1633"/>
+                <TextEquiv>
+                    <Unicode>riunire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706547105_490" custom="readingOrder {index:9;}">
+                <Coords points="131,1727 202,1723 273,1721 415,1721 478,1721 478,1751 415,1751 273,1751 202,1753 131,1757"/>
+                <Baseline points="131,1747 202,1743 273,1741 344,1741 415,1741 478,1741"/>
+                <TextEquiv>
+                    <Unicode>vagoncini ferroviari, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_25" custom="readingOrder {index:10;} add {offset:0; length:10;place:above;}">
+                <Coords points="483,1715 508,1715 534,1715 560,1714 585,1713 611,1713 637,1713 663,1713 663,1683 637,1683 611,1683 585,1683 560,1684 534,1685 508,1685 483,1685"/>
+                <Baseline points="483,1705 508,1705 534,1705 560,1704 585,1703 611,1703 637,1703 663,1703"/>
+                <TextEquiv>
+                    <Unicode>automobili</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706547105_489" custom="readingOrder {index:11;} del {offset:0; length:8;rend:overstrike;} gap {offset:0; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="478,1721 486,1722 557,1723 628,1721 770,1721 842,1722 913,1722 984,1721 1055,1722 1126,1723 1268,1723 1339,1725 1410,1723 1481,1722 1553,1723 1553,1753 1481,1752 1410,1753 1339,1755 1268,1753 1126,1753 1055,1752 984,1751 913,1752 842,1752 770,1751 628,1751 557,1753 486,1752 478,1751"/>
+                <Baseline points="478,1741 486,1742 557,1743 628,1741 699,1741 770,1741 842,1742 913,1742 984,1741 1055,1742 1126,1743 1197,1743 1268,1743 1339,1745 1410,1743 1481,1742 1553,1743"/>
+                <TextEquiv>
+                    <Unicode>        da corsa, la pompa dei pompieri con uno spago. Fini-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_28" custom="readingOrder {index:12;}">
+                <Coords points="143,1836 214,1834 285,1833 356,1832 427,1831 498,1832 569,1830 640,1829 711,1830 782,1830 853,1830 924,1832 995,1832 1066,1830 1137,1830 1208,1830 1279,1830 1350,1832 1421,1833 1492,1836 1563,1838 1563,1799 1492,1797 1421,1794 1350,1793 1279,1791 1208,1791 1137,1791 1066,1791 995,1793 924,1793 853,1791 782,1791 711,1791 640,1790 569,1791 498,1793 427,1792 356,1793 285,1794 214,1795 143,1797"/>
+                <Baseline points="143,1823 214,1821 285,1820 356,1819 427,1818 498,1819 569,1817 640,1816 711,1817 782,1817 853,1817 924,1819 995,1819 1066,1817 1137,1817 1208,1817 1279,1817 1350,1819 1421,1820 1492,1823 1563,1825"/>
+                <TextEquiv>
+                    <Unicode>scono il loro gorgoglio di parole sotto il tavolo. Da una porta, improvvisamente spalancata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_30" custom="readingOrder {index:13;}">
+                <Coords points="139,1910 210,1912 281,1911 353,1910 424,1907 496,1904 567,1904 638,1905 710,1904 781,1904 853,1906 924,1906 995,1908 1067,1906 1138,1904 1210,1904 1281,1906 1352,1908 1424,1910 1495,1910 1567,1912 1567,1873 1495,1871 1424,1871 1352,1869 1281,1867 1210,1865 1138,1865 1067,1867 995,1869 924,1867 853,1867 781,1865 710,1865 638,1866 567,1865 496,1865 424,1868 353,1871 281,1872 210,1873 139,1871"/>
+                <Baseline points="139,1897 210,1899 281,1898 353,1897 424,1894 496,1891 567,1891 638,1892 710,1891 781,1891 853,1893 924,1893 995,1895 1067,1893 1138,1891 1210,1891 1281,1893 1352,1895 1424,1897 1495,1897 1567,1899"/>
+                <TextEquiv>
+                    <Unicode>s'affaccia il più piccolo dei tre. Allunga a qualcuno, o nesunno, il suo oggetto di ferro. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_31" custom="readingOrder {index:14;}">
+                <Coords points="137,1983 206,1982 276,1982 346,1979 416,1979 486,1978 556,1979 626,1978 696,1978 766,1977 836,1978 905,1977 975,1975 1045,1976 1115,1975 1185,1975 1255,1976 1325,1977 1395,1977 1465,1980 1535,1985 1535,1955 1465,1950 1395,1947 1325,1947 1255,1946 1185,1945 1115,1945 1045,1946 975,1945 905,1947 836,1948 766,1947 696,1948 626,1948 556,1949 486,1948 416,1949 346,1949 276,1952 206,1952 137,1953"/>
+                <Baseline points="137,1973 206,1972 276,1972 346,1969 416,1969 486,1968 556,1969 626,1968 696,1968 766,1967 836,1968 905,1967 975,1965 1045,1966 1115,1965 1185,1965 1255,1966 1325,1967 1395,1967 1465,1970 1535,1975"/>
+                <TextEquiv>
+                    <Unicode>Il cielo, già serale, s'imbianca, s'agghiaccia, macchiato di nuvole maestre, simili alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706603034_512" custom="readingOrder {index:15;}">
+                <Coords points="183,2007 241,2029 299,2030 321,2029 321,2059 299,2060 241,2059 184,2058 127,2061 127,2013"/>
+                <Baseline points="141,2050 241,2049 299,2050 321,2049"/>
+                <TextEquiv>
+                    <Unicode>bruciature</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_32" custom="readingOrder {index:16;} add {offset:0; length:9;place:above;}">
+                <Coords points="277,2021 303,2021 329,2021 355,2021 381,2020 407,2019 433,2017 433,1987 407,1989 381,1990 355,1991 329,1991 303,1991 277,1991"/>
+                <Baseline points="277,2011 303,2011 329,2011 355,2011 381,2010 407,2009 433,2007"/>
+                <TextEquiv>
+                    <Unicode>del fuoco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706603034_511" custom="readingOrder {index:17;}">
+                <Coords points="321,2029 356,2028 413,2029 470,2029 527,2028 585,2025 642,2025 699,2023 756,2025 813,2026 897,2004 928,2025 985,2027 1042,2025 1099,2027 1157,2029 1157,2059 1099,2057 1042,2055 985,2057 928,2055 871,2057 813,2056 756,2055 699,2053 642,2055 585,2055 527,2058 470,2059 413,2059 356,2058 321,2059"/>
+                <Baseline points="321,2049 356,2048 413,2049 470,2049 527,2048 585,2045 642,2045 699,2043 756,2045 813,2046 871,2047 928,2045 985,2047 1042,2045 1099,2047 1157,2049"/>
+                <TextEquiv>
+                    <Unicode>su di una lastra di metallo. Carnevale è corto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Le due zie, la mamma, la nonna stanno intorno alla bambina, commentando,&#13;
+giudicando. E già parlano d'altro. Anche la bambina presenta che il divertimento, il nuovo&#13;
+giuoco sta finendo. Per mettersi più comoda si toglie la casacchina&#13;
+casacca&#13;
+a mandorle. Le restano&#13;
+i pantaloni, sotto una maglietta gialla limone. Raggiunge il &#13;
+fratello&#13;
+      intento a      &#13;
+riunire&#13;
+vagoncini ferroviari, &#13;
+automobili&#13;
+        da corsa, la pompa dei pompieri con uno spago. Fini-&#13;
+scono il loro gorgoglio di parole sotto il tavolo. Da una porta, improvvisamente spalancata&#13;
+s'affaccia il più piccolo dei tre. Allunga a qualcuno, o nesunno, il suo oggetto di ferro. &#13;
+Il cielo, già serale, s'imbianca, s'agghiaccia, macchiato di nuvole maestre, simili alle&#13;
+bruciature&#13;
+del fuoco&#13;
+su di una lastra di metallo. Carnevale è corto.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="footer" id="region_1715795210028_81" custom="readingOrder {index:4;} structure {type:footer;}">
+            <Coords points="180,2168 511,2168 511,2224 180,2224"/>
+            <TextLine id="tr_3_tl_34" custom="readingOrder {index:0;} date {offset:0; length:9;year:1958; day:20; month:2;}">
+                <Coords points="199,2224 225,2220 251,2224 278,2222 304,2222 331,2222 357,2222 383,2221 410,2220 436,2218 463,2218 463,2179 436,2179 410,2181 383,2182 357,2183 331,2183 304,2183 278,2183 251,2185 225,2181 199,2185"/>
+                <Baseline points="199,2211 225,2207 251,2211 278,2209 304,2209 331,2209 357,2209 383,2208 410,2207 436,2205 463,2205"/>
+                <TextEquiv>
+                    <Unicode>20.2.958.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>20.2.958.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

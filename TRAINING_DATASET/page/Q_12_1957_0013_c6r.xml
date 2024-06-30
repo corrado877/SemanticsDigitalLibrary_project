@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:37:29.772+02:00</Created>
+        <LastChange>2024-06-21T10:22:11.980+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326069" pageNr="118" tsid="175603602" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=QBVCASQXIKFJHDWLCZFWBYUZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UPMOMDTNACLCGJMAYBGIPQWI" imageId="54316475"/>
+    </Metadata>
+    <Page imageFilename="Q_12_1957_0013_c6r.jpg" imageWidth="1798" imageHeight="2523" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746080766" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="134,266 134,2116 1605,2132 1605,282"/>
+            <TextLine id="line_1716118167500_926" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="207,277 274,277 274,327 207,327"/>
+                <Baseline points="207,322 274,322"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="171,411 201,407 232,403 263,399 263,345 232,349 201,353 171,357"/>
+                <Baseline points="171,393 201,389 232,385 263,381"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:2;} hi {offset:0; length:9;rend:circle;}">
+                <Coords points="401,393 427,391 454,389 480,390 507,391 533,392 560,393 586,393 613,393 613,339 586,339 560,339 533,338 507,337 480,336 454,335 427,337 401,339"/>
+                <Baseline points="401,375 427,373 454,371 480,372 507,373 533,374 560,375 586,375 613,375"/>
+                <TextEquiv>
+                    <Unicode>Lodenikja</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="601,514 626,514 651,512 676,509 701,507 726,504 751,501 776,500 801,500 801,448 776,448 751,449 726,452 701,455 676,457 651,460 626,462 601,462"/>
+                <Baseline points="601,497 626,497 651,495 676,492 701,490 726,487 751,484 776,483 801,483"/>
+                <TextEquiv>
+                    <Unicode>Longue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:4;}">
+                <Coords points="913,489 938,488 963,485 988,480 1013,477 1038,472 1063,466 1088,463 1161,454 1161,400 1088,409 1063,412 1038,418 1013,423 988,426 963,431 938,434 913,435"/>
+                <Baseline points="913,471 938,470 963,467 988,462 1013,459 1038,454 1063,448 1088,445 1147,437"/>
+                <TextEquiv>
+                    <Unicode>Iseghem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="163,571 232,569 301,571 370,571 439,569 508,570 577,571 646,571 715,571 784,569 854,569 923,571 992,573 1061,575 1130,573 1199,571 1268,571 1337,573 1406,571 1475,573 1545,577 1545,547 1475,543 1406,541 1337,543 1268,541 1199,541 1130,543 1061,545 992,543 923,541 854,539 784,539 715,541 646,541 577,541 508,540 439,539 370,541 301,541 232,539 163,541"/>
+                <Baseline points="163,561 232,559 301,561 370,561 439,559 508,560 577,561 646,561 715,561 784,559 854,559 923,561 992,563 1061,565 1130,563 1199,561 1268,561 1337,563 1406,561 1475,563 1545,567"/>
+                <TextEquiv>
+                    <Unicode>tose, stupide. Oggetti, materilizzazioni della fantasia fiamminga, dall'ansia stravolta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118071740_852" custom="readingOrder {index:6;}">
+                <Coords points="154,607 1254,597 1254,647 154,657"/>
+                <Baseline points="154,652 1254,642"/>
+                <TextEquiv>
+                    <Unicode>ad esprimere le passioni carnali: il dispetto e la burla, sempre stagnanti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:7;} add {offset:0; length:7;place:above;}">
+                <Coords points="1241,607 1280,607 1307,605 1335,605 1335,575 1307,575 1280,577 1241,577"/>
+                <Baseline points="1243,598 1280,597 1307,595 1335,595"/>
+                <TextEquiv>
+                    <Unicode>intorno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118074531_857" custom="readingOrder {index:8;}">
+                <Coords points="1262,599 1564,610 1562,660 1260,649"/>
+                <Baseline points="1260,644 1562,655"/>
+                <TextEquiv>
+                    <Unicode>al cuore della razza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118397720_982" custom="readingOrder {index:9;}">
+                <Coords points="160,681 923,681 923,731 160,731"/>
+                <Baseline points="160,726 923,726"/>
+                <TextEquiv>
+                    <Unicode>fiamminga. Joannes Ensor era nato, qui vicino in </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118399625_987" custom="readingOrder {index:10;} add {offset:0; length:2;place:above;}">
+                <Coords points="899,653 945,653 945,703 899,703"/>
+                <Baseline points="899,698 945,698"/>
+                <TextEquiv>
+                    <Unicode>un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118402556_992" custom="readingOrder {index:11;}">
+                <Coords points="942,673 1589,686 1588,736 941,723"/>
+                <Baseline points="941,718 1588,731"/>
+                <TextEquiv>
+                    <Unicode>altra bottega, gestita dal padre James Fredric,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:12;} hi {offset:29; length:6;rend:underline; type:grey;}">
+                <Coords points="153,805 223,809 294,809 365,809 435,809 506,810 577,807 647,807 718,807 789,807 860,807 930,809 1001,809 1072,810 1142,811 1213,811 1284,810 1354,809 1425,809 1496,809 1567,807 1567,753 1496,755 1425,755 1354,755 1284,756 1213,757 1142,757 1072,756 1001,755 930,755 860,753 789,753 718,753 647,753 577,753 506,756 435,755 365,755 294,755 223,755 153,751"/>
+                <Baseline points="153,787 223,791 294,791 365,791 435,791 506,792 577,789 647,789 718,789 789,789 860,789 930,791 1001,791 1072,792 1142,793 1213,793 1284,792 1354,791 1425,791 1496,791 1567,789"/>
+                <TextEquiv>
+                    <Unicode>d'origine britannica, in rue Longue. Era cresciuto in questa, all'angolo fra rue de Flandre e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:13;} gap {offset:14; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="163,885 235,884 307,883 379,883 451,883 523,883 595,883 667,883 739,881 811,881 883,881 955,882 1027,883 1099,883 1171,884 1243,885 1315,888 1387,887 1459,889 1531,890 1603,895 1603,841 1531,836 1459,835 1387,833 1315,834 1243,831 1171,830 1099,829 1027,829 955,828 883,827 811,827 739,827 667,829 595,829 523,829 451,829 379,829 307,829 235,830 163,831"/>
+                <Baseline points="163,867 235,866 307,865 379,865 451,865 523,865 595,865 667,865 739,863 811,863 883,863 955,864 1027,865 1099,865 1171,866 1243,867 1315,870 1387,869 1459,871 1531,872 1603,877"/>
+                <TextEquiv>
+                    <Unicode>boulevard van         . qui, ha passato quasi tutta la vita. Morto il padre, e la madre, Maria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:14;}">
+                <Coords points="163,961 233,958 303,959 374,959 444,959 515,959 585,959 655,959 726,961 796,959 867,958 937,957 1007,959 1078,958 1148,961 1219,961 1289,962 1359,963 1430,959 1500,961 1571,961 1571,907 1500,907 1430,905 1359,909 1289,908 1219,907 1148,907 1078,904 1007,905 937,903 867,904 796,905 726,907 655,905 585,905 515,905 444,905 374,905 303,905 233,904 163,907"/>
+                <Baseline points="163,943 233,940 303,941 374,941 444,941 515,941 585,941 655,941 726,943 796,941 867,940 937,939 1007,941 1078,940 1148,943 1219,943 1289,944 1359,945 1430,941 1500,943 1571,943"/>
+                <TextEquiv>
+                    <Unicode>Catharina Lodevijka Haegheman, ne divenne il titolare: quando già era il pittore Ensor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:15;} gap {offset:59; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="151,1043 221,1039 292,1036 363,1033 434,1035 505,1035 576,1035 647,1032 718,1033 789,1033 860,1033 930,1034 1001,1035 1072,1035 1143,1037 1214,1039 1285,1039 1356,1039 1427,1040 1498,1036 1569,1039 1569,991 1498,988 1427,992 1356,991 1285,991 1214,991 1143,989 1072,987 1001,987 930,986 860,985 789,985 718,985 647,984 576,987 505,987 434,987 363,985 292,988 221,991 151,995"/>
+                <Baseline points="151,1027 221,1023 292,1020 363,1017 434,1019 505,1019 576,1019 647,1016 718,1017 789,1017 860,1017 930,1018 1001,1019 1072,1019 1143,1021 1214,1023 1285,1023 1356,1023 1427,1024 1498,1020 1569,1023"/>
+                <TextEquiv>
+                    <Unicode>La casa, al piano di sopra, si riempiva dalle tele dipinte.       , scendeva fin giù, in bottega.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:16;}">
+                <Coords points="145,1107 216,1108 287,1109 358,1111 429,1110 500,1107 571,1107 642,1107 713,1107 784,1107 855,1107 926,1109 997,1108 1068,1109 1139,1111 1210,1112 1281,1113 1352,1115 1423,1115 1494,1115 1565,1117 1565,1069 1494,1067 1423,1067 1352,1067 1281,1065 1210,1064 1139,1063 1068,1061 997,1060 926,1061 855,1059 784,1059 713,1059 642,1059 571,1059 500,1059 429,1062 358,1063 287,1061 216,1060 145,1059"/>
+                <Baseline points="145,1091 216,1092 287,1093 358,1095 429,1094 500,1091 571,1091 642,1091 713,1091 784,1091 855,1091 926,1093 997,1092 1068,1093 1139,1095 1210,1096 1281,1097 1352,1099 1423,1099 1494,1099 1565,1101"/>
+                <TextEquiv>
+                    <Unicode>Il negozio era sempre assortito di quella ariosa mercanzia. Clienti, se venivano. Ufficiali di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:17;}">
+                <Coords points="143,1183 215,1182 287,1183 359,1179 431,1180 503,1179 575,1179 647,1179 719,1177 791,1177 863,1175 935,1176 1007,1177 1079,1177 1151,1177 1223,1181 1295,1180 1367,1181 1439,1181 1511,1182 1583,1183 1583,1153 1511,1152 1439,1151 1367,1151 1295,1150 1223,1151 1151,1147 1079,1147 1007,1147 935,1146 863,1145 791,1147 719,1147 647,1149 575,1149 503,1149 431,1150 359,1149 287,1153 215,1152 143,1153"/>
+                <Baseline points="143,1173 215,1172 287,1173 359,1169 431,1170 503,1169 575,1169 647,1169 719,1167 791,1167 863,1165 935,1166 1007,1167 1079,1167 1151,1167 1223,1171 1295,1170 1367,1171 1439,1171 1511,1172 1583,1173"/>
+                <TextEquiv>
+                    <Unicode>marina: inglesi, tedeschi. Compravano il regaluccio dopo aver guardato, contrattato. Fra gli altri ar-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118081674_862" custom="readingOrder {index:18;} hi {offset:76; length:16;rend:underline; type:grey;}">
+                <Coords points="147,1210 1407,1214 1407,1264 147,1260"/>
+                <Baseline points="147,1255 1407,1259"/>
+                <TextEquiv>
+                    <Unicode>ticoli, le maschere erano le meno richieste. Restavano per il proprietario: se ne circondava</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:19;} add {offset:0; length:10;place:above;}">
+                <Coords points="1263,1215 1291,1215 1319,1217 1347,1217 1375,1218 1403,1222 1431,1224 1459,1227 1459,1197 1431,1194 1403,1192 1375,1188 1347,1187 1319,1187 1291,1185 1263,1185"/>
+                <Baseline points="1263,1205 1291,1205 1319,1207 1347,1207 1375,1208 1403,1212 1431,1214 1459,1217"/>
+                <TextEquiv>
+                    <Unicode>circondava</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118083638_867" custom="readingOrder {index:20;}">
+                <Coords points="1416,1203 1581,1218 1577,1268 1412,1253"/>
+                <Baseline points="1412,1248 1577,1263"/>
+                <TextEquiv>
+                    <Unicode>, su in casa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118087601_872" custom="readingOrder {index:21;}">
+                <Coords points="145,1284 1594,1295 1594,1345 145,1334"/>
+                <Baseline points="145,1329 1594,1340"/>
+                <TextEquiv>
+                    <Unicode>in ogni stanza, corridoio; e fino in granaio. Uscito il cliente, Ensor, paziente e quasi sempre di ottimo u-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118092138_877" custom="readingOrder {index:22;}">
+                <Coords points="145,1365 1569,1361 1569,1411 145,1415"/>
+                <Baseline points="145,1410 1569,1406"/>
+                <TextEquiv>
+                    <Unicode>more, risaliva la scaletta Tintinniva ancora la campanetta della porta di bottega, dietro il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118096109_882" custom="readingOrder {index:23;}">
+                <Coords points="153,1433 1562,1442 1562,1492 153,1483"/>
+                <Baseline points="153,1478 1562,1487"/>
+                <TextEquiv>
+                    <Unicode>cliente, che il pittore era di nuovo davanti al suo cavalletto. Riprendeva, quieto il suo lavoro.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:24;}">
+                <Coords points="145,1559 215,1558 285,1559 355,1559 425,1558 495,1559 565,1557 635,1559 705,1560 775,1559 845,1556 915,1556 985,1557 1055,1557 1125,1559 1195,1557 1265,1559 1335,1559 1405,1561 1475,1564 1545,1563 1545,1533 1475,1534 1405,1531 1335,1529 1265,1529 1195,1527 1125,1529 1055,1527 985,1527 915,1526 845,1526 775,1529 705,1530 635,1529 565,1527 495,1529 425,1528 355,1529 285,1529 215,1528 145,1529"/>
+                <Baseline points="145,1549 215,1548 285,1549 355,1549 425,1548 495,1549 565,1547 635,1549 705,1550 775,1549 845,1546 915,1546 985,1547 1055,1547 1125,1549 1195,1547 1265,1549 1335,1549 1405,1551 1475,1554 1545,1553"/>
+                <TextEquiv>
+                    <Unicode>In negozio era rimasto, spolverando un poco, dormicchiando o curiosando dietro i vetri, il fido</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118903748_1073" custom="readingOrder {index:25;} hi {offset:49; length:7;rend:underline; type:grey;}">
+                <Coords points="155,1589 981,1588 981,1638 155,1639"/>
+                <Baseline points="155,1634 981,1633"/>
+                <TextEquiv>
+                    <Unicode>Auguste. Auguste: spirito ironico dell'ambiente, siederà</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118882628_1060" custom="readingOrder {index:26;} add {offset:0; length:7;place:above;}">
+                <Coords points="846,1545 1009,1552 1018,1554 1008,1603 1003,1602 844,1595"/>
+                <Baseline points="844,1590 1004,1597 1009,1598"/>
+                <TextEquiv>
+                    <Unicode>siederà</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118905466_1078" custom="readingOrder {index:27;}">
+                <Coords points="986,1588 1085,1589 1085,1639 986,1638"/>
+                <Baseline points="986,1633 1085,1634"/>
+                <TextEquiv>
+                    <Unicode>ancora</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118885768_1065" custom="readingOrder {index:28;} add {offset:0; length:14;place:above;}">
+                <Coords points="1028,1543 1256,1549 1255,1599 1027,1593"/>
+                <Baseline points="1027,1588 1255,1594"/>
+                <TextEquiv>
+                    <Unicode>(io mi auguro)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118109231_895" custom="readingOrder {index:29;}">
+                <Coords points="1083,1592 1583,1601 1582,1651 1082,1642"/>
+                <Baseline points="1082,1637 1582,1646"/>
+                <TextEquiv>
+                    <Unicode>in mezzo alle scanxie dove sono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118134170_914" custom="readingOrder {index:30;} gap {offset:28; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="159,1661 1596,1677 1595,1727 158,1711"/>
+                <Baseline points="158,1706 1595,1722"/>
+                <TextEquiv>
+                    <Unicode>allineate conchiglie, vasi,        , rami di corallo, maschere: tante maschere, un poco osses-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118138165_919" custom="readingOrder {index:31;}">
+                <Coords points="155,1741 1601,1741 1601,1791 155,1791"/>
+                <Baseline points="155,1786 1601,1786"/>
+                <TextEquiv>
+                    <Unicode>sionanti, ma non per lui. Il vecchio gatto, fa i piedi, gli occhi perduti a chissà quale ricordo. E sor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:32;}">
+                <Coords points="141,1869 167,1869 193,1870 219,1871 246,1871 272,1870 298,1869 324,1871 351,1873 351,1819 324,1817 298,1815 272,1816 246,1817 219,1817 193,1816 167,1815 141,1815"/>
+                <Baseline points="141,1851 167,1851 193,1852 219,1853 246,1853 272,1852 298,1851 324,1853 351,1855"/>
+                <TextEquiv>
+                    <Unicode>ride, sorride.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:33;} gap {offset:24; length:0;}">
+                <Coords points="159,1948 229,1945 300,1946 370,1944 441,1945 512,1944 582,1942 653,1942 723,1941 794,1942 865,1941 935,1942 1006,1944 1076,1944 1147,1946 1218,1946 1288,1948 1359,1948 1429,1949 1500,1949 1571,1950 1571,1898 1500,1897 1429,1897 1359,1896 1288,1896 1218,1894 1147,1894 1076,1892 1006,1892 935,1890 865,1889 794,1890 723,1889 653,1890 582,1890 512,1892 441,1893 370,1892 300,1894 229,1893 159,1896"/>
+                <Baseline points="159,1931 229,1928 300,1929 370,1927 441,1928 512,1927 582,1925 653,1925 723,1924 794,1925 865,1924 935,1925 1006,1927 1076,1927 1147,1929 1218,1929 1288,1931 1359,1931 1429,1932 1500,1932 1571,1933"/>
+                <TextEquiv>
+                    <Unicode>La stanza da pranzo: il salon, era anche lo studio di Ensor. Vi dipingeva, ai bei tempi. Sedeva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:34;}">
+                <Coords points="149,2022 221,2020 293,2020 365,2020 437,2019 509,2018 581,2016 653,2018 725,2016 797,2019 870,2018 942,2017 1014,2016 1086,2016 1158,2017 1230,2020 1302,2020 1374,2022 1446,2022 1518,2025 1591,2028 1591,1976 1518,1973 1446,1970 1374,1970 1302,1968 1230,1968 1158,1965 1086,1964 1014,1964 942,1965 870,1966 797,1967 725,1964 653,1966 581,1964 509,1966 437,1967 365,1968 293,1968 221,1968 149,1970"/>
+                <Baseline points="149,2005 221,2003 293,2003 365,2003 437,2002 509,2001 581,1999 653,2001 725,1999 797,2002 870,2001 942,2000 1014,1999 1086,1999 1158,2000 1230,2003 1302,2003 1374,2005 1446,2005 1518,2008 1591,2011"/>
+                <TextEquiv>
+                    <Unicode>all'armonicum, e suonava le sue musiche, e quelle festose , malinconiche dell'antica Fiandre. So-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716118119276_903" custom="readingOrder {index:35;}">
+                <Coords points="148,2040 1599,2049 1599,2099 148,2090"/>
+                <Baseline points="148,2085 1599,2094"/>
+                <TextEquiv>
+                    <Unicode>pra il tavolo grande, al centro della camera, sotto il grande lampadario di vetro, è apparsa una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2&#13;
+2&#13;
+Lodenikja&#13;
+Longue&#13;
+Iseghem&#13;
+tose, stupide. Oggetti, materilizzazioni della fantasia fiamminga, dall'ansia stravolta&#13;
+ad esprimere le passioni carnali: il dispetto e la burla, sempre stagnanti&#13;
+intorno&#13;
+al cuore della razza&#13;
+fiamminga. Joannes Ensor era nato, qui vicino in &#13;
+un&#13;
+altra bottega, gestita dal padre James Fredric,&#13;
+d'origine britannica, in rue Longue. Era cresciuto in questa, all'angolo fra rue de Flandre e&#13;
+boulevard van         . qui, ha passato quasi tutta la vita. Morto il padre, e la madre, Maria&#13;
+Catharina Lodevijka Haegheman, ne divenne il titolare: quando già era il pittore Ensor.&#13;
+La casa, al piano di sopra, si riempiva dalle tele dipinte.       , scendeva fin giù, in bottega.&#13;
+Il negozio era sempre assortito di quella ariosa mercanzia. Clienti, se venivano. Ufficiali di&#13;
+marina: inglesi, tedeschi. Compravano il regaluccio dopo aver guardato, contrattato. Fra gli altri ar-&#13;
+ticoli, le maschere erano le meno richieste. Restavano per il proprietario: se ne circondava&#13;
+circondava&#13;
+, su in casa,&#13;
+in ogni stanza, corridoio; e fino in granaio. Uscito il cliente, Ensor, paziente e quasi sempre di ottimo u-&#13;
+more, risaliva la scaletta Tintinniva ancora la campanetta della porta di bottega, dietro il&#13;
+cliente, che il pittore era di nuovo davanti al suo cavalletto. Riprendeva, quieto il suo lavoro.&#13;
+In negozio era rimasto, spolverando un poco, dormicchiando o curiosando dietro i vetri, il fido&#13;
+Auguste. Auguste: spirito ironico dell'ambiente, siederà&#13;
+siederà&#13;
+ancora&#13;
+(io mi auguro)&#13;
+in mezzo alle scanxie dove sono&#13;
+allineate conchiglie, vasi,        , rami di corallo, maschere: tante maschere, un poco osses-&#13;
+sionanti, ma non per lui. Il vecchio gatto, fa i piedi, gli occhi perduti a chissà quale ricordo. E sor-&#13;
+ride, sorride.&#13;
+La stanza da pranzo: il salon, era anche lo studio di Ensor. Vi dipingeva, ai bei tempi. Sedeva&#13;
+all'armonicum, e suonava le sue musiche, e quelle festose , malinconiche dell'antica Fiandre. So-&#13;
+pra il tavolo grande, al centro della camera, sotto il grande lampadario di vetro, è apparsa una</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

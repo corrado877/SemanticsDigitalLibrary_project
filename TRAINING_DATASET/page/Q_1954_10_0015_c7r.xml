@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:23:19.501+02:00</Created>
+        <LastChange>2024-06-21T10:05:56.248+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326008" pageNr="95" tsid="175603575" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=LFZFMCPRLMCWDUYHCVMKEKTP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UEQDBPIEISXBJOXIINGFPNCI" imageId="54296169"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_10_0015_c7r.jpg" imageWidth="1798" imageHeight="2427" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746075816" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2,293 2,2055 1625,2055 1625,293"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="179,532 251,531 323,530 395,528 467,528 539,528 611,526 683,526 755,524 827,526 899,528 971,527 1043,526 1115,524 1187,524 1259,522 1331,523 1403,524 1475,524 1547,525 1619,526 1619,469 1547,468 1475,467 1403,467 1331,466 1259,465 1187,467 1115,467 1043,469 971,470 899,471 827,469 755,467 683,469 611,469 539,471 467,471 395,471 323,473 251,474 179,475"/>
+                <Baseline points="179,513 251,512 323,511 395,509 467,509 539,509 611,507 683,507 755,505 827,507 899,509 971,508 1043,507 1115,505 1187,505 1259,503 1331,504 1403,505 1475,505 1547,506 1619,507"/>
+                <TextEquiv>
+                    <Unicode>e non è stato cosa da poco, trovati i cammelli, trovati i negri per la scorta, Labatat muore di cancro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="179,614 247,610 316,608 385,608 454,606 523,603 592,604 661,605 730,603 799,602 868,602 936,600 1005,600 1074,600 1143,598 1212,599 1281,600 1350,600 1419,600 1488,601 1557,600 1557,548 1488,549 1419,548 1350,548 1281,548 1212,547 1143,546 1074,548 1005,548 936,548 868,550 799,550 730,551 661,553 592,552 523,551 454,554 385,556 316,556 247,558 179,562"/>
+                <Baseline points="179,597 247,593 316,591 385,591 454,589 523,586 592,587 661,588 730,586 799,585 868,585 936,583 1005,583 1074,583 1143,581 1212,582 1281,583 1350,583 1419,583 1488,584 1557,583"/>
+                <TextEquiv>
+                    <Unicode>quasi all’improvviso. Ricerca di un nuovo socio: tale Soleillet, praticissimo dei luoghi e già</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715363629049_1564" custom="readingOrder {index:2;}">
+                <Coords points="181,631 1612,633 1612,683 181,681"/>
+                <Baseline points="181,676 1612,678"/>
+                <TextEquiv>
+                    <Unicode>in rapporto con Memelick. Nel settembre, per una strada di Aden, Soleillet cade, colpito da paralisi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="177,762 248,760 320,762 392,760 464,757 536,756 608,756 680,758 752,756 824,754 896,754 967,752 1039,752 1111,752 1183,750 1255,750 1327,749 1399,748 1471,752 1543,752 1615,756 1615,705 1543,701 1471,701 1399,697 1327,698 1255,699 1183,699 1111,701 1039,701 967,701 896,703 824,703 752,705 680,707 608,705 536,705 464,706 392,709 320,711 248,709 177,711"/>
+                <Baseline points="177,745 248,743 320,745 392,743 464,740 536,739 608,739 680,741 752,739 824,737 896,737 967,735 1039,735 1111,735 1183,733 1255,733 1327,732 1399,731 1471,735 1543,735 1615,739"/>
+                <TextEquiv>
+                    <Unicode>Presagio sinistro. Al colmo dell’ira disperata, Rimbaud decide di compiere da solo la spedizio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="179,836 250,835 322,836 393,835 465,832 537,832 608,832 680,830 751,831 823,832 895,830 966,830 1038,832 1109,829 1181,828 1253,828 1324,827 1396,826 1467,826 1539,826 1611,832 1611,780 1539,774 1467,774 1396,774 1324,775 1253,776 1181,776 1109,777 1038,780 966,778 895,778 823,780 751,779 680,778 608,780 537,780 465,780 393,783 322,784 250,783 179,784"/>
+                <Baseline points="179,819 250,818 322,819 393,818 465,815 537,815 608,815 680,813 751,814 823,815 895,813 966,813 1038,815 1109,812 1181,811 1253,811 1324,810 1396,809 1467,809 1539,809 1611,815"/>
+                <TextEquiv>
+                    <Unicode>ne. Al principio di ottobre, cavalcando in testa alla carovana, egli apre la marcia. Il viaggio da Ta-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715363649550_1572" custom="readingOrder {index:5;} date {offset:24; length:3;year:0; day:0; month:0;}">
+                <Coords points="180,859 623,853 624,903 181,909"/>
+                <Baseline points="181,904 624,898"/>
+                <TextEquiv>
+                    <Unicode>giura a Ankober, durato sei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715363653204_1577" custom="readingOrder {index:6;}">
+                <Coords points="603,818 694,826 690,876 599,868"/>
+                <Baseline points="599,863 690,871"/>
+                <TextEquiv>
+                    <Unicode>quattro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715363656960_1582" custom="readingOrder {index:7;}">
+                <Coords points="634,851 1616,857 1616,907 634,901"/>
+                <Baseline points="634,896 1616,902"/>
+                <TextEquiv>
+                    <Unicode>mesi, ha qualcosa di mitico e apocalittico. Attraverso il deserto dei </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="179,986 250,990 321,988 392,985 463,986 535,985 606,984 677,982 748,981 819,978 891,980 962,980 1033,980 1104,981 1175,982 1247,980 1318,980 1389,978 1460,978 1531,978 1603,980 1603,929 1531,927 1460,927 1389,927 1318,929 1247,929 1175,931 1104,930 1033,929 962,929 891,929 819,927 748,930 677,931 606,933 535,934 463,935 392,934 321,937 250,939 179,935"/>
+                <Baseline points="179,969 250,973 321,971 392,968 463,969 535,968 606,967 677,965 748,964 819,961 891,963 962,963 1033,963 1104,964 1175,965 1247,963 1318,963 1389,961 1460,961 1531,961 1603,963"/>
+                <TextEquiv>
+                    <Unicode>Dankali, per “strade orribili, che ricordano l’orrore presunto dei paesi lunari", tra di-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="185,1064 255,1062 326,1061 397,1060 467,1059 538,1056 609,1056 679,1056 750,1056 821,1054 892,1055 962,1056 1033,1056 1104,1056 1174,1056 1245,1054 1316,1054 1386,1054 1457,1052 1528,1053 1599,1056 1599,1004 1528,1001 1457,1000 1386,1002 1316,1002 1245,1002 1174,1004 1104,1004 1033,1004 962,1004 892,1003 821,1002 750,1004 679,1004 609,1004 538,1004 467,1007 397,1008 326,1009 255,1010 185,1012"/>
+                <Baseline points="185,1047 255,1045 326,1044 397,1043 467,1042 538,1039 609,1039 679,1039 750,1039 821,1037 892,1038 962,1039 1033,1039 1104,1039 1174,1039 1245,1037 1316,1037 1386,1037 1457,1035 1528,1036 1599,1039"/>
+                <TextEquiv>
+                    <Unicode>stese infinite di blocchi di lava nera, sotto un cielo bianco di calore. A metà strada, il la-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="193,1142 264,1142 335,1141 406,1140 478,1139 549,1138 620,1136 692,1138 763,1138 834,1136 906,1134 977,1134 1048,1134 1119,1134 1191,1133 1262,1135 1333,1134 1405,1136 1476,1134 1547,1137 1619,1142 1619,1085 1547,1080 1476,1077 1405,1079 1333,1077 1262,1078 1191,1076 1119,1077 1048,1077 977,1077 906,1077 834,1079 763,1081 692,1081 620,1079 549,1081 478,1082 406,1083 335,1084 264,1085 193,1085"/>
+                <Baseline points="193,1123 264,1123 335,1122 406,1121 478,1120 549,1119 620,1117 692,1119 763,1119 834,1117 906,1115 977,1115 1048,1115 1119,1115 1191,1114 1262,1116 1333,1115 1405,1117 1476,1115 1547,1118 1619,1123"/>
+                <TextEquiv>
+                    <Unicode>go Assal: una figurazione di orrore e di spavento infernale. Una cavità enorme, profondissima,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="175,1217 246,1216 317,1217 388,1217 459,1215 530,1215 601,1214 672,1214 743,1213 814,1212 886,1211 957,1211 1028,1209 1099,1209 1170,1209 1241,1209 1312,1209 1383,1207 1454,1207 1525,1209 1597,1211 1597,1157 1525,1155 1454,1153 1383,1153 1312,1155 1241,1155 1170,1155 1099,1155 1028,1155 957,1157 886,1157 814,1158 743,1159 672,1160 601,1160 530,1161 459,1161 388,1163 317,1163 246,1162 175,1163"/>
+                <Baseline points="175,1199 246,1198 317,1199 388,1199 459,1197 530,1197 601,1196 672,1196 743,1195 814,1194 886,1193 957,1193 1028,1191 1099,1191 1170,1191 1241,1191 1312,1191 1383,1189 1454,1189 1525,1191 1597,1193"/>
+                <TextEquiv>
+                    <Unicode>in cima alla quale galleggia il sole, aspirando l’umidità. Così le rive delle cavita sono di sale.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="181,1290 251,1291 322,1290 393,1290 464,1289 535,1288 606,1288 677,1285 748,1284 819,1284 890,1283 960,1282 1031,1282 1102,1282 1173,1284 1244,1284 1315,1282 1386,1282 1457,1282 1528,1284 1599,1284 1599,1232 1528,1232 1457,1230 1386,1230 1315,1230 1244,1232 1173,1232 1102,1230 1031,1230 960,1230 890,1231 819,1232 748,1232 677,1233 606,1236 535,1236 464,1237 393,1238 322,1238 251,1239 181,1238"/>
+                <Baseline points="181,1273 251,1274 322,1273 393,1273 464,1272 535,1271 606,1271 677,1268 748,1267 819,1267 890,1266 960,1265 1031,1265 1102,1265 1173,1267 1244,1267 1315,1265 1386,1265 1457,1265 1528,1267 1599,1267"/>
+                <TextEquiv>
+                    <Unicode>Le giornate, le settimane passarono, come dentro il fuoco eterno. Precipizi, fiumi a guado, cadute</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="175,1373 246,1365 317,1362 388,1361 459,1359 530,1360 601,1359 672,1359 743,1359 814,1359 886,1360 957,1362 1028,1359 1099,1359 1170,1358 1241,1359 1312,1358 1383,1355 1454,1355 1525,1359 1597,1363 1597,1314 1525,1310 1454,1306 1383,1306 1312,1309 1241,1310 1170,1309 1099,1310 1028,1310 957,1313 886,1311 814,1310 743,1310 672,1310 601,1310 530,1311 459,1310 388,1312 317,1313 246,1316 175,1324"/>
+                <Baseline points="175,1357 246,1349 317,1346 388,1345 459,1343 530,1344 601,1343 672,1343 743,1343 814,1343 886,1344 957,1346 1028,1343 1099,1343 1170,1342 1241,1343 1312,1342 1383,1339 1454,1339 1525,1343 1597,1347"/>
+                <TextEquiv>
+                    <Unicode>massacranti. Avvenuta la consegna a Menelick, iniziarono le penose pratiche del pagamento.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="179,1439 250,1440 322,1437 394,1437 465,1436 537,1435 609,1437 680,1437 752,1437 824,1439 896,1437 967,1437 1039,1437 1111,1435 1182,1435 1254,1435 1326,1433 1397,1434 1469,1435 1541,1439 1613,1443 1613,1394 1541,1390 1469,1386 1397,1385 1326,1384 1254,1386 1182,1386 1111,1386 1039,1388 967,1388 896,1388 824,1390 752,1388 680,1388 609,1388 537,1386 465,1387 394,1388 322,1388 250,1391 179,1390"/>
+                <Baseline points="179,1423 250,1424 322,1421 394,1421 465,1420 537,1419 609,1421 680,1421 752,1421 824,1423 896,1421 967,1421 1039,1421 1111,1419 1182,1419 1254,1419 1326,1417 1397,1418 1469,1419 1541,1423 1613,1427"/>
+                <TextEquiv>
+                    <Unicode>Rimbaud ritorna ad Harrar, dove il Ras Makonnen gli regola l’acquisto dei fucili. Si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;} del {offset:74; length:8;rend:overstrike;}">
+                <Coords points="169,1518 241,1518 313,1518 385,1518 457,1516 529,1514 601,1516 673,1515 745,1513 817,1514 889,1512 961,1511 1033,1511 1105,1512 1177,1512 1249,1512 1321,1512 1393,1510 1465,1509 1537,1510 1609,1516 1609,1465 1537,1459 1465,1458 1393,1459 1321,1461 1249,1461 1177,1461 1105,1461 1033,1460 961,1460 889,1461 817,1463 745,1462 673,1464 601,1465 529,1463 457,1465 385,1467 313,1467 241,1467 169,1467"/>
+                <Baseline points="169,1501 241,1501 313,1501 385,1501 457,1499 529,1497 601,1499 673,1498 745,1496 817,1497 889,1495 961,1494 1033,1494 1105,1495 1177,1495 1249,1495 1321,1495 1393,1493 1465,1492 1537,1493 1609,1499"/>
+                <TextEquiv>
+                    <Unicode>dirige di nuovo verso il Mare. Di nuovo a Aden, col suo magro capitale. È          il luglio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="173,1601 244,1599 316,1597 387,1595 459,1597 530,1593 602,1591 673,1589 745,1589 816,1589 888,1589 959,1589 1031,1587 1102,1588 1174,1589 1245,1587 1317,1587 1388,1587 1460,1587 1531,1592 1623,1596 1623,1542 1531,1538 1460,1533 1388,1533 1317,1533 1245,1533 1174,1535 1102,1534 1031,1533 959,1535 888,1535 816,1535 745,1535 673,1535 602,1537 530,1539 459,1543 387,1541 316,1543 244,1545 173,1547"/>
+                <Baseline points="173,1583 244,1581 316,1579 387,1577 459,1579 530,1575 602,1573 673,1571 745,1571 816,1571 888,1571 959,1571 1031,1569 1102,1570 1174,1571 1245,1569 1317,1569 1388,1569 1460,1569 1531,1574 1603,1577"/>
+                <TextEquiv>
+                    <Unicode>1887. In cerca di riposo, e di sosta dall’angoscia lenta che ormai occupa il suo animo, Rim-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="187,1667 258,1669 330,1665 402,1663 474,1662 546,1661 617,1660 689,1660 761,1659 833,1659 905,1661 976,1660 1048,1660 1120,1659 1192,1659 1264,1659 1335,1661 1407,1661 1479,1661 1551,1663 1623,1669 1623,1626 1551,1620 1479,1618 1407,1618 1335,1618 1264,1616 1192,1616 1120,1616 1048,1617 976,1617 905,1618 833,1616 761,1616 689,1617 617,1617 546,1618 474,1619 402,1620 330,1622 258,1626 187,1624"/>
+                <Baseline points="187,1653 258,1655 330,1651 402,1649 474,1648 546,1647 617,1646 689,1646 761,1645 833,1645 905,1647 976,1646 1048,1646 1120,1645 1192,1645 1264,1645 1335,1647 1407,1647 1479,1647 1551,1649 1623,1655"/>
+                <TextEquiv>
+                    <Unicode>baud si reca al Cairo. Nella breve calma si osserva, e giudica la sua vita. Si sente e vede vecchio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715363687696_1596" custom="readingOrder {index:18;}">
+                <Coords points="176,1698 1607,1689 1607,1739 176,1748"/>
+                <Baseline points="176,1743 1607,1734"/>
+                <TextEquiv>
+                    <Unicode>“J'ai les cheveux absolument gris. Je me figure que mon existence perèclite" (23 agosto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:19;}">
+                <Coords points="161,1830 233,1827 306,1824 378,1822 451,1819 524,1818 596,1818 669,1818 741,1818 814,1817 887,1816 959,1816 1032,1816 1104,1817 1177,1817 1250,1814 1322,1815 1395,1817 1467,1817 1540,1816 1613,1816 1613,1764 1540,1764 1467,1765 1395,1765 1322,1763 1250,1762 1177,1765 1104,1765 1032,1764 959,1764 887,1764 814,1765 741,1766 669,1766 596,1766 524,1766 451,1767 378,1770 306,1772 233,1775 161,1778"/>
+                <Baseline points="161,1813 233,1810 306,1807 378,1805 451,1802 524,1801 596,1801 669,1801 741,1801 814,1800 887,1799 959,1799 1032,1799 1104,1800 1177,1800 1250,1797 1322,1798 1395,1800 1467,1800 1540,1799 1613,1799"/>
+                <TextEquiv>
+                    <Unicode>‘87). Stanco, deve portarsi addosso la cintura con dentro i suoi 16.000 franchi. “Ça pese une hui-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:20;}">
+                <Coords points="175,1905 247,1901 320,1899 392,1897 465,1897 537,1896 610,1895 682,1894 755,1895 827,1895 900,1894 972,1889 1045,1893 1117,1893 1190,1893 1262,1891 1335,1891 1407,1891 1480,1891 1552,1894 1625,1901 1625,1847 1552,1840 1480,1837 1407,1837 1335,1837 1262,1837 1190,1839 1117,1839 1045,1839 972,1835 900,1840 827,1841 755,1841 682,1840 610,1841 537,1842 465,1843 392,1843 320,1845 247,1847 175,1851"/>
+                <Baseline points="175,1887 247,1883 320,1881 392,1879 465,1879 537,1878 610,1877 682,1876 755,1877 827,1877 900,1876 972,1871 1045,1875 1117,1875 1190,1875 1262,1873 1335,1873 1407,1873 1480,1873 1552,1876 1625,1883"/>
+                <TextEquiv>
+                    <Unicode>taine de Kilos et ça me flanque la dysenterie".  Cammina, trascinando il metallo dispera-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715363692991_1601" custom="readingOrder {index:21;}">
+                <Coords points="178,1917 1602,1917 1602,1967 178,1967"/>
+                <Baseline points="178,1962 1602,1962"/>
+                <TextEquiv>
+                    <Unicode>to, come un castigo. Ed è subito a Aden, dove ancora sogna e progetta traffici e commerci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:22;}">
+                <Coords points="163,2054 189,2052 215,2052 241,2053 267,2055 293,2054 293,1997 267,1998 241,1996 215,1995 189,1995 163,1997"/>
+                <Baseline points="163,2035 189,2033 215,2033 241,2034 267,2036 293,2035"/>
+                <TextEquiv>
+                    <Unicode>illusori.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>e non è stato cosa da poco, trovati i cammelli, trovati i negri per la scorta, Labatat muore di cancro&#13;
+quasi all’improvviso. Ricerca di un nuovo socio: tale Soleillet, praticissimo dei luoghi e già&#13;
+in rapporto con Memelick. Nel settembre, per una strada di Aden, Soleillet cade, colpito da paralisi.&#13;
+Presagio sinistro. Al colmo dell’ira disperata, Rimbaud decide di compiere da solo la spedizio-&#13;
+ne. Al principio di ottobre, cavalcando in testa alla carovana, egli apre la marcia. Il viaggio da Ta-&#13;
+giura a Ankober, durato sei&#13;
+quattro&#13;
+mesi, ha qualcosa di mitico e apocalittico. Attraverso il deserto dei &#13;
+Dankali, per “strade orribili, che ricordano l’orrore presunto dei paesi lunari", tra di-&#13;
+stese infinite di blocchi di lava nera, sotto un cielo bianco di calore. A metà strada, il la-&#13;
+go Assal: una figurazione di orrore e di spavento infernale. Una cavità enorme, profondissima,&#13;
+in cima alla quale galleggia il sole, aspirando l’umidità. Così le rive delle cavita sono di sale.&#13;
+Le giornate, le settimane passarono, come dentro il fuoco eterno. Precipizi, fiumi a guado, cadute&#13;
+massacranti. Avvenuta la consegna a Menelick, iniziarono le penose pratiche del pagamento.&#13;
+Rimbaud ritorna ad Harrar, dove il Ras Makonnen gli regola l’acquisto dei fucili. Si&#13;
+dirige di nuovo verso il Mare. Di nuovo a Aden, col suo magro capitale. È          il luglio&#13;
+1887. In cerca di riposo, e di sosta dall’angoscia lenta che ormai occupa il suo animo, Rim-&#13;
+baud si reca al Cairo. Nella breve calma si osserva, e giudica la sua vita. Si sente e vede vecchio.&#13;
+“J'ai les cheveux absolument gris. Je me figure que mon existence perèclite" (23 agosto&#13;
+‘87). Stanco, deve portarsi addosso la cintura con dentro i suoi 16.000 franchi. “Ça pese une hui-&#13;
+taine de Kilos et ça me flanque la dysenterie".  Cammina, trascinando il metallo dispera-&#13;
+to, come un castigo. Ed è subito a Aden, dove ancora sogna e progetta traffici e commerci&#13;
+illusori.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

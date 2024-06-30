@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:07:50.363+01:00</Created>
+        <LastChange>2024-06-20T11:26:22.524+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326012" pageNr="44" tsid="175603519" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=XCXWYBMTOOELKZBHBCZBVFHH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZKDWPVUHJILMHZOBQMHAWROI" imageId="53903600"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_02_0010_c4v.jpg" imageWidth="1798" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746065839" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718117633852_953"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718117633852_953" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1562,272 1562,324 1615,324 1615,272"/>
+            <TextLine id="line_1718117634061_956" custom="readingOrder {index:0;}">
+                <Coords points="1562,274 1613,272 1615,322 1564,324"/>
+                <Baseline points="1564,319 1615,317"/>
+                <TextEquiv>
+                    <Unicode>8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="192,451 190,2045 1646,2028 1648,434"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="205,511 276,513 347,511 419,513 490,513 562,513 633,512 704,511 776,509 847,509 919,509 990,509 1061,507 1133,505 1204,507 1276,507 1347,505 1418,507 1490,507 1561,508 1633,509 1633,460 1561,459 1490,458 1418,458 1347,456 1276,458 1204,458 1133,456 1061,458 990,460 919,460 847,460 776,460 704,462 633,463 562,464 490,464 419,464 347,462 276,464 205,462"/>
+                <Baseline points="205,495 276,497 347,495 419,497 490,497 562,497 633,496 704,495 776,493 847,493 919,493 990,493 1061,491 1133,489 1204,491 1276,491 1347,489 1418,491 1490,491 1561,492 1633,493"/>
+                <TextEquiv>
+                    <Unicode>una qualità di morale, appunto a incominciare dall'ideologia nietzciana, che affondava,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="197,588 268,586 340,586 412,584 484,585 556,582 627,582 699,583 771,582 843,586 915,586 986,586 1058,586 1130,586 1202,583 1274,582 1345,586 1417,586 1489,588 1561,588 1633,596 1633,545 1561,537 1489,537 1417,535 1345,535 1274,531 1202,532 1130,535 1058,535 986,535 915,535 843,535 771,531 699,532 627,531 556,531 484,534 412,533 340,535 268,535 197,537"/>
+                <Baseline points="197,571 268,569 340,569 412,567 484,568 556,565 627,565 699,566 771,565 843,569 915,569 986,569 1058,569 1130,569 1202,566 1274,565 1345,569 1417,569 1489,571 1561,571 1633,579"/>
+                <TextEquiv>
+                    <Unicode>le sue radici in un concetto della Verità, che è uguale ad un concetto-dilemma della Bellezza.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="201,665 272,664 344,665 415,662 487,659 558,659 630,658 701,657 773,660 844,659 916,661 987,660 1059,661 1130,660 1202,657 1273,657 1345,656 1416,657 1488,659 1559,660 1631,663 1631,614 1559,611 1488,610 1416,608 1345,607 1273,608 1202,608 1130,611 1059,612 987,611 916,612 844,610 773,611 701,608 630,609 558,610 487,610 415,613 344,616 272,615 201,616"/>
+                <Baseline points="201,649 272,648 344,649 415,646 487,643 558,643 630,642 701,641 773,644 844,643 916,645 987,644 1059,645 1130,644 1202,641 1273,641 1345,640 1416,641 1488,643 1559,644 1631,647"/>
+                <TextEquiv>
+                    <Unicode>Carrà, più a fondo di Boccioni, recò alla legislazione futurista l'apporto di una cultura,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="211,744 281,738 352,738 423,736 493,737 564,736 635,736 705,738 776,737 847,740 918,739 988,740 1059,740 1130,738 1200,736 1271,737 1342,736 1412,736 1483,735 1554,737 1625,740 1625,689 1554,686 1483,684 1412,685 1342,685 1271,686 1200,685 1130,687 1059,689 988,689 918,688 847,689 776,686 705,687 635,685 564,685 493,686 423,685 352,687 281,687 211,693"/>
+                <Baseline points="211,727 281,721 352,721 423,719 493,720 564,719 635,719 705,721 776,720 847,723 918,722 988,723 1059,723 1130,721 1200,719 1271,720 1342,719 1412,719 1483,718 1554,720 1625,723"/>
+                <TextEquiv>
+                    <Unicode>divenuta mondo e regola di vita, appoggiati, guidati da un'educazione di tale genere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="217,818 287,816 358,815 429,814 499,812 570,812 641,812 711,812 782,812 853,812 924,813 994,814 1065,813 1136,810 1206,810 1277,808 1348,809 1418,810 1489,812 1560,811 1631,816 1631,765 1560,760 1489,761 1418,759 1348,758 1277,757 1206,759 1136,759 1065,762 994,763 924,762 853,761 782,761 711,761 641,761 570,761 499,761 429,763 358,764 287,765 217,767"/>
+                <Baseline points="217,801 287,799 358,798 429,797 499,795 570,795 641,795 711,795 782,795 853,795 924,796 994,797 1065,796 1136,793 1206,793 1277,791 1348,792 1418,793 1489,795 1560,794 1631,799"/>
+                <TextEquiv>
+                    <Unicode>Una regola morale di vita estetica che indicava  un'adepto, della forte struttura di Carrà,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:5;}">
+                <Coords points="211,896 281,894 351,892 421,890 491,892 562,890 632,890 702,890 772,890 842,890 913,890 983,890 1053,890 1123,890 1193,890 1264,890 1334,888 1404,888 1474,888 1544,887 1615,888 1615,837 1544,836 1474,837 1404,837 1334,837 1264,839 1193,839 1123,839 1053,839 983,839 913,839 842,839 772,839 702,839 632,839 562,839 491,841 421,839 351,841 281,843 211,845"/>
+                <Baseline points="211,879 281,877 351,875 421,873 491,875 562,873 632,873 702,873 772,873 842,873 913,873 983,873 1053,873 1123,873 1193,873 1264,873 1334,871 1404,871 1474,871 1544,870 1615,871"/>
+                <TextEquiv>
+                    <Unicode>a passare, con impavido pensiero, dalla frequentazione della "Gaia Scienza", di "Al di là</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:6;}">
+                <Coords points="197,970 268,968 339,968 410,966 481,964 552,965 623,962 694,964 765,963 836,964 907,965 978,962 1049,966 1120,966 1191,964 1262,964 1333,962 1404,962 1475,962 1546,961 1617,964 1617,913 1546,910 1475,911 1404,911 1333,911 1262,913 1191,913 1120,915 1049,915 978,911 907,914 836,913 765,912 694,913 623,911 552,914 481,913 410,915 339,917 268,917 197,919"/>
+                <Baseline points="197,953 268,951 339,951 410,949 481,947 552,948 623,945 694,947 765,946 836,947 907,948 978,945 1049,949 1120,949 1191,947 1262,947 1333,945 1404,945 1475,945 1546,944 1617,947"/>
+                <TextEquiv>
+                    <Unicode>del bene e del male", e dalle altre opere di Nietzche, ad un'ordinata lettura della Bibbia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:7;} del {offset:69; length:9;rend:overstrike;}">
+                <Coords points="205,1039 276,1042 347,1042 418,1041 490,1039 561,1037 632,1037 704,1039 775,1041 846,1037 918,1037 989,1037 1060,1039 1131,1037 1203,1041 1274,1041 1345,1043 1417,1041 1488,1041 1559,1039 1631,1039 1631,990 1559,990 1488,992 1417,992 1345,994 1274,992 1203,992 1131,988 1060,990 989,988 918,988 846,988 775,992 704,990 632,988 561,988 490,990 418,992 347,993 276,993 205,990"/>
+                <Baseline points="205,1023 276,1026 347,1026 418,1025 490,1023 561,1021 632,1021 704,1023 775,1025 846,1021 918,1021 989,1021 1060,1023 1131,1021 1203,1025 1274,1025 1345,1027 1417,1025 1488,1025 1559,1023 1631,1023"/>
+                <TextEquiv>
+                    <Unicode>in un'anticipata conoscenza delle "favole" del Vecchio Testamento. E poco dopo, ad una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:8;}">
+                <Coords points="209,1118 280,1116 351,1117 422,1116 493,1116 565,1116 636,1116 707,1116 778,1117 849,1116 921,1116 992,1116 1063,1116 1134,1116 1205,1116 1277,1116 1348,1114 1419,1114 1490,1110 1561,1112 1633,1114 1633,1063 1561,1061 1490,1059 1419,1063 1348,1063 1277,1065 1205,1065 1134,1065 1063,1065 992,1065 921,1065 849,1065 778,1066 707,1065 636,1065 565,1065 493,1065 422,1065 351,1066 280,1065 209,1067"/>
+                <Baseline points="209,1101 280,1099 351,1100 422,1099 493,1099 565,1099 636,1099 707,1099 778,1100 849,1099 921,1099 992,1099 1063,1099 1134,1099 1205,1099 1277,1099 1348,1097 1419,1097 1490,1093 1561,1095 1633,1097"/>
+                <TextEquiv>
+                    <Unicode>lettura, e quasi direi meditazione, fatta con animo ilare e ironico, dei dialoghi platonici. Per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:9;}">
+                <Coords points="211,1204 281,1193 351,1192 421,1190 491,1190 561,1190 631,1191 701,1190 771,1190 841,1190 911,1190 981,1188 1051,1188 1121,1189 1191,1190 1261,1189 1331,1190 1401,1188 1471,1187 1541,1188 1611,1188 1611,1137 1541,1137 1471,1136 1401,1137 1331,1139 1261,1138 1191,1139 1121,1138 1051,1137 981,1137 911,1139 841,1139 771,1139 701,1139 631,1140 561,1139 491,1139 421,1139 351,1141 281,1142 211,1153"/>
+                <Baseline points="211,1187 281,1176 351,1175 421,1173 491,1173 561,1173 631,1174 701,1173 771,1173 841,1173 911,1173 981,1171 1051,1171 1121,1172 1191,1173 1261,1172 1331,1173 1401,1171 1471,1170 1541,1171 1611,1171"/>
+                <TextEquiv>
+                    <Unicode>questa strada, abbastanza accidentata, il pittore e poeta, l'inventore, in certo modo, di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:10;}">
+                <Coords points="201,1274 271,1273 341,1270 411,1267 481,1269 551,1264 621,1265 691,1265 761,1268 831,1267 901,1268 971,1270 1041,1268 1111,1268 1181,1270 1251,1266 1321,1267 1391,1266 1461,1266 1531,1267 1601,1270 1601,1219 1531,1216 1461,1215 1391,1215 1321,1216 1251,1215 1181,1219 1111,1217 1041,1217 971,1219 901,1217 831,1216 761,1217 691,1214 621,1214 551,1213 481,1218 411,1216 341,1219 271,1222 201,1223"/>
+                <Baseline points="201,1257 271,1256 341,1253 411,1250 481,1252 551,1247 621,1248 691,1248 761,1251 831,1250 901,1251 971,1253 1041,1251 1111,1251 1181,1253 1251,1249 1321,1250 1391,1249 1461,1249 1531,1250 1601,1253"/>
+                <TextEquiv>
+                    <Unicode>miti platonici e figurativi: Carrà, doveva giungere allo studio, ad un'attiva conoscenza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:11;}">
+                <Coords points="201,1343 271,1341 342,1339 413,1339 484,1339 555,1339 626,1339 697,1337 768,1336 839,1337 910,1337 980,1337 1051,1339 1122,1337 1193,1339 1264,1339 1335,1337 1406,1337 1477,1335 1548,1338 1619,1341 1619,1311 1548,1308 1477,1305 1406,1307 1335,1307 1264,1309 1193,1309 1122,1307 1051,1309 980,1307 910,1307 839,1307 768,1306 697,1307 626,1309 555,1309 484,1309 413,1309 342,1309 271,1311 201,1313"/>
+                <Baseline points="201,1333 271,1331 342,1329 413,1329 484,1329 555,1329 626,1329 697,1327 768,1326 839,1327 910,1327 980,1327 1051,1329 1122,1327 1193,1329 1264,1329 1335,1327 1406,1327 1477,1325 1548,1328 1619,1331"/>
+                <TextEquiv>
+                    <Unicode>del Leopardi delle "Operette Morali". E' da non trascurare per la giusta intelligenza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718117651613_967" custom="readingOrder {index:12;}">
+                <Coords points="196,1362 397,1366 396,1416 195,1412"/>
+                <Baseline points="195,1407 396,1411"/>
+                <TextEquiv>
+                    <Unicode>del lavoro:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:13;}">
+                <Coords points="283,1375 311,1377 339,1377 367,1377 395,1377 395,1347 367,1347 339,1347 311,1347 283,1345"/>
+                <Baseline points="283,1365 311,1367 339,1367 367,1367 395,1367"/>
+                <TextEquiv>
+                    <Unicode>di Carrà</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718117654937_972" custom="readingOrder {index:14;}">
+                <Coords points="404,1364 1635,1368 1635,1418 404,1414"/>
+                <Baseline points="404,1409 1635,1413"/>
+                <TextEquiv>
+                    <Unicode>del lavoro pittorico, oltre che critico e letterario, un profilo che abbia gli sviluppi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:15;}">
+                <Coords points="211,1502 281,1499 352,1497 422,1496 493,1494 564,1494 634,1496 705,1494 775,1493 846,1492 917,1492 987,1492 1058,1492 1128,1492 1199,1494 1270,1492 1340,1494 1411,1494 1481,1495 1552,1493 1623,1498 1623,1447 1552,1442 1481,1444 1411,1443 1340,1443 1270,1441 1199,1443 1128,1441 1058,1441 987,1441 917,1441 846,1441 775,1442 705,1443 634,1445 564,1443 493,1443 422,1445 352,1446 281,1448 211,1451"/>
+                <Baseline points="211,1485 281,1482 352,1480 422,1479 493,1477 564,1477 634,1479 705,1477 775,1476 846,1475 917,1475 987,1475 1058,1475 1128,1475 1199,1477 1270,1475 1340,1477 1411,1477 1481,1478 1552,1476 1623,1481"/>
+                <TextEquiv>
+                    <Unicode>e le curve di una costruzione intellettuale di tale complessiva, da riferirsi a dei cardini che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718117658756_977" custom="readingOrder {index:16;}">
+                <Coords points="204,1519 545,1525 544,1575 203,1569"/>
+                <Baseline points="203,1564 544,1570"/>
+                <TextEquiv>
+                    <Unicode>si chiamano: Nietzche,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718117660478_982" custom="readingOrder {index:17;} add {offset:0; length:2;place:above;}">
+                <Coords points="528,1475 565,1473 567,1523 530,1525"/>
+                <Baseline points="530,1520 567,1518"/>
+                <TextEquiv>
+                    <Unicode>il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718117663620_987" custom="readingOrder {index:18;}">
+                <Coords points="558,1511 1155,1523 1154,1573 557,1561"/>
+                <Baseline points="557,1556 1154,1568"/>
+                <TextEquiv>
+                    <Unicode>Vecchio Testamento, Platone, Leopardi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:19;}">
+                <Coords points="217,1650 287,1647 358,1648 428,1644 499,1642 569,1642 640,1644 710,1644 781,1642 851,1642 922,1643 992,1642 1063,1642 1133,1639 1204,1638 1274,1640 1345,1638 1415,1638 1486,1641 1556,1643 1627,1648 1627,1597 1556,1592 1486,1590 1415,1587 1345,1587 1274,1589 1204,1587 1133,1588 1063,1591 992,1591 922,1592 851,1591 781,1591 710,1593 640,1593 569,1591 499,1591 428,1593 358,1597 287,1596 217,1599"/>
+                <Baseline points="217,1633 287,1630 358,1631 428,1627 499,1625 569,1625 640,1627 710,1627 781,1625 851,1625 922,1626 992,1625 1063,1625 1133,1622 1204,1621 1274,1623 1345,1621 1415,1621 1486,1624 1556,1626 1627,1631"/>
+                <TextEquiv>
+                    <Unicode>dentro gli scomparti creati da codesti pilastri, negli spazi ad essi interposti, andavano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:20;}">
+                <Coords points="211,1722 280,1718 350,1718 420,1718 489,1718 559,1716 629,1716 698,1716 768,1716 838,1717 908,1719 977,1716 1047,1716 1117,1716 1186,1712 1256,1713 1326,1712 1395,1712 1465,1714 1535,1714 1605,1718 1605,1667 1535,1663 1465,1663 1395,1661 1326,1661 1256,1662 1186,1661 1117,1665 1047,1665 977,1665 908,1668 838,1666 768,1665 698,1665 629,1665 559,1665 489,1667 420,1667 350,1667 280,1667 211,1671"/>
+                <Baseline points="211,1705 280,1701 350,1701 420,1701 489,1701 559,1699 629,1699 698,1699 768,1699 838,1700 908,1702 977,1699 1047,1699 1117,1699 1186,1695 1256,1696 1326,1695 1395,1695 1465,1697 1535,1697 1605,1701"/>
+                <TextEquiv>
+                    <Unicode>a collocarsi il frutto e il sugo di letture, di consumazioni fruite sul banco medesimo, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:21;}">
+                <Coords points="215,1802 285,1798 356,1795 427,1794 498,1792 569,1793 639,1792 710,1792 781,1792 852,1792 923,1792 993,1795 1064,1794 1135,1792 1206,1790 1277,1790 1347,1787 1418,1790 1489,1788 1560,1788 1631,1788 1631,1737 1560,1737 1489,1737 1418,1739 1347,1736 1277,1739 1206,1739 1135,1741 1064,1743 993,1744 923,1741 852,1741 781,1741 710,1741 639,1741 569,1742 498,1741 427,1743 356,1744 285,1747 215,1751"/>
+                <Baseline points="215,1785 285,1781 356,1778 427,1777 498,1775 569,1776 639,1775 710,1775 781,1775 852,1775 923,1775 993,1778 1064,1777 1135,1775 1206,1773 1277,1773 1347,1770 1418,1773 1489,1771 1560,1771 1631,1771"/>
+                <TextEquiv>
+                    <Unicode>cui l'avventuroso Carrà tentava le sue prove come cantasse di prose liriche,di prose di medi_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:22;}">
+                <Coords points="213,1874 282,1874 352,1874 422,1874 492,1874 562,1874 631,1872 701,1871 771,1870 841,1870 911,1870 980,1870 1050,1870 1120,1870 1190,1868 1260,1867 1329,1866 1399,1866 1469,1867 1539,1868 1609,1870 1609,1819 1539,1817 1469,1816 1399,1815 1329,1815 1260,1816 1190,1817 1120,1819 1050,1819 980,1819 911,1819 841,1819 771,1819 701,1820 631,1821 562,1823 492,1823 422,1823 352,1823 282,1823 213,1823"/>
+                <Baseline points="213,1857 282,1857 352,1857 422,1857 492,1857 562,1857 631,1855 701,1854 771,1853 841,1853 911,1853 980,1853 1050,1853 1120,1853 1190,1851 1260,1850 1329,1849 1399,1849 1469,1850 1539,1851 1609,1853"/>
+                <TextEquiv>
+                    <Unicode>tazione e di poesia vestita in abiti da lavoro. Ancora una volta dobbiamo ricordare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:23;}">
+                <Coords points="201,1954 273,1952 345,1951 417,1954 490,1953 562,1952 634,1952 707,1950 779,1948 851,1950 924,1950 996,1947 1068,1946 1140,1948 1213,1946 1285,1950 1357,1944 1430,1946 1502,1944 1574,1944 1647,1944 1647,1893 1574,1893 1502,1893 1430,1895 1357,1893 1285,1899 1213,1895 1140,1897 1068,1895 996,1896 924,1899 851,1899 779,1897 707,1899 634,1901 562,1901 490,1902 417,1903 345,1900 273,1901 201,1903"/>
+                <Baseline points="201,1937 273,1935 345,1934 417,1937 490,1936 562,1935 634,1935 707,1933 779,1931 851,1933 924,1933 996,1930 1068,1929 1140,1931 1213,1929 1285,1933 1357,1927 1430,1929 1502,1927 1574,1927 1647,1927"/>
+                <TextEquiv>
+                    <Unicode>la "Voce" la rivista fiorentina, nata dalle ceneri calde di "Lacerba", futurista per così dire. Nel </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718117731035_1060" custom="readingOrder {index:24;}">
+                <Coords points="209,1974 1622,1966 1633,1966 1633,2016 1622,2016 209,2024"/>
+                <Baseline points="209,2019 1622,2011 1633,2011"/>
+                <TextEquiv>
+                    <Unicode>componimento citato poco prima, e in altri di eguale portata e calibro, gli ingredienti letterari</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>una qualità di morale, appunto a incominciare dall'ideologia nietzciana, che affondava,&#13;
+le sue radici in un concetto della Verità, che è uguale ad un concetto-dilemma della Bellezza.&#13;
+Carrà, più a fondo di Boccioni, recò alla legislazione futurista l'apporto di una cultura,&#13;
+divenuta mondo e regola di vita, appoggiati, guidati da un'educazione di tale genere.&#13;
+Una regola morale di vita estetica che indicava  un'adepto, della forte struttura di Carrà,&#13;
+a passare, con impavido pensiero, dalla frequentazione della "Gaia Scienza", di "Al di là&#13;
+del bene e del male", e dalle altre opere di Nietzche, ad un'ordinata lettura della Bibbia,&#13;
+in un'anticipata conoscenza delle "favole" del Vecchio Testamento. E poco dopo, ad una&#13;
+lettura, e quasi direi meditazione, fatta con animo ilare e ironico, dei dialoghi platonici. Per&#13;
+questa strada, abbastanza accidentata, il pittore e poeta, l'inventore, in certo modo, di&#13;
+miti platonici e figurativi: Carrà, doveva giungere allo studio, ad un'attiva conoscenza&#13;
+del Leopardi delle "Operette Morali". E' da non trascurare per la giusta intelligenza&#13;
+del lavoro:&#13;
+di Carrà&#13;
+del lavoro pittorico, oltre che critico e letterario, un profilo che abbia gli sviluppi&#13;
+e le curve di una costruzione intellettuale di tale complessiva, da riferirsi a dei cardini che&#13;
+si chiamano: Nietzche,&#13;
+il&#13;
+Vecchio Testamento, Platone, Leopardi.&#13;
+dentro gli scomparti creati da codesti pilastri, negli spazi ad essi interposti, andavano&#13;
+a collocarsi il frutto e il sugo di letture, di consumazioni fruite sul banco medesimo, in&#13;
+cui l'avventuroso Carrà tentava le sue prove come cantasse di prose liriche,di prose di medi_&#13;
+tazione e di poesia vestita in abiti da lavoro. Ancora una volta dobbiamo ricordare&#13;
+la "Voce" la rivista fiorentina, nata dalle ceneri calde di "Lacerba", futurista per così dire. Nel &#13;
+componimento citato poco prima, e in altri di eguale portata e calibro, gli ingredienti letterari</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

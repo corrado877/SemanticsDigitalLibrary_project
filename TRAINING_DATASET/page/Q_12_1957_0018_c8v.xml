@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:37:30.724+02:00</Created>
+        <LastChange>2024-06-21T10:25:39.903+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326071" pageNr="122" tsid="175603604" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=BWAXUZZPWYRHEECIFJGKJUFR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YTHVWUJZNZMFSPWPMXBJNTEH" imageId="54316487"/>
+    </Metadata>
+    <Page imageFilename="Q_12_1957_0018_c8v.jpg" imageWidth="1798" imageHeight="2523" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746081631" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="213,289 225,2089 1693,2086 1681,286"/>
+            <TextLine id="line_1716192933084_607" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="1569,319 1618,322 1615,372 1566,369"/>
+                <Baseline points="1566,364 1615,367"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="241,571 309,569 377,569 445,567 513,568 582,567 650,565 718,566 786,564 854,563 923,564 991,566 1059,567 1127,567 1195,563 1264,563 1332,563 1400,563 1468,561 1536,562 1605,565 1605,522 1536,519 1468,518 1400,520 1332,520 1264,520 1195,520 1127,524 1059,524 991,523 923,521 854,520 786,521 718,523 650,522 582,524 513,525 445,524 377,526 309,526 241,528"/>
+                <Baseline points="241,557 309,555 377,555 445,553 513,554 582,553 650,551 718,552 786,550 854,549 923,550 991,552 1059,553 1127,553 1195,549 1264,549 1332,549 1400,549 1468,547 1536,548 1605,551"/>
+                <TextEquiv>
+                    <Unicode>I clienti dormono. Lunghi mesi sono trascorsi, qui dentro, per il poeta di Parigi. Venuto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="233,655 303,650 373,647 443,647 513,645 584,645 654,643 724,642 794,639 864,639 935,639 1005,639 1075,639 1145,639 1215,637 1286,638 1356,638 1426,639 1496,640 1566,641 1637,641 1637,598 1566,598 1496,597 1426,596 1356,595 1286,595 1215,594 1145,596 1075,596 1005,596 935,596 864,596 794,596 724,599 654,600 584,602 513,602 443,604 373,604 303,607 233,612"/>
+                <Baseline points="233,641 303,636 373,633 443,633 513,631 584,631 654,629 724,628 794,625 864,625 935,625 1005,625 1075,625 1145,625 1215,623 1286,624 1356,624 1426,625 1496,626 1566,627 1637,627"/>
+                <TextEquiv>
+                    <Unicode>per passare qualche settimana, e per tenere un ciclo di conferenza, Baudelaire restò a Bru-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="229,725 300,725 372,721 443,721 515,719 586,719 658,717 729,717 801,717 872,715 944,715 1015,714 1087,715 1158,713 1230,711 1301,713 1373,712 1444,713 1516,715 1587,715 1659,719 1659,676 1587,672 1516,672 1444,670 1373,669 1301,670 1230,668 1158,670 1087,672 1015,671 944,672 872,672 801,674 729,674 658,674 586,676 515,676 443,678 372,678 300,682 229,682"/>
+                <Baseline points="229,711 300,711 372,707 443,707 515,705 586,705 658,703 729,703 801,703 872,701 944,701 1015,700 1087,701 1158,699 1230,697 1301,699 1373,698 1444,699 1516,701 1587,701 1659,705"/>
+                <TextEquiv>
+                    <Unicode>xelles, come un prigioniero volontario nella sua prigione. Come un esiliato. La tristezza: una tristez-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="233,799 304,799 375,797 446,794 517,793 589,790 660,793 731,791 802,794 873,793 945,791 1016,791 1087,787 1158,788 1229,790 1301,791 1372,794 1443,791 1514,797 1585,794 1657,795 1657,752 1585,751 1514,754 1443,748 1372,751 1301,748 1229,747 1158,745 1087,744 1016,748 945,748 873,750 802,751 731,748 660,750 589,747 517,750 446,751 375,754 304,756 233,756"/>
+                <Baseline points="233,785 304,785 375,783 446,780 517,779 589,776 660,779 731,777 802,780 873,779 945,777 1016,777 1087,773 1158,774 1229,776 1301,777 1372,780 1443,777 1514,783 1585,780 1657,781"/>
+                <TextEquiv>
+                    <Unicode>za invincibile, lo teneva legato, in una camera d'albergo. Ne usciva, nei pomeriggi, per cam-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="229,875 299,875 370,875 441,875 511,874 582,874 653,871 723,870 794,870 865,867 936,867 1006,867 1077,865 1148,865 1218,865 1289,863 1360,863 1430,867 1501,865 1572,868 1643,869 1643,826 1572,825 1501,822 1430,824 1360,820 1289,820 1218,822 1148,822 1077,822 1006,824 936,824 865,824 794,827 723,827 653,828 582,831 511,831 441,832 370,832 299,832 229,832"/>
+                <Baseline points="229,861 299,861 370,861 441,861 511,860 582,860 653,857 723,856 794,856 865,853 936,853 1006,853 1077,851 1148,851 1218,851 1289,849 1360,849 1430,853 1501,851 1572,854 1643,855"/>
+                <TextEquiv>
+                    <Unicode>minare un poco; per incontrare, al caffè inglese di Rue Villa-Hermosa, qualche conoscente, due</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="229,947 300,948 372,949 443,949 515,951 587,949 658,947 730,945 801,943 873,945 945,943 1016,943 1088,943 1159,942 1231,943 1303,941 1374,940 1446,939 1517,939 1589,938 1661,945 1661,902 1589,895 1517,896 1446,896 1374,897 1303,898 1231,900 1159,899 1088,900 1016,900 945,900 873,902 801,900 730,902 658,904 587,906 515,908 443,906 372,906 300,905 229,904"/>
+                <Baseline points="229,933 300,934 372,935 443,935 515,937 587,935 658,933 730,931 801,929 873,931 945,929 1016,929 1088,929 1159,928 1231,929 1303,927 1374,926 1446,925 1517,925 1589,924 1661,931"/>
+                <TextEquiv>
+                    <Unicode>o tre amici. Passò la primavera; passò l'estate; passò l'autunno; passò l'inverno. E incomin-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="235,1019 306,1018 378,1015 449,1017 521,1019 593,1017 664,1018 736,1017 807,1018 879,1017 951,1017 1022,1017 1094,1017 1165,1015 1237,1014 1309,1013 1380,1013 1452,1013 1523,1013 1595,1014 1667,1013 1667,983 1595,984 1523,983 1452,983 1380,983 1309,983 1237,984 1165,985 1094,987 1022,987 951,987 879,987 807,988 736,987 664,988 593,987 521,989 449,987 378,985 306,988 235,989"/>
+                <Baseline points="235,1009 306,1008 378,1005 449,1007 521,1009 593,1007 664,1008 736,1007 807,1008 879,1007 951,1007 1022,1007 1094,1007 1165,1005 1237,1004 1309,1003 1380,1003 1452,1003 1523,1003 1595,1004 1667,1003"/>
+                <TextEquiv>
+                    <Unicode>ciò un'altra primavera. Il freddo continuava, in primavera, dell'anno 1865. Baudelaire,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:8;} add {offset:0; length:15;place:above;}">
+                <Coords points="231,1057 258,1055 285,1057 312,1057 339,1058 366,1059 393,1060 420,1061 447,1061 447,1031 420,1031 393,1030 366,1029 339,1028 312,1027 285,1027 258,1025 231,1027"/>
+                <Baseline points="231,1047 258,1045 285,1047 312,1047 339,1048 366,1049 393,1050 420,1051 447,1051"/>
+                <TextEquiv>
+                    <Unicode>seduto da solo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716192962292_625" custom="readingOrder {index:9;}">
+                <Coords points="229,1044 1663,1046 1663,1096 229,1094"/>
+                <Baseline points="229,1089 1663,1091"/>
+                <TextEquiv>
+                    <Unicode>davanti alla stufa di ferro dell'albergo, pensava al caminetto lasciato a Parigi: o a quello,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:10;}">
+                <Coords points="233,1181 261,1181 289,1181 317,1181 345,1179 373,1177 401,1177 429,1175 457,1177 485,1174 513,1173 541,1173 569,1173 597,1172 625,1171 653,1171 681,1170 709,1169 737,1171 765,1173 793,1177 793,1134 765,1130 737,1128 709,1126 681,1127 653,1128 625,1128 597,1129 569,1130 541,1130 513,1130 485,1131 457,1134 429,1132 401,1134 373,1134 345,1136 317,1138 289,1138 261,1138 233,1138"/>
+                <Baseline points="233,1167 261,1167 289,1167 317,1167 345,1165 373,1163 401,1163 429,1161 457,1163 485,1160 513,1159 541,1159 569,1159 597,1158 625,1157 653,1157 681,1156 709,1155 737,1157 765,1159 793,1163"/>
+                <TextEquiv>
+                    <Unicode>alla casa della madre a Honfleur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716192939023_612" custom="readingOrder {index:11;} del {offset:68; length:7;rend:overstrike;} gap {offset:68; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="240,1200 1504,1194 1504,1244 240,1250"/>
+                <Baseline points="240,1245 1504,1239"/>
+                <TextEquiv>
+                    <Unicode>Qual'era la camera che occupò Baudelaire all'Hotel du Grand Miroir?        </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:12;} add {offset:0; length:7;place:above;}">
+                <Coords points="1399,1192 1425,1192 1451,1195 1477,1197 1518,1207 1518,1174 1477,1164 1451,1162 1425,1159 1399,1159"/>
+                <Baseline points="1399,1181 1425,1181 1451,1184 1477,1186 1514,1195"/>
+                <TextEquiv>
+                    <Unicode>Nessuno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716192942236_617" custom="readingOrder {index:13;}">
+                <Coords points="1515,1192 1666,1192 1666,1242 1515,1242"/>
+                <Baseline points="1515,1237 1666,1237"/>
+                <TextEquiv>
+                    <Unicode> se ne ricor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716192975788_633" custom="readingOrder {index:14;}">
+                <Coords points="232,1276 515,1278 515,1328 232,1326"/>
+                <Baseline points="232,1321 515,1323"/>
+                <TextEquiv>
+                    <Unicode>dava. Una di queste, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:15;} add {offset:0; length:10;place:above;}">
+                <Coords points="425,1277 454,1277 483,1277 512,1275 541,1275 570,1275 599,1275 599,1245 570,1245 541,1245 512,1245 483,1247 454,1247 425,1247"/>
+                <Baseline points="425,1267 454,1267 483,1267 512,1265 541,1265 570,1265 599,1265"/>
+                <TextEquiv>
+                    <Unicode>certamente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716192982026_638" custom="readingOrder {index:16;}">
+                <Coords points="528,1266 1649,1269 1649,1319 528,1316"/>
+                <Baseline points="528,1311 1649,1314"/>
+                <TextEquiv>
+                    <Unicode>tutte uguali, dove adesso dormono i viaggiatori, venuti per i loro affari, i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:17;} hi {offset:49; length:15;rend:underline;}">
+                <Coords points="243,1409 312,1405 382,1404 451,1403 521,1403 590,1403 660,1403 729,1403 799,1401 868,1399 938,1397 1007,1395 1077,1395 1146,1395 1216,1397 1285,1396 1355,1395 1424,1393 1494,1393 1563,1393 1633,1391 1633,1348 1563,1350 1494,1350 1424,1350 1355,1352 1285,1353 1216,1354 1146,1352 1077,1352 1007,1352 938,1354 868,1356 799,1358 729,1360 660,1360 590,1360 521,1360 451,1360 382,1361 312,1362 243,1366"/>
+                <Baseline points="243,1395 312,1391 382,1390 451,1389 521,1389 590,1389 660,1389 729,1389 799,1387 868,1385 938,1383 1007,1381 1077,1381 1146,1381 1216,1383 1285,1382 1355,1381 1424,1379 1494,1379 1563,1379 1633,1377"/>
+                <TextEquiv>
+                    <Unicode>turisti di passaggio. Le conferenze del poeta al Circle des Arts furono un disastro. Nella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:18;}">
+                <Coords points="235,1477 306,1477 378,1473 449,1473 521,1475 593,1473 664,1470 736,1469 807,1467 879,1467 951,1467 1022,1468 1094,1467 1165,1468 1237,1466 1309,1465 1380,1465 1452,1463 1523,1465 1595,1468 1667,1475 1667,1445 1595,1438 1523,1435 1452,1433 1380,1435 1309,1435 1237,1436 1165,1438 1094,1437 1022,1438 951,1437 879,1437 807,1437 736,1439 664,1440 593,1443 521,1445 449,1443 378,1443 306,1447 235,1447"/>
+                <Baseline points="235,1467 306,1467 378,1463 449,1463 521,1465 593,1463 664,1460 736,1459 807,1457 879,1457 951,1457 1022,1458 1094,1457 1165,1458 1237,1456 1309,1455 1380,1455 1452,1453 1523,1455 1595,1458 1667,1465"/>
+                <TextEquiv>
+                    <Unicode>prima, parò di Eugène Delacroix; nella seconda di Théophile Gantheir. Un testimonio, Ca-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716193535512_731" custom="readingOrder {index:19;}">
+                <Coords points="234,1504 960,1495 961,1545 235,1554"/>
+                <Baseline points="235,1549 961,1540"/>
+                <TextEquiv>
+                    <Unicode>mille Lemmonieur, ricorda questa ultima serata.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:20;} add {offset:0; length:92;place:above;}">
+                <Coords points="235,1517 302,1511 369,1510 437,1511 504,1509 572,1509 639,1504 706,1505 774,1505 841,1503 909,1502 976,1503 1043,1503 1111,1501 1178,1503 1246,1503 1313,1503 1380,1503 1448,1500 1515,1501 1583,1501 1583,1471 1515,1471 1448,1470 1380,1473 1313,1473 1246,1473 1178,1473 1111,1471 1043,1473 976,1473 909,1472 841,1473 774,1475 706,1475 639,1474 572,1479 504,1479 437,1481 369,1480 302,1481 235,1487"/>
+                <Baseline points="235,1507 302,1501 369,1500 437,1501 504,1499 572,1499 639,1494 706,1495 774,1495 841,1493 909,1492 976,1493 1043,1493 1111,1491 1178,1493 1246,1493 1313,1493 1380,1493 1448,1490 1515,1491 1583,1491"/>
+                <TextEquiv>
+                    <Unicode>Baudelaire leggeva, con voce calma, limpida, seduto al tavolino, davanti alla lampada a gas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716193537625_736" custom="readingOrder {index:21;}">
+                <Coords points="976,1495 1676,1499 1676,1549 976,1545"/>
+                <Baseline points="976,1540 1676,1544"/>
+                <TextEquiv>
+                    <Unicode>La sala, quasi vuota: forse venti, gli ascoltatori;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:22;}">
+                <Coords points="249,1633 318,1627 387,1627 457,1625 526,1623 596,1622 665,1621 734,1619 804,1619 873,1618 943,1617 1012,1619 1081,1618 1151,1617 1220,1617 1290,1618 1359,1616 1428,1615 1498,1618 1567,1619 1637,1621 1637,1591 1567,1589 1498,1588 1428,1585 1359,1586 1290,1588 1220,1587 1151,1587 1081,1588 1012,1589 943,1587 873,1588 804,1589 734,1589 665,1591 596,1592 526,1593 457,1595 387,1597 318,1597 249,1603"/>
+                <Baseline points="249,1623 318,1617 387,1617 457,1615 526,1613 596,1612 665,1611 734,1609 804,1609 873,1608 943,1607 1012,1609 1081,1608 1151,1607 1220,1607 1290,1608 1359,1606 1428,1605 1498,1608 1567,1609 1637,1611"/>
+                <TextEquiv>
+                    <Unicode>si ridussero, verso la fine, a due o tre. Baudelaire parlava, guardando le panche vuote, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716193662180_769" custom="readingOrder {index:23;}">
+                <Coords points="241,1658 329,1651 333,1701 245,1708"/>
+                <Baseline points="245,1703 333,1696"/>
+                <TextEquiv>
+                    <Unicode>fila. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:24;} add {offset:1; length:66;place:above;}">
+                <Coords points="231,1657 278,1657 325,1657 372,1655 419,1657 467,1655 514,1653 561,1652 608,1651 655,1650 703,1650 750,1649 797,1648 844,1649 891,1649 939,1649 986,1648 1033,1647 1080,1649 1127,1650 1175,1655 1175,1625 1127,1620 1080,1619 1033,1617 986,1618 939,1619 891,1619 844,1619 797,1618 750,1619 703,1620 655,1620 608,1621 561,1622 514,1623 467,1625 419,1627 372,1625 325,1627 278,1627 231,1627"/>
+                <Baseline points="231,1647 278,1647 325,1647 372,1645 419,1647 467,1645 514,1643 561,1642 608,1641 655,1640 703,1640 750,1639 797,1638 844,1639 891,1639 939,1639 986,1638 1033,1637 1080,1639 1127,1640 1175,1645"/>
+                <TextEquiv>
+                    <Unicode>La sua voce, ommutata, s'incrinava appena di un poco di stanchezza.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716193668719_774" custom="readingOrder {index:25;}">
+                <Coords points="344,1647 1668,1648 1668,1698 344,1697"/>
+                <Baseline points="344,1692 1668,1693"/>
+                <TextEquiv>
+                    <Unicode>Alla fine, si alzò, fece un triplice inchino al mondo assente. Raccolse, quieta-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716193780251_794" custom="readingOrder {index:26;}">
+                <Coords points="240,1732 1407,1733 1407,1783 240,1782"/>
+                <Baseline points="240,1777 1407,1778"/>
+                <TextEquiv>
+                    <Unicode>mente, le sue carte. L'usciere, dietro di lui, spense la luce nella sala. Il </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:27;} add {offset:0; length:97;place:above;}">
+                <Coords points="229,1751 299,1744 369,1743 439,1741 509,1739 579,1737 649,1739 719,1737 789,1735 859,1733 930,1734 1000,1733 1070,1733 1140,1731 1210,1731 1280,1729 1350,1729 1420,1731 1490,1734 1560,1736 1631,1739 1631,1696 1560,1693 1490,1691 1420,1688 1350,1686 1280,1686 1210,1688 1140,1688 1070,1690 1000,1690 930,1691 859,1690 789,1692 719,1694 649,1696 579,1694 509,1696 439,1698 369,1700 299,1701 229,1708"/>
+                <Baseline points="229,1737 299,1730 369,1729 439,1727 509,1725 579,1723 649,1725 719,1723 789,1721 859,1719 930,1720 1000,1719 1070,1719 1140,1717 1210,1717 1280,1715 1350,1715 1420,1717 1490,1720 1560,1722 1631,1725"/>
+                <TextEquiv>
+                    <Unicode>si videro, per un momento ancora, le sue mani, fuori dalle maniche bianche della camicia, tremare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716193782948_799" custom="readingOrder {index:28;}">
+                <Coords points="1431,1722 1670,1733 1667,1783 1428,1772"/>
+                <Baseline points="1436,1764 1667,1778"/>
+                <TextEquiv>
+                    <Unicode> insensibilmente.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:29;}">
+                <Coords points="245,1865 314,1859 384,1857 454,1853 524,1853 594,1853 663,1851 733,1851 803,1851 873,1849 943,1848 1012,1847 1082,1846 1152,1847 1222,1847 1292,1847 1361,1848 1431,1847 1501,1847 1571,1849 1641,1851 1641,1808 1571,1806 1501,1804 1431,1804 1361,1805 1292,1804 1222,1804 1152,1804 1082,1803 1012,1804 943,1805 873,1806 803,1808 733,1808 663,1808 594,1810 524,1810 454,1810 384,1814 314,1816 245,1822"/>
+                <Baseline points="245,1851 314,1845 384,1843 454,1839 524,1839 594,1839 663,1837 733,1837 803,1837 873,1835 943,1834 1012,1833 1082,1832 1152,1833 1222,1833 1292,1833 1361,1834 1431,1833 1501,1833 1571,1835 1641,1837"/>
+                <TextEquiv>
+                    <Unicode>poeta scese adagio le scale, illuminate male dalla fiammetta dentro la campana di vetro.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:30;}">
+                <Coords points="259,1933 329,1931 399,1928 469,1927 539,1927 610,1927 680,1927 750,1925 820,1927 890,1925 961,1926 1031,1929 1101,1928 1171,1928 1241,1925 1312,1923 1382,1922 1452,1921 1522,1922 1592,1924 1663,1925 1663,1882 1592,1881 1522,1879 1452,1878 1382,1879 1312,1880 1241,1882 1171,1885 1101,1885 1031,1886 961,1883 890,1882 820,1884 750,1882 680,1884 610,1884 539,1884 469,1884 399,1885 329,1888 259,1890"/>
+                <Baseline points="259,1919 329,1917 399,1914 469,1913 539,1913 610,1913 680,1913 750,1911 820,1913 890,1911 961,1912 1031,1915 1101,1914 1171,1914 1241,1911 1312,1909 1382,1908 1452,1907 1522,1908 1592,1910 1663,1911"/>
+                <TextEquiv>
+                    <Unicode>Fu nella Grand' Place. Al piano terreno, nel palazzo gotico dove aveva sede il Circolo, era-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716193016929_648" custom="readingOrder {index:31;}">
+                <Coords points="248,1958 1652,1952 1652,2002 248,2008"/>
+                <Baseline points="248,2003 1652,1997"/>
+                <TextEquiv>
+                    <Unicode>no, a quel tempo, dei negozi, degli uffici di sementi, di granaglie. E un grande magazzino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716193021156_653" custom="readingOrder {index:32;}">
+                <Coords points="244,2036 294,2036 294,2086 244,2086"/>
+                <Baseline points="244,2081 293,2080"/>
+                <TextEquiv>
+                    <Unicode>di </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716193023796_658" custom="readingOrder {index:33;}">
+                <Coords points="296,2004 348,2000 351,2050 299,2054"/>
+                <Baseline points="299,2049 351,2045"/>
+                <TextEquiv>
+                    <Unicode>un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716193027122_663" custom="readingOrder {index:34;}">
+                <Coords points="299,2031 1656,2033 1656,2083 299,2081"/>
+                <Baseline points="299,2076 1656,2078"/>
+                <TextEquiv>
+                    <Unicode>mercante di uccelli. Un incerto odore di campagna, usciva di là dentro, a un fruscio spento</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3.&#13;
+I clienti dormono. Lunghi mesi sono trascorsi, qui dentro, per il poeta di Parigi. Venuto&#13;
+per passare qualche settimana, e per tenere un ciclo di conferenza, Baudelaire restò a Bru-&#13;
+xelles, come un prigioniero volontario nella sua prigione. Come un esiliato. La tristezza: una tristez-&#13;
+za invincibile, lo teneva legato, in una camera d'albergo. Ne usciva, nei pomeriggi, per cam-&#13;
+minare un poco; per incontrare, al caffè inglese di Rue Villa-Hermosa, qualche conoscente, due&#13;
+o tre amici. Passò la primavera; passò l'estate; passò l'autunno; passò l'inverno. E incomin-&#13;
+ciò un'altra primavera. Il freddo continuava, in primavera, dell'anno 1865. Baudelaire,&#13;
+seduto da solo,&#13;
+davanti alla stufa di ferro dell'albergo, pensava al caminetto lasciato a Parigi: o a quello,&#13;
+alla casa della madre a Honfleur.&#13;
+Qual'era la camera che occupò Baudelaire all'Hotel du Grand Miroir?        &#13;
+Nessuno&#13;
+ se ne ricor-&#13;
+dava. Una di queste, &#13;
+certamente&#13;
+tutte uguali, dove adesso dormono i viaggiatori, venuti per i loro affari, i&#13;
+turisti di passaggio. Le conferenze del poeta al Circle des Arts furono un disastro. Nella&#13;
+prima, parò di Eugène Delacroix; nella seconda di Théophile Gantheir. Un testimonio, Ca-&#13;
+mille Lemmonieur, ricorda questa ultima serata.&#13;
+Baudelaire leggeva, con voce calma, limpida, seduto al tavolino, davanti alla lampada a gas.&#13;
+La sala, quasi vuota: forse venti, gli ascoltatori;&#13;
+si ridussero, verso la fine, a due o tre. Baudelaire parlava, guardando le panche vuote, in&#13;
+fila. &#13;
+La sua voce, ommutata, s'incrinava appena di un poco di stanchezza.&#13;
+Alla fine, si alzò, fece un triplice inchino al mondo assente. Raccolse, quieta-&#13;
+mente, le sue carte. L'usciere, dietro di lui, spense la luce nella sala. Il &#13;
+si videro, per un momento ancora, le sue mani, fuori dalle maniche bianche della camicia, tremare&#13;
+ insensibilmente.&#13;
+poeta scese adagio le scale, illuminate male dalla fiammetta dentro la campana di vetro.&#13;
+Fu nella Grand' Place. Al piano terreno, nel palazzo gotico dove aveva sede il Circolo, era-&#13;
+no, a quel tempo, dei negozi, degli uffici di sementi, di granaglie. E un grande magazzino&#13;
+di &#13;
+un&#13;
+mercante di uccelli. Un incerto odore di campagna, usciva di là dentro, a un fruscio spento</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

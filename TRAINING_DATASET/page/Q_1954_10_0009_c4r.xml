@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:23:18.630+02:00</Created>
+        <LastChange>2024-06-21T10:05:03.470+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326005" pageNr="90" tsid="175603572" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=VRYTMPMXSQNFOGJNSUWZSRHT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KZWESTIBRSCFKZLCSDFUSXKO" imageId="54296157"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_10_0009_c4r.jpg" imageWidth="1798" imageHeight="2427" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746074800" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="27,417 27,577 101,577 101,417"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="163,440 163,2053 1629,2053 1629,440"/>
+            <TextLine id="line_1715355503371_746" custom="readingOrder {index:0;}">
+                <Coords points="186,477 608,479 608,529 186,527"/>
+                <Baseline points="186,522 608,524"/>
+                <TextEquiv>
+                    <Unicode>rar caffè, pelli, gomma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="563,477 591,479 620,481 648,481 677,483 677,446 648,444 620,444 591,442 563,440"/>
+                <Baseline points="563,465 591,467 620,469 648,469 677,471"/>
+                <TextEquiv>
+                    <Unicode>avorio,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715355517155_752" custom="readingOrder {index:2;}">
+                <Coords points="615,484 1565,479 1565,529 615,534"/>
+                <Baseline points="615,529 1565,524"/>
+                <TextEquiv>
+                    <Unicode>ecc. Ha deciso di fondare un’agenzia in codesta regione.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="163,607 235,606 307,605 379,605 451,604 524,605 596,603 668,605 740,603 812,603 885,601 957,602 1029,601 1101,602 1173,604 1246,603 1318,600 1390,599 1462,602 1534,606 1607,611 1607,562 1534,557 1462,553 1390,550 1318,551 1246,554 1173,555 1101,553 1029,552 957,553 885,552 812,554 740,554 668,556 596,554 524,556 451,555 379,556 307,556 235,557 163,558"/>
+                <Baseline points="163,591 235,590 307,589 379,589 451,588 524,589 596,587 668,589 740,587 812,587 885,585 957,586 1029,585 1101,586 1173,588 1246,587 1318,584 1390,583 1462,586 1534,590 1607,595"/>
+                <TextEquiv>
+                    <Unicode>Monsieur Barbey l’offre a Rimbaud, con uno stipendio di 330 franchi mensili, più</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="179,681 250,683 321,683 393,682 464,683 536,681 607,682 678,681 750,679 821,678 893,679 964,679 1035,677 1107,675 1178,675 1250,676 1321,675 1392,675 1464,677 1535,679 1607,683 1607,634 1535,630 1464,628 1392,626 1321,626 1250,627 1178,626 1107,626 1035,628 964,630 893,630 821,629 750,630 678,632 607,633 536,632 464,634 393,633 321,634 250,634 179,632"/>
+                <Baseline points="179,665 250,667 321,667 393,666 464,667 536,665 607,666 678,665 750,663 821,662 893,663 964,663 1035,661 1107,659 1178,659 1250,660 1321,659 1392,659 1464,661 1535,663 1607,667"/>
+                <TextEquiv>
+                    <Unicode>il vitto, le spese di viaggio. Il contratto durerà tre anni. In vista di questa sistemazione, e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="171,767 243,761 316,760 389,760 462,757 535,756 607,755 680,755 753,755 826,754 899,755 971,755 1044,752 1117,751 1190,749 1263,750 1335,749 1408,749 1481,751 1554,751 1627,755 1627,706 1554,702 1481,702 1408,700 1335,700 1263,701 1190,700 1117,702 1044,703 971,706 899,706 826,705 753,706 680,706 607,706 535,707 462,708 389,711 316,711 243,712 171,718"/>
+                <Baseline points="171,751 243,745 316,744 389,744 462,741 535,740 607,739 680,739 753,739 826,738 899,739 971,739 1044,736 1117,735 1190,733 1263,734 1335,733 1408,733 1481,735 1554,735 1627,739"/>
+                <TextEquiv>
+                    <Unicode>del campo di lavoro assai vasto che gli si apre, Rimbaud sollecita dalla famiglia l’invio dei fa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="169,841 238,839 308,835 378,833 448,831 518,831 588,831 657,832 727,831 797,832 867,831 937,829 1007,830 1077,831 1146,831 1216,831 1286,833 1356,831 1426,832 1496,831 1631,832 1631,783 1496,782 1426,783 1356,782 1286,784 1216,782 1146,782 1077,782 1007,781 937,780 867,782 797,783 727,782 657,783 588,782 518,782 448,782 378,784 308,786 238,790 169,792"/>
+                <Baseline points="169,825 238,823 308,819 378,817 448,815 518,815 588,815 657,816 727,815 797,816 867,815 937,813 1007,814 1077,815 1146,815 1216,815 1286,817 1356,815 1426,816 1496,815 1630,822"/>
+                <TextEquiv>
+                    <Unicode>mosi libri tecnici. I suoi “nuovi autori"! Dell’editore Lacroix, rue des Saints-Pères, à Paris: &lt;lb/&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715355531839_764" custom="readingOrder {index:7;} hi {offset:0; length:22;rend:underline;}">
+                <Coords points="212,867 685,863 685,913 212,917"/>
+                <Baseline points="212,912 685,908"/>
+                <TextEquiv>
+                    <Unicode>Traité de Métallurgie, 4 fr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;} hi {offset:0; length:31;rend:underline;}">
+                <Coords points="201,993 234,989 267,989 301,987 334,987 368,986 401,985 434,985 468,985 501,985 535,985 568,983 601,985 635,983 668,984 702,984 735,985 768,986 802,988 835,987 869,987 869,938 835,938 802,939 768,937 735,936 702,935 668,935 635,934 601,936 568,934 535,936 501,936 468,936 434,936 401,936 368,937 334,938 301,938 267,940 234,940 201,944"/>
+                <Baseline points="201,977 234,973 267,973 301,971 334,971 368,970 401,969 434,969 468,969 501,969 535,969 568,967 601,969 635,967 668,968 702,968 735,969 768,970 802,972 835,971 869,971"/>
+                <TextEquiv>
+                    <Unicode>Hydraulique urbaine et agricole, 3 fr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;} hi {offset:0; length:30;rend:underline;}">
+                <Coords points="207,1063 241,1063 276,1063 311,1062 346,1059 381,1061 416,1061 451,1059 486,1059 521,1059 556,1059 590,1059 625,1061 660,1061 695,1061 730,1062 765,1060 800,1063 835,1064 870,1060 905,1059 905,1010 870,1011 835,1015 800,1014 765,1011 730,1013 695,1012 660,1012 625,1012 590,1010 556,1010 521,1010 486,1010 451,1010 416,1012 381,1012 346,1010 311,1013 276,1014 241,1014 207,1014"/>
+                <Baseline points="207,1047 241,1047 276,1047 311,1046 346,1043 381,1045 416,1045 451,1043 486,1043 521,1043 556,1043 590,1043 625,1045 660,1045 695,1045 730,1046 765,1044 800,1047 835,1048 870,1044 905,1043"/>
+                <TextEquiv>
+                    <Unicode>Commandant de navires à vapeur, 5 fr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;} hi {offset:0; length:19;rend:underline;}">
+                <Coords points="205,1131 231,1131 257,1132 283,1133 309,1134 335,1135 361,1135 387,1133 413,1135 440,1137 466,1137 492,1137 518,1137 544,1138 570,1141 596,1143 622,1143 648,1143 675,1145 675,1096 648,1094 622,1094 596,1094 570,1092 544,1089 518,1088 492,1088 466,1088 440,1088 413,1086 387,1084 361,1086 335,1086 309,1085 283,1084 257,1083 231,1082 205,1082"/>
+                <Baseline points="205,1115 231,1115 257,1116 283,1117 309,1118 335,1119 361,1119 387,1117 413,1119 440,1121 466,1121 492,1121 518,1121 544,1122 570,1125 596,1127 622,1127 648,1127 675,1129"/>
+                <TextEquiv>
+                    <Unicode>Architecture navale, 3 fr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;} hi {offset:0; length:20;rend:underline;}">
+                <Coords points="211,1215 237,1213 263,1213 289,1213 315,1213 341,1213 367,1213 393,1213 419,1214 445,1215 471,1215 497,1215 523,1215 549,1216 575,1216 601,1215 627,1214 653,1213 679,1213 679,1164 653,1164 627,1165 601,1166 575,1167 549,1167 523,1166 497,1166 471,1166 445,1166 419,1165 393,1164 367,1164 341,1164 315,1164 289,1164 263,1164 237,1164 211,1166"/>
+                <Baseline points="211,1199 237,1197 263,1197 289,1197 315,1197 341,1197 367,1197 393,1197 419,1198 445,1199 471,1199 497,1199 523,1199 549,1200 575,1200 601,1199 627,1198 653,1197 679,1197"/>
+                <TextEquiv>
+                    <Unicode>Poudres et Salpêtres, 5 fr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;} hi {offset:0; length:11;rend:underline;}">
+                <Coords points="205,1289 231,1287 257,1288 283,1289 309,1289 335,1289 361,1289 388,1289 414,1289 440,1292 466,1293 492,1293 518,1292 544,1292 571,1295 571,1246 544,1243 518,1243 492,1244 466,1244 440,1243 414,1240 388,1240 361,1240 335,1240 309,1240 283,1240 257,1239 231,1238 205,1240"/>
+                <Baseline points="205,1273 231,1271 257,1272 283,1273 309,1273 335,1273 361,1273 388,1273 414,1273 440,1276 466,1277 492,1277 518,1276 544,1276 571,1279"/>
+                <TextEquiv>
+                    <Unicode>Mineralogie, 10 fr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;} hi {offset:0; length:10;rend:underline;} gap {offset:16; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="205,1369 235,1365 265,1365 296,1365 326,1365 357,1365 387,1365 417,1365 448,1365 478,1365 509,1365 539,1367 569,1367 600,1369 630,1369 661,1367 691,1369 721,1369 752,1371 782,1371 813,1371 813,1322 782,1322 752,1322 721,1320 691,1320 661,1318 630,1320 600,1320 569,1318 539,1318 509,1316 478,1316 448,1316 417,1316 387,1316 357,1316 326,1316 296,1316 265,1316 235,1316 205,1320"/>
+                <Baseline points="205,1353 235,1349 265,1349 296,1349 326,1349 357,1349 387,1349 417,1349 448,1349 478,1349 509,1349 539,1351 569,1351 600,1353 630,1353 661,1351 691,1353 721,1353 752,1355 782,1355 813,1355"/>
+                <TextEquiv>
+                    <Unicode>Maçonnerie, par Denanet 6 fr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715355549391_779" custom="readingOrder {index:14;} hi {offset:0; length:30;rend:underline;}">
+                <Coords points="190,1394 1630,1390 1630,1440 190,1444"/>
+                <Baseline points="190,1439 1630,1435"/>
+                <TextEquiv>
+                    <Unicode>Livre de poche du Charpentier, 6 fr. Ai quali bisogna aggiungere, dalla Librairie Ro-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:15;}">
+                <Coords points="187,1521 222,1521 257,1522 257,1473 222,1472 187,1472"/>
+                <Baseline points="187,1505 222,1505 257,1506"/>
+                <TextEquiv>
+                    <Unicode>ret:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:16;} hi {offset:0; length:17;rend:underline;}">
+                <Coords points="211,1593 237,1591 264,1593 290,1593 317,1592 343,1591 370,1592 397,1593 423,1593 450,1595 476,1595 503,1595 529,1595 556,1597 583,1601 583,1552 556,1548 529,1546 503,1546 476,1546 450,1546 423,1544 397,1544 370,1543 343,1542 317,1543 290,1544 264,1544 237,1542 211,1544"/>
+                <Baseline points="211,1577 237,1575 264,1577 290,1577 317,1576 343,1575 370,1576 397,1577 423,1577 450,1579 476,1579 503,1579 529,1579 556,1581 583,1585"/>
+                <TextEquiv>
+                    <Unicode>Manuel du Charton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:17;} hi {offset:0; length:17;rend:underline;}">
+                <Coords points="203,1667 229,1664 255,1666 281,1666 307,1666 333,1667 359,1667 386,1667 412,1669 438,1671 464,1671 490,1671 516,1671 542,1671 569,1673 569,1624 542,1622 516,1622 490,1622 464,1622 438,1622 412,1620 386,1618 359,1618 333,1618 307,1617 281,1617 255,1617 229,1615 203,1618"/>
+                <Baseline points="203,1651 229,1648 255,1650 281,1650 307,1650 333,1651 359,1651 386,1651 412,1653 438,1655 464,1655 490,1655 516,1655 542,1655 569,1657"/>
+                <TextEquiv>
+                    <Unicode>Manuel du Vanneur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:18;} hi {offset:0; length:20;rend:underline;}">
+                <Coords points="211,1743 242,1743 273,1745 304,1747 335,1747 367,1747 398,1747 429,1748 460,1750 491,1749 523,1749 554,1748 585,1747 616,1746 647,1745 679,1746 710,1746 741,1746 772,1747 803,1746 835,1749 835,1700 803,1697 772,1698 741,1697 710,1697 679,1697 647,1696 616,1697 585,1698 554,1699 523,1700 491,1700 460,1701 429,1699 398,1698 367,1698 335,1698 304,1698 273,1696 242,1694 211,1694"/>
+                <Baseline points="211,1727 242,1727 273,1729 304,1731 335,1731 367,1731 398,1731 429,1732 460,1734 491,1733 523,1733 554,1732 585,1731 616,1730 647,1729 679,1730 710,1730 741,1730 772,1731 803,1730 835,1733"/>
+                <TextEquiv>
+                    <Unicode>Le parfait Scrivrier, par Berthant.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:19;} hi {offset:0; length:23;rend:underline;} hi {offset:62; length:23;rend:underline;}">
+                <Coords points="205,1825 276,1823 347,1821 418,1821 489,1821 560,1820 631,1823 702,1821 773,1820 844,1819 915,1818 986,1815 1057,1815 1128,1815 1199,1815 1270,1817 1341,1819 1412,1817 1483,1818 1554,1819 1625,1819 1625,1770 1554,1770 1483,1769 1412,1768 1341,1770 1270,1768 1199,1766 1128,1766 1057,1766 986,1766 915,1769 844,1770 773,1771 702,1772 631,1774 560,1771 489,1772 418,1772 347,1772 276,1774 205,1776"/>
+                <Baseline points="205,1809 276,1807 347,1805 418,1805 489,1805 560,1804 631,1807 702,1805 773,1804 844,1803 915,1802 986,1799 1057,1799 1128,1799 1199,1799 1270,1801 1341,1803 1412,1801 1483,1802 1554,1803 1625,1803"/>
+                <TextEquiv>
+                    <Unicode>Exploritation des Mines, par J. E. Blanc. E ancora i Manuali: du Verrier, du Brique- </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:20;} hi {offset:0; length:79;rend:underline;}">
+                <Coords points="171,1899 243,1899 315,1897 387,1895 459,1896 532,1897 604,1897 676,1897 748,1895 820,1894 893,1893 965,1893 1037,1893 1109,1893 1181,1892 1254,1889 1326,1889 1398,1890 1470,1889 1542,1892 1615,1893 1615,1844 1542,1843 1470,1840 1398,1841 1326,1840 1254,1840 1181,1843 1109,1844 1037,1844 965,1844 893,1844 820,1845 748,1846 676,1848 604,1848 532,1848 459,1847 387,1846 315,1848 243,1850 171,1850"/>
+                <Baseline points="171,1883 243,1883 315,1881 387,1879 459,1880 532,1881 604,1881 676,1881 748,1879 820,1878 893,1877 965,1877 1037,1877 1109,1877 1181,1876 1254,1873 1326,1873 1398,1874 1470,1873 1542,1876 1615,1877"/>
+                <TextEquiv>
+                    <Unicode>tier, du Faïencier et Potierz, du Fondeur en tous métanor, du Fabricant de bon-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:21;} hi {offset:0; length:4;rend:underline;} hi {offset:11; length:19;rend:underline;}">
+                <Coords points="185,1981 256,1982 328,1979 399,1973 471,1973 543,1971 614,1972 686,1969 757,1967 829,1969 901,1967 972,1967 1044,1967 1115,1967 1187,1967 1259,1967 1330,1969 1402,1967 1473,1969 1545,1971 1617,1973 1617,1924 1545,1922 1473,1920 1402,1918 1330,1920 1259,1918 1187,1918 1115,1918 1044,1918 972,1918 901,1918 829,1920 757,1918 686,1920 614,1923 543,1922 471,1924 399,1924 328,1930 256,1933 185,1932"/>
+                <Baseline points="185,1965 256,1966 328,1963 399,1957 471,1957 543,1955 614,1956 686,1953 757,1951 829,1953 901,1951 972,1951 1044,1951 1115,1951 1187,1951 1259,1951 1330,1953 1402,1951 1473,1953 1545,1955 1617,1957"/>
+                <TextEquiv>
+                    <Unicode>gies. E la Guide de l’armarier. Come si vede, tutto l’armamentario occorrente al pio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:22;}">
+                <Coords points="183,2053 254,2053 326,2049 398,2049 470,2046 542,2045 614,2046 686,2047 758,2047 830,2047 902,2043 973,2045 1045,2043 1117,2043 1189,2043 1261,2047 1333,2042 1405,2043 1477,2045 1549,2047 1621,2049 1621,2000 1549,1998 1477,1996 1405,1994 1333,1993 1261,1998 1189,1994 1117,1994 1045,1994 973,1996 902,1994 830,1998 758,1998 686,1998 614,1997 542,1996 470,1997 398,2000 326,2000 254,2004 183,2004"/>
+                <Baseline points="183,2037 254,2037 326,2033 398,2033 470,2030 542,2029 614,2030 686,2031 758,2031 830,2031 902,2027 973,2029 1045,2027 1117,2027 1189,2027 1261,2031 1333,2026 1405,2027 1477,2029 1549,2031 1621,2033"/>
+                <TextEquiv>
+                    <Unicode>niere, all’esploratore, al colonizzatore. Al portatore della civiltà di tipo europeo. Chi si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rar caffè, pelli, gomma&#13;
+avorio,&#13;
+ecc. Ha deciso di fondare un’agenzia in codesta regione.&#13;
+Monsieur Barbey l’offre a Rimbaud, con uno stipendio di 330 franchi mensili, più&#13;
+il vitto, le spese di viaggio. Il contratto durerà tre anni. In vista di questa sistemazione, e&#13;
+del campo di lavoro assai vasto che gli si apre, Rimbaud sollecita dalla famiglia l’invio dei fa-&#13;
+mosi libri tecnici. I suoi “nuovi autori"! Dell’editore Lacroix, rue des Saints-Pères, à Paris: &lt;lb/&gt;&#13;
+Traité de Métallurgie, 4 fr.&#13;
+Hydraulique urbaine et agricole, 3 fr.&#13;
+Commandant de navires à vapeur, 5 fr.&#13;
+Architecture navale, 3 fr.&#13;
+Poudres et Salpêtres, 5 fr.&#13;
+Mineralogie, 10 fr.&#13;
+Maçonnerie, par Denanet 6 fr.&#13;
+Livre de poche du Charpentier, 6 fr. Ai quali bisogna aggiungere, dalla Librairie Ro-&#13;
+ret:&#13;
+Manuel du Charton&#13;
+Manuel du Vanneur&#13;
+Le parfait Scrivrier, par Berthant.&#13;
+Exploritation des Mines, par J. E. Blanc. E ancora i Manuali: du Verrier, du Brique- &#13;
+tier, du Faïencier et Potierz, du Fondeur en tous métanor, du Fabricant de bon-&#13;
+gies. E la Guide de l’armarier. Come si vede, tutto l’armamentario occorrente al pio-&#13;
+niere, all’esploratore, al colonizzatore. Al portatore della civiltà di tipo europeo. Chi si</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

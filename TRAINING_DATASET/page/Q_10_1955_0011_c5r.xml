@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:49:00.734+02:00</Created>
+        <LastChange>2024-06-20T10:47:49.783+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326077" pageNr="134" tsid="175603630" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=JHBIZZXGSAULAHEYIXAAJKKP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HBJUMLWNKIAIYVOXABMUHTQO" imageId="54317604"/>
+    </Metadata>
+    <Page imageFilename="Q_10_1955_0011_c5r.jpg" imageWidth="1798" imageHeight="2324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746083919" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="190,190 190,2036 1660,2036 1660,190"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:22;rend:center;}">
+                <Coords points="983,225 1009,223 1064,232 1091,231 1117,229 1143,227 1170,226 1196,226 1223,224 1249,224 1275,224 1302,224 1328,223 1354,222 1381,222 1407,222 1434,220 1434,190 1407,192 1381,192 1354,192 1328,193 1302,194 1275,194 1249,194 1223,194 1196,196 1170,196 1143,197 1117,199 1091,201 1060,193 1025,188 995,193"/>
+                <Baseline points="991,218 1038,222 1064,222 1091,221 1117,219 1143,217 1170,216 1196,216 1223,214 1249,214 1275,214 1302,214 1328,213 1354,212 1381,212 1407,212 1434,210"/>
+                <TextEquiv>
+                    <Unicode>La valigia delle Indie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} hi {offset:0; length:18;rend:underline;}">
+                <Coords points="630,262 656,262 682,263 708,264 734,264 760,263 786,262 812,260 839,260 865,258 891,257 917,256 943,256 969,256 995,255 1022,250 1022,220 995,225 969,226 943,226 917,226 891,227 865,228 839,230 812,230 786,232 760,233 734,234 708,234 682,233 656,232 630,232"/>
+                <Baseline points="630,252 656,252 682,253 708,254 734,254 760,253 786,252 812,250 839,250 865,248 891,247 917,246 943,246 969,246 995,245 1022,240"/>
+                <TextEquiv>
+                    <Unicode>Ricordo delle rime</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715591368836_191" custom="readingOrder {index:2;}">
+                <Coords points="213,464 931,460 931,510 213,514"/>
+                <Baseline points="213,509 931,505"/>
+                <TextEquiv>
+                    <Unicode>Non si trattava che di un mediocre filone </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715591372174_196" custom="readingOrder {index:3;} add {offset:0; length:10;place:above;}">
+                <Coords points="825,395 985,391 986,441 826,445"/>
+                <Baseline points="826,440 986,436"/>
+                <TextEquiv>
+                    <Unicode>di oggetto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:4;} add {offset:0; length:13;place:above;}">
+                <Coords points="916,384 943,386 970,386 997,385 1024,385 1051,385 1078,384 1105,385 1132,386 1160,390 1160,359 1132,355 1105,354 1078,353 1051,354 1024,354 997,354 970,355 943,355 916,353"/>
+                <Baseline points="916,374 943,376 970,376 997,375 1024,375 1051,375 1078,374 1105,375 1132,376 1160,380"/>
+                <TextEquiv>
+                    <Unicode>smaccatamente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715591390444_201" custom="readingOrder {index:5;} add {offset:0; length:9;place:above;}">
+                <Coords points="995,389 1155,397 1153,447 993,439"/>
+                <Baseline points="993,434 1153,442"/>
+                <TextEquiv>
+                    <Unicode>medievale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715591393214_206" custom="readingOrder {index:6;} del {offset:0; length:14;rend:overstrike;}">
+                <Coords points="944,455 1171,462 1170,512 943,505"/>
+                <Baseline points="943,500 1170,507"/>
+                <TextEquiv>
+                    <Unicode>sulle crociate ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715591395363_211" custom="readingOrder {index:7;} add {offset:0; length:3;place:above;}">
+                <Coords points="1194,406 1258,415 1251,465 1187,456"/>
+                <Baseline points="1188,451 1252,460"/>
+                <TextEquiv>
+                    <Unicode>con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715591397556_216" custom="readingOrder {index:8;} del {offset:0; length:2;rend:overstrike;} gap {offset:0; length:0;quantity:2; reason:illegible;}">
+                <Coords points="1175,457 1624,453 1624,503 1175,507"/>
+                <Baseline points="1175,502 1624,498"/>
+                <TextEquiv>
+                    <Unicode>   qualche personaggio storico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589045384_20" custom="readingOrder {index:9;}">
+                <Coords points="187,543 552,541 552,591 187,593"/>
+                <Baseline points="187,588 552,586"/>
+                <TextEquiv>
+                    <Unicode>o di leggenda inglese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589048361_25" custom="readingOrder {index:10;} add {offset:0; length:22;place:above;}">
+                <Coords points="358,502 664,498 665,548 359,552"/>
+                <Baseline points="359,547 665,543"/>
+                <TextEquiv>
+                    <Unicode>brettone o nibelingica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589056892_30" custom="readingOrder {index:11;}">
+                <Coords points="581,535 1655,529 1655,579 549,589"/>
+                <Baseline points="557,583 1655,574"/>
+                <TextEquiv>
+                    <Unicode> Tra gli attori, un'attrice americana, celebre per bellezza, che qui in-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589065365_38" custom="readingOrder {index:12;}">
+                <Coords points="197,617 1035,614 1035,664 197,667"/>
+                <Baseline points="197,662 1035,659"/>
+                <TextEquiv>
+                    <Unicode>terpretava una regina o principessa: il volto ovale,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:13;} add {offset:0; length:18;place:above;}">
+                <Coords points="984,614 1009,612 1034,612 1060,612 1085,612 1110,612 1136,612 1161,612 1187,612 1212,613 1237,614 1263,613 1288,612 1314,614 1314,584 1288,582 1263,583 1237,584 1212,583 1187,582 1161,582 1136,582 1110,582 1085,582 1060,582 1034,582 1009,582 984,584"/>
+                <Baseline points="984,604 1009,602 1034,602 1060,602 1085,602 1110,602 1136,602 1161,602 1187,602 1212,603 1237,604 1263,603 1288,602 1314,604"/>
+                <TextEquiv>
+                    <Unicode>pallido e marmoreo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589070143_43" custom="readingOrder {index:14;}">
+                <Coords points="1054,604 1653,604 1653,654 1054,654"/>
+                <Baseline points="1054,649 1653,649"/>
+                <TextEquiv>
+                    <Unicode>racchiuso dentro bende e fascie. Met-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589080518_54" custom="readingOrder {index:15;} del {offset:51; length:7;rend:overstrike;} gap {offset:51; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="203,697 1186,680 1187,730 204,747"/>
+                <Baseline points="204,742 1187,725"/>
+                <TextEquiv>
+                    <Unicode>tiamo che poteva raffigurare Isotta, o non so chi.        </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:16;} add {offset:0; length:20;place:above;}">
+                <Coords points="1060,694 1085,689 1110,689 1135,690 1160,689 1185,688 1211,688 1236,686 1261,686 1286,686 1311,686 1336,686 1362,686 1362,656 1336,656 1311,656 1286,656 1261,656 1236,656 1211,658 1185,658 1160,659 1135,660 1110,659 1085,659 1060,664"/>
+                <Baseline points="1060,684 1085,679 1110,679 1135,680 1160,679 1185,678 1211,678 1236,676 1261,676 1286,676 1311,676 1336,676 1362,676"/>
+                <TextEquiv>
+                    <Unicode>Si usciva dalla sala</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589082860_59" custom="readingOrder {index:17;}">
+                <Coords points="1200,677 1631,675 1631,725 1200,727"/>
+                <Baseline points="1200,722 1631,720"/>
+                <TextEquiv>
+                    <Unicode>dalla sala, e sbattendo la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589086985_64" custom="readingOrder {index:18;}">
+                <Coords points="203,771 277,771 291,833 203,821"/>
+                <Baseline points="203,816 288,819"/>
+                <TextEquiv>
+                    <Unicode>porta,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:19;} add {offset:0; length:7;place:above;}">
+                <Coords points="234,780 262,780 291,778 320,780 320,750 291,748 262,750 234,750"/>
+                <Baseline points="234,770 262,770 291,768 320,770"/>
+                <TextEquiv>
+                    <Unicode>a vetri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589090171_69" custom="readingOrder {index:20;}">
+                <Coords points="293,768 1647,758 1647,808 293,818"/>
+                <Baseline points="293,813 1647,803"/>
+                <TextEquiv>
+                    <Unicode>mentre ancora crepitava la macchina nella cabina di legno: -" Sai chi mi ri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589100475_77" custom="readingOrder {index:21;}">
+                <Coords points="191,846 626,838 627,888 192,896"/>
+                <Baseline points="192,891 627,883"/>
+                <TextEquiv>
+                    <Unicode>corda?"- disse un amico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715592077466_341" custom="readingOrder {index:22;} add {offset:0; length:11;place:above;}">
+                <Coords points="554,800 703,799 703,849 554,850"/>
+                <Baseline points="554,845 703,844"/>
+                <TextEquiv>
+                    <Unicode>a proposito</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715592045056_323" custom="readingOrder {index:23;}">
+                <Coords points="641,838 946,838 946,888 641,888"/>
+                <Baseline points="641,883 946,883"/>
+                <TextEquiv>
+                    <Unicode>della bella regina.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715592080668_346" custom="readingOrder {index:24;} add {offset:0; length:16;place:above;}">
+                <Coords points="772,793 987,798 986,848 771,843"/>
+                <Baseline points="771,838 986,843"/>
+                <TextEquiv>
+                    <Unicode>in bende e veli.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715592052703_328" custom="readingOrder {index:25;}">
+                <Coords points="953,837 1655,831 1655,881 953,887"/>
+                <Baseline points="953,882 1655,876"/>
+                <TextEquiv>
+                    <Unicode>_ "Margherita di Brabante, se non sba-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:26;}">
+                <Coords points="204,974 275,974 347,972 419,969 490,967 562,966 634,965 705,964 777,961 849,961 921,958 992,957 1064,954 1136,956 1207,955 1279,954 1351,954 1422,954 1494,954 1566,954 1638,952 1638,921 1566,923 1494,923 1422,923 1351,923 1279,923 1207,924 1136,925 1064,923 992,926 921,927 849,930 777,930 705,933 634,934 562,935 490,936 419,938 347,941 275,943 204,943"/>
+                <Baseline points="204,964 275,964 347,962 419,959 490,957 562,956 634,955 705,954 777,951 849,951 921,948 992,947 1064,944 1136,946 1207,945 1279,944 1351,944 1422,944 1494,944 1566,944 1638,942"/>
+                <TextEquiv>
+                    <Unicode>glio; la moglie di Arrigo Settimo; nella scultura, nella tomba scolpita da Giovanni Pi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:27;}">
+                <Coords points="202,1052 272,1050 343,1046 414,1044 484,1043 555,1042 626,1040 696,1039 767,1037 838,1036 909,1034 979,1034 1050,1030 1121,1031 1191,1028 1262,1026 1333,1027 1403,1026 1474,1028 1545,1026 1616,1030 1616,1000 1545,996 1474,998 1403,996 1333,997 1262,996 1191,998 1121,1001 1050,1000 979,1004 909,1004 838,1006 767,1007 696,1009 626,1010 555,1012 484,1013 414,1014 343,1016 272,1020 202,1022"/>
+                <Baseline points="202,1042 272,1040 343,1036 414,1034 484,1033 555,1032 626,1030 696,1029 767,1027 838,1026 909,1024 979,1024 1050,1020 1121,1021 1191,1018 1262,1016 1333,1017 1403,1016 1474,1018 1545,1016 1616,1020"/>
+                <TextEquiv>
+                    <Unicode>sano."- Con gli amici, si percorse il tratto di viale, coperto dalle pesanti verdure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589116810_90" custom="readingOrder {index:28;}">
+                <Coords points="199,1070 1271,1055 1272,1105 200,1120"/>
+                <Baseline points="200,1115 1272,1100"/>
+                <TextEquiv>
+                    <Unicode>degli ippocastani, che ne fanno come un tunnel fresco e odoroso </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:29;}">
+                <Coords points="990,1072 1015,1071 1041,1070 1067,1068 1093,1068 1119,1068 1145,1065 1171,1065 1197,1066 1223,1066 1248,1064 1274,1064 1300,1064 1326,1064 1352,1064 1378,1064 1404,1064 1430,1064 1456,1064 1456,1034 1430,1034 1404,1034 1378,1034 1352,1034 1326,1034 1300,1034 1274,1034 1248,1034 1223,1036 1197,1036 1171,1035 1145,1035 1119,1038 1093,1038 1067,1038 1041,1040 1015,1041 990,1042"/>
+                <Baseline points="990,1062 1015,1061 1041,1060 1067,1058 1093,1058 1119,1058 1145,1055 1171,1055 1197,1056 1223,1056 1248,1054 1274,1054 1300,1054 1326,1054 1352,1054 1378,1054 1404,1054 1430,1054 1456,1054"/>
+                <TextEquiv>
+                    <Unicode>fino a due passi da casa mia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589120248_95" custom="readingOrder {index:30;}">
+                <Coords points="1283,1059 1645,1061 1645,1111 1283,1109"/>
+                <Baseline points="1283,1104 1645,1106"/>
+                <TextEquiv>
+                    <Unicode>. Mi ronzava in capo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589129144_103" custom="readingOrder {index:31;}">
+                <Coords points="201,1150 626,1145 627,1195 202,1200"/>
+                <Baseline points="202,1195 627,1190"/>
+                <TextEquiv>
+                    <Unicode>il confronto; e quei nomi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:32;} add {offset:0; length:9;place:above;}">
+                <Coords points="500,1152 527,1152 554,1152 581,1152 608,1151 635,1152 662,1154 662,1124 635,1122 608,1121 581,1122 554,1122 527,1122 500,1122"/>
+                <Baseline points="500,1142 527,1142 554,1142 581,1142 608,1141 635,1142 662,1144"/>
+                <TextEquiv>
+                    <Unicode>correvano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589131943_108" custom="readingOrder {index:33;}">
+                <Coords points="628,1141 1615,1132 1615,1182 628,1191"/>
+                <Baseline points="628,1186 1615,1177"/>
+                <TextEquiv>
+                    <Unicode>: Giovanni Pisano, Arrigo Settimo; i quali, con un naturale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:34;}">
+                <Coords points="190,1272 262,1272 334,1272 407,1272 479,1271 552,1270 624,1270 696,1266 769,1266 841,1266 914,1266 986,1263 1058,1263 1131,1262 1203,1259 1276,1258 1348,1255 1420,1255 1493,1254 1565,1256 1638,1260 1638,1229 1565,1225 1493,1223 1420,1224 1348,1224 1276,1227 1203,1228 1131,1231 1058,1232 986,1232 914,1235 841,1235 769,1235 696,1235 624,1239 552,1239 479,1240 407,1241 334,1241 262,1241 190,1241"/>
+                <Baseline points="190,1262 262,1262 334,1262 407,1262 479,1261 552,1260 624,1260 696,1256 769,1256 841,1256 914,1256 986,1253 1058,1253 1131,1252 1203,1249 1276,1248 1348,1245 1420,1245 1493,1244 1565,1246 1638,1250"/>
+                <TextEquiv>
+                    <Unicode>meccanismo, misero in movimento idee e suggestioni che, partendo da letture passate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589142917_116" custom="readingOrder {index:35;}">
+                <Coords points="200,1302 857,1295 857,1345 200,1352"/>
+                <Baseline points="200,1347 857,1340"/>
+                <TextEquiv>
+                    <Unicode>delle rime di Dante, mi avevano, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589145190_121" custom="readingOrder {index:36;}">
+                <Coords points="840,1258 894,1260 892,1310 838,1308"/>
+                <Baseline points="838,1303 892,1305"/>
+                <TextEquiv>
+                    <Unicode>un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589147836_126" custom="readingOrder {index:37;}">
+                <Coords points="881,1287 1613,1284 1613,1334 881,1337"/>
+                <Baseline points="881,1332 1613,1329"/>
+                <TextEquiv>
+                    <Unicode>tempo più recente, spinto in un groviglio di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:38;}">
+                <Coords points="212,1422 284,1423 356,1422 428,1422 500,1420 572,1422 644,1421 716,1418 788,1418 860,1418 932,1416 1004,1416 1076,1414 1148,1412 1220,1411 1292,1410 1364,1409 1436,1408 1508,1408 1580,1406 1652,1408 1652,1377 1580,1375 1508,1377 1436,1377 1364,1378 1292,1379 1220,1380 1148,1381 1076,1383 1004,1385 932,1385 860,1387 788,1387 716,1387 644,1390 572,1391 500,1389 428,1391 356,1391 284,1392 212,1391"/>
+                <Baseline points="212,1412 284,1413 356,1412 428,1412 500,1410 572,1412 644,1411 716,1408 788,1408 860,1408 932,1406 1004,1406 1076,1404 1148,1402 1220,1401 1292,1400 1364,1399 1436,1398 1508,1398 1580,1396 1652,1398"/>
+                <TextEquiv>
+                    <Unicode>raffronti tra la sostanza di queste (lo stile) e la particolar pratica espressa dall'arte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:39;}">
+                <Coords points="204,1496 242,1500 281,1501 320,1502 359,1502 398,1502 436,1502 475,1500 514,1500 553,1500 592,1498 630,1496 669,1495 708,1494 747,1492 786,1491 824,1490 863,1492 902,1492 941,1492 980,1494 980,1463 941,1461 902,1461 863,1461 824,1459 786,1460 747,1461 708,1463 669,1464 630,1465 592,1467 553,1469 514,1469 475,1469 436,1471 398,1471 359,1471 320,1471 281,1470 242,1469 204,1465"/>
+                <Baseline points="204,1486 242,1490 281,1491 320,1492 359,1492 398,1492 436,1492 475,1490 514,1490 553,1490 592,1488 630,1486 669,1485 708,1484 747,1482 786,1481 824,1480 863,1482 902,1482 941,1482 980,1484"/>
+                <TextEquiv>
+                    <Unicode>di scultori pisani, tra il due e il trecento.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:40;}">
+                <Coords points="220,1578 291,1578 363,1576 435,1574 507,1571 579,1568 650,1568 722,1566 794,1565 866,1564 938,1564 1009,1562 1081,1560 1153,1558 1225,1558 1297,1558 1368,1557 1440,1558 1512,1558 1584,1561 1656,1562 1656,1531 1584,1530 1512,1527 1440,1527 1368,1526 1297,1527 1225,1527 1153,1527 1081,1529 1009,1531 938,1533 866,1533 794,1534 722,1535 650,1537 579,1537 507,1540 435,1543 363,1545 291,1547 220,1547"/>
+                <Baseline points="220,1568 291,1568 363,1566 435,1564 507,1561 579,1558 650,1558 722,1556 794,1555 866,1554 938,1554 1009,1552 1081,1550 1153,1548 1225,1548 1297,1548 1368,1547 1440,1548 1512,1548 1584,1551 1656,1552"/>
+                <TextEquiv>
+                    <Unicode>Rientrato in casa / sarebbe stata l'ora di andare a letto), volli ritrovare le rime, sull'e-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:41;}">
+                <Coords points="198,1646 270,1650 342,1650 414,1650 486,1647 559,1646 631,1645 703,1643 775,1642 847,1639 920,1638 992,1638 1064,1637 1136,1638 1208,1637 1281,1638 1353,1637 1425,1636 1497,1634 1569,1631 1642,1628 1642,1598 1569,1601 1497,1604 1425,1606 1353,1607 1281,1608 1208,1607 1136,1608 1064,1607 992,1608 920,1608 847,1609 775,1612 703,1613 631,1615 559,1616 486,1617 414,1620 342,1620 270,1620 198,1616"/>
+                <Baseline points="198,1636 270,1640 342,1640 414,1640 486,1637 559,1636 631,1635 703,1633 775,1632 847,1629 920,1628 992,1628 1064,1627 1136,1628 1208,1627 1281,1628 1353,1627 1425,1626 1497,1624 1569,1621 1642,1618"/>
+                <TextEquiv>
+                    <Unicode>dizione continiana. Libro di grande conforto. Mi spiegherò. L'avevo con me, nell'inverno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589161563_134" custom="readingOrder {index:42;} del {offset:30; length:12;rend:overstrike;}">
+                <Coords points="202,1677 925,1668 926,1718 203,1727"/>
+                <Baseline points="203,1722 926,1713"/>
+                <TextEquiv>
+                    <Unicode>tra l'anno '43 e il '44; e mi tenne grande</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:43;} add {offset:0; length:10;place:above;}">
+                <Coords points="728,1690 754,1692 781,1688 807,1686 834,1685 860,1683 887,1682 913,1680 940,1680 940,1650 913,1650 887,1652 860,1653 834,1655 807,1656 781,1658 754,1662 728,1660"/>
+                <Baseline points="728,1680 754,1682 781,1678 807,1676 834,1675 860,1673 887,1672 913,1670 940,1670"/>
+                <TextEquiv>
+                    <Unicode>fece buona</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589164297_139" custom="readingOrder {index:44;}">
+                <Coords points="935,1664 1651,1666 1651,1716 935,1714"/>
+                <Baseline points="935,1709 1651,1711"/>
+                <TextEquiv>
+                    <Unicode>compagnia. Nella casetta del paese ferrarese,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:45;} add {offset:0; length:29;place:above;}">
+                <Coords points="202,1760 227,1760 252,1758 277,1758 302,1757 328,1756 353,1755 378,1754 403,1754 428,1752 454,1750 479,1750 504,1750 529,1751 554,1752 580,1754 580,1724 554,1722 529,1721 504,1720 479,1720 454,1720 428,1722 403,1724 378,1724 353,1725 328,1726 302,1727 277,1728 252,1728 227,1730 202,1730"/>
+                <Baseline points="202,1750 227,1750 252,1748 277,1748 302,1747 328,1746 353,1745 378,1744 403,1744 428,1742 454,1740 479,1740 504,1740 529,1741 554,1742 580,1744"/>
+                <TextEquiv>
+                    <Unicode>affondata dietro la canonica,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:46;}">
+                <Coords points="192,1806 265,1803 338,1802 412,1800 485,1800 559,1797 632,1795 705,1792 779,1792 852,1792 926,1791 999,1790 1072,1790 1146,1790 1219,1788 1293,1786 1366,1786 1439,1786 1513,1786 1586,1787 1660,1790 1660,1759 1586,1756 1513,1755 1439,1755 1366,1755 1293,1755 1219,1757 1146,1759 1072,1759 999,1759 926,1760 852,1761 779,1761 705,1761 632,1764 559,1766 485,1769 412,1769 338,1771 265,1772 192,1775"/>
+                <Baseline points="192,1796 265,1793 338,1792 412,1790 485,1790 559,1787 632,1785 705,1782 779,1782 852,1782 926,1781 999,1780 1072,1780 1146,1780 1219,1778 1293,1776 1366,1776 1439,1776 1513,1776 1586,1777 1660,1780"/>
+                <TextEquiv>
+                    <Unicode>e notti di gelo e di neve, non decidevo di andarmene a dormire. Aggiustavo qualche pezzo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:47;}">
+                <Coords points="216,1878 287,1876 359,1876 430,1876 502,1875 574,1874 645,1874 717,1874 788,1872 860,1871 932,1868 1003,1869 1075,1866 1146,1864 1218,1860 1290,1858 1361,1858 1433,1857 1504,1856 1576,1859 1648,1858 1648,1827 1576,1828 1504,1825 1433,1826 1361,1827 1290,1827 1218,1829 1146,1833 1075,1835 1003,1838 932,1837 860,1840 788,1841 717,1843 645,1843 574,1843 502,1844 430,1845 359,1845 287,1845 216,1847"/>
+                <Baseline points="216,1868 287,1866 359,1866 430,1866 502,1865 574,1864 645,1864 717,1864 788,1862 860,1861 932,1858 1003,1859 1075,1856 1146,1854 1218,1850 1290,1848 1361,1848 1433,1847 1504,1846 1576,1849 1648,1848"/>
+                <TextEquiv>
+                    <Unicode>di legna nella stufa; mi preparavo un poco di tabacco; mettevo il libro nel tavolo di cuci-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:48;}">
+                <Coords points="200,1960 271,1956 342,1956 413,1953 485,1952 556,1948 627,1949 699,1948 770,1944 841,1944 913,1942 984,1941 1055,1940 1126,1938 1198,1938 1269,1936 1340,1935 1412,1934 1483,1934 1554,1935 1626,1932 1626,1902 1554,1905 1483,1904 1412,1904 1340,1905 1269,1906 1198,1908 1126,1908 1055,1910 984,1911 913,1912 841,1914 770,1914 699,1918 627,1919 556,1918 485,1922 413,1923 342,1926 271,1926 200,1930"/>
+                <Baseline points="200,1950 271,1946 342,1946 413,1943 485,1942 556,1938 627,1939 699,1938 770,1934 841,1934 913,1932 984,1931 1055,1930 1126,1928 1198,1928 1269,1926 1340,1925 1412,1924 1483,1924 1554,1925 1626,1922"/>
+                <TextEquiv>
+                    <Unicode>na. Data la buona notte a mia moglie, mi abbandonavo al libro. In verità un libro magno,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589176601_147" custom="readingOrder {index:49;}">
+                <Coords points="216,1985 1073,1972 1074,2022 217,2035"/>
+                <Baseline points="217,2030 1074,2017"/>
+                <TextEquiv>
+                    <Unicode>agile; ma stipato di affetti, di passioni. E là dentro, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:50;} add {offset:0; length:11;place:above;}">
+                <Coords points="1020,1972 1045,1974 1070,1974 1095,1974 1120,1974 1145,1974 1170,1974 1196,1974 1196,1944 1170,1944 1145,1944 1120,1944 1095,1944 1070,1944 1045,1944 1020,1942"/>
+                <Baseline points="1020,1962 1045,1964 1070,1964 1095,1964 1120,1964 1145,1964 1170,1964 1196,1964"/>
+                <TextEquiv>
+                    <Unicode>come si sa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715589179942_152" custom="readingOrder {index:51;}">
+                <Coords points="1082,1965 1663,1961 1663,2011 1082,2015"/>
+                <Baseline points="1082,2010 1657,2006"/>
+                <TextEquiv>
+                    <Unicode>risuonano i sentimenti dell'esilio:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La valigia delle Indie&#13;
+Ricordo delle rime&#13;
+Non si trattava che di un mediocre filone &#13;
+di oggetto&#13;
+smaccatamente&#13;
+medievale&#13;
+sulle crociate ,&#13;
+con&#13;
+   qualche personaggio storico&#13;
+o di leggenda inglese&#13;
+brettone o nibelingica&#13;
+ Tra gli attori, un'attrice americana, celebre per bellezza, che qui in-&#13;
+terpretava una regina o principessa: il volto ovale,&#13;
+pallido e marmoreo&#13;
+racchiuso dentro bende e fascie. Met-&#13;
+tiamo che poteva raffigurare Isotta, o non so chi.        &#13;
+Si usciva dalla sala&#13;
+dalla sala, e sbattendo la&#13;
+porta,&#13;
+a vetri&#13;
+mentre ancora crepitava la macchina nella cabina di legno: -" Sai chi mi ri-&#13;
+corda?"- disse un amico&#13;
+a proposito&#13;
+della bella regina.&#13;
+in bende e veli.&#13;
+_ "Margherita di Brabante, se non sba-&#13;
+glio; la moglie di Arrigo Settimo; nella scultura, nella tomba scolpita da Giovanni Pi-&#13;
+sano."- Con gli amici, si percorse il tratto di viale, coperto dalle pesanti verdure&#13;
+degli ippocastani, che ne fanno come un tunnel fresco e odoroso &#13;
+fino a due passi da casa mia.&#13;
+. Mi ronzava in capo&#13;
+il confronto; e quei nomi&#13;
+correvano&#13;
+: Giovanni Pisano, Arrigo Settimo; i quali, con un naturale&#13;
+meccanismo, misero in movimento idee e suggestioni che, partendo da letture passate&#13;
+delle rime di Dante, mi avevano, in&#13;
+un&#13;
+tempo più recente, spinto in un groviglio di&#13;
+raffronti tra la sostanza di queste (lo stile) e la particolar pratica espressa dall'arte&#13;
+di scultori pisani, tra il due e il trecento.&#13;
+Rientrato in casa / sarebbe stata l'ora di andare a letto), volli ritrovare le rime, sull'e-&#13;
+dizione continiana. Libro di grande conforto. Mi spiegherò. L'avevo con me, nell'inverno&#13;
+tra l'anno '43 e il '44; e mi tenne grande&#13;
+fece buona&#13;
+compagnia. Nella casetta del paese ferrarese,&#13;
+affondata dietro la canonica,&#13;
+e notti di gelo e di neve, non decidevo di andarmene a dormire. Aggiustavo qualche pezzo&#13;
+di legna nella stufa; mi preparavo un poco di tabacco; mettevo il libro nel tavolo di cuci-&#13;
+na. Data la buona notte a mia moglie, mi abbandonavo al libro. In verità un libro magno,&#13;
+agile; ma stipato di affetti, di passioni. E là dentro, &#13;
+come si sa,&#13;
+risuonano i sentimenti dell'esilio:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

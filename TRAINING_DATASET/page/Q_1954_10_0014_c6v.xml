@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:23:19.314+02:00</Created>
+        <LastChange>2024-06-21T10:05:45.907+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326007" pageNr="94" tsid="175603574" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=URSMAJAHTMPRUAFMQQABDILM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SYWETQWGSADBRIVYMTPBOXTX" imageId="54296167"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_10_0014_c6v.jpg" imageWidth="1798" imageHeight="2427" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746075603" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="179,302 179,2072 1795,2072 1795,302"/>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:0;}">
+                <Coords points="183,552 254,554 326,554 398,552 470,551 542,550 614,548 686,548 758,546 830,546 902,546 973,547 1045,546 1117,546 1189,545 1261,544 1333,543 1405,540 1477,540 1549,541 1621,538 1621,486 1549,489 1477,488 1405,488 1333,491 1261,492 1189,493 1117,494 1045,494 973,495 902,494 830,494 758,494 686,496 614,496 542,498 470,499 398,500 326,502 254,502 183,500"/>
+                <Baseline points="183,535 254,537 326,537 398,535 470,534 542,533 614,531 686,531 758,529 830,529 902,529 973,530 1045,529 1117,529 1189,528 1261,527 1333,526 1405,523 1477,523 1549,524 1621,521"/>
+                <TextEquiv>
+                    <Unicode>rezza umana che contengono queste parole è fin troppo forte per noi. Alla fine di marzo del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:1;}">
+                <Coords points="191,628 262,626 333,625 404,624 475,624 546,622 617,622 688,620 759,620 830,620 901,621 972,619 1043,618 1114,618 1185,616 1256,616 1327,618 1398,618 1469,619 1540,620 1611,620 1611,568 1540,568 1469,567 1398,566 1327,566 1256,564 1185,564 1114,566 1043,566 972,567 901,569 830,568 759,568 688,568 617,570 546,570 475,572 404,572 333,573 262,574 191,576"/>
+                <Baseline points="191,611 262,609 333,608 404,607 475,607 546,605 617,605 688,603 759,603 830,603 901,604 972,602 1043,601 1114,601 1185,599 1256,599 1327,601 1398,601 1469,602 1540,603 1611,603"/>
+                <TextEquiv>
+                    <Unicode>1884, Rimbaud, con le solite sei settimane di viaggio a cavallo, ritorna al Mar Rosso, a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:2;}">
+                <Coords points="193,704 264,703 336,702 408,702 480,700 552,698 624,697 696,696 768,696 840,697 912,698 983,698 1055,698 1127,696 1199,694 1271,692 1343,691 1415,694 1487,692 1559,693 1631,696 1631,644 1559,641 1487,640 1415,642 1343,639 1271,640 1199,642 1127,644 1055,646 983,646 912,646 840,645 768,644 696,644 624,645 552,646 480,648 408,650 336,650 264,651 193,652"/>
+                <Baseline points="193,687 264,686 336,685 408,685 480,683 552,681 624,680 696,679 768,679 840,680 912,681 983,681 1055,681 1127,679 1199,677 1271,675 1343,674 1415,677 1487,675 1559,676 1631,679"/>
+                <TextEquiv>
+                    <Unicode>Aden. La Maison Bardey è in cattive acque. Rimbaud pensa a cercare altro lavoro. Ormai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:3;}">
+                <Coords points="193,781 262,778 332,773 402,772 472,772 542,773 612,773 682,771 752,771 822,768 892,768 961,769 1031,767 1101,769 1171,767 1241,768 1311,767 1381,767 1451,766 1521,766 1591,767 1591,718 1521,717 1451,717 1381,718 1311,718 1241,719 1171,718 1101,720 1031,718 961,720 892,719 822,719 752,722 682,722 612,724 542,724 472,723 402,723 332,724 262,729 193,732"/>
+                <Baseline points="193,765 262,762 332,757 402,756 472,756 542,757 612,757 682,755 752,755 822,752 892,752 961,753 1031,751 1101,753 1171,751 1241,752 1311,751 1381,751 1451,750 1521,750 1591,751"/>
+                <TextEquiv>
+                    <Unicode>il suo destino, fino alla disperazione, sarà di non stare fermo, di lavorare, di faticare in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:4;}">
+                <Coords points="189,849 260,849 331,849 402,849 473,849 544,849 615,851 686,849 757,849 828,847 900,848 971,847 1042,845 1113,844 1184,843 1255,843 1326,846 1397,843 1468,843 1539,843 1611,843 1611,794 1539,794 1468,794 1397,794 1326,797 1255,794 1184,794 1113,795 1042,796 971,798 900,799 828,798 757,800 686,800 615,802 544,800 473,800 402,800 331,800 260,800 189,800"/>
+                <Baseline points="189,833 260,833 331,833 402,833 473,833 544,833 615,835 686,833 757,833 828,831 900,832 971,831 1042,829 1113,828 1184,827 1255,827 1326,830 1397,827 1468,827 1539,827 1611,827"/>
+                <TextEquiv>
+                    <Unicode>ogni modo. In ogni modo e con tutti i mezzi, pur di guadagnare il pane. _ “Sto per compiere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:5;}">
+                <Coords points="195,935 264,931 334,929 404,929 474,929 544,929 613,929 683,929 753,927 823,927 893,926 962,923 1032,922 1102,923 1172,921 1242,922 1311,921 1381,921 1451,921 1521,924 1591,927 1591,873 1521,870 1451,867 1381,867 1311,867 1242,868 1172,867 1102,869 1032,868 962,869 893,872 823,873 753,873 683,875 613,875 544,875 474,875 404,875 334,875 264,877 195,881"/>
+                <Baseline points="195,917 264,913 334,911 404,911 474,911 544,911 613,911 683,911 753,909 823,909 893,908 962,905 1032,904 1102,905 1172,903 1242,904 1311,903 1381,903 1451,903 1521,906 1591,909"/>
+                <TextEquiv>
+                    <Unicode>i 30 anni (la metà della vita!), _ dice, e mi sono molto stancato a girare il mondo senza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:6;}">
+                <Coords points="203,1011 275,1008 347,1006 419,1005 491,1006 563,1005 635,1004 707,1002 779,1003 851,1001 924,1001 996,999 1068,1001 1140,1001 1212,1002 1284,1003 1356,1001 1428,1001 1500,1001 1572,1002 1645,1005 1645,950 1572,947 1500,946 1428,946 1356,946 1284,948 1212,947 1140,946 1068,946 996,944 924,946 851,946 779,948 707,947 635,949 563,950 491,951 419,950 347,951 275,953 203,956"/>
+                <Baseline points="203,993 275,990 347,988 419,987 491,988 563,987 635,986 707,984 779,985 851,983 924,983 996,981 1068,983 1140,983 1212,984 1284,985 1356,983 1428,983 1500,983 1572,984 1645,987"/>
+                <TextEquiv>
+                    <Unicode>risultato" (5 maggio ‘84) _ Le faccende di Mr. Bardey si aggiustano: Rimbaud rimane, senza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:7;}">
+                <Coords points="195,1087 266,1087 338,1085 409,1087 481,1087 553,1085 624,1083 696,1081 767,1081 839,1079 911,1077 982,1077 1054,1077 1125,1074 1197,1073 1269,1073 1340,1074 1412,1071 1483,1073 1555,1073 1649,1074 1649,1019 1555,1018 1483,1018 1412,1016 1340,1019 1269,1018 1197,1018 1125,1019 1054,1022 982,1022 911,1022 839,1024 767,1026 696,1026 624,1028 553,1030 481,1032 409,1032 338,1030 266,1032 195,1032"/>
+                <Baseline points="195,1069 266,1069 338,1067 409,1069 481,1069 553,1067 624,1065 696,1063 767,1063 839,1061 911,1059 982,1059 1054,1059 1125,1056 1197,1055 1269,1055 1340,1056 1412,1053 1483,1055 1555,1055 1627,1055"/>
+                <TextEquiv>
+                    <Unicode>entusiasmo, e quasi senza speranza. Bisogna tirare avanti. Nel dicembre, rispondendo ai suoi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:8;}">
+                <Coords points="201,1160 274,1161 348,1158 422,1158 495,1156 569,1152 643,1154 716,1154 790,1154 864,1154 938,1154 1011,1152 1085,1153 1159,1154 1232,1150 1306,1152 1380,1152 1453,1152 1527,1154 1601,1156 1675,1158 1675,1106 1601,1104 1527,1102 1453,1100 1380,1100 1306,1100 1232,1098 1159,1102 1085,1101 1011,1100 938,1102 864,1102 790,1102 716,1102 643,1102 569,1100 495,1104 422,1106 348,1106 274,1109 201,1108"/>
+                <Baseline points="201,1143 274,1144 348,1141 422,1141 495,1139 569,1135 643,1137 716,1137 790,1137 864,1137 938,1137 1011,1135 1085,1136 1159,1137 1232,1133 1306,1135 1380,1135 1453,1135 1527,1137 1601,1139 1675,1141"/>
+                <TextEquiv>
+                    <Unicode>dice di non sentirsi in grado di lasciare l’Africa. L’Europa non fa più per lui: lo sa bene.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:9;}">
+                <Coords points="194,1233 279,1232 350,1232 421,1234 491,1230 562,1230 633,1230 703,1231 774,1230 845,1228 916,1230 986,1232 1057,1230 1128,1228 1198,1232 1269,1228 1340,1226 1410,1226 1481,1225 1552,1225 1623,1228 1623,1176 1552,1173 1481,1173 1410,1174 1340,1174 1269,1176 1198,1180 1128,1176 1057,1178 986,1180 916,1178 845,1176 774,1178 703,1179 633,1178 562,1178 491,1178 421,1182 350,1180 279,1180 195,1174"/>
+                <Baseline points="209,1219 279,1215 350,1215 421,1217 491,1213 562,1213 633,1213 703,1214 774,1213 845,1211 916,1213 986,1215 1057,1213 1128,1211 1198,1215 1269,1211 1340,1209 1410,1209 1481,1208 1552,1208 1623,1211"/>
+                <TextEquiv>
+                    <Unicode>“Pour longtemps encore, je suis donc condamné à suivre les pistes on je puis trouver a vi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715363142363_1462" custom="readingOrder {index:10;}">
+                <Coords points="201,1254 1647,1246 1647,1296 201,1304"/>
+                <Baseline points="201,1299 1647,1291"/>
+                <TextEquiv>
+                    <Unicode>vre..." Condannato: la parola ritorna spesso sotto la sua penna. Lavora, economizzando il cente-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715363148500_1467" custom="readingOrder {index:11;}">
+                <Coords points="189,1335 1637,1323 1637,1373 189,1385"/>
+                <Baseline points="189,1380 1637,1368"/>
+                <TextEquiv>
+                    <Unicode>simo. Beve acqua. Non fuma. Il vitto gli costa 15 franchi il mese. Veste in tela di cotone. Lavora, e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:12;}">
+                <Coords points="187,1462 260,1464 333,1464 406,1461 479,1460 552,1460 625,1460 698,1458 771,1456 844,1458 917,1457 990,1458 1063,1458 1136,1458 1209,1458 1282,1454 1355,1452 1428,1452 1501,1454 1574,1452 1647,1454 1647,1403 1574,1401 1501,1403 1428,1401 1355,1401 1282,1403 1209,1407 1136,1407 1063,1407 990,1407 917,1406 844,1407 771,1405 698,1407 625,1409 552,1409 479,1409 406,1410 333,1413 260,1413 187,1411"/>
+                <Baseline points="187,1445 260,1447 333,1447 406,1444 479,1443 552,1443 625,1443 698,1441 771,1439 844,1441 917,1440 990,1441 1063,1441 1136,1441 1209,1441 1282,1437 1355,1435 1428,1435 1501,1437 1574,1435 1647,1437"/>
+                <TextEquiv>
+                    <Unicode>traffica, e fa progetti, progetti di affari. Da tempo ne insegue uno. Nel settembre ‘85, staccato-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715363192926_1494" custom="readingOrder {index:13;}">
+                <Coords points="190,1486 1648,1480 1648,1530 190,1536"/>
+                <Baseline points="190,1531 1648,1525"/>
+                <TextEquiv>
+                    <Unicode>si definitivamente da Mr. Bardey, anuncia il suo grosso affare. In ottobre lo conferma. È la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715363184900_1484" custom="readingOrder {index:14;}">
+                <Coords points="199,1557 327,1561 326,1611 198,1607"/>
+                <Baseline points="198,1602 326,1606"/>
+                <TextEquiv>
+                    <Unicode>famosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:15;} add {offset:0; length:9;place:above;}">
+                <Coords points="265,1569 291,1569 317,1568 343,1567 369,1568 395,1570 421,1569 421,1539 395,1540 369,1538 343,1537 317,1538 291,1539 265,1539"/>
+                <Baseline points="265,1559 291,1559 317,1558 343,1557 369,1558 395,1560 421,1559"/>
+                <TextEquiv>
+                    <Unicode>fornitura</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715363187965_1489" custom="readingOrder {index:16;}">
+                <Coords points="338,1557 945,1555 945,1605 338,1607"/>
+                <Baseline points="338,1602 945,1600"/>
+                <TextEquiv>
+                    <Unicode>di armi per Menelick, re dello Scioa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:17;}">
+                <Coords points="201,1686 273,1684 345,1685 417,1686 489,1685 561,1684 633,1684 705,1683 777,1682 849,1682 922,1682 994,1683 1066,1684 1138,1680 1210,1680 1282,1680 1354,1680 1426,1682 1498,1680 1570,1680 1643,1678 1643,1626 1570,1628 1498,1628 1426,1630 1354,1628 1282,1628 1210,1628 1138,1628 1066,1632 994,1631 922,1630 849,1630 777,1630 705,1631 633,1632 561,1632 489,1633 417,1634 345,1633 273,1632 201,1634"/>
+                <Baseline points="201,1669 273,1667 345,1668 417,1669 489,1668 561,1667 633,1667 705,1666 777,1665 849,1665 922,1665 994,1666 1066,1667 1138,1663 1210,1663 1282,1663 1354,1663 1426,1665 1498,1663 1570,1663 1643,1661"/>
+                <TextEquiv>
+                    <Unicode>Per organizzare la carovana necessaria alla spedizione, Rimbaud si trasferisce a Tagiu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:18;} gap {offset:69; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="203,1769 275,1765 348,1765 421,1765 494,1763 567,1762 640,1761 713,1761 786,1759 859,1759 932,1759 1004,1759 1077,1757 1150,1757 1223,1757 1296,1759 1369,1759 1442,1759 1515,1759 1588,1760 1661,1765 1661,1710 1588,1705 1515,1704 1442,1704 1369,1704 1296,1704 1223,1702 1150,1702 1077,1702 1004,1704 932,1704 859,1704 786,1704 713,1706 640,1706 567,1707 494,1708 421,1710 348,1710 275,1710 203,1714"/>
+                <Baseline points="203,1751 275,1747 348,1747 421,1747 494,1745 567,1744 640,1743 713,1743 786,1741 859,1741 932,1741 1004,1741 1077,1739 1150,1739 1223,1739 1296,1741 1369,1741 1442,1741 1515,1741 1588,1742 1661,1747"/>
+                <TextEquiv>
+                    <Unicode>ra, sulla riva opposta del Mar Rosso. Miserabile e sudicio villaggio         , dove il com-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:19;}">
+                <Coords points="193,1841 265,1845 338,1843 411,1841 483,1839 556,1839 629,1837 701,1839 774,1839 847,1837 920,1835 992,1835 1065,1835 1138,1835 1210,1835 1283,1836 1356,1835 1428,1833 1501,1835 1574,1833 1647,1831 1647,1777 1574,1779 1501,1781 1428,1779 1356,1781 1283,1782 1210,1781 1138,1781 1065,1781 992,1781 920,1781 847,1783 774,1785 701,1785 629,1783 556,1785 483,1785 411,1787 338,1789 265,1791 193,1787"/>
+                <Baseline points="193,1823 265,1827 338,1825 411,1823 483,1821 556,1821 629,1819 701,1821 774,1821 847,1819 920,1817 992,1817 1065,1817 1138,1817 1210,1817 1283,1818 1356,1817 1428,1815 1501,1817 1574,1815 1647,1813"/>
+                <TextEquiv>
+                    <Unicode>mercio più importante, è quello degli schiavi. Qui, Rimbaud stringe rapporti e perfezione il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:20;}">
+                <Coords points="179,1914 252,1915 326,1912 399,1912 473,1914 546,1912 620,1912 693,1914 767,1912 840,1912 914,1912 987,1910 1061,1910 1134,1908 1208,1908 1281,1908 1355,1908 1428,1908 1502,1908 1575,1909 1649,1914 1649,1862 1575,1857 1502,1856 1428,1856 1355,1856 1281,1856 1208,1856 1134,1856 1061,1858 987,1858 914,1860 840,1860 767,1860 693,1862 620,1860 546,1860 473,1862 399,1860 326,1860 252,1863 179,1862"/>
+                <Baseline points="179,1897 252,1898 326,1895 399,1895 473,1897 546,1895 620,1895 693,1897 767,1895 840,1895 914,1895 987,1893 1061,1893 1134,1891 1208,1891 1281,1891 1355,1891 1428,1891 1502,1891 1575,1892 1649,1897"/>
+                <TextEquiv>
+                    <Unicode>contratto d’associazione con un Labatat, un avventuriero francese. Qui passano la primavera,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715363461636_1530" custom="readingOrder {index:21;}">
+                <Coords points="185,1943 1661,1937 1661,1987 185,1993"/>
+                <Baseline points="185,1988 1661,1982"/>
+                <TextEquiv>
+                    <Unicode>l'intera estate dell’86, nelle ricerche, trattative, attesa di documenti. Nell’affare Rimbaud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715363466680_1535" custom="readingOrder {index:22;}">
+                <Coords points="198,2018 1661,2016 1661,2066 198,2068"/>
+                <Baseline points="198,2063 1661,2061"/>
+                <TextEquiv>
+                    <Unicode>impegna il suo capitale, di 15.000 franchi, e tutto l’avvenire. Trovati i 2000 fucili occorrenti,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rezza umana che contengono queste parole è fin troppo forte per noi. Alla fine di marzo del&#13;
+1884, Rimbaud, con le solite sei settimane di viaggio a cavallo, ritorna al Mar Rosso, a&#13;
+Aden. La Maison Bardey è in cattive acque. Rimbaud pensa a cercare altro lavoro. Ormai&#13;
+il suo destino, fino alla disperazione, sarà di non stare fermo, di lavorare, di faticare in&#13;
+ogni modo. In ogni modo e con tutti i mezzi, pur di guadagnare il pane. _ “Sto per compiere&#13;
+i 30 anni (la metà della vita!), _ dice, e mi sono molto stancato a girare il mondo senza&#13;
+risultato" (5 maggio ‘84) _ Le faccende di Mr. Bardey si aggiustano: Rimbaud rimane, senza&#13;
+entusiasmo, e quasi senza speranza. Bisogna tirare avanti. Nel dicembre, rispondendo ai suoi,&#13;
+dice di non sentirsi in grado di lasciare l’Africa. L’Europa non fa più per lui: lo sa bene.&#13;
+“Pour longtemps encore, je suis donc condamné à suivre les pistes on je puis trouver a vi-&#13;
+vre..." Condannato: la parola ritorna spesso sotto la sua penna. Lavora, economizzando il cente-&#13;
+simo. Beve acqua. Non fuma. Il vitto gli costa 15 franchi il mese. Veste in tela di cotone. Lavora, e&#13;
+traffica, e fa progetti, progetti di affari. Da tempo ne insegue uno. Nel settembre ‘85, staccato-&#13;
+si definitivamente da Mr. Bardey, anuncia il suo grosso affare. In ottobre lo conferma. È la&#13;
+famosa&#13;
+fornitura&#13;
+di armi per Menelick, re dello Scioa.&#13;
+Per organizzare la carovana necessaria alla spedizione, Rimbaud si trasferisce a Tagiu-&#13;
+ra, sulla riva opposta del Mar Rosso. Miserabile e sudicio villaggio         , dove il com-&#13;
+mercio più importante, è quello degli schiavi. Qui, Rimbaud stringe rapporti e perfezione il&#13;
+contratto d’associazione con un Labatat, un avventuriero francese. Qui passano la primavera,&#13;
+l'intera estate dell’86, nelle ricerche, trattative, attesa di documenti. Nell’affare Rimbaud&#13;
+impegna il suo capitale, di 15.000 franchi, e tutto l’avvenire. Trovati i 2000 fucili occorrenti,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

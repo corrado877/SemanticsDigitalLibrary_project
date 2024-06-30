@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:49:01.143+02:00</Created>
+        <LastChange>2024-06-20T10:48:05.110+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326068" pageNr="135" tsid="175603615" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=RZTEUCREISSVXBXNNCUVJWEL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZPLNOWQCKEGXXPFZPOYYVGUO" imageId="54317610"/>
+    </Metadata>
+    <Page imageFilename="Q_10_1955_0013_c6r.jpg" imageWidth="1798" imageHeight="2324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746084161" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:0;}">
+            <Coords points="168,476 168,2046 1656,2046 1656,476"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;} add {offset:15; length:31;place:underline;} add {offset:48; length:21;place:underline;}">
+                <Coords points="202,534 270,529 339,526 408,526 477,528 546,526 615,526 684,526 753,527 822,526 891,528 959,526 1028,524 1097,524 1166,524 1235,525 1304,524 1373,524 1442,527 1511,526 1580,530 1580,482 1511,478 1442,479 1373,476 1304,476 1235,477 1166,476 1097,476 1028,476 959,478 891,480 822,478 753,479 684,478 615,478 546,478 477,480 408,478 339,478 270,481 202,486"/>
+                <Baseline points="202,518 270,513 339,510 408,510 477,512 546,510 615,510 684,510 753,511 822,510 891,512 959,510 1028,508 1097,508 1166,508 1235,509 1304,508 1373,508 1442,511 1511,510 1580,514"/>
+                <TextEquiv>
+                    <Unicode>fatto porosa. ( Dolesi l'una con parole molto, /e'n su la man si posa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;} hi {offset:0; length:17;rend:underline;} hi {offset:20; length:15;rend:underline;} hi {offset:37; length:16;rend:underline;}">
+                <Coords points="210,597 281,599 352,599 423,601 495,601 566,601 637,599 709,599 780,599 851,601 923,599 994,601 1065,601 1136,599 1208,599 1279,601 1350,603 1422,600 1493,599 1564,599 1636,601 1636,555 1564,553 1493,553 1422,554 1350,557 1279,555 1208,553 1136,553 1065,555 994,555 923,553 851,555 780,553 709,553 637,553 566,555 495,555 423,555 352,553 281,553 210,551"/>
+                <Baseline points="210,582 281,584 352,584 423,586 495,586 566,586 637,584 709,584 780,584 851,586 923,584 994,586 1065,586 1136,584 1208,584 1279,586 1350,588 1422,585 1493,584 1564,584 1636,586"/>
+                <TextEquiv>
+                    <Unicode>come succisa rosa:/ il nudo braccio, di dolor colonna /, sente l'oraggio che ca-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="204,680 229,678 255,679 280,679 306,677 331,676 357,676 382,674 408,674 433,675 459,677 484,679 540,679 540,631 484,631 459,629 433,627 408,626 382,626 357,628 331,628 306,629 280,631 255,631 229,630 204,632"/>
+                <Baseline points="204,664 229,662 255,663 280,663 306,661 331,660 357,660 382,658 408,658 433,659 459,661 484,663 541,668"/>
+                <TextEquiv>
+                    <Unicode>de dal volto...)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="204,752 275,752 346,750 417,748 488,748 559,748 630,748 701,748 772,750 843,751 914,752 985,752 1056,753 1127,754 1198,754 1269,755 1340,756 1411,754 1482,753 1553,754 1624,756 1624,708 1553,706 1482,705 1411,706 1340,708 1269,707 1198,706 1127,706 1056,705 985,704 914,704 843,703 772,702 701,700 630,700 559,700 488,700 417,700 346,702 275,704 204,704"/>
+                <Baseline points="204,736 275,736 346,734 417,732 488,732 559,732 630,732 701,732 772,734 843,735 914,736 985,736 1056,737 1127,738 1198,738 1269,739 1340,740 1411,738 1482,737 1553,738 1624,740"/>
+                <TextEquiv>
+                    <Unicode>Pensavo alla Vergine della Natività, di Arnolfo. La figura è distesa, di donna sul letto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="192,828 264,828 337,828 409,828 482,827 554,824 627,827 699,826 772,829 844,828 917,828 989,826 1062,826 1134,826 1207,826 1279,828 1352,829 1424,828 1497,829 1569,830 1642,836 1642,788 1569,782 1497,781 1424,780 1352,781 1279,780 1207,778 1134,778 1062,778 989,778 917,780 844,780 772,781 699,778 627,779 554,776 482,779 409,780 337,780 264,780 192,780"/>
+                <Baseline points="192,812 264,812 337,812 409,812 482,811 554,808 627,811 699,810 772,813 844,812 917,812 989,810 1062,810 1134,810 1207,810 1279,812 1352,813 1424,812 1497,813 1569,814 1642,820"/>
+                <TextEquiv>
+                    <Unicode>di famiglia. Come contadina colta dal pensiero della maternità. Regge il busto nel brac-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="206,902 277,906 349,906 421,906 493,907 565,906 637,904 709,902 781,906 853,905 925,904 996,905 1068,903 1140,906 1212,904 1284,904 1356,904 1428,906 1500,904 1572,906 1644,908 1644,860 1572,858 1500,856 1428,858 1356,856 1284,856 1212,856 1140,858 1068,855 996,857 925,856 853,857 781,858 709,854 637,856 565,858 493,859 421,858 349,858 277,858 206,854"/>
+                <Baseline points="206,886 277,890 349,890 421,890 493,891 565,890 637,888 709,886 781,890 853,889 925,888 996,889 1068,887 1140,890 1212,888 1284,888 1356,888 1428,890 1500,888 1572,890 1644,892"/>
+                <TextEquiv>
+                    <Unicode>cio piegato, disteso il corpo, allungato, di dolce animale stanco. La veste si muove in pieghe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="196,978 269,982 342,982 415,980 488,980 561,978 634,978 707,978 780,978 853,978 926,979 999,978 1072,978 1145,978 1218,978 1291,978 1364,978 1437,980 1510,982 1583,984 1656,986 1656,938 1583,936 1510,934 1437,932 1364,930 1291,930 1218,930 1145,930 1072,930 999,930 926,931 853,930 780,930 707,930 634,930 561,930 488,932 415,932 342,934 269,934 196,930"/>
+                <Baseline points="196,962 269,966 342,966 415,964 488,964 561,962 634,962 707,962 780,962 853,962 926,963 999,962 1072,962 1145,962 1218,962 1291,962 1364,962 1437,964 1510,966 1583,968 1656,970"/>
+                <TextEquiv>
+                    <Unicode>seguenti, composte e ritornanti: come onda di mare sulla riva. Ogni sentimento, in Dante,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="194,1052 264,1057 335,1058 406,1058 477,1058 548,1056 619,1058 690,1056 761,1056 832,1056 903,1056 973,1058 1044,1056 1115,1056 1186,1056 1257,1056 1328,1054 1399,1054 1470,1056 1541,1058 1612,1060 1612,1012 1541,1010 1470,1008 1399,1006 1328,1006 1257,1008 1186,1008 1115,1008 1044,1008 973,1010 903,1008 832,1008 761,1008 690,1008 619,1010 548,1008 477,1010 406,1010 335,1010 264,1009 194,1004"/>
+                <Baseline points="194,1036 264,1041 335,1042 406,1042 477,1042 548,1040 619,1042 690,1040 761,1040 832,1040 903,1040 973,1042 1044,1040 1115,1040 1186,1040 1257,1040 1328,1038 1399,1038 1470,1040 1541,1042 1612,1044"/>
+                <TextEquiv>
+                    <Unicode>tende a rappresentarsi in azione umana, chiusa in una immobilità marmorea, di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:8;} hi {offset:17; length:23;rend:underline;} hi {offset:43; length:19;rend:underline;}">
+                <Coords points="186,1214 246,1214 306,1212 366,1210 427,1210 487,1206 547,1208 608,1206 668,1206 728,1208 789,1208 849,1208 909,1206 969,1206 1030,1204 1090,1206 1150,1206 1211,1206 1271,1206 1331,1206 1392,1210 1392,1162 1331,1158 1271,1158 1211,1158 1150,1158 1090,1158 1030,1156 969,1158 909,1158 849,1160 789,1160 728,1160 668,1158 608,1158 547,1160 487,1158 427,1162 366,1162 306,1164 246,1166 186,1166"/>
+                <Baseline points="186,1198 246,1198 306,1196 366,1194 427,1194 487,1190 547,1192 608,1190 668,1190 728,1192 789,1192 849,1192 909,1190 969,1190 1030,1188 1090,1190 1150,1190 1211,1190 1271,1190 1331,1190 1392,1194"/>
+                <TextEquiv>
+                    <Unicode>ne dell'esilio:_"l'altra man tien ascosa / la faccia lacrimosa."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="210,1286 280,1286 351,1287 422,1288 493,1288 564,1286 635,1288 706,1286 777,1282 848,1284 919,1283 989,1282 1060,1282 1131,1284 1202,1284 1273,1281 1344,1284 1415,1282 1486,1283 1557,1282 1628,1286 1628,1238 1557,1234 1486,1235 1415,1234 1344,1236 1273,1233 1202,1236 1131,1236 1060,1234 989,1234 919,1235 848,1236 777,1234 706,1238 635,1240 564,1238 493,1240 422,1240 351,1239 280,1238 210,1238"/>
+                <Baseline points="210,1270 280,1270 351,1271 422,1272 493,1272 564,1270 635,1272 706,1270 777,1266 848,1268 919,1267 989,1266 1060,1266 1131,1268 1202,1268 1273,1265 1344,1268 1415,1266 1486,1267 1557,1266 1628,1270"/>
+                <TextEquiv>
+                    <Unicode>Dante la scrisse, pare, nel '302, che è l'anno stesso della morte di Arnolfo. E' in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="192,1354 264,1353 336,1352 408,1354 480,1353 552,1354 624,1355 696,1356 768,1354 840,1352 912,1352 984,1351 1056,1350 1128,1350 1200,1351 1272,1352 1344,1350 1416,1354 1488,1356 1560,1355 1632,1358 1632,1328 1560,1325 1488,1326 1416,1324 1344,1320 1272,1322 1200,1321 1128,1320 1056,1320 984,1321 912,1322 840,1322 768,1324 696,1326 624,1325 552,1324 480,1323 408,1324 336,1322 264,1323 192,1324"/>
+                <Baseline points="192,1344 264,1343 336,1342 408,1344 480,1343 552,1344 624,1345 696,1346 768,1344 840,1342 912,1342 984,1341 1056,1340 1128,1340 1200,1341 1272,1342 1344,1340 1416,1344 1488,1346 1560,1345 1632,1348"/>
+                <TextEquiv>
+                    <Unicode>essa che, fin dal principio /Tre donne intorno al cor mi son venute), conferma quella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715594932026_823" custom="readingOrder {index:11;} del {offset:4; length:7;rend:overstrike;} gap {offset:4; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="196,1381 481,1384 481,1434 196,1431"/>
+                <Baseline points="196,1426 481,1429"/>
+                <TextEquiv>
+                    <Unicode>sua        ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="266,1392 293,1392 320,1392 347,1392 375,1393 402,1395 429,1396 456,1397 484,1400 484,1370 456,1367 429,1366 402,1365 375,1363 347,1362 320,1362 293,1362 266,1362"/>
+                <Baseline points="266,1382 293,1382 320,1382 347,1382 375,1383 402,1385 429,1386 456,1387 484,1390"/>
+                <TextEquiv>
+                    <Unicode>magnanima</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715594939852_828" custom="readingOrder {index:13;}">
+                <Coords points="489,1382 1599,1383 1599,1433 489,1432"/>
+                <Baseline points="489,1427 1599,1428"/>
+                <TextEquiv>
+                    <Unicode> mostruosa tendenza e disposizione naturale a costruire figure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="194,1512 264,1514 334,1511 405,1510 475,1508 546,1510 616,1510 686,1511 757,1512 827,1514 898,1514 968,1514 1038,1512 1109,1512 1179,1510 1250,1510 1320,1508 1390,1510 1461,1510 1531,1514 1602,1514 1602,1466 1531,1466 1461,1462 1390,1462 1320,1460 1250,1462 1179,1462 1109,1464 1038,1464 968,1466 898,1466 827,1466 757,1464 686,1463 616,1462 546,1462 475,1460 405,1462 334,1463 264,1466 194,1464"/>
+                <Baseline points="194,1496 264,1498 334,1495 405,1494 475,1492 546,1494 616,1494 686,1495 757,1496 827,1498 898,1498 968,1498 1038,1496 1109,1496 1179,1494 1250,1494 1320,1492 1390,1494 1461,1494 1531,1498 1602,1498"/>
+                <TextEquiv>
+                    <Unicode>nello "spazio", quasi incurante di tutta la suggestione e del dominio puramente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="162,1588 235,1590 308,1588 381,1589 454,1588 527,1586 600,1587 673,1588 746,1588 819,1590 893,1588 966,1588 1039,1588 1112,1588 1185,1584 1258,1587 1331,1586 1404,1586 1477,1588 1550,1590 1624,1592 1624,1544 1550,1542 1477,1540 1404,1538 1331,1538 1258,1539 1185,1536 1112,1540 1039,1540 966,1540 893,1540 819,1542 746,1540 673,1540 600,1539 527,1538 454,1540 381,1541 308,1540 235,1542 162,1540"/>
+                <Baseline points="162,1572 235,1574 308,1572 381,1573 454,1572 527,1570 600,1571 673,1572 746,1572 819,1574 893,1572 966,1572 1039,1572 1112,1572 1185,1568 1258,1571 1331,1570 1404,1570 1477,1572 1550,1574 1624,1576"/>
+                <TextEquiv>
+                    <Unicode>musicale che la poesia aveva tenuto nel suo tempo, e in quello immediatamente pre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="162,1672 235,1666 309,1664 383,1662 456,1660 530,1658 604,1660 677,1660 751,1661 825,1660 899,1661 972,1660 1046,1661 1120,1664 1193,1662 1267,1663 1341,1662 1414,1660 1488,1660 1562,1661 1636,1666 1636,1618 1562,1613 1488,1612 1414,1612 1341,1614 1267,1615 1193,1614 1120,1616 1046,1613 972,1612 899,1613 825,1612 751,1613 677,1612 604,1612 530,1610 456,1612 383,1614 309,1616 235,1618 162,1624"/>
+                <Baseline points="162,1656 235,1650 309,1648 383,1646 456,1644 530,1642 604,1644 677,1644 751,1645 825,1644 899,1645 972,1644 1046,1645 1120,1648 1193,1646 1267,1647 1341,1646 1414,1644 1488,1644 1562,1645 1636,1650"/>
+                <TextEquiv>
+                    <Unicode>cedente. Si avverte il perchè, in Dante, la poesa si identifica di continuo con l'i-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="184,1740 257,1736 330,1736 403,1736 476,1736 549,1736 622,1736 695,1738 768,1738 841,1736 914,1737 987,1734 1060,1736 1133,1736 1206,1738 1279,1738 1352,1738 1425,1739 1498,1742 1571,1744 1644,1748 1644,1700 1571,1696 1498,1694 1425,1691 1352,1690 1279,1690 1206,1690 1133,1688 1060,1688 987,1686 914,1689 841,1688 768,1690 695,1690 622,1688 549,1688 476,1688 403,1688 330,1688 257,1688 184,1692"/>
+                <Baseline points="184,1724 257,1720 330,1720 403,1720 476,1720 549,1720 622,1720 695,1722 768,1722 841,1720 914,1721 987,1718 1060,1720 1133,1720 1206,1722 1279,1722 1352,1722 1425,1723 1498,1726 1571,1728 1644,1732"/>
+                <TextEquiv>
+                    <Unicode>dea, tutta plastica, di figura, e con il concetto di virtù. Queste figure s'impongono,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="190,1808 260,1813 331,1816 401,1814 472,1815 543,1816 613,1816 684,1815 754,1814 825,1814 896,1813 966,1812 1037,1812 1107,1813 1178,1812 1249,1813 1319,1812 1390,1814 1460,1813 1531,1811 1602,1810 1602,1762 1531,1763 1460,1765 1390,1766 1319,1764 1249,1765 1178,1764 1107,1765 1037,1764 966,1764 896,1765 825,1766 754,1766 684,1767 613,1768 543,1768 472,1767 401,1766 331,1768 260,1765 190,1760"/>
+                <Baseline points="190,1792 260,1797 331,1800 401,1798 472,1799 543,1800 613,1800 684,1799 754,1798 825,1798 896,1797 966,1796 1037,1796 1107,1797 1178,1796 1249,1797 1319,1796 1390,1798 1460,1797 1531,1795 1602,1794"/>
+                <TextEquiv>
+                    <Unicode>col gesto, sospeso e fermato, della tragica statuaria greca e romana, in cui medita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="188,1886 259,1889 331,1890 403,1890 475,1890 547,1890 618,1890 690,1891 762,1890 834,1886 906,1888 977,1888 1049,1888 1121,1890 1193,1890 1265,1890 1336,1888 1408,1889 1480,1888 1552,1890 1624,1892 1624,1844 1552,1842 1480,1840 1408,1841 1336,1840 1265,1842 1193,1842 1121,1842 1049,1840 977,1840 906,1840 834,1838 762,1842 690,1843 618,1842 547,1842 475,1842 403,1842 331,1842 259,1841 188,1838"/>
+                <Baseline points="188,1870 259,1873 331,1874 403,1874 475,1874 547,1874 618,1874 690,1875 762,1874 834,1870 906,1872 977,1872 1049,1872 1121,1874 1193,1874 1265,1874 1336,1872 1408,1873 1480,1872 1552,1874 1624,1876"/>
+                <TextEquiv>
+                    <Unicode>e stagna la passione morale di un popolo che, disponendo di mezzi d'espressione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="184,1968 257,1964 330,1964 404,1964 477,1962 551,1962 624,1962 697,1962 771,1962 844,1962 918,1962 991,1964 1064,1966 1138,1968 1211,1968 1285,1968 1358,1966 1431,1964 1505,1966 1578,1970 1652,1972 1652,1924 1578,1922 1505,1918 1431,1916 1358,1918 1285,1920 1211,1920 1138,1920 1064,1918 991,1916 918,1914 844,1914 771,1914 697,1914 624,1914 551,1914 477,1914 404,1916 330,1916 257,1916 184,1920"/>
+                <Baseline points="184,1952 257,1948 330,1948 404,1948 477,1946 551,1946 624,1946 697,1946 771,1946 844,1946 918,1946 991,1948 1064,1950 1138,1952 1211,1952 1285,1952 1358,1950 1431,1948 1505,1950 1578,1954 1652,1956"/>
+                <TextEquiv>
+                    <Unicode>supremamente umani, ma non umanistici, e conoscendo da vicino la forza remo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="192,2038 261,2038 331,2039 401,2038 471,2038 541,2039 611,2040 681,2039 751,2040 821,2040 891,2040 960,2041 1030,2040 1100,2042 1170,2042 1240,2042 1310,2044 1380,2043 1450,2044 1520,2043 1590,2046 1590,1998 1520,1995 1450,1996 1380,1995 1310,1996 1240,1994 1170,1994 1100,1994 1030,1992 960,1993 891,1992 821,1992 751,1992 681,1991 611,1992 541,1991 471,1990 401,1990 331,1991 261,1990 192,1990"/>
+                <Baseline points="192,2022 261,2022 331,2023 401,2022 471,2022 541,2023 611,2024 681,2023 751,2024 821,2024 891,2024 960,2025 1030,2024 1100,2026 1170,2026 1240,2026 1310,2028 1380,2027 1450,2028 1520,2027 1590,2030"/>
+                <TextEquiv>
+                    <Unicode>ta della natura, poteva permettersi di concepire la poesia in pure forme di stile.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fatto porosa. ( Dolesi l'una con parole molto, /e'n su la man si posa&#13;
+come succisa rosa:/ il nudo braccio, di dolor colonna /, sente l'oraggio che ca-&#13;
+de dal volto...)&#13;
+Pensavo alla Vergine della Natività, di Arnolfo. La figura è distesa, di donna sul letto&#13;
+di famiglia. Come contadina colta dal pensiero della maternità. Regge il busto nel brac-&#13;
+cio piegato, disteso il corpo, allungato, di dolce animale stanco. La veste si muove in pieghe&#13;
+seguenti, composte e ritornanti: come onda di mare sulla riva. Ogni sentimento, in Dante,&#13;
+tende a rappresentarsi in azione umana, chiusa in una immobilità marmorea, di&#13;
+ne dell'esilio:_"l'altra man tien ascosa / la faccia lacrimosa."&#13;
+Dante la scrisse, pare, nel '302, che è l'anno stesso della morte di Arnolfo. E' in&#13;
+essa che, fin dal principio /Tre donne intorno al cor mi son venute), conferma quella&#13;
+sua        ,&#13;
+magnanima&#13;
+ mostruosa tendenza e disposizione naturale a costruire figure&#13;
+nello "spazio", quasi incurante di tutta la suggestione e del dominio puramente&#13;
+musicale che la poesia aveva tenuto nel suo tempo, e in quello immediatamente pre-&#13;
+cedente. Si avverte il perchè, in Dante, la poesa si identifica di continuo con l'i-&#13;
+dea, tutta plastica, di figura, e con il concetto di virtù. Queste figure s'impongono,&#13;
+col gesto, sospeso e fermato, della tragica statuaria greca e romana, in cui medita&#13;
+e stagna la passione morale di un popolo che, disponendo di mezzi d'espressione&#13;
+supremamente umani, ma non umanistici, e conoscendo da vicino la forza remo-&#13;
+ta della natura, poteva permettersi di concepire la poesia in pure forme di stile.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

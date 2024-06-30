@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:59:36.227+01:00</Created>
+        <LastChange>2024-06-20T11:18:29.219+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325492" pageNr="30" tsid="175603503" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=PODOVNHLGTEERCILVBMUUHZK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YWLWGVVVXMXDCXBGNHZSLVHJ" imageId="53902864"/>
+    </Metadata>
+    <Page imageFilename="Q_1960_16_0006_c2v.jpg" imageWidth="1798" imageHeight="2473" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746063005" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718643262167_998"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+                <RegionRefIndexed index="2" regionRef="region_1718643814575_1023"/>
+                <RegionRefIndexed index="3" regionRef="region_1718643828118_1026"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718643262167_998" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1641,361 1553,361 1553,269 1641,269"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:right;}">
+                <Coords points="1578,330 1626,330 1626,275 1578,275"/>
+                <Baseline points="1578,312 1626,312"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="175,252 181,2159 1689,2171 1683,264"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718643814575_1023" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="206,410 1575,410 1575,661 206,661"/>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:0;} hi {offset:0; length:54;rend:underline;} foreign {offset:0; length:54;lang:french;}">
+                <Coords points="306,514 355,512 404,513 453,512 502,511 552,512 601,512 650,512 699,510 748,510 798,511 847,510 896,509 945,508 994,508 1044,509 1093,510 1142,510 1191,512 1240,513 1290,516 1290,461 1240,458 1191,457 1142,455 1093,455 1044,454 994,453 945,453 896,454 847,455 798,456 748,455 699,455 650,457 601,457 552,457 502,456 453,457 404,458 355,457 306,459"/>
+                <Baseline points="306,496 355,494 404,495 453,494 502,493 552,494 601,494 650,494 699,492 748,492 798,493 847,492 896,491 945,490 994,490 1044,491 1093,492 1142,492 1191,494 1240,495 1290,498"/>
+                <TextEquiv>
+                    <Unicode>Pitié pour nous qui combattons toujours aux frontières</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:1;} hi {offset:0; length:27;rend:underline;} foreign {offset:0; length:27;lang:french;}">
+                <Coords points="302,595 333,592 365,589 397,589 429,589 461,587 492,587 524,587 556,588 588,588 620,586 651,585 683,586 715,587 747,587 779,586 810,585 842,585 874,588 906,587 938,585 938,533 906,535 874,536 842,533 810,533 779,534 747,535 715,535 683,534 651,533 620,534 588,536 556,536 524,535 492,535 461,535 429,537 397,537 365,537 333,540 302,543"/>
+                <Baseline points="302,578 333,575 365,572 397,572 429,572 461,570 492,570 524,570 556,571 588,571 620,569 651,568 683,569 715,570 747,570 779,569 810,568 842,568 874,571 906,570 938,568"/>
+                <TextEquiv>
+                    <Unicode>De l'illimité et de l'avenir...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:2;} hi {offset:0; length:43;rend:underline;} foreign {offset:0; length:43;lang:french;}">
+                <Coords points="300,669 343,667 386,665 429,667 472,662 515,661 558,661 601,663 644,664 687,664 730,659 773,659 816,659 859,659 902,659 945,658 988,660 1031,659 1074,659 1117,661 1160,665 1160,613 1117,609 1074,607 1031,607 988,608 945,606 902,607 859,607 816,607 773,607 730,607 687,612 644,612 601,611 558,609 515,609 472,610 429,615 386,613 343,615 300,617"/>
+                <Baseline points="300,652 343,650 386,648 429,650 472,645 515,644 558,644 601,646 644,647 687,647 730,642 773,642 816,642 859,642 902,642 945,641 988,643 1031,642 1074,642 1117,644 1160,648"/>
+                <TextEquiv>
+                    <Unicode>O Soleil c'est le temps de la Raison ardent...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pitié pour nous qui combattons toujours aux frontières&#13;
+De l'illimité et de l'avenir...&#13;
+O Soleil c'est le temps de la Raison ardent...</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718643828118_1026" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="199,670 1678,670 1674,2041 195,2041"/>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:0;} person {offset:29; length:11;occupation:poet; firstname:Guillaume\u0020; dateOfDeath:9\u0020November\u00201918; dateOfBirth:26\u0020August\u00201880; lastname:Apollinaire;}">
+                <Coords points="202,751 273,750 345,749 417,747 489,742 561,741 633,741 705,743 777,745 849,740 921,739 992,737 1064,735 1136,735 1208,734 1280,733 1352,732 1424,731 1496,733 1568,734 1640,731 1640,680 1568,683 1496,682 1424,680 1352,681 1280,682 1208,683 1136,684 1064,684 992,686 921,688 849,689 777,694 705,692 633,690 561,690 489,691 417,696 345,698 273,699 202,700"/>
+                <Baseline points="202,734 273,733 345,732 417,730 489,725 561,724 633,724 705,726 777,728 849,723 921,722 992,720 1064,718 1136,718 1208,717 1280,716 1352,715 1424,714 1496,716 1568,717 1640,714"/>
+                <TextEquiv>
+                    <Unicode>La giovinezza avventurosa di Apollinaire si svolse in condizioni eccezionali, per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:1;}">
+                <Coords points="204,819 275,821 347,821 419,818 490,818 562,817 634,819 705,817 777,819 849,819 921,817 992,817 1064,817 1136,816 1207,814 1279,811 1351,811 1422,811 1494,814 1566,815 1638,817 1638,766 1566,764 1494,763 1422,760 1351,760 1279,760 1207,763 1136,765 1064,766 992,766 921,766 849,768 777,768 705,766 634,768 562,766 490,767 419,767 347,770 275,770 204,768"/>
+                <Baseline points="204,802 275,804 347,804 419,801 490,801 562,800 634,802 705,800 777,802 849,802 921,800 992,800 1064,800 1136,799 1207,797 1279,794 1351,794 1422,794 1494,797 1566,798 1638,800"/>
+                <TextEquiv>
+                    <Unicode>i rapporti sociali col mondo, e per l'ansia, l'inquietudine del giovane, di rag-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:2;}">
+                <Coords points="222,905 292,901 362,899 432,898 502,895 572,895 642,893 712,893 782,893 852,893 922,892 992,893 1062,890 1132,889 1202,889 1272,884 1342,884 1412,883 1482,885 1552,886 1622,889 1622,837 1552,834 1482,833 1412,831 1342,832 1272,832 1202,837 1132,837 1062,838 992,841 922,840 852,841 782,841 712,841 642,841 572,843 502,843 432,846 362,847 292,849 222,853"/>
+                <Baseline points="222,888 292,884 362,882 432,881 502,878 572,878 642,876 712,876 782,876 852,876 922,875 992,876 1062,873 1132,872 1202,872 1272,867 1342,867 1412,866 1482,868 1552,869 1622,872"/>
+                <TextEquiv>
+                    <Unicode>giungere un luogo spirituale corrispondente al suo sogno. A vent'anni, dopo molte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:3;} place {offset:54; length:7;country:France;}">
+                <Coords points="228,988 294,976 365,971 436,968 507,968 578,968 648,964 719,966 790,965 861,966 932,965 1002,967 1073,966 1144,965 1215,962 1286,962 1356,959 1427,958 1498,959 1569,961 1640,962 1640,914 1569,913 1498,911 1427,910 1356,911 1286,914 1215,914 1144,917 1073,918 1002,919 932,917 861,918 790,917 719,918 648,916 578,920 507,920 436,920 365,923 294,928 228,940"/>
+                <Baseline points="228,972 294,960 365,955 436,952 507,952 578,952 648,948 719,950 790,949 861,950 932,949 1002,951 1073,950 1144,949 1215,946 1286,946 1356,943 1427,942 1498,943 1569,945 1640,946"/>
+                <TextEquiv>
+                    <Unicode>che avevano l'aria di fughe con la madre, si stabilì a Parigi. Di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:4;}">
+                <Coords points="226,1054 296,1048 367,1043 438,1044 509,1042 580,1040 651,1040 722,1041 793,1041 864,1040 935,1042 1005,1042 1076,1040 1147,1040 1218,1040 1289,1040 1360,1038 1431,1036 1502,1037 1573,1036 1644,1036 1644,988 1573,988 1502,989 1431,988 1360,990 1289,992 1218,992 1147,992 1076,992 1005,994 935,994 864,992 793,993 722,993 651,992 580,992 509,994 438,996 367,995 296,1000 226,1006"/>
+                <Baseline points="226,1038 296,1032 367,1027 438,1028 509,1026 580,1024 651,1024 722,1025 793,1025 864,1024 935,1026 1005,1026 1076,1024 1147,1024 1218,1024 1289,1024 1360,1022 1431,1020 1502,1021 1573,1020 1644,1020"/>
+                <TextEquiv>
+                    <Unicode>qui mentre studiava una possibile rinascita nell'esistenza quotidiana, partiva per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:5;} place {offset:18; length:7;country:France;} place {offset:30; length:8;country:Germany;} place {offset:43; length:6;country:United\u0020Kingdom;}">
+                <Coords points="214,1121 285,1121 356,1121 427,1122 498,1123 570,1122 641,1121 712,1122 783,1122 854,1121 926,1119 997,1118 1068,1117 1139,1116 1210,1113 1282,1113 1353,1111 1424,1114 1495,1113 1566,1116 1638,1119 1638,1067 1566,1064 1495,1061 1424,1062 1353,1059 1282,1061 1210,1061 1139,1064 1068,1065 997,1066 926,1067 854,1069 783,1070 712,1070 641,1069 570,1070 498,1071 427,1070 356,1069 285,1069 214,1069"/>
+                <Baseline points="214,1104 285,1104 356,1104 427,1105 498,1106 570,1105 641,1104 712,1105 783,1105 854,1104 926,1102 997,1101 1068,1100 1139,1099 1210,1096 1282,1096 1353,1094 1424,1097 1495,1096 1566,1099 1638,1102"/>
+                <TextEquiv>
+                    <Unicode>lunghi viaggi, in Francia, in Germania e a Londra. È possibile che, di codesta età,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:6;}">
+                <Coords points="212,1203 283,1200 355,1199 426,1198 498,1199 569,1199 641,1197 712,1195 784,1194 855,1193 927,1193 998,1192 1070,1193 1141,1192 1213,1191 1284,1189 1356,1189 1427,1189 1499,1192 1570,1190 1642,1195 1642,1144 1570,1139 1499,1141 1427,1138 1356,1138 1284,1138 1213,1140 1141,1141 1070,1142 998,1141 927,1142 855,1142 784,1143 712,1144 641,1146 569,1148 498,1148 426,1147 355,1148 283,1149 212,1152"/>
+                <Baseline points="212,1186 283,1183 355,1182 426,1181 498,1182 569,1182 641,1180 712,1178 784,1177 855,1176 927,1176 998,1175 1070,1176 1141,1175 1213,1174 1284,1172 1356,1172 1427,1172 1499,1175 1570,1173 1642,1178"/>
+                <TextEquiv>
+                    <Unicode>siano stati i suoi primi contatti, i suoi incontri con le opere dell'arte, nei musei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718643100451_970" custom="readingOrder {index:7;} place {offset:29; length:8;country:Germany;}">
+                <Coords points="206,1228 285,1226 364,1225 443,1222 523,1220 602,1221 681,1222 761,1219 840,1220 919,1220 999,1222 1078,1220 1157,1215 1236,1213 1316,1212 1395,1212 1474,1211 1554,1212 1610,1214 1659,1212 1660,1263 1633,1265 1554,1263 1474,1262 1395,1263 1316,1263 1236,1264 1157,1266 1078,1271 999,1273 919,1271 840,1271 761,1270 681,1273 602,1272 523,1271 443,1273 364,1276 285,1277 206,1279"/>
+                <Baseline points="206,1262 285,1260 364,1259 443,1256 523,1254 602,1255 681,1256 761,1253 840,1254 919,1254 999,1256 1078,1254 1157,1249 1236,1247 1316,1246 1395,1246 1474,1245 1554,1246 1633,1248 1675,1248"/>
+                <TextEquiv>
+                    <Unicode>nelle gallerie pubbliche. In Germania, è certo, fa la scoperta della pittura antica germa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:8;} place {offset:28; length:6;country:Germany;} place {offset:39; length:7;country:Germany;} place {offset:51; length:7;country:Germany;}">
+                <Coords points="206,1353 276,1355 347,1351 418,1349 489,1347 560,1345 631,1345 702,1343 773,1343 844,1343 915,1343 985,1344 1056,1343 1127,1342 1198,1339 1269,1339 1340,1337 1411,1335 1482,1335 1553,1335 1624,1337 1624,1285 1553,1283 1482,1283 1411,1283 1340,1285 1269,1287 1198,1287 1127,1290 1056,1291 985,1292 915,1291 844,1291 773,1291 702,1291 631,1293 560,1293 489,1295 418,1297 347,1299 276,1303 206,1301"/>
+                <Baseline points="206,1336 276,1338 347,1334 418,1332 489,1330 560,1328 631,1328 702,1326 773,1326 844,1326 915,1326 985,1327 1056,1326 1127,1325 1198,1322 1269,1322 1340,1320 1411,1318 1482,1318 1553,1318 1624,1320"/>
+                <TextEquiv>
+                    <Unicode>niche, nelle pinacoteche di Monaco, di Colonia, di Berlino i cui contenuti dovettero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:9;}">
+                <Coords points="222,1430 292,1428 362,1426 432,1425 502,1422 572,1424 642,1421 712,1420 782,1418 852,1421 923,1418 993,1420 1063,1418 1133,1418 1203,1416 1273,1416 1343,1412 1413,1410 1483,1410 1553,1412 1624,1418 1624,1364 1553,1358 1483,1356 1413,1356 1343,1358 1273,1362 1203,1362 1133,1364 1063,1364 993,1366 923,1364 852,1367 782,1364 712,1366 642,1367 572,1370 502,1368 432,1371 362,1372 292,1374 222,1376"/>
+                <Baseline points="222,1412 292,1410 362,1408 432,1407 502,1404 572,1406 642,1403 712,1402 782,1400 852,1403 923,1400 993,1402 1063,1400 1133,1400 1203,1398 1273,1398 1343,1394 1413,1392 1483,1392 1553,1394 1624,1400"/>
+                <TextEquiv>
+                    <Unicode>affermarsi nella sua psicologia di scrittore negli inizi. Lo attestano motivi, esseri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:10;}">
+                <Coords points="210,1509 282,1505 354,1503 426,1501 499,1498 571,1497 643,1498 716,1497 788,1495 860,1493 933,1493 1005,1493 1077,1494 1149,1491 1222,1490 1294,1489 1366,1487 1439,1489 1511,1489 1583,1490 1656,1501 1656,1449 1583,1438 1511,1437 1439,1437 1366,1435 1294,1437 1222,1438 1149,1439 1077,1442 1005,1441 933,1441 860,1441 788,1443 716,1445 643,1446 571,1445 499,1446 426,1449 354,1451 282,1453 210,1457"/>
+                <Baseline points="210,1492 282,1488 354,1486 426,1484 499,1481 571,1480 643,1481 716,1480 788,1478 860,1476 933,1476 1005,1476 1077,1477 1149,1474 1222,1473 1294,1472 1366,1470 1439,1472 1511,1472 1583,1473 1656,1484"/>
+                <TextEquiv>
+                    <Unicode>modificati e trasfusi, dei suoi racconti degli anni seguenti, nei quali si agita un' uma-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:11;}">
+                <Coords points="214,1579 286,1578 358,1577 430,1575 502,1576 574,1573 646,1573 718,1571 790,1571 862,1571 934,1569 1006,1567 1078,1569 1150,1569 1222,1568 1294,1565 1366,1565 1438,1565 1510,1569 1582,1569 1654,1575 1654,1524 1582,1518 1510,1518 1438,1514 1366,1514 1294,1514 1222,1517 1150,1518 1078,1518 1006,1516 934,1518 862,1520 790,1520 718,1520 646,1522 574,1522 502,1525 430,1524 358,1526 286,1527 214,1528"/>
+                <Baseline points="214,1562 286,1561 358,1560 430,1558 502,1559 574,1556 646,1556 718,1554 790,1554 862,1554 934,1552 1006,1550 1078,1552 1150,1552 1222,1551 1294,1548 1366,1548 1438,1548 1510,1552 1582,1552 1654,1558"/>
+                <TextEquiv>
+                    <Unicode>nità inquieta agitata e ansiosa, anche stralunata, che presentando apparente origi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718643079885_957" custom="readingOrder {index:12;} person {offset:61; length:7;occupation:writer; firstname:Ernst; dateOfDeath:25\u0020June\u00201822; dateOfBirth:24\u0020January\u00201776; lastname:Hoffmann;}">
+                <Coords points="210,1606 288,1605 366,1600 444,1599 523,1598 758,1598 836,1596 914,1594 993,1590 1071,1590 1149,1588 1384,1588 1462,1589 1541,1592 1619,1596 1678,1596 1678,1647 1619,1647 1541,1643 1462,1640 1384,1639 1149,1639 1071,1641 993,1641 914,1645 836,1647 758,1649 523,1649 444,1650 366,1651 288,1656 210,1657"/>
+                <Baseline points="210,1640 288,1639 366,1634 444,1633 523,1632 601,1632 679,1632 758,1632 836,1630 914,1628 993,1624 1071,1624 1149,1622 1227,1622 1306,1622 1384,1622 1462,1623 1541,1626 1619,1630 1678,1630"/>
+                <TextEquiv>
+                    <Unicode>ne dalla letteratura romantica e tardo romantica tedesca, da Hoffman a, ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:13;} unclear {offset:49; length:9;reason:illegible;} gap {offset:49; length:0;quantity:9; unit:character; reason:illegible;} unclear {offset:60; length:12;reason:illegibile;} gap {offset:60; length:0;quantity:12; unit:character; reason:illegible;} unclear {offset:73; length:8;reason:illegible;} gap {offset:73; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="214,1732 286,1731 358,1731 430,1730 502,1730 574,1728 646,1728 718,1726 790,1727 862,1724 935,1722 1007,1722 1079,1720 1151,1718 1223,1718 1295,1714 1367,1714 1439,1716 1511,1716 1583,1718 1656,1726 1656,1672 1583,1664 1511,1662 1439,1662 1367,1660 1295,1660 1223,1664 1151,1664 1079,1666 1007,1668 935,1668 862,1670 790,1673 718,1672 646,1674 574,1674 502,1676 430,1676 358,1677 286,1677 214,1678"/>
+                <Baseline points="214,1714 286,1713 358,1713 430,1712 502,1712 574,1710 646,1710 718,1708 790,1709 862,1706 935,1704 1007,1704 1079,1702 1151,1700 1223,1700 1295,1696 1367,1696 1439,1698 1511,1698 1583,1700 1656,1708"/>
+                <TextEquiv>
+                    <Unicode>anche qualcosa in sé del fermo e disperato cuore                                 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:14;}">
+                <Coords points="214,1810 284,1809 355,1807 425,1806 496,1806 567,1805 637,1804 708,1803 778,1800 849,1800 920,1802 990,1801 1061,1802 1131,1799 1202,1796 1273,1796 1343,1795 1414,1796 1484,1794 1555,1794 1626,1796 1626,1742 1555,1740 1484,1740 1414,1742 1343,1741 1273,1742 1202,1742 1131,1745 1061,1748 990,1747 920,1748 849,1746 778,1746 708,1749 637,1750 567,1751 496,1752 425,1752 355,1753 284,1755 214,1756"/>
+                <Baseline points="214,1792 284,1791 355,1789 425,1788 496,1788 567,1787 637,1786 708,1785 778,1782 849,1782 920,1784 990,1783 1061,1784 1131,1781 1202,1778 1273,1778 1343,1777 1414,1778 1484,1776 1555,1776 1626,1778"/>
+                <TextEquiv>
+                    <Unicode>no. E, nel medesimo tempo, l'impressione, la soggezione che dovette risentire davanti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:15;}">
+                <Coords points="220,1882 291,1882 362,1882 434,1882 505,1882 577,1883 648,1881 719,1880 791,1879 862,1876 934,1876 1005,1876 1076,1876 1148,1877 1219,1874 1291,1876 1362,1872 1433,1872 1505,1872 1576,1873 1648,1878 1648,1824 1576,1819 1505,1818 1433,1818 1362,1818 1291,1822 1219,1820 1148,1823 1076,1822 1005,1822 934,1822 862,1822 791,1825 719,1826 648,1827 577,1829 505,1828 434,1828 362,1828 291,1828 220,1828"/>
+                <Baseline points="220,1864 291,1864 362,1864 434,1864 505,1864 577,1865 648,1863 719,1862 791,1861 862,1858 934,1858 1005,1858 1076,1858 1148,1859 1219,1856 1291,1858 1362,1854 1433,1854 1505,1854 1576,1855 1648,1860"/>
+                <TextEquiv>
+                    <Unicode>ai campioni dell'espressionismo germanico dei nuovi pittori, un poco suoi contempo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:16;}">
+                <Coords points="222,1961 250,1959 279,1959 307,1961 336,1965 336,1914 307,1910 279,1908 250,1908 222,1910"/>
+                <Baseline points="222,1944 250,1942 279,1942 307,1944 336,1948"/>
+                <TextEquiv>
+                    <Unicode>ranei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:17;} person {offset:59; length:11;occupation:poet; firstname:Guillaume; dateOfDeath:9\u0020November\u00201918; dateOfBirth:26\u0020August\u00201880; lastname:Apollinaire;}">
+                <Coords points="238,2031 308,2030 379,2031 449,2031 520,2032 591,2030 661,2029 732,2030 802,2030 873,2033 944,2031 1014,2029 1085,2029 1155,2027 1226,2027 1297,2026 1367,2024 1438,2025 1508,2026 1579,2025 1650,2023 1650,1972 1579,1974 1508,1975 1438,1974 1367,1973 1297,1975 1226,1976 1155,1976 1085,1978 1014,1978 944,1980 873,1982 802,1979 732,1979 661,1978 591,1979 520,1981 449,1980 379,1980 308,1979 238,1980"/>
+                <Baseline points="238,2014 308,2013 379,2014 449,2014 520,2015 591,2013 661,2012 732,2013 802,2013 873,2016 944,2014 1014,2012 1085,2012 1155,2010 1226,2010 1297,2009 1367,2007 1438,2008 1508,2009 1579,2008 1650,2006"/>
+                <TextEquiv>
+                    <Unicode>Verso il 1905 (aveva ventisette anni), il mondo poetico di Apollinaire aveva già as-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La giovinezza avventurosa di Apollinaire si svolse in condizioni eccezionali, per&#13;
+i rapporti sociali col mondo, e per l'ansia, l'inquietudine del giovane, di rag-&#13;
+giungere un luogo spirituale corrispondente al suo sogno. A vent'anni, dopo molte&#13;
+che avevano l'aria di fughe con la madre, si stabilì a Parigi. Di&#13;
+qui mentre studiava una possibile rinascita nell'esistenza quotidiana, partiva per&#13;
+lunghi viaggi, in Francia, in Germania e a Londra. È possibile che, di codesta età,&#13;
+siano stati i suoi primi contatti, i suoi incontri con le opere dell'arte, nei musei&#13;
+nelle gallerie pubbliche. In Germania, è certo, fa la scoperta della pittura antica germa-&#13;
+niche, nelle pinacoteche di Monaco, di Colonia, di Berlino i cui contenuti dovettero&#13;
+affermarsi nella sua psicologia di scrittore negli inizi. Lo attestano motivi, esseri&#13;
+modificati e trasfusi, dei suoi racconti degli anni seguenti, nei quali si agita un' uma-&#13;
+nità inquieta agitata e ansiosa, anche stralunata, che presentando apparente origi-&#13;
+ne dalla letteratura romantica e tardo romantica tedesca, da Hoffman a, ha&#13;
+anche qualcosa in sé del fermo e disperato cuore                                 &#13;
+no. E, nel medesimo tempo, l'impressione, la soggezione che dovette risentire davanti &#13;
+ai campioni dell'espressionismo germanico dei nuovi pittori, un poco suoi contempo-&#13;
+ranei.&#13;
+Verso il 1905 (aveva ventisette anni), il mondo poetico di Apollinaire aveva già as-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:48:59.607+02:00</Created>
+        <LastChange>2024-06-20T10:46:59.604+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326075" pageNr="129" tsid="175603608" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=HJDFLPYBOHFGAUZBXCYQYUJR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WNTXRWDYNRPTXOEKHVKDNGQS" imageId="54317590"/>
+    </Metadata>
+    <Page imageFilename="Q_10_1955_0005_c2r.jpg" imageWidth="1798" imageHeight="2324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746082991" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="178,465 178,2034 1638,2034 1638,465"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="200,516 271,517 342,520 414,520 485,519 557,518 628,519 699,520 771,516 842,515 914,514 985,516 1056,515 1128,514 1199,517 1271,517 1342,516 1413,514 1485,514 1556,514 1628,518 1628,469 1556,465 1485,465 1413,465 1342,467 1271,468 1199,468 1128,465 1056,466 985,467 914,465 842,466 771,467 699,471 628,470 557,469 485,470 414,471 342,471 271,468 200,467"/>
+                <Baseline points="200,500 271,501 342,504 414,504 485,503 557,502 628,503 699,504 771,500 842,499 914,498 985,500 1056,499 1128,498 1199,501 1271,501 1342,500 1413,498 1485,498 1556,498 1628,502"/>
+                <TextEquiv>
+                    <Unicode>"Nel tempo esteso, continua il Poliziano, gli schermi destinati a Lorenzo sonogli addosso.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="194,598 265,595 337,594 409,596 480,598 552,600 624,600 695,598 767,599 839,598 911,596 982,595 1054,594 1126,593 1197,593 1269,592 1341,591 1412,590 1484,590 1556,588 1628,594 1628,545 1556,539 1484,541 1412,541 1341,542 1269,543 1197,544 1126,544 1054,545 982,546 911,547 839,549 767,550 695,549 624,551 552,551 480,549 409,547 337,545 265,546 194,549"/>
+                <Baseline points="194,582 265,579 337,578 409,580 480,582 552,584 624,584 695,582 767,583 839,582 911,580 982,579 1054,578 1126,577 1197,577 1269,576 1341,575 1412,574 1484,574 1556,572 1628,578"/>
+                <TextEquiv>
+                    <Unicode>Il Volterrano colla sinistra gli afferra una spalla, miragli un colpo alla gola. Egli in-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="198,678 269,677 341,674 413,672 485,670 557,670 629,669 701,670 773,668 845,667 917,666 988,668 1060,664 1132,664 1204,663 1276,666 1348,662 1420,662 1492,662 1564,664 1636,664 1636,615 1564,615 1492,613 1420,613 1348,613 1276,617 1204,614 1132,615 1060,615 988,619 917,617 845,618 773,619 701,621 629,620 557,621 485,621 413,623 341,625 269,628 198,629"/>
+                <Baseline points="198,662 269,661 341,658 413,656 485,654 557,654 629,653 701,654 773,652 845,651 917,650 988,652 1060,648 1132,648 1204,647 1276,650 1348,646 1420,646 1492,646 1564,648 1636,648"/>
+                <TextEquiv>
+                    <Unicode>perterrito, giù il mantello, al sinistro braccio lo avvolge, fuori la spada; ma nel voler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="188,754 260,752 332,751 404,750 477,750 549,748 621,746 694,746 766,746 838,745 911,742 983,742 1055,741 1127,742 1200,742 1272,742 1344,742 1417,744 1489,744 1561,745 1634,746 1634,697 1561,696 1489,695 1417,695 1344,693 1272,693 1200,693 1127,693 1055,692 983,693 911,693 838,696 766,697 694,697 621,697 549,699 477,701 404,701 332,702 260,703 188,705"/>
+                <Baseline points="188,738 260,736 332,735 404,734 477,734 549,732 621,730 694,730 766,730 838,729 911,726 983,726 1055,725 1127,726 1200,726 1272,726 1344,726 1417,728 1489,728 1561,729 1634,730"/>
+                <TextEquiv>
+                    <Unicode>distrigarsi è ferito nel collo. Etc. Il Bandini, trucidato Giuliano, nè pago di sua par-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="182,832 254,828 327,828 400,828 473,828 546,826 618,824 691,822 764,822 837,821 910,822 982,822 1055,822 1128,820 1201,818 1274,818 1346,817 1419,817 1492,818 1565,817 1638,814 1638,765 1565,768 1492,769 1419,768 1346,768 1274,769 1201,769 1128,771 1055,773 982,773 910,773 837,772 764,773 691,773 618,775 546,777 473,779 400,779 327,779 254,779 182,783"/>
+                <Baseline points="182,816 254,812 327,812 400,812 473,812 546,810 618,808 691,806 764,806 837,805 910,806 982,806 1055,806 1128,804 1201,802 1274,802 1346,801 1419,801 1492,802 1565,801 1638,798"/>
+                <TextEquiv>
+                    <Unicode>te, cerca Lorenzo; ma egli s'era già salvato in Sagrestia. Imbattutosi però in Francesco Novi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="196,904 268,900 340,899 412,898 484,898 556,898 628,896 700,894 772,892 844,893 917,892 989,893 1061,894 1133,894 1205,893 1277,892 1349,892 1421,892 1493,894 1565,897 1638,898 1638,849 1565,848 1493,845 1421,843 1349,843 1277,843 1205,844 1133,845 1061,845 989,844 917,843 844,844 772,843 700,845 628,847 556,849 484,849 412,849 340,850 268,851 196,855"/>
+                <Baseline points="196,888 268,884 340,883 412,882 484,882 556,882 628,880 700,878 772,876 844,877 917,876 989,877 1061,878 1133,878 1205,877 1277,876 1349,876 1421,876 1493,878 1565,881 1638,882"/>
+                <TextEquiv>
+                    <Unicode>molto esperto facitore delle cose de' Medici, te gli affonda la spada nel petto, e quasi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="186,976 258,975 331,974 403,974 476,972 548,972 621,970 693,970 766,971 838,972 911,972 983,969 1056,970 1128,969 1201,968 1273,966 1346,966 1418,966 1491,969 1563,974 1636,976 1636,927 1563,925 1491,920 1418,917 1346,917 1273,917 1201,919 1128,920 1056,921 983,920 911,923 838,923 766,922 693,921 621,921 548,923 476,923 403,925 331,925 258,926 186,927"/>
+                <Baseline points="186,960 258,959 331,958 403,958 476,956 548,956 621,954 693,954 766,955 838,956 911,956 983,953 1056,954 1128,953 1201,952 1273,950 1346,950 1418,950 1491,953 1563,958 1636,960"/>
+                <TextEquiv>
+                    <Unicode>il fa a ghiado. Il palpitante cadavere è portato nella Sagrestia dove s'era Lorenzo ritaglia-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="190,1058 262,1055 334,1050 406,1048 478,1049 550,1048 622,1046 694,1046 766,1047 838,1049 910,1044 982,1044 1054,1044 1126,1046 1198,1045 1270,1046 1342,1044 1414,1044 1486,1044 1558,1042 1630,1042 1630,994 1558,994 1486,996 1414,996 1342,996 1270,998 1198,997 1126,998 1054,996 982,996 910,996 838,1001 766,999 694,998 622,998 550,1000 478,1001 406,1000 334,1002 262,1007 190,1010"/>
+                <Baseline points="190,1042 262,1039 334,1034 406,1032 478,1033 550,1032 622,1030 694,1030 766,1031 838,1033 910,1028 982,1028 1054,1028 1126,1030 1198,1029 1270,1030 1342,1028 1414,1028 1486,1028 1558,1026 1630,1026"/>
+                <TextEquiv>
+                    <Unicode>to." Anche il Poliziano, con gli altri s'è salvato; sbarrano la porta di bronzo. Cercano di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="186,1132 258,1130 330,1128 402,1126 475,1126 547,1126 619,1126 692,1123 764,1122 836,1122 909,1122 981,1123 1053,1124 1125,1124 1198,1122 1270,1120 1342,1118 1415,1118 1487,1118 1559,1117 1632,1120 1632,1071 1559,1068 1487,1069 1415,1069 1342,1069 1270,1071 1198,1073 1125,1075 1053,1075 981,1074 909,1073 836,1073 764,1073 692,1074 619,1077 547,1077 475,1077 402,1077 330,1079 258,1081 186,1083"/>
+                <Baseline points="186,1116 258,1114 330,1112 402,1110 475,1110 547,1110 619,1110 692,1107 764,1106 836,1106 909,1106 981,1107 1053,1108 1125,1108 1198,1106 1270,1104 1342,1102 1415,1102 1487,1102 1559,1101 1632,1104"/>
+                <TextEquiv>
+                    <Unicode>curare le ferite di Lorenzo: un amico gliela succhia, temendo che fosse di ferro avvelenato.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="194,1208 266,1202 338,1204 410,1204 482,1203 554,1204 626,1200 698,1200 770,1198 842,1198 914,1198 986,1198 1058,1198 1130,1196 1202,1197 1274,1196 1346,1195 1418,1192 1490,1196 1562,1197 1634,1200 1634,1151 1562,1148 1490,1147 1418,1143 1346,1146 1274,1147 1202,1148 1130,1147 1058,1149 986,1149 914,1149 842,1149 770,1149 698,1151 626,1151 554,1155 482,1154 410,1155 338,1155 266,1153 194,1159"/>
+                <Baseline points="194,1192 266,1186 338,1188 410,1188 482,1187 554,1188 626,1184 698,1184 770,1182 842,1182 914,1182 986,1182 1058,1182 1130,1180 1202,1181 1274,1180 1346,1179 1418,1176 1490,1180 1562,1181 1634,1184"/>
+                <TextEquiv>
+                    <Unicode>Arrivano rinforzi. Il Poliziano come a casa propria, e Lorenzo accompagnato in palazzo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="178,1284 250,1280 323,1278 396,1278 469,1278 542,1278 615,1276 688,1275 761,1274 834,1273 907,1271 979,1270 1052,1269 1125,1268 1198,1268 1271,1268 1344,1268 1417,1266 1490,1268 1563,1270 1636,1274 1636,1225 1563,1221 1490,1219 1417,1217 1344,1219 1271,1219 1198,1219 1125,1219 1052,1220 979,1221 907,1222 834,1224 761,1225 688,1226 615,1227 542,1229 469,1229 396,1229 323,1229 250,1231 178,1235"/>
+                <Baseline points="178,1268 250,1264 323,1262 396,1262 469,1262 542,1262 615,1260 688,1259 761,1258 834,1257 907,1255 979,1254 1052,1253 1125,1252 1198,1252 1271,1252 1344,1252 1417,1250 1490,1252 1563,1254 1636,1258"/>
+                <TextEquiv>
+                    <Unicode>Poi incomincia la scazione, e la caccia ai congiunti. La congiura finì con la cattura dei capi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="190,1358 256,1358 323,1358 389,1358 456,1357 523,1355 589,1354 656,1352 722,1352 789,1352 856,1350 922,1346 989,1345 1055,1346 1122,1344 1188,1346 1255,1344 1322,1344 1388,1344 1455,1342 1522,1344 1522,1295 1455,1293 1388,1295 1322,1295 1255,1295 1188,1297 1122,1295 1055,1297 989,1296 922,1297 856,1301 789,1303 722,1303 656,1303 589,1305 523,1306 456,1308 389,1309 323,1309 256,1309 190,1309"/>
+                <Baseline points="190,1342 256,1342 323,1342 389,1342 456,1341 523,1339 589,1338 656,1336 722,1336 789,1336 856,1334 922,1330 989,1329 1055,1330 1122,1328 1188,1330 1255,1328 1322,1328 1388,1328 1455,1326 1522,1328"/>
+                <TextEquiv>
+                    <Unicode>e degli affiliati: 17 impiccati, altri decapitati; il resto, o confinati o sbanditi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715536418201_603" custom="readingOrder {index:12;}">
+                <Coords points="199,1380 541,1382 541,1432 199,1430"/>
+                <Baseline points="199,1425 541,1427"/>
+                <TextEquiv>
+                    <Unicode>Per me, la secchezza,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715536420717_608" custom="readingOrder {index:13;}">
+                <Coords points="529,1348 554,1350 550,1400 525,1398"/>
+                <Baseline points="525,1393 550,1395"/>
+                <TextEquiv>
+                    <Unicode>la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715536425102_613" custom="readingOrder {index:14;}">
+                <Coords points="546,1372 1630,1370 1630,1420 546,1422"/>
+                <Baseline points="546,1417 1630,1415"/>
+                <TextEquiv>
+                    <Unicode>rapidità e precisione dello stile della Cronaca hanno riscontro col gu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:15;}">
+                <Coords points="200,1506 270,1506 340,1504 410,1504 481,1505 551,1504 621,1504 692,1501 762,1500 832,1498 903,1497 973,1498 1043,1496 1113,1498 1184,1500 1254,1497 1324,1497 1395,1498 1465,1497 1535,1499 1606,1500 1606,1451 1535,1450 1465,1448 1395,1449 1324,1448 1254,1448 1184,1451 1113,1449 1043,1447 973,1449 903,1448 832,1449 762,1451 692,1452 621,1455 551,1455 481,1456 410,1455 340,1455 270,1457 200,1457"/>
+                <Baseline points="200,1490 270,1490 340,1488 410,1488 481,1489 551,1488 621,1488 692,1485 762,1484 832,1482 903,1481 973,1482 1043,1480 1113,1482 1184,1484 1254,1481 1324,1481 1395,1482 1465,1481 1535,1483 1606,1484"/>
+                <TextEquiv>
+                    <Unicode>sto e lo stile, con l'estetica e il tono morale della grafia, del segno ascritto, tagliente di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:16;}">
+                <Coords points="202,1582 270,1583 339,1582 408,1582 476,1581 545,1579 614,1580 682,1578 751,1578 820,1578 889,1572 957,1572 1026,1572 1095,1572 1163,1572 1232,1571 1301,1568 1369,1568 1438,1568 1507,1568 1576,1572 1576,1523 1507,1519 1438,1519 1369,1519 1301,1519 1232,1522 1163,1523 1095,1523 1026,1523 957,1523 889,1523 820,1529 751,1529 682,1529 614,1531 545,1530 476,1532 408,1533 339,1533 270,1534 202,1533"/>
+                <Baseline points="202,1566 270,1567 339,1566 408,1566 476,1565 545,1563 614,1564 682,1562 751,1562 820,1562 889,1556 957,1556 1026,1556 1095,1556 1163,1556 1232,1555 1301,1552 1369,1552 1438,1552 1507,1552 1576,1556"/>
+                <TextEquiv>
+                    <Unicode>quei fogli del Pollaiuolo, e in genere con la particolare mentalità d'arte della sua opera di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:17;}">
+                <Coords points="196,1664 266,1654 336,1656 406,1653 476,1654 546,1654 616,1652 686,1652 756,1650 826,1650 896,1648 966,1648 1036,1646 1106,1646 1176,1648 1246,1646 1316,1646 1386,1646 1456,1644 1526,1646 1596,1648 1596,1599 1526,1597 1456,1595 1386,1597 1316,1597 1246,1597 1176,1599 1106,1597 1036,1597 966,1599 896,1599 826,1601 756,1601 686,1603 616,1603 546,1605 476,1605 406,1604 336,1607 266,1605 196,1615"/>
+                <Baseline points="196,1648 266,1638 336,1640 406,1637 476,1638 546,1638 616,1636 686,1636 756,1634 826,1634 896,1632 966,1632 1036,1630 1106,1630 1176,1632 1246,1630 1316,1630 1386,1630 1456,1628 1526,1630 1596,1632"/>
+                <TextEquiv>
+                    <Unicode>pittore, di scultore e di orafo. Qualcosa, che mantiene la traccia degli strumenti, degli arnesi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:18;}">
+                <Coords points="188,1732 260,1733 332,1730 404,1728 476,1728 548,1726 620,1726 692,1728 764,1726 836,1727 908,1728 980,1724 1052,1724 1124,1724 1196,1724 1268,1724 1340,1723 1412,1721 1484,1722 1556,1720 1628,1722 1628,1673 1556,1671 1484,1673 1412,1672 1340,1674 1268,1675 1196,1675 1124,1675 1052,1675 980,1675 908,1679 836,1678 764,1677 692,1679 620,1677 548,1677 476,1679 404,1679 332,1681 260,1684 188,1683"/>
+                <Baseline points="188,1716 260,1717 332,1714 404,1712 476,1712 548,1710 620,1710 692,1712 764,1710 836,1711 908,1712 980,1708 1052,1708 1124,1708 1196,1708 1268,1708 1340,1707 1412,1705 1484,1706 1556,1704 1628,1706"/>
+                <TextEquiv>
+                    <Unicode>dei ferri del suo lavoro; e che è riscontrabile in tante manifestazioni dell'ingegno, dell'arte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:19;}">
+                <Coords points="198,1810 223,1810 248,1810 274,1808 299,1808 325,1808 350,1808 376,1808 401,1808 427,1808 452,1808 478,1807 503,1807 529,1807 554,1806 580,1804 580,1755 554,1757 529,1758 503,1758 478,1758 452,1759 427,1759 401,1759 376,1759 350,1759 325,1759 299,1759 274,1759 248,1761 223,1761 198,1761"/>
+                <Baseline points="198,1794 223,1794 248,1794 274,1792 299,1792 325,1792 350,1792 376,1792 401,1792 427,1792 452,1792 478,1791 503,1791 529,1791 554,1790 580,1788"/>
+                <TextEquiv>
+                    <Unicode>fiorentina di quel tempo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715536437643_622" custom="readingOrder {index:20;}">
+                <Coords points="206,1831 1437,1817 1438,1867 207,1881"/>
+                <Baseline points="207,1876 1438,1862"/>
+                <TextEquiv>
+                    <Unicode>Si può ritrovarne la prova, oltre che nelle opere, nei commenti, e nella critica </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:21;} add {offset:0; length:13;place:above;}">
+                <Coords points="1234,1823 1260,1823 1287,1822 1314,1821 1341,1820 1367,1819 1394,1819 1421,1819 1448,1819 1448,1785 1421,1785 1394,1785 1367,1785 1341,1786 1314,1787 1287,1788 1260,1789 1234,1789"/>
+                <Baseline points="1234,1812 1260,1812 1287,1811 1314,1810 1341,1809 1367,1808 1394,1808 1421,1808 1448,1808"/>
+                <TextEquiv>
+                    <Unicode>dell'Ortolani</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715536440149_627" custom="readingOrder {index:22;}">
+                <Coords points="1447,1821 1576,1823 1575,1873 1446,1871"/>
+                <Baseline points="1446,1866 1575,1868"/>
+                <TextEquiv>
+                    <Unicode>; come in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:23;}">
+                <Coords points="202,1956 272,1959 343,1959 413,1960 484,1962 554,1960 625,1958 695,1955 766,1953 836,1954 907,1951 977,1952 1048,1954 1118,1952 1189,1952 1259,1952 1330,1950 1400,1950 1471,1951 1541,1953 1612,1956 1612,1907 1541,1904 1471,1902 1400,1901 1330,1901 1259,1903 1189,1903 1118,1903 1048,1905 977,1903 907,1902 836,1905 766,1904 695,1906 625,1909 554,1911 484,1913 413,1911 343,1910 272,1910 202,1907"/>
+                <Baseline points="202,1940 272,1943 343,1943 413,1944 484,1946 554,1944 625,1942 695,1939 766,1937 836,1938 907,1935 977,1936 1048,1938 1118,1936 1189,1936 1259,1936 1330,1934 1400,1934 1471,1935 1541,1937 1612,1940"/>
+                <TextEquiv>
+                    <Unicode>alcune pagine, appropriatissime, di Emilio Cecchi, che a più riprese è tornato du codesto argo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:24;}">
+                <Coords points="202,2034 271,2034 340,2034 409,2034 478,2032 548,2032 617,2032 686,2032 755,2030 824,2031 894,2028 963,2028 1032,2026 1101,2026 1170,2024 1240,2025 1309,2024 1378,2024 1447,2025 1516,2025 1586,2024 1586,1975 1516,1976 1447,1976 1378,1975 1309,1975 1240,1976 1170,1975 1101,1977 1032,1977 963,1979 894,1979 824,1982 755,1981 686,1983 617,1983 548,1983 478,1983 409,1985 340,1985 271,1985 202,1985"/>
+                <Baseline points="202,2018 271,2018 340,2018 409,2018 478,2016 548,2016 617,2016 686,2016 755,2014 824,2015 894,2012 963,2012 1032,2010 1101,2010 1170,2008 1240,2009 1309,2008 1378,2008 1447,2009 1516,2009 1586,2008"/>
+                <TextEquiv>
+                    <Unicode>mento. Come quando scrive, ricordando le cose citate del Pollaiuolo:"E' come un seguito di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>"Nel tempo esteso, continua il Poliziano, gli schermi destinati a Lorenzo sonogli addosso.&#13;
+Il Volterrano colla sinistra gli afferra una spalla, miragli un colpo alla gola. Egli in-&#13;
+perterrito, giù il mantello, al sinistro braccio lo avvolge, fuori la spada; ma nel voler&#13;
+distrigarsi è ferito nel collo. Etc. Il Bandini, trucidato Giuliano, nè pago di sua par-&#13;
+te, cerca Lorenzo; ma egli s'era già salvato in Sagrestia. Imbattutosi però in Francesco Novi,&#13;
+molto esperto facitore delle cose de' Medici, te gli affonda la spada nel petto, e quasi&#13;
+il fa a ghiado. Il palpitante cadavere è portato nella Sagrestia dove s'era Lorenzo ritaglia-&#13;
+to." Anche il Poliziano, con gli altri s'è salvato; sbarrano la porta di bronzo. Cercano di&#13;
+curare le ferite di Lorenzo: un amico gliela succhia, temendo che fosse di ferro avvelenato.&#13;
+Arrivano rinforzi. Il Poliziano come a casa propria, e Lorenzo accompagnato in palazzo.&#13;
+Poi incomincia la scazione, e la caccia ai congiunti. La congiura finì con la cattura dei capi&#13;
+e degli affiliati: 17 impiccati, altri decapitati; il resto, o confinati o sbanditi.&#13;
+Per me, la secchezza,&#13;
+la&#13;
+rapidità e precisione dello stile della Cronaca hanno riscontro col gu-&#13;
+sto e lo stile, con l'estetica e il tono morale della grafia, del segno ascritto, tagliente di&#13;
+quei fogli del Pollaiuolo, e in genere con la particolare mentalità d'arte della sua opera di&#13;
+pittore, di scultore e di orafo. Qualcosa, che mantiene la traccia degli strumenti, degli arnesi,&#13;
+dei ferri del suo lavoro; e che è riscontrabile in tante manifestazioni dell'ingegno, dell'arte&#13;
+fiorentina di quel tempo.&#13;
+Si può ritrovarne la prova, oltre che nelle opere, nei commenti, e nella critica &#13;
+dell'Ortolani&#13;
+; come in&#13;
+alcune pagine, appropriatissime, di Emilio Cecchi, che a più riprese è tornato du codesto argo-&#13;
+mento. Come quando scrive, ricordando le cose citate del Pollaiuolo:"E' come un seguito di</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

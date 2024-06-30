@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:23:19.678+02:00</Created>
+        <LastChange>2024-06-21T10:06:06.126+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326038" pageNr="96" tsid="175603591" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=GNDOMLLAOQVWENSEYESEHMUS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AASAXPTVVXNLRGLFHZSYUPBE" imageId="54296171"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_10_0016_c7v.jpg" imageWidth="1798" imageHeight="2427" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746076030" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="185,314 185,2072 1795,2072 1795,314"/>
+            <TextLine id="line_1715364013482_1717" custom="readingOrder {index:0;}">
+                <Coords points="195,496 1615,488 1615,538 195,546"/>
+                <Baseline points="195,541 1615,533"/>
+                <TextEquiv>
+                    <Unicode>Nell'estate dell’88 è alla fattoria di Harrar. Solo, con la sua disperazione e la sua noia mortale.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="185,618 258,618 332,620 405,620 479,620 552,618 626,617 699,616 773,616 846,616 920,614 993,614 1067,614 1140,616 1214,615 1287,614 1361,614 1434,612 1508,616 1581,617 1655,622 1655,571 1581,566 1508,565 1434,561 1361,563 1287,563 1214,564 1140,565 1067,563 993,563 920,563 846,565 773,565 699,565 626,566 552,567 479,569 405,569 332,569 258,567 185,567"/>
+                <Baseline points="185,601 258,601 332,603 405,603 479,603 552,601 626,600 699,599 773,599 846,599 920,597 993,597 1067,597 1140,599 1214,598 1287,597 1361,597 1434,595 1508,599 1581,600 1655,605"/>
+                <TextEquiv>
+                    <Unicode>Vorrebbe ancora tentare la vendita di armi. Sente di abbrutire in questi vani miraggi di guada-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364017195_1722" custom="readingOrder {index:2;}">
+                <Coords points="199,647 1609,635 1609,685 199,697"/>
+                <Baseline points="199,692 1609,680"/>
+                <TextEquiv>
+                    <Unicode>gno. Con un mercante svizzero, tale Ilg, stabilito in Abissinia, discorre in lettere di un’even-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364028359_1734" custom="readingOrder {index:3;}">
+                <Coords points="199,718 1437,718 1437,768 199,768"/>
+                <Baseline points="199,763 1437,763"/>
+                <TextEquiv>
+                    <Unicode>tuale tratta di negri. Non se ne sa nulla di preciso. Alla fattoria, una giovane donna </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364031017_1739" custom="readingOrder {index:4;}">
+                <Coords points="1400,678 1539,672 1541,722 1402,728"/>
+                <Baseline points="1402,723 1541,717"/>
+                <TextEquiv>
+                    <Unicode>del Tigri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364033651_1744" custom="readingOrder {index:5;} del {offset:0; length:5;rend:overtyped;}">
+                <Coords points="1446,714 1605,714 1605,764 1446,764"/>
+                <Baseline points="1446,759 1605,759"/>
+                <TextEquiv>
+                    <Unicode>Galla del Tigrè vive</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="185,852 256,852 327,850 399,849 470,848 542,848 613,848 684,846 756,846 827,846 899,846 970,846 1041,846 1113,846 1184,844 1256,844 1327,844 1398,844 1470,844 1541,842 1613,848 1613,796 1541,790 1470,792 1398,792 1327,792 1256,792 1184,792 1113,794 1041,794 970,794 899,794 827,794 756,794 684,794 613,796 542,796 470,796 399,797 327,798 256,800 185,800"/>
+                <Baseline points="185,835 256,835 327,833 399,832 470,831 542,831 613,831 684,829 756,829 827,829 899,829 970,829 1041,829 1113,829 1184,827 1256,827 1327,827 1398,827 1470,827 1541,825 1613,831"/>
+                <TextEquiv>
+                    <Unicode>con lui come moglie. Ha con sé il devoto servo Djami. Gli esploratori, i mercanti europei, che lo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364037352_1749" custom="readingOrder {index:7;}">
+                <Coords points="187,876 1638,875 1638,925 187,926"/>
+                <Baseline points="187,921 1638,920"/>
+                <TextEquiv>
+                    <Unicode>conobbero, parlano del suo carattere taciturno, delle sue imponibili confidenze. La primave-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:8;}">
+                <Coords points="189,1006 261,1004 333,1004 406,1002 478,1004 551,1002 623,1000 695,1000 768,998 840,998 913,998 985,996 1057,994 1130,998 1202,995 1275,994 1347,995 1419,994 1492,996 1564,997 1637,1000 1637,948 1564,945 1492,944 1419,942 1347,943 1275,942 1202,943 1130,946 1057,942 985,944 913,946 840,946 768,946 695,948 623,948 551,950 478,952 406,950 333,952 261,952 189,954"/>
+                <Baseline points="189,989 261,987 333,987 406,985 478,987 551,985 623,983 695,983 768,981 840,981 913,981 985,979 1057,977 1130,981 1202,978 1275,977 1347,978 1419,977 1492,979 1564,980 1637,983"/>
+                <TextEquiv>
+                    <Unicode>ra del 1891, lo trova sempre qui. Malato. Il dolore continuo ha invaso la gamba destra. Que-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364043728_1754" custom="readingOrder {index:9;}">
+                <Coords points="190,1034 1637,1027 1637,1077 190,1084"/>
+                <Baseline points="190,1079 1637,1072"/>
+                <TextEquiv>
+                    <Unicode>sto dura da lunghi mesi. Si trascina la gamba. Decide la partenza. Sono dieci, tremende, spa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:10;}">
+                <Coords points="185,1156 255,1156 326,1156 397,1154 468,1154 539,1153 610,1150 681,1150 752,1151 823,1152 894,1152 964,1149 1035,1148 1106,1148 1177,1146 1248,1146 1319,1144 1390,1146 1461,1147 1532,1146 1603,1148 1603,1096 1532,1094 1461,1095 1390,1094 1319,1092 1248,1094 1177,1094 1106,1096 1035,1096 964,1097 894,1100 823,1100 752,1099 681,1098 610,1098 539,1101 468,1102 397,1102 326,1104 255,1104 185,1104"/>
+                <Baseline points="185,1139 255,1139 326,1139 397,1137 468,1137 539,1136 610,1133 681,1133 752,1134 823,1135 894,1135 964,1132 1035,1131 1106,1131 1177,1129 1248,1129 1319,1127 1390,1129 1461,1130 1532,1129 1603,1131"/>
+                <TextEquiv>
+                    <Unicode>ventose giornate di viaggio, in portantina, di qui al mare. Da Aden avverte i famigliari:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364053536_1759" custom="readingOrder {index:11;}">
+                <Coords points="189,1181 1627,1179 1627,1229 189,1231"/>
+                <Baseline points="189,1226 1627,1224"/>
+                <TextEquiv>
+                    <Unicode>“Je suis devenu un squelette: je fais peur." S’imbarca, per Marsiglia, dove gli ampu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364056681_1764" custom="readingOrder {index:12;}">
+                <Coords points="208,1260 1629,1252 1629,1302 208,1310"/>
+                <Baseline points="208,1305 1629,1297"/>
+                <TextEquiv>
+                    <Unicode>teranno la gamba. Dal letto, prima di poterne uscire, egli guarda per giorni interni due</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364060562_1769" custom="readingOrder {index:13;}">
+                <Coords points="211,1333 1640,1320 1640,1370 211,1383"/>
+                <Baseline points="211,1378 1640,1365"/>
+                <TextEquiv>
+                    <Unicode>cose: l’arto artificiale che deve sostituire una parte del suo corpo; la borsa con suo tesoro, il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:14;}">
+                <Coords points="199,1460 271,1458 343,1458 415,1456 487,1456 559,1458 631,1455 703,1454 775,1454 847,1454 919,1452 991,1452 1063,1452 1135,1452 1207,1451 1279,1450 1351,1449 1423,1450 1495,1448 1567,1450 1639,1454 1639,1402 1567,1398 1495,1396 1423,1398 1351,1397 1279,1398 1207,1399 1135,1400 1063,1400 991,1400 919,1400 847,1402 775,1402 703,1402 631,1403 559,1406 487,1404 415,1404 343,1406 271,1406 199,1408"/>
+                <Baseline points="199,1443 271,1441 343,1441 415,1439 487,1439 559,1441 631,1438 703,1437 775,1437 847,1437 919,1435 991,1435 1063,1435 1135,1435 1207,1434 1279,1433 1351,1432 1423,1433 1495,1431 1567,1433 1639,1437"/>
+                <TextEquiv>
+                    <Unicode>maledetto poco argento procurato in anni di strazi morali e materiali. Nessuno potrà mai di-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:15;}">
+                <Coords points="191,1538 262,1536 334,1536 406,1534 478,1534 550,1534 622,1534 694,1532 766,1534 838,1532 910,1530 981,1529 1053,1530 1125,1528 1197,1529 1269,1528 1341,1526 1413,1526 1485,1524 1557,1526 1629,1526 1629,1474 1557,1474 1485,1472 1413,1474 1341,1474 1269,1476 1197,1477 1125,1476 1053,1478 981,1477 910,1478 838,1480 766,1482 694,1480 622,1482 550,1482 478,1482 406,1482 334,1484 262,1484 191,1486"/>
+                <Baseline points="191,1521 262,1519 334,1519 406,1517 478,1517 550,1517 622,1517 694,1515 766,1517 838,1515 910,1513 981,1512 1053,1513 1125,1511 1197,1512 1269,1511 1341,1509 1413,1509 1485,1507 1557,1509 1629,1509"/>
+                <TextEquiv>
+                    <Unicode>re cosa furono, di orribile dolore, per Rimbaud le settimane, i due mesi all’ospedale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364064223_1774" custom="readingOrder {index:16;}">
+                <Coords points="198,1559 1646,1552 1646,1602 198,1609"/>
+                <Baseline points="198,1604 1646,1597"/>
+                <TextEquiv>
+                    <Unicode>di Marsiglia. Solo con quei due oggetti, prima staccati, poi appesi al suo corpo. Scrive lun-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364073580_1779" custom="readingOrder {index:17;}">
+                <Coords points="202,1634 436,1632 436,1682 202,1684"/>
+                <Baseline points="202,1679 436,1677"/>
+                <TextEquiv>
+                    <Unicode>ghe, strazianti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:18;} add {offset:0; length:7;place:above;}">
+                <Coords points="399,1641 428,1637 457,1637 487,1639 487,1609 457,1607 428,1607 399,1611"/>
+                <Baseline points="399,1631 428,1627 457,1627 487,1629"/>
+                <TextEquiv>
+                    <Unicode>lettere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364076559_1784" custom="readingOrder {index:19;}">
+                <Coords points="444,1629 1614,1627 1614,1677 444,1679"/>
+                <Baseline points="444,1674 1614,1672"/>
+                <TextEquiv>
+                    <Unicode> alla sorella. Si descrive, &lt;gap reason="illegible"&gt;tracolante&lt;/gap&gt;, appeso alle stampelle, ridicolo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364086083_1789" custom="readingOrder {index:20;}">
+                <Coords points="206,1709 1644,1707 1644,1757 206,1759"/>
+                <Baseline points="206,1754 1644,1752"/>
+                <TextEquiv>
+                    <Unicode>tragico. Come un animale ferito e amputato. Un essere dimenticato, e che ormai detesta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:21;}">
+                <Coords points="191,1844 263,1838 335,1836 408,1834 480,1835 553,1837 625,1834 697,1834 770,1832 842,1832 915,1830 987,1830 1059,1828 1132,1828 1204,1826 1277,1828 1349,1828 1421,1829 1494,1832 1566,1834 1639,1836 1639,1785 1566,1783 1494,1781 1421,1778 1349,1777 1277,1777 1204,1775 1132,1777 1059,1777 987,1779 915,1779 842,1781 770,1781 697,1783 625,1783 553,1786 480,1784 408,1783 335,1785 263,1787 191,1793"/>
+                <Baseline points="191,1827 263,1821 335,1819 408,1817 480,1818 553,1820 625,1817 697,1817 770,1815 842,1815 915,1813 987,1813 1059,1811 1132,1811 1204,1809 1277,1811 1349,1811 1421,1812 1494,1815 1566,1817 1639,1819"/>
+                <TextEquiv>
+                    <Unicode>il consorzio umano. In quanto al consorzio dei letterati e degli intellettuali, i rap-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364093678_1794" custom="readingOrder {index:22;}">
+                <Coords points="204,1865 1644,1860 1644,1910 204,1915"/>
+                <Baseline points="204,1910 1644,1905"/>
+                <TextEquiv>
+                    <Unicode>presentanti di questa élite, che in ogni tempo arde di sopravanzare il proprio tempo e la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364097383_1799" custom="readingOrder {index:23;}">
+                <Coords points="201,1935 1639,1935 1639,1985 201,1985"/>
+                <Baseline points="201,1980 1639,1980"/>
+                <TextEquiv>
+                    <Unicode>società, verranno, quando di Rimbaud è rimasta un poco di terra, con celebrazioni,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715364101662_1804" custom="readingOrder {index:24;}">
+                <Coords points="201,2015 1650,2008 1650,2058 201,2065"/>
+                <Baseline points="201,2060 1650,2053"/>
+                <TextEquiv>
+                    <Unicode>funzioni, omaggi, monografie e saggi storici a disturbare quella povera terra di Char-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nell'estate dell’88 è alla fattoria di Harrar. Solo, con la sua disperazione e la sua noia mortale.&#13;
+Vorrebbe ancora tentare la vendita di armi. Sente di abbrutire in questi vani miraggi di guada-&#13;
+gno. Con un mercante svizzero, tale Ilg, stabilito in Abissinia, discorre in lettere di un’even-&#13;
+tuale tratta di negri. Non se ne sa nulla di preciso. Alla fattoria, una giovane donna &#13;
+del Tigri&#13;
+Galla del Tigrè vive&#13;
+con lui come moglie. Ha con sé il devoto servo Djami. Gli esploratori, i mercanti europei, che lo&#13;
+conobbero, parlano del suo carattere taciturno, delle sue imponibili confidenze. La primave-&#13;
+ra del 1891, lo trova sempre qui. Malato. Il dolore continuo ha invaso la gamba destra. Que-&#13;
+sto dura da lunghi mesi. Si trascina la gamba. Decide la partenza. Sono dieci, tremende, spa-&#13;
+ventose giornate di viaggio, in portantina, di qui al mare. Da Aden avverte i famigliari:&#13;
+“Je suis devenu un squelette: je fais peur." S’imbarca, per Marsiglia, dove gli ampu-&#13;
+teranno la gamba. Dal letto, prima di poterne uscire, egli guarda per giorni interni due&#13;
+cose: l’arto artificiale che deve sostituire una parte del suo corpo; la borsa con suo tesoro, il&#13;
+maledetto poco argento procurato in anni di strazi morali e materiali. Nessuno potrà mai di-&#13;
+re cosa furono, di orribile dolore, per Rimbaud le settimane, i due mesi all’ospedale&#13;
+di Marsiglia. Solo con quei due oggetti, prima staccati, poi appesi al suo corpo. Scrive lun-&#13;
+ghe, strazianti &#13;
+lettere&#13;
+ alla sorella. Si descrive, &lt;gap reason="illegible"&gt;tracolante&lt;/gap&gt;, appeso alle stampelle, ridicolo,&#13;
+tragico. Come un animale ferito e amputato. Un essere dimenticato, e che ormai detesta&#13;
+il consorzio umano. In quanto al consorzio dei letterati e degli intellettuali, i rap-&#13;
+presentanti di questa élite, che in ogni tempo arde di sopravanzare il proprio tempo e la&#13;
+società, verranno, quando di Rimbaud è rimasta un poco di terra, con celebrazioni,&#13;
+funzioni, omaggi, monografie e saggi storici a disturbare quella povera terra di Char-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

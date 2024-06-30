@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:37:31.078+02:00</Created>
+        <LastChange>2024-06-21T10:26:15.091+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326073" pageNr="125" tsid="175603606" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=VGPBWROYNTLJXVQXPJYNVOZV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ICECXEUVCWLGYRNJMEPHXMKM" imageId="54316495"/>
+    </Metadata>
+    <Page imageFilename="Q_12_1957_0021_c10r.jpg" imageWidth="1798" imageHeight="2523">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746082257" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="130,324 139,1691 1593,1691 1584,324"/>
+            <TextLine id="line_1716282837658_255" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="157,352 206,357 200,407 151,402"/>
+                <Baseline points="152,397 201,402"/>
+                <TextEquiv>
+                    <Unicode>6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="147,575 216,573 285,572 354,571 423,573 493,572 562,571 631,569 700,568 769,570 839,571 908,570 977,571 1046,571 1115,571 1185,571 1254,569 1323,569 1392,572 1461,573 1531,575 1531,538 1461,536 1392,535 1323,532 1254,532 1185,534 1115,534 1046,534 977,534 908,533 839,534 769,533 700,531 631,532 562,534 493,535 423,536 354,534 285,535 216,536 147,538"/>
+                <Baseline points="147,563 216,561 285,560 354,559 423,561 493,560 562,559 631,557 700,556 769,558 839,559 908,558 977,559 1046,559 1115,559 1185,559 1254,557 1323,557 1392,560 1461,561 1531,563"/>
+                <TextEquiv>
+                    <Unicode>quali ha dedicato, con trasporto patetico, uno dei suoi comuni poemi in prosa. L'amico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;} gap {offset:63; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="145,657 215,649 285,648 356,645 426,647 497,645 567,645 637,645 708,645 778,645 849,647 919,647 989,647 1060,645 1130,643 1201,645 1271,645 1341,645 1412,647 1482,647 1553,647 1553,610 1482,610 1412,610 1341,608 1271,608 1201,608 1130,606 1060,608 989,610 919,610 849,610 778,608 708,608 637,608 567,608 497,608 426,610 356,608 285,611 215,612 145,620"/>
+                <Baseline points="145,645 215,637 285,636 356,633 426,635 497,633 567,633 637,633 708,633 778,633 849,635 919,635 989,635 1060,633 1130,631 1201,633 1271,633 1341,633 1412,635 1482,635 1553,635"/>
+                <TextEquiv>
+                    <Unicode>pittore Joseph Stevens, ammirato dal poeta, donò a Baudelaire,         di dono, il suo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="155,729 226,723 297,722 369,719 440,719 512,720 583,719 654,717 726,719 797,719 869,721 940,721 1011,721 1083,721 1154,722 1226,721 1297,723 1368,723 1440,723 1511,724 1583,727 1583,690 1511,687 1440,686 1368,686 1297,686 1226,684 1154,685 1083,684 1011,684 940,684 869,684 797,682 726,682 654,680 583,682 512,683 440,682 369,682 297,685 226,686 155,692"/>
+                <Baseline points="155,717 226,711 297,710 369,707 440,707 512,708 583,707 654,705 726,707 797,707 869,709 940,709 1011,709 1083,709 1154,710 1226,709 1297,711 1368,711 1440,711 1511,712 1583,715"/>
+                <TextEquiv>
+                    <Unicode>gilet: un beau gilet d'une conleur, à la fois riche et fanée, qui fait penser aure solils</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="151,795 223,792 295,791 367,793 439,791 511,791 583,791 655,791 727,791 799,791 872,791 944,792 1016,794 1088,793 1160,794 1232,795 1304,796 1376,799 1448,797 1520,799 1593,803 1593,773 1520,769 1448,767 1376,769 1304,766 1232,765 1160,764 1088,763 1016,764 944,762 872,761 799,761 727,761 655,761 583,761 511,761 439,761 367,763 295,761 223,762 151,765"/>
+                <Baseline points="151,785 223,782 295,781 367,783 439,781 511,781 583,781 655,781 727,781 799,781 872,781 944,782 1016,784 1088,783 1160,784 1232,785 1304,786 1376,789 1448,787 1520,789 1593,793"/>
+                <TextEquiv>
+                    <Unicode>d'autumne, à la beauté des femmes suures et anse étés de La Saint-Maetin".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716282854701_264" custom="readingOrder {index:5;}">
+                <Coords points="146,826 481,823 481,873 146,876"/>
+                <Baseline points="146,871 481,868"/>
+                <TextEquiv>
+                    <Unicode>Capitasse a qualcuno, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:6;}">
+                <Coords points="309,831 341,829 373,829 405,829 437,829 469,827 501,829 533,829 565,829 597,829 630,830 662,829 694,829 726,828 758,827 790,826 822,825 854,827 886,827 918,827 951,829 951,799 918,797 886,797 854,797 822,795 790,796 758,797 726,798 694,799 662,799 630,800 597,799 565,799 533,799 501,799 469,797 437,799 405,799 373,799 341,799 309,801"/>
+                <Baseline points="309,821 341,819 373,819 405,819 437,819 469,817 501,819 533,819 565,819 597,819 630,820 662,819 694,819 726,818 758,817 790,816 822,815 854,817 886,817 918,817 951,819"/>
+                <TextEquiv>
+                    <Unicode>a un viaggiatore, a un passante avventurato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716283142377_325" custom="readingOrder {index:7;} del {offset:0; length:9;rend:overstrike;}">
+                <Coords points="490,819 854,825 853,875 489,869"/>
+                <Baseline points="489,864 853,870"/>
+                <TextEquiv>
+                    <Unicode>un giorno, di ritrovarlo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716283145689_330" custom="readingOrder {index:8;} add {offset:0; length:9;place:under;}">
+                <Coords points="716,853 911,853 909,903 714,903"/>
+                <Baseline points="736,890 909,898"/>
+                <TextEquiv>
+                    <Unicode>un giorno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716283150173_335" custom="readingOrder {index:9;}">
+                <Coords points="869,819 1547,828 1546,878 868,869"/>
+                <Baseline points="868,864 1546,873"/>
+                <TextEquiv>
+                    <Unicode>nella bottega di un rivendigliolo, appeso fra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716282866417_277" custom="readingOrder {index:10;} del {offset:40; length:7;rend:overstrike;}">
+                <Coords points="144,901 977,899 977,949 144,951"/>
+                <Baseline points="144,946 977,944"/>
+                <TextEquiv>
+                    <Unicode>gli abiti usati, i cappotti scuciti dal vecchio tempo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716283152547_340" custom="readingOrder {index:11;} add {offset:0; length:11;place:above;}">
+                <Coords points="947,859 1112,865 1110,915 945,909"/>
+                <Baseline points="945,904 1110,910"/>
+                <TextEquiv>
+                    <Unicode>d'una volta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716282869135_282" custom="readingOrder {index:12;}">
+                <Coords points="981,901 1569,905 1569,955 981,951"/>
+                <Baseline points="981,946 1569,950"/>
+                <TextEquiv>
+                    <Unicode>, che nessuno non comprerà mai più:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:13;}">
+                <Coords points="145,1029 176,1029 207,1027 238,1027 270,1027 301,1025 332,1025 364,1025 395,1025 426,1025 458,1025 489,1025 520,1025 551,1024 583,1024 614,1025 645,1025 677,1025 708,1025 739,1027 771,1029 771,992 739,990 708,988 677,988 645,988 614,988 583,987 551,987 520,988 489,988 458,988 426,988 395,988 364,988 332,988 301,988 270,990 238,990 207,990 176,992 145,992"/>
+                <Baseline points="145,1017 176,1017 207,1015 238,1015 270,1015 301,1013 332,1013 364,1013 395,1013 426,1013 458,1013 489,1013 520,1013 551,1012 583,1012 614,1013 645,1013 677,1013 708,1013 739,1015 771,1017"/>
+                <TextEquiv>
+                    <Unicode>laggiù, nelle viuzze della cittàbassa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:14;}">
+                <Coords points="171,1637 196,1635 222,1635 248,1635 273,1636 299,1637 325,1637 351,1639 376,1637 402,1638 428,1638 454,1637 479,1638 505,1639 531,1641 557,1643 557,1606 531,1604 505,1602 479,1601 454,1600 428,1601 402,1601 376,1600 351,1602 325,1600 299,1600 273,1599 248,1598 222,1598 196,1598 171,1600"/>
+                <Baseline points="171,1625 196,1623 222,1623 248,1623 273,1624 299,1625 325,1625 351,1627 376,1625 402,1626 428,1626 454,1625 479,1626 505,1627 531,1629 557,1631"/>
+                <TextEquiv>
+                    <Unicode>Domenica, 8 sett. '57</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>6.&#13;
+quali ha dedicato, con trasporto patetico, uno dei suoi comuni poemi in prosa. L'amico&#13;
+pittore Joseph Stevens, ammirato dal poeta, donò a Baudelaire,         di dono, il suo&#13;
+gilet: un beau gilet d'une conleur, à la fois riche et fanée, qui fait penser aure solils&#13;
+d'autumne, à la beauté des femmes suures et anse étés de La Saint-Maetin".&#13;
+Capitasse a qualcuno, &#13;
+a un viaggiatore, a un passante avventurato&#13;
+un giorno, di ritrovarlo&#13;
+un giorno&#13;
+nella bottega di un rivendigliolo, appeso fra&#13;
+gli abiti usati, i cappotti scuciti dal vecchio tempo &#13;
+d'una volta&#13;
+, che nessuno non comprerà mai più:&#13;
+laggiù, nelle viuzze della cittàbassa.&#13;
+Domenica, 8 sett. '57</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:16:40.321+01:00</Created>
+        <LastChange>2024-06-20T11:46:45.308+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326019" pageNr="58" tsid="175603526" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=DMGCRSIANERJUHXQGGMIVDDP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TODNWPFRDCLUGLRRUOSSIJWA" imageId="53903832"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_07_0013_c6r.jpg" imageWidth="1798" imageHeight="2476">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746068583" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718876772569_130"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718876772569_130" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="229,327 118,327 118,248 229,248"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="130,317 166,317 202,319 202,256 166,254 130,254"/>
+                <Baseline points="130,296 166,296 202,298"/>
+                <TextEquiv>
+                    <Unicode>5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="112,342 125,2033 1605,2041 1592,350"/>
+            <TextLine id="line_1718185767455_1726" custom="readingOrder {index:0;}">
+                <Coords points="150,449 1579,439 1579,489 150,499"/>
+                <Baseline points="150,494 1579,484"/>
+                <TextEquiv>
+                    <Unicode>in ogni parte del corpo. Una fatica, una stanchezza, non da piangerne, solo da restare tramortiti.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:1;}">
+                <Coords points="138,581 210,581 283,579 355,579 428,578 500,577 573,577 645,577 718,575 790,573 863,571 935,571 1008,571 1080,571 1153,570 1225,571 1298,570 1370,571 1443,571 1515,573 1588,573 1588,521 1515,521 1443,519 1370,519 1298,518 1225,519 1153,518 1080,519 1008,519 935,519 863,519 790,521 718,523 645,525 573,525 500,525 428,526 355,527 283,527 210,529 138,529"/>
+                <Baseline points="138,564 210,564 283,562 355,562 428,561 500,560 573,560 645,560 718,558 790,556 863,554 935,554 1008,554 1080,554 1153,553 1225,554 1298,553 1370,554 1443,554 1515,556 1588,556"/>
+                <TextEquiv>
+                    <Unicode>Basta pensare ai viaggi, agli spostamenti, a cavallo di muli, sul dorso dei cammelli. A piedi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718185771179_1731" custom="readingOrder {index:2;}">
+                <Coords points="142,597 1579,595 1579,645 142,647"/>
+                <Baseline points="142,642 1579,640"/>
+                <TextEquiv>
+                    <Unicode>Centiania di miglia, ogni volta. E la lotta feroce per il guadagno. Quando è rientrato, nei mesi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="126,731 197,729 268,728 339,729 410,729 481,726 552,725 623,723 694,725 765,723 837,724 908,723 979,723 1050,722 1121,721 1192,719 1263,719 1334,717 1405,719 1476,717 1548,717 1548,666 1476,666 1405,668 1334,666 1263,668 1192,668 1121,670 1050,671 979,672 908,672 837,673 765,672 694,674 623,672 552,674 481,675 410,678 339,678 268,677 197,678 126,680"/>
+                <Baseline points="126,714 197,712 268,711 339,712 410,712 481,709 552,708 623,706 694,708 765,706 837,707 908,706 979,706 1050,705 1121,704 1192,702 1263,702 1334,700 1405,702 1476,700 1548,700"/>
+                <TextEquiv>
+                    <Unicode>di riposo forzato, nella solitudine della casa, nelle giornate di ripresa di contrattazioni, lente,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718185774574_1736" custom="readingOrder {index:4;} del {offset:72; length:4;rend:overstrike;} div {offset:72; length:0;}">
+                <Coords points="148,746 1246,743 1246,793 148,796"/>
+                <Baseline points="148,791 1246,788"/>
+                <TextEquiv>
+                    <Unicode>bestiali, e nella cadute serali verso il letto, e il sonno impossibile,     </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718185777168_1741" custom="readingOrder {index:5;} add {offset:0; length:3;place:above;}">
+                <Coords points="1199,709 1259,713 1256,763 1196,759"/>
+                <Baseline points="1196,754 1256,758"/>
+                <TextEquiv>
+                    <Unicode>una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718185779137_1746" custom="readingOrder {index:6;}">
+                <Coords points="1258,741 1561,743 1561,793 1258,791"/>
+                <Baseline points="1258,786 1561,788"/>
+                <TextEquiv>
+                    <Unicode>sostanza invade il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="158,884 226,882 295,882 364,880 432,880 501,880 570,880 638,878 707,880 776,880 845,880 913,878 982,878 1051,878 1119,878 1188,876 1257,876 1325,874 1394,872 1463,872 1532,874 1532,819 1463,817 1394,817 1325,819 1257,821 1188,821 1119,823 1051,823 982,823 913,823 845,825 776,825 707,825 638,823 570,825 501,825 432,825 364,825 295,827 226,827 158,829"/>
+                <Baseline points="158,866 226,864 295,864 364,862 432,862 501,862 570,862 638,860 707,862 776,862 845,862 913,860 982,860 1051,860 1119,860 1188,858 1257,858 1325,856 1394,854 1463,854 1532,856"/>
+                <TextEquiv>
+                    <Unicode>corpo, e forse il cuore: la noia, come un veleno nel sangue. Il corpo si è quasi paralizzato.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="160,961 231,957 302,955 373,957 444,955 515,953 586,955 657,955 728,953 799,953 870,955 941,953 1012,953 1083,952 1154,949 1225,951 1296,949 1367,949 1438,949 1509,949 1580,951 1580,900 1509,898 1438,898 1367,898 1296,898 1225,900 1154,898 1083,901 1012,902 941,902 870,904 799,902 728,902 657,904 586,904 515,902 444,904 373,906 302,904 231,906 160,910"/>
+                <Baseline points="160,944 231,940 302,938 373,940 444,938 515,936 586,938 657,938 728,936 799,936 870,938 941,936 1012,936 1083,935 1154,932 1225,934 1296,932 1367,932 1438,932 1509,932 1580,934"/>
+                <TextEquiv>
+                    <Unicode>"Je m'ennuie beacoup, toujours; je n'ai méme jamais connes personne qui s'en_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:9;}">
+                <Coords points="154,1031 224,1031 295,1031 366,1029 436,1030 507,1029 578,1029 648,1027 719,1027 790,1027 861,1026 931,1027 1002,1025 1073,1024 1143,1025 1214,1023 1285,1023 1355,1023 1426,1022 1497,1022 1568,1025 1568,974 1497,971 1426,971 1355,972 1285,972 1214,972 1143,974 1073,973 1002,974 931,976 861,975 790,976 719,976 648,976 578,978 507,978 436,979 366,978 295,980 224,980 154,980"/>
+                <Baseline points="154,1014 224,1014 295,1014 366,1012 436,1013 507,1012 578,1012 648,1010 719,1010 790,1010 861,1009 931,1010 1002,1008 1073,1007 1143,1008 1214,1006 1285,1006 1355,1006 1426,1005 1497,1005 1568,1008"/>
+                <TextEquiv>
+                    <Unicode>nuyât autant que nous." non è la "noia" della fantasia, dell'immaginazione poetica. E'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:10;}">
+                <Coords points="146,1109 217,1108 289,1105 360,1104 432,1103 503,1101 575,1101 646,1099 718,1100 789,1101 861,1101 932,1101 1004,1101 1075,1100 1147,1099 1218,1099 1290,1099 1361,1099 1433,1101 1504,1103 1576,1105 1576,1053 1504,1051 1433,1049 1361,1047 1290,1047 1218,1047 1147,1047 1075,1048 1004,1049 932,1049 861,1049 789,1049 718,1048 646,1047 575,1049 503,1049 432,1051 360,1052 289,1053 217,1056 146,1057"/>
+                <Baseline points="146,1092 217,1091 289,1088 360,1087 432,1086 503,1084 575,1084 646,1082 718,1083 789,1084 861,1084 932,1084 1004,1084 1075,1083 1147,1082 1218,1082 1290,1082 1361,1082 1433,1084 1504,1086 1576,1088"/>
+                <TextEquiv>
+                    <Unicode>la noia infinita, eterna della materia. Risvegliato all'improvviso, nella notte, l'uomo si palpa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:11;}">
+                <Coords points="148,1189 219,1185 291,1183 362,1180 434,1179 505,1177 577,1177 648,1175 720,1176 791,1177 863,1177 934,1175 1006,1175 1077,1176 1149,1176 1220,1175 1292,1176 1363,1175 1435,1175 1506,1175 1578,1181 1578,1129 1506,1123 1435,1123 1363,1123 1292,1124 1220,1123 1149,1124 1077,1124 1006,1123 934,1123 863,1125 791,1125 720,1124 648,1123 577,1125 505,1125 434,1127 362,1128 291,1131 219,1133 148,1137"/>
+                <Baseline points="148,1172 219,1168 291,1166 362,1163 434,1162 505,1160 577,1160 648,1158 720,1159 791,1160 863,1160 934,1158 1006,1158 1077,1159 1149,1159 1220,1158 1292,1159 1363,1158 1435,1158 1506,1158 1578,1164"/>
+                <TextEquiv>
+                    <Unicode>in cintura la borsa dell'oro. Sa che il fucile è a portata di mano. Al mattino, quando ricomincia la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:12;}">
+                <Coords points="146,1265 217,1263 289,1261 360,1259 432,1259 504,1257 575,1257 647,1257 718,1255 790,1255 862,1255 933,1252 1005,1251 1076,1250 1148,1251 1220,1251 1291,1249 1363,1247 1434,1249 1506,1249 1578,1253 1578,1201 1506,1197 1434,1197 1363,1195 1291,1197 1220,1199 1148,1199 1076,1198 1005,1199 933,1200 862,1203 790,1203 718,1203 647,1205 575,1205 504,1205 432,1207 360,1207 289,1209 217,1211 146,1213"/>
+                <Baseline points="146,1248 217,1246 289,1244 360,1242 432,1242 504,1240 575,1240 647,1240 718,1238 790,1238 862,1238 933,1235 1005,1234 1076,1233 1148,1234 1220,1234 1291,1232 1363,1230 1434,1232 1506,1232 1578,1236"/>
+                <TextEquiv>
+                    <Unicode>giornata, qualcosa che non è sogno, ma è tristezza di uomo. Si rivede in Europa. In famiglia. ammo_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:13;}">
+                <Coords points="146,1342 217,1339 289,1336 361,1334 433,1334 505,1332 576,1330 648,1330 720,1330 792,1330 864,1330 935,1329 1007,1330 1079,1328 1151,1330 1223,1328 1294,1329 1366,1326 1438,1326 1510,1326 1582,1328 1582,1274 1510,1272 1438,1272 1366,1272 1294,1275 1223,1274 1151,1276 1079,1274 1007,1276 935,1275 864,1276 792,1276 720,1276 648,1276 576,1276 505,1278 433,1280 361,1280 289,1282 217,1285 146,1288"/>
+                <Baseline points="146,1324 217,1321 289,1318 361,1316 433,1316 505,1314 576,1312 648,1312 720,1312 792,1312 864,1312 935,1311 1007,1312 1079,1310 1151,1312 1223,1310 1294,1311 1366,1308 1438,1308 1510,1308 1582,1310"/>
+                <TextEquiv>
+                    <Unicode>gliato. Con una figliola da allevare: da educare. La famiglia: i mobili di casa, le parole, il lavoro se_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:14;}">
+                <Coords points="160,1414 230,1415 301,1412 371,1410 442,1409 512,1409 583,1408 653,1408 724,1408 794,1408 865,1409 935,1410 1006,1408 1076,1407 1147,1404 1217,1404 1288,1404 1358,1402 1429,1402 1499,1403 1570,1406 1570,1352 1499,1349 1429,1348 1358,1348 1288,1350 1217,1350 1147,1350 1076,1353 1006,1354 935,1356 865,1355 794,1354 724,1354 653,1354 583,1354 512,1355 442,1355 371,1356 301,1358 230,1361 160,1360"/>
+                <Baseline points="160,1396 230,1397 301,1394 371,1392 442,1391 512,1391 583,1390 653,1390 724,1390 794,1390 865,1391 935,1392 1006,1390 1076,1389 1147,1386 1217,1386 1288,1386 1358,1384 1429,1384 1499,1385 1570,1388"/>
+                <TextEquiv>
+                    <Unicode>reno. Non è che un miraggio, un miraggio atroce:".. tous le jours, je perde le gout pour le climat et&lt;lb/&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:15;} gap {offset:85; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="150,1491 221,1489 293,1487 365,1485 437,1483 509,1483 581,1483 653,1483 725,1481 797,1482 869,1483 940,1482 1012,1483 1084,1481 1156,1482 1228,1481 1300,1480 1372,1481 1444,1479 1516,1479 1588,1485 1588,1433 1516,1427 1444,1427 1372,1429 1300,1428 1228,1429 1156,1430 1084,1429 1012,1431 940,1430 869,1431 797,1430 725,1429 653,1431 581,1431 509,1431 437,1431 365,1433 293,1435 221,1437 150,1439"/>
+                <Baseline points="150,1474 221,1472 293,1470 365,1468 437,1466 509,1466 581,1466 653,1466 725,1464 797,1465 869,1466 940,1465 1012,1466 1084,1464 1156,1465 1228,1464 1300,1463 1372,1464 1444,1462 1516,1462 1588,1468"/>
+                <TextEquiv>
+                    <Unicode>les maniéres de vivre et méme la langue de l'Europe... Mais qui sait combien peuveut      </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:16;} gap {offset:44; length:0;quantity:11; unit:character; reason:illegible;} gap {offset:74; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="148,1563 217,1567 287,1563 356,1562 426,1559 495,1557 565,1558 634,1557 704,1557 773,1557 843,1557 912,1557 982,1556 1051,1557 1121,1557 1190,1555 1260,1555 1329,1553 1399,1556 1468,1556 1571,1556 1571,1504 1468,1504 1399,1504 1329,1501 1260,1503 1190,1503 1121,1505 1051,1505 982,1504 912,1505 843,1505 773,1505 704,1505 634,1505 565,1506 495,1505 426,1507 356,1510 287,1511 217,1515 148,1511"/>
+                <Baseline points="148,1546 217,1550 287,1546 356,1545 426,1542 495,1540 565,1541 634,1540 704,1540 773,1540 843,1540 912,1540 982,1539 1051,1540 1121,1540 1190,1538 1260,1538 1329,1536 1399,1539 1468,1539 1566,1546"/>
+                <TextEquiv>
+                    <Unicode>mes jours dans ces montagnes-ci? Etaje puis            , au milieu de ces          </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:17;} gap {offset:24; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="156,1642 226,1641 296,1640 367,1638 437,1636 508,1634 578,1634 648,1634 719,1634 789,1634 860,1635 930,1634 1000,1634 1071,1633 1141,1632 1212,1630 1282,1631 1352,1632 1423,1632 1493,1632 1564,1634 1564,1580 1493,1578 1423,1578 1352,1578 1282,1577 1212,1576 1141,1578 1071,1579 1000,1580 930,1580 860,1581 789,1580 719,1580 648,1580 578,1580 508,1580 437,1582 367,1584 296,1586 226,1587 156,1588"/>
+                <Baseline points="156,1624 226,1623 296,1622 367,1620 437,1618 508,1616 578,1616 648,1616 719,1616 789,1616 860,1617 930,1616 1000,1616 1071,1615 1141,1614 1212,1612 1282,1613 1352,1614 1423,1614 1493,1614 1564,1616"/>
+                <TextEquiv>
+                    <Unicode>sans que la nouvelle en         jamais." Una fine profonda, profonda, dentro il silenzio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:18;}">
+                <Coords points="154,1716 225,1714 297,1714 369,1712 441,1712 513,1710 585,1711 657,1710 729,1710 801,1709 873,1710 944,1708 1016,1708 1088,1706 1160,1708 1232,1708 1304,1707 1376,1708 1448,1708 1520,1710 1592,1710 1592,1656 1520,1656 1448,1654 1376,1654 1304,1653 1232,1654 1160,1654 1088,1652 1016,1654 944,1654 873,1656 801,1655 729,1656 657,1656 585,1657 513,1656 441,1658 369,1658 297,1660 225,1660 154,1662"/>
+                <Baseline points="154,1698 225,1696 297,1696 369,1694 441,1694 513,1692 585,1693 657,1692 729,1692 801,1691 873,1692 944,1690 1016,1690 1088,1688 1160,1690 1232,1690 1304,1689 1376,1690 1448,1690 1520,1692 1592,1692"/>
+                <TextEquiv>
+                    <Unicode>delle cose, della terra. Quella che ogni uomo attende. E dopo, un sonno lunghissimo. In Afri_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718185787722_1751" custom="readingOrder {index:19;}">
+                <Coords points="153,1739 1578,1725 1578,1775 153,1789"/>
+                <Baseline points="153,1784 1578,1770"/>
+                <TextEquiv>
+                    <Unicode>ca, in Europa, da ogni parte. Ogni parte è buona. La poesia non è stata che un sogno, una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:20;}">
+                <Coords points="134,1875 159,1873 184,1871 210,1871 235,1871 261,1870 286,1869 312,1869 337,1871 363,1871 388,1871 414,1871 439,1871 465,1870 490,1869 516,1871 516,1814 490,1812 465,1813 439,1814 414,1814 388,1814 363,1814 337,1814 312,1812 286,1812 261,1813 235,1814 210,1814 184,1814 159,1816 134,1818"/>
+                <Baseline points="134,1856 159,1854 184,1852 210,1852 235,1852 261,1851 286,1850 312,1850 337,1852 363,1852 388,1852 414,1852 439,1852 465,1851 490,1850 516,1852"/>
+                <TextEquiv>
+                    <Unicode>invenzione del sogno.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:21;} date {offset:1; length:9;year:1961; day:30; month:3;}">
+                <Coords points="264,2025 290,2023 317,2025 344,2026 371,2028 398,2029 425,2029 452,2027 452,1964 425,1966 398,1966 371,1965 344,1963 317,1962 290,1960 264,1962"/>
+                <Baseline points="264,2004 290,2002 317,2004 344,2005 371,2007 398,2008 425,2008 452,2006"/>
+                <TextEquiv>
+                    <Unicode> 30.3.1961</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in ogni parte del corpo. Una fatica, una stanchezza, non da piangerne, solo da restare tramortiti.&#13;
+Basta pensare ai viaggi, agli spostamenti, a cavallo di muli, sul dorso dei cammelli. A piedi.&#13;
+Centiania di miglia, ogni volta. E la lotta feroce per il guadagno. Quando è rientrato, nei mesi&#13;
+di riposo forzato, nella solitudine della casa, nelle giornate di ripresa di contrattazioni, lente,&#13;
+bestiali, e nella cadute serali verso il letto, e il sonno impossibile,     &#13;
+una&#13;
+sostanza invade il&#13;
+corpo, e forse il cuore: la noia, come un veleno nel sangue. Il corpo si è quasi paralizzato.&#13;
+"Je m'ennuie beacoup, toujours; je n'ai méme jamais connes personne qui s'en_&#13;
+nuyât autant que nous." non è la "noia" della fantasia, dell'immaginazione poetica. E'&#13;
+la noia infinita, eterna della materia. Risvegliato all'improvviso, nella notte, l'uomo si palpa&#13;
+in cintura la borsa dell'oro. Sa che il fucile è a portata di mano. Al mattino, quando ricomincia la&#13;
+giornata, qualcosa che non è sogno, ma è tristezza di uomo. Si rivede in Europa. In famiglia. ammo_&#13;
+gliato. Con una figliola da allevare: da educare. La famiglia: i mobili di casa, le parole, il lavoro se_&#13;
+reno. Non è che un miraggio, un miraggio atroce:".. tous le jours, je perde le gout pour le climat et&lt;lb/&gt;&#13;
+les maniéres de vivre et méme la langue de l'Europe... Mais qui sait combien peuveut      &#13;
+mes jours dans ces montagnes-ci? Etaje puis            , au milieu de ces          &#13;
+sans que la nouvelle en         jamais." Una fine profonda, profonda, dentro il silenzio&#13;
+delle cose, della terra. Quella che ogni uomo attende. E dopo, un sonno lunghissimo. In Afri_&#13;
+ca, in Europa, da ogni parte. Ogni parte è buona. La poesia non è stata che un sogno, una&#13;
+invenzione del sogno.&#13;
+ 30.3.1961</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

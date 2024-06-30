@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:16:39.981+01:00</Created>
+        <LastChange>2024-06-20T11:43:56.851+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326018" pageNr="56" tsid="175603525" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=RIUYMJZYUONILVXQYOVOJZFR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KRXRCVAXQPCMMDLKEUVNEVKM" imageId="53903829"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_07_0010_c4v.jpg" imageWidth="1798" imageHeight="2476" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746068131" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718183496667_1218"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718183496667_1218" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1548,285 1548,338 1603,338 1603,285"/>
+            <TextLine id="line_1718183496800_1221" custom="readingOrder {index:0;}">
+                <Coords points="1551,285 1603,288 1600,338 1548,335"/>
+                <Baseline points="1548,330 1600,333"/>
+                <TextEquiv>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="191,447 205,2056 1667,2055 1664,447"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;} hi {offset:69; length:13;rend:underline;}">
+                <Coords points="220,526 291,522 362,518 433,518 504,514 575,512 646,512 717,510 788,511 859,508 930,508 1001,509 1072,508 1143,508 1214,506 1285,506 1356,503 1427,504 1498,500 1569,500 1640,500 1640,451 1569,451 1498,451 1427,455 1356,454 1285,457 1214,457 1143,459 1072,459 1001,460 930,459 859,459 788,462 717,461 646,463 575,463 504,465 433,469 362,469 291,473 220,477"/>
+                <Baseline points="220,510 291,506 362,502 433,502 504,498 575,496 646,496 717,494 788,495 859,492 930,492 1001,493 1072,492 1143,492 1214,490 1285,490 1356,487 1427,488 1498,484 1569,484 1640,484"/>
+                <TextEquiv>
+                    <Unicode>possono fornirci nelle ore incerte, o in quelle decisive, ma proprio nel contrario di codeste real_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="212,594 281,590 351,588 421,587 490,586 560,586 630,584 699,584 769,584 839,583 909,582 978,580 1048,580 1118,578 1187,578 1257,574 1327,574 1396,572 1466,573 1536,571 1606,568 1606,531 1536,534 1466,536 1396,535 1327,537 1257,537 1187,541 1118,541 1048,543 978,543 909,545 839,546 769,547 699,547 630,547 560,549 490,549 421,550 351,551 281,553 212,557"/>
+                <Baseline points="212,582 281,578 351,576 421,575 490,574 560,574 630,572 699,572 769,572 839,571 909,570 978,568 1048,568 1118,566 1187,566 1257,562 1327,562 1396,560 1466,561 1536,559 1606,556"/>
+                <TextEquiv>
+                    <Unicode>tà, sentimenti, principi. Molto si è detto, pensato e scritto sull'abbandono, e distacco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718183390824_1128" custom="readingOrder {index:2;} del {offset:88; length:5;rend:overstrike;} gap {offset:88; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="206,616 1627,602 1627,652 206,666"/>
+                <Baseline points="206,661 1627,647"/>
+                <TextEquiv>
+                    <Unicode>di Rimbaud della letteratura. Egli sapeva di avervi raggiunto, e toccato, quelle che un      </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;} add {offset:0; length:4;place:above;}">
+                <Coords points="1546,620 1574,622 1602,624 1630,626 1630,596 1602,594 1574,592 1546,590"/>
+                <Baseline points="1546,610 1574,612 1602,614 1630,616"/>
+                <TextEquiv>
+                    <Unicode>uomo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="210,748 279,746 349,746 419,745 489,744 559,740 628,740 698,740 768,740 838,739 908,738 977,736 1047,734 1117,734 1187,732 1257,732 1326,730 1396,730 1466,728 1536,727 1606,728 1606,679 1536,678 1466,679 1396,681 1326,681 1257,683 1187,683 1117,685 1047,685 977,687 908,689 838,690 768,691 698,691 628,691 559,691 489,695 419,696 349,697 279,697 210,699"/>
+                <Baseline points="210,732 279,730 349,730 419,729 489,728 559,724 628,724 698,724 768,724 838,723 908,722 977,720 1047,718 1117,718 1187,716 1257,716 1326,714 1396,714 1466,712 1536,711 1606,712"/>
+                <TextEquiv>
+                    <Unicode>moderno può aspirare di raggiungere e toccare. Con lui era stato chiuso il capitolo della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:5;}">
+                <Coords points="206,820 275,818 345,817 414,817 484,816 553,814 623,814 692,812 762,814 831,812 901,812 970,810 1040,810 1109,807 1179,806 1248,806 1318,804 1387,802 1457,802 1526,803 1596,806 1596,757 1526,754 1457,753 1387,753 1318,755 1248,757 1179,757 1109,758 1040,761 970,761 901,763 831,763 762,765 692,763 623,765 553,765 484,767 414,768 345,768 275,769 206,771"/>
+                <Baseline points="206,804 275,802 345,801 414,801 484,800 553,798 623,798 692,796 762,798 831,796 901,796 970,794 1040,794 1109,791 1179,790 1248,790 1318,788 1387,786 1457,786 1526,787 1596,790"/>
+                <TextEquiv>
+                    <Unicode>"bellezza" in poesia. Il canto, che era stato prerogativa dei poeti dell'antichità fino al suo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:6;}">
+                <Coords points="212,902 282,899 353,898 423,896 494,895 564,893 635,890 705,890 776,888 846,890 917,886 987,884 1058,884 1128,883 1199,882 1269,884 1340,884 1410,884 1481,883 1551,882 1622,882 1622,833 1551,833 1481,834 1410,835 1340,835 1269,835 1199,833 1128,834 1058,835 987,835 917,837 846,841 776,839 705,841 635,841 564,844 494,846 423,847 353,849 282,850 212,853"/>
+                <Baseline points="212,886 282,883 353,882 423,880 494,879 564,877 635,874 705,874 776,872 846,874 917,870 987,868 1058,868 1128,867 1199,866 1269,868 1340,868 1410,868 1481,867 1551,866 1622,866"/>
+                <TextEquiv>
+                    <Unicode>tempo, era stato piegato, donato, fino a diventare tutt'altra cosa:_ discorso, drido, invettiva,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:7;} gap {offset:0; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="218,974 286,974 355,974 423,970 492,970 561,970 629,968 698,969 766,968 835,966 904,964 972,962 1041,961 1109,960 1178,959 1247,958 1315,958 1384,958 1452,956 1521,954 1590,954 1590,905 1521,905 1452,907 1384,909 1315,909 1247,909 1178,910 1109,911 1041,912 972,913 904,915 835,917 766,919 698,920 629,919 561,921 492,921 423,921 355,925 286,925 218,925"/>
+                <Baseline points="218,958 286,958 355,958 423,954 492,954 561,954 629,952 698,953 766,952 835,950 904,948 972,946 1041,945 1109,944 1178,943 1247,942 1315,942 1384,942 1452,940 1521,938 1590,938"/>
+                <TextEquiv>
+                    <Unicode>        e riferito dell'immaginazione, del sogno. La poesia in prosa di Rimbaud contiene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:8;}">
+                <Coords points="206,1054 276,1050 347,1049 418,1046 489,1046 560,1044 630,1040 701,1042 772,1042 843,1040 914,1039 984,1039 1055,1038 1126,1036 1197,1034 1268,1034 1338,1033 1409,1032 1480,1032 1551,1031 1622,1030 1622,981 1551,982 1480,983 1409,983 1338,984 1268,985 1197,985 1126,987 1055,989 984,990 914,990 843,991 772,993 701,993 630,991 560,995 489,997 418,997 347,1000 276,1001 206,1005"/>
+                <Baseline points="206,1038 276,1034 347,1033 418,1030 489,1030 560,1028 630,1024 701,1026 772,1026 843,1024 914,1023 984,1023 1055,1022 1126,1020 1197,1018 1268,1018 1338,1017 1409,1016 1480,1016 1551,1015 1622,1014"/>
+                <TextEquiv>
+                    <Unicode>tutto quanto; e altro. Un invito, un richiamo, un allarme, rivolto all'uomo, perché l'uomo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:9;}">
+                <Coords points="220,1122 290,1123 360,1124 431,1124 501,1122 572,1120 642,1116 712,1115 783,1116 853,1114 924,1114 994,1114 1064,1112 1135,1112 1205,1112 1276,1110 1346,1110 1416,1106 1487,1106 1557,1107 1628,1110 1628,1061 1557,1058 1487,1057 1416,1057 1346,1061 1276,1061 1205,1063 1135,1063 1064,1063 994,1065 924,1065 853,1065 783,1067 712,1066 642,1067 572,1071 501,1073 431,1075 360,1075 290,1074 220,1073"/>
+                <Baseline points="220,1106 290,1107 360,1108 431,1108 501,1106 572,1104 642,1100 712,1099 783,1100 853,1098 924,1098 994,1098 1064,1096 1135,1096 1205,1096 1276,1094 1346,1094 1416,1090 1487,1090 1557,1091 1628,1094"/>
+                <TextEquiv>
+                    <Unicode>"nuovo" sappia di essere dotato di uno spirito e di una coscienza guidata dalla libertà. La</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:10;}">
+                <Coords points="220,1202 291,1198 362,1199 433,1198 504,1196 575,1196 646,1194 717,1194 788,1193 859,1190 931,1189 1002,1188 1073,1188 1144,1186 1215,1186 1286,1186 1357,1182 1428,1182 1499,1182 1570,1182 1642,1186 1642,1137 1570,1133 1499,1133 1428,1133 1357,1133 1286,1137 1215,1137 1144,1137 1073,1139 1002,1139 931,1140 859,1141 788,1144 717,1145 646,1145 575,1147 504,1147 433,1149 362,1150 291,1149 220,1153"/>
+                <Baseline points="220,1186 291,1182 362,1183 433,1182 504,1180 575,1180 646,1178 717,1178 788,1177 859,1174 931,1173 1002,1172 1073,1172 1144,1170 1215,1170 1286,1170 1357,1166 1428,1166 1499,1166 1570,1166 1642,1170"/>
+                <TextEquiv>
+                    <Unicode>libertà da ogni vincolo intellettuale. Quasi che l'uomo si senta e si giudichi come il primo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:11;}">
+                <Coords points="216,1274 286,1276 357,1274 427,1272 498,1270 569,1269 639,1270 710,1268 780,1267 851,1266 922,1264 992,1262 1063,1262 1133,1262 1204,1260 1275,1260 1345,1258 1416,1258 1486,1259 1557,1258 1628,1260 1628,1211 1557,1209 1486,1210 1416,1209 1345,1209 1275,1211 1204,1211 1133,1213 1063,1213 992,1213 922,1215 851,1217 780,1218 710,1219 639,1221 569,1220 498,1221 427,1223 357,1225 286,1227 216,1225"/>
+                <Baseline points="216,1258 286,1260 357,1258 427,1256 498,1254 569,1253 639,1254 710,1252 780,1251 851,1250 922,1248 992,1246 1063,1246 1133,1246 1204,1244 1275,1244 1345,1242 1416,1242 1486,1243 1557,1242 1628,1244"/>
+                <TextEquiv>
+                    <Unicode>uomo. Solo ubbidirà ad un senso di verità, e di giustizia. "Basta con la poesia", sembra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:12;}">
+                <Coords points="216,1350 287,1352 359,1352 430,1350 502,1346 573,1346 645,1344 716,1344 788,1342 859,1342 931,1342 1002,1340 1074,1340 1145,1341 1217,1339 1288,1338 1360,1336 1431,1336 1503,1334 1574,1336 1646,1338 1646,1289 1574,1287 1503,1285 1431,1287 1360,1287 1288,1289 1217,1290 1145,1292 1074,1291 1002,1291 931,1293 859,1293 788,1293 716,1295 645,1295 573,1297 502,1297 430,1301 359,1303 287,1303 216,1301"/>
+                <Baseline points="216,1334 287,1336 359,1336 430,1334 502,1330 573,1330 645,1328 716,1328 788,1326 859,1326 931,1326 1002,1324 1074,1324 1145,1325 1217,1323 1288,1322 1360,1320 1431,1320 1503,1318 1574,1320 1646,1322"/>
+                <TextEquiv>
+                    <Unicode>dire, e dice. Da adesso siamo solo uomini. La verità: anzi l'esistenza è una cosa tremenda.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:13;} del {offset:0; length:3;rend:overstrike;} gap {offset:0; length:0;quantity:3; unit:character; reason:illegible;}">
+                <Coords points="222,1428 292,1429 363,1425 433,1424 504,1423 574,1423 645,1420 715,1419 786,1418 856,1416 927,1414 997,1414 1068,1412 1138,1412 1209,1410 1279,1410 1350,1409 1420,1410 1491,1410 1561,1411 1632,1418 1632,1369 1561,1362 1491,1361 1420,1361 1350,1360 1279,1361 1209,1361 1138,1363 1068,1363 997,1365 927,1365 856,1367 786,1369 715,1370 645,1371 574,1374 504,1374 433,1375 363,1376 292,1380 222,1379"/>
+                <Baseline points="222,1412 292,1413 363,1409 433,1408 504,1407 574,1407 645,1404 715,1403 786,1402 856,1400 927,1398 997,1398 1068,1396 1138,1396 1209,1394 1279,1394 1350,1393 1420,1394 1491,1394 1561,1395 1632,1402"/>
+                <TextEquiv>
+                    <Unicode>    Non ne abbiamo paura. La vita si vive nel lavoro, il puù duro, e nel dolore, previsto e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:14;}">
+                <Coords points="222,1508 291,1507 361,1506 431,1503 501,1502 571,1500 641,1497 711,1497 781,1494 851,1494 921,1493 990,1492 1060,1491 1130,1491 1200,1492 1270,1492 1340,1492 1410,1490 1480,1488 1550,1486 1620,1486 1620,1437 1550,1437 1480,1439 1410,1441 1340,1443 1270,1443 1200,1443 1130,1442 1060,1442 990,1443 921,1444 851,1445 781,1445 711,1448 641,1448 571,1451 501,1453 431,1454 361,1457 291,1458 222,1459"/>
+                <Baseline points="222,1492 291,1491 361,1490 431,1487 501,1486 571,1484 641,1481 711,1481 781,1478 851,1478 921,1477 990,1476 1060,1475 1130,1475 1200,1476 1270,1476 1340,1476 1410,1474 1480,1472 1550,1470 1620,1470"/>
+                <TextEquiv>
+                    <Unicode>calcolato, di ogni giorno. Lavoro: lavoro bestiale, rischio, fatica; miseria, e il conforto del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:15;}">
+                <Coords points="228,1594 292,1589 356,1587 420,1581 484,1580 548,1576 612,1576 676,1576 740,1573 804,1572 869,1572 933,1570 997,1572 1061,1570 1125,1570 1189,1568 1253,1565 1317,1564 1381,1564 1445,1562 1510,1564 1510,1515 1445,1513 1381,1515 1317,1515 1253,1516 1189,1519 1125,1521 1061,1521 997,1523 933,1521 869,1523 804,1523 740,1524 676,1527 612,1527 548,1527 484,1531 420,1532 356,1538 292,1540 228,1545"/>
+                <Baseline points="228,1578 292,1573 356,1571 420,1565 484,1564 548,1560 612,1560 676,1560 740,1557 804,1556 869,1556 933,1554 997,1556 1061,1554 1125,1554 1189,1552 1253,1549 1317,1548 1381,1548 1445,1546 1510,1548"/>
+                <TextEquiv>
+                    <Unicode>guadagno. Infine, forse, un poco di pace. E la morte. Una morte, che chiude la partita.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:16;}">
+                <Coords points="248,1656 317,1654 386,1654 455,1654 524,1654 594,1652 663,1652 732,1650 801,1650 870,1650 940,1650 1009,1648 1078,1645 1147,1642 1216,1642 1286,1640 1355,1640 1424,1640 1493,1641 1562,1641 1632,1640 1632,1591 1562,1592 1493,1592 1424,1591 1355,1591 1286,1591 1216,1593 1147,1593 1078,1596 1009,1599 940,1601 870,1601 801,1601 732,1601 663,1603 594,1603 524,1605 455,1605 386,1605 317,1605 248,1607"/>
+                <Baseline points="248,1640 317,1638 386,1638 455,1638 524,1638 594,1636 663,1636 732,1634 801,1634 870,1634 940,1634 1009,1632 1078,1629 1147,1626 1216,1626 1286,1624 1355,1624 1424,1624 1493,1625 1562,1625 1632,1624"/>
+                <TextEquiv>
+                    <Unicode>Rimbaud giunge, dopo un passaggio da chiamarsi veramente l'inferno in terra: giunge nel_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:17;}">
+                <Coords points="218,1724 288,1722 359,1723 430,1724 501,1724 572,1723 643,1722 714,1720 785,1720 856,1718 927,1716 997,1716 1068,1716 1139,1715 1210,1710 1281,1708 1352,1708 1423,1706 1494,1709 1565,1708 1636,1708 1636,1678 1565,1678 1494,1679 1423,1676 1352,1678 1281,1678 1210,1680 1139,1685 1068,1686 997,1686 927,1686 856,1688 785,1690 714,1690 643,1692 572,1693 501,1694 430,1694 359,1693 288,1692 218,1694"/>
+                <Baseline points="218,1714 288,1712 359,1713 430,1714 501,1714 572,1713 643,1712 714,1710 785,1710 856,1708 927,1706 997,1706 1068,1706 1139,1705 1210,1700 1281,1698 1352,1698 1423,1696 1494,1699 1565,1698 1636,1698"/>
+                <TextEquiv>
+                    <Unicode>l'Harzar a 26 anni. La poesia era finita, sette anni prima. Non erano stati, quegli anni di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718183473776_1203" custom="readingOrder {index:18;}">
+                <Coords points="219,1750 1307,1735 1308,1785 220,1800"/>
+                <Baseline points="220,1795 1308,1780"/>
+                <TextEquiv>
+                    <Unicode>vagabondaggio, di fame, di disperazione, altro che la via materiale per </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:19;} add {offset:0; length:8;place:above;}">
+                <Coords points="1270,1746 1296,1748 1323,1748 1349,1748 1376,1750 1376,1720 1349,1718 1323,1718 1296,1718 1270,1716"/>
+                <Baseline points="1270,1736 1296,1738 1323,1738 1349,1738 1376,1740"/>
+                <TextEquiv>
+                    <Unicode>compiere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718183475728_1208" custom="readingOrder {index:20;}">
+                <Coords points="1317,1737 1637,1739 1637,1789 1317,1787"/>
+                <Baseline points="1317,1782 1637,1784"/>
+                <TextEquiv>
+                    <Unicode>l'esperienza umana:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:21;} gap {offset:45; length:0;quantity:8; unit:character; reason:illegible;} gap {offset:88; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="226,1880 296,1880 367,1878 438,1876 509,1876 580,1875 650,1876 721,1874 792,1872 863,1870 934,1870 1004,1870 1075,1868 1146,1870 1217,1870 1288,1870 1358,1870 1429,1870 1500,1870 1571,1870 1642,1874 1642,1826 1571,1822 1500,1822 1429,1822 1358,1822 1288,1822 1217,1822 1146,1822 1075,1820 1004,1822 934,1822 863,1822 792,1824 721,1826 650,1828 580,1827 509,1828 438,1828 367,1830 296,1832 226,1832"/>
+                <Baseline points="226,1864 296,1864 367,1862 438,1860 509,1860 580,1859 650,1860 721,1858 792,1856 863,1854 934,1854 1004,1854 1075,1852 1146,1854 1217,1854 1288,1854 1358,1854 1429,1854 1500,1854 1571,1854 1642,1858"/>
+                <TextEquiv>
+                    <Unicode>la ricerca del lavoro, di un poco di denaro.           lo ha ricordato, accennando agli     _</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718183481816_1213" custom="readingOrder {index:22;}">
+                <Coords points="223,1904 1662,1887 1663,1937 224,1954"/>
+                <Baseline points="224,1949 1663,1932"/>
+                <TextEquiv>
+                    <Unicode>chi da provare mai, i tentativi di ingaggio, le sue offerte ai mestieri più umilianti. Ogni porto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:23;}">
+                <Coords points="228,2036 298,2033 369,2032 439,2030 510,2029 581,2028 651,2028 722,2028 792,2028 863,2030 934,2030 1004,2028 1075,2028 1145,2024 1216,2022 1287,2020 1357,2016 1428,2016 1498,2016 1569,2015 1640,2016 1640,1967 1569,1966 1498,1967 1428,1967 1357,1967 1287,1971 1216,1973 1145,1975 1075,1979 1004,1979 934,1981 863,1981 792,1979 722,1979 651,1979 581,1979 510,1980 439,1981 369,1983 298,1984 228,1987"/>
+                <Baseline points="228,2020 298,2017 369,2016 439,2014 510,2013 581,2012 651,2012 722,2012 792,2012 863,2014 934,2014 1004,2012 1075,2012 1145,2008 1216,2006 1287,2004 1357,2000 1428,2000 1498,2000 1569,1999 1640,2000"/>
+                <TextEquiv>
+                    <Unicode>dal Mar Rosso; sulle banchine, sugli uffici marittimi, in quelli commerciali, nelle osterie di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>possono fornirci nelle ore incerte, o in quelle decisive, ma proprio nel contrario di codeste real_&#13;
+tà, sentimenti, principi. Molto si è detto, pensato e scritto sull'abbandono, e distacco&#13;
+di Rimbaud della letteratura. Egli sapeva di avervi raggiunto, e toccato, quelle che un      &#13;
+uomo&#13;
+moderno può aspirare di raggiungere e toccare. Con lui era stato chiuso il capitolo della&#13;
+"bellezza" in poesia. Il canto, che era stato prerogativa dei poeti dell'antichità fino al suo&#13;
+tempo, era stato piegato, donato, fino a diventare tutt'altra cosa:_ discorso, drido, invettiva,&#13;
+        e riferito dell'immaginazione, del sogno. La poesia in prosa di Rimbaud contiene&#13;
+tutto quanto; e altro. Un invito, un richiamo, un allarme, rivolto all'uomo, perché l'uomo&#13;
+"nuovo" sappia di essere dotato di uno spirito e di una coscienza guidata dalla libertà. La&#13;
+libertà da ogni vincolo intellettuale. Quasi che l'uomo si senta e si giudichi come il primo&#13;
+uomo. Solo ubbidirà ad un senso di verità, e di giustizia. "Basta con la poesia", sembra&#13;
+dire, e dice. Da adesso siamo solo uomini. La verità: anzi l'esistenza è una cosa tremenda.&#13;
+    Non ne abbiamo paura. La vita si vive nel lavoro, il puù duro, e nel dolore, previsto e&#13;
+calcolato, di ogni giorno. Lavoro: lavoro bestiale, rischio, fatica; miseria, e il conforto del&#13;
+guadagno. Infine, forse, un poco di pace. E la morte. Una morte, che chiude la partita.&#13;
+Rimbaud giunge, dopo un passaggio da chiamarsi veramente l'inferno in terra: giunge nel_&#13;
+l'Harzar a 26 anni. La poesia era finita, sette anni prima. Non erano stati, quegli anni di&#13;
+vagabondaggio, di fame, di disperazione, altro che la via materiale per &#13;
+compiere&#13;
+l'esperienza umana:&#13;
+la ricerca del lavoro, di un poco di denaro.           lo ha ricordato, accennando agli     _&#13;
+chi da provare mai, i tentativi di ingaggio, le sue offerte ai mestieri più umilianti. Ogni porto&#13;
+dal Mar Rosso; sulle banchine, sugli uffici marittimi, in quelli commerciali, nelle osterie di</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

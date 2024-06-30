@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:37:28.533+02:00</Created>
+        <LastChange>2024-06-21T10:20:08.489+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326056" pageNr="111" tsid="175603583" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=CWOQBEJUWJQARIOROTKQHJDJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZYTCVNFWXHIDFYSZOVNGWJYS" imageId="54316453"/>
+    </Metadata>
+    <Page imageFilename="Q_12_1957_0005_c2r.jpg" imageWidth="1798" imageHeight="2523" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746079257" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1715764764454_678"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="region_1715764764454_678" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="139,258 139,342 346,342 346,258"/>
+            <TextLine id="line_1715764771410_689" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="270,253 313,254 312,304 269,303"/>
+                <Baseline points="269,298 312,299"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715764769332_684" custom="readingOrder {index:1;}">
+                <Coords points="152,276 201,276 201,326 152,326"/>
+                <Baseline points="152,321 201,321"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4&#13;
+1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="129,351 129,2160 1583,2160 1583,351"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:6;rend:underline; type:double;} del {offset:0; length:6;rend:overstrike;}">
+                <Coords points="223,390 249,387 276,384 303,384 330,386 357,390 357,357 330,353 303,351 276,351 249,354 223,357"/>
+                <Baseline points="223,379 249,376 276,373 303,373 330,375 357,379"/>
+                <TextEquiv>
+                    <Unicode>Rubens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="871,415 905,418 939,422 973,423 1007,424 1041,426 1075,427 1109,427 1143,429 1177,429 1212,430 1246,429 1280,429 1314,429 1348,429 1382,429 1416,427 1450,426 1484,425 1518,425 1553,425 1553,394 1518,394 1484,394 1450,395 1416,396 1382,398 1348,398 1314,398 1280,398 1246,398 1212,399 1177,398 1143,398 1109,396 1075,396 1041,395 1007,393 973,392 939,391 905,387 871,384"/>
+                <Baseline points="871,405 905,408 939,412 973,413 1007,414 1041,416 1075,417 1109,417 1143,419 1177,419 1212,420 1246,419 1280,419 1314,419 1348,419 1382,419 1416,417 1450,416 1484,415 1518,415 1553,415"/>
+                <TextEquiv>
+                    <Unicode>Si pensa, chissà perchè, agli alberi delle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="911,469 944,469 978,469 1011,470 1045,470 1078,471 1112,471 1145,473 1179,475 1212,473 1246,473 1279,472 1313,471 1346,471 1380,471 1413,471 1447,471 1480,471 1514,471 1547,473 1581,475 1581,445 1547,443 1514,441 1480,441 1447,441 1413,441 1380,441 1346,441 1313,441 1279,442 1246,443 1212,443 1179,445 1145,443 1112,441 1078,441 1045,440 1011,440 978,439 944,439 911,439"/>
+                <Baseline points="911,459 944,459 978,459 1011,460 1045,460 1078,461 1112,461 1145,463 1179,465 1212,463 1246,463 1279,462 1313,461 1346,461 1380,461 1413,461 1447,461 1480,461 1514,461 1547,463 1581,465"/>
+                <TextEquiv>
+                    <Unicode>navi, ai camini, al grovigli, delle scalette</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="921,511 953,511 986,513 1019,513 1052,513 1085,514 1117,515 1150,515 1183,516 1216,517 1249,517 1281,519 1314,517 1347,517 1380,518 1412,518 1445,517 1478,516 1511,517 1544,519 1577,525 1577,495 1544,489 1511,487 1478,486 1445,487 1412,488 1380,488 1347,487 1314,487 1281,489 1249,487 1216,487 1183,486 1150,485 1117,485 1085,484 1052,483 1019,483 986,483 953,481 921,481"/>
+                <Baseline points="921,501 953,501 986,503 1019,503 1052,503 1085,504 1117,505 1150,505 1183,506 1216,507 1249,507 1281,509 1314,507 1347,507 1380,508 1412,508 1445,507 1478,506 1511,507 1544,509 1577,515"/>
+                <TextEquiv>
+                    <Unicode>di ferro, nel porto, che è laggiù, a mezzo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="933,549 958,551 983,552 1009,553 1034,553 1060,553 1085,555 1111,555 1111,525 1085,525 1060,523 1034,523 1009,523 983,522 958,521 933,519"/>
+                <Baseline points="933,539 958,541 983,542 1009,543 1034,543 1060,543 1085,545 1111,545"/>
+                <TextEquiv>
+                    <Unicode>chilometro.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="143,533 171,531 199,531 199,501 171,501 143,503"/>
+                <Baseline points="143,523 171,521 199,521"/>
+                <TextEquiv>
+                    <Unicode>xx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="133,573 158,571 184,571 209,571 235,571 260,569 286,570 311,570 337,569 362,569 388,569 413,571 439,570 464,569 490,570 515,571 541,571 567,571 567,541 541,541 515,541 490,540 464,539 439,540 413,541 388,539 362,539 337,539 311,540 286,540 260,539 235,541 209,541 184,541 158,541 133,543"/>
+                <Baseline points="133,563 158,561 184,561 209,561 235,561 260,559 286,560 311,560 337,559 362,559 388,559 413,561 439,560 464,559 490,560 515,561 541,561 567,561"/>
+                <TextEquiv>
+                    <Unicode>Arrivammo ad Anversa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="153,655 223,649 294,648 365,647 436,645 507,646 577,649 648,647 719,645 790,643 861,641 931,642 1002,643 1073,641 1144,639 1215,639 1285,640 1356,641 1427,644 1498,644 1569,643 1569,613 1498,614 1427,614 1356,611 1285,610 1215,609 1144,609 1073,611 1002,613 931,612 861,611 790,613 719,615 648,617 577,619 507,616 436,615 365,617 294,618 223,619 153,625"/>
+                <Baseline points="153,645 223,639 294,638 365,637 436,635 507,636 577,639 648,637 719,635 790,633 861,631 931,632 1002,633 1073,631 1144,629 1215,629 1285,630 1356,631 1427,634 1498,634 1569,633"/>
+                <TextEquiv>
+                    <Unicode>La casa di Rubens, per noi, non può ricordare che qualcosa del barocco romano, una con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765853819_754" custom="readingOrder {index:8;}">
+                <Coords points="157,668 752,674 752,724 157,718"/>
+                <Baseline points="157,713 752,719"/>
+                <TextEquiv>
+                    <Unicode>un gusto di rifacimento di pasticcio </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:9;} add {offset:0; length:12;place:above;}">
+                <Coords points="667,681 692,679 718,680 744,680 770,680 795,681 821,681 847,681 873,681 873,651 847,651 821,651 795,651 770,650 744,650 718,650 692,649 667,651"/>
+                <Baseline points="667,671 692,669 718,670 744,670 770,670 795,671 821,671 847,671 873,671"/>
+                <TextEquiv>
+                    <Unicode>archeologico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765864466_759" custom="readingOrder {index:10;} hi {offset:24; length:7;rend:underline; type:grey;}">
+                <Coords points="768,670 1305,677 1304,727 767,720"/>
+                <Baseline points="767,715 1304,722"/>
+                <TextEquiv>
+                    <Unicode>di rinascenza italiana: le erme,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:11;} add {offset:0; length:4;place:above;}">
+                <Coords points="1219,677 1250,679 1281,677 1313,681 1313,651 1281,647 1250,649 1219,647"/>
+                <Baseline points="1219,667 1250,669 1281,667 1313,671"/>
+                <TextEquiv>
+                    <Unicode>erme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765867160_764" custom="readingOrder {index:12;}">
+                <Coords points="1312,674 1578,670 1579,720 1313,724"/>
+                <Baseline points="1313,719 1579,715"/>
+                <TextEquiv>
+                    <Unicode> le stele, i termici</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="155,763 186,761 217,763 249,763 249,733 217,733 186,731 155,733"/>
+                <Baseline points="155,753 186,751 217,753 249,753"/>
+                <TextEquiv>
+                    <Unicode>infitti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765871202_769" custom="readingOrder {index:14;} del {offset:0; length:8;rend:overtyped;}">
+                <Coords points="160,743 526,748 525,798 159,793"/>
+                <Baseline points="159,788 525,793"/>
+                <TextEquiv>
+                    <Unicode>seminati su una facciata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715766238166_900" custom="readingOrder {index:15;}">
+                <Coords points="474,700 672,702 672,752 474,750"/>
+                <Baseline points="474,745 672,747"/>
+                <TextEquiv>
+                    <Unicode>del palazzotto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715766246068_910" custom="readingOrder {index:16;} hi {offset:17; length:5;rend:underline;}">
+                <Coords points="533,752 869,751 869,801 533,802"/>
+                <Baseline points="533,797 869,796"/>
+                <TextEquiv>
+                    <Unicode>, nella corte, e inelo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715766240363_905" custom="readingOrder {index:17;} add {offset:0; length:5;place:above;}">
+                <Coords points="777,700 894,702 893,752 776,750"/>
+                <Baseline points="776,745 893,747"/>
+                <TextEquiv>
+                    <Unicode>nello</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715766251208_915" custom="readingOrder {index:18;}">
+                <Coords points="877,746 1585,753 1585,803 877,796"/>
+                <Baseline points="877,791 1585,798"/>
+                <TextEquiv>
+                    <Unicode>stupefacente fiardino. L'Olimpico di Vicen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765878870_779" custom="readingOrder {index:19;}">
+                <Coords points="155,827 821,830 821,880 155,877"/>
+                <Baseline points="155,872 821,875"/>
+                <TextEquiv>
+                    <Unicode>za, immaginato a due passi sall'oceano,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:20;} add {offset:0; length:18;place:above;}">
+                <Coords points="613,827 638,827 663,827 688,827 713,827 738,827 763,827 788,827 813,827 838,827 863,827 888,827 913,829 939,833 939,803 913,799 888,797 863,797 838,797 813,797 788,797 763,797 738,797 713,797 688,797 663,797 638,797 613,797"/>
+                <Baseline points="613,817 638,817 663,817 688,817 713,817 738,817 763,817 788,817 813,817 838,817 863,817 888,817 913,819 939,823"/>
+                <TextEquiv>
+                    <Unicode>dal Mare del Nord.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765882797_784" custom="readingOrder {index:21;}">
+                <Coords points="825,823 1217,827 1217,877 825,873"/>
+                <Baseline points="825,868 1217,872"/>
+                <TextEquiv>
+                    <Unicode>Comunque, al di fuori, e </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:22;} add {offset:0; length:6;place:above;}">
+                <Coords points="1181,833 1216,833 1251,835 1251,805 1216,803 1181,803"/>
+                <Baseline points="1181,823 1216,823 1251,825"/>
+                <TextEquiv>
+                    <Unicode>dentro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765885075_789" custom="readingOrder {index:23;}">
+                <Coords points="1229,823 1567,829 1566,879 1228,873"/>
+                <Baseline points="1228,868 1566,874"/>
+                <TextEquiv>
+                    <Unicode>in casa, un compiaci-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765891346_794" custom="readingOrder {index:24;}">
+                <Coords points="153,899 750,901 750,951 153,949"/>
+                <Baseline points="153,944 750,946"/>
+                <TextEquiv>
+                    <Unicode>mento di scena, di quinta di teatro:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:25;} add {offset:0; length:24;place:above;}">
+                <Coords points="329,915 354,906 380,906 406,906 431,904 457,903 483,903 509,903 534,903 560,902 586,901 611,901 637,901 663,901 689,903 689,873 663,871 637,871 611,871 586,871 560,872 534,873 509,873 483,873 457,873 431,874 406,876 380,876 354,876 329,885"/>
+                <Baseline points="329,905 354,896 380,896 406,896 431,894 457,893 483,893 509,893 534,893 560,892 586,891 611,891 637,891 663,891 689,893"/>
+                <TextEquiv>
+                    <Unicode>un "decoro" occasionale.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765894572_799" custom="readingOrder {index:26;}">
+                <Coords points="777,891 1554,901 1553,951 776,941"/>
+                <Baseline points="776,936 1553,946"/>
+                <TextEquiv>
+                    <Unicode>E i disegni del maestro, per l'occasione della mo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765902191_807" custom="readingOrder {index:27;} date {offset:6; length:11;year:0; day:0; month:0;}">
+                <Coords points="152,972 392,976 391,1026 151,1022"/>
+                <Baseline points="151,1017 391,1021"/>
+                <TextEquiv>
+                    <Unicode>stra, appiccicati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:28;}">
+                <Coords points="259,989 289,991 319,993 349,993 379,993 379,963 349,963 319,963 289,961 259,959"/>
+                <Baseline points="259,979 289,981 319,983 349,983 379,983"/>
+                <TextEquiv>
+                    <Unicode>appesi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765906649_812" custom="readingOrder {index:29;} del {offset:17; length:7;rend:overstrike;} gap {offset:17; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="393,972 996,972 996,1022 393,1022"/>
+                <Baseline points="393,1017 996,1017"/>
+                <TextEquiv>
+                    <Unicode>&gt;, distruibuiti,         su di ogni parete </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:30;} add {offset:0; length:10;place:above;}">
+                <Coords points="811,985 837,982 864,981 891,980 918,979 945,979 972,979 999,979 999,949 972,949 945,949 918,949 891,950 864,951 837,952 811,955"/>
+                <Baseline points="811,975 837,972 864,971 891,970 918,969 945,969 972,969 999,969"/>
+                <TextEquiv>
+                    <Unicode>della casa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765909443_817" custom="readingOrder {index:31;}">
+                <Coords points="1002,972 1553,976 1553,1026 1002,1022"/>
+                <Baseline points="1002,1017 1553,1021"/>
+                <TextEquiv>
+                    <Unicode>. Rubens: ogniuna cosa: dipinti e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:32;}">
+                <Coords points="157,1096 226,1101 295,1100 364,1098 433,1096 502,1098 571,1098 640,1098 709,1099 778,1098 848,1096 917,1098 986,1097 1055,1098 1124,1098 1193,1097 1262,1098 1331,1098 1400,1098 1469,1098 1539,1102 1539,1069 1469,1065 1400,1065 1331,1065 1262,1065 1193,1064 1124,1065 1055,1065 986,1064 917,1065 848,1063 778,1065 709,1066 640,1065 571,1065 502,1065 433,1063 364,1065 295,1067 226,1068 157,1063"/>
+                <Baseline points="157,1085 226,1090 295,1089 364,1087 433,1085 502,1087 571,1087 640,1087 709,1088 778,1087 848,1085 917,1087 986,1086 1055,1087 1124,1087 1193,1086 1262,1087 1331,1087 1400,1087 1469,1087 1539,1091"/>
+                <TextEquiv>
+                    <Unicode>disegni, sente dell'enorme fatica, dell'eroica ribellione, accompagnata dal sangue di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26" custom="readingOrder {index:33;} gap {offset:0; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="153,1170 223,1174 293,1175 363,1174 434,1175 504,1175 574,1174 645,1175 715,1175 785,1176 856,1177 926,1176 996,1176 1066,1176 1137,1174 1207,1174 1277,1172 1348,1170 1418,1170 1488,1172 1559,1176 1559,1143 1488,1139 1418,1137 1348,1137 1277,1139 1207,1141 1137,1141 1066,1143 996,1143 926,1143 856,1144 785,1143 715,1142 645,1142 574,1141 504,1142 434,1142 363,1141 293,1142 223,1141 153,1137"/>
+                <Baseline points="153,1159 223,1163 293,1164 363,1163 434,1164 504,1164 574,1163 645,1164 715,1164 785,1165 856,1166 926,1165 996,1165 1066,1165 1137,1163 1207,1163 1277,1161 1348,1159 1418,1159 1488,1161 1559,1165"/>
+                <TextEquiv>
+                    <Unicode>       fuoco degli incendi, compiute dal popolo per liberarsi dal dominio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765921171_825" custom="readingOrder {index:34;} date {offset:10; length:2;year:0; day:0; month:0;} gap {offset:10; length:0;quantity:2; unit:character; reason:illegible;}">
+                <Coords points="153,1200 349,1198 349,1248 153,1250"/>
+                <Baseline points="153,1245 349,1243"/>
+                <TextEquiv>
+                    <Unicode>spagnolo.   </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765923184_830" custom="readingOrder {index:35;}">
+                <Coords points="347,1154 381,1154 381,1204 347,1204"/>
+                <Baseline points="347,1199 381,1199"/>
+                <TextEquiv>
+                    <Unicode>Il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765927042_835" custom="readingOrder {index:36;}">
+                <Coords points="357,1198 1561,1206 1561,1256 357,1248"/>
+                <Baseline points="357,1243 1561,1251"/>
+                <TextEquiv>
+                    <Unicode>Il freddo, nero profilo del duca d'Alba riappare al colmo di codesto spasimo, e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765934162_843" custom="readingOrder {index:37;}">
+                <Coords points="149,1275 1294,1277 1294,1327 149,1325"/>
+                <Baseline points="149,1320 1294,1322"/>
+                <TextEquiv>
+                    <Unicode>di questa gioia, di chi ha riattinto al sapore della vita. In Rubens non </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28" custom="readingOrder {index:38;} add {offset:0; length:6;place:above;}">
+                <Coords points="1281,1287 1307,1285 1334,1288 1360,1289 1387,1291 1387,1261 1360,1259 1334,1258 1307,1255 1281,1257"/>
+                <Baseline points="1281,1277 1307,1275 1334,1278 1360,1279 1387,1281"/>
+                <TextEquiv>
+                    <Unicode>furono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715765936508_848" custom="readingOrder {index:39;} del {offset:0; length:4;rend:overstrike;} gap {offset:0; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="1312,1277 1547,1285 1545,1335 1310,1327"/>
+                <Baseline points="1310,1322 1545,1330"/>
+                <TextEquiv>
+                    <Unicode>     mai spenti.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_30" custom="readingOrder {index:40;}">
+                <Coords points="137,1406 209,1406 281,1404 353,1404 425,1403 497,1402 569,1400 641,1401 713,1402 785,1404 857,1402 929,1403 1001,1405 1073,1404 1145,1405 1217,1404 1289,1403 1361,1402 1433,1404 1505,1407 1577,1414 1577,1381 1505,1374 1433,1371 1361,1369 1289,1370 1217,1371 1145,1372 1073,1371 1001,1372 929,1370 857,1369 785,1371 713,1369 641,1368 569,1367 497,1369 425,1370 353,1371 281,1371 209,1373 137,1373"/>
+                <Baseline points="137,1395 209,1395 281,1393 353,1393 425,1392 497,1391 569,1389 641,1390 713,1391 785,1393 857,1391 929,1392 1001,1394 1073,1393 1145,1394 1217,1393 1289,1392 1361,1391 1433,1393 1505,1396 1577,1403"/>
+                <TextEquiv>
+                    <Unicode>La forza dei suoi sensi, e dell'intelletto aveva soppravanzato la forza delle cose, della storia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_31" custom="readingOrder {index:41;}">
+                <Coords points="143,1482 214,1482 285,1482 357,1480 428,1480 500,1478 571,1479 642,1479 714,1478 785,1478 857,1478 928,1478 999,1477 1071,1476 1142,1476 1214,1474 1285,1476 1356,1476 1428,1480 1499,1482 1571,1486 1571,1453 1499,1449 1428,1447 1356,1443 1285,1443 1214,1441 1142,1443 1071,1443 999,1444 928,1445 857,1445 785,1445 714,1445 642,1446 571,1446 500,1445 428,1447 357,1447 285,1449 214,1449 143,1449"/>
+                <Baseline points="143,1471 214,1471 285,1471 357,1469 428,1469 500,1467 571,1468 642,1468 714,1467 785,1467 857,1467 928,1467 999,1466 1071,1465 1142,1465 1214,1463 1285,1465 1356,1465 1428,1469 1499,1471 1571,1475"/>
+                <TextEquiv>
+                    <Unicode>della politica. Le donne, riposano tranquille, felici; i tondi occhi dei fanciulli rimandano la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_32" custom="readingOrder {index:42;}">
+                <Coords points="129,1557 199,1557 270,1554 340,1553 411,1550 481,1552 552,1551 622,1552 693,1551 763,1553 834,1554 904,1557 975,1551 1045,1552 1116,1553 1186,1555 1257,1551 1327,1551 1398,1552 1468,1555 1539,1559 1539,1529 1468,1525 1398,1522 1327,1521 1257,1521 1186,1525 1116,1523 1045,1522 975,1521 904,1527 834,1524 763,1523 693,1521 622,1522 552,1521 481,1522 411,1520 340,1523 270,1524 199,1527 129,1527"/>
+                <Baseline points="129,1547 199,1547 270,1544 340,1543 411,1540 481,1542 552,1541 622,1542 693,1541 763,1543 834,1544 904,1547 975,1541 1045,1542 1116,1543 1186,1545 1257,1541 1327,1541 1398,1542 1468,1545 1539,1549"/>
+                <TextEquiv>
+                    <Unicode>luce del sole. Questa casa: la sua stanza, i mobili, le suppellettili, gli specchi alle pareti,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715767283170_1045" custom="readingOrder {index:43;} del {offset:4; length:3;rend:overstrike;} gap {offset:4; length:0;quantity:3; unit:character; reason:illegible;}">
+                <Coords points="144,1587 364,1581 365,1631 145,1637"/>
+                <Baseline points="145,1632 365,1626"/>
+                <TextEquiv>
+                    <Unicode>gli     aloni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_33" custom="readingOrder {index:44;} add {offset:0; length:9;place:above;}">
+                <Coords points="315,1587 345,1585 375,1583 405,1583 435,1583 435,1553 405,1553 375,1553 345,1555 315,1557"/>
+                <Baseline points="315,1577 345,1575 375,1573 405,1573 435,1573"/>
+                <TextEquiv>
+                    <Unicode>di ottone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715767285466_1050" custom="readingOrder {index:45;}">
+                <Coords points="385,1573 635,1575 635,1625 385,1623"/>
+                <Baseline points="385,1618 635,1620"/>
+                <TextEquiv>
+                    <Unicode>nel focolare, le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715767308970_1071" custom="readingOrder {index:46;} add {offset:0; length:7;place:above;}">
+                <Coords points="595,1536 705,1540 703,1590 593,1586"/>
+                <Baseline points="593,1581 703,1585"/>
+                <TextEquiv>
+                    <Unicode>pesanti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715767311748_1076" custom="readingOrder {index:47;}">
+                <Coords points="643,1579 773,1580 773,1630 643,1629"/>
+                <Baseline points="643,1624 773,1625"/>
+                <TextEquiv>
+                    <Unicode>stoviglie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715767314043_1081" custom="readingOrder {index:48;} add {offset:3; length:6;place:above;}">
+                <Coords points="770,1541 885,1546 883,1596 768,1591"/>
+                <Baseline points="768,1586 883,1591"/>
+                <TextEquiv>
+                    <Unicode>di feltro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715767316322_1086" custom="readingOrder {index:49;}">
+                <Coords points="788,1579 895,1585 892,1635 785,1629"/>
+                <Baseline points="785,1624 892,1630"/>
+                <TextEquiv>
+                    <Unicode>appese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_36" custom="readingOrder {index:50;}">
+                <Coords points="745,1659 774,1659 804,1659 833,1657 863,1655 893,1657 893,1627 863,1625 833,1627 804,1629 774,1629 745,1629"/>
+                <Baseline points="745,1649 774,1649 804,1649 833,1647 863,1645 893,1647"/>
+                <TextEquiv>
+                    <Unicode>al muro,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715767318884_1091" custom="readingOrder {index:51;} add {offset:0; length:24;place:above;}">
+                <Coords points="913,1539 1269,1544 1268,1594 912,1589"/>
+                <Baseline points="912,1584 1268,1589"/>
+                <TextEquiv>
+                    <Unicode>i boccali sulle mensole,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715767294382_1060" custom="readingOrder {index:52;}">
+                <Coords points="903,1575 1579,1589 1578,1639 902,1625"/>
+                <Baseline points="902,1620 1578,1634"/>
+                <TextEquiv>
+                    <Unicode>il letto rimboccato, dimostrano a suddicienza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_37" custom="readingOrder {index:53;}">
+                <Coords points="153,1704 223,1705 293,1705 363,1704 433,1703 503,1704 573,1706 643,1705 713,1706 783,1706 853,1706 923,1706 993,1706 1063,1704 1133,1704 1203,1706 1273,1705 1343,1707 1413,1706 1483,1708 1553,1706 1553,1673 1483,1675 1413,1673 1343,1674 1273,1672 1203,1673 1133,1671 1063,1671 993,1673 923,1673 853,1673 783,1673 713,1673 643,1672 573,1673 503,1671 433,1670 363,1671 293,1672 223,1672 153,1671"/>
+                <Baseline points="153,1693 223,1694 293,1694 363,1693 433,1692 503,1693 573,1695 643,1694 713,1695 783,1695 853,1695 923,1695 993,1695 1063,1693 1133,1693 1203,1695 1273,1694 1343,1696 1413,1695 1483,1697 1553,1695"/>
+                <TextEquiv>
+                    <Unicode>che un uomo e un artista, si era ritagliato qui il suo mondo, la sua pace vera, fuori dal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_38" custom="readingOrder {index:54;}">
+                <Coords points="145,1782 216,1783 287,1781 358,1778 430,1779 501,1780 572,1784 644,1782 715,1782 786,1785 858,1784 929,1782 1000,1781 1071,1784 1143,1781 1214,1783 1285,1784 1357,1784 1428,1784 1499,1786 1571,1788 1571,1755 1499,1753 1428,1751 1357,1751 1285,1751 1214,1750 1143,1748 1071,1751 1000,1748 929,1749 858,1751 786,1752 715,1749 644,1749 572,1751 501,1747 430,1746 358,1745 287,1748 216,1750 145,1749"/>
+                <Baseline points="145,1771 216,1772 287,1770 358,1767 430,1768 501,1769 572,1773 644,1771 715,1771 786,1774 858,1773 929,1771 1000,1770 1071,1773 1143,1770 1214,1772 1285,1773 1357,1773 1428,1773 1499,1775 1571,1777"/>
+                <TextEquiv>
+                    <Unicode>restante mondo. Qui dentro si spengono, in una orgogliosa solitudine, gli occhi di Roma, e di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_39" custom="readingOrder {index:55;} del {offset:45; length:10;rend:overstrike;} gap {offset:45; length:0;quantity:10; unit:character; reason:illegible;}">
+                <Coords points="163,1858 234,1860 305,1857 376,1856 447,1856 518,1856 589,1856 660,1855 731,1856 802,1857 873,1856 944,1856 1015,1856 1086,1855 1157,1854 1228,1854 1299,1856 1370,1856 1441,1857 1512,1858 1583,1858 1583,1825 1512,1825 1441,1824 1370,1823 1299,1823 1228,1821 1157,1821 1086,1822 1015,1823 944,1823 873,1823 802,1824 731,1823 660,1822 589,1823 518,1823 447,1823 376,1823 305,1824 234,1827 163,1825"/>
+                <Baseline points="163,1847 234,1849 305,1846 376,1845 447,1845 518,1845 589,1845 660,1844 731,1845 802,1846 873,1845 944,1845 1015,1845 1086,1844 1157,1843 1228,1843 1299,1845 1370,1845 1441,1846 1512,1847 1583,1847"/>
+                <TextEquiv>
+                    <Unicode>Grecia e l'inquieto respiro del nord: il suo            fanatico rigore religioso, sola bar-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_40" custom="readingOrder {index:56;}">
+                <Coords points="157,1933 228,1931 299,1929 370,1927 441,1929 512,1927 583,1927 654,1925 725,1928 796,1929 867,1929 938,1929 1009,1931 1080,1928 1151,1927 1222,1927 1293,1927 1364,1927 1435,1926 1506,1926 1577,1929 1577,1899 1506,1896 1435,1896 1364,1897 1293,1897 1222,1897 1151,1897 1080,1898 1009,1901 938,1899 867,1899 796,1899 725,1898 654,1895 583,1897 512,1897 441,1899 370,1897 299,1899 228,1901 157,1903"/>
+                <Baseline points="157,1923 228,1921 299,1919 370,1917 441,1919 512,1917 583,1917 654,1915 725,1918 796,1919 867,1919 938,1919 1009,1921 1080,1918 1151,1917 1222,1917 1293,1917 1364,1917 1435,1916 1506,1916 1577,1919"/>
+                <TextEquiv>
+                    <Unicode>riera alla ribollente libertà della natura. Per Rubens, la natura era la verità passata attraverso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_41" custom="readingOrder {index:57;} add {offset:0; length:27;place:above;}">
+                <Coords points="159,1959 185,1961 211,1961 238,1961 264,1960 290,1959 317,1959 343,1959 370,1957 396,1957 422,1957 449,1958 475,1959 501,1959 528,1959 554,1959 581,1959 581,1929 554,1929 528,1929 501,1929 475,1929 449,1928 422,1927 396,1927 370,1927 343,1929 317,1929 290,1929 264,1930 238,1931 211,1931 185,1931 159,1929"/>
+                <Baseline points="159,1949 185,1951 211,1951 238,1951 264,1950 290,1949 317,1949 343,1949 370,1947 396,1947 422,1947 449,1948 475,1949 501,1949 528,1949 554,1949 581,1949"/>
+                <TextEquiv>
+                    <Unicode>il suo cuore in immaginoso.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715767868308_1186" custom="readingOrder {index:58;}">
+                <Coords points="165,1957 1429,1953 1429,2003 165,2007"/>
+                <Baseline points="165,2002 1429,1998"/>
+                <TextEquiv>
+                    <Unicode>I disegni di Rubens seguono il percorso della sua vita: la traccia di una civiltà</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_42" custom="readingOrder {index:59;} add {offset:0; length:19;place:above;}">
+                <Coords points="1049,1955 1076,1955 1103,1957 1130,1957 1157,1958 1184,1960 1211,1962 1238,1963 1265,1963 1292,1963 1319,1963 1347,1965 1347,1935 1319,1933 1292,1933 1265,1933 1238,1933 1211,1932 1184,1930 1157,1928 1130,1927 1103,1927 1076,1925 1049,1925"/>
+                <Baseline points="1049,1945 1076,1945 1103,1947 1130,1947 1157,1948 1184,1950 1211,1952 1238,1953 1265,1953 1292,1953 1319,1953 1347,1955"/>
+                <TextEquiv>
+                    <Unicode>di storia e di arte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715767871086_1191" custom="readingOrder {index:60;}">
+                <Coords points="1431,1959 1591,1966 1589,2016 1429,2009"/>
+                <Baseline points="1429,2004 1589,2011"/>
+                <TextEquiv>
+                    <Unicode>. Parte, at-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715768054411_1237" custom="readingOrder {index:61;}">
+                <Coords points="141,2034 1088,2033 1088,2083 141,2084"/>
+                <Baseline points="141,2079 1088,2078"/>
+                <TextEquiv>
+                    <Unicode>taccandosi a qualche "manierista", come quel Tobia Stimmer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715768056374_1242" custom="readingOrder {index:62;}">
+                <Coords points="1103,2031 1560,2042 1559,2092 1102,2081"/>
+                <Baseline points="1102,2076 1559,2087"/>
+                <TextEquiv>
+                    <Unicode> di Strasburgo, che somiglia al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_45" custom="readingOrder {index:63;}">
+                <Coords points="893,2160 919,2160 946,2160 973,2159 999,2157 1026,2156 1053,2156 1079,2156 1106,2156 1133,2154 1133,2121 1106,2123 1079,2123 1053,2123 1026,2123 999,2124 973,2126 946,2127 919,2127 893,2127"/>
+                <Baseline points="893,2149 919,2149 946,2149 973,2148 999,2146 1026,2145 1053,2145 1079,2145 1106,2145 1133,2143"/>
+                <TextEquiv>
+                    <Unicode>Stimmer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rubens&#13;
+Si pensa, chissà perchè, agli alberi delle&#13;
+navi, ai camini, al grovigli, delle scalette&#13;
+di ferro, nel porto, che è laggiù, a mezzo&#13;
+chilometro.&#13;
+xx&#13;
+Arrivammo ad Anversa&#13;
+La casa di Rubens, per noi, non può ricordare che qualcosa del barocco romano, una con&#13;
+un gusto di rifacimento di pasticcio &#13;
+archeologico&#13;
+di rinascenza italiana: le erme,&#13;
+erme&#13;
+ le stele, i termici&#13;
+infitti&#13;
+seminati su una facciata&#13;
+del palazzotto&#13;
+, nella corte, e inelo&#13;
+nello&#13;
+stupefacente fiardino. L'Olimpico di Vicen-&#13;
+za, immaginato a due passi sall'oceano,&#13;
+dal Mare del Nord.&#13;
+Comunque, al di fuori, e &#13;
+dentro&#13;
+in casa, un compiaci-&#13;
+mento di scena, di quinta di teatro:&#13;
+un "decoro" occasionale.&#13;
+E i disegni del maestro, per l'occasione della mo-&#13;
+stra, appiccicati&#13;
+appesi,&#13;
+&gt;, distruibuiti,         su di ogni parete &#13;
+della casa&#13;
+. Rubens: ogniuna cosa: dipinti e&#13;
+disegni, sente dell'enorme fatica, dell'eroica ribellione, accompagnata dal sangue di&#13;
+       fuoco degli incendi, compiute dal popolo per liberarsi dal dominio&#13;
+spagnolo.   &#13;
+Il&#13;
+Il freddo, nero profilo del duca d'Alba riappare al colmo di codesto spasimo, e&#13;
+di questa gioia, di chi ha riattinto al sapore della vita. In Rubens non &#13;
+furono&#13;
+     mai spenti.&#13;
+La forza dei suoi sensi, e dell'intelletto aveva soppravanzato la forza delle cose, della storia,&#13;
+della politica. Le donne, riposano tranquille, felici; i tondi occhi dei fanciulli rimandano la&#13;
+luce del sole. Questa casa: la sua stanza, i mobili, le suppellettili, gli specchi alle pareti,&#13;
+gli     aloni&#13;
+di ottone&#13;
+nel focolare, le&#13;
+pesanti&#13;
+stoviglie&#13;
+di feltro&#13;
+appese&#13;
+al muro,&#13;
+i boccali sulle mensole,&#13;
+il letto rimboccato, dimostrano a suddicienza&#13;
+che un uomo e un artista, si era ritagliato qui il suo mondo, la sua pace vera, fuori dal&#13;
+restante mondo. Qui dentro si spengono, in una orgogliosa solitudine, gli occhi di Roma, e di&#13;
+Grecia e l'inquieto respiro del nord: il suo            fanatico rigore religioso, sola bar-&#13;
+riera alla ribollente libertà della natura. Per Rubens, la natura era la verità passata attraverso&#13;
+il suo cuore in immaginoso.&#13;
+I disegni di Rubens seguono il percorso della sua vita: la traccia di una civiltà&#13;
+di storia e di arte&#13;
+. Parte, at-&#13;
+taccandosi a qualche "manierista", come quel Tobia Stimmer&#13;
+Stimmer&#13;
+ di Strasburgo, che somiglia al</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

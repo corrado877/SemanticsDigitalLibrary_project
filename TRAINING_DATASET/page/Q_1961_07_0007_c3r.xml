@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:16:39.574+01:00</Created>
+        <LastChange>2024-06-20T11:43:28.885+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325504" pageNr="54" tsid="175603535" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=SAZCCIYCWOSZVOOCOQJQANGC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HHYJKHTBKRLKRSEJWMHOQCAQ" imageId="53903826"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_07_0007_c3r.jpg" imageWidth="1798" imageHeight="2476" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746067769" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718180981319_694"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718180981319_694" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="130,268 130,321 203,321 203,268"/>
+            <TextLine id="line_1718180981430_697" custom="readingOrder {index:0;}">
+                <Coords points="132,268 203,271 201,321 130,318"/>
+                <Baseline points="130,313 201,316"/>
+                <TextEquiv>
+                    <Unicode>5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="125,402 125,2090 1582,2093 1582,405"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="134,500 206,498 278,498 351,498 423,498 496,498 568,497 640,496 713,495 785,497 858,496 930,496 1002,496 1075,496 1147,496 1220,496 1292,494 1364,496 1437,497 1509,500 1582,508 1582,460 1509,452 1437,449 1364,448 1292,446 1220,448 1147,448 1075,448 1002,448 930,448 858,448 785,449 713,447 640,448 568,449 496,450 423,450 351,450 278,450 206,450 134,452"/>
+                <Baseline points="134,484 206,482 278,482 351,482 423,482 496,482 568,481 640,480 713,479 785,481 858,480 930,480 1002,480 1075,480 1147,480 1220,480 1292,478 1364,480 1437,481 1509,484 1582,492"/>
+                <TextEquiv>
+                    <Unicode>Tempio di Poseidone, a Pesto. Qui la prosa si fa imponente come la poesia, e il canto lirico. "Una giorna_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="128,580 200,576 273,576 346,574 418,574 491,574 564,572 636,572 709,570 782,571 855,570 927,570 1000,570 1073,568 1145,570 1218,572 1291,573 1363,573 1436,574 1509,576 1582,574 1582,526 1509,528 1436,526 1363,525 1291,525 1218,524 1145,522 1073,520 1000,522 927,522 855,522 782,523 709,522 636,524 564,524 491,526 418,526 346,526 273,528 200,528 128,532"/>
+                <Baseline points="128,564 200,560 273,560 346,558 418,558 491,558 564,556 636,556 709,554 782,555 855,554 927,554 1000,554 1073,552 1145,554 1218,556 1291,557 1363,557 1436,558 1509,560 1582,558"/>
+                <TextEquiv>
+                    <Unicode>ta d'un azzurro favoloso". Tutto è scena, e pesante memoria, è reazione, non senza un sospet_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="138,649 207,651 276,648 345,646 415,647 484,647 553,647 623,645 692,647 761,646 831,647 900,647 969,648 1038,647 1108,647 1177,647 1246,645 1316,645 1385,645 1454,644 1524,647 1524,596 1454,593 1385,594 1316,594 1246,594 1177,596 1108,596 1038,596 969,597 900,596 831,596 761,595 692,596 623,594 553,596 484,596 415,596 345,595 276,597 207,600 138,598"/>
+                <Baseline points="138,632 207,634 276,631 345,629 415,630 484,630 553,630 623,628 692,630 761,629 831,630 900,630 969,631 1038,630 1108,630 1177,630 1246,628 1316,628 1385,628 1454,627 1524,630"/>
+                <TextEquiv>
+                    <Unicode>to di sortilegio d'Oriente. Ma già il suolo è Italia. "Odo il lungo pianto della caduta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="136,725 207,727 278,724 349,723 420,721 491,721 562,721 633,721 704,721 775,722 846,722 917,723 988,721 1059,721 1130,721 1201,721 1272,721 1343,721 1414,723 1485,725 1556,725 1556,673 1485,673 1414,671 1343,669 1272,669 1201,669 1130,669 1059,669 988,669 917,671 846,670 775,670 704,669 633,669 562,669 491,669 420,669 349,671 278,672 207,675 136,673"/>
+                <Baseline points="136,708 207,710 278,707 349,706 420,704 491,704 562,704 633,704 704,704 775,705 846,705 917,706 988,704 1059,704 1130,704 1201,704 1272,704 1343,704 1414,706 1485,708 1556,708"/>
+                <TextEquiv>
+                    <Unicode>d'un Impero." Il Tempio, che assiste, testimonia l'orrore impossibile dei secoli. Pietra, sasso,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="144,801 215,801 287,801 359,799 431,799 503,799 574,797 646,799 718,799 790,799 862,797 933,797 1005,797 1077,799 1149,797 1221,797 1292,798 1364,799 1436,799 1508,803 1580,805 1580,753 1508,751 1436,747 1364,747 1292,746 1221,745 1149,745 1077,747 1005,745 933,745 862,745 790,747 718,747 646,747 574,745 503,747 431,747 359,747 287,749 215,749 144,749"/>
+                <Baseline points="144,784 215,784 287,784 359,782 431,782 503,782 574,780 646,782 718,782 790,782 862,780 933,780 1005,780 1077,782 1149,780 1221,780 1292,781 1364,782 1436,782 1508,786 1580,788"/>
+                <TextEquiv>
+                    <Unicode>nient'altro. "Oh, le cose seducenti passano, e la misura, che, senza misericordia, le fa apparire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;} gap {offset:75; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="150,877 219,878 289,878 359,879 429,878 499,878 569,875 639,875 709,875 779,873 849,871 918,872 988,871 1058,872 1128,873 1198,873 1268,874 1338,873 1408,873 1478,874 1548,877 1548,826 1478,823 1408,822 1338,822 1268,823 1198,822 1128,822 1058,821 988,820 918,821 849,820 779,822 709,824 639,824 569,824 499,827 429,827 359,828 289,827 219,827 150,826"/>
+                <Baseline points="150,860 219,861 289,861 359,862 429,861 499,861 569,858 639,858 709,858 779,856 849,854 918,855 988,854 1058,855 1128,856 1198,856 1268,857 1338,856 1408,856 1478,857 1548,860"/>
+                <TextEquiv>
+                    <Unicode>mutevoli, è, in quel tempio, d'un'impassibilità agghiacciante! - Venga dal        o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:6;}">
+                <Coords points="156,944 225,948 295,947 364,948 434,949 503,949 573,948 642,948 712,947 781,946 851,948 920,946 990,944 1059,946 1129,946 1198,945 1268,946 1337,946 1407,947 1476,950 1546,954 1546,905 1476,901 1407,898 1337,897 1268,897 1198,896 1129,897 1059,897 990,895 920,897 851,899 781,897 712,898 642,899 573,899 503,900 434,900 364,899 295,898 225,899 156,895"/>
+                <Baseline points="156,928 225,932 295,931 364,932 434,933 503,933 573,932 642,932 712,931 781,930 851,932 920,930 990,928 1059,930 1129,930 1198,929 1268,930 1337,930 1407,931 1476,934 1546,938"/>
+                <TextEquiv>
+                    <Unicode>venga dal sogno, la bellezza può non essere orrenda ? - Tutto il resto che ci commuove, non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:7;}">
+                <Coords points="148,1023 218,1025 289,1025 360,1025 430,1025 501,1023 572,1025 642,1025 713,1025 784,1025 855,1024 925,1025 996,1025 1067,1025 1137,1025 1208,1025 1279,1026 1349,1025 1420,1029 1491,1031 1562,1027 1562,975 1491,979 1420,977 1349,973 1279,974 1208,973 1137,973 1067,973 996,973 925,973 855,972 784,973 713,973 642,973 572,973 501,971 430,973 360,973 289,973 218,973 148,971"/>
+                <Baseline points="148,1006 218,1008 289,1008 360,1008 430,1008 501,1006 572,1008 642,1008 713,1008 784,1008 855,1007 925,1008 996,1008 1067,1008 1137,1008 1208,1008 1279,1009 1349,1008 1420,1012 1491,1014 1562,1010"/>
+                <TextEquiv>
+                    <Unicode>verrà se non da malinconia." Parole: sembrano le battute in qualche parte di Shakespeare. Di qui, il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:8;} gap {offset:86; length:0;quantity:6; unit:character; reason:illegible;}">
+                <Coords points="142,1103 211,1105 281,1105 351,1103 420,1102 490,1104 560,1103 629,1103 699,1103 769,1103 839,1101 908,1101 978,1099 1048,1101 1117,1101 1187,1101 1257,1103 1326,1103 1396,1105 1466,1105 1536,1105 1536,1053 1466,1053 1396,1053 1326,1051 1257,1051 1187,1049 1117,1049 1048,1049 978,1047 908,1049 839,1049 769,1051 699,1051 629,1051 560,1051 490,1052 420,1050 351,1051 281,1053 211,1053 142,1051"/>
+                <Baseline points="142,1086 211,1088 281,1088 351,1086 420,1085 490,1087 560,1086 629,1086 699,1086 769,1086 839,1084 908,1084 978,1082 1048,1084 1117,1084 1187,1084 1257,1086 1326,1086 1396,1088 1466,1088 1536,1088"/>
+                <TextEquiv>
+                    <Unicode>viaggio si riportò al di là degli appennini: nel "paese dell'acqua". E' Ferrara, e il        di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718181048065_748" custom="readingOrder {index:9;} del {offset:34; length:8;rend:overstrike;} gap {offset:34; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="139,1118 761,1118 761,1168 139,1168"/>
+                <Baseline points="139,1163 761,1163"/>
+                <TextEquiv>
+                    <Unicode>Comacchio. La terra residua fra i         </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718181050450_753" custom="readingOrder {index:10;} add {offset:0; length:4;place:above;}">
+                <Coords points="646,1089 729,1089 729,1139 646,1139"/>
+                <Baseline points="646,1134 729,1134"/>
+                <TextEquiv>
+                    <Unicode>rami</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718181054213_758" custom="readingOrder {index:11;}">
+                <Coords points="775,1114 1566,1123 1565,1173 774,1164"/>
+                <Baseline points="774,1159 1565,1168"/>
+                <TextEquiv>
+                    <Unicode>del grande Po. "Fiandre e Olanda" ci spingono fino alla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718180992611_703" custom="readingOrder {index:12;} del {offset:48; length:4;rend:overstrike;} gap {offset:48; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="149,1197 1015,1197 1015,1247 149,1247"/>
+                <Baseline points="149,1242 1015,1242"/>
+                <TextEquiv>
+                    <Unicode>casa di Eusor, a quella di Rembrandt. Da questo     </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:13;} add {offset:0; length:6;place:above;}">
+                <Coords points="946,1210 975,1212 1004,1212 1034,1214 1034,1184 1004,1182 975,1182 946,1180"/>
+                <Baseline points="946,1200 975,1202 1004,1202 1034,1204"/>
+                <TextEquiv>
+                    <Unicode>mondo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718180995356_708" custom="readingOrder {index:14;}">
+                <Coords points="1020,1195 1581,1206 1580,1256 1019,1245"/>
+                <Baseline points="1019,1240 1580,1251"/>
+                <TextEquiv>
+                    <Unicode>che ha pure i suoi fantasmi, l'ago preci_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:15;}">
+                <Coords points="132,1328 204,1324 276,1323 348,1324 421,1322 493,1320 565,1320 638,1319 710,1320 782,1320 855,1320 927,1319 999,1320 1071,1320 1144,1320 1216,1320 1288,1320 1361,1322 1433,1322 1505,1323 1578,1326 1578,1296 1505,1293 1433,1292 1361,1292 1288,1290 1216,1290 1144,1290 1071,1290 999,1290 927,1289 855,1290 782,1290 710,1290 638,1289 565,1290 493,1290 421,1292 348,1294 276,1293 204,1294 132,1298"/>
+                <Baseline points="132,1318 204,1314 276,1313 348,1314 421,1312 493,1310 565,1310 638,1309 710,1310 782,1310 855,1310 927,1309 999,1310 1071,1310 1144,1310 1216,1310 1288,1310 1361,1312 1433,1312 1505,1313 1578,1316"/>
+                <TextEquiv>
+                    <Unicode>pitoso ripiomba al sud. Sono "Le Puglie": il Tavoliere, e l'acqua delle fontane risorta in figura</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718180999883_713" custom="readingOrder {index:16;} del {offset:20; length:7;rend:overstrike;}">
+                <Coords points="138,1351 591,1347 591,1397 138,1401"/>
+                <Baseline points="138,1396 591,1392"/>
+                <TextEquiv>
+                    <Unicode>di mitologia lieta, Siponto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:17;} add {offset:0; length:7;place:above;}">
+                <Coords points="454,1352 482,1352 511,1352 540,1354 569,1356 598,1356 598,1326 569,1326 540,1324 511,1322 482,1322 454,1322"/>
+                <Baseline points="454,1342 482,1342 511,1342 540,1344 569,1346 598,1346"/>
+                <TextEquiv>
+                    <Unicode>Siponto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718181004804_718" custom="readingOrder {index:18;}">
+                <Coords points="596,1347 897,1349 897,1399 596,1397"/>
+                <Baseline points="596,1392 897,1394"/>
+                <TextEquiv>
+                    <Unicode>/"Siponto non è più</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718181009371_723" custom="readingOrder {index:19;} add {offset:0; length:3;place:above;}">
+                <Coords points="915,1307 971,1318 961,1367 905,1356"/>
+                <Baseline points="906,1351 962,1362"/>
+                <TextEquiv>
+                    <Unicode>che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718181013625_728" custom="readingOrder {index:20;}">
+                <Coords points="904,1349 1578,1355 1578,1405 904,1399"/>
+                <Baseline points="904,1394 1578,1400"/>
+                <TextEquiv>
+                    <Unicode>un nome musicale"), cattedrali, figure, ani_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="142,1487 211,1485 281,1484 351,1483 421,1483 491,1480 560,1481 630,1479 700,1479 770,1479 840,1477 909,1477 979,1477 1049,1477 1119,1479 1189,1479 1258,1481 1328,1483 1398,1485 1468,1485 1538,1489 1538,1437 1468,1433 1398,1433 1328,1431 1258,1429 1189,1427 1119,1427 1049,1425 979,1425 909,1425 840,1425 770,1427 700,1427 630,1427 560,1429 491,1428 421,1431 351,1431 281,1432 211,1433 142,1435"/>
+                <Baseline points="142,1470 211,1468 281,1467 351,1466 421,1466 491,1463 560,1464 630,1462 700,1462 770,1462 840,1460 909,1460 979,1460 1049,1460 1119,1462 1189,1462 1258,1464 1328,1466 1398,1468 1468,1468 1538,1472"/>
+                <TextEquiv>
+                    <Unicode>mali in fuga: linea,profili, rilievi come nel recto di una moneta greca. Montagne, pianure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718181019989_733" custom="readingOrder {index:22;}">
+                <Coords points="137,1502 1562,1506 1562,1556 137,1552"/>
+                <Baseline points="137,1547 1562,1551"/>
+                <TextEquiv>
+                    <Unicode>di grano, di erba, e il mare vicino. Il Gargano e "la casa dei saraceni". Ancora il fiato d'Arabia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718181025856_738" custom="readingOrder {index:23;}">
+                <Coords points="139,1572 1570,1579 1570,1629 139,1622"/>
+                <Baseline points="139,1617 1570,1624"/>
+                <TextEquiv>
+                    <Unicode>Qui finisce l'itinerario europeo dello scrittore. Come appendice, o coronamento del lavoro, Unga_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:24;}">
+                <Coords points="150,1707 220,1708 291,1710 362,1709 433,1708 504,1709 575,1707 646,1708 717,1711 788,1709 859,1709 929,1707 1000,1707 1071,1707 1142,1705 1213,1707 1284,1705 1355,1705 1426,1708 1497,1707 1568,1713 1568,1661 1497,1655 1426,1656 1355,1653 1284,1653 1213,1655 1142,1653 1071,1655 1000,1655 929,1655 859,1657 788,1657 717,1659 646,1656 575,1655 504,1657 433,1656 362,1657 291,1658 220,1656 150,1655"/>
+                <Baseline points="150,1690 220,1691 291,1693 362,1692 433,1691 504,1692 575,1690 646,1691 717,1694 788,1692 859,1692 929,1690 1000,1690 1071,1690 1142,1688 1213,1690 1284,1688 1355,1688 1426,1691 1497,1690 1568,1696"/>
+                <TextEquiv>
+                    <Unicode>retti ha posto, frutto di un viaggio più lungo, quello che chiameremo il quaderno brasiliano. L'Ungaretti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:25;}">
+                <Coords points="140,1785 211,1783 283,1783 354,1783 426,1783 498,1783 569,1781 641,1781 712,1783 784,1783 856,1783 927,1782 999,1781 1070,1781 1142,1781 1214,1781 1285,1783 1357,1781 1428,1783 1500,1785 1572,1787 1572,1735 1500,1733 1428,1731 1357,1729 1285,1731 1214,1729 1142,1729 1070,1729 999,1729 927,1730 856,1731 784,1731 712,1731 641,1729 569,1729 498,1731 426,1731 354,1731 283,1731 211,1731 140,1733"/>
+                <Baseline points="140,1768 211,1766 283,1766 354,1766 426,1766 498,1766 569,1764 641,1764 712,1766 784,1766 856,1766 927,1765 999,1764 1070,1764 1142,1764 1214,1764 1285,1766 1357,1764 1428,1766 1500,1768 1572,1770"/>
+                <TextEquiv>
+                    <Unicode>vi soggiornò qualche anno. Nel quaderno, e quasi libro a se, egli ha riunito un grappolo di canti del po_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:26;}">
+                <Coords points="139,1869 189,1866 262,1863 335,1861 408,1859 482,1857 555,1857 628,1855 701,1856 774,1857 848,1857 921,1857 994,1857 1067,1856 1140,1857 1214,1857 1287,1859 1360,1859 1433,1861 1506,1860 1580,1869 1580,1817 1506,1808 1433,1809 1360,1807 1287,1807 1214,1805 1140,1805 1067,1804 994,1805 921,1805 848,1805 774,1805 701,1804 628,1803 555,1805 482,1805 408,1807 335,1809 262,1811 189,1814 139,1817"/>
+                <Baseline points="144,1854 189,1849 262,1846 335,1844 408,1842 482,1840 555,1840 628,1838 701,1839 774,1840 848,1840 921,1840 994,1840 1067,1839 1140,1840 1214,1840 1287,1842 1360,1842 1433,1844 1506,1843 1580,1852"/>
+                <TextEquiv>
+                    <Unicode>polo, vere figurazioni di una fantasia rituale e, nel ritmo incantatoria, oltre alla poesia di cin_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:27;}">
+                <Coords points="138,1943 194,1941 251,1939 308,1938 365,1937 422,1936 479,1935 536,1935 593,1935 650,1935 707,1933 763,1933 820,1933 877,1934 934,1933 991,1934 1048,1933 1105,1931 1162,1931 1219,1933 1276,1933 1276,1881 1219,1881 1162,1879 1105,1879 1048,1881 991,1882 934,1881 877,1882 820,1881 763,1881 707,1881 650,1883 593,1883 536,1883 479,1883 422,1884 365,1885 308,1886 251,1887 194,1889 138,1891"/>
+                <Baseline points="138,1926 194,1924 251,1922 308,1921 365,1920 422,1919 479,1918 536,1918 593,1918 650,1918 707,1916 763,1916 820,1916 877,1917 934,1916 991,1917 1048,1916 1105,1914 1162,1914 1219,1916 1276,1916"/>
+                <TextEquiv>
+                    <Unicode>que poeti brasiliani del nostro tempo. Tradotti, come solo Ungaretti poteva fare.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:28;}">
+                <Coords points="230,2095 258,2095 286,2094 314,2093 343,2091 371,2091 399,2089 428,2087 428,2035 399,2037 371,2039 343,2039 314,2041 286,2042 258,2043 230,2043"/>
+                <Baseline points="230,2078 258,2078 286,2077 314,2076 343,2074 371,2074 399,2072 428,2070"/>
+                <TextEquiv>
+                    <Unicode>25. 3. 1961.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tempio di Poseidone, a Pesto. Qui la prosa si fa imponente come la poesia, e il canto lirico. "Una giorna_&#13;
+ta d'un azzurro favoloso". Tutto è scena, e pesante memoria, è reazione, non senza un sospet_&#13;
+to di sortilegio d'Oriente. Ma già il suolo è Italia. "Odo il lungo pianto della caduta&#13;
+d'un Impero." Il Tempio, che assiste, testimonia l'orrore impossibile dei secoli. Pietra, sasso,&#13;
+nient'altro. "Oh, le cose seducenti passano, e la misura, che, senza misericordia, le fa apparire&#13;
+mutevoli, è, in quel tempio, d'un'impassibilità agghiacciante! - Venga dal        o&#13;
+venga dal sogno, la bellezza può non essere orrenda ? - Tutto il resto che ci commuove, non&#13;
+verrà se non da malinconia." Parole: sembrano le battute in qualche parte di Shakespeare. Di qui, il&#13;
+viaggio si riportò al di là degli appennini: nel "paese dell'acqua". E' Ferrara, e il        di&#13;
+Comacchio. La terra residua fra i         &#13;
+rami&#13;
+del grande Po. "Fiandre e Olanda" ci spingono fino alla&#13;
+casa di Eusor, a quella di Rembrandt. Da questo     &#13;
+mondo,&#13;
+che ha pure i suoi fantasmi, l'ago preci_&#13;
+pitoso ripiomba al sud. Sono "Le Puglie": il Tavoliere, e l'acqua delle fontane risorta in figura&#13;
+di mitologia lieta, Siponto&#13;
+Siponto&#13;
+/"Siponto non è più&#13;
+che&#13;
+un nome musicale"), cattedrali, figure, ani_&#13;
+mali in fuga: linea,profili, rilievi come nel recto di una moneta greca. Montagne, pianure&#13;
+di grano, di erba, e il mare vicino. Il Gargano e "la casa dei saraceni". Ancora il fiato d'Arabia.&#13;
+Qui finisce l'itinerario europeo dello scrittore. Come appendice, o coronamento del lavoro, Unga_&#13;
+retti ha posto, frutto di un viaggio più lungo, quello che chiameremo il quaderno brasiliano. L'Ungaretti&#13;
+vi soggiornò qualche anno. Nel quaderno, e quasi libro a se, egli ha riunito un grappolo di canti del po_&#13;
+polo, vere figurazioni di una fantasia rituale e, nel ritmo incantatoria, oltre alla poesia di cin_&#13;
+que poeti brasiliani del nostro tempo. Tradotti, come solo Ungaretti poteva fare.&#13;
+25. 3. 1961.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

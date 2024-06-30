@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:07:51.351+01:00</Created>
+        <LastChange>2024-06-20T11:32:01.782+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325501" pageNr="48" tsid="175603532" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=ORFMIBHUSYWBFOGTYYOVSWPX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XVZHSOVIEPSKPDMZDWHEAQAS" imageId="53903606"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_02_0015_c7r.jpg" imageWidth="1798" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746066648" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718121468088_1800"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718121468088_1800" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="195,308 195,365 276,365 276,308"/>
+            <TextLine id="line_1718121468193_1803" custom="readingOrder {index:0;}">
+                <Coords points="199,308 276,315 272,365 195,358"/>
+                <Baseline points="195,353 272,360"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="153,451 153,2030 1609,2033 1609,454"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="179,508 247,506 316,504 385,502 453,502 522,502 591,502 659,502 728,504 797,506 866,506 934,507 1003,506 1072,506 1140,506 1209,506 1278,508 1346,508 1415,505 1484,503 1553,502 1553,451 1484,452 1415,454 1346,457 1278,457 1209,455 1140,455 1072,455 1003,455 934,456 866,455 797,455 728,453 659,451 591,451 522,451 453,451 385,451 316,453 247,455 179,457"/>
+                <Baseline points="179,491 247,489 316,487 385,485 453,485 522,485 591,485 659,485 728,487 797,489 866,489 934,490 1003,489 1072,489 1140,489 1209,489 1278,491 1346,491 1415,488 1484,486 1553,485"/>
+                <TextEquiv>
+                    <Unicode>minerale delle rocce, col risultato di un effetto tragico e patetico insieme. I paesaggi della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="161,584 231,582 302,584 372,580 443,580 513,579 584,580 654,581 725,578 795,578 866,580 936,580 1007,580 1077,581 1148,582 1218,580 1289,581 1359,580 1430,580 1500,580 1571,582 1571,531 1500,529 1430,529 1359,529 1289,530 1218,529 1148,531 1077,530 1007,529 936,529 866,529 795,527 725,527 654,530 584,529 513,528 443,529 372,529 302,533 231,531 161,533"/>
+                <Baseline points="161,567 231,565 302,567 372,563 443,563 513,562 584,563 654,564 725,561 795,561 866,563 936,563 1007,563 1077,564 1148,565 1218,563 1289,564 1359,563 1430,563 1500,563 1571,565"/>
+                <TextEquiv>
+                    <Unicode>Valsesia (tra il '24 e il '25), corrispondono ad un momento di ripensamento, ad un richia_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718121490052_1811" custom="readingOrder {index:2;}">
+                <Coords points="164,607 1596,611 1596,661 164,657"/>
+                <Baseline points="164,652 1596,656"/>
+                <TextEquiv>
+                    <Unicode>mo, quasi nostalgico, del cuore lombardo di Carrà verso la potente voce di Cézanne. Cézan_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718121501897_1823" custom="readingOrder {index:3;}">
+                <Coords points="157,683 1101,683 1101,733 157,733"/>
+                <Baseline points="157,728 1101,728"/>
+                <TextEquiv>
+                    <Unicode>ne, è certo, ma temperato dentro una dolcezza, una fluidità,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;} add {offset:0; length:13;place:above;}">
+                <Coords points="933,681 958,679 983,680 1008,681 1033,682 1058,683 1083,683 1108,683 1133,684 1159,689 1159,659 1133,654 1108,653 1083,653 1058,653 1033,652 1008,651 983,650 958,649 933,651"/>
+                <Baseline points="933,671 958,669 983,670 1008,671 1033,672 1058,673 1083,673 1108,673 1133,674 1159,679"/>
+                <TextEquiv>
+                    <Unicode>una liquidità</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718121503935_1828" custom="readingOrder {index:5;}">
+                <Coords points="1124,678 1580,680 1580,730 1124,728"/>
+                <Baseline points="1124,723 1580,725"/>
+                <TextEquiv>
+                    <Unicode>di immagine e di materia, deri_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718121513954_1833" custom="readingOrder {index:6;}">
+                <Coords points="166,756 1573,752 1573,802 166,806"/>
+                <Baseline points="166,801 1573,797"/>
+                <TextEquiv>
+                    <Unicode>vata dalla pacata elegia dela pittura lombarda e di quella toscana del Fattori; o d'altri. Si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="161,888 231,885 302,883 372,882 443,882 513,884 584,882 654,883 725,880 795,884 866,882 936,882 1007,884 1077,883 1148,882 1218,882 1289,882 1359,880 1430,883 1500,885 1571,888 1571,837 1500,834 1430,832 1359,829 1289,831 1218,831 1148,831 1077,832 1007,833 936,831 866,831 795,833 725,829 654,832 584,831 513,833 443,831 372,831 302,832 231,834 161,837"/>
+                <Baseline points="161,871 231,868 302,866 372,865 443,865 513,867 584,865 654,866 725,863 795,867 866,865 936,865 1007,867 1077,866 1148,865 1218,865 1289,865 1359,863 1430,866 1500,868 1571,871"/>
+                <TextEquiv>
+                    <Unicode>direbbe che il sentimento poetico di Carrà, in tali frangenti, attinga ad un elisse, in cui presi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="169,958 239,962 309,960 379,960 449,961 519,960 589,958 659,959 729,959 799,958 870,959 940,958 1010,960 1080,959 1150,962 1220,960 1290,961 1360,960 1430,960 1500,958 1571,960 1571,909 1500,907 1430,909 1360,909 1290,910 1220,909 1150,911 1080,908 1010,909 940,907 870,908 799,907 729,908 659,908 589,907 519,909 449,910 379,909 309,909 239,911 169,907"/>
+                <Baseline points="169,941 239,945 309,943 379,943 449,944 519,943 589,941 659,942 729,942 799,941 870,942 940,941 1010,943 1080,942 1150,945 1220,943 1290,944 1360,943 1430,943 1500,941 1571,943"/>
+                <TextEquiv>
+                    <Unicode>in parti diverse, qualcosa di Corot: un Corot rinfrescato ai venti padani; qualcosa del vecchio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:9;}">
+                <Coords points="173,1038 243,1035 314,1034 384,1034 455,1036 525,1036 596,1038 666,1036 737,1040 807,1038 878,1038 948,1036 1019,1036 1089,1036 1160,1034 1230,1034 1301,1034 1371,1034 1442,1036 1512,1038 1583,1040 1583,989 1512,987 1442,985 1371,983 1301,983 1230,983 1160,983 1089,985 1019,985 948,985 878,987 807,987 737,989 666,985 596,987 525,985 455,985 384,983 314,983 243,984 173,987"/>
+                <Baseline points="173,1021 243,1018 314,1017 384,1017 455,1019 525,1019 596,1021 666,1019 737,1023 807,1021 878,1021 948,1019 1019,1019 1089,1019 1160,1017 1230,1017 1301,1017 1371,1017 1442,1019 1512,1021 1583,1023"/>
+                <TextEquiv>
+                    <Unicode>e indimenticato Rousseau; un poco di Cézanne, e perfino una briciola di Ranzoni-dei-laghi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:10;}">
+                <Coords points="165,1112 235,1109 306,1108 377,1108 448,1111 519,1112 590,1112 661,1114 732,1112 803,1112 874,1111 944,1112 1015,1111 1086,1111 1157,1110 1228,1109 1299,1108 1370,1108 1441,1110 1512,1112 1583,1116 1583,1065 1512,1061 1441,1059 1370,1057 1299,1057 1228,1058 1157,1059 1086,1060 1015,1060 944,1061 874,1060 803,1061 732,1061 661,1063 590,1061 519,1061 448,1060 377,1057 306,1057 235,1058 165,1061"/>
+                <Baseline points="165,1095 235,1092 306,1091 377,1091 448,1094 519,1095 590,1095 661,1097 732,1095 803,1095 874,1094 944,1095 1015,1094 1086,1094 1157,1093 1228,1092 1299,1091 1370,1091 1441,1093 1512,1095 1583,1099"/>
+                <TextEquiv>
+                    <Unicode>La miscela è altamente tonica per lo spirito, e fa l'effetto, all'imporvviso, di una cadenza, di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:11;}">
+                <Coords points="165,1188 208,1185 252,1184 295,1184 339,1186 383,1184 426,1183 470,1182 513,1182 557,1182 601,1182 644,1182 688,1183 731,1186 775,1184 819,1184 862,1186 906,1186 949,1186 993,1188 1037,1188 1037,1137 993,1137 949,1135 906,1135 862,1135 819,1133 775,1133 731,1135 688,1132 644,1131 601,1131 557,1131 513,1131 470,1131 426,1132 383,1133 339,1135 295,1133 252,1133 208,1134 165,1137"/>
+                <Baseline points="165,1171 208,1168 252,1167 295,1167 339,1169 383,1167 426,1166 470,1165 513,1165 557,1165 601,1165 644,1165 688,1166 731,1169 775,1167 819,1167 862,1169 906,1169 949,1169 993,1171 1037,1171"/>
+                <TextEquiv>
+                    <Unicode>un motivo di melodramma verdiano, ci colga per istrada.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:12;}">
+                <Coords points="167,1268 236,1266 305,1265 374,1264 451,1265 520,1261 582,1264 652,1266 721,1266 790,1266 860,1266 929,1264 998,1263 1067,1262 1137,1260 1206,1262 1275,1262 1345,1262 1414,1264 1483,1266 1553,1270 1553,1219 1483,1215 1414,1213 1345,1211 1275,1211 1206,1211 1137,1209 1067,1211 998,1212 929,1213 860,1215 790,1215 721,1215 652,1215 582,1213 513,1211 444,1215 374,1213 305,1214 236,1215 167,1217"/>
+                <Baseline points="167,1251 236,1249 305,1248 374,1247 444,1249 513,1245 582,1247 652,1249 721,1249 790,1249 860,1249 929,1247 998,1246 1067,1245 1137,1243 1206,1245 1275,1245 1345,1245 1414,1247 1483,1249 1553,1253"/>
+                <TextEquiv>
+                    <Unicode>Da allora, per altri trent'anni ancora, e di più, il lavoro di Carrà è continuato, e continua,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718121519966_1838" custom="readingOrder {index:13;}">
+                <Coords points="161,1286 1587,1292 1587,1342 161,1336"/>
+                <Baseline points="161,1331 1587,1337"/>
+                <TextEquiv>
+                    <Unicode>con l'assidua armonia, appena sorda, come di un lavoro che si compia nella materiale, quo_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718121524826_1843" custom="readingOrder {index:14;}">
+                <Coords points="171,1355 1522,1359 1522,1409 171,1405"/>
+                <Baseline points="171,1400 1522,1404"/>
+                <TextEquiv>
+                    <Unicode>tidiana applicazione di un metodo. Un metodo di sola poesia, in una paziente, ostinata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:15;}">
+                <Coords points="1363,1375 1390,1373 1418,1373 1445,1374 1473,1376 1501,1379 1501,1349 1473,1346 1445,1344 1418,1343 1390,1343 1363,1345"/>
+                <Baseline points="1363,1365 1390,1363 1418,1363 1445,1364 1473,1366 1501,1369"/>
+                <TextEquiv>
+                    <Unicode>ricerca</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718121527885_1848" custom="readingOrder {index:16;}">
+                <Coords points="1537,1360 1594,1371 1584,1420 1527,1409"/>
+                <Baseline points="1528,1404 1585,1415"/>
+                <TextEquiv>
+                    <Unicode>della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:17;}">
+                <Coords points="183,1496 251,1491 319,1490 387,1488 456,1488 524,1488 592,1488 661,1488 729,1489 797,1488 866,1486 934,1486 1002,1488 1070,1488 1139,1490 1207,1490 1275,1490 1344,1490 1412,1490 1480,1490 1549,1492 1549,1441 1480,1439 1412,1439 1344,1439 1275,1439 1207,1439 1139,1439 1070,1437 1002,1437 934,1435 866,1435 797,1437 729,1438 661,1437 592,1437 524,1437 456,1437 387,1437 319,1439 251,1440 183,1445"/>
+                <Baseline points="183,1479 251,1474 319,1473 387,1471 456,1471 524,1471 592,1471 661,1471 729,1472 797,1471 866,1469 934,1469 1002,1471 1070,1471 1139,1473 1207,1473 1275,1473 1344,1473 1412,1473 1480,1473 1549,1475"/>
+                <TextEquiv>
+                    <Unicode>poesia attraverso la pittura. Ci sono opere, che spiccano là in mezzo, e chiedono d'essere ricordate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718121532869_1853" custom="readingOrder {index:18;} hi {offset:47; length:16;rend:underline;}">
+                <Coords points="169,1513 1577,1515 1577,1565 169,1563"/>
+                <Baseline points="169,1558 1577,1560"/>
+                <TextEquiv>
+                    <Unicode>prima di altre, loro sorelle; come ad esempio: Canale a Venezia, del '26; il mondo di forma, che ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718121537205_1858" custom="readingOrder {index:19;} hi {offset:8; length:5;rend:underline;} hi {offset:24; length:15;rend:underline;} hi {offset:50; length:20;rend:underline;} hi {offset:80; length:10; continued:true;rend:underline;}">
+                <Coords points="171,1584 1587,1588 1587,1638 171,1634"/>
+                <Baseline points="171,1629 1587,1633"/>
+                <TextEquiv>
+                    <Unicode>nome di Lucia, del '27; Mattino al mare, del '28; la Foce del Cinquale, del '28; la Seghe_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718121544545_1863" custom="readingOrder {index:20;} hi {offset:0; length:12; continued:true;rend:underline;} hi {offset:24; length:20;rend:underline;} hi {offset:51; length:18;rend:underline;} hi {offset:80; length:6;rend:underline;}">
+                <Coords points="159,1664 1593,1666 1593,1716 159,1714"/>
+                <Baseline points="159,1709 1593,1711"/>
+                <TextEquiv>
+                    <Unicode>ria dei marmi, del '28; San Giorgio Maggiore, e il Bacino di S. Marco, del '32; Marina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718121549142_1868" custom="readingOrder {index:21;} hi {offset:0; length:10;rend:underline;}">
+                <Coords points="169,1738 1554,1748 1554,1798 169,1788"/>
+                <Baseline points="169,1783 1554,1793"/>
+                <TextEquiv>
+                    <Unicode>di Carrare, del '30; e ancora paesaggi veneziani, e della riva toscana del mare Tirreno, con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718121553632_1873" custom="readingOrder {index:22;}">
+                <Coords points="163,1813 1577,1817 1577,1867 163,1863"/>
+                <Baseline points="163,1858 1577,1862"/>
+                <TextEquiv>
+                    <Unicode>l'intervallo di composizioni di figure, di nature morte. Era l'anno 1942. Ritornan_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:23;}">
+                <Coords points="165,1948 235,1947 306,1945 376,1946 447,1945 518,1944 588,1944 659,1943 729,1944 800,1944 871,1943 941,1942 1012,1942 1082,1942 1153,1942 1224,1942 1294,1943 1365,1944 1435,1944 1506,1946 1577,1952 1577,1901 1506,1895 1435,1893 1365,1893 1294,1892 1224,1891 1153,1891 1082,1891 1012,1891 941,1891 871,1892 800,1893 729,1893 659,1892 588,1893 518,1893 447,1894 376,1895 306,1894 235,1896 165,1897"/>
+                <Baseline points="165,1931 235,1930 306,1928 376,1929 447,1928 518,1927 588,1927 659,1926 729,1927 800,1927 871,1926 941,1925 1012,1925 1082,1925 1153,1925 1224,1925 1294,1926 1365,1927 1435,1927 1506,1929 1577,1935"/>
+                <TextEquiv>
+                    <Unicode>no, dopo molti anni, a cercare e salutare il nostro amico Carrà. Era il tempo dell'ultima</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:24;} hi {offset:72; length:10;rend:underline; type:double;}">
+                <Coords points="189,2024 259,2019 329,2019 399,2018 469,2018 539,2017 609,2016 679,2018 749,2019 819,2020 890,2019 960,2021 1030,2018 1100,2019 1170,2018 1240,2018 1310,2019 1380,2021 1450,2024 1520,2024 1591,2030 1591,1979 1520,1973 1450,1973 1380,1970 1310,1968 1240,1967 1170,1967 1100,1968 1030,1967 960,1970 890,1968 819,1969 749,1968 679,1967 609,1965 539,1966 469,1967 399,1967 329,1968 259,1968 189,1973"/>
+                <Baseline points="189,2007 259,2002 329,2002 399,2001 469,2001 539,2000 609,1999 679,2001 749,2002 819,2003 890,2002 960,2004 1030,2001 1100,2002 1170,2001 1240,2001 1310,2002 1380,2004 1450,2007 1520,2007 1591,2013"/>
+                <TextEquiv>
+                    <Unicode>guerra. Carrà lavorava ad un dipinto, che in seguito egli ha denominato: La Loggia. E' un porti_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>minerale delle rocce, col risultato di un effetto tragico e patetico insieme. I paesaggi della&#13;
+Valsesia (tra il '24 e il '25), corrispondono ad un momento di ripensamento, ad un richia_&#13;
+mo, quasi nostalgico, del cuore lombardo di Carrà verso la potente voce di Cézanne. Cézan_&#13;
+ne, è certo, ma temperato dentro una dolcezza, una fluidità,&#13;
+una liquidità&#13;
+di immagine e di materia, deri_&#13;
+vata dalla pacata elegia dela pittura lombarda e di quella toscana del Fattori; o d'altri. Si&#13;
+direbbe che il sentimento poetico di Carrà, in tali frangenti, attinga ad un elisse, in cui presi,&#13;
+in parti diverse, qualcosa di Corot: un Corot rinfrescato ai venti padani; qualcosa del vecchio&#13;
+e indimenticato Rousseau; un poco di Cézanne, e perfino una briciola di Ranzoni-dei-laghi.&#13;
+La miscela è altamente tonica per lo spirito, e fa l'effetto, all'imporvviso, di una cadenza, di&#13;
+un motivo di melodramma verdiano, ci colga per istrada.&#13;
+Da allora, per altri trent'anni ancora, e di più, il lavoro di Carrà è continuato, e continua,&#13;
+con l'assidua armonia, appena sorda, come di un lavoro che si compia nella materiale, quo_&#13;
+tidiana applicazione di un metodo. Un metodo di sola poesia, in una paziente, ostinata&#13;
+ricerca&#13;
+della&#13;
+poesia attraverso la pittura. Ci sono opere, che spiccano là in mezzo, e chiedono d'essere ricordate&#13;
+prima di altre, loro sorelle; come ad esempio: Canale a Venezia, del '26; il mondo di forma, che ha&#13;
+nome di Lucia, del '27; Mattino al mare, del '28; la Foce del Cinquale, del '28; la Seghe_&#13;
+ria dei marmi, del '28; San Giorgio Maggiore, e il Bacino di S. Marco, del '32; Marina&#13;
+di Carrare, del '30; e ancora paesaggi veneziani, e della riva toscana del mare Tirreno, con&#13;
+l'intervallo di composizioni di figure, di nature morte. Era l'anno 1942. Ritornan_&#13;
+no, dopo molti anni, a cercare e salutare il nostro amico Carrà. Era il tempo dell'ultima&#13;
+guerra. Carrà lavorava ad un dipinto, che in seguito egli ha denominato: La Loggia. E' un porti_</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

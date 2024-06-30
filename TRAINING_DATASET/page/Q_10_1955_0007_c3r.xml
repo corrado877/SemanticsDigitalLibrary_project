@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:49:00.148+02:00</Created>
+        <LastChange>2024-06-20T10:47:15.730+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326076" pageNr="131" tsid="175603629" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=DIFUXSWJQPSWZWBOXJMUUYFP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GKBXJUTQDVOSZVVWFOVXAYUK" imageId="54317595"/>
+    </Metadata>
+    <Page imageFilename="Q_10_1955_0007_c3r.jpg" imageWidth="1798" imageHeight="2324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746083355" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="186,439 186,585 1628,585 1628,439"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="198,501 269,500 341,501 412,503 484,502 555,501 627,498 698,499 770,497 841,498 913,499 984,501 1056,500 1127,499 1199,498 1270,497 1342,497 1413,496 1485,497 1556,500 1628,503 1628,446 1556,443 1485,440 1413,439 1342,440 1270,440 1199,441 1127,442 1056,443 984,444 913,442 841,441 770,440 698,442 627,441 555,444 484,445 412,446 341,444 269,443 198,444"/>
+                <Baseline points="198,482 269,481 341,482 412,484 484,483 555,482 627,479 698,480 770,478 841,479 913,480 984,482 1056,481 1127,480 1199,479 1270,478 1342,478 1413,477 1485,478 1556,481 1628,484"/>
+                <TextEquiv>
+                    <Unicode>cominciava ad aprire le imposte delle finestre, verdi sul muro rosso della casa. E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="186,583 223,583 260,585 297,583 334,583 371,583 408,583 445,581 482,579 519,579 556,578 593,577 630,575 667,575 704,575 741,577 778,575 815,576 852,578 889,579 926,579 926,522 889,522 852,521 815,519 778,518 741,520 704,518 667,518 630,518 593,520 556,521 519,522 482,522 445,524 408,526 371,526 334,526 297,526 260,528 223,526 186,526"/>
+                <Baseline points="186,564 223,564 260,566 297,564 334,564 371,564 408,564 445,562 482,560 519,560 556,559 593,558 630,556 667,556 704,556 741,558 778,556 815,557 852,559 889,560 926,560"/>
+                <TextEquiv>
+                    <Unicode>rientrai per prepararmi il caffelatte.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>cominciava ad aprire le imposte delle finestre, verdi sul muro rosso della casa. E&#13;
+rientrai per prepararmi il caffelatte.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

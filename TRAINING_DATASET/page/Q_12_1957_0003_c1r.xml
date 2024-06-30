@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:37:28.215+02:00</Created>
+        <LastChange>2024-06-21T10:17:37.864+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326055" pageNr="109" tsid="175603582" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=CIYJLIXOZKSYHBKXAKYKBRPX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QDTYXMXMUPYVIXQKCCTBVRJV" imageId="54316448"/>
+    </Metadata>
+    <Page imageFilename="Q_12_1957_0003_c1r.jpg" imageWidth="1798" imageHeight="2523" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746078822" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="125,478 129,2096 1583,2096 1579,478"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:11;rend:underline; type:double;}">
+                <Coords points="173,580 199,578 225,578 251,578 277,578 303,578 329,577 355,577 381,578 407,578 433,576 459,576 485,576 511,576 537,575 563,575 589,576 615,578 615,527 589,525 563,524 537,524 511,525 485,525 459,525 433,525 407,527 381,527 355,526 329,526 303,527 277,527 251,527 225,527 199,527 173,529"/>
+                <Baseline points="173,563 199,561 225,561 251,561 277,561 303,561 329,560 355,560 381,561 407,561 433,559 459,559 485,559 511,559 537,558 563,558 589,559 615,561"/>
+                <TextEquiv>
+                    <Unicode>Miscellanea [bolognese.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="149,734 219,730 290,729 361,726 431,728 502,728 573,726 643,729 714,730 785,728 856,727 926,726 997,726 1068,726 1138,728 1209,728 1280,728 1350,728 1421,730 1492,728 1563,730 1563,679 1492,677 1421,679 1350,677 1280,677 1209,677 1138,677 1068,675 997,675 926,675 856,676 785,677 714,679 643,678 573,675 502,677 431,677 361,675 290,678 219,679 149,683"/>
+                <Baseline points="149,717 219,713 290,712 361,709 431,711 502,711 573,709 643,712 714,713 785,711 856,710 926,709 997,709 1068,709 1138,711 1209,711 1280,711 1350,711 1421,713 1492,711 1563,713"/>
+                <TextEquiv>
+                    <Unicode>I recenti lavori di sterro, di scavo praticati al centro della città, m'han importato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} del {offset:58; length:2;rend:overstrike;}">
+                <Coords points="133,804 205,806 277,804 349,804 421,803 493,804 565,803 637,804 709,804 781,806 853,808 925,804 997,804 1069,804 1141,805 1213,806 1285,805 1357,806 1429,804 1501,805 1573,802 1573,751 1501,754 1429,753 1357,755 1285,754 1213,755 1141,754 1069,753 997,753 925,753 853,757 781,755 709,753 637,753 565,752 493,753 421,752 349,753 277,753 205,755 133,753"/>
+                <Baseline points="133,787 205,789 277,787 349,787 421,786 493,787 565,786 637,787 709,787 781,789 853,791 925,787 997,787 1069,787 1141,788 1213,789 1285,788 1357,789 1429,787 1501,788 1573,785"/>
+                <TextEquiv>
+                    <Unicode>il ricordo di altri lavori del genere, in un luogo che fu    a pochi passi da quello di ora.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="133,888 205,886 277,884 350,882 422,882 495,882 567,880 639,880 712,880 784,878 857,878 929,878 1001,876 1074,878 1146,875 1219,878 1291,877 1363,877 1436,878 1508,880 1581,878 1581,827 1508,829 1436,827 1363,826 1291,826 1219,827 1146,824 1074,827 1001,825 929,827 857,827 784,827 712,829 639,829 567,829 495,831 422,831 350,831 277,833 205,835 133,837"/>
+                <Baseline points="133,871 205,869 277,867 350,865 422,865 495,865 567,863 639,863 712,863 784,861 857,861 929,861 1001,859 1074,861 1146,858 1219,861 1291,860 1363,860 1436,861 1508,863 1581,861"/>
+                <TextEquiv>
+                    <Unicode>Si erano abbattute le case, fra la via Orefici e il Mercato di Mezzo, e si sfondava la ter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="141,956 212,958 284,958 356,958 427,960 499,960 571,957 642,958 714,956 786,955 858,954 929,954 1001,954 1073,954 1144,954 1216,954 1288,954 1359,954 1431,956 1503,956 1575,958 1575,907 1503,905 1431,905 1359,903 1288,903 1216,903 1144,903 1073,903 1001,903 929,903 858,903 786,904 714,905 642,907 571,906 499,909 427,909 356,907 284,907 212,907 141,905"/>
+                <Baseline points="141,939 212,941 284,941 356,941 427,943 499,943 571,940 642,941 714,939 786,938 858,937 929,937 1001,937 1073,937 1144,937 1216,937 1288,937 1359,937 1431,939 1503,939 1575,941"/>
+                <TextEquiv>
+                    <Unicode>ra, dopo le canine di quella, per gettare le fondazioni di un nuovo casamento: un palazzo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="133,1036 205,1034 278,1034 350,1034 423,1033 495,1032 568,1032 640,1032 713,1030 785,1030 858,1030 930,1033 1003,1032 1075,1031 1148,1030 1220,1030 1293,1031 1365,1030 1438,1030 1510,1034 1583,1044 1583,993 1510,983 1438,979 1365,979 1293,980 1220,979 1148,979 1075,980 1003,981 930,982 858,979 785,979 713,979 640,981 568,981 495,981 423,982 350,983 278,983 205,983 133,985"/>
+                <Baseline points="133,1019 205,1017 278,1017 350,1017 423,1016 495,1015 568,1015 640,1015 713,1013 785,1013 858,1013 930,1016 1003,1015 1075,1014 1148,1013 1220,1013 1293,1014 1365,1013 1438,1013 1510,1017 1583,1027"/>
+                <TextEquiv>
+                    <Unicode>di cui a Bologna si parlò a lungo. Il palazzo Ronzani, si chiamava. Li vicino, anzi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="133,1108 205,1110 277,1107 349,1106 421,1106 493,1106 565,1108 637,1110 709,1108 781,1110 853,1110 925,1108 997,1108 1069,1106 1141,1108 1213,1106 1285,1106 1357,1106 1429,1106 1501,1109 1573,1110 1573,1059 1501,1058 1429,1055 1357,1055 1285,1055 1213,1055 1141,1057 1069,1055 997,1057 925,1057 853,1059 781,1059 709,1057 637,1059 565,1057 493,1055 421,1055 349,1055 277,1056 205,1059 133,1057"/>
+                <Baseline points="133,1091 205,1093 277,1090 349,1089 421,1089 493,1089 565,1091 637,1093 709,1091 781,1093 853,1093 925,1091 997,1091 1069,1089 1141,1091 1213,1089 1285,1089 1357,1089 1429,1089 1501,1092 1573,1093"/>
+                <TextEquiv>
+                    <Unicode>lì dentro c'era, dall'antico, una famosa birreria, appunto di quel uomo. Ed era in un cor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="137,1177 208,1181 279,1179 350,1178 422,1179 493,1177 564,1176 636,1175 707,1177 778,1177 850,1177 921,1178 992,1177 1063,1173 1135,1173 1206,1173 1277,1171 1349,1173 1420,1173 1491,1175 1563,1175 1563,1145 1491,1145 1420,1143 1349,1143 1277,1141 1206,1143 1135,1143 1063,1143 992,1147 921,1148 850,1147 778,1147 707,1147 636,1145 564,1146 493,1147 422,1149 350,1148 279,1149 208,1151 137,1147"/>
+                <Baseline points="137,1167 208,1171 279,1169 350,1168 422,1169 493,1167 564,1166 636,1165 707,1167 778,1167 850,1167 921,1168 992,1167 1063,1163 1135,1163 1206,1163 1277,1161 1349,1163 1420,1163 1491,1165 1563,1165"/>
+                <TextEquiv>
+                    <Unicode>tile, se ricordo bene: dove, ai tavolini di marmo, i pacifici bolognesi passavano le serate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705571974_42" custom="readingOrder {index:8;}">
+                <Coords points="134,1207 1167,1209 1167,1259 134,1257"/>
+                <Baseline points="134,1252 1167,1254"/>
+                <TextEquiv>
+                    <Unicode>d'estate, bevendo birra, e spaccando semi salati: i brustolini, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:9;} add {offset:0; length:14;place:above;}">
+                <Coords points="1073,1201 1099,1203 1125,1203 1152,1204 1178,1205 1205,1206 1231,1207 1258,1207 1284,1207 1311,1207 1311,1177 1284,1177 1258,1177 1231,1177 1205,1176 1178,1175 1152,1174 1125,1173 1099,1173 1073,1171"/>
+                <Baseline points="1073,1191 1099,1193 1125,1193 1152,1194 1178,1195 1205,1196 1231,1197 1258,1197 1284,1197 1311,1197"/>
+                <TextEquiv>
+                    <Unicode>fatti dicevano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705575127_47" custom="readingOrder {index:10;} date {offset:22; length:4;year:0; day:0; month:0;} gap {offset:22; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="1171,1205 1580,1209 1580,1259 1171,1255"/>
+                <Baseline points="1171,1250 1580,1254"/>
+                <TextEquiv>
+                    <Unicode>per invitare la sete.     </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:11;} date {offset:0; length:3;year:0; day:0; month:0;} div {offset:0; length:0;}">
+                <Coords points="129,1340 199,1340 269,1339 340,1336 410,1336 481,1336 551,1336 621,1336 692,1336 762,1336 833,1335 903,1336 973,1336 1044,1335 1114,1334 1185,1334 1255,1334 1325,1334 1396,1335 1466,1333 1537,1334 1537,1283 1466,1282 1396,1284 1325,1283 1255,1283 1185,1283 1114,1283 1044,1284 973,1285 903,1285 833,1284 762,1285 692,1285 621,1285 551,1285 481,1285 410,1285 340,1285 269,1288 199,1289 129,1289"/>
+                <Baseline points="129,1323 199,1323 269,1322 340,1319 410,1319 481,1319 551,1319 621,1319 692,1319 762,1319 833,1318 903,1319 973,1319 1044,1318 1114,1317 1185,1317 1255,1317 1325,1317 1396,1318 1466,1316 1537,1317"/>
+                <TextEquiv>
+                    <Unicode>    Dunque fu il periodo di quei lavori, ed era il tempo che incominciò poi la Grande</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="145,1416 215,1414 286,1413 356,1410 427,1410 497,1410 568,1410 638,1411 709,1410 779,1410 850,1410 920,1410 991,1408 1061,1409 1132,1410 1202,1410 1273,1411 1343,1412 1414,1413 1484,1414 1555,1416 1555,1365 1484,1363 1414,1362 1343,1361 1273,1360 1202,1359 1132,1359 1061,1358 991,1357 920,1359 850,1359 779,1359 709,1359 638,1360 568,1359 497,1359 427,1359 356,1359 286,1362 215,1363 145,1365"/>
+                <Baseline points="145,1399 215,1397 286,1396 356,1393 427,1393 497,1393 568,1393 638,1394 709,1393 779,1393 850,1393 920,1393 991,1391 1061,1392 1132,1393 1202,1393 1273,1394 1343,1395 1414,1396 1484,1397 1555,1399"/>
+                <TextEquiv>
+                    <Unicode>Guerra. Con qualche compagno di scuola, all'ora prima di cena, si veniva a curiosare,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:13;}">
+                <Coords points="151,1490 221,1489 291,1487 362,1488 432,1487 503,1486 573,1484 643,1485 714,1484 784,1484 855,1484 925,1484 995,1484 1066,1486 1136,1484 1207,1485 1277,1485 1347,1486 1418,1488 1488,1488 1559,1488 1559,1437 1488,1437 1418,1437 1347,1435 1277,1434 1207,1434 1136,1433 1066,1435 995,1433 925,1433 855,1433 784,1433 714,1433 643,1434 573,1433 503,1435 432,1436 362,1437 291,1436 221,1438 151,1439"/>
+                <Baseline points="151,1473 221,1472 291,1470 362,1471 432,1470 503,1469 573,1467 643,1468 714,1467 784,1467 855,1467 925,1467 995,1467 1066,1469 1136,1467 1207,1468 1277,1468 1347,1469 1418,1471 1488,1471 1559,1471"/>
+                <TextEquiv>
+                    <Unicode>con tutti, ad ammirare quell'impresa straordinaria. A Bologna, non s'eran mai vi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:14;}">
+                <Coords points="143,1566 201,1564 259,1564 317,1562 375,1560 434,1562 492,1558 550,1558 608,1559 666,1560 725,1558 783,1558 841,1562 899,1560 957,1562 1016,1562 1074,1562 1132,1564 1190,1564 1248,1562 1307,1564 1307,1513 1248,1511 1190,1513 1132,1513 1074,1511 1016,1511 957,1511 899,1509 841,1511 783,1507 725,1507 666,1509 608,1508 550,1507 492,1507 434,1511 375,1509 317,1511 259,1513 201,1513 143,1515"/>
+                <Baseline points="143,1549 201,1547 259,1547 317,1545 375,1543 434,1545 492,1541 550,1541 608,1542 666,1543 725,1541 783,1541 841,1545 899,1543 957,1545 1016,1545 1074,1545 1132,1547 1190,1547 1248,1545 1307,1547"/>
+                <TextEquiv>
+                    <Unicode>ste cose simili. Ci sedemmo sui mucchi di terra, sui lastroni di granito.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:15;}">
+                <Coords points="147,1640 216,1638 286,1639 356,1635 426,1636 496,1634 565,1635 635,1634 705,1634 775,1637 845,1638 914,1638 984,1636 1054,1636 1124,1638 1194,1637 1263,1636 1333,1634 1403,1636 1473,1636 1543,1642 1543,1591 1473,1585 1403,1585 1333,1583 1263,1585 1194,1586 1124,1587 1054,1585 984,1585 914,1587 845,1587 775,1586 705,1583 635,1583 565,1584 496,1583 426,1585 356,1584 286,1588 216,1587 147,1589"/>
+                <Baseline points="147,1623 216,1621 286,1622 356,1618 426,1619 496,1617 565,1618 635,1617 705,1617 775,1620 845,1621 914,1621 984,1619 1054,1619 1124,1621 1194,1620 1263,1619 1333,1617 1403,1619 1473,1619 1543,1625"/>
+                <TextEquiv>
+                    <Unicode>Uomini corpulenti, robusti battevano, in tempo, con grandi mazze su scalpelli massicci.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:16;}">
+                <Coords points="135,1718 206,1716 277,1715 348,1714 420,1713 491,1712 562,1710 634,1711 705,1712 776,1710 848,1710 919,1710 990,1711 1061,1712 1133,1713 1204,1712 1275,1710 1347,1710 1418,1712 1489,1714 1561,1718 1561,1667 1489,1663 1418,1661 1347,1659 1275,1659 1204,1661 1133,1662 1061,1661 990,1660 919,1659 848,1659 776,1659 705,1661 634,1660 562,1659 491,1661 420,1662 348,1663 277,1664 206,1665 135,1667"/>
+                <Baseline points="135,1701 206,1699 277,1698 348,1697 420,1696 491,1695 562,1693 634,1694 705,1695 776,1693 848,1693 919,1693 990,1694 1061,1695 1133,1696 1204,1695 1275,1693 1347,1693 1418,1695 1489,1697 1561,1701"/>
+                <TextEquiv>
+                    <Unicode>Sortivano scintille. Demolivano i volti del pianterreno. Venivano in luce gli interni di can-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:17;}">
+                <Coords points="143,1792 213,1792 284,1790 355,1792 425,1789 496,1790 567,1788 637,1788 708,1790 779,1790 850,1788 920,1788 991,1788 1062,1789 1132,1788 1203,1791 1274,1790 1344,1790 1415,1791 1486,1790 1557,1792 1557,1741 1486,1739 1415,1740 1344,1739 1274,1739 1203,1740 1132,1737 1062,1738 991,1737 920,1737 850,1737 779,1739 708,1739 637,1737 567,1737 496,1739 425,1738 355,1741 284,1739 213,1741 143,1741"/>
+                <Baseline points="143,1775 213,1775 284,1773 355,1775 425,1772 496,1773 567,1771 637,1771 708,1773 779,1773 850,1771 920,1771 991,1771 1062,1772 1132,1771 1203,1774 1274,1773 1344,1773 1415,1774 1486,1773 1557,1775"/>
+                <TextEquiv>
+                    <Unicode>tine. La gente, attenta, commentava. "Mon, guarda; il signor Filippo teneva i polli in can-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:18;}">
+                <Coords points="139,1874 209,1871 279,1870 350,1868 420,1866 491,1866 561,1866 631,1863 702,1864 772,1862 843,1863 913,1864 983,1864 1054,1864 1124,1864 1195,1862 1265,1862 1335,1862 1406,1862 1476,1862 1547,1868 1547,1817 1476,1811 1406,1811 1335,1811 1265,1811 1195,1811 1124,1813 1054,1813 983,1813 913,1813 843,1812 772,1811 702,1813 631,1812 561,1815 491,1815 420,1815 350,1817 279,1819 209,1820 139,1823"/>
+                <Baseline points="139,1857 209,1854 279,1853 350,1851 420,1849 491,1849 561,1849 631,1846 702,1847 772,1845 843,1846 913,1847 983,1847 1054,1847 1124,1847 1195,1845 1265,1845 1335,1845 1406,1845 1476,1845 1547,1851"/>
+                <TextEquiv>
+                    <Unicode>tina." Bianche, calcinose erano rimaste le treccie della digestione del pollame domestico. Ma un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705586894_55" custom="readingOrder {index:19;}">
+                <Coords points="142,1891 897,1885 897,1935 142,1941"/>
+                <Baseline points="142,1936 897,1930"/>
+                <TextEquiv>
+                    <Unicode>altro, pronto, scopriva qualcosa nel sottoscala dei </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705589001_60" custom="readingOrder {index:20;} add {offset:0; length:7;place:above;}">
+                <Coords points="771,1841 903,1847 901,1897 769,1891"/>
+                <Baseline points="769,1886 901,1892"/>
+                <TextEquiv>
+                    <Unicode>signori</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705591968_65" custom="readingOrder {index:21;}">
+                <Coords points="913,1883 1560,1887 1560,1937 913,1933"/>
+                <Baseline points="913,1928 1560,1932"/>
+                <TextEquiv>
+                    <Unicode>Riguzzi: "Mon, guarda, guarda. Tene-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:22;}">
+                <Coords points="139,2020 211,2020 283,2018 355,2016 427,2016 500,2016 572,2017 644,2018 716,2020 788,2019 861,2016 933,2016 1005,2016 1077,2016 1149,2016 1222,2016 1294,2017 1366,2020 1438,2018 1510,2018 1583,2024 1583,1973 1510,1967 1438,1967 1366,1969 1294,1966 1222,1965 1149,1965 1077,1965 1005,1965 933,1965 861,1965 788,1968 716,1969 644,1967 572,1966 500,1965 427,1965 355,1965 283,1967 211,1969 139,1969"/>
+                <Baseline points="139,2003 211,2003 283,2001 355,1999 427,1999 500,1999 572,2000 644,2001 716,2003 788,2002 861,1999 933,1999 1005,1999 1077,1999 1149,1999 1222,1999 1294,2000 1366,2003 1438,2001 1510,2001 1583,2007"/>
+                <TextEquiv>
+                    <Unicode>vano il maiale! Te lo dico, quella puzza, a passare sotto il portico!" In un angolo, inchio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:23;} del {offset:85; length:4;rend:overstrike;} gap {offset:85; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="137,2094 208,2093 280,2094 352,2094 423,2093 495,2092 567,2090 638,2088 710,2090 782,2091 854,2090 925,2092 997,2092 1069,2094 1140,2092 1212,2094 1284,2094 1355,2095 1427,2096 1499,2095 1571,2096 1571,2045 1499,2044 1427,2045 1355,2044 1284,2043 1212,2043 1140,2041 1069,2043 997,2041 925,2041 854,2039 782,2040 710,2039 638,2037 567,2039 495,2041 423,2042 352,2043 280,2043 208,2042 137,2043"/>
+                <Baseline points="137,2077 208,2076 280,2077 352,2077 423,2076 495,2075 567,2073 638,2071 710,2073 782,2074 854,2073 925,2075 997,2075 1069,2077 1140,2075 1212,2077 1284,2077 1355,2078 1427,2079 1499,2078 1571,2079"/>
+                <TextEquiv>
+                    <Unicode>dato al muro, era ancora il legno del trogolo. Arrivava un signore, distinto, con la     </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Miscellanea [bolognese.]&#13;
+I recenti lavori di sterro, di scavo praticati al centro della città, m'han importato&#13;
+il ricordo di altri lavori del genere, in un luogo che fu    a pochi passi da quello di ora.&#13;
+Si erano abbattute le case, fra la via Orefici e il Mercato di Mezzo, e si sfondava la ter-&#13;
+ra, dopo le canine di quella, per gettare le fondazioni di un nuovo casamento: un palazzo,&#13;
+di cui a Bologna si parlò a lungo. Il palazzo Ronzani, si chiamava. Li vicino, anzi,&#13;
+lì dentro c'era, dall'antico, una famosa birreria, appunto di quel uomo. Ed era in un cor-&#13;
+tile, se ricordo bene: dove, ai tavolini di marmo, i pacifici bolognesi passavano le serate&#13;
+d'estate, bevendo birra, e spaccando semi salati: i brustolini, &#13;
+fatti dicevano&#13;
+per invitare la sete.     &#13;
+    Dunque fu il periodo di quei lavori, ed era il tempo che incominciò poi la Grande&#13;
+Guerra. Con qualche compagno di scuola, all'ora prima di cena, si veniva a curiosare,&#13;
+con tutti, ad ammirare quell'impresa straordinaria. A Bologna, non s'eran mai vi-&#13;
+ste cose simili. Ci sedemmo sui mucchi di terra, sui lastroni di granito.&#13;
+Uomini corpulenti, robusti battevano, in tempo, con grandi mazze su scalpelli massicci.&#13;
+Sortivano scintille. Demolivano i volti del pianterreno. Venivano in luce gli interni di can-&#13;
+tine. La gente, attenta, commentava. "Mon, guarda; il signor Filippo teneva i polli in can-&#13;
+tina." Bianche, calcinose erano rimaste le treccie della digestione del pollame domestico. Ma un&#13;
+altro, pronto, scopriva qualcosa nel sottoscala dei &#13;
+signori&#13;
+Riguzzi: "Mon, guarda, guarda. Tene-&#13;
+vano il maiale! Te lo dico, quella puzza, a passare sotto il portico!" In un angolo, inchio-&#13;
+dato al muro, era ancora il legno del trogolo. Arrivava un signore, distinto, con la     </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

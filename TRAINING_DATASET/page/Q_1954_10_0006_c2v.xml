@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:23:18.042+02:00</Created>
+        <LastChange>2024-06-21T10:00:28.174+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326004" pageNr="88" tsid="175603571" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=UUDGKDCNRCFQSAKAAPBWDPMI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PHBXLKMYRUXMPDPVPPORLAFQ" imageId="54296148"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_10_0006_c2v.jpg" imageWidth="1798" imageHeight="2427" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746074393" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="173,488 173,2063 1655,2063 1655,488"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:76; length:2;rend:underline;}">
+                <Coords points="177,545 247,545 317,543 387,541 458,538 528,539 598,542 669,540 739,539 809,539 880,537 950,537 1020,537 1090,537 1161,537 1231,535 1301,534 1372,533 1442,531 1512,532 1583,533 1583,490 1512,489 1442,488 1372,490 1301,491 1231,492 1161,494 1090,494 1020,494 950,494 880,494 809,496 739,496 669,497 598,499 528,496 458,495 387,498 317,500 247,502 177,502"/>
+                <Baseline points="177,531 247,531 317,529 387,527 458,524 528,525 598,528 669,526 739,525 809,525 880,523 950,523 1020,523 1090,523 1161,523 1231,521 1301,520 1372,519 1442,517 1512,518 1583,519"/>
+                <TextEquiv>
+                    <Unicode>universel: il donnerait plus_ que la formule de sa pensée, que l’annotation de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} hi {offset:0; length:21;rend:underline;}">
+                <Coords points="187,619 257,619 327,617 397,617 468,614 538,613 608,614 679,613 749,611 819,611 890,611 960,609 1030,609 1100,611 1171,611 1241,612 1311,612 1382,609 1452,609 1522,610 1593,611 1593,568 1522,567 1452,566 1382,566 1311,569 1241,569 1171,568 1100,568 1030,566 960,566 890,568 819,568 749,568 679,570 608,571 538,570 468,571 397,574 327,574 257,576 187,576"/>
+                <Baseline points="187,605 257,605 327,603 397,603 468,600 538,599 608,600 679,599 749,597 819,597 890,597 960,595 1030,595 1100,597 1171,597 1241,598 1311,598 1382,595 1452,595 1522,596 1593,597"/>
+                <TextEquiv>
+                    <Unicode>sa marche au Progrès! Enormité devenant norme, absorbée par tous, il serait</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} hi {offset:8; length:30;rend:underline;}">
+                <Coords points="185,689 255,688 325,687 395,685 466,684 536,683 606,683 677,685 747,685 817,685 888,683 958,683 1028,683 1098,683 1169,683 1239,683 1309,682 1380,681 1450,682 1520,682 1591,685 1591,655 1520,652 1450,652 1380,651 1309,652 1239,653 1169,653 1098,653 1028,653 958,653 888,653 817,655 747,655 677,655 606,653 536,653 466,654 395,655 325,657 255,658 185,659"/>
+                <Baseline points="185,679 255,678 325,677 395,675 466,674 536,673 606,673 677,675 747,675 817,675 888,673 958,673 1028,673 1098,673 1169,673 1239,673 1309,672 1380,671 1450,672 1520,672 1591,675"/>
+                <TextEquiv>
+                    <Unicode>vraiment un moltiplicateur de progrès!_ Cet avenir sera matérialiste, vous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713953804019_953" custom="readingOrder {index:3;}">
+                <Coords points="193,723 1542,717 1542,767 193,773"/>
+                <Baseline points="193,768 1535,763"/>
+                <TextEquiv>
+                    <Unicode>le voyez..." Questo avvenire, egli dice, sarà materialista. Cosa vuole annunciare </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="1419,723 1445,723 1472,725 1499,725 1526,726 1553,729 1553,699 1526,696 1499,695 1472,695 1445,693 1419,693"/>
+                <Baseline points="1419,713 1445,713 1472,715 1499,715 1526,716 1553,719"/>
+                <TextEquiv>
+                    <Unicode>Rimbaud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713953812567_958" custom="readingOrder {index:5;}">
+                <Coords points="1552,715 1621,718 1619,768 1550,765"/>
+                <Baseline points="1550,760 1619,763"/>
+                <TextEquiv>
+                    <Unicode>? Il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="187,853 258,846 330,845 402,844 474,847 546,845 617,845 689,843 761,844 833,841 905,841 976,840 1048,839 1120,839 1192,839 1264,839 1335,839 1407,839 1479,839 1551,841 1623,841 1623,798 1551,798 1479,796 1407,796 1335,796 1264,796 1192,796 1120,796 1048,796 976,797 905,798 833,798 761,801 689,800 617,802 546,802 474,804 402,801 330,802 258,803 187,810"/>
+                <Baseline points="187,839 258,832 330,831 402,830 474,833 546,831 617,831 689,829 761,830 833,827 905,827 976,826 1048,825 1120,825 1192,825 1264,825 1335,825 1407,825 1479,825 1551,827 1623,827"/>
+                <TextEquiv>
+                    <Unicode>poeta fornirà, egli dice, qualcosa di più della formula del suo pensiero, di più che non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="177,919 249,917 322,919 395,921 468,919 541,919 613,919 686,919 759,917 832,916 905,915 977,915 1050,916 1123,913 1196,913 1269,913 1341,913 1414,913 1487,913 1560,913 1633,915 1633,872 1560,870 1487,870 1414,870 1341,870 1269,870 1196,870 1123,870 1050,873 977,872 905,872 832,873 759,874 686,876 613,876 541,876 468,876 395,878 322,876 249,874 177,876"/>
+                <Baseline points="177,905 249,903 322,905 395,907 468,905 541,905 613,905 686,905 759,903 832,902 905,901 977,901 1050,902 1123,899 1196,899 1269,899 1341,899 1414,899 1487,899 1560,899 1633,901"/>
+                <TextEquiv>
+                    <Unicode>l'annotazione della sua marcia verso il progresso. Egli sarà veramente un moltiplica-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="173,995 246,997 319,997 392,999 465,999 539,995 612,995 685,992 758,992 831,991 905,991 978,993 1051,992 1124,991 1197,990 1271,991 1344,991 1417,991 1490,993 1563,992 1637,993 1637,950 1563,949 1490,950 1417,948 1344,948 1271,948 1197,947 1124,948 1051,949 978,950 905,948 831,948 758,949 685,949 612,952 539,952 465,956 392,956 319,954 246,954 173,952"/>
+                <Baseline points="173,981 246,983 319,983 392,985 465,985 539,981 612,981 685,978 758,978 831,977 905,977 978,979 1051,978 1124,977 1197,976 1271,977 1344,977 1417,977 1490,979 1563,978 1637,979"/>
+                <TextEquiv>
+                    <Unicode>tore di progresso. Le parole, in Rimbaud, hanno un peso, e un valore assai preciso. Sembra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:9;}">
+                <Coords points="177,1073 250,1072 323,1071 396,1069 469,1067 542,1067 615,1067 688,1067 761,1068 834,1069 908,1067 981,1069 1054,1067 1127,1066 1200,1069 1273,1067 1346,1067 1419,1067 1492,1069 1565,1068 1639,1073 1639,1030 1565,1025 1492,1026 1419,1024 1346,1024 1273,1024 1200,1026 1127,1023 1054,1024 981,1026 908,1024 834,1026 761,1025 688,1024 615,1024 542,1024 469,1024 396,1026 323,1028 250,1029 177,1030"/>
+                <Baseline points="177,1059 250,1058 323,1057 396,1055 469,1053 542,1053 615,1053 688,1053 761,1054 834,1055 908,1053 981,1055 1054,1053 1127,1052 1200,1055 1273,1053 1346,1053 1419,1053 1492,1055 1565,1054 1639,1059"/>
+                <TextEquiv>
+                    <Unicode>incredibile di dover ritenere che il suo “progresso" sia quello dei socialisti, dei progres-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="193,1153 264,1151 336,1147 408,1147 480,1147 552,1147 624,1147 696,1145 768,1145 840,1145 912,1143 983,1143 1055,1143 1127,1143 1199,1143 1271,1143 1343,1141 1415,1141 1487,1141 1559,1141 1631,1141 1631,1098 1559,1098 1487,1098 1415,1098 1343,1098 1271,1100 1199,1100 1127,1100 1055,1100 983,1100 912,1100 840,1102 768,1102 696,1102 624,1104 552,1104 480,1104 408,1104 336,1104 264,1108 193,1110"/>
+                <Baseline points="193,1139 264,1137 336,1133 408,1133 480,1133 552,1133 624,1133 696,1131 768,1131 840,1131 912,1129 983,1129 1055,1129 1127,1129 1199,1129 1271,1129 1343,1127 1415,1127 1487,1127 1559,1127 1631,1127"/>
+                <TextEquiv>
+                    <Unicode>sisti, dei materialisti. Impossibile un processo di socializzazione del poeta Rimbaud.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="181,1231 251,1225 321,1225 391,1221 462,1218 532,1219 602,1219 673,1217 743,1215 813,1217 884,1215 954,1215 1024,1215 1094,1215 1165,1213 1235,1213 1305,1212 1376,1211 1446,1212 1516,1218 1587,1223 1587,1193 1516,1188 1446,1182 1376,1181 1305,1182 1235,1183 1165,1183 1094,1185 1024,1185 954,1185 884,1185 813,1187 743,1185 673,1187 602,1189 532,1189 462,1188 391,1191 321,1195 251,1195 181,1201"/>
+                <Baseline points="181,1221 251,1215 321,1215 391,1211 462,1208 532,1209 602,1209 673,1207 743,1205 813,1207 884,1205 954,1205 1024,1205 1094,1205 1165,1203 1235,1203 1305,1202 1376,1201 1446,1202 1516,1208 1587,1213"/>
+                <TextEquiv>
+                    <Unicode>Eppure, egli ha parlato chiaro: _ Questo avvenire sarà materialista, voi lo vedete... _ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713953893761_994" custom="readingOrder {index:12;}">
+                <Coords points="231,1253 369,1253 369,1303 231,1303"/>
+                <Baseline points="231,1298 369,1298"/>
+                <TextEquiv>
+                    <Unicode>Bisogna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:13;}">
+                <Coords points="295,1247 321,1250 347,1252 373,1253 400,1252 426,1251 452,1251 479,1251 479,1221 452,1221 426,1221 400,1222 373,1223 347,1222 321,1220 295,1217"/>
+                <Baseline points="295,1237 321,1240 347,1242 373,1243 400,1242 426,1241 452,1241 479,1241"/>
+                <TextEquiv>
+                    <Unicode>ricordare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713953907843_999" custom="readingOrder {index:14;}">
+                <Coords points="377,1247 1632,1249 1632,1299 377,1297"/>
+                <Baseline points="377,1292 1632,1294"/>
+                <TextEquiv>
+                    <Unicode>che, codeste esplorazioni nel futuro della coscienza, codeste occhiate a volo d’a-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:15;}">
+                <Coords points="203,1394 274,1382 345,1379 416,1375 487,1374 559,1371 630,1372 701,1372 772,1372 843,1370 915,1369 986,1369 1057,1370 1128,1370 1199,1369 1271,1368 1342,1370 1413,1368 1484,1368 1555,1369 1627,1376 1627,1336 1555,1329 1484,1328 1413,1328 1342,1330 1271,1328 1199,1329 1128,1330 1057,1330 986,1329 915,1329 843,1330 772,1332 701,1332 630,1332 559,1331 487,1334 416,1335 345,1339 274,1342 203,1354"/>
+                <Baseline points="203,1381 274,1369 345,1366 416,1362 487,1361 559,1358 630,1359 701,1359 772,1359 843,1357 915,1356 986,1356 1057,1357 1128,1357 1199,1356 1271,1355 1342,1357 1413,1355 1484,1355 1555,1356 1627,1363"/>
+                <TextEquiv>
+                    <Unicode>quila sul panorama dell’arte, Rimbaud le lanciava nel pieno del suo lavoro di poeta:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:16;}">
+                <Coords points="197,1450 269,1449 341,1448 413,1448 486,1449 558,1450 630,1449 703,1450 775,1449 847,1450 920,1452 992,1449 1064,1450 1136,1447 1209,1447 1281,1448 1353,1444 1426,1446 1498,1446 1570,1448 1643,1450 1643,1410 1570,1408 1498,1406 1426,1406 1353,1404 1281,1408 1209,1407 1136,1407 1064,1410 992,1409 920,1412 847,1410 775,1409 703,1410 630,1409 558,1410 486,1409 413,1408 341,1408 269,1409 197,1410"/>
+                <Baseline points="197,1437 269,1436 341,1435 413,1435 486,1436 558,1437 630,1436 703,1437 775,1436 847,1437 920,1439 992,1436 1064,1437 1136,1434 1209,1434 1281,1435 1353,1431 1426,1433 1498,1433 1570,1435 1643,1437"/>
+                <TextEquiv>
+                    <Unicode>ancora dovevano nascere le “Illuminations" e la “Saison en Enfer", che vengono scritte (ma come </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:17;} hi {offset:0; length:7;rend:underline;}">
+                <Coords points="195,1543 263,1531 335,1529 407,1529 479,1527 551,1527 623,1525 695,1529 767,1527 839,1526 912,1527 984,1525 1056,1529 1128,1526 1200,1527 1272,1525 1344,1524 1416,1523 1488,1523 1560,1525 1633,1527 1633,1484 1560,1482 1488,1480 1416,1480 1344,1481 1272,1482 1200,1484 1128,1483 1056,1486 984,1482 912,1484 839,1483 767,1484 695,1486 623,1482 551,1484 479,1484 407,1486 335,1486 263,1488 195,1500"/>
+                <Baseline points="195,1529 263,1517 335,1515 407,1515 479,1513 551,1513 623,1511 695,1515 767,1513 839,1512 912,1513 984,1511 1056,1515 1128,1512 1200,1513 1272,1511 1344,1510 1416,1509 1488,1509 1560,1511 1633,1513"/>
+                <TextEquiv>
+                    <Unicode>scritte da un tale personaggio?) appunto negli anni ‘71, ‘72 e ‘73. Con questo ultimo anno,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:18;}">
+                <Coords points="201,1605 271,1607 342,1605 413,1605 484,1603 555,1603 625,1603 696,1603 767,1601 838,1603 909,1601 979,1602 1050,1599 1121,1600 1192,1600 1263,1599 1333,1598 1404,1597 1475,1598 1546,1599 1617,1595 1617,1552 1546,1556 1475,1555 1404,1554 1333,1555 1263,1556 1192,1557 1121,1557 1050,1556 979,1559 909,1558 838,1560 767,1558 696,1560 625,1560 555,1560 484,1560 413,1562 342,1562 271,1564 201,1562"/>
+                <Baseline points="201,1591 271,1593 342,1591 413,1591 484,1589 555,1589 625,1589 696,1589 767,1587 838,1589 909,1587 979,1588 1050,1585 1121,1586 1192,1586 1263,1585 1333,1584 1404,1583 1475,1584 1546,1585 1617,1581"/>
+                <TextEquiv>
+                    <Unicode>la sua opera di poeta, di “poeta nuovo", è finita. Saranno ancora, dopo, dei soprassalti,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:19;}">
+                <Coords points="193,1681 265,1682 337,1681 409,1679 481,1679 554,1679 626,1677 698,1677 770,1679 842,1677 915,1677 987,1675 1059,1673 1131,1673 1203,1674 1276,1671 1348,1671 1420,1671 1492,1673 1564,1673 1637,1677 1637,1634 1564,1630 1492,1630 1420,1628 1348,1628 1276,1628 1203,1631 1131,1630 1059,1630 987,1632 915,1634 842,1634 770,1636 698,1634 626,1634 554,1636 481,1636 409,1636 337,1638 265,1639 193,1638"/>
+                <Baseline points="193,1667 265,1668 337,1667 409,1665 481,1665 554,1665 626,1663 698,1663 770,1665 842,1663 915,1663 987,1661 1059,1659 1131,1659 1203,1660 1276,1657 1348,1657 1420,1657 1492,1659 1564,1659 1637,1663"/>
+                <TextEquiv>
+                    <Unicode>dei risvegli e degli incubi della fosca stagione letteraria: anche fatti materiali della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:20;}">
+                <Coords points="177,1753 248,1755 320,1755 391,1758 463,1757 535,1755 606,1755 678,1753 749,1751 821,1752 893,1751 964,1751 1036,1749 1107,1750 1179,1751 1251,1751 1322,1751 1394,1749 1465,1753 1537,1752 1609,1747 1609,1704 1537,1709 1465,1710 1394,1706 1322,1708 1251,1708 1179,1708 1107,1707 1036,1706 964,1708 893,1708 821,1709 749,1708 678,1710 606,1712 535,1712 463,1714 391,1715 320,1712 248,1712 177,1710"/>
+                <Baseline points="177,1739 248,1741 320,1741 391,1744 463,1743 535,1741 606,1741 678,1739 749,1737 821,1738 893,1737 964,1737 1036,1735 1107,1736 1179,1737 1251,1737 1322,1737 1394,1735 1465,1739 1537,1738 1609,1733"/>
+                <TextEquiv>
+                    <Unicode>sua biografia non esprimeranno che la fatica di codesta stagione che si esaurisce. Le fughe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:21;}">
+                <Coords points="187,1833 259,1835 331,1835 403,1833 476,1831 548,1830 620,1831 693,1830 765,1831 837,1830 910,1833 982,1829 1054,1828 1126,1825 1199,1825 1271,1823 1343,1823 1416,1825 1488,1827 1560,1831 1633,1831 1633,1788 1560,1788 1488,1784 1416,1782 1343,1780 1271,1780 1199,1782 1126,1782 1054,1785 982,1786 910,1790 837,1787 765,1788 693,1787 620,1788 548,1787 476,1788 403,1790 331,1792 259,1792 187,1790"/>
+                <Baseline points="187,1819 259,1821 331,1821 403,1819 476,1817 548,1816 620,1817 693,1816 765,1817 837,1816 910,1819 982,1815 1054,1814 1126,1811 1199,1811 1271,1809 1343,1809 1416,1811 1488,1813 1560,1817 1633,1817"/>
+                <TextEquiv>
+                    <Unicode>solo con Verlaine, le scorribande tra Parigi e Londra; e lo stesso fattaccio del luglio ‘73 a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:22;} hi {offset:41; length:13;rend:underline;}">
+                <Coords points="173,1915 247,1913 321,1909 395,1907 469,1906 543,1907 617,1905 691,1901 765,1900 839,1899 914,1901 988,1901 1062,1903 1136,1901 1210,1901 1284,1901 1358,1903 1432,1900 1506,1903 1580,1907 1655,1913 1655,1870 1580,1864 1506,1860 1432,1857 1358,1860 1284,1858 1210,1858 1136,1858 1062,1860 988,1858 914,1858 839,1856 765,1857 691,1858 617,1862 543,1864 469,1863 395,1864 321,1866 247,1870 173,1872"/>
+                <Baseline points="173,1901 247,1899 321,1895 395,1893 469,1892 543,1893 617,1891 691,1887 765,1886 839,1885 914,1887 988,1887 1062,1889 1136,1887 1210,1887 1284,1887 1358,1889 1432,1886 1506,1889 1580,1893 1655,1899"/>
+                <TextEquiv>
+                    <Unicode>Bruxelles, con i due colpi di pistola di Pauvre Lèlian. Incomincia il tempo degli assaggi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:23;}">
+                <Coords points="181,1989 253,1989 325,1988 397,1985 470,1984 542,1983 614,1983 687,1980 759,1981 831,1982 904,1979 976,1977 1048,1977 1120,1979 1193,1977 1265,1979 1337,1979 1410,1979 1482,1981 1554,1979 1627,1983 1627,1940 1554,1936 1482,1938 1410,1936 1337,1936 1265,1936 1193,1934 1120,1936 1048,1934 976,1934 904,1936 831,1939 759,1938 687,1937 614,1940 542,1940 470,1941 397,1942 325,1945 253,1946 181,1946"/>
+                <Baseline points="181,1975 253,1975 325,1974 397,1971 470,1970 542,1969 614,1969 687,1966 759,1967 831,1968 904,1965 976,1963 1048,1963 1120,1965 1193,1963 1265,1965 1337,1965 1410,1965 1482,1967 1554,1965 1627,1969"/>
+                <TextEquiv>
+                    <Unicode>degli esperimenti verso la vita pratica. La vita comune: accostata comunque in lunghi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:24;}">
+                <Coords points="179,2063 251,2061 324,2063 397,2062 470,2061 543,2061 615,2061 688,2058 761,2057 834,2057 907,2056 979,2057 1052,2055 1125,2055 1198,2055 1271,2055 1343,2054 1416,2053 1489,2053 1562,2053 1635,2053 1635,2010 1562,2010 1489,2010 1416,2010 1343,2011 1271,2012 1198,2012 1125,2012 1052,2012 979,2014 907,2013 834,2014 761,2014 688,2015 615,2018 543,2018 470,2018 397,2019 324,2020 251,2018 179,2020"/>
+                <Baseline points="179,2049 251,2047 324,2049 397,2048 470,2047 543,2047 615,2047 688,2044 761,2043 834,2043 907,2042 979,2043 1052,2041 1125,2041 1198,2041 1271,2041 1343,2040 1416,2039 1489,2039 1562,2039 1635,2039"/>
+                <TextEquiv>
+                    <Unicode>sbandamenti, e vagabondaggi attraverso l’Europa. Precettore a Stoccarda, poi viaggio, attraverso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>universel: il donnerait plus_ que la formule de sa pensée, que l’annotation de&#13;
+sa marche au Progrès! Enormité devenant norme, absorbée par tous, il serait&#13;
+vraiment un moltiplicateur de progrès!_ Cet avenir sera matérialiste, vous&#13;
+le voyez..." Questo avvenire, egli dice, sarà materialista. Cosa vuole annunciare &#13;
+Rimbaud&#13;
+? Il&#13;
+poeta fornirà, egli dice, qualcosa di più della formula del suo pensiero, di più che non&#13;
+l'annotazione della sua marcia verso il progresso. Egli sarà veramente un moltiplica-&#13;
+tore di progresso. Le parole, in Rimbaud, hanno un peso, e un valore assai preciso. Sembra&#13;
+incredibile di dover ritenere che il suo “progresso" sia quello dei socialisti, dei progres-&#13;
+sisti, dei materialisti. Impossibile un processo di socializzazione del poeta Rimbaud.&#13;
+Eppure, egli ha parlato chiaro: _ Questo avvenire sarà materialista, voi lo vedete... _ &#13;
+Bisogna&#13;
+ricordare&#13;
+che, codeste esplorazioni nel futuro della coscienza, codeste occhiate a volo d’a-&#13;
+quila sul panorama dell’arte, Rimbaud le lanciava nel pieno del suo lavoro di poeta:&#13;
+ancora dovevano nascere le “Illuminations" e la “Saison en Enfer", che vengono scritte (ma come &#13;
+scritte da un tale personaggio?) appunto negli anni ‘71, ‘72 e ‘73. Con questo ultimo anno,&#13;
+la sua opera di poeta, di “poeta nuovo", è finita. Saranno ancora, dopo, dei soprassalti,&#13;
+dei risvegli e degli incubi della fosca stagione letteraria: anche fatti materiali della&#13;
+sua biografia non esprimeranno che la fatica di codesta stagione che si esaurisce. Le fughe,&#13;
+solo con Verlaine, le scorribande tra Parigi e Londra; e lo stesso fattaccio del luglio ‘73 a&#13;
+Bruxelles, con i due colpi di pistola di Pauvre Lèlian. Incomincia il tempo degli assaggi,&#13;
+degli esperimenti verso la vita pratica. La vita comune: accostata comunque in lunghi&#13;
+sbandamenti, e vagabondaggi attraverso l’Europa. Precettore a Stoccarda, poi viaggio, attraverso</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

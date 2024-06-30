@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:48:55.959+01:00</Created>
+        <LastChange>2024-06-20T11:15:30.899+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325440" pageNr="21" tsid="175602713" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=CHDGYIBRAAXMAYLUPEZQLRUS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MTFDHKWGNWWHDERIXLKIESMV" imageId="53902124"/>
+    </Metadata>
+    <Page imageFilename="Q_1960_09_0004_c1v.jpg" imageWidth="1798" imageHeight="2501" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746061287" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1718126622483_158"/>
+                <RegionRefIndexed index="2" regionRef="region_1718126779939_178"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="171,263 188,2203 1677,2204 1660,264"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1718126622483_158" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="1607,352 1529,352 1529,281 1607,281"/>
+            <TextLine id="line_1718126668206_162" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:right;}">
+                <Coords points="1544,287 1604,287 1604,337 1544,337"/>
+                <Baseline points="1544,332 1604,332"/>
+                <TextEquiv>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718126779939_178" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="181,435 1660,437 1652,2080 173,2078"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="190,537 260,536 330,535 400,533 471,533 541,531 611,531 682,528 752,527 822,527 893,525 963,525 1033,525 1103,525 1174,523 1244,521 1314,521 1385,521 1455,522 1525,522 1596,525 1596,473 1525,470 1455,470 1385,469 1314,469 1244,469 1174,471 1103,473 1033,473 963,473 893,473 822,475 752,475 682,476 611,479 541,479 471,481 400,481 330,483 260,484 190,485"/>
+                <Baseline points="190,520 260,519 330,518 400,516 471,516 541,514 611,514 682,511 752,510 822,510 893,508 963,508 1033,508 1103,508 1174,506 1244,504 1314,504 1385,504 1455,505 1525,505 1596,508"/>
+                <TextEquiv>
+                    <Unicode>infinita dolcezza ed equità umana, alle vicende, all'implacata rissa degli uomini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="186,611 257,608 329,607 401,608 473,608 545,607 616,606 688,607 760,604 832,602 904,603 975,601 1047,601 1119,601 1191,600 1263,599 1334,597 1406,597 1478,599 1550,596 1622,593 1622,542 1550,545 1478,548 1406,546 1334,546 1263,548 1191,549 1119,550 1047,550 975,550 904,552 832,551 760,553 688,556 616,555 545,556 473,557 401,557 329,556 257,557 186,560"/>
+                <Baseline points="186,594 257,591 329,590 401,591 473,591 545,590 616,589 688,590 760,587 832,585 904,586 975,584 1047,584 1119,584 1191,583 1263,582 1334,580 1406,580 1478,582 1550,579 1622,576"/>
+                <TextEquiv>
+                    <Unicode>nel mondo. L'uomo, si può pensare, ha scelto di parlare agli altri, col mezzo della poe-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:2;}">
+                <Coords points="194,679 266,683 338,683 410,682 482,679 554,681 626,679 698,679 770,679 842,678 915,677 987,677 1059,677 1131,677 1203,676 1275,675 1347,675 1419,673 1491,675 1563,674 1636,675 1636,624 1563,623 1491,624 1419,622 1347,624 1275,624 1203,625 1131,626 1059,626 987,626 915,626 842,627 770,628 698,628 626,628 554,630 482,628 410,631 338,632 266,632 194,628"/>
+                <Baseline points="194,662 266,666 338,666 410,665 482,662 554,664 626,662 698,662 770,662 842,661 915,660 987,660 1059,660 1131,660 1203,659 1275,658 1347,658 1419,656 1491,658 1563,657 1636,658"/>
+                <TextEquiv>
+                    <Unicode>sia: la più quieta, affidabile, domestica, fraterna delle poesie in versi, convinto o fiducioso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="186,759 255,757 325,757 394,754 464,753 534,753 603,753 673,753 742,751 812,754 882,753 951,753 1021,751 1090,752 1160,751 1230,750 1299,750 1369,751 1438,749 1508,749 1578,745 1578,693 1508,697 1438,697 1369,699 1299,698 1230,698 1160,699 1090,700 1021,699 951,701 882,701 812,702 742,699 673,701 603,701 534,701 464,701 394,702 325,705 255,705 186,707"/>
+                <Baseline points="186,742 255,740 325,740 394,737 464,736 534,736 603,736 673,736 742,734 812,737 882,736 951,736 1021,734 1090,735 1160,734 1230,733 1299,733 1369,734 1438,732 1508,732 1578,728"/>
+                <TextEquiv>
+                    <Unicode>che fosse il mezzo e lo strumento, più umano. Quello più inerme, in un tempo di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:4;} person {offset:52; length:12;occupation:poet; firstname:Diego; dateOfDeath:28\u0020November\u00201976; dateOfBirth:25\u0020January\u00201887; lastname:Valeri;}">
+                <Coords points="188,837 258,833 329,833 400,833 470,833 541,831 612,831 682,830 753,831 824,831 895,829 965,827 1036,827 1107,826 1177,823 1248,823 1319,823 1389,823 1460,823 1531,823 1602,825 1602,773 1531,771 1460,771 1389,771 1319,771 1248,771 1177,771 1107,774 1036,775 965,775 895,777 824,779 753,779 682,778 612,779 541,779 470,781 400,781 329,781 258,781 188,785"/>
+                <Baseline points="188,820 258,816 329,816 400,816 470,816 541,814 612,814 682,813 753,814 824,814 895,812 965,810 1036,810 1107,809 1177,806 1248,806 1319,806 1389,806 1460,806 1531,806 1602,808"/>
+                <TextEquiv>
+                    <Unicode>rosse passioni, di parole insensibili. La poesia di Diego Valeri ha visto accadere le due</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:5;}">
+                <Coords points="202,915 273,911 345,909 416,907 488,907 559,907 631,907 702,905 774,906 845,905 917,905 988,906 1060,905 1131,907 1203,905 1274,907 1346,904 1417,901 1489,903 1560,904 1632,909 1632,857 1560,852 1489,851 1417,849 1346,852 1274,855 1203,853 1131,855 1060,853 988,854 917,853 845,853 774,854 702,853 631,855 559,855 488,855 416,855 345,857 273,859 202,863"/>
+                <Baseline points="202,898 273,894 345,892 416,890 488,890 559,890 631,890 702,888 774,889 845,888 917,888 988,889 1060,888 1131,890 1203,888 1274,890 1346,887 1417,884 1489,886 1560,887 1632,892"/>
+                <TextEquiv>
+                    <Unicode>guerre del secolo, e lo spazio in mezzo alle due, e quello, più desolante ancora, che si prolun-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:6;}">
+                <Coords points="196,997 267,991 338,987 409,986 480,987 552,984 623,983 694,981 765,981 836,981 908,981 979,980 1050,979 1121,978 1192,978 1264,979 1335,979 1406,979 1477,981 1548,981 1620,981 1620,929 1548,929 1477,929 1406,927 1335,927 1264,927 1192,926 1121,926 1050,927 979,928 908,929 836,929 765,929 694,929 623,931 552,932 480,935 409,934 338,935 267,939 196,945"/>
+                <Baseline points="196,980 267,974 338,970 409,969 480,970 552,967 623,966 694,964 765,964 836,964 908,964 979,963 1050,962 1121,961 1192,961 1264,962 1335,962 1406,962 1477,964 1548,964 1620,964"/>
+                <TextEquiv>
+                    <Unicode>ga dopo la seconda; e ci avvilisce tutti. Solo questo uomo è sereno, che, con gesto di-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:7;}">
+                <Coords points="186,1063 258,1063 330,1064 402,1063 474,1063 546,1063 618,1059 690,1059 762,1057 834,1057 907,1057 979,1055 1051,1055 1123,1051 1195,1052 1267,1053 1339,1052 1411,1051 1483,1053 1555,1053 1628,1051 1628,999 1555,1001 1483,1001 1411,999 1339,1000 1267,1001 1195,1000 1123,999 1051,1003 979,1003 907,1005 834,1005 762,1005 690,1007 618,1007 546,1011 474,1011 402,1011 330,1012 258,1011 186,1011"/>
+                <Baseline points="186,1046 258,1046 330,1047 402,1046 474,1046 546,1046 618,1042 690,1042 762,1040 834,1040 907,1040 979,1038 1051,1038 1123,1034 1195,1035 1267,1036 1339,1035 1411,1034 1483,1036 1555,1036 1628,1034"/>
+                <TextEquiv>
+                    <Unicode>screto, e aiutando le parole con un'attenzione di ordine musicale, può, ogni tanto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:8;}">
+                <Coords points="200,1140 270,1134 341,1132 412,1132 483,1130 554,1132 625,1130 696,1128 767,1128 838,1124 909,1125 979,1125 1050,1124 1121,1124 1192,1122 1263,1122 1334,1122 1405,1122 1476,1121 1547,1122 1618,1122 1618,1092 1547,1092 1476,1091 1405,1092 1334,1092 1263,1092 1192,1092 1121,1094 1050,1094 979,1095 909,1095 838,1094 767,1098 696,1098 625,1100 554,1102 483,1100 412,1102 341,1102 270,1104 200,1110"/>
+                <Baseline points="200,1130 270,1124 341,1122 412,1122 483,1120 554,1122 625,1120 696,1118 767,1118 838,1114 909,1115 979,1115 1050,1114 1121,1114 1192,1112 1263,1112 1334,1112 1405,1112 1476,1111 1547,1112 1618,1112"/>
+                <TextEquiv>
+                    <Unicode>prendere la penna e comporre i suoi fragili componimenti in versi. Piccole composi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718127254776_271" custom="readingOrder {index:9;}">
+                <Coords points="196,1178 267,1178 339,1176 411,1176 483,1175 555,1174 626,1173 698,1170 770,1169 842,1169 914,1166 985,1165 1057,1166 1182,1166 1182,1196 1057,1196 985,1195 914,1196 842,1199 770,1199 698,1200 626,1203 555,1204 483,1205 411,1206 339,1206 267,1208 196,1208"/>
+                <Baseline points="196,1198 267,1198 339,1196 411,1196 483,1195 555,1194 626,1193 698,1190 770,1189 842,1189 914,1186 985,1185 1057,1186 1129,1186 1182,1186"/>
+                <TextEquiv>
+                    <Unicode>zioni, costruzioni dove, la luce, l'aria e il respiro di chi le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718127254775_270" custom="readingOrder {index:10;} add {offset:0; length:7;place:above;}">
+                <Coords points="1182,1166 1201,1166 1273,1164 1344,1165 1416,1164 1488,1166 1560,1166 1632,1170 1632,1200 1560,1196 1488,1196 1416,1194 1344,1195 1273,1194 1201,1196 1182,1196"/>
+                <Baseline points="1182,1186 1201,1186 1273,1184 1344,1185 1416,1184 1488,1186 1560,1186 1632,1190"/>
+                <TextEquiv>
+                    <Unicode>elabora</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:11;} del {offset:0; length:6;rend:overstrike;}">
+                <Coords points="1168,1162 1193,1162 1219,1163 1244,1164 1270,1164 1296,1162 1296,1132 1270,1134 1244,1134 1219,1133 1193,1132 1168,1132"/>
+                <Baseline points="1168,1152 1193,1152 1219,1153 1244,1154 1270,1154 1296,1152"/>
+                <TextEquiv>
+                    <Unicode>lavora , sono la parte maggio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:12;}">
+                <Coords points="188,1287 259,1289 330,1289 401,1288 472,1287 544,1285 615,1283 686,1285 757,1281 828,1283 900,1281 971,1280 1042,1279 1113,1277 1184,1277 1256,1277 1327,1278 1398,1277 1469,1279 1540,1278 1612,1281 1612,1229 1540,1226 1469,1227 1398,1225 1327,1226 1256,1225 1184,1225 1113,1225 1042,1227 971,1228 900,1229 828,1231 757,1229 686,1233 615,1231 544,1233 472,1235 401,1236 330,1237 259,1237 188,1235"/>
+                <Baseline points="188,1270 259,1272 330,1272 401,1271 472,1270 544,1268 615,1266 686,1268 757,1264 828,1266 900,1264 971,1263 1042,1262 1113,1260 1184,1260 1256,1260 1327,1261 1398,1260 1469,1262 1540,1261 1612,1264"/>
+                <TextEquiv>
+                    <Unicode>re, o sono il vento e l'ombra sonora di un disegno, di un'armatura che è fatta, di volta in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718127613200_294" custom="readingOrder {index:13;}">
+                <Coords points="182,1315 254,1313 326,1315 398,1311 542,1311 614,1309 686,1307 758,1307 830,1306 902,1303 974,1305 1044,1312 1082,1313 1082,1357 1046,1355 974,1357 902,1355 830,1358 758,1359 686,1359 614,1361 542,1363 398,1363 326,1367 254,1365 182,1367"/>
+                <Baseline points="182,1350 254,1348 326,1350 398,1346 470,1346 542,1346 614,1344 686,1342 758,1342 830,1341 902,1338 974,1340 1046,1338 1086,1339"/>
+                <TextEquiv>
+                    <Unicode>volta, di un pensiero impreciso, di un'impressione, di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718127599532_285" custom="readingOrder {index:14;} add {offset:0; length:2;place:above;}">
+                <Coords points="1056,1283 1124,1284 1123,1310 1060,1312"/>
+                <Baseline points="1060,1307 1123,1305"/>
+                <TextEquiv>
+                    <Unicode>un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718127613200_293" custom="readingOrder {index:15;}">
+                <Coords points="1081,1312 1127,1313 1190,1306 1262,1307 1334,1303 1406,1301 1478,1305 1550,1304 1622,1305 1622,1357 1550,1356 1478,1357 1406,1353 1334,1355 1262,1359 1190,1358 1118,1357 1081,1356"/>
+                <Baseline points="1086,1339 1118,1340 1190,1341 1262,1342 1334,1338 1406,1336 1478,1340 1550,1339 1622,1340"/>
+                <TextEquiv>
+                    <Unicode>nulla che è trapassato, fulmineo, dai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:16;}">
+                <Coords points="188,1445 257,1442 327,1439 397,1438 467,1437 537,1437 607,1436 677,1435 747,1435 817,1435 887,1435 956,1435 1026,1435 1096,1435 1166,1433 1236,1433 1306,1434 1376,1433 1446,1431 1516,1431 1586,1431 1586,1379 1516,1379 1446,1379 1376,1381 1306,1382 1236,1381 1166,1381 1096,1383 1026,1383 956,1383 887,1383 817,1383 747,1383 677,1383 607,1384 537,1385 467,1385 397,1386 327,1387 257,1390 188,1393"/>
+                <Baseline points="188,1428 257,1425 327,1422 397,1421 467,1420 537,1420 607,1419 677,1418 747,1418 817,1418 887,1418 956,1418 1026,1418 1096,1418 1166,1416 1236,1416 1306,1417 1376,1416 1446,1414 1516,1414 1586,1414"/>
+                <TextEquiv>
+                    <Unicode>suoi occhi al cuore, alla mente. Poiché il movimento iniziale, la prima operazione, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:17;} del {offset:89; length:2;rend:overstrike;} gap {offset:89; length:0;quantity:2; unit:character; reason:illegible;}">
+                <Coords points="186,1523 257,1521 329,1519 401,1517 473,1517 545,1515 617,1515 689,1515 761,1517 833,1515 905,1515 976,1513 1048,1509 1120,1509 1192,1509 1264,1507 1336,1505 1408,1505 1480,1503 1552,1503 1630,1504 1628,1475 1552,1451 1480,1451 1408,1453 1336,1453 1264,1455 1192,1457 1120,1457 1048,1457 976,1461 905,1463 833,1463 761,1465 689,1463 617,1463 545,1463 473,1465 401,1465 329,1467 257,1469 186,1471"/>
+                <Baseline points="186,1506 257,1504 329,1502 401,1500 473,1500 545,1498 617,1498 689,1498 761,1500 833,1498 905,1498 976,1496 1048,1492 1120,1492 1192,1492 1264,1490 1336,1488 1408,1488 1480,1486 1552,1486 1624,1488"/>
+                <TextEquiv>
+                    <Unicode>codesta poesia, è quella di chi, alzando, girando gli occhi, vede e sente. Così di tanto   </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718127967887_345" custom="readingOrder {index:18;} add {offset:0; length:2;place:above;}">
+                <Coords points="1597,1423 1631,1421 1629,1471 1597,1466"/>
+                <Baseline points="1601,1465 1629,1466"/>
+                <TextEquiv>
+                    <Unicode>in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718128314653_385" custom="readingOrder {index:19;}">
+                <Coords points="188,1544 259,1543 331,1542 403,1540 474,1540 546,1538 618,1540 689,1540 761,1538 833,1537 905,1538 976,1536 1048,1536 1120,1537 1191,1536 1263,1534 1265,1533 1265,1584 1263,1585 1191,1587 1120,1588 1048,1587 976,1587 905,1589 833,1588 761,1589 689,1591 618,1591 546,1589 474,1591 403,1591 331,1593 259,1594 188,1595"/>
+                <Baseline points="188,1578 259,1577 331,1576 403,1574 474,1574 546,1572 618,1574 689,1574 761,1572 833,1571 905,1572 976,1570 1048,1570 1120,1571 1191,1570 1263,1568 1265,1567"/>
+                <TextEquiv>
+                    <Unicode>tanto, per non lasciare che proprio ogni cosa si perda e si confonda,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:20;} add {offset:0; length:6;place:above;}">
+                <Coords points="1250,1543 1374,1545 1371,1508 1251,1512"/>
+                <Baseline points="1250,1526 1361,1529"/>
+                <TextEquiv>
+                    <Unicode>laggiù</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718128314653_384" custom="readingOrder {index:21;}">
+                <Coords points="1265,1533 1335,1533 1406,1532 1550,1532 1622,1536 1622,1587 1550,1583 1406,1583 1335,1584 1265,1584"/>
+                <Baseline points="1265,1567 1335,1567 1406,1566 1478,1566 1550,1566 1622,1570"/>
+                <TextEquiv>
+                    <Unicode>dalle parti dell'orizzonte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:22;} person {offset:73; length:6;occupation:poet; firstname:Diego; dateOfDeath:\u002028\u0020November\u00201976; dateOfBirth:25\u0020January\u00201887; lastname:Valeri;}">
+                <Coords points="198,1675 269,1669 340,1666 411,1665 482,1663 553,1664 624,1665 695,1661 766,1659 837,1657 908,1657 979,1658 1050,1655 1121,1657 1192,1659 1263,1655 1334,1654 1405,1653 1476,1656 1547,1656 1618,1659 1618,1608 1547,1605 1476,1605 1405,1602 1334,1603 1263,1604 1192,1608 1121,1606 1050,1604 979,1607 908,1606 837,1606 766,1608 695,1610 624,1614 553,1613 482,1612 411,1614 340,1615 269,1618 198,1624"/>
+                <Baseline points="198,1658 269,1652 340,1649 411,1648 482,1646 553,1647 624,1648 695,1644 766,1642 837,1640 908,1640 979,1641 1050,1638 1121,1640 1192,1642 1263,1638 1334,1637 1405,1636 1476,1639 1547,1639 1618,1642"/>
+                <TextEquiv>
+                    <Unicode>egli tenta il gioco sereno delle parole. Sereno è il "giuoco" poetico di Valeri, per una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718128695550_425" custom="readingOrder {index:23;}">
+                <Coords points="204,1699 275,1691 305,1689 305,1741 275,1743 204,1751"/>
+                <Baseline points="204,1734 275,1726 305,1724"/>
+                <TextEquiv>
+                    <Unicode>piega</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718128648885_400" custom="readingOrder {index:24;} add {offset:0; length:3;place:above;}">
+                <Coords points="271,1673 334,1672 333,1692 274,1692"/>
+                <Baseline points="274,1687 333,1687"/>
+                <TextEquiv>
+                    <Unicode>non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718128695550_424" custom="readingOrder {index:25;}">
+                <Coords points="305,1689 347,1687 418,1687 490,1685 561,1685 633,1684 704,1685 776,1684 847,1685 919,1683 1062,1683 1133,1680 1205,1679 1276,1681 1419,1681 1491,1683 1562,1685 1634,1685 1634,1737 1562,1737 1491,1735 1419,1733 1276,1733 1205,1731 1133,1732 1062,1735 919,1735 847,1737 776,1736 704,1737 633,1736 561,1737 490,1737 418,1739 347,1739 305,1741"/>
+                <Baseline points="305,1724 347,1722 418,1722 490,1720 561,1720 633,1719 704,1720 776,1719 847,1720 919,1718 990,1718 1062,1718 1133,1715 1205,1714 1276,1716 1348,1716 1419,1716 1491,1718 1562,1720 1634,1720"/>
+                <TextEquiv>
+                    <Unicode>del temperamento, ma per un giudizio antico in lui, per un pensiero a confron-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:26;}">
+                <Coords points="194,1823 264,1821 335,1820 406,1817 476,1818 547,1818 618,1815 688,1815 759,1814 830,1815 901,1812 971,1811 1042,1809 1113,1809 1183,1807 1254,1807 1325,1808 1395,1809 1466,1808 1537,1809 1608,1811 1608,1759 1537,1757 1466,1756 1395,1757 1325,1756 1254,1755 1183,1755 1113,1757 1042,1757 971,1759 901,1760 830,1763 759,1762 688,1763 618,1763 547,1766 476,1766 406,1765 335,1768 264,1769 194,1771"/>
+                <Baseline points="194,1806 264,1804 335,1803 406,1800 476,1801 547,1801 618,1798 688,1798 759,1797 830,1798 901,1795 971,1794 1042,1792 1113,1792 1183,1790 1254,1790 1325,1791 1395,1792 1466,1791 1537,1792 1608,1794"/>
+                <TextEquiv>
+                    <Unicode>to continuo fra gli aspetti immutabili della realtà di ogni minuto e l'aspirazione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:27;}">
+                <Coords points="190,1903 248,1896 306,1895 364,1893 422,1893 480,1893 538,1891 596,1891 654,1889 712,1890 771,1888 829,1890 887,1889 945,1889 1003,1888 1061,1887 1119,1887 1177,1887 1235,1887 1293,1885 1340,1883 1340,1832 1293,1834 1235,1836 1177,1836 1119,1836 1061,1836 1003,1837 945,1838 887,1838 829,1839 771,1837 712,1839 654,1838 596,1840 538,1840 480,1842 422,1842 364,1842 306,1844 248,1845 190,1852"/>
+                <Baseline points="190,1886 248,1879 306,1878 364,1876 422,1876 480,1876 538,1874 596,1874 654,1872 712,1873 771,1871 829,1873 887,1872 945,1872 1003,1871 1061,1870 1119,1870 1177,1870 1235,1870 1330,1868"/>
+                <TextEquiv>
+                    <Unicode>del cuore ad avere la sua parte di felicità. Dal giudizio, dal confronto, da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:28;}">
+                <Coords points="1342,1884 1409,1881 1435,1882 1461,1883 1487,1883 1513,1883 1539,1883 1565,1881 1591,1881 1617,1881 1644,1881 1644,1829 1617,1829 1591,1829 1565,1829 1539,1831 1513,1831 1487,1831 1461,1831 1435,1830 1409,1829 1342,1832"/>
+                <Baseline points="1350,1865 1409,1864 1435,1865 1461,1866 1487,1866 1513,1866 1539,1866 1565,1864 1591,1864 1617,1864 1644,1864"/>
+                <TextEquiv>
+                    <Unicode>questa interna lotta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:29;}">
+                <Coords points="190,1973 261,1971 333,1971 404,1968 476,1967 547,1967 619,1967 690,1967 762,1965 833,1965 905,1965 976,1965 1048,1965 1119,1964 1191,1961 1262,1963 1334,1961 1405,1963 1477,1961 1548,1962 1620,1963 1620,1912 1548,1911 1477,1910 1405,1912 1334,1910 1262,1912 1191,1910 1119,1913 1048,1914 976,1914 905,1914 833,1914 762,1914 690,1916 619,1916 547,1916 476,1916 404,1917 333,1920 261,1920 190,1922"/>
+                <Baseline points="190,1956 261,1954 333,1954 404,1951 476,1950 547,1950 619,1950 690,1950 762,1948 833,1948 905,1948 976,1948 1048,1948 1119,1947 1191,1944 1262,1946 1334,1944 1405,1946 1477,1944 1548,1945 1620,1946"/>
+                <TextEquiv>
+                    <Unicode>condotta in privato, l'abitudine ad un viso spianato, l'acquisto (doloroso, forse) di una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718126578696_134" custom="readingOrder {index:30;}">
+                <Coords points="204,2001 283,1995 363,1996 442,1993 522,1991 602,1991 681,1989 761,1990 840,1991 920,1987 1000,1988 1079,1987 1159,1987 1238,1988 1318,1987 1398,1986 1477,1987 1557,1987 1636,1990 1655,1989 1655,2041 1636,2042 1557,2039 1477,2039 1398,2038 1318,2039 1238,2040 1159,2039 1079,2039 1000,2040 920,2039 840,2043 761,2042 681,2041 602,2043 522,2043 442,2045 363,2048 283,2047 204,2053"/>
+                <Baseline points="204,2036 283,2030 363,2031 442,2028 522,2026 602,2026 681,2024 761,2025 840,2026 920,2022 1000,2023 1079,2022 1159,2022 1238,2023 1318,2022 1398,2021 1477,2022 1557,2022 1636,2025 1655,2024"/>
+                <TextEquiv>
+                    <Unicode>pacatezza, di una serenità, che tingono di chiaro, di azzurro gli occhi di un essere umano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>infinita dolcezza ed equità umana, alle vicende, all'implacata rissa degli uomini&#13;
+nel mondo. L'uomo, si può pensare, ha scelto di parlare agli altri, col mezzo della poe-&#13;
+sia: la più quieta, affidabile, domestica, fraterna delle poesie in versi, convinto o fiducioso&#13;
+che fosse il mezzo e lo strumento, più umano. Quello più inerme, in un tempo di&#13;
+rosse passioni, di parole insensibili. La poesia di Diego Valeri ha visto accadere le due&#13;
+guerre del secolo, e lo spazio in mezzo alle due, e quello, più desolante ancora, che si prolun-&#13;
+ga dopo la seconda; e ci avvilisce tutti. Solo questo uomo è sereno, che, con gesto di-&#13;
+screto, e aiutando le parole con un'attenzione di ordine musicale, può, ogni tanto,&#13;
+prendere la penna e comporre i suoi fragili componimenti in versi. Piccole composi-&#13;
+zioni, costruzioni dove, la luce, l'aria e il respiro di chi le&#13;
+elabora&#13;
+lavora , sono la parte maggio-&#13;
+re, o sono il vento e l'ombra sonora di un disegno, di un'armatura che è fatta, di volta in&#13;
+volta, di un pensiero impreciso, di un'impressione, di&#13;
+un&#13;
+nulla che è trapassato, fulmineo, dai&#13;
+suoi occhi al cuore, alla mente. Poiché il movimento iniziale, la prima operazione, in&#13;
+codesta poesia, è quella di chi, alzando, girando gli occhi, vede e sente. Così di tanto   &#13;
+in&#13;
+tanto, per non lasciare che proprio ogni cosa si perda e si confonda,&#13;
+laggiù&#13;
+dalle parti dell'orizzonte,&#13;
+egli tenta il gioco sereno delle parole. Sereno è il "giuoco" poetico di Valeri, per una&#13;
+piega&#13;
+non&#13;
+del temperamento, ma per un giudizio antico in lui, per un pensiero a confron-&#13;
+to continuo fra gli aspetti immutabili della realtà di ogni minuto e l'aspirazione&#13;
+del cuore ad avere la sua parte di felicità. Dal giudizio, dal confronto, da&#13;
+questa interna lotta&#13;
+condotta in privato, l'abitudine ad un viso spianato, l'acquisto (doloroso, forse) di una&#13;
+pacatezza, di una serenità, che tingono di chiaro, di azzurro gli occhi di un essere umano.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

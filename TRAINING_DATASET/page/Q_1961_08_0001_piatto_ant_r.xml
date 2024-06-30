@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:22:28.955+01:00</Created>
+        <LastChange>2024-06-20T11:56:39.388+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326020" pageNr="60" tsid="175603527" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=ISLNAPRZBRULPTRNCWMLFBGR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KVCNWPBJUXZQUAQJQWNRRQGB" imageId="53903849"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_08_0001_piatto_ant_r.jpg" imageWidth="1798" imageHeight="2471" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746068922" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="581,689 581,945 1107,945 1107,689"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="585,721 610,719 636,719 662,719 687,719 713,719 739,719 764,719 790,721 816,720 841,720 867,721 893,721 918,721 944,721 970,721 995,720 1021,719 1047,721 1073,723 1073,693 1047,691 1021,689 995,690 970,691 944,691 918,691 893,691 867,691 841,690 816,690 790,691 764,689 739,689 713,689 687,689 662,689 636,689 610,689 585,691"/>
+                <Baseline points="585,711 610,709 636,709 662,709 687,709 713,709 739,709 764,709 790,711 816,710 841,710 867,711 893,711 918,711 944,711 970,711 995,710 1021,709 1047,711 1073,713"/>
+                <TextEquiv>
+                    <Unicode>La pista degli automobilini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} date {offset:0; length:10;year:1961; day:13; month:4;}">
+                <Coords points="821,765 847,765 873,766 899,767 925,768 951,768 977,767 1003,769 1029,767 1029,737 1003,739 977,737 951,738 925,738 899,737 873,736 847,735 821,735"/>
+                <Baseline points="821,755 847,755 873,756 899,757 925,758 951,758 977,757 1003,759 1029,757"/>
+                <TextEquiv>
+                    <Unicode>13.4. 1961</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="581,799 606,802 631,804 656,806 681,808 706,809 731,809 756,809 781,810 806,812 831,812 856,811 881,811 906,813 931,813 956,814 981,817 981,787 956,784 931,783 906,783 881,781 856,781 831,782 806,782 781,780 756,779 731,779 706,779 681,778 656,776 631,774 606,772 581,769"/>
+                <Baseline points="581,789 606,792 631,794 656,796 681,798 706,799 731,799 756,799 781,800 806,802 831,802 856,801 881,801 906,803 931,803 956,804 981,807"/>
+                <TextEquiv>
+                    <Unicode>Un dialogo di Leopardi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;} date {offset:0; length:9;year:1961; day:25; month:4;}">
+                <Coords points="821,843 847,843 873,844 899,845 926,846 952,847 978,847 1005,849 1005,819 978,817 952,817 926,816 899,815 873,814 847,813 821,813"/>
+                <Baseline points="821,833 847,833 873,834 899,835 926,836 952,837 978,837 1005,839"/>
+                <TextEquiv>
+                    <Unicode>25.4.1961.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="587,891 613,889 639,889 665,889 691,889 717,889 743,889 769,887 795,887 821,889 847,889 873,889 899,891 925,894 951,897 977,897 1003,897 1029,900 1055,902 1081,905 1107,907 1107,877 1081,875 1055,872 1029,870 1003,867 977,867 951,867 925,864 899,861 873,859 847,859 821,859 795,857 769,857 743,859 717,859 691,859 665,859 639,859 613,859 587,861"/>
+                <Baseline points="587,881 613,879 639,879 665,879 691,879 717,879 743,879 769,877 795,877 821,879 847,879 873,879 899,881 925,884 951,887 977,887 1003,887 1029,890 1055,892 1081,895 1107,897"/>
+                <TextEquiv>
+                    <Unicode>Fantasia sullo scultore Brancusi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;} date {offset:0; length:10;year:1961; day:16; month:5;}">
+                <Coords points="825,943 853,945 881,945 909,943 937,944 965,944 993,943 1021,945 1021,915 993,913 965,914 937,914 909,913 881,915 853,915 825,913"/>
+                <Baseline points="825,933 853,935 881,935 909,933 937,934 965,934 993,933 1021,935"/>
+                <TextEquiv>
+                    <Unicode>16.5.1961.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La pista degli automobilini&#13;
+13.4. 1961&#13;
+Un dialogo di Leopardi&#13;
+25.4.1961.&#13;
+Fantasia sullo scultore Brancusi&#13;
+16.5.1961.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:22:26.664+01:00</Created>
+        <LastChange>2024-06-20T10:55:58.090+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325435" pageNr="11" tsid="175603474" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=FMPLZQTQMNFLUTPRULYZWSAV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RSHGNFFMMDFGFAJIZMQKEHFV" imageId="53899337"/>
+    </Metadata>
+    <Page imageFilename="Q_1958_06_0004_c1v.jpg" imageWidth="1798" imageHeight="2539" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746059171" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1714499434313_81"/>
+                <RegionRefIndexed index="1" regionRef="region_1714067603174_985"/>
+                <RegionRefIndexed index="2" regionRef="region_1714067683584_1000"/>
+                <RegionRefIndexed index="3" regionRef="region_1714067738034_1004"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="region_1714499434313_81" custom="readingOrder {index:0;}">
+            <Coords points="215,269 1686,269 1686,2123 215,2123"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1714067603174_985" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="1542,285 1651,285 1651,371 1542,371"/>
+            <TextLine id="line_1714067926529_1045" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:right;}">
+                <Coords points="1582,306 1643,306 1643,356 1582,356"/>
+                <Baseline points="1582,351 1643,351"/>
+                <TextEquiv>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1714067683584_1000" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="238,1156 1675,1055 1649,431 231,431"/>
+            <TextLine id="line_1714067969673_1052" custom="readingOrder {index:0;}">
+                <Coords points="236,509 323,503 457,497 587,497 732,492 856,492 986,489 1132,489 1284,489 1400,489 1569,485 1608,485 1608,535 1570,535 1401,539 1284,539 1132,539 987,539 857,542 733,542 588,547 458,547 326,553 239,559"/>
+                <Baseline points="239,554 326,548 461,538 584,535 728,528 859,531 987,532 1132,530 1284,528 1401,528 1570,528 1608,530"/>
+                <TextEquiv>
+                    <Unicode>figliola, osserva con occhio di sopportazione quel trambusto, quel chiasso domenicale.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714408566903_34" custom="readingOrder {index:1;}">
+                <Coords points="272,579 478,574 711,572 888,571 1079,565 1330,565 1476,565 1630,562 1631,612 1476,615 1330,615 1080,615 889,621 711,622 479,624 273,629"/>
+                <Baseline points="273,620 478,607 710,606 891,608 1090,606 1338,605 1477,600 1632,603"/>
+                <TextEquiv>
+                    <Unicode>Si aspetta l'arrivo dell'altra sorella. Questa, come di consueto, entra dal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714408587462_39" custom="readingOrder {index:2;}">
+                <Coords points="246,656 351,652 565,652 750,652 904,638 1115,638 1356,635 1525,627 1654,631 1653,681 1525,677 1357,685 1115,688 906,688 752,702 565,702 352,702 248,706"/>
+                <Baseline points="248,701 352,697 568,689 755,689 906,683 1115,683 1359,681 1527,673 1653,676"/>
+                <TextEquiv>
+                    <Unicode>giardino: spinge la carrozzella del suo bimbino. Il giardino, e la casa sono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714408647983_45" custom="readingOrder {index:3;}">
+                <Coords points="250,728 430,723 554,721 668,719 785,720 883,717 1118,715 1251,711 1342,711 1602,711 1648,706 1654,756 1604,761 1342,761 1252,761 1119,765 884,767 785,770 668,769 555,771 431,773 251,778"/>
+                <Baseline points="251,773 431,768 555,766 668,764 785,765 884,762 1119,757 1252,753 1348,753 1610,753 1653,751"/>
+                <TextEquiv>
+                    <Unicode>in una vecchia casa bolognese: fra antiche mura tinte di rosso. Il giardino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714408675991_51" custom="readingOrder {index:4;}">
+                <Coords points="237,807 431,803 620,797 797,793 1030,792 1254,792 1420,792 1647,788 1669,793 1658,842 1641,838 1420,842 1254,842 1030,842 798,843 621,847 432,853 238,857"/>
+                <Baseline points="238,852 432,848 621,842 798,838 1030,837 1257,832 1421,828 1640,829 1659,837"/>
+                <TextEquiv>
+                    <Unicode>è composto di un lembro di prato, di una pergola, che in questa stagione è nuda: solo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714408715823_57" custom="readingOrder {index:5;}">
+                <Coords points="235,884 369,878 565,876 778,876 863,871 1034,871 1222,864 1379,864 1518,858 1586,858 1661,870 1653,919 1583,908 1519,908 1380,914 1223,914 1035,921 864,921 779,926 565,926 370,928 237,934"/>
+                <Baseline points="237,929 370,923 568,915 782,915 864,916 1035,913 1222,904 1379,907 1519,903 1583,903 1654,914"/>
+                <TextEquiv>
+                    <Unicode>i fili di ferro e i viticci secchi della vita. Quattro aiuole, un ulivo, un fico, una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714408763822_63" custom="readingOrder {index:6;} del {offset:1; length:7;rend:overstrike;} gap {offset:1; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="243,958 464,949 672,943 909,948 1076,943 1249,940 1398,940 1528,934 1641,938 1639,988 1528,984 1399,990 1249,990 1077,993 909,998 672,993 466,999 245,1008"/>
+                <Baseline points="246,1001 466,994 672,988 912,987 1080,982 1249,985 1399,985 1528,979 1639,983"/>
+                <TextEquiv>
+                    <Unicode>         magnolia, un albero sferico, che fiorisce di minuscoli fiorellini bianchi, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714408791183_73" custom="readingOrder {index:7;} del {offset:13; length:7;rend:overstrike;}">
+                <Coords points="239,1035 570,1039 571,1089 240,1085"/>
+                <Baseline points="243,1076 568,1079"/>
+                <TextEquiv>
+                    <Unicode>un giorno di        </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714408816318_85" custom="readingOrder {index:8;} add {offset:0; length:6;place:above;}">
+                <Coords points="452,1005 578,1004 578,1035 452,1036"/>
+                <Baseline points="452,1029 578,1028"/>
+                <TextEquiv>
+                    <Unicode>maggio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714408881142_99" custom="readingOrder {index:9;}">
+                <Coords points="597,1023 721,1024 912,1024 1082,1023 1183,1016 1300,1016 1403,1011 1483,1011 1577,1009 1643,1011 1642,1061 1577,1059 1483,1061 1404,1061 1301,1066 1185,1066 1084,1073 912,1074 721,1074 597,1073"/>
+                <Baseline points="597,1068 721,1069 912,1069 1084,1064 1185,1057 1301,1061 1404,1054 1483,1054 1577,1054 1642,1056"/>
+                <TextEquiv>
+                    <Unicode>Un amico del padrone: un poeta, scoprì che si trattava di un vi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714408897518_104" custom="readingOrder {index:10;}">
+                <Coords points="246,1101 352,1101 354,1147 246,1151"/>
+                <Baseline points="247,1146 353,1146"/>
+                <TextEquiv>
+                    <Unicode>toforo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>figliola, osserva con occhio di sopportazione quel trambusto, quel chiasso domenicale.
+Si aspetta l'arrivo dell'altra sorella. Questa, come di consueto, entra dal
+giardino: spinge la carrozzella del suo bimbino. Il giardino, e la casa sono
+in una vecchia casa bolognese: fra antiche mura tinte di rosso. Il giardino
+è composto di un lembro di prato, di una pergola, che in questa stagione è nuda: solo,
+i fili di ferro e i viticci secchi della vita. Quattro aiuole, un ulivo, un fico, una
+         magnolia, un albero sferico, che fiorisce di minuscoli fiorellini bianchi, in
+un giorno di        
+maggio
+Un amico del padrone: un poeta, scoprì che si trattava di un vi-
+toforo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1714067738034_1004" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="235,1172 1666,1056 1656,2093 234,2093"/>
+            <TextLine id="line_1714067992496_1058" custom="readingOrder {index:0;}">
+                <Coords points="275,1192 440,1186 500,1181 656,1181 763,1175 957,1181 1014,1175 1132,1175 1248,1173 1395,1173 1518,1166 1534,1166 1534,1216 1519,1216 1396,1223 1248,1223 1132,1225 1016,1225 959,1231 764,1225 657,1231 502,1231 443,1236 277,1242"/>
+                <Baseline points="279,1232 445,1226 499,1222 654,1222 768,1216 963,1222 1016,1215 1132,1215 1244,1215 1393,1214 1520,1210 1534,1211"/>
+                <TextEquiv>
+                    <Unicode>Le due sorelle sposate sono dunque, coi loro bambini, in casa dei nonni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714408958397_119" custom="readingOrder {index:1;} add {offset:0; length:17;place:above;}">
+                <Coords points="1221,1109 1451,1099 1450,1138 1219,1151"/>
+                <Baseline points="1219,1143 1445,1134"/>
+                <TextEquiv>
+                    <Unicode>altre due sorelle,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714408991327_128" custom="readingOrder {index:2;} add {offset:0; length:7;place:above;}">
+                <Coords points="1415,1072 1547,1069 1546,1099 1412,1097"/>
+                <Baseline points="1412,1092 1546,1094"/>
+                <TextEquiv>
+                    <Unicode>ragazze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714409806927_140" custom="readingOrder {index:3;} add {offset:0; length:13;place:above;}">
+                <Coords points="1469,1105 1636,1101 1635,1136 1469,1134"/>
+                <Baseline points="1469,1129 1635,1131"/>
+                <TextEquiv>
+                    <Unicode>le incontrano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714409834280_148" custom="readingOrder {index:4;}">
+                <Coords points="1561,1165 1631,1165 1631,1215 1561,1215"/>
+                <Baseline points="1563,1208 1633,1208"/>
+                <TextEquiv>
+                    <Unicode>C'è</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714412500808_226" custom="readingOrder {index:5;} del {offset:72; length:6;rend:overstrike;}">
+                <Coords points="242,1262 398,1253 517,1255 560,1253 634,1250 680,1248 855,1253 1027,1245 1163,1248 1288,1249 1427,1247 1648,1239 1650,1289 1428,1297 1288,1299 1162,1298 1028,1295 855,1303 680,1298 636,1300 562,1303 518,1305 399,1303 245,1312"/>
+                <Baseline points="245,1307 399,1298 518,1300 562,1298 636,1295 680,1293 855,1298 1028,1286 1162,1289 1287,1290 1426,1284 1649,1280"/>
+                <TextEquiv>
+                    <Unicode>la nonna, che li aspettava, il nonno, che vorrebbe finire un suo lavoro con la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714412581209_247" custom="readingOrder {index:6;} del {offset:1; length:5;rend:overstrike;} gap {offset:1; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="247,1352 369,1348 469,1348 651,1333 651,1383 463,1384 368,1389 247,1390"/>
+                <Baseline points="247,1385 368,1384 462,1374 650,1373"/>
+                <TextEquiv>
+                    <Unicode>       , da quella parte. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714412533120_231" custom="readingOrder {index:7;} del {offset:0; length:20;rend:overstrike;} add {offset:0; length:20;place:above;}">
+                <Coords points="247,1317 551,1305 539,1339 242,1342"/>
+                <Baseline points="242,1337 539,1334"/>
+                <TextEquiv>
+                    <Unicode>C'è un altra sorella.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714412698265_258" custom="readingOrder {index:8;}">
+                <Coords points="688,1322 796,1325 878,1325 934,1319 998,1323 1133,1323 1181,1324 1273,1320 1354,1320 1434,1320 1474,1315 1569,1315 1649,1317 1648,1367 1568,1365 1477,1365 1437,1370 1354,1370 1274,1370 1181,1374 1133,1373 997,1373 935,1369 880,1375 795,1375 687,1372"/>
+                <Baseline points="687,1367 795,1366 880,1366 935,1364 998,1368 1134,1368 1181,1369 1274,1365 1354,1365 1437,1365 1477,1360 1568,1360 1648,1362"/>
+                <TextEquiv>
+                    <Unicode>Le due cagne bassotte: madre e figliola, sono un poco in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714412929601_263" custom="readingOrder {index:9;}">
+                <Coords points="239,1411 367,1411 539,1403 675,1403 822,1403 859,1403 1018,1403 1138,1403 1225,1403 1296,1392 1380,1399 1455,1394 1540,1391 1653,1391 1653,1441 1541,1441 1457,1444 1380,1449 1298,1442 1229,1453 1138,1453 1018,1453 859,1453 822,1453 675,1453 540,1453 368,1461 239,1461"/>
+                <Baseline points="239,1453 368,1453 540,1445 675,1445 822,1445 859,1445 1018,1445 1138,1445 1229,1445 1298,1434 1380,1441 1457,1436 1541,1433 1653,1433"/>
+                <TextEquiv>
+                    <Unicode>ogni stanza. La nonna, senza fretta, parla con le figliole, di cose della famiglia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714412942689_268" custom="readingOrder {index:10;}">
+                <Coords points="246,1496 402,1488 509,1488 608,1482 740,1477 887,1477 1000,1476 1147,1474 1234,1474 1319,1473 1415,1473 1522,1473 1623,1473 1638,1471 1644,1521 1626,1523 1522,1523 1415,1523 1319,1523 1234,1524 1147,1524 1001,1526 887,1527 741,1527 610,1532 510,1538 403,1538 248,1546"/>
+                <Baseline points="248,1541 403,1533 510,1527 610,1521 741,1522 886,1517 1000,1516 1147,1519 1236,1513 1321,1512 1415,1518 1522,1518 1626,1518 1643,1516"/>
+                <TextEquiv>
+                    <Unicode>di piccole cose sue, loro: le calzine, le mutande, le maglie, di quei picco-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714412969793_273" custom="readingOrder {index:11;}">
+                <Coords points="248,1562 348,1564 452,1561 557,1561 670,1559 789,1553 881,1553 970,1551 1083,1543 1257,1550 1345,1548 1442,1548 1484,1542 1571,1542 1655,1540 1656,1590 1572,1592 1487,1592 1445,1598 1346,1598 1257,1600 1084,1604 972,1612 881,1603 790,1603 672,1609 557,1611 453,1611 348,1614 247,1612"/>
+                <Baseline points="246,1604 340,1604 448,1600 559,1599 672,1601 790,1598 881,1598 971,1595 1086,1593 1259,1595 1346,1593 1445,1593 1487,1587 1572,1587 1656,1585"/>
+                <TextEquiv>
+                    <Unicode>li. Ma ecco il discorso della giornata: la piccola festa, quel poco di carneva-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714413147737_278" custom="readingOrder {index:12;}">
+                <Coords points="241,1636 318,1635 436,1635 598,1635 698,1630 825,1630 892,1630 1042,1630 1149,1630 1273,1622 1446,1614 1622,1625 1619,1675 1446,1664 1275,1672 1150,1680 1042,1680 892,1680 825,1680 699,1680 599,1685 436,1685 318,1685 242,1686"/>
+                <Baseline points="242,1681 318,1680 436,1680 599,1680 699,1675 861,1668 928,1668 1042,1675 1150,1675 1275,1667 1454,1654 1616,1673"/>
+                <TextEquiv>
+                    <Unicode>le in famiglia: quelle cosette di carta, quella patina di calore. "Almeno, per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714413220569_285" custom="readingOrder {index:13;}">
+                <Coords points="245,1711 360,1712 436,1711 541,1711 669,1707 766,1707 841,1704 966,1699 1136,1702 1187,1701 1239,1696 1438,1699 1545,1699 1638,1698 1638,1748 1545,1749 1438,1749 1241,1746 1190,1751 1136,1752 967,1749 843,1754 767,1757 670,1757 542,1761 436,1761 360,1762 245,1761"/>
+                <Baseline points="245,1756 360,1757 436,1756 542,1756 670,1752 767,1752 843,1749 967,1744 1136,1747 1190,1746 1241,1741 1438,1744 1545,1744 1638,1743"/>
+                <TextEquiv>
+                    <Unicode>farlo capire a loro", -dice la nonna. Ai nipotini: che ricordino della giornata.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714413243297_290" custom="readingOrder {index:14;} del {offset:9; length:14;rend:overstrike;}">
+                <Coords points="247,1790 401,1786 546,1786 681,1782 809,1783 907,1783 975,1775 1132,1775 1243,1775 1385,1775 1500,1775 1595,1773 1643,1773 1643,1823 1595,1823 1500,1825 1385,1825 1243,1825 1132,1825 978,1825 910,1833 809,1833 681,1832 547,1836 402,1836 248,1840"/>
+                <Baseline points="248,1836 402,1832 547,1831 684,1823 812,1822 910,1826 980,1819 1134,1819 1243,1820 1385,1820 1500,1817 1595,1815 1643,1818"/>
+                <TextEquiv>
+                    <Unicode>Difatti, tutte le donne mettono mano ai loro cartoni. Dentro ci sono gli abiti, le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714413249257_295" custom="readingOrder {index:15;}">
+                <Coords points="237,1866 412,1865 458,1860 582,1860 582,1910 460,1910 414,1915 237,1916"/>
+                <Baseline points="242,1903 414,1904 462,1904 584,1904"/>
+                <TextEquiv>
+                    <Unicode>stoffucce, i capellini.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714413306905_304" custom="readingOrder {index:16;}">
+                <Coords points="259,1940 345,1940 387,1937 490,1937 553,1937 611,1937 687,1937 756,1937 896,1937 998,1937 1032,1929 1171,1929 1295,1929 1372,1923 1458,1923 1575,1923 1640,1923 1640,1973 1575,1973 1458,1973 1374,1973 1297,1979 1171,1979 1038,1979 1004,1987 896,1987 756,1987 687,1987 611,1987 553,1987 490,1987 389,1987 347,1990 259,1990"/>
+                <Baseline points="260,1979 348,1979 389,1978 490,1978 554,1980 613,1978 688,1980 756,1978 896,1978 1003,1978 1038,1967 1175,1968 1300,1966 1374,1963 1458,1968 1575,1968 1640,1968"/>
+                <TextEquiv>
+                    <Unicode>La bambina, che ha sei anni, vestirà un abito di Arlecchino. Anche il nonno, dopo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714497865345_62" custom="readingOrder {index:17;} del {offset:0; length:5;rend:overstrike;}">
+                <Coords points="256,2037 335,2037 334,2070 257,2070"/>
+                <Baseline points="257,2065 334,2065"/>
+                <TextEquiv>
+                    <Unicode>aveva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714413330409_310" custom="readingOrder {index:18;} add {offset:0; length:5;place:avere;}">
+                <Coords points="249,1999 357,1999 348,2033 248,2032"/>
+                <Baseline points="248,2027 348,2028"/>
+                <TextEquiv>
+                    <Unicode>avere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714413417193_320" custom="readingOrder {index:19;}">
+                <Coords points="355,2014 471,2010 570,2013 648,2007 733,2007 883,2014 949,2013 1057,2007 1180,2007 1305,2009 1402,2006 1489,2006 1599,2006 1653,2004 1655,2054 1600,2056 1489,2056 1403,2056 1305,2059 1180,2057 1058,2057 951,2063 882,2064 732,2057 650,2057 571,2063 471,2060 355,2064"/>
+                <Baseline points="357,2054 471,2055 571,2058 650,2052 730,2050 882,2053 953,2054 1058,2052 1180,2052 1313,2046 1411,2043 1491,2046 1602,2046 1655,2049"/>
+                <TextEquiv>
+                    <Unicode>aspettato un poco, è venuto a dare un'occhiata Le toppe: le mandorle di velluto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Le due sorelle sposate sono dunque, coi loro bambini, in casa dei nonni.
+altre due sorelle,
+ragazze
+le incontrano.
+C'è
+la nonna, che li aspettava, il nonno, che vorrebbe finire un suo lavoro con la
+       , da quella parte. 
+C'è un altra sorella.
+Le due cagne bassotte: madre e figliola, sono un poco in
+ogni stanza. La nonna, senza fretta, parla con le figliole, di cose della famiglia,
+di piccole cose sue, loro: le calzine, le mutande, le maglie, di quei picco-
+li. Ma ecco il discorso della giornata: la piccola festa, quel poco di carneva-
+le in famiglia: quelle cosette di carta, quella patina di calore. "Almeno, per
+farlo capire a loro", -dice la nonna. Ai nipotini: che ricordino della giornata.
+Difatti, tutte le donne mettono mano ai loro cartoni. Dentro ci sono gli abiti, le
+stoffucce, i capellini.
+La bambina, che ha sei anni, vestirà un abito di Arlecchino. Anche il nonno, dopo
+aveva
+avere
+aspettato un poco, è venuto a dare un'occhiata Le toppe: le mandorle di velluto</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

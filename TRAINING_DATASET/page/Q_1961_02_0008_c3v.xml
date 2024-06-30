@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:07:50.060+01:00</Created>
+        <LastChange>2024-06-20T11:25:51.141+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326011" pageNr="42" tsid="175603518" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=QOVZUGUGSLIHYDXHXAIJAAGD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UKFTBMVIDAYMATKPFUJAGKHH" imageId="53903597"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_02_0008_c3v.jpg" imageWidth="1798" imageHeight="2479" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746065452" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718107042170_696"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718107042170_696" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1547,287 1547,339 1606,339 1606,287"/>
+            <TextLine id="line_1718107042325_699" custom="readingOrder {index:0;}">
+                <Coords points="1547,289 1604,287 1606,337 1549,339"/>
+                <Baseline points="1549,334 1606,332"/>
+                <TextEquiv>
+                    <Unicode>6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>6.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="193,470 193,2049 1643,2049 1643,470"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="207,535 277,531 348,532 418,535 489,530 560,529 630,527 701,522 771,521 842,519 913,519 983,517 1054,517 1124,517 1195,517 1266,517 1336,515 1407,515 1477,513 1548,513 1619,513 1619,470 1548,470 1477,470 1407,472 1336,472 1266,474 1195,474 1124,474 1054,474 983,474 913,476 842,476 771,478 701,479 630,484 560,486 489,487 418,492 348,489 277,488 207,492"/>
+                <Baseline points="207,521 277,517 348,518 418,521 489,516 560,515 630,513 701,508 771,507 842,505 913,505 983,503 1054,503 1124,503 1195,503 1266,503 1336,501 1407,501 1477,499 1548,499 1619,499"/>
+                <TextEquiv>
+                    <Unicode>di Bologna, "La Diana" di Napoli. Sarebbe augurabile che un editore raccogliesse, così come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="205,605 276,600 348,599 420,599 492,600 564,597 636,598 708,594 780,595 852,593 924,593 995,593 1067,593 1139,591 1211,588 1283,587 1355,587 1427,585 1499,589 1571,590 1643,591 1643,561 1571,560 1499,559 1427,555 1355,557 1283,557 1211,558 1139,561 1067,563 995,563 924,563 852,563 780,565 708,564 636,568 564,567 492,570 420,569 348,569 276,570 205,575"/>
+                <Baseline points="205,595 276,590 348,589 420,589 492,590 564,587 636,588 708,584 780,585 852,583 924,583 995,583 1067,583 1139,581 1211,578 1283,577 1355,577 1427,575 1499,579 1571,580 1643,581"/>
+                <TextEquiv>
+                    <Unicode>è stato fatto per gli scritti propriamente critici, questi componimenti di Carrà che, a parte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718107052887_712" custom="readingOrder {index:2;}">
+                <Coords points="198,634 341,629 343,679 200,684"/>
+                <Baseline points="200,679 343,674"/>
+                <TextEquiv>
+                    <Unicode>il valore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;} add {offset:0; length:7;place:above;}">
+                <Coords points="331,637 360,631 389,631 418,631 447,633 447,603 418,601 389,601 360,601 331,607"/>
+                <Baseline points="331,627 360,621 389,621 418,621 447,623"/>
+                <TextEquiv>
+                    <Unicode>poetico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718107058094_717" custom="readingOrder {index:4;}">
+                <Coords points="353,621 1600,621 1600,671 353,671"/>
+                <Baseline points="353,666 1600,666"/>
+                <TextEquiv>
+                    <Unicode>intrinseco, sono una flagrante testimonianza di un periodo di storia artistica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718107062700_722" custom="readingOrder {index:5;}">
+                <Coords points="201,706 762,699 763,749 202,756"/>
+                <Baseline points="202,751 763,744"/>
+                <TextEquiv>
+                    <Unicode>italiana. Se nel periodo cosidetto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:6;} add {offset:0; length:13;place:above;}">
+                <Coords points="673,705 699,703 726,703 753,703 780,702 807,701 834,701 861,701 888,702 915,707 915,677 888,672 861,671 834,671 807,671 780,672 753,673 726,673 699,673 673,675"/>
+                <Baseline points="673,695 699,693 726,693 753,693 780,692 807,691 834,691 861,691 888,692 915,697"/>
+                <TextEquiv>
+                    <Unicode>del movimento</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718107067495_727" custom="readingOrder {index:7;}">
+                <Coords points="781,694 1626,696 1626,746 781,744"/>
+                <Baseline points="781,739 1626,741"/>
+                <TextEquiv>
+                    <Unicode>futurista, che aveva le sue sedi fra Milano e Firenze,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:8;}">
+                <Coords points="201,833 272,830 344,825 415,825 487,824 558,823 630,823 701,824 773,823 844,823 916,825 987,825 1059,825 1130,823 1202,823 1273,821 1345,821 1416,824 1488,823 1559,825 1631,837 1631,794 1559,782 1488,780 1416,781 1345,778 1273,778 1202,780 1130,780 1059,782 987,782 916,782 844,780 773,780 701,781 630,780 558,780 487,781 415,782 344,782 272,787 201,790"/>
+                <Baseline points="201,819 272,816 344,811 415,811 487,810 558,809 630,809 701,810 773,809 844,809 916,811 987,811 1059,811 1130,809 1202,809 1273,807 1345,807 1416,810 1488,809 1559,811 1631,823"/>
+                <TextEquiv>
+                    <Unicode>il lavoro di pittura di Carrà aveva progredito a fianco di pittori, come Soffici, Palazzeschi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:9;}">
+                <Coords points="201,911 269,908 338,907 406,905 475,902 544,903 612,903 681,902 749,902 818,899 887,901 955,900 1024,899 1092,899 1161,898 1230,898 1298,895 1367,895 1435,893 1504,891 1573,891 1573,861 1504,861 1435,863 1367,865 1298,865 1230,868 1161,868 1092,869 1024,869 955,870 887,871 818,869 749,872 681,872 612,873 544,873 475,872 406,875 338,877 269,878 201,881"/>
+                <Baseline points="201,901 269,898 338,897 406,895 475,892 544,893 612,893 681,892 749,892 818,889 887,891 955,890 1024,889 1092,889 1161,888 1230,888 1298,885 1367,885 1435,883 1504,881 1573,881"/>
+                <TextEquiv>
+                    <Unicode>e Papini, i maggiori responsabili quindi dell'atteggiamento estetico del giornale del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718107077981_735" custom="readingOrder {index:10;}">
+                <Coords points="223,936 1479,924 1479,974 223,986"/>
+                <Baseline points="223,981 1479,969"/>
+                <TextEquiv>
+                    <Unicode>gruppo: cioè di "Lacerba", dopo il 1915, il fiancheggiamento leterario all'opera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:11;} add {offset:0; length:9;place:above;}">
+                <Coords points="1432,932 1481,929 1512,929 1543,941 1543,898 1512,886 1481,886 1432,889"/>
+                <Baseline points="1443,921 1481,915 1512,915 1543,927"/>
+                <TextEquiv>
+                    <Unicode>pittorica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718107080104_740" custom="readingOrder {index:12;}">
+                <Coords points="1487,922 1618,922 1618,972 1487,972"/>
+                <Baseline points="1487,967 1618,967"/>
+                <TextEquiv>
+                    <Unicode>di Carrà</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:13;}">
+                <Coords points="207,1065 276,1059 346,1056 415,1055 485,1055 554,1059 624,1059 693,1059 763,1059 832,1057 902,1055 971,1053 1041,1053 1110,1053 1180,1053 1249,1053 1319,1052 1388,1051 1458,1051 1527,1050 1597,1053 1597,1010 1527,1007 1458,1008 1388,1008 1319,1009 1249,1010 1180,1010 1110,1010 1041,1010 971,1010 902,1012 832,1014 763,1016 693,1016 624,1016 554,1016 485,1012 415,1012 346,1013 276,1016 207,1022"/>
+                <Baseline points="207,1051 276,1045 346,1042 415,1041 485,1041 554,1045 624,1045 693,1045 763,1045 832,1043 902,1041 971,1039 1041,1039 1110,1039 1180,1039 1249,1039 1319,1038 1388,1037 1458,1037 1527,1036 1597,1039"/>
+                <TextEquiv>
+                    <Unicode>ha i suoi autori in una compagine di scrittori seduti intorno alla rivista "La Voce", sia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:14;}">
+                <Coords points="207,1141 277,1137 348,1136 418,1135 489,1136 559,1135 630,1135 700,1135 771,1133 841,1133 912,1131 982,1133 1053,1131 1123,1130 1194,1131 1264,1129 1335,1126 1405,1125 1476,1123 1546,1122 1617,1129 1617,1086 1546,1079 1476,1080 1405,1082 1335,1083 1264,1086 1194,1088 1123,1087 1053,1088 982,1090 912,1088 841,1090 771,1090 700,1092 630,1092 559,1092 489,1093 418,1092 348,1093 277,1094 207,1098"/>
+                <Baseline points="207,1127 277,1123 348,1122 418,1121 489,1122 559,1121 630,1121 700,1121 771,1119 841,1119 912,1117 982,1119 1053,1117 1123,1116 1194,1117 1264,1115 1335,1112 1405,1111 1476,1109 1546,1108 1617,1115"/>
+                <TextEquiv>
+                    <Unicode>nel tempo della direzione di Giuseppe Prezzolini come in quello di De Robertis. Scrittori che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:15;}">
+                <Coords points="207,1211 276,1207 345,1207 414,1205 483,1207 552,1205 621,1205 690,1203 759,1203 828,1204 898,1201 967,1201 1036,1201 1105,1203 1174,1201 1243,1200 1312,1201 1381,1201 1450,1198 1519,1197 1589,1207 1589,1177 1519,1167 1450,1168 1381,1171 1312,1171 1243,1170 1174,1171 1105,1173 1036,1171 967,1171 898,1171 828,1174 759,1173 690,1173 621,1175 552,1175 483,1177 414,1175 345,1177 276,1177 207,1181"/>
+                <Baseline points="207,1201 276,1197 345,1197 414,1195 483,1197 552,1195 621,1195 690,1193 759,1193 828,1194 898,1191 967,1191 1036,1191 1105,1193 1174,1191 1243,1190 1312,1191 1381,1191 1450,1188 1519,1187 1589,1197"/>
+                <TextEquiv>
+                    <Unicode>si chiamavano: Vincenzo Cardarelli, Riccardo Bacchelli, Dino Campana, Carlo Limati,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718107090056_748" custom="readingOrder {index:16;}">
+                <Coords points="207,1238 550,1236 550,1286 207,1288"/>
+                <Baseline points="207,1283 550,1281"/>
+                <TextEquiv>
+                    <Unicode>Fernando Agnoletti,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:17;} add {offset:0; length:15;place:above;}">
+                <Coords points="441,1239 466,1236 492,1235 517,1233 543,1235 569,1235 594,1235 620,1235 645,1235 671,1235 697,1235 697,1205 671,1205 645,1205 620,1205 594,1205 569,1205 543,1205 517,1203 492,1205 466,1206 441,1209"/>
+                <Baseline points="441,1229 466,1226 492,1225 517,1223 543,1225 569,1225 594,1225 620,1225 645,1225 671,1225 697,1225"/>
+                <TextEquiv>
+                    <Unicode>Roberto Longhi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718107093592_753" custom="readingOrder {index:18;}">
+                <Coords points="564,1228 1619,1226 1619,1276 564,1278"/>
+                <Baseline points="564,1273 1619,1271"/>
+                <TextEquiv>
+                    <Unicode>Nell'anno seguente: il 1916, è l'incontro coi due fratelli Giorgio De</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:19;}">
+                <Coords points="209,1367 234,1365 259,1365 284,1365 309,1365 334,1365 359,1363 384,1363 409,1363 434,1363 459,1363 484,1363 509,1363 534,1363 559,1362 584,1362 609,1364 635,1367 635,1324 609,1321 584,1319 559,1319 534,1320 509,1320 484,1320 459,1320 434,1320 409,1320 384,1320 359,1320 334,1322 309,1322 284,1322 259,1322 234,1322 209,1324"/>
+                <Baseline points="209,1353 234,1351 259,1351 284,1351 309,1351 334,1351 359,1349 384,1349 409,1349 434,1349 459,1349 484,1349 509,1349 534,1349 559,1348 584,1348 609,1350 635,1353"/>
+                <TextEquiv>
+                    <Unicode>Chirico e Alberto Savinio_&lt;lb/&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:20;}">
+                <Coords points="205,1439 276,1437 347,1437 418,1437 489,1439 561,1438 632,1437 703,1435 774,1437 845,1435 917,1434 988,1433 1059,1431 1130,1432 1201,1431 1273,1431 1344,1431 1415,1431 1486,1431 1557,1431 1629,1435 1629,1392 1557,1388 1486,1388 1415,1388 1344,1388 1273,1388 1201,1388 1130,1389 1059,1388 988,1390 917,1391 845,1392 774,1394 703,1392 632,1394 561,1395 489,1396 418,1394 347,1394 276,1394 205,1396"/>
+                <Baseline points="205,1425 276,1423 347,1423 418,1423 489,1425 561,1424 632,1423 703,1421 774,1423 845,1421 917,1420 988,1419 1059,1417 1130,1418 1201,1417 1273,1417 1344,1417 1415,1417 1486,1417 1557,1417 1629,1421"/>
+                <TextEquiv>
+                    <Unicode>L'esercizio dell'arte pittorica ha sempre abbisognato, in Carrà, di tali contatti, e di chiarimenti,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:21;}">
+                <Coords points="201,1515 270,1515 339,1516 408,1515 477,1515 547,1513 616,1513 685,1513 754,1511 823,1510 893,1509 962,1509 1031,1510 1100,1511 1169,1511 1239,1510 1308,1509 1377,1505 1446,1503 1515,1501 1585,1499 1585,1456 1515,1458 1446,1460 1377,1462 1308,1466 1239,1467 1169,1468 1100,1468 1031,1467 962,1466 893,1466 823,1467 754,1468 685,1470 616,1470 547,1470 477,1472 408,1472 339,1473 270,1472 201,1472"/>
+                <Baseline points="201,1501 270,1501 339,1502 408,1501 477,1501 547,1499 616,1499 685,1499 754,1497 823,1496 893,1495 962,1495 1031,1496 1100,1497 1169,1497 1239,1496 1308,1495 1377,1491 1446,1489 1515,1487 1585,1485"/>
+                <TextEquiv>
+                    <Unicode>che ne derivavano, recati con ordine a illuminare il proprio lavoro. Si diceva del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:22;} del {offset:0; length:8;rend:overstrike;} gap {offset:0; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="205,1597 300,1594 370,1593 440,1590 510,1589 580,1583 650,1586 720,1586 790,1583 860,1582 930,1581 999,1581 1069,1582 1139,1582 1209,1581 1279,1581 1349,1580 1419,1579 1489,1579 1559,1580 1629,1589 1629,1546 1559,1537 1489,1536 1419,1536 1349,1537 1279,1538 1209,1538 1139,1539 1069,1539 999,1538 930,1538 860,1539 790,1540 720,1543 650,1543 580,1540 510,1546 440,1547 370,1550 300,1551 205,1554"/>
+                <Baseline points="216,1584 300,1580 370,1579 440,1576 510,1575 580,1569 650,1572 720,1572 790,1569 860,1568 930,1567 999,1567 1069,1568 1139,1568 1209,1567 1279,1567 1349,1566 1419,1565 1489,1565 1559,1566 1629,1575"/>
+                <TextEquiv>
+                    <Unicode>         dipinto intitolato: Il gentiluomo ubriaco. Carrà ne tentò una "analisi e sintesi",</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:23;}">
+                <Coords points="201,1673 272,1672 344,1669 415,1666 487,1663 559,1661 630,1660 702,1657 773,1655 845,1656 917,1655 988,1655 1060,1655 1131,1657 1203,1655 1275,1655 1346,1655 1418,1657 1489,1657 1561,1658 1633,1667 1633,1624 1561,1615 1489,1614 1418,1614 1346,1612 1275,1612 1203,1612 1131,1614 1060,1612 988,1612 917,1612 845,1613 773,1612 702,1614 630,1617 559,1618 487,1620 415,1623 344,1626 272,1629 201,1630"/>
+                <Baseline points="201,1659 272,1658 344,1655 415,1652 487,1649 559,1647 630,1646 702,1643 773,1641 845,1642 917,1641 988,1641 1060,1641 1131,1643 1203,1641 1275,1641 1346,1641 1418,1643 1489,1643 1561,1644 1633,1653"/>
+                <TextEquiv>
+                    <Unicode>espressa in termini, direi, di smontaggio e di ricostruzione lirica, in un ritrovamento quindi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:24;}">
+                <Coords points="205,1745 274,1743 344,1743 413,1741 483,1739 553,1741 622,1739 692,1737 761,1735 831,1735 901,1735 970,1735 1040,1731 1109,1732 1179,1729 1249,1729 1318,1729 1388,1729 1457,1728 1527,1729 1597,1729 1597,1686 1527,1686 1457,1685 1388,1686 1318,1686 1249,1686 1179,1686 1109,1689 1040,1688 970,1692 901,1692 831,1692 761,1692 692,1694 622,1696 553,1698 483,1696 413,1698 344,1700 274,1700 205,1702"/>
+                <Baseline points="205,1731 274,1729 344,1729 413,1727 483,1725 553,1727 622,1725 692,1723 761,1721 831,1721 901,1721 970,1721 1040,1717 1109,1718 1179,1715 1249,1715 1318,1715 1388,1715 1457,1714 1527,1715 1597,1715"/>
+                <TextEquiv>
+                    <Unicode>delle ragioni prima, di moventi sentimentali situati all'inizio del concepimento di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:25;}">
+                <Coords points="207,1821 276,1819 346,1817 416,1815 486,1815 556,1813 626,1814 696,1814 766,1815 836,1812 906,1812 975,1809 1045,1810 1115,1808 1185,1807 1255,1807 1325,1806 1395,1805 1465,1804 1535,1803 1605,1805 1605,1762 1535,1760 1465,1761 1395,1762 1325,1763 1255,1764 1185,1764 1115,1765 1045,1767 975,1766 906,1769 836,1769 766,1772 696,1771 626,1771 556,1770 486,1772 416,1772 346,1774 276,1776 207,1778"/>
+                <Baseline points="207,1807 276,1805 346,1803 416,1801 486,1801 556,1799 626,1800 696,1800 766,1801 836,1798 906,1798 975,1795 1045,1796 1115,1794 1185,1793 1255,1793 1325,1792 1395,1791 1465,1790 1535,1789 1605,1791"/>
+                <TextEquiv>
+                    <Unicode>una tale opera. In queste pagine, di schietta tempera poetica, Carrà si pone al livello dei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:26;}">
+                <Coords points="215,1907 276,1897 337,1896 398,1894 459,1893 520,1891 581,1889 642,1889 703,1888 764,1888 825,1887 886,1887 947,1885 1008,1885 1069,1883 1130,1883 1191,1883 1252,1883 1313,1883 1374,1879 1435,1883 1435,1840 1374,1836 1313,1840 1252,1840 1191,1840 1130,1840 1069,1840 1008,1842 947,1842 886,1844 825,1844 764,1845 703,1845 642,1846 581,1846 520,1848 459,1850 398,1851 337,1853 276,1854 215,1864"/>
+                <Baseline points="215,1893 276,1883 337,1882 398,1880 459,1879 520,1877 581,1875 642,1875 703,1874 764,1874 825,1873 886,1873 947,1871 1008,1871 1069,1869 1130,1869 1191,1869 1252,1869 1313,1869 1374,1865 1435,1869"/>
+                <TextEquiv>
+                    <Unicode>poeti in prosa del particolare momento storico. Dice la prosa di Carrà:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:27;}">
+                <Coords points="259,1973 326,1970 393,1967 460,1967 528,1967 595,1966 662,1965 730,1965 797,1963 864,1964 932,1965 999,1963 1066,1969 1133,1962 1201,1963 1268,1959 1335,1957 1403,1956 1470,1955 1537,1954 1605,1953 1605,1910 1537,1911 1470,1912 1403,1913 1335,1914 1268,1916 1201,1920 1133,1919 1066,1926 999,1920 932,1922 864,1921 797,1920 730,1922 662,1922 595,1923 528,1924 460,1924 393,1924 326,1927 259,1930"/>
+                <Baseline points="259,1959 326,1956 393,1953 460,1953 528,1953 595,1952 662,1951 730,1951 797,1949 864,1950 932,1951 999,1949 1066,1955 1133,1948 1201,1949 1268,1945 1335,1943 1403,1942 1470,1941 1537,1940 1605,1939"/>
+                <TextEquiv>
+                    <Unicode>"Il soggetto scomposto nei motivi essenziali viene lanciato in libertà nella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:28;} hi {offset:0; length:21;rend:underline;} gap {offset:11; length:0;quantity:10; unit:character; reason:illegible;}">
+                <Coords points="224,2047 249,2044 274,2043 300,2043 325,2043 351,2043 376,2043 402,2043 427,2043 452,2043 478,2044 503,2045 529,2045 554,2045 580,2047 605,2047 631,2049 631,2006 605,2004 580,2004 554,2002 529,2002 503,2002 478,2001 452,2000 427,2000 402,2000 376,2000 351,2000 325,2000 300,2000 274,2000 249,2001 224,2004"/>
+                <Baseline points="224,2033 249,2030 274,2029 300,2029 325,2029 351,2029 376,2029 402,2029 427,2029 452,2029 478,2030 503,2031 529,2031 554,2031 580,2033 605,2033 631,2035"/>
+                <TextEquiv>
+                    <Unicode>spazialità           .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>di Bologna, "La Diana" di Napoli. Sarebbe augurabile che un editore raccogliesse, così come&#13;
+è stato fatto per gli scritti propriamente critici, questi componimenti di Carrà che, a parte&#13;
+il valore&#13;
+poetico&#13;
+intrinseco, sono una flagrante testimonianza di un periodo di storia artistica&#13;
+italiana. Se nel periodo cosidetto&#13;
+del movimento&#13;
+futurista, che aveva le sue sedi fra Milano e Firenze,&#13;
+il lavoro di pittura di Carrà aveva progredito a fianco di pittori, come Soffici, Palazzeschi&#13;
+e Papini, i maggiori responsabili quindi dell'atteggiamento estetico del giornale del&#13;
+gruppo: cioè di "Lacerba", dopo il 1915, il fiancheggiamento leterario all'opera&#13;
+pittorica&#13;
+di Carrà&#13;
+ha i suoi autori in una compagine di scrittori seduti intorno alla rivista "La Voce", sia&#13;
+nel tempo della direzione di Giuseppe Prezzolini come in quello di De Robertis. Scrittori che&#13;
+si chiamavano: Vincenzo Cardarelli, Riccardo Bacchelli, Dino Campana, Carlo Limati,&#13;
+Fernando Agnoletti,&#13;
+Roberto Longhi.&#13;
+Nell'anno seguente: il 1916, è l'incontro coi due fratelli Giorgio De&#13;
+Chirico e Alberto Savinio_&lt;lb/&gt;&#13;
+L'esercizio dell'arte pittorica ha sempre abbisognato, in Carrà, di tali contatti, e di chiarimenti,&#13;
+che ne derivavano, recati con ordine a illuminare il proprio lavoro. Si diceva del&#13;
+         dipinto intitolato: Il gentiluomo ubriaco. Carrà ne tentò una "analisi e sintesi",&#13;
+espressa in termini, direi, di smontaggio e di ricostruzione lirica, in un ritrovamento quindi&#13;
+delle ragioni prima, di moventi sentimentali situati all'inizio del concepimento di&#13;
+una tale opera. In queste pagine, di schietta tempera poetica, Carrà si pone al livello dei&#13;
+poeti in prosa del particolare momento storico. Dice la prosa di Carrà:&#13;
+"Il soggetto scomposto nei motivi essenziali viene lanciato in libertà nella&#13;
+spazialità           .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

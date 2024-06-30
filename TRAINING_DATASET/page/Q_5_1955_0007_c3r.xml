@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:23:13.859+02:00</Created>
+        <LastChange>2024-06-21T10:10:08.188+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326053" pageNr="105" tsid="175603580" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=MIJZAUOYQGKLXNEMFXNKCJHU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=URWSLVGMWBQCPNAKFLDZDRJH" imageId="54314817"/>
+    </Metadata>
+    <Page imageFilename="Q_5_1955_0007_c3r.jpg" imageWidth="1798" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746077971" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="150,480 150,2052 1586,2052 1586,480"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:23;rend:underline;}">
+                <Coords points="186,535 211,533 236,532 261,530 286,529 311,529 336,527 361,527 386,527 411,526 436,525 461,527 486,527 511,527 536,526 561,526 586,527 612,529 612,484 586,482 561,481 536,481 511,482 486,482 461,482 436,480 411,481 386,482 361,482 336,482 311,484 286,484 261,485 236,487 211,488 186,490"/>
+                <Baseline points="186,520 211,518 236,517 261,515 286,514 311,514 336,512 361,512 386,512 411,511 436,510 461,512 486,512 511,512 536,511 561,511 586,512 612,514"/>
+                <TextEquiv>
+                    <Unicode>Con Maccari, a Bologna.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="184,597 251,599 319,601 387,603 455,603 523,603 590,603 658,605 726,605 794,607 862,607 929,607 997,607 1065,607 1133,606 1201,609 1268,607 1336,607 1404,607 1472,609 1540,609 1540,563 1472,563 1404,561 1336,561 1268,561 1201,563 1133,560 1065,561 997,561 929,561 862,561 794,561 726,559 658,559 590,557 523,557 455,557 387,557 319,555 251,553 184,551"/>
+                <Baseline points="184,582 251,584 319,586 387,588 455,588 523,588 590,588 658,590 726,590 794,592 862,592 929,592 997,592 1065,592 1133,591 1201,594 1268,592 1336,592 1404,592 1472,594 1540,594"/>
+                <TextEquiv>
+                    <Unicode>Il suo lavoro si svolge continuo, senza interruzioni, da più di trent'anni, fermato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="172,690 240,688 308,687 376,686 444,687 513,685 581,686 649,686 717,683 785,681 854,682 922,683 990,684 1058,684 1126,683 1195,682 1263,682 1331,684 1399,685 1467,683 1536,678 1536,630 1467,635 1399,637 1331,636 1263,634 1195,634 1126,635 1058,636 990,636 922,635 854,634 785,633 717,635 649,638 581,638 513,637 444,639 376,638 308,639 240,640 172,642"/>
+                <Baseline points="172,674 240,672 308,671 376,670 444,671 513,669 581,670 649,670 717,667 785,665 854,666 922,667 990,668 1058,668 1126,667 1195,666 1263,666 1331,668 1399,669 1467,667 1536,662"/>
+                <TextEquiv>
+                    <Unicode>giorno per giorno, quasi ora per ora, nella carta, sui taccuini, dove capita, come il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="182,758 250,758 319,759 387,760 456,761 525,758 593,755 662,756 730,754 799,755 868,756 936,757 1005,758 1073,760 1142,760 1211,760 1279,760 1348,760 1416,760 1485,760 1554,758 1554,710 1485,712 1416,712 1348,712 1279,712 1211,712 1142,712 1073,712 1005,710 936,709 868,708 799,707 730,706 662,708 593,707 525,710 456,713 387,712 319,711 250,710 182,710"/>
+                <Baseline points="182,742 250,742 319,743 387,744 456,745 525,742 593,739 662,740 730,738 799,739 868,740 936,741 1005,742 1073,744 1142,744 1211,744 1279,744 1348,744 1416,744 1485,744 1554,742"/>
+                <TextEquiv>
+                    <Unicode>il diario grafico, in figure di uno scrittore-pittore.Fermato, appuntato, rapidamente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="164,834 234,833 305,835 375,834 446,834 516,833 587,834 657,833 728,836 798,834 869,832 939,832 1010,830 1080,832 1151,834 1221,832 1292,834 1362,834 1433,837 1503,837 1574,838 1574,790 1503,789 1433,789 1362,786 1292,786 1221,784 1151,786 1080,784 1010,782 939,784 869,784 798,786 728,788 657,785 587,786 516,785 446,786 375,786 305,787 234,785 164,786"/>
+                <Baseline points="164,818 234,817 305,819 375,818 446,818 516,817 587,818 657,817 728,820 798,818 869,816 939,816 1010,814 1080,816 1151,818 1221,816 1292,818 1362,818 1433,821 1503,821 1574,822"/>
+                <TextEquiv>
+                    <Unicode>nell'oppresione, ma in seguito a riflessione: di quelle riflessioni che continuano, e ritornano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="172,908 242,908 313,908 383,910 454,908 525,912 595,908 666,909 736,908 807,910 878,911 948,908 1019,908 1089,906 1160,908 1231,908 1301,909 1372,910 1442,908 1513,911 1584,916 1584,868 1513,863 1442,860 1372,862 1301,861 1231,860 1160,860 1089,858 1019,860 948,860 878,863 807,862 736,860 666,861 595,860 525,864 454,860 383,862 313,860 242,860 172,860"/>
+                <Baseline points="172,892 242,892 313,892 383,894 454,892 525,896 595,892 666,893 736,892 807,894 878,895 948,892 1019,892 1089,890 1160,892 1231,892 1301,893 1372,894 1442,892 1513,895 1584,900"/>
+                <TextEquiv>
+                    <Unicode>col ritmo dell'ossessione. Diario in figure, come avrebbe potuto tenere un Jules Renard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="164,980 233,980 302,979 371,976 441,976 510,975 579,974 649,972 718,974 787,976 857,978 926,980 995,980 1064,980 1134,978 1203,980 1272,978 1342,976 1411,978 1480,977 1550,976 1550,946 1480,947 1411,948 1342,946 1272,948 1203,950 1134,948 1064,950 995,950 926,950 857,948 787,946 718,944 649,942 579,944 510,945 441,946 371,946 302,949 233,950 164,950"/>
+                <Baseline points="164,970 233,970 302,969 371,966 441,966 510,965 579,964 649,962 718,964 787,966 857,968 926,970 995,970 1064,970 1134,968 1203,970 1272,968 1342,966 1411,968 1480,967 1550,966"/>
+                <TextEquiv>
+                    <Unicode>che tenesse in mano la matita. Una medesima intima osservazione. O come quello che teneva,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715445870850_492" custom="readingOrder {index:7;}">
+                <Coords points="169,1012 527,1009 527,1059 169,1062"/>
+                <Baseline points="169,1057 527,1054"/>
+                <TextEquiv>
+                    <Unicode>incidendo col temperino </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="456,1016 483,1014 511,1014 538,1014 566,1014 593,1014 621,1014 648,1014 676,1014 704,1014 704,984 676,984 648,984 621,984 593,984 566,984 538,984 511,984 483,984 456,986"/>
+                <Baseline points="456,1006 483,1004 511,1004 538,1004 566,1004 593,1004 621,1004 648,1004 676,1004 704,1004"/>
+                <TextEquiv>
+                    <Unicode>sulle spallette</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715445878516_497" custom="readingOrder {index:9;} del {offset:0; length:12;rend:overstrike;}">
+                <Coords points="544,1003 1560,1006 1560,1056 544,1053"/>
+                <Baseline points="544,1048 1560,1051"/>
+                <TextEquiv>
+                    <Unicode>sui pilastri del Ponte Nuovo il parigino Retif: e sono le traccie penose</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:10;} hi {offset:33; length:16;rend:underline;}">
+                <Coords points="166,1136 236,1136 307,1135 378,1134 449,1134 520,1134 591,1132 662,1135 733,1136 804,1136 875,1137 945,1134 1016,1136 1087,1137 1158,1136 1229,1138 1300,1138 1371,1138 1442,1140 1513,1140 1584,1142 1584,1094 1513,1092 1442,1092 1371,1090 1300,1090 1229,1090 1158,1088 1087,1089 1016,1088 945,1086 875,1089 804,1088 733,1088 662,1087 591,1084 520,1086 449,1086 378,1086 307,1087 236,1088 166,1088"/>
+                <Baseline points="166,1120 236,1120 307,1119 378,1118 449,1118 520,1118 591,1116 662,1119 733,1120 804,1120 875,1121 945,1118 1016,1120 1087,1121 1158,1120 1229,1122 1300,1122 1371,1122 1442,1124 1513,1124 1584,1126"/>
+                <TextEquiv>
+                    <Unicode>della sua intensa autobiografia. Mes inscriptions: le chiamava l'autore del “Pornographe”.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:11;} gap {offset:90; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="154,1212 225,1212 297,1210 368,1210 440,1211 512,1212 583,1211 655,1213 726,1214 798,1214 870,1214 941,1216 1013,1215 1084,1214 1156,1213 1228,1212 1299,1212 1371,1212 1442,1212 1514,1211 1586,1214 1586,1166 1514,1163 1442,1164 1371,1164 1299,1164 1228,1164 1156,1165 1084,1166 1013,1167 941,1168 870,1166 798,1166 726,1166 655,1165 583,1163 512,1164 440,1163 368,1162 297,1162 225,1164 154,1164"/>
+                <Baseline points="154,1196 225,1196 297,1194 368,1194 440,1195 512,1196 583,1195 655,1197 726,1198 798,1198 870,1198 941,1200 1013,1199 1084,1198 1156,1197 1228,1196 1299,1196 1371,1196 1442,1196 1514,1195 1586,1198"/>
+                <TextEquiv>
+                    <Unicode>Pare di vederlo: al tramonto, con l'ultima luce nel cielo sbiadito, piegato a scalfire il       </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="164,1292 234,1288 305,1288 376,1288 447,1288 518,1286 589,1288 660,1289 731,1290 802,1288 873,1289 943,1290 1014,1288 1085,1288 1156,1288 1227,1288 1298,1288 1369,1288 1440,1290 1511,1292 1582,1294 1582,1246 1511,1244 1440,1242 1369,1240 1298,1240 1227,1240 1156,1240 1085,1240 1014,1240 943,1242 873,1241 802,1240 731,1242 660,1241 589,1240 518,1238 447,1240 376,1240 305,1240 234,1240 164,1244"/>
+                <Baseline points="164,1276 234,1272 305,1272 376,1272 447,1272 518,1270 589,1272 660,1273 731,1274 802,1272 873,1273 943,1274 1014,1272 1085,1272 1156,1272 1227,1272 1298,1272 1369,1272 1440,1274 1511,1276 1582,1278"/>
+                <TextEquiv>
+                    <Unicode>per scrivere, tra un ricordo, un nome di donna; una delle tante. Così Maccari è venuto colle-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:13;}">
+                <Coords points="162,1370 232,1368 303,1367 374,1364 444,1362 515,1362 586,1362 656,1362 727,1364 798,1366 869,1364 939,1364 1010,1364 1081,1364 1151,1364 1222,1362 1293,1363 1363,1366 1434,1366 1505,1368 1576,1370 1576,1322 1505,1320 1434,1318 1363,1318 1293,1315 1222,1314 1151,1316 1081,1316 1010,1316 939,1316 869,1316 798,1318 727,1316 656,1314 586,1314 515,1314 444,1314 374,1316 303,1319 232,1320 162,1322"/>
+                <Baseline points="162,1354 232,1352 303,1351 374,1348 444,1346 515,1346 586,1346 656,1346 727,1348 798,1350 869,1348 939,1348 1010,1348 1081,1348 1151,1348 1222,1346 1293,1347 1363,1350 1434,1350 1505,1352 1576,1354"/>
+                <TextEquiv>
+                    <Unicode>zionando, classificando le categorie dei suoi motivi consueti: donne, donnone e fanciulli;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:14;}">
+                <Coords points="166,1440 234,1440 303,1440 372,1438 441,1438 510,1439 578,1439 647,1440 716,1440 785,1441 854,1442 922,1440 991,1441 1060,1440 1129,1440 1198,1440 1266,1440 1335,1442 1404,1441 1473,1442 1542,1440 1542,1392 1473,1394 1404,1393 1335,1394 1266,1392 1198,1392 1129,1392 1060,1392 991,1393 922,1392 854,1394 785,1393 716,1392 647,1392 578,1391 510,1391 441,1390 372,1390 303,1392 234,1392 166,1392"/>
+                <Baseline points="166,1424 234,1424 303,1424 372,1422 441,1422 510,1423 578,1423 647,1424 716,1424 785,1425 854,1426 922,1424 991,1425 1060,1424 1129,1424 1198,1424 1266,1424 1335,1426 1404,1425 1473,1426 1542,1424"/>
+                <TextEquiv>
+                    <Unicode>donne svestite e in abito da sera, in cappellino da passeggio; uomini: attempati e giovanotti,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:15;}">
+                <Coords points="166,1516 236,1515 306,1515 376,1516 447,1515 517,1515 587,1514 658,1515 728,1516 798,1516 869,1517 939,1516 1009,1514 1079,1517 1150,1518 1220,1520 1290,1522 1361,1523 1431,1522 1501,1522 1572,1524 1572,1476 1501,1474 1431,1474 1361,1475 1290,1474 1220,1472 1150,1470 1079,1469 1009,1466 939,1468 869,1469 798,1468 728,1468 658,1467 587,1466 517,1467 447,1467 376,1468 306,1467 236,1467 166,1468"/>
+                <Baseline points="166,1500 236,1499 306,1499 376,1500 447,1499 517,1499 587,1498 658,1499 728,1500 798,1500 869,1501 939,1500 1009,1498 1079,1501 1150,1502 1220,1504 1290,1506 1361,1507 1431,1506 1501,1506 1572,1508"/>
+                <TextEquiv>
+                    <Unicode>in maglia, in camicia, in mutande, con tuba e colletto; militari: generali e soldati, con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:16;}">
+                <Coords points="158,1592 228,1592 298,1591 368,1590 438,1590 508,1589 578,1588 648,1592 718,1590 788,1592 858,1594 928,1594 998,1594 1068,1593 1138,1594 1208,1596 1278,1594 1348,1596 1418,1596 1488,1595 1558,1594 1558,1546 1488,1547 1418,1548 1348,1548 1278,1546 1208,1548 1138,1546 1068,1545 998,1546 928,1546 858,1546 788,1544 718,1542 648,1544 578,1540 508,1541 438,1542 368,1542 298,1543 228,1544 158,1544"/>
+                <Baseline points="158,1576 228,1576 298,1575 368,1574 438,1574 508,1573 578,1572 648,1576 718,1574 788,1576 858,1578 928,1578 998,1578 1068,1577 1138,1578 1208,1580 1278,1578 1348,1580 1418,1580 1488,1579 1558,1578"/>
+                <TextEquiv>
+                    <Unicode>spade, sciabole e bottoni; preti e gerarchi; personaggi ministeriali e politici, ecc. Tutti,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:17;}">
+                <Coords points="150,1674 221,1670 292,1669 363,1667 434,1666 505,1666 576,1668 647,1668 718,1668 789,1670 861,1668 932,1667 1003,1668 1074,1669 1145,1668 1216,1668 1287,1669 1358,1670 1429,1670 1500,1673 1572,1672 1572,1624 1500,1625 1429,1622 1358,1622 1287,1621 1216,1620 1145,1620 1074,1621 1003,1620 932,1619 861,1620 789,1622 718,1620 647,1620 576,1620 505,1618 434,1618 363,1619 292,1621 221,1622 150,1626"/>
+                <Baseline points="150,1658 221,1654 292,1653 363,1651 434,1650 505,1650 576,1652 647,1652 718,1652 789,1654 861,1652 932,1651 1003,1652 1074,1653 1145,1652 1216,1652 1287,1653 1358,1654 1429,1654 1500,1657 1572,1656"/>
+                <TextEquiv>
+                    <Unicode>in ogni caso, visti e studiati come esemplari di una specie o categoria, rappresentati nelle infi-&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:18;}">
+                <Coords points="152,1746 223,1744 295,1742 367,1742 438,1740 510,1740 582,1740 653,1740 725,1742 797,1739 869,1740 940,1742 1012,1743 1084,1744 1155,1747 1227,1746 1299,1746 1370,1746 1442,1746 1514,1749 1586,1754 1586,1706 1514,1701 1442,1698 1370,1698 1299,1698 1227,1698 1155,1699 1084,1696 1012,1695 940,1694 869,1692 797,1691 725,1694 653,1692 582,1692 510,1692 438,1692 367,1694 295,1694 223,1696 152,1698"/>
+                <Baseline points="152,1730 223,1728 295,1726 367,1726 438,1724 510,1724 582,1724 653,1724 725,1726 797,1723 869,1724 940,1726 1012,1727 1084,1728 1155,1731 1227,1730 1299,1730 1370,1730 1442,1730 1514,1733 1586,1738"/>
+                <TextEquiv>
+                    <Unicode>nite loro varietà: dal naso alla pancia. A guardarli, a passarli in rassegna, si ha l'impres-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:19;}">
+                <Coords points="164,1824 234,1820 304,1820 374,1818 445,1818 515,1818 585,1818 656,1819 726,1820 796,1818 867,1818 937,1818 1007,1820 1077,1820 1148,1822 1218,1820 1288,1821 1359,1820 1429,1823 1499,1824 1570,1822 1570,1774 1499,1776 1429,1775 1359,1772 1288,1773 1218,1772 1148,1774 1077,1772 1007,1772 937,1770 867,1770 796,1770 726,1772 656,1771 585,1770 515,1770 445,1770 374,1770 304,1772 234,1772 164,1776"/>
+                <Baseline points="164,1808 234,1804 304,1804 374,1802 445,1802 515,1802 585,1802 656,1803 726,1804 796,1802 867,1802 937,1802 1007,1804 1077,1804 1148,1806 1218,1804 1288,1805 1359,1804 1429,1807 1499,1808 1570,1806"/>
+                <TextEquiv>
+                    <Unicode>sione della pazienza maniaca e spietata dell'entomologo. Per cui si cerca, sotto la veste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:20;}">
+                <Coords points="154,1894 224,1897 294,1896 364,1898 434,1898 504,1898 574,1898 644,1896 714,1897 784,1896 854,1893 924,1894 994,1894 1064,1894 1134,1892 1204,1896 1274,1895 1344,1896 1414,1896 1484,1898 1554,1896 1554,1848 1484,1850 1414,1848 1344,1848 1274,1847 1204,1848 1134,1844 1064,1846 994,1846 924,1846 854,1845 784,1848 714,1849 644,1848 574,1850 504,1850 434,1850 364,1850 294,1848 224,1849 154,1846"/>
+                <Baseline points="154,1878 224,1881 294,1880 364,1882 434,1882 504,1882 574,1882 644,1880 714,1881 784,1880 854,1877 924,1878 994,1878 1064,1878 1134,1876 1204,1880 1274,1879 1344,1880 1414,1880 1484,1882 1554,1880"/>
+                <TextEquiv>
+                    <Unicode>o il cappello, la capocchia dello spillone che li ha fissati nella scatola. (Che è l'impressione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:21;}">
+                <Coords points="160,1980 221,1976 282,1976 343,1974 404,1971 465,1971 526,1971 587,1970 648,1971 709,1970 770,1970 831,1970 892,1970 953,1970 1014,1972 1075,1972 1136,1967 1197,1968 1258,1970 1319,1970 1380,1976 1380,1928 1319,1922 1258,1922 1197,1920 1136,1919 1075,1924 1014,1924 953,1922 892,1922 831,1922 770,1922 709,1922 648,1923 587,1922 526,1923 465,1923 404,1923 343,1926 282,1928 221,1928 160,1932"/>
+                <Baseline points="160,1964 221,1960 282,1960 343,1958 404,1955 465,1955 526,1955 587,1954 648,1955 709,1954 770,1954 831,1954 892,1954 953,1954 1014,1956 1075,1956 1136,1951 1197,1952 1258,1954 1319,1954 1380,1960"/>
+                <TextEquiv>
+                    <Unicode>provata nel leggere i lunghi repertori di tipi umani elencati da Renard.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:22;}">
+                <Coords points="172,2046 241,2048 311,2047 380,2046 450,2045 520,2044 589,2042 659,2046 728,2046 798,2046 868,2046 937,2047 1007,2048 1076,2048 1146,2049 1216,2048 1285,2050 1355,2051 1424,2051 1494,2050 1564,2052 1564,2004 1494,2002 1424,2003 1355,2003 1285,2002 1216,2000 1146,2001 1076,2000 1007,2000 937,1999 868,1998 798,1998 728,1998 659,1998 589,1994 520,1996 450,1997 380,1998 311,1999 241,2000 172,1998"/>
+                <Baseline points="172,2030 241,2032 311,2031 380,2030 450,2029 520,2028 589,2026 659,2030 728,2030 798,2030 868,2030 937,2031 1007,2032 1076,2032 1146,2033 1216,2032 1285,2034 1355,2035 1424,2035 1494,2034 1564,2036"/>
+                <TextEquiv>
+                    <Unicode>Caro e triste Renard! In confronto all'applicazione solitaria di lui, si apprezza lo spiffero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Con Maccari, a Bologna.&#13;
+Il suo lavoro si svolge continuo, senza interruzioni, da più di trent'anni, fermato&#13;
+giorno per giorno, quasi ora per ora, nella carta, sui taccuini, dove capita, come il&#13;
+il diario grafico, in figure di uno scrittore-pittore.Fermato, appuntato, rapidamente&#13;
+nell'oppresione, ma in seguito a riflessione: di quelle riflessioni che continuano, e ritornano&#13;
+col ritmo dell'ossessione. Diario in figure, come avrebbe potuto tenere un Jules Renard&#13;
+che tenesse in mano la matita. Una medesima intima osservazione. O come quello che teneva,&#13;
+incidendo col temperino &#13;
+sulle spallette&#13;
+sui pilastri del Ponte Nuovo il parigino Retif: e sono le traccie penose&#13;
+della sua intensa autobiografia. Mes inscriptions: le chiamava l'autore del “Pornographe”.&#13;
+Pare di vederlo: al tramonto, con l'ultima luce nel cielo sbiadito, piegato a scalfire il       &#13;
+per scrivere, tra un ricordo, un nome di donna; una delle tante. Così Maccari è venuto colle-&#13;
+zionando, classificando le categorie dei suoi motivi consueti: donne, donnone e fanciulli;&#13;
+donne svestite e in abito da sera, in cappellino da passeggio; uomini: attempati e giovanotti,&#13;
+in maglia, in camicia, in mutande, con tuba e colletto; militari: generali e soldati, con&#13;
+spade, sciabole e bottoni; preti e gerarchi; personaggi ministeriali e politici, ecc. Tutti,&#13;
+in ogni caso, visti e studiati come esemplari di una specie o categoria, rappresentati nelle infi-&gt;&#13;
+nite loro varietà: dal naso alla pancia. A guardarli, a passarli in rassegna, si ha l'impres-&#13;
+sione della pazienza maniaca e spietata dell'entomologo. Per cui si cerca, sotto la veste&#13;
+o il cappello, la capocchia dello spillone che li ha fissati nella scatola. (Che è l'impressione&#13;
+provata nel leggere i lunghi repertori di tipi umani elencati da Renard.)&#13;
+Caro e triste Renard! In confronto all'applicazione solitaria di lui, si apprezza lo spiffero</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

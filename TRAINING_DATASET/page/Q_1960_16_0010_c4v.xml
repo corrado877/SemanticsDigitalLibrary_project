@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:59:37.337+01:00</Created>
+        <LastChange>2024-06-20T11:18:50.689+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325494" pageNr="34" tsid="175603505" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=LCPAPKGKQFTCTPVRWKXYOYUW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XGJMGZJPMPBPLHUIMGEFMSYX" imageId="53902876"/>
+    </Metadata>
+    <Page imageFilename="Q_1960_16_0010_c4v.jpg" imageWidth="1798" imageHeight="2473" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746063810" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1718645719622_1385"/>
+                <RegionRefIndexed index="2" regionRef="region_1718645681430_1370"/>
+                <RegionRefIndexed index="3" regionRef="region_1718645701950_1377"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="164,263 178,2175 1666,2175 1652,263"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1718645719622_1385" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="1630,337 1543,337 1543,265 1630,265"/>
+            <TextLine id="line_1718645715148_1380" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:right;}">
+                <Coords points="1566,267 1617,267 1617,317 1566,317"/>
+                <Baseline points="1566,312 1617,312"/>
+                <TextEquiv>
+                    <Unicode>8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718645681430_1370" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1655,1270 194,1270 186,433 1647,433"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} foreign {offset:0; length:82;lang:french;}">
+                <Coords points="194,502 263,502 333,504 403,504 473,503 543,502 613,501 683,500 753,498 823,496 893,495 962,494 1032,493 1102,493 1172,492 1242,492 1312,491 1382,494 1452,493 1522,492 1592,498 1592,449 1522,443 1452,444 1382,445 1312,442 1242,443 1172,443 1102,444 1032,444 962,445 893,446 823,447 753,449 683,451 613,452 543,453 473,454 403,455 333,455 263,453 194,453"/>
+                <Baseline points="194,486 263,486 333,488 403,488 473,487 543,486 613,485 683,484 753,482 823,480 893,479 962,478 1032,477 1102,477 1172,476 1242,476 1312,475 1382,478 1452,477 1522,476 1592,482"/>
+                <TextEquiv>
+                    <Unicode>nay Terck ont fait une première tentative de simultanéité écrite où des contrastes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} foreign {offset:0; length:75;lang:french;}">
+                <Coords points="202,576 270,574 338,576 407,576 475,575 543,574 612,576 680,575 748,574 817,572 885,570 953,572 1022,570 1090,570 1158,568 1227,570 1295,570 1363,572 1432,570 1500,572 1569,574 1569,525 1500,523 1432,521 1363,523 1295,521 1227,521 1158,519 1090,521 1022,521 953,523 885,521 817,523 748,525 680,526 612,527 543,525 475,526 407,527 338,527 270,525 202,527"/>
+                <Baseline points="202,560 270,558 338,560 407,560 475,559 543,558 612,560 680,559 748,558 817,556 885,554 953,556 1022,554 1090,554 1158,552 1227,554 1295,554 1363,556 1432,554 1500,556 1569,558"/>
+                <TextEquiv>
+                    <Unicode>de couleurs habituaient l'œil à lire d'un seul regard l'ensemble d'un poème,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} foreign {offset:0; length:79;lang:french;}">
+                <Coords points="210,654 281,654 352,650 423,651 494,648 565,647 636,648 707,648 778,648 849,650 921,647 992,648 1063,648 1134,649 1205,650 1276,648 1347,650 1418,650 1489,648 1560,649 1632,648 1632,599 1560,600 1489,599 1418,601 1347,601 1276,599 1205,601 1134,600 1063,599 992,599 921,598 849,601 778,599 707,599 636,599 565,598 494,599 423,602 352,601 281,605 210,605"/>
+                <Baseline points="210,638 281,638 352,634 423,635 494,632 565,631 636,632 707,632 778,632 849,634 921,631 992,632 1063,632 1134,633 1205,634 1276,632 1347,634 1418,634 1489,632 1560,633 1632,632"/>
+                <TextEquiv>
+                    <Unicode>comme un chef d'orchestre lit d'un seul coup les notes superposées dans la part</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;} foreign {offset:0; length:72;lang:french;}">
+                <Coords points="210,730 281,729 352,729 423,728 494,727 566,726 637,726 708,726 779,726 850,727 922,726 993,728 1064,727 1135,726 1206,730 1278,726 1349,730 1420,727 1491,727 1562,728 1634,730 1634,681 1562,679 1491,678 1420,678 1349,681 1278,677 1206,681 1135,677 1064,678 993,679 922,677 850,678 779,677 708,677 637,677 566,677 494,678 423,679 352,680 281,680 210,681"/>
+                <Baseline points="210,714 281,713 352,713 423,712 494,711 566,710 637,710 708,710 779,710 850,711 922,710 993,712 1064,711 1135,710 1206,714 1278,710 1349,714 1420,711 1491,711 1562,712 1634,714"/>
+                <TextEquiv>
+                    <Unicode>tition, comme on voit d'un seul coup les éléments plastiques et imprimés </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;} foreign {offset:0; length:71;lang:french;}">
+                <Coords points="202,810 274,806 346,809 418,806 490,807 563,804 635,804 707,803 779,802 851,805 924,804 996,803 1068,802 1140,802 1212,801 1285,800 1357,802 1429,802 1501,806 1573,804 1646,806 1646,757 1573,755 1501,757 1429,753 1357,753 1285,751 1212,752 1140,753 1068,753 996,754 924,755 851,756 779,753 707,754 635,755 563,755 490,758 418,757 346,760 274,757 202,761"/>
+                <Baseline points="202,794 274,790 346,793 418,790 490,791 563,788 635,788 707,787 779,786 851,789 924,788 996,787 1068,786 1140,786 1212,785 1285,784 1357,786 1429,786 1501,790 1573,788 1646,790"/>
+                <TextEquiv>
+                    <Unicode>d'une affiche". E vi si quanto segue: "L'idée de simultanéité préoccupe </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;} foreign {offset:0; length:33;lang:french;}">
+                <Coords points="202,890 235,888 268,884 301,886 335,884 368,881 401,880 434,880 468,880 501,877 534,878 567,878 601,876 634,878 667,878 700,879 734,880 767,880 800,879 833,878 867,885 867,836 833,829 800,830 767,831 734,831 700,830 667,829 634,829 601,827 567,829 534,829 501,828 468,831 434,831 401,831 368,832 335,835 301,837 268,835 235,839 202,841"/>
+                <Baseline points="202,874 235,872 268,868 301,870 335,868 368,865 401,864 434,864 468,864 501,861 534,862 567,862 601,860 634,862 667,862 700,863 734,864 767,864 800,863 833,862 867,869"/>
+                <TextEquiv>
+                    <Unicode>depuis longtemps les artistes; en 1907,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;} foreign {offset:0; length:44;lang:french;} person {offset:26; length:7;} person {offset:38; length:6;}">
+                <Coords points="885,879 923,876 961,877 1000,880 1038,878 1076,877 1115,877 1153,878 1191,876 1230,877 1268,876 1306,878 1345,877 1383,877 1421,874 1460,876 1498,876 1536,879 1575,876 1613,877 1652,880 1652,831 1613,828 1575,827 1536,830 1498,827 1460,827 1421,825 1383,828 1345,828 1306,829 1268,827 1230,828 1191,827 1153,829 1115,828 1076,828 1038,829 1000,831 961,828 923,827 885,830"/>
+                <Baseline points="885,863 923,860 961,861 1000,864 1038,862 1076,861 1115,861 1153,862 1191,860 1230,861 1268,860 1306,862 1345,861 1383,861 1421,858 1460,860 1498,860 1536,863 1575,860 1613,861 1652,864"/>
+                <TextEquiv>
+                    <Unicode>déjà, elle préoccupait un Picasso, un Braque,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;} foreign {offset:0; length:80;lang:french;}">
+                <Coords points="212,968 283,961 355,960 426,956 498,960 570,958 641,958 713,956 784,956 856,957 928,954 999,954 1071,956 1142,950 1214,950 1286,948 1357,948 1429,948 1500,950 1572,951 1644,950 1644,901 1572,902 1500,901 1429,899 1357,899 1286,899 1214,901 1142,901 1071,907 999,905 928,905 856,908 784,907 713,907 641,909 570,909 498,911 426,907 355,911 283,912 212,919"/>
+                <Baseline points="212,952 283,945 355,944 426,940 498,944 570,942 641,942 713,940 784,940 856,941 928,938 999,938 1071,940 1142,934 1214,934 1286,932 1357,932 1429,932 1500,934 1572,935 1644,934"/>
+                <TextEquiv>
+                    <Unicode>qui s'efforçaient de eprésenter des figures et des objets sous plusieurs faces à </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;} foreign {offset:0; length:77;lang:french;}">
+                <Coords points="210,1038 280,1037 350,1036 420,1032 490,1031 560,1030 630,1030 700,1030 770,1028 840,1029 910,1030 980,1028 1050,1026 1120,1027 1190,1024 1260,1027 1330,1025 1400,1026 1470,1026 1540,1031 1610,1032 1610,983 1540,982 1470,977 1400,977 1330,976 1260,978 1190,975 1120,978 1050,977 980,979 910,981 840,980 770,979 700,981 630,981 560,981 490,982 420,983 350,987 280,988 210,989"/>
+                <Baseline points="210,1022 280,1021 350,1020 420,1016 490,1015 560,1014 630,1014 700,1014 770,1012 840,1013 910,1014 980,1012 1050,1010 1120,1011 1190,1008 1260,1011 1330,1009 1400,1010 1470,1010 1540,1015 1610,1016"/>
+                <TextEquiv>
+                    <Unicode>la fois. Elle a préoccupé ensuite tous les cubistes et vous pouvez demander à</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;} foreign {offset:0; length:75;lang:french;}">
+                <Coords points="218,1110 289,1110 360,1108 431,1106 503,1106 574,1106 645,1106 717,1104 788,1104 859,1106 931,1106 1002,1104 1073,1104 1144,1102 1216,1102 1287,1104 1358,1105 1430,1104 1501,1104 1572,1104 1644,1106 1644,1057 1572,1055 1501,1055 1430,1055 1358,1056 1287,1055 1216,1053 1144,1053 1073,1055 1002,1055 931,1057 859,1057 788,1055 717,1055 645,1057 574,1057 503,1057 431,1057 360,1059 289,1061 218,1061"/>
+                <Baseline points="218,1094 289,1094 360,1092 431,1090 503,1090 574,1090 645,1090 717,1088 788,1088 859,1090 931,1090 1002,1088 1073,1088 1144,1086 1216,1086 1287,1088 1358,1089 1430,1088 1501,1088 1572,1088 1644,1090"/>
+                <TextEquiv>
+                    <Unicode>Léger quelle volupté il éprouvait à fixer un visage vu à la fois de face et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;} foreign {offset:0; length:74;lang:french;}">
+                <Coords points="218,1190 289,1188 360,1184 432,1184 503,1182 575,1182 646,1179 717,1182 789,1180 860,1182 932,1180 1003,1180 1074,1182 1146,1181 1217,1180 1289,1180 1360,1180 1431,1180 1503,1178 1574,1178 1646,1180 1646,1131 1574,1129 1503,1129 1431,1131 1360,1131 1289,1131 1217,1131 1146,1132 1074,1133 1003,1131 932,1131 860,1133 789,1131 717,1133 646,1130 575,1133 503,1133 432,1135 360,1135 289,1139 218,1141"/>
+                <Baseline points="218,1174 289,1172 360,1168 432,1168 503,1166 575,1166 646,1163 717,1166 789,1164 860,1166 932,1164 1003,1164 1074,1166 1146,1165 1217,1164 1289,1164 1360,1164 1431,1164 1503,1162 1574,1162 1646,1164"/>
+                <TextEquiv>
+                    <Unicode>de profil. Cependant, les futuristes étendirent le domaine de la simultané</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;} foreign {offset:0; length:3;lang:french;}">
+                <Coords points="206,1264 231,1262 257,1262 282,1265 308,1266 308,1217 282,1216 257,1213 231,1213 206,1215"/>
+                <Baseline points="206,1248 231,1246 257,1246 282,1249 308,1250"/>
+                <TextEquiv>
+                    <Unicode>ité."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nay Terck ont fait une première tentative de simultanéité écrite où des contrastes&#13;
+de couleurs habituaient l'œil à lire d'un seul regard l'ensemble d'un poème,&#13;
+comme un chef d'orchestre lit d'un seul coup les notes superposées dans la part&#13;
+tition, comme on voit d'un seul coup les éléments plastiques et imprimés &#13;
+d'une affiche". E vi si quanto segue: "L'idée de simultanéité préoccupe &#13;
+depuis longtemps les artistes; en 1907,&#13;
+déjà, elle préoccupait un Picasso, un Braque,&#13;
+qui s'efforçaient de eprésenter des figures et des objets sous plusieurs faces à &#13;
+la fois. Elle a préoccupé ensuite tous les cubistes et vous pouvez demander à&#13;
+Léger quelle volupté il éprouvait à fixer un visage vu à la fois de face et &#13;
+de profil. Cependant, les futuristes étendirent le domaine de la simultané&#13;
+ité."</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718645701950_1377" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1649,2038 195,2038 195,1266 1649,1266"/>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:0;} person {offset:28; length:11;occupation:poet; firstname:Guillaume; dateOfDeath:8\u0020April\u00201973; dateOfBirth:25\u0020October\u00201881; lastname:Apollinaire;}">
+                <Coords points="240,1340 309,1336 378,1335 447,1334 517,1334 586,1334 655,1335 725,1336 794,1334 863,1334 933,1336 1002,1332 1071,1334 1140,1332 1210,1332 1279,1330 1348,1329 1418,1328 1487,1332 1556,1331 1626,1332 1626,1283 1556,1282 1487,1283 1418,1279 1348,1280 1279,1281 1210,1283 1140,1283 1071,1285 1002,1283 933,1287 863,1285 794,1285 725,1287 655,1286 586,1285 517,1285 447,1285 378,1286 309,1287 240,1291"/>
+                <Baseline points="240,1324 309,1320 378,1319 447,1318 517,1318 586,1318 655,1319 725,1320 794,1318 863,1318 933,1320 1002,1316 1071,1318 1140,1316 1210,1316 1279,1314 1348,1313 1418,1312 1487,1316 1556,1315 1626,1316"/>
+                <TextEquiv>
+                    <Unicode>È nella stessa rivista, che Apollinaire dirigeva, che erano stati pubblicati, pochi mesi mesi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:1;} hi {offset:64; length:19;rend:underline;}">
+                <Coords points="210,1420 280,1417 351,1415 421,1412 492,1411 562,1411 633,1412 703,1413 774,1414 844,1412 915,1410 985,1408 1056,1406 1126,1406 1197,1406 1267,1406 1338,1408 1408,1408 1479,1407 1549,1407 1620,1412 1620,1363 1549,1358 1479,1358 1408,1359 1338,1359 1267,1357 1197,1357 1126,1357 1056,1357 985,1359 915,1361 844,1363 774,1365 703,1364 633,1363 562,1362 492,1362 421,1363 351,1366 280,1368 210,1371"/>
+                <Baseline points="210,1404 280,1401 351,1399 421,1396 492,1395 562,1395 633,1396 703,1397 774,1398 844,1396 915,1394 985,1392 1056,1390 1126,1390 1197,1390 1267,1390 1338,1392 1408,1392 1479,1391 1549,1391 1620,1396"/>
+                <TextEquiv>
+                    <Unicode>in perfetta successione cronologica, i componimenti denominati: Lundi rue Christine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:2;} hi {offset:0; length:7;rend:underline;} hi {offset:9; length:10;rend:underline;} hi {offset:21; length:4;rend:underline;} hi {offset:27; length:10;rend:underline;} hi {offset:44; length:12;rend:underline;}">
+                <Coords points="202,1496 273,1494 345,1492 417,1493 489,1493 561,1490 633,1492 705,1490 777,1488 849,1486 921,1487 992,1486 1064,1482 1136,1484 1208,1484 1280,1484 1352,1484 1424,1484 1496,1485 1568,1484 1640,1492 1640,1443 1568,1435 1496,1436 1424,1435 1352,1435 1280,1435 1208,1435 1136,1435 1064,1433 992,1437 921,1438 849,1437 777,1439 705,1441 633,1443 561,1441 489,1444 417,1444 345,1443 273,1445 202,1447"/>
+                <Baseline points="202,1480 273,1478 345,1476 417,1477 489,1477 561,1474 633,1476 705,1474 777,1472 849,1470 921,1471 992,1470 1064,1466 1136,1468 1208,1468 1280,1468 1352,1468 1424,1468 1496,1469 1568,1468 1640,1476"/>
+                <TextEquiv>
+                    <Unicode>Rotsoge, Prophéties, 1904, L'Anguille, e la Lettre-Ocean, che, nel maggior rischio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:3;}">
+                <Coords points="214,1568 285,1566 356,1568 427,1566 499,1566 570,1563 641,1566 713,1564 784,1565 855,1564 927,1564 998,1564 1069,1562 1140,1561 1212,1562 1283,1560 1354,1560 1426,1558 1497,1560 1568,1562 1640,1564 1640,1515 1568,1513 1497,1511 1426,1509 1354,1511 1283,1511 1212,1513 1140,1512 1069,1513 998,1515 927,1515 855,1515 784,1516 713,1515 641,1517 570,1514 499,1517 427,1517 356,1519 285,1517 214,1519"/>
+                <Baseline points="214,1552 285,1550 356,1552 427,1550 499,1550 570,1547 641,1550 713,1548 784,1549 855,1548 927,1548 998,1548 1069,1546 1140,1545 1212,1546 1283,1544 1354,1544 1426,1542 1497,1544 1568,1546 1640,1548"/>
+                <TextEquiv>
+                    <Unicode>dell'espressione formale, giunta alla completa dissociazione dell'idea e del sentimento,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:4;}">
+                <Coords points="216,1642 287,1640 358,1639 429,1637 500,1638 571,1634 642,1636 713,1636 784,1638 855,1636 927,1639 998,1636 1069,1636 1140,1634 1211,1632 1282,1634 1353,1633 1424,1636 1495,1636 1566,1637 1638,1640 1638,1591 1566,1588 1495,1587 1424,1587 1353,1584 1282,1585 1211,1583 1140,1585 1069,1587 998,1587 927,1590 855,1587 784,1589 713,1587 642,1587 571,1585 500,1589 429,1588 358,1590 287,1591 216,1593"/>
+                <Baseline points="216,1626 287,1624 358,1623 429,1621 500,1622 571,1618 642,1620 713,1620 784,1622 855,1620 927,1623 998,1620 1069,1620 1140,1618 1211,1616 1282,1618 1353,1617 1424,1620 1495,1620 1566,1621 1638,1624"/>
+                <TextEquiv>
+                    <Unicode>tocca un'eguale conclusione "figurativa", com'è dato di rilevare nella pittura dei pittori</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:5;} person {offset:4; length:11;occupation:poet; firstname:Guillaume; dateOfDeath:8\u0020April\u00201973; dateOfBirth:25\u0020October\u00201881; lastname:Apollinaire;}">
+                <Coords points="210,1722 280,1719 350,1712 420,1712 491,1712 561,1712 631,1710 702,1712 772,1712 842,1710 913,1711 983,1710 1053,1710 1123,1708 1194,1706 1264,1706 1334,1708 1405,1708 1475,1711 1545,1713 1616,1712 1616,1663 1545,1664 1475,1662 1405,1659 1334,1659 1264,1657 1194,1657 1123,1659 1053,1661 983,1661 913,1662 842,1661 772,1663 702,1663 631,1661 561,1663 491,1663 420,1663 350,1663 280,1670 210,1673"/>
+                <Baseline points="210,1706 280,1703 350,1696 420,1696 491,1696 561,1696 631,1694 702,1696 772,1696 842,1694 913,1695 983,1694 1053,1694 1123,1692 1194,1690 1264,1690 1334,1692 1405,1692 1475,1695 1545,1697 1616,1696"/>
+                <TextEquiv>
+                    <Unicode>che Apollinaire ha ricordato nel suo scritto programmatico di poc'anzi. Conviene poi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:6;} hi {offset:58; length:20;rend:underline;}">
+                <Coords points="206,1794 275,1792 345,1791 414,1790 484,1790 553,1790 623,1790 692,1792 762,1790 831,1789 901,1788 970,1786 1040,1785 1109,1788 1179,1786 1248,1784 1318,1784 1387,1784 1457,1783 1526,1781 1596,1782 1596,1733 1526,1732 1457,1734 1387,1735 1318,1735 1248,1735 1179,1737 1109,1739 1040,1736 970,1737 901,1739 831,1740 762,1741 692,1743 623,1741 553,1741 484,1741 414,1741 345,1742 275,1743 206,1745"/>
+                <Baseline points="206,1778 275,1776 345,1775 414,1774 484,1774 553,1774 623,1774 692,1776 762,1774 831,1773 901,1772 970,1770 1040,1769 1109,1772 1179,1770 1248,1768 1318,1768 1387,1768 1457,1767 1526,1765 1596,1766"/>
+                <TextEquiv>
+                    <Unicode>avvertire inoltre che i fascicoli della medesima rivista: Les Soirées de Paris erano le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:7;} person {offset:38; length:11;occupation:poet; firstname:Guillaume\u0020; dateOfDeath:8\u0020April\u00201973; dateOfBirth:25\u0020October\u00201881; lastname:Apollinaire;}">
+                <Coords points="220,1878 289,1870 359,1870 429,1871 499,1870 569,1868 638,1867 708,1866 778,1866 848,1864 918,1864 987,1864 1057,1865 1127,1862 1197,1864 1267,1865 1336,1864 1406,1864 1476,1864 1546,1866 1616,1868 1616,1819 1546,1817 1476,1815 1406,1815 1336,1815 1267,1816 1197,1815 1127,1813 1057,1816 987,1815 918,1815 848,1815 778,1817 708,1817 638,1818 569,1819 499,1821 429,1822 359,1821 289,1821 220,1829"/>
+                <Baseline points="220,1862 289,1854 359,1854 429,1855 499,1854 569,1852 638,1851 708,1850 778,1850 848,1848 918,1848 987,1848 1057,1849 1127,1846 1197,1848 1267,1849 1336,1848 1406,1848 1476,1848 1546,1850 1616,1852"/>
+                <TextEquiv>
+                    <Unicode>palestra, o il campo di manovra, dove Apollinaire illustrava l'opera degli artisti suoi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:8;} person {offset:68; length:7;occupation:painter; firstname:Pablo\u0020; dateOfDeath:8\u0020April\u00201973; dateOfBirth:25\u0020October\u00201881; lastname:Picasso;}">
+                <Coords points="220,1944 291,1942 362,1940 433,1940 504,1938 575,1936 646,1936 717,1936 788,1938 859,1938 931,1938 1002,1936 1073,1934 1144,1934 1215,1934 1286,1932 1357,1935 1428,1932 1499,1934 1570,1934 1642,1934 1642,1904 1570,1904 1499,1904 1428,1902 1357,1905 1286,1902 1215,1904 1144,1904 1073,1904 1002,1906 931,1908 859,1908 788,1908 717,1906 646,1906 575,1906 504,1908 433,1910 362,1910 291,1912 220,1914"/>
+                <Baseline points="220,1934 291,1932 362,1930 433,1930 504,1928 575,1926 646,1926 717,1926 788,1928 859,1928 931,1928 1002,1926 1073,1924 1144,1924 1215,1924 1286,1922 1357,1925 1428,1922 1499,1924 1570,1924 1642,1924"/>
+                <TextEquiv>
+                    <Unicode>contemporanei, in piccole antologie di riproduzioni che riguardano: Picasso, nelle na</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718794891385_237" custom="readingOrder {index:9;}">
+                <Coords points="218,1990 289,1990 360,1988 431,1986 502,1986 573,1985 644,1984 715,1984 786,1985 857,1986 928,1987 999,1985 1070,1986 1141,1982 1261,1982 1261,2012 1141,2012 1070,2016 999,2015 928,2017 857,2016 786,2015 715,2014 644,2014 573,2015 502,2016 431,2016 360,2018 289,2020 218,2020"/>
+                <Baseline points="218,2010 289,2010 360,2008 431,2006 502,2006 573,2005 644,2004 715,2004 786,2005 857,2006 928,2007 999,2005 1070,2006 1141,2002 1212,2002 1261,2002"/>
+                <TextEquiv>
+                    <Unicode>ture morte 1912-1913, composti di legno, stoffa, latta, cartoni e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:10;} add {offset:0; length:10;place:above;}">
+                <Coords points="1222,1974 1249,1976 1277,1978 1304,1977 1332,1976 1360,1976 1360,1946 1332,1946 1304,1947 1277,1948 1249,1946 1222,1944"/>
+                <Baseline points="1222,1964 1249,1966 1277,1968 1304,1967 1332,1966 1360,1966"/>
+                <TextEquiv>
+                    <Unicode>cordicelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718794891385_236" custom="readingOrder {index:11;} del {offset:0; length:5;rend:overstrike;} person {offset:7; length:14;occupation:painter; firstname:Henri\u0020; dateOfDeath:2\u0020September\u00201910; dateOfBirth:21\u0020May\u00201844; lastname:Rousseau;}">
+                <Coords points="1261,1982 1283,1982 1354,1981 1425,1978 1496,1976 1567,1976 1638,1978 1638,2008 1567,2006 1496,2006 1425,2008 1354,2011 1283,2012 1261,2012"/>
+                <Baseline points="1261,2002 1283,2002 1354,2001 1425,1998 1496,1996 1567,1996 1638,1998"/>
+                <TextEquiv>
+                    <Unicode>corda; Henri Rousseau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>È nella stessa rivista, che Apollinaire dirigeva, che erano stati pubblicati, pochi mesi mesi,&#13;
+in perfetta successione cronologica, i componimenti denominati: Lundi rue Christine&#13;
+Rotsoge, Prophéties, 1904, L'Anguille, e la Lettre-Ocean, che, nel maggior rischio&#13;
+dell'espressione formale, giunta alla completa dissociazione dell'idea e del sentimento,&#13;
+tocca un'eguale conclusione "figurativa", com'è dato di rilevare nella pittura dei pittori&#13;
+che Apollinaire ha ricordato nel suo scritto programmatico di poc'anzi. Conviene poi&#13;
+avvertire inoltre che i fascicoli della medesima rivista: Les Soirées de Paris erano le&#13;
+palestra, o il campo di manovra, dove Apollinaire illustrava l'opera degli artisti suoi&#13;
+contemporanei, in piccole antologie di riproduzioni che riguardano: Picasso, nelle na&#13;
+ture morte 1912-1913, composti di legno, stoffa, latta, cartoni e&#13;
+cordicelle&#13;
+corda; Henri Rousseau</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

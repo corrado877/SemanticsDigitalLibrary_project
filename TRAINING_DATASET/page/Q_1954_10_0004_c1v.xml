@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:23:17.822+02:00</Created>
+        <LastChange>2024-06-21T10:00:06.868+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326003" pageNr="86" tsid="175603570" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=ZGSOKKSPVPUXAYRFFZMHYRIM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GYWWZMVPUVSBPPVMZXVTMKXE" imageId="54296144"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_10_0004_c1v.jpg" imageWidth="1798" imageHeight="2427" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746073975" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="177,293 177,2066 1795,2066 1795,293"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="185,543 256,541 327,541 398,540 470,541 541,542 612,540 684,539 755,539 826,539 898,537 969,536 1040,535 1111,535 1183,535 1254,533 1325,536 1397,537 1468,537 1539,538 1611,537 1611,483 1539,484 1468,483 1397,483 1325,482 1254,479 1183,481 1111,481 1040,481 969,482 898,483 826,485 755,485 684,485 612,486 541,488 470,487 398,486 327,487 256,487 185,489"/>
+                <Baseline points="185,525 256,523 327,523 398,522 470,523 541,524 612,522 684,521 755,521 826,521 898,519 969,518 1040,517 1111,517 1183,517 1254,515 1325,518 1397,519 1468,519 1539,520 1611,519"/>
+                <TextEquiv>
+                    <Unicode>tentano di raccontarlo, in libri e libri. Il poeta, in qualche lettera agli amici, aveva dichiarato </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="179,619 252,617 325,617 398,617 471,617 544,616 617,615 690,612 763,611 836,611 909,611 982,611 1055,611 1128,613 1201,614 1274,617 1347,617 1420,615 1493,613 1566,615 1639,613 1639,559 1566,561 1493,559 1420,561 1347,563 1274,563 1201,560 1128,559 1055,557 982,557 909,557 836,557 763,557 690,558 617,561 544,562 471,563 398,563 325,563 252,563 179,565"/>
+                <Baseline points="179,601 252,599 325,599 398,599 471,599 544,598 617,597 690,594 763,593 836,593 909,593 982,593 1055,593 1128,595 1201,596 1274,599 1347,599 1420,597 1493,595 1566,597 1639,595"/>
+                <TextEquiv>
+                    <Unicode>il suo cuore, annunciato il sopravvento del suo carattere sull’opera del suo ingegno poetico, il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:2;}">
+                <Coords points="187,694 256,694 326,692 396,693 466,690 536,690 605,688 675,690 745,690 815,688 885,688 954,688 1024,688 1094,688 1164,690 1234,690 1303,689 1373,690 1443,690 1513,690 1610,688 1606,638 1513,638 1443,638 1373,638 1303,637 1234,638 1164,638 1094,636 1024,636 954,636 885,636 815,636 745,638 675,638 605,636 536,638 466,638 396,641 326,640 256,642 187,642"/>
+                <Baseline points="187,677 256,677 326,675 396,676 466,673 536,673 605,671 675,673 745,673 815,671 885,671 954,671 1024,671 1094,671 1164,673 1234,673 1303,672 1373,673 1443,673 1513,673 1583,673"/>
+                <TextEquiv>
+                    <Unicode>sopraggiungere, non arrestabile di un’onda, il suo temperamento, la sua destinazione alla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="183,766 254,769 326,768 397,770 469,768 541,768 612,769 684,768 755,766 827,766 899,764 970,764 1042,765 1113,764 1185,766 1257,766 1328,762 1400,763 1471,762 1543,763 1615,766 1615,714 1543,711 1471,710 1400,711 1328,710 1257,714 1185,714 1113,712 1042,713 970,712 899,712 827,714 755,714 684,716 612,717 541,716 469,716 397,718 326,716 254,717 183,714"/>
+                <Baseline points="183,749 254,752 326,751 397,753 469,751 541,751 612,752 684,751 755,749 827,749 899,747 970,747 1042,748 1113,747 1185,749 1257,749 1328,745 1400,746 1471,745 1543,746 1615,749"/>
+                <TextEquiv>
+                    <Unicode>vita nelle forme più profondamente, e insieme materiali e umane. Lettere, come risate, e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:4;}">
+                <Coords points="177,845 249,847 322,846 395,845 468,845 541,846 613,845 686,845 759,847 832,843 905,843 977,844 1050,840 1123,841 1196,841 1269,843 1341,843 1414,844 1487,843 1560,843 1633,835 1633,781 1560,789 1487,789 1414,790 1341,789 1269,789 1196,787 1123,787 1050,786 977,790 905,789 832,789 759,793 686,791 613,791 541,792 468,791 395,791 322,792 249,793 177,791"/>
+                <Baseline points="177,827 249,829 322,828 395,827 468,827 541,828 613,827 686,827 759,829 832,825 905,825 977,826 1050,822 1123,823 1196,823 1269,825 1341,825 1414,826 1487,825 1560,825 1633,817"/>
+                <TextEquiv>
+                    <Unicode>insolenze, enormi ironie, sarcasmi scavati nella carne viva della vita: _ “Je me dois à la Société, &lt;lb/&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:5;}">
+                <Coords points="189,922 261,925 334,922 406,922 479,921 551,922 624,920 696,918 769,919 841,920 914,918 986,920 1059,920 1131,917 1204,914 1276,916 1349,915 1421,918 1494,919 1566,918 1639,922 1639,870 1566,866 1494,867 1421,866 1349,863 1276,864 1204,862 1131,865 1059,868 986,868 914,866 841,868 769,867 696,866 624,868 551,870 479,869 406,870 334,870 261,873 189,870"/>
+                <Baseline points="189,905 261,908 334,905 406,905 479,904 551,905 624,903 696,901 769,902 841,903 914,901 986,903 1059,903 1131,900 1204,897 1276,899 1349,898 1421,901 1494,902 1566,901 1639,905"/>
+                <TextEquiv>
+                    <Unicode>c’est juste, _et j’ai raison... Maintemant, je m’ encrapule le plus possible... Il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713952535382_666" custom="readingOrder {index:6;} hi {offset:51; length:12;rend:underline;}">
+                <Coords points="186,945 1580,936 1580,986 186,995"/>
+                <Baseline points="186,990 1580,981"/>
+                <TextEquiv>
+                    <Unicode>s’agit d’arriver à l’inconnu pas le dérèglement de tous les sens. Les souffrances sont</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:7;}">
+                <Coords points="179,1074 252,1074 325,1073 398,1072 471,1070 544,1070 617,1068 690,1070 763,1070 836,1068 909,1070 982,1069 1055,1068 1128,1068 1201,1068 1274,1070 1347,1067 1420,1068 1493,1067 1566,1070 1639,1074 1639,1022 1566,1018 1493,1015 1420,1016 1347,1015 1274,1018 1201,1016 1128,1016 1055,1016 982,1017 909,1018 836,1016 763,1018 690,1018 617,1016 544,1018 471,1018 398,1020 325,1021 252,1022 179,1022"/>
+                <Baseline points="179,1057 252,1057 325,1056 398,1055 471,1053 544,1053 617,1051 690,1053 763,1053 836,1051 909,1053 982,1052 1055,1051 1128,1051 1201,1051 1274,1053 1347,1050 1420,1051 1493,1050 1566,1053 1639,1057"/>
+                <TextEquiv>
+                    <Unicode>énormes, mais il faut être fort, être né poëte, et je me suis reconnu poëte. Ce n’est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713952496375_653" custom="readingOrder {index:8;}">
+                <Coords points="187,1102 1644,1092 1644,1142 187,1152"/>
+                <Baseline points="187,1147 1644,1137"/>
+                <TextEquiv>
+                    <Unicode>pas du tout ma faute. C’est faux de dire: Je pense. On devrait dire: Oh me pense. Pardon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713952505467_658" custom="readingOrder {index:9;}">
+                <Coords points="177,1173 1643,1160 1642,1224 177,1223"/>
+                <Baseline points="177,1218 1634,1215"/>
+                <TextEquiv>
+                    <Unicode>du jeu de mots. JE est un autre." Nella lettera a Demeny, la cosidetta “lettre du voyant",</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:10;}">
+                <Coords points="189,1305 262,1302 335,1299 408,1301 482,1299 555,1299 628,1298 702,1297 775,1296 848,1295 922,1295 995,1295 1068,1295 1141,1296 1215,1295 1288,1296 1361,1297 1435,1297 1508,1299 1581,1301 1655,1305 1655,1251 1581,1247 1508,1245 1435,1243 1361,1243 1288,1242 1215,1241 1141,1242 1068,1241 995,1241 922,1241 848,1241 775,1242 702,1243 628,1244 555,1245 482,1245 408,1247 335,1245 262,1248 189,1251"/>
+                <Baseline points="189,1287 262,1284 335,1281 408,1283 482,1281 555,1281 628,1280 702,1279 775,1278 848,1277 922,1277 995,1277 1068,1277 1141,1278 1215,1277 1288,1278 1361,1279 1435,1279 1508,1281 1581,1283 1655,1287"/>
+                <TextEquiv>
+                    <Unicode>egli scrive: “..il s’agit de faire l’âme monstrueuse: à l’ instar des comprachi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:11;}">
+                <Coords points="205,1380 276,1382 347,1377 419,1378 490,1377 562,1376 633,1375 704,1375 776,1376 847,1375 919,1374 990,1374 1061,1377 1133,1374 1204,1376 1276,1374 1347,1374 1418,1374 1490,1374 1561,1376 1633,1382 1633,1325 1561,1319 1490,1317 1418,1317 1347,1317 1276,1317 1204,1319 1133,1317 1061,1320 990,1317 919,1317 847,1318 776,1319 704,1318 633,1318 562,1319 490,1320 419,1321 347,1320 276,1325 205,1323"/>
+                <Baseline points="205,1361 276,1363 347,1358 419,1359 490,1358 562,1357 633,1356 704,1356 776,1357 847,1356 919,1355 990,1355 1061,1358 1133,1355 1204,1357 1276,1355 1347,1355 1418,1355 1490,1355 1561,1357 1633,1363"/>
+                <TextEquiv>
+                    <Unicode>cos, quoi! Imaginez un homme s’implantant et se cultivant des verrues sur le vi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:12;} hi {offset:31; length:6;rend:underline;}">
+                <Coords points="193,1455 263,1457 334,1457 405,1457 476,1457 547,1453 618,1453 689,1452 760,1451 831,1451 902,1451 972,1451 1043,1451 1114,1449 1185,1451 1256,1451 1327,1451 1398,1451 1469,1450 1540,1449 1611,1447 1611,1393 1540,1395 1469,1396 1398,1397 1327,1397 1256,1397 1185,1397 1114,1395 1043,1397 972,1397 902,1397 831,1397 760,1397 689,1398 618,1399 547,1399 476,1403 405,1403 334,1403 263,1403 193,1401"/>
+                <Baseline points="193,1437 263,1439 334,1439 405,1439 476,1439 547,1435 618,1435 689,1434 760,1433 831,1433 902,1433 972,1433 1043,1433 1114,1431 1185,1433 1256,1433 1327,1433 1398,1433 1469,1432 1540,1431 1611,1429"/>
+                <TextEquiv>
+                    <Unicode>sage.   Je dis qu’il faut être voyant, se faire voyant. Etc. Ineffable torture où il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:13;}">
+                <Coords points="185,1533 254,1531 324,1529 394,1528 464,1529 534,1527 604,1526 674,1525 744,1525 814,1523 884,1523 953,1523 1023,1523 1093,1525 1163,1525 1233,1524 1303,1524 1373,1525 1443,1526 1513,1526 1583,1529 1583,1475 1513,1472 1443,1472 1373,1471 1303,1470 1233,1470 1163,1471 1093,1471 1023,1469 953,1469 884,1469 814,1469 744,1471 674,1471 604,1472 534,1473 464,1475 394,1474 324,1475 254,1477 185,1479"/>
+                <Baseline points="185,1515 254,1513 324,1511 394,1510 464,1511 534,1509 604,1508 674,1507 744,1507 814,1505 884,1505 953,1505 1023,1505 1093,1507 1163,1507 1233,1506 1303,1506 1373,1507 1443,1508 1513,1508 1583,1511"/>
+                <TextEquiv>
+                    <Unicode>a besoin de toute la foi, de toute la force surhumaine, où il devient entre tous le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:14;} hi {offset:71; length:7;rend:underline;}">
+                <Coords points="191,1604 262,1603 334,1602 406,1602 478,1602 550,1602 621,1602 693,1600 765,1601 837,1600 909,1602 980,1602 1052,1602 1124,1606 1196,1604 1268,1602 1339,1600 1411,1602 1483,1602 1555,1604 1654,1604 1652,1551 1555,1552 1483,1550 1411,1550 1339,1548 1268,1550 1196,1552 1124,1554 1052,1550 980,1550 909,1550 837,1548 765,1549 693,1548 621,1550 550,1550 478,1550 406,1550 334,1550 262,1551 191,1552"/>
+                <Baseline points="191,1587 262,1586 334,1585 406,1585 478,1585 550,1585 621,1585 693,1583 765,1584 837,1583 909,1585 980,1585 1052,1585 1124,1589 1196,1587 1268,1585 1339,1583 1411,1585 1483,1585 1555,1587 1627,1587"/>
+                <TextEquiv>
+                    <Unicode>grand malade, le grand criminel, le grand maudit... Car il arrive à l’ inconnu!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:15;}">
+                <Coords points="181,1686 251,1686 322,1682 393,1682 464,1680 535,1678 605,1678 676,1679 747,1682 818,1682 889,1682 959,1683 1030,1682 1101,1683 1172,1682 1243,1682 1313,1678 1384,1678 1455,1677 1526,1679 1597,1678 1597,1626 1526,1627 1455,1625 1384,1626 1313,1626 1243,1630 1172,1630 1101,1631 1030,1630 959,1631 889,1630 818,1630 747,1630 676,1627 605,1626 535,1626 464,1628 393,1630 322,1630 251,1634 181,1634"/>
+                <Baseline points="181,1669 251,1669 322,1665 393,1665 464,1663 535,1661 605,1661 676,1662 747,1665 818,1665 889,1665 959,1666 1030,1665 1101,1666 1172,1665 1243,1665 1313,1661 1384,1661 1455,1660 1526,1662 1597,1661"/>
+                <TextEquiv>
+                    <Unicode>Puisqu’il a cultivé son âme, deja riche, plus qu’aucun !..  Qu’il crève dans son</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:16;} del {offset:39; length:7;rend:overstrike;} gap {offset:39; length:0;quantity:illegible;}">
+                <Coords points="189,1758 258,1756 328,1756 398,1757 467,1756 537,1756 607,1756 676,1756 746,1756 816,1756 886,1756 955,1756 1025,1754 1095,1754 1164,1754 1234,1755 1304,1755 1373,1756 1443,1753 1513,1754 1583,1754 1583,1702 1513,1702 1443,1701 1373,1704 1304,1703 1234,1703 1164,1702 1095,1702 1025,1702 955,1704 886,1704 816,1704 746,1704 676,1704 607,1704 537,1704 467,1704 398,1705 328,1704 258,1704 189,1706"/>
+                <Baseline points="189,1741 258,1739 328,1739 398,1740 467,1739 537,1739 607,1739 676,1739 746,1739 816,1739 886,1739 955,1739 1025,1737 1095,1737 1164,1737 1234,1738 1304,1738 1373,1739 1443,1736 1513,1737 1583,1737"/>
+                <TextEquiv>
+                    <Unicode>bondissement par les choses inouïes et         innommables : viendront</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:17;}">
+                <Coords points="187,1836 259,1833 331,1832 404,1830 476,1831 549,1830 621,1830 693,1832 766,1830 838,1833 911,1834 983,1832 1055,1830 1128,1829 1200,1830 1273,1832 1345,1830 1417,1828 1490,1830 1562,1832 1635,1834 1635,1783 1562,1781 1490,1779 1417,1777 1345,1779 1273,1781 1200,1779 1128,1778 1055,1779 983,1781 911,1783 838,1782 766,1779 693,1781 621,1779 549,1779 476,1780 404,1779 331,1781 259,1782 187,1785"/>
+                <Baseline points="187,1819 259,1816 331,1815 404,1813 476,1814 549,1813 621,1813 693,1815 766,1813 838,1816 911,1817 983,1815 1055,1813 1128,1812 1200,1813 1273,1815 1345,1813 1417,1811 1490,1813 1562,1815 1635,1817"/>
+                <TextEquiv>
+                    <Unicode>d’autres horribles travailleurs; il commenceront par les horizons où l’autre </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713952551821_671" custom="readingOrder {index:18;}">
+                <Coords points="193,1856 1662,1852 1662,1902 193,1906"/>
+                <Baseline points="193,1901 1662,1897"/>
+                <TextEquiv>
+                    <Unicode>s’est affaissé !"_ È una lunga citazione; ma ci voleva. Sono, ripeto, da due lettere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:19;}">
+                <Coords points="187,1989 218,1987 249,1987 281,1985 312,1985 344,1983 375,1982 406,1983 438,1984 469,1984 501,1983 532,1984 563,1985 595,1983 626,1981 658,1981 689,1982 720,1983 752,1986 783,1989 815,1989 815,1935 783,1935 752,1932 720,1929 689,1928 658,1927 626,1927 595,1929 563,1931 532,1930 501,1929 469,1930 438,1930 406,1929 375,1928 344,1929 312,1931 281,1931 249,1933 218,1933 187,1935"/>
+                <Baseline points="187,1971 218,1969 249,1969 281,1967 312,1967 344,1965 375,1964 406,1965 438,1966 469,1966 501,1965 532,1966 563,1967 595,1965 626,1963 658,1963 689,1964 720,1965 752,1968 783,1971 815,1971"/>
+                <TextEquiv>
+                    <Unicode>del 13 maggio e del 15 maggio ‘71.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:20;}">
+                <Coords points="191,2065 263,2063 336,2063 408,2061 481,2061 554,2059 626,2059 699,2059 771,2061 844,2060 917,2059 989,2059 1062,2058 1134,2059 1207,2058 1280,2059 1352,2057 1425,2057 1497,2057 1570,2060 1643,2063 1643,2009 1570,2006 1497,2003 1425,2003 1352,2003 1280,2005 1207,2004 1134,2005 1062,2004 989,2005 917,2005 844,2006 771,2007 699,2005 626,2005 554,2005 481,2007 408,2007 336,2009 263,2009 191,2011"/>
+                <Baseline points="191,2047 263,2045 336,2045 408,2043 481,2043 554,2041 626,2041 699,2041 771,2043 844,2042 917,2041 989,2041 1062,2040 1134,2041 1207,2040 1280,2041 1352,2039 1425,2039 1497,2039 1570,2042 1643,2045"/>
+                <TextEquiv>
+                    <Unicode>Incomincia, com’è naturale, con l’ironia: Io mi devo alla Società. Questo spirito d’a-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tentano di raccontarlo, in libri e libri. Il poeta, in qualche lettera agli amici, aveva dichiarato &#13;
+il suo cuore, annunciato il sopravvento del suo carattere sull’opera del suo ingegno poetico, il&#13;
+sopraggiungere, non arrestabile di un’onda, il suo temperamento, la sua destinazione alla&#13;
+vita nelle forme più profondamente, e insieme materiali e umane. Lettere, come risate, e&#13;
+insolenze, enormi ironie, sarcasmi scavati nella carne viva della vita: _ “Je me dois à la Société, &lt;lb/&gt;&#13;
+c’est juste, _et j’ai raison... Maintemant, je m’ encrapule le plus possible... Il&#13;
+s’agit d’arriver à l’inconnu pas le dérèglement de tous les sens. Les souffrances sont&#13;
+énormes, mais il faut être fort, être né poëte, et je me suis reconnu poëte. Ce n’est&#13;
+pas du tout ma faute. C’est faux de dire: Je pense. On devrait dire: Oh me pense. Pardon&#13;
+du jeu de mots. JE est un autre." Nella lettera a Demeny, la cosidetta “lettre du voyant",&#13;
+egli scrive: “..il s’agit de faire l’âme monstrueuse: à l’ instar des comprachi-&#13;
+cos, quoi! Imaginez un homme s’implantant et se cultivant des verrues sur le vi-&#13;
+sage.   Je dis qu’il faut être voyant, se faire voyant. Etc. Ineffable torture où il&#13;
+a besoin de toute la foi, de toute la force surhumaine, où il devient entre tous le&#13;
+grand malade, le grand criminel, le grand maudit... Car il arrive à l’ inconnu!&#13;
+Puisqu’il a cultivé son âme, deja riche, plus qu’aucun !..  Qu’il crève dans son&#13;
+bondissement par les choses inouïes et         innommables : viendront&#13;
+d’autres horribles travailleurs; il commenceront par les horizons où l’autre &#13;
+s’est affaissé !"_ È una lunga citazione; ma ci voleva. Sono, ripeto, da due lettere&#13;
+del 13 maggio e del 15 maggio ‘71.&#13;
+Incomincia, com’è naturale, con l’ironia: Io mi devo alla Società. Questo spirito d’a-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

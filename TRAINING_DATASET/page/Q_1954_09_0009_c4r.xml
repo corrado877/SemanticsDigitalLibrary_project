@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:14:13.262+02:00</Created>
+        <LastChange>2024-06-21T09:56:04.266+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326030" pageNr="79" tsid="175602723" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=SAPDQOFTFKHVKXBDMSVRQZVV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IAZUITEINUJACVYHNRPVZRCU" imageId="54294231"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_09_0009_c4r.jpg" imageWidth="1798" imageHeight="2383" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746072569" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1713377202467_79"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1713377202467_79" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="174,300 243,300 243,360 174,360"/>
+            <TextLine id="line_1713377218091_84" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:left;}">
+                <Coords points="183,303 230,303 230,353 183,353"/>
+                <Baseline points="183,348 230,348"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="153,392 153,1992 1619,1992 1619,392"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="161,474 231,470 302,471 373,470 444,470 515,468 586,466 657,464 728,464 799,462 870,463 940,461 1011,460 1082,459 1153,456 1224,456 1295,452 1366,450 1437,446 1508,444 1579,444 1579,392 1508,392 1437,394 1366,398 1295,400 1224,404 1153,404 1082,407 1011,408 940,409 870,411 799,410 728,412 657,412 586,414 515,416 444,418 373,418 302,419 231,418 161,422"/>
+                <Baseline points="161,457 231,453 302,454 373,453 444,453 515,451 586,449 657,447 728,447 799,445 870,446 940,444 1011,443 1082,442 1153,439 1224,439 1295,435 1366,433 1437,429 1508,427 1579,427"/>
+                <TextEquiv>
+                    <Unicode>ro e il bianco del tempo sereno. Col naso in aria, e la fantasia che prende la rincorsa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="153,560 224,560 296,554 368,551 439,548 511,546 583,543 654,540 726,540 798,538 870,540 941,540 1013,536 1085,535 1156,533 1228,532 1300,528 1371,526 1443,526 1515,526 1587,532 1587,480 1515,474 1443,474 1371,474 1300,476 1228,480 1156,481 1085,483 1013,484 941,488 870,488 798,486 726,488 654,488 583,491 511,494 439,496 368,499 296,502 224,508 153,508"/>
+                <Baseline points="153,543 224,543 296,537 368,534 439,531 511,529 583,526 654,523 726,523 798,521 870,523 941,523 1013,519 1085,518 1156,516 1228,515 1300,511 1371,509 1443,509 1515,509 1587,515"/>
+                <TextEquiv>
+                    <Unicode>dal presente verso il mondo dell’infanzia (dove il vero è sempre un poco favola),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="167,632 239,632 311,629 383,626 455,626 527,622 599,620 671,617 743,616 815,616 888,612 960,611 1032,610 1104,608 1176,607 1248,606 1320,602 1392,600 1464,599 1536,601 1609,598 1609,546 1536,549 1464,547 1392,548 1320,550 1248,554 1176,555 1104,556 1032,558 960,559 888,560 815,564 743,564 671,565 599,568 527,570 455,574 383,574 311,577 239,580 167,580"/>
+                <Baseline points="167,615 239,615 311,612 383,609 455,609 527,605 599,603 671,600 743,599 815,599 888,595 960,594 1032,593 1104,591 1176,590 1248,589 1320,585 1392,583 1464,582 1536,584 1609,581"/>
+                <TextEquiv>
+                    <Unicode>m’incammino per Strada Maggiore. Qui sono i palazzi, le nobili case delle famiglie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="167,712 238,706 310,706 381,703 453,704 524,703 596,700 667,696 739,693 810,690 882,688 953,684 1025,684 1096,681 1168,680 1239,682 1311,677 1382,674 1454,674 1525,672 1597,672 1597,620 1525,620 1454,622 1382,622 1311,625 1239,630 1168,628 1096,629 1025,632 953,632 882,636 810,638 739,641 667,644 596,648 524,651 453,652 381,651 310,654 238,654 167,660"/>
+                <Baseline points="167,695 238,689 310,689 381,686 453,687 524,686 596,683 667,679 739,676 810,673 882,671 953,667 1025,667 1096,664 1168,663 1239,665 1311,660 1382,657 1454,657 1525,655 1597,655"/>
+                <TextEquiv>
+                    <Unicode>bolognesi. Ma a fianco di essi, le stradine laterali, che sono la storia delle classi del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="169,782 240,778 311,780 382,779 453,776 524,774 595,772 666,768 737,767 808,766 880,763 951,763 1022,762 1093,759 1164,760 1235,758 1306,757 1377,752 1448,753 1519,750 1591,752 1591,701 1519,699 1448,702 1377,701 1306,706 1235,707 1164,709 1093,708 1022,711 951,712 880,712 808,715 737,716 666,717 595,721 524,723 453,725 382,728 311,729 240,727 169,731"/>
+                <Baseline points="169,765 240,761 311,763 382,762 453,759 524,757 595,755 666,751 737,750 808,749 880,746 951,746 1022,745 1093,742 1164,743 1235,741 1306,740 1377,735 1448,736 1519,733 1591,735"/>
+                <TextEquiv>
+                    <Unicode>lavoro, dei bottegai, degli artigiani. I luoghi dei piccoli traffici. Tutto il quartiere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="171,858 242,854 314,850 385,849 457,848 528,846 600,844 671,842 743,840 814,838 886,834 957,833 1029,832 1100,832 1172,830 1243,828 1315,826 1386,826 1458,827 1529,824 1601,828 1601,777 1529,773 1458,776 1386,775 1315,775 1243,777 1172,779 1100,781 1029,781 957,782 886,783 814,787 743,789 671,791 600,793 528,795 457,797 385,798 314,799 242,803 171,807"/>
+                <Baseline points="171,841 242,837 314,833 385,832 457,831 528,829 600,827 671,825 743,823 814,821 886,817 957,816 1029,815 1100,815 1172,813 1243,811 1315,809 1386,809 1458,810 1529,807 1601,811"/>
+                <TextEquiv>
+                    <Unicode>intorno alle Due Torri, il quartiere di Porta Ravegnana. Portato dal ricordo, mi trasformo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="171,934 243,934 315,932 387,930 459,923 532,922 604,919 676,918 748,916 820,914 893,912 965,911 1037,910 1109,908 1181,905 1254,904 1326,901 1398,898 1470,898 1542,901 1615,904 1615,852 1542,849 1470,846 1398,846 1326,849 1254,852 1181,853 1109,856 1037,858 965,859 893,860 820,862 748,864 676,866 604,867 532,870 459,871 387,878 315,880 243,882 171,882"/>
+                <Baseline points="171,917 243,917 315,915 387,913 459,906 532,905 604,902 676,901 748,899 820,897 893,895 965,894 1037,893 1109,891 1181,888 1254,887 1326,884 1398,881 1470,881 1542,884 1615,887"/>
+                <TextEquiv>
+                    <Unicode>in un ideale e vivente stradario. Ogni strada è viva dentro di me: Broglio dei Leprosetti, Vicolo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="177,1010 246,1006 316,1005 385,1002 455,1000 524,994 594,995 663,993 733,992 802,991 872,988 941,986 1011,983 1080,978 1150,978 1219,977 1289,976 1358,976 1428,977 1497,973 1567,972 1567,920 1497,921 1428,925 1358,924 1289,924 1219,925 1150,926 1080,926 1011,931 941,934 872,936 802,939 733,940 663,941 594,943 524,942 455,948 385,950 316,953 246,954 177,958"/>
+                <Baseline points="177,993 246,989 316,988 385,985 455,983 524,977 594,978 663,976 733,975 802,974 872,971 941,969 1011,966 1080,961 1150,961 1219,960 1289,959 1358,959 1428,960 1497,956 1567,955"/>
+                <TextEquiv>
+                    <Unicode>Fantuzzi (o Elefantuzzi), Caldarese, Corte Rialto. Diceva lo stradario: “Stalla, Canton,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="171,1088 243,1081 315,1080 387,1080 459,1078 531,1078 603,1072 675,1070 747,1071 819,1067 891,1064 963,1063 1035,1064 1107,1058 1179,1056 1251,1054 1323,1052 1395,1050 1467,1050 1539,1051 1611,1054 1611,1002 1539,999 1467,998 1395,998 1323,1000 1251,1002 1179,1004 1107,1006 1035,1012 963,1011 891,1012 819,1015 747,1019 675,1018 603,1020 531,1026 459,1026 387,1028 315,1028 243,1029 171,1036"/>
+                <Baseline points="171,1071 243,1064 315,1063 387,1063 459,1061 531,1061 603,1055 675,1053 747,1054 819,1050 891,1047 963,1046 1035,1047 1107,1041 1179,1039 1251,1037 1323,1035 1395,1033 1467,1033 1539,1034 1611,1037"/>
+                <TextEquiv>
+                    <Unicode>Portoncello, Scuderia, Stalla, Casa, Casa, Stallaggio.." Quanti mai cavalli avranno bat-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="167,1164 239,1158 312,1154 384,1152 457,1151 530,1149 602,1148 675,1145 747,1142 820,1142 893,1140 965,1138 1038,1135 1110,1132 1183,1132 1256,1128 1328,1126 1401,1126 1473,1129 1546,1127 1619,1134 1619,1082 1546,1075 1473,1077 1401,1074 1328,1074 1256,1076 1183,1080 1110,1080 1038,1083 965,1086 893,1088 820,1090 747,1090 675,1093 602,1096 530,1097 457,1099 384,1100 312,1102 239,1106 167,1112"/>
+                <Baseline points="167,1147 239,1141 312,1137 384,1135 457,1134 530,1132 602,1131 675,1128 747,1125 820,1125 893,1123 965,1121 1038,1118 1110,1115 1183,1115 1256,1111 1328,1109 1401,1109 1473,1112 1546,1110 1619,1117"/>
+                <TextEquiv>
+                    <Unicode>tuto, e ruote ripassato sull’antico selciato delle strade bolognesi. Intorno alle Due Torri, dentro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="175,1242 245,1231 315,1232 385,1230 455,1226 526,1224 596,1222 666,1221 736,1220 806,1218 877,1216 947,1212 1017,1211 1087,1209 1157,1206 1228,1205 1298,1204 1368,1204 1438,1202 1508,1201 1579,1202 1579,1151 1508,1150 1438,1151 1368,1153 1298,1153 1228,1154 1157,1155 1087,1158 1017,1160 947,1161 877,1165 806,1167 736,1169 666,1170 596,1171 526,1173 455,1175 385,1179 315,1181 245,1180 175,1191"/>
+                <Baseline points="175,1225 245,1214 315,1215 385,1213 455,1209 526,1207 596,1205 666,1204 736,1203 806,1201 877,1199 947,1195 1017,1194 1087,1192 1157,1189 1228,1188 1298,1187 1368,1187 1438,1185 1508,1184 1579,1185"/>
+                <TextEquiv>
+                    <Unicode>gli archi bassi del gotico settentrionale, erano sistemate le botteghe e bottegacce del centro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="179,1310 250,1306 321,1304 392,1306 464,1304 535,1300 606,1299 678,1297 749,1294 820,1294 892,1292 963,1290 1034,1288 1105,1286 1177,1282 1248,1282 1319,1281 1391,1278 1462,1276 1533,1276 1605,1280 1605,1229 1533,1225 1462,1225 1391,1227 1319,1230 1248,1231 1177,1231 1105,1235 1034,1237 963,1239 892,1241 820,1243 749,1243 678,1246 606,1248 535,1249 464,1253 392,1255 321,1253 250,1255 179,1259"/>
+                <Baseline points="179,1293 250,1289 321,1287 392,1289 464,1287 535,1283 606,1282 678,1280 749,1277 820,1277 892,1275 963,1273 1034,1271 1105,1269 1177,1265 1248,1265 1319,1264 1391,1261 1462,1259 1533,1259 1605,1263"/>
+                <TextEquiv>
+                    <Unicode>cittadino. In prima Piazza Ravegnana, dove adesso i nuovi architetti si apprestano a cam-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="177,1386 247,1383 317,1382 387,1380 458,1376 528,1376 598,1374 669,1374 739,1370 809,1370 880,1368 950,1368 1020,1366 1090,1363 1161,1360 1231,1358 1301,1354 1372,1354 1442,1356 1512,1353 1583,1354 1583,1302 1512,1301 1442,1304 1372,1302 1301,1302 1231,1306 1161,1308 1090,1311 1020,1314 950,1316 880,1316 809,1318 739,1318 669,1322 598,1322 528,1324 458,1324 387,1328 317,1330 247,1331 177,1334"/>
+                <Baseline points="177,1369 247,1366 317,1365 387,1363 458,1359 528,1359 598,1357 669,1357 739,1353 809,1353 880,1351 950,1351 1020,1349 1090,1346 1161,1343 1231,1341 1301,1337 1372,1337 1442,1339 1512,1336 1583,1337"/>
+                <TextEquiv>
+                    <Unicode>biar la faccia delle case, erano botteghe piccoline, dentro le porticelle a vetri: “Bottega di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="179,1462 205,1461 231,1458 257,1460 283,1458 310,1458 336,1458 362,1458 388,1457 414,1456 1596,1427 1596,1375 414,1404 388,1405 362,1406 336,1406 310,1406 283,1406 257,1408 231,1406 205,1409 179,1410"/>
+                <Baseline points="179,1445 205,1444 231,1441 257,1443 283,1441 310,1441 336,1441 362,1441 388,1440 414,1439 1599,1425"/>
+                <TextEquiv>
+                    <Unicode>archibugiere, Bottega di Merciaio, Bottega di Solfanaio, Drogheria Signor Sassi, Bottega</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="179,1537 249,1533 319,1531 390,1531 460,1534 531,1533 601,1527 671,1524 742,1521 812,1521 883,1518 953,1515 1023,1515 1094,1511 1164,1509 1235,1507 1305,1507 1375,1507 1446,1506 1516,1506 1587,1509 1587,1460 1516,1457 1446,1457 1375,1458 1305,1458 1235,1458 1164,1460 1094,1462 1023,1466 953,1466 883,1469 812,1472 742,1472 671,1475 601,1478 531,1484 460,1485 390,1482 319,1482 249,1484 179,1488"/>
+                <Baseline points="179,1521 249,1517 319,1515 390,1515 460,1518 531,1517 601,1511 671,1508 742,1505 812,1505 883,1502 953,1499 1023,1499 1094,1495 1164,1493 1235,1491 1305,1491 1375,1491 1446,1490 1516,1490 1587,1493"/>
+                <TextEquiv>
+                    <Unicode>di Falegname…" e lì sopra, l’architettura raffinata del Palazzo dell’Arte dei Drappieri,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="179,1611 250,1607 322,1605 393,1603 465,1601 537,1601 608,1598 680,1597 751,1596 823,1593 895,1593 966,1591 1038,1591 1109,1589 1181,1588 1253,1587 1324,1585 1396,1587 1467,1587 1539,1585 1611,1587 1611,1538 1539,1536 1467,1538 1396,1538 1324,1536 1253,1538 1181,1539 1109,1540 1038,1542 966,1542 895,1544 823,1544 751,1547 680,1548 608,1549 537,1552 465,1552 393,1554 322,1556 250,1558 179,1562"/>
+                <Baseline points="179,1595 250,1591 322,1589 393,1587 465,1585 537,1585 608,1582 680,1581 751,1580 823,1577 895,1577 966,1575 1038,1575 1109,1573 1181,1572 1253,1571 1324,1569 1396,1571 1467,1571 1539,1569 1611,1571"/>
+                <TextEquiv>
+                    <Unicode>detto volgarmente degli Strazzaroli. Vi scaricavano, dai carri, balle di stoffa, drappi, cotoni-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="183,1690 252,1689 321,1685 390,1682 459,1680 529,1679 598,1677 667,1676 736,1672 805,1672 875,1668 944,1668 1013,1667 1082,1666 1151,1666 1221,1663 1290,1660 1359,1662 1428,1662 1497,1655 1567,1658 1567,1606 1497,1603 1428,1610 1359,1610 1290,1608 1221,1611 1151,1614 1082,1614 1013,1615 944,1616 875,1616 805,1620 736,1620 667,1624 598,1625 529,1627 459,1628 390,1630 321,1633 252,1637 183,1638"/>
+                <Baseline points="183,1673 252,1672 321,1668 390,1665 459,1663 529,1662 598,1660 667,1659 736,1655 805,1655 875,1651 944,1651 1013,1650 1082,1649 1151,1649 1221,1646 1290,1643 1359,1645 1428,1645 1497,1638 1567,1641"/>
+                <TextEquiv>
+                    <Unicode>ne e lanerie. Poi ancora: “Bottega di Battirame; Battirame; Battiramaio…" Noi, ormai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="173,1764 242,1762 311,1760 380,1756 449,1754 518,1754 587,1752 656,1752 725,1750 794,1749 864,1746 933,1749 1002,1745 1071,1744 1140,1740 1209,1742 1278,1737 1347,1734 1416,1734 1485,1731 1555,1730 1555,1678 1485,1679 1416,1682 1347,1682 1278,1685 1209,1690 1140,1688 1071,1692 1002,1693 933,1697 864,1694 794,1697 725,1698 656,1700 587,1700 518,1702 449,1702 380,1704 311,1708 242,1710 173,1712"/>
+                <Baseline points="173,1747 242,1745 311,1743 380,1739 449,1737 518,1737 587,1735 656,1735 725,1733 794,1732 864,1729 933,1732 1002,1728 1071,1727 1140,1723 1209,1725 1278,1720 1347,1717 1416,1717 1485,1714 1555,1713"/>
+                <TextEquiv>
+                    <Unicode>vecchi, ce ne ricordiamo bene: calderine, pentole, mestoli, orci, stampi da forno, in rame</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="167,1844 238,1844 309,1840 381,1835 452,1834 524,1828 595,1827 666,1826 738,1823 809,1820 881,1820 952,1819 1023,1816 1095,1817 1166,1818 1238,1816 1309,1815 1380,1814 1452,1814 1523,1810 1595,1814 1595,1762 1523,1758 1452,1762 1380,1762 1309,1763 1238,1764 1166,1766 1095,1765 1023,1764 952,1767 881,1768 809,1768 738,1771 666,1774 595,1775 524,1776 452,1782 381,1783 309,1788 238,1792 167,1792"/>
+                <Baseline points="167,1827 238,1827 309,1823 381,1818 452,1817 524,1811 595,1810 666,1809 738,1806 809,1803 881,1803 952,1802 1023,1799 1095,1800 1166,1801 1238,1799 1309,1798 1380,1797 1452,1797 1523,1793 1595,1797"/>
+                <TextEquiv>
+                    <Unicode>rosso, tingevano di rosso, quando il sole vi batteva, tutta la piazza, e gli zoccoli, i basa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713357044304_783" custom="readingOrder {index:19;}">
+                <Coords points="165,1867 458,1860 459,1910 166,1917"/>
+                <Baseline points="166,1912 459,1905"/>
+                <TextEquiv>
+                    <Unicode>menti di macigno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;} add {offset:0; length:4;place:above;}">
+                <Coords points="405,1867 437,1867 469,1865 469,1835 437,1837 405,1837"/>
+                <Baseline points="405,1857 437,1857 469,1855"/>
+                <TextEquiv>
+                    <Unicode>nero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713357049724_788" custom="readingOrder {index:21;}">
+                <Coords points="478,1854 1298,1843 1299,1893 479,1904"/>
+                <Baseline points="479,1899 1299,1888"/>
+                <TextEquiv>
+                    <Unicode>delle Torri antiche. Risonavano di colpi le botteghe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="183,1992 254,1986 325,1984 397,1985 468,1984 540,1982 611,1980 682,1978 754,1976 825,1974 897,1972 968,1970 1039,1968 1111,1967 1182,1965 1254,1964 1325,1963 1396,1964 1468,1960 1539,1961 1611,1960 1611,1908 1539,1909 1468,1908 1396,1912 1325,1911 1254,1912 1182,1913 1111,1915 1039,1916 968,1918 897,1920 825,1922 754,1924 682,1926 611,1928 540,1930 468,1932 397,1933 325,1932 254,1934 183,1940"/>
+                <Baseline points="183,1975 254,1969 325,1967 397,1968 468,1967 540,1965 611,1963 682,1961 754,1959 825,1957 897,1955 968,1953 1039,1951 1111,1950 1182,1948 1254,1947 1325,1946 1396,1947 1468,1943 1539,1944 1611,1943"/>
+                <TextEquiv>
+                    <Unicode>Mercato di Mezzo apriva il suo corso, con le viuzze ai fianchi, dai nomi dei mestieri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ro e il bianco del tempo sereno. Col naso in aria, e la fantasia che prende la rincorsa&#13;
+dal presente verso il mondo dell’infanzia (dove il vero è sempre un poco favola),&#13;
+m’incammino per Strada Maggiore. Qui sono i palazzi, le nobili case delle famiglie&#13;
+bolognesi. Ma a fianco di essi, le stradine laterali, che sono la storia delle classi del&#13;
+lavoro, dei bottegai, degli artigiani. I luoghi dei piccoli traffici. Tutto il quartiere&#13;
+intorno alle Due Torri, il quartiere di Porta Ravegnana. Portato dal ricordo, mi trasformo&#13;
+in un ideale e vivente stradario. Ogni strada è viva dentro di me: Broglio dei Leprosetti, Vicolo&#13;
+Fantuzzi (o Elefantuzzi), Caldarese, Corte Rialto. Diceva lo stradario: “Stalla, Canton,&#13;
+Portoncello, Scuderia, Stalla, Casa, Casa, Stallaggio.." Quanti mai cavalli avranno bat-&#13;
+tuto, e ruote ripassato sull’antico selciato delle strade bolognesi. Intorno alle Due Torri, dentro&#13;
+gli archi bassi del gotico settentrionale, erano sistemate le botteghe e bottegacce del centro&#13;
+cittadino. In prima Piazza Ravegnana, dove adesso i nuovi architetti si apprestano a cam-&#13;
+biar la faccia delle case, erano botteghe piccoline, dentro le porticelle a vetri: “Bottega di&#13;
+archibugiere, Bottega di Merciaio, Bottega di Solfanaio, Drogheria Signor Sassi, Bottega&#13;
+di Falegname…" e lì sopra, l’architettura raffinata del Palazzo dell’Arte dei Drappieri,&#13;
+detto volgarmente degli Strazzaroli. Vi scaricavano, dai carri, balle di stoffa, drappi, cotoni-&#13;
+ne e lanerie. Poi ancora: “Bottega di Battirame; Battirame; Battiramaio…" Noi, ormai&#13;
+vecchi, ce ne ricordiamo bene: calderine, pentole, mestoli, orci, stampi da forno, in rame&#13;
+rosso, tingevano di rosso, quando il sole vi batteva, tutta la piazza, e gli zoccoli, i basa-&#13;
+menti di macigno&#13;
+nero&#13;
+delle Torri antiche. Risonavano di colpi le botteghe.&#13;
+Mercato di Mezzo apriva il suo corso, con le viuzze ai fianchi, dai nomi dei mestieri</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

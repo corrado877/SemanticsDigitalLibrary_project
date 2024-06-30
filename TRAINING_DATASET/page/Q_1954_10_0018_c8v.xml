@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:23:20.004+02:00</Created>
+        <LastChange>2024-06-21T10:06:23.594+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326039" pageNr="98" tsid="175603592" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=YIZMYOLXZBBYEUYWYNGXRFJV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MPLWXSUIUXKKPBYMCWXQROAT" imageId="54296175"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_10_0018_c8v.jpg" imageWidth="1798" imageHeight="2427" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746076433" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="173,318 173,2077 1649,2077 1649,318"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="197,553 268,555 340,549 411,549 483,549 555,551 626,551 698,549 769,550 841,550 913,549 984,549 1056,549 1127,546 1199,545 1271,545 1342,543 1414,543 1485,545 1557,545 1629,543 1629,482 1557,484 1485,484 1414,482 1342,482 1271,484 1199,484 1127,485 1056,488 984,488 913,488 841,489 769,489 698,488 626,490 555,490 483,488 411,488 340,488 268,494 197,492"/>
+                <Baseline points="197,533 268,535 340,529 411,529 483,529 555,531 626,531 698,529 769,530 841,530 913,529 984,529 1056,529 1127,526 1199,525 1271,525 1342,523 1414,523 1485,525 1557,525 1629,523"/>
+                <TextEquiv>
+                    <Unicode>di una realtà espressa in poesia e in azioni. La rincorsa, sul piano della poesia, è stata tan-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="185,628 255,627 326,626 396,624 467,624 538,624 608,622 679,624 749,623 820,622 891,624 961,624 1032,622 1102,619 1173,616 1244,616 1314,616 1385,616 1455,614 1526,616 1597,616 1597,558 1526,558 1455,556 1385,558 1314,558 1244,558 1173,558 1102,561 1032,564 961,566 891,566 820,564 749,565 679,566 608,564 538,566 467,566 396,566 326,568 255,569 185,570"/>
+                <Baseline points="185,609 255,608 326,607 396,605 467,605 538,605 608,603 679,605 749,604 820,603 891,605 961,605 1032,603 1102,600 1173,597 1244,597 1314,597 1385,597 1455,595 1526,597 1597,597"/>
+                <TextEquiv>
+                    <Unicode>to forte da portare questo “campione" fuori di pista, fuori dalle strade del “tour", verso una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="189,714 261,706 333,703 405,702 477,701 549,700 621,700 693,699 765,698 837,697 910,696 982,697 1054,696 1126,697 1198,695 1270,694 1342,692 1414,691 1486,694 1558,693 1631,694 1631,642 1558,641 1486,642 1414,639 1342,640 1270,642 1198,643 1126,645 1054,644 982,645 910,644 837,645 765,646 693,647 621,648 549,648 477,649 405,650 333,651 261,654 189,662"/>
+                <Baseline points="189,697 261,689 333,686 405,685 477,684 549,683 621,683 693,682 765,681 837,680 910,679 982,680 1054,679 1126,680 1198,678 1270,677 1342,675 1414,674 1486,677 1558,676 1631,677"/>
+                <TextEquiv>
+                    <Unicode>pista e una strada dove gli altri uomini non possono più inseguirlo... O un disdegno, un’irrisione di-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="173,776 245,778 318,778 391,775 464,776 537,774 610,770 683,771 756,770 829,771 902,772 974,772 1047,772 1120,770 1193,770 1266,768 1339,768 1412,769 1485,768 1558,768 1631,772 1631,720 1558,716 1485,716 1412,717 1339,716 1266,716 1193,718 1120,718 1047,720 974,720 902,720 829,719 756,718 683,719 610,718 537,722 464,724 391,723 318,726 245,726 173,724"/>
+                <Baseline points="173,759 245,761 318,761 391,758 464,759 537,757 610,753 683,754 756,753 829,754 902,755 974,755 1047,755 1120,753 1193,753 1266,751 1339,751 1412,752 1485,751 1558,751 1631,755"/>
+                <TextEquiv>
+                    <Unicode>sumana per i mezzi ordinari della “corsa". Vita e poesia egli le possedeva in pieno; le teneva in pugno.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="177,861 248,857 320,853 392,852 464,851 536,851 607,851 679,849 751,849 823,848 895,847 966,847 1038,847 1110,849 1182,847 1254,845 1325,847 1397,847 1469,847 1541,846 1613,845 1613,791 1541,792 1469,793 1397,793 1325,793 1254,791 1182,793 1110,795 1038,793 966,793 895,793 823,794 751,795 679,795 607,797 536,797 464,797 392,798 320,799 248,803 177,807"/>
+                <Baseline points="177,843 248,839 320,835 392,834 464,833 536,833 607,833 679,831 751,831 823,830 895,829 966,829 1038,829 1110,831 1182,829 1254,827 1325,829 1397,829 1469,829 1541,828 1613,827"/>
+                <TextEquiv>
+                    <Unicode>Il poeta, dopo due anni di “exploits", che nessuno dopo di lui ha eguagliato, continua e persegue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="177,929 248,923 319,922 390,921 461,921 532,920 603,921 674,919 745,919 816,917 887,916 958,916 1029,915 1100,915 1171,913 1242,913 1313,912 1384,911 1455,911 1526,911 1597,911 1597,881 1526,881 1455,881 1384,881 1313,882 1242,883 1171,883 1100,885 1029,885 958,886 887,886 816,887 745,889 674,889 603,891 532,890 461,891 390,891 319,892 248,893 177,899"/>
+                <Baseline points="177,919 248,913 319,912 390,911 461,911 532,910 603,911 674,909 745,909 816,907 887,906 958,906 1029,905 1100,905 1171,903 1242,903 1313,902 1384,901 1455,901 1526,901 1597,901"/>
+                <TextEquiv>
+                    <Unicode>la realizzazione del calcolo sul terreno e negli abissi, impraticabili, della vita, vita materiale.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715365953637_2278" custom="readingOrder {index:6;} del {offset:63; length:12;rend:overtype;}">
+                <Coords points="191,955 1270,942 1271,992 192,1005"/>
+                <Baseline points="192,1000 1271,987"/>
+                <TextEquiv>
+                    <Unicode>La vita di tutti gli uomini. Per questo egli “tace" come poeta imbrogliando</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715365942040_2273" custom="readingOrder {index:7;}">
+                <Coords points="1083,910 1262,908 1263,958 1084,960"/>
+                <Baseline points="1084,955 1263,953"/>
+                <TextEquiv>
+                    <Unicode>confondendo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715365939042_2268" custom="readingOrder {index:8;}">
+                <Coords points="1282,946 1632,946 1632,996 1282,996"/>
+                <Baseline points="1287,989 1632,991"/>
+                <TextEquiv>
+                    <Unicode> i ragionamenti dei poeti, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="195,1088 266,1086 337,1083 408,1081 479,1078 550,1076 621,1074 692,1074 763,1076 834,1074 906,1075 977,1074 1048,1076 1119,1074 1190,1074 1261,1072 1332,1072 1403,1072 1474,1072 1545,1072 1617,1076 1617,1024 1545,1020 1474,1020 1403,1020 1332,1020 1261,1020 1190,1022 1119,1022 1048,1024 977,1022 906,1023 834,1022 763,1024 692,1022 621,1022 550,1024 479,1026 408,1029 337,1031 266,1034 195,1036"/>
+                <Baseline points="195,1071 266,1069 337,1066 408,1064 479,1061 550,1059 621,1057 692,1057 763,1059 834,1057 906,1058 977,1057 1048,1059 1119,1057 1190,1057 1261,1055 1332,1055 1403,1055 1474,1055 1545,1055 1617,1059"/>
+                <TextEquiv>
+                    <Unicode>già suoi compagni; e s’avventura a capofitto, spavaldo, eroico senza eroismo, in quel terreno e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="177,1165 248,1164 319,1162 390,1161 461,1159 532,1155 603,1155 674,1155 745,1153 816,1153 887,1153 958,1151 1029,1152 1100,1153 1171,1151 1242,1153 1313,1154 1384,1153 1455,1153 1526,1153 1623,1153 1623,1092 1526,1092 1455,1092 1384,1092 1313,1093 1242,1092 1171,1090 1100,1092 1029,1091 958,1090 887,1092 816,1092 745,1092 674,1094 603,1094 532,1094 461,1098 390,1100 319,1101 248,1103 177,1104"/>
+                <Baseline points="177,1145 248,1144 319,1142 390,1141 461,1139 532,1135 603,1135 674,1135 745,1133 816,1133 887,1133 958,1131 1029,1132 1100,1133 1171,1131 1242,1133 1313,1134 1384,1133 1455,1133 1526,1133 1598,1134"/>
+                <TextEquiv>
+                    <Unicode>in quegli abissi. I suoi mezzi espressivi di vita sono, allora: lavoro, fatica, commercio, guadagno,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;} del {offset:71; length:4;rend:overtype;} gap {offset:71; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="189,1235 261,1234 333,1233 405,1232 478,1231 550,1230 622,1231 695,1229 767,1230 839,1229 912,1228 984,1227 1056,1225 1128,1227 1201,1226 1273,1227 1345,1226 1418,1227 1490,1225 1562,1225 1635,1231 1635,1177 1562,1171 1490,1171 1418,1173 1345,1172 1273,1173 1201,1172 1128,1173 1056,1171 984,1173 912,1174 839,1175 767,1176 695,1175 622,1177 550,1176 478,1177 405,1178 333,1179 261,1180 189,1181"/>
+                <Baseline points="189,1217 261,1216 333,1215 405,1214 478,1213 550,1212 622,1213 695,1211 767,1212 839,1211 912,1210 984,1209 1056,1207 1128,1209 1201,1208 1273,1209 1345,1208 1418,1209 1490,1207 1562,1207 1635,1213"/>
+                <TextEquiv>
+                    <Unicode>consumo delle risorse fisiche. In questa seconda parte dell’“opera", è      più difficile capire la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="195,1311 267,1308 339,1306 412,1305 484,1306 557,1305 629,1306 701,1305 774,1305 846,1305 919,1301 991,1300 1063,1299 1136,1299 1208,1299 1281,1299 1353,1301 1425,1299 1498,1301 1570,1303 1643,1307 1643,1253 1570,1249 1498,1247 1425,1245 1353,1247 1281,1245 1208,1245 1136,1245 1063,1245 991,1246 919,1247 846,1251 774,1251 701,1251 629,1252 557,1251 484,1252 412,1251 339,1252 267,1254 195,1257"/>
+                <Baseline points="195,1293 267,1290 339,1288 412,1287 484,1288 557,1287 629,1288 701,1287 774,1287 846,1287 919,1283 991,1282 1063,1281 1136,1281 1208,1281 1281,1281 1353,1283 1425,1281 1498,1283 1570,1285 1643,1289"/>
+                <TextEquiv>
+                    <Unicode>trama, i motivi, le riuscite, e i fallimenti. Agli altri, a noi, rimane l’esempio di un’opera-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="187,1390 259,1388 332,1385 404,1384 477,1379 549,1378 622,1378 694,1378 767,1378 839,1377 912,1376 984,1376 1057,1377 1129,1374 1202,1375 1274,1376 1347,1377 1419,1376 1492,1379 1564,1375 1637,1376 1637,1325 1564,1324 1492,1328 1419,1325 1347,1326 1274,1325 1202,1324 1129,1323 1057,1326 984,1325 912,1325 839,1326 767,1327 694,1327 622,1327 549,1327 477,1328 404,1333 332,1334 259,1337 187,1339"/>
+                <Baseline points="187,1373 259,1371 332,1368 404,1367 477,1362 549,1361 622,1361 694,1361 767,1361 839,1360 912,1359 984,1359 1057,1360 1129,1357 1202,1358 1274,1359 1347,1360 1419,1359 1492,1362 1564,1358 1637,1359"/>
+                <TextEquiv>
+                    <Unicode> zione, di un’azione morale, cioè umana, a giudicare le quali occorrono un coraggio, una liber-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="185,1468 257,1465 329,1462 401,1458 474,1456 546,1456 618,1456 691,1458 763,1459 835,1459 908,1456 980,1453 1052,1452 1124,1454 1197,1454 1269,1456 1341,1453 1414,1450 1486,1450 1558,1450 1631,1452 1631,1400 1558,1398 1486,1398 1414,1398 1341,1401 1269,1404 1197,1402 1124,1402 1052,1400 980,1401 908,1404 835,1407 763,1407 691,1406 618,1404 546,1404 474,1404 401,1406 329,1410 257,1413 185,1416"/>
+                <Baseline points="185,1451 257,1448 329,1445 401,1441 474,1439 546,1439 618,1439 691,1441 763,1442 835,1442 908,1439 980,1436 1052,1435 1124,1437 1197,1437 1269,1439 1341,1436 1414,1433 1486,1433 1558,1433 1631,1435"/>
+                <TextEquiv>
+                    <Unicode>tà, un concetto della dignità umana e poetica del tutto nuovi, e impraticati dalle vecchie ci-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="191,1541 263,1539 336,1537 409,1536 482,1535 555,1536 628,1535 701,1533 774,1535 847,1534 920,1529 992,1529 1065,1527 1138,1529 1211,1529 1284,1529 1357,1530 1430,1528 1503,1531 1576,1530 1649,1535 1649,1481 1576,1476 1503,1477 1430,1474 1357,1476 1284,1475 1211,1475 1138,1475 1065,1473 992,1475 920,1475 847,1480 774,1481 701,1479 628,1481 555,1482 482,1481 409,1482 336,1483 263,1485 191,1487"/>
+                <Baseline points="191,1523 263,1521 336,1519 409,1518 482,1517 555,1518 628,1517 701,1515 774,1517 847,1516 920,1511 992,1511 1065,1509 1138,1511 1211,1511 1284,1511 1357,1512 1430,1510 1503,1513 1576,1512 1649,1517"/>
+                <TextEquiv>
+                    <Unicode> viltà. Non senza un sentimento di timore e di dubbio, Mallarmè, un poeta, scrisse: come chi tira</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="191,1617 262,1615 333,1613 404,1613 475,1611 546,1611 617,1607 688,1607 759,1607 830,1607 901,1608 972,1606 1043,1605 1114,1605 1185,1607 1256,1607 1327,1603 1398,1603 1469,1604 1540,1604 1611,1603 1611,1549 1540,1550 1469,1550 1398,1549 1327,1549 1256,1553 1185,1553 1114,1551 1043,1551 972,1552 901,1554 830,1553 759,1553 688,1553 617,1553 546,1557 475,1557 404,1559 333,1559 262,1561 191,1563"/>
+                <Baseline points="191,1599 262,1597 333,1595 404,1595 475,1593 546,1593 617,1589 688,1589 759,1589 830,1589 901,1590 972,1588 1043,1587 1114,1587 1185,1589 1256,1589 1327,1585 1398,1585 1469,1586 1540,1586 1611,1585"/>
+                <TextEquiv>
+                    <Unicode>un lungo respiro, che non è soddisfazione: “... il s’opéra vivant de la poésie." Si operò, si </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="195,1689 228,1692 262,1692 296,1691 330,1691 364,1691 397,1689 431,1686 465,1685 499,1685 533,1684 566,1685 600,1685 634,1683 668,1683 701,1683 735,1683 769,1683 803,1684 837,1683 871,1685 871,1631 837,1629 803,1630 769,1629 735,1629 701,1629 668,1629 634,1629 600,1631 566,1631 533,1630 499,1631 465,1631 431,1632 397,1635 364,1637 330,1637 296,1637 262,1638 228,1638 195,1635"/>
+                <Baseline points="195,1671 228,1674 262,1674 296,1673 330,1673 364,1673 397,1671 431,1668 465,1667 499,1667 533,1666 566,1667 600,1667 634,1665 668,1665 701,1665 735,1665 769,1665 803,1666 837,1665 871,1667"/>
+                <TextEquiv>
+                    <Unicode>fece operare di questo oscuro male: la poesia. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="231,2077 258,2077 286,2076 314,2075 341,2075 369,2077 397,2077 425,2075 425,2014 397,2016 369,2016 341,2014 314,2014 286,2015 258,2016 231,2016"/>
+                <Baseline points="231,2057 258,2057 286,2056 314,2055 341,2055 369,2057 397,2057 425,2055"/>
+                <TextEquiv>
+                    <Unicode>12.7.1954.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>di una realtà espressa in poesia e in azioni. La rincorsa, sul piano della poesia, è stata tan-&#13;
+to forte da portare questo “campione" fuori di pista, fuori dalle strade del “tour", verso una&#13;
+pista e una strada dove gli altri uomini non possono più inseguirlo... O un disdegno, un’irrisione di-&#13;
+sumana per i mezzi ordinari della “corsa". Vita e poesia egli le possedeva in pieno; le teneva in pugno.&#13;
+Il poeta, dopo due anni di “exploits", che nessuno dopo di lui ha eguagliato, continua e persegue&#13;
+la realizzazione del calcolo sul terreno e negli abissi, impraticabili, della vita, vita materiale.&#13;
+La vita di tutti gli uomini. Per questo egli “tace" come poeta imbrogliando&#13;
+confondendo&#13;
+ i ragionamenti dei poeti, &#13;
+già suoi compagni; e s’avventura a capofitto, spavaldo, eroico senza eroismo, in quel terreno e&#13;
+in quegli abissi. I suoi mezzi espressivi di vita sono, allora: lavoro, fatica, commercio, guadagno,&#13;
+consumo delle risorse fisiche. In questa seconda parte dell’“opera", è      più difficile capire la&#13;
+trama, i motivi, le riuscite, e i fallimenti. Agli altri, a noi, rimane l’esempio di un’opera-&#13;
+ zione, di un’azione morale, cioè umana, a giudicare le quali occorrono un coraggio, una liber-&#13;
+tà, un concetto della dignità umana e poetica del tutto nuovi, e impraticati dalle vecchie ci-&#13;
+ viltà. Non senza un sentimento di timore e di dubbio, Mallarmè, un poeta, scrisse: come chi tira&#13;
+un lungo respiro, che non è soddisfazione: “... il s’opéra vivant de la poésie." Si operò, si &#13;
+fece operare di questo oscuro male: la poesia. &#13;
+12.7.1954.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

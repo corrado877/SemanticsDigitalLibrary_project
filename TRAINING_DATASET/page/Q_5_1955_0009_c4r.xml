@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:23:14.270+02:00</Created>
+        <LastChange>2024-06-21T10:10:23.730+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326054" pageNr="107" tsid="175603581" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=QKZMQIAQMPYHALWALDEEFCRQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XKGWDEBGJACAPSSERNOWRRQF" imageId="54314823"/>
+    </Metadata>
+    <Page imageFilename="Q_5_1955_0009_c4r.jpg" imageWidth="1798" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746078392" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="154,490 154,1057 1570,1057 1570,490"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="158,524 227,524 297,523 367,526 436,522 506,522 576,520 645,522 715,524 785,524 855,524 924,524 994,526 1064,526 1133,527 1203,528 1273,526 1342,525 1412,526 1482,530 1552,528 1552,498 1482,500 1412,496 1342,495 1273,496 1203,498 1133,497 1064,496 994,496 924,494 855,494 785,494 715,494 645,492 576,490 506,492 436,492 367,496 297,493 227,494 158,494"/>
+                <Baseline points="158,514 227,514 297,513 367,516 436,512 506,512 576,510 645,512 715,514 785,514 855,514 924,514 994,516 1064,516 1133,517 1203,518 1273,516 1342,515 1412,516 1482,520 1552,518"/>
+                <TextEquiv>
+                    <Unicode>ha rinnegato la felicità cromatica, ecc. Quanto lontano dalla potenza Dannier: perfino da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715533457034_143" custom="readingOrder {index:1;}">
+                <Coords points="170,550 1442,561 1442,611 170,600"/>
+                <Baseline points="170,595 1442,606"/>
+                <TextEquiv>
+                    <Unicode>Lautrec. Per cui si pensa che la sua immagine plastica, nata nel segno degli ultimi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:2;} add {offset:0; length:6;place:above;}">
+                <Coords points="1426,568 1451,567 1477,565 1502,564 1528,564 1528,534 1502,534 1477,535 1451,537 1426,538"/>
+                <Baseline points="1426,558 1451,557 1477,555 1502,554 1528,554"/>
+                <TextEquiv>
+                    <Unicode>grandi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715533459301_148" custom="readingOrder {index:3;}">
+                <Coords points="1454,557 1565,557 1565,607 1454,607"/>
+                <Baseline points="1454,602 1565,602"/>
+                <TextEquiv>
+                    <Unicode>grafici</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="164,677 233,676 303,677 373,677 442,676 512,676 582,675 651,675 721,674 791,675 861,677 930,677 1000,677 1070,677 1139,677 1209,677 1279,677 1348,675 1418,675 1488,673 1558,679 1558,646 1488,640 1418,642 1348,642 1279,644 1209,644 1139,644 1070,644 1000,644 930,644 861,644 791,642 721,641 651,642 582,642 512,643 442,643 373,644 303,644 233,643 164,644"/>
+                <Baseline points="164,666 233,665 303,666 373,666 442,665 512,665 582,664 651,664 721,663 791,664 861,666 930,666 1000,666 1070,666 1139,666 1209,666 1279,666 1348,664 1418,664 1488,662 1558,668"/>
+                <TextEquiv>
+                    <Unicode>alla Forain, alla ecc., si ricolleghi ancora ai modi, e all'ispirazione, all'incli-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:5;} del {offset:79; length:3;rend:overstrike;}">
+                <Coords points="170,746 237,746 305,749 372,750 440,750 508,750 575,751 643,750 711,752 778,748 846,750 914,752 981,750 1049,750 1117,749 1184,750 1252,748 1320,749 1387,751 1455,754 1568,755 1568,724 1479,693 1387,720 1320,718 1252,717 1184,719 1117,718 1049,719 981,719 914,721 846,719 778,717 711,721 643,719 575,720 508,719 440,719 372,719 305,718 237,715 170,715"/>
+                <Baseline points="170,736 237,736 305,739 372,740 440,740 508,740 575,741 643,740 711,742 778,738 846,740 914,742 981,740 1049,740 1117,739 1184,740 1252,738 1320,739 1387,741 1455,744 1570,757"/>
+                <TextEquiv>
+                    <Unicode>nazione castigatrice stilisticamente delle mode e delle estetiche più recenti.     Affi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715533503085_165" custom="readingOrder {index:6;}">
+                <Coords points="161,779 210,782 207,832 158,829"/>
+                <Baseline points="158,824 207,827"/>
+                <TextEquiv>
+                    <Unicode>ne,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:7;} add {offset:0; length:6;place:above;}">
+                <Coords points="172,790 207,790 242,792 242,761 207,759 172,759"/>
+                <Baseline points="172,780 207,780 242,782"/>
+                <TextEquiv>
+                    <Unicode>ancora</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715533512527_170" custom="readingOrder {index:8;} del {offset:22; length:4;rend:overstrike;}">
+                <Coords points="227,780 1571,782 1571,832 227,830"/>
+                <Baseline points="227,825 1571,827"/>
+                <TextEquiv>
+                    <Unicode>proprio così, a Gork,      ma con in più l'esperienza della pittura. Massacrante eserci-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715533521813_178" custom="readingOrder {index:9;}">
+                <Coords points="157,858 458,854 459,904 158,908"/>
+                <Baseline points="158,903 459,899"/>
+                <TextEquiv>
+                    <Unicode>zio. Sta di fatto che </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:10;}">
+                <Coords points="450,864 476,864 502,865 528,866 554,866 554,836 528,836 502,835 476,834 450,834"/>
+                <Baseline points="450,854 476,854 502,855 528,856 554,856"/>
+                <TextEquiv>
+                    <Unicode>Maccari</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715533525335_183" custom="readingOrder {index:11;}">
+                <Coords points="474,850 859,862 858,912 473,900"/>
+                <Baseline points="473,895 858,907"/>
+                <TextEquiv>
+                    <Unicode>è ripassato da Bologna,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:12;}">
+                <Coords points="794,862 819,864 845,865 871,866 896,866 922,866 948,865 974,862 974,832 948,835 922,836 896,836 871,836 845,835 819,834 794,832"/>
+                <Baseline points="794,852 819,854 845,855 871,856 896,856 922,856 948,855 974,852"/>
+                <TextEquiv>
+                    <Unicode>questi giorni,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715533529237_188" custom="readingOrder {index:13;}">
+                <Coords points="876,854 1536,864 1535,914 875,904"/>
+                <Baseline points="875,899 1535,909"/>
+                <TextEquiv>
+                    <Unicode>con la compagnia dei suoi cartoni, delle sue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715533540395_199" custom="readingOrder {index:14;}">
+                <Coords points="162,931 1365,936 1365,986 162,981"/>
+                <Baseline points="162,976 1365,981"/>
+                <TextEquiv>
+                    <Unicode>tele, disegni, incisioni. Ci siamo rivisti e rallegrati. - “Sempre in gamba, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:15;} add {offset:0; length:10;place:above;}">
+                <Coords points="1290,938 1318,937 1346,936 1374,936 1402,936 1430,936 1458,936 1458,906 1430,906 1402,906 1374,906 1346,906 1318,907 1290,908"/>
+                <Baseline points="1290,928 1318,927 1346,926 1374,926 1402,926 1430,926 1458,926"/>
+                <TextEquiv>
+                    <Unicode>giovanotto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715533544068_204" custom="readingOrder {index:16;}">
+                <Coords points="1380,932 1571,934 1571,984 1380,982"/>
+                <Baseline points="1380,977 1571,979"/>
+                <TextEquiv>
+                    <Unicode>! 98! clas-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:17;}">
+                <Coords points="154,1057 179,1057 205,1055 230,1055 256,1055 281,1055 307,1055 332,1055 419,1052 426,1001 339,1004 307,1022 304,1022 301,992 252,992 205,1022 179,1024 154,1024"/>
+                <Baseline points="154,1046 179,1046 205,1044 230,1044 256,1044 281,1044 307,1044 332,1044 358,1044"/>
+                <TextEquiv>
+                    <Unicode>se di ferro”. _</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ha rinnegato la felicità cromatica, ecc. Quanto lontano dalla potenza Dannier: perfino da&#13;
+Lautrec. Per cui si pensa che la sua immagine plastica, nata nel segno degli ultimi&#13;
+grandi&#13;
+grafici&#13;
+alla Forain, alla ecc., si ricolleghi ancora ai modi, e all'ispirazione, all'incli-&#13;
+nazione castigatrice stilisticamente delle mode e delle estetiche più recenti.     Affi-&#13;
+ne,&#13;
+ancora&#13;
+proprio così, a Gork,      ma con in più l'esperienza della pittura. Massacrante eserci-&#13;
+zio. Sta di fatto che &#13;
+Maccari&#13;
+è ripassato da Bologna,&#13;
+questi giorni,&#13;
+con la compagnia dei suoi cartoni, delle sue&#13;
+tele, disegni, incisioni. Ci siamo rivisti e rallegrati. - “Sempre in gamba, &#13;
+giovanotto&#13;
+! 98! clas-&#13;
+se di ferro”. _</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

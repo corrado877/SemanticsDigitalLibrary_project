@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:23:12.669+02:00</Created>
+        <LastChange>2024-06-21T10:09:04.103+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326051" pageNr="101" tsid="175603578" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=CQNHUFNDRMCXJHTKLMZKVSYC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QSSYHRNMURROISQZKOZDUVOD" imageId="54314800"/>
+    </Metadata>
+    <Page imageFilename="Q_5_1955_0001_piatto_ant_r.jpg" imageWidth="1798" imageHeight="2450" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746077034" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="590,725 590,1051 1196,1051 1196,725"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="684,809 710,806 736,805 762,803 788,801 815,803 841,803 867,803 893,803 919,803 946,803 972,803 998,801 1024,801 1050,801 1077,801 1103,801 1129,801 1155,801 1182,801 1182,725 1155,725 1129,725 1103,725 1077,725 1050,725 1024,725 998,725 972,727 946,727 919,727 893,727 867,727 841,727 815,727 788,725 762,727 736,729 710,730 684,733"/>
+                <Baseline points="684,784 710,781 736,780 762,778 788,776 815,778 841,778 867,778 893,778 919,778 946,778 972,778 998,776 1024,776 1050,776 1077,776 1103,776 1129,776 1155,776 1182,776"/>
+                <TextEquiv>
+                    <Unicode>La valigia delle Indie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="918,911 943,913 968,913 993,913 1019,913 1044,913 1069,913 1094,913 1120,913 1145,913 1170,912 1196,911 1196,835 1170,836 1145,837 1120,837 1094,837 1069,837 1044,837 1019,837 993,837 968,837 943,837 918,835"/>
+                <Baseline points="918,886 943,888 968,888 993,888 1019,888 1044,888 1069,888 1094,888 1120,888 1145,888 1170,887 1196,886"/>
+                <TextEquiv>
+                    <Unicode>Febbraio 1955.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} hi {offset:0; length:6;rend:underlined;}">
+                <Coords points="590,956 616,956 642,956 668,955 695,953 721,951 747,947 773,942 800,940 800,873 773,875 747,880 721,884 695,886 668,888 642,889 616,889 590,889"/>
+                <Baseline points="590,934 616,934 642,934 668,933 695,931 721,929 747,925 773,920 800,918"/>
+                <TextEquiv>
+                    <Unicode>Conrad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="606,1051 631,1049 657,1049 683,1049 709,1048 734,1047 760,1047 786,1047 812,1045 812,969 786,971 760,971 734,971 709,972 683,973 657,973 631,973 606,975"/>
+                <Baseline points="606,1026 631,1024 657,1024 683,1024 709,1023 734,1022 760,1022 786,1022 812,1020"/>
+                <TextEquiv>
+                    <Unicode>Maccari</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La valigia delle Indie&#13;
+Febbraio 1955.&#13;
+Conrad&#13;
+Maccari</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

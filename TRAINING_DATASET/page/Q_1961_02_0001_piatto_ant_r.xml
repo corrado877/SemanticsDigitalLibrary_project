@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:07:49.132+01:00</Created>
+        <LastChange>2024-06-20T11:21:28.379+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325495" pageNr="36" tsid="175603506" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=UCTDLTAABYWCJHXSTBXKSIRV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YZXCYKHWGOLMOQMVABOKZLWS" imageId="53903588"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_02_0001_piatto_ant_r.jpg" imageWidth="1798" imageHeight="2479" type="back-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746064178" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="659,535 659,805 1111,805 1111,535"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="659,590 684,587 709,587 734,588 759,589 784,592 809,590 834,592 859,592 885,592 910,593 935,594 960,596 985,596 1010,596 1035,597 1060,598 1085,598 1143,596 1143,544 1085,546 1060,546 1035,545 1010,544 985,544 960,544 935,542 910,541 885,540 859,540 834,540 809,538 784,540 759,537 734,536 709,535 684,535 659,538"/>
+                <Baseline points="659,573 684,570 709,570 734,571 759,572 784,575 809,573 834,575 859,575 885,575 910,576 935,577 960,579 985,579 1010,579 1035,580 1060,581 1085,581 1136,586"/>
+                <TextEquiv>
+                    <Unicode>Storia di Carlo Carrà</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="823,664 849,662 876,662 903,663 929,665 956,666 983,667 1009,668 1036,668 1063,670 1063,618 1036,616 1009,616 983,615 956,614 929,613 903,611 876,610 849,610 823,612"/>
+                <Baseline points="823,647 849,645 876,645 903,646 929,648 956,649 983,650 1009,651 1036,651 1063,653"/>
+                <TextEquiv>
+                    <Unicode>Gennaio 1961</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="833,801 860,801 887,803 914,804 941,805 941,738 914,737 887,736 860,734 833,734"/>
+                <Baseline points="833,779 860,779 887,781 914,782 941,783"/>
+                <TextEquiv>
+                    <Unicode>1961</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Storia di Carlo Carrà&#13;
+Gennaio 1961&#13;
+1961</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

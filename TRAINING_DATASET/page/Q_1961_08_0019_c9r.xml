@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:22:31.450+01:00</Created>
+        <LastChange>2024-06-20T12:07:58.365+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325997" pageNr="74" tsid="175603544" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=ILAATAIIMWECHETXLBKDZUCX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZQNZYHBETJVXAOPLIDOCUBVP" imageId="53903867"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_08_0019_c9r.jpg" imageWidth="1798" imageHeight="2471">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746071573" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718268503224_1226"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718268503224_1226" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="149,274 149,330 195,330 195,274"/>
+            <TextLine id="line_1718268503326_1229" custom="readingOrder {index:0;}">
+                <Coords points="158,274 195,281 186,330 149,323"/>
+                <Baseline points="150,318 187,325"/>
+                <TextEquiv>
+                    <Unicode>5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="132,400 133,2013 1592,2011 1591,398"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="139,480 210,477 282,474 353,475 425,476 496,476 568,474 639,472 711,470 782,470 854,470 925,472 997,472 1068,470 1140,468 1211,466 1283,465 1354,464 1426,464 1497,466 1569,464 1569,412 1497,414 1426,412 1354,412 1283,413 1211,414 1140,416 1068,418 997,420 925,420 854,418 782,418 711,418 639,420 568,422 496,424 425,424 353,423 282,422 210,425 139,428"/>
+                <Baseline points="139,463 210,460 282,457 353,458 425,459 496,459 568,457 639,455 711,453 782,453 854,453 925,455 997,455 1068,453 1140,451 1211,449 1283,448 1354,447 1426,447 1497,449 1569,447"/>
+                <TextEquiv>
+                    <Unicode>Parlando con gli amici usava riferirsi a concetti, a cui appoggiava la sua arte, e l'arte in genere;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="133,558 204,558 275,554 346,553 417,550 488,548 559,546 630,546 701,544 772,542 844,541 915,547 986,546 1057,547 1128,546 1199,544 1270,546 1341,544 1412,546 1483,545 1555,540 1555,488 1483,493 1412,494 1341,492 1270,494 1199,492 1128,494 1057,495 986,494 915,495 844,489 772,490 701,492 630,494 559,494 488,496 417,498 346,501 275,502 204,506 133,506"/>
+                <Baseline points="133,541 204,541 275,537 346,536 417,533 488,531 559,529 630,529 701,527 772,525 844,524 915,530 986,529 1057,530 1128,529 1199,527 1270,529 1341,527 1412,529 1483,528 1555,523"/>
+                <TextEquiv>
+                    <Unicode>Come questi: "La beau c'est l'équieté absolue"; "Les choses ne sont pas difficiles à faire,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="149,632 220,632 291,630 362,631 433,630 504,628 575,628 646,624 717,625 788,624 860,624 931,623 1002,622 1073,623 1144,620 1215,622 1286,619 1357,618 1428,620 1499,618 1571,620 1571,569 1499,567 1428,569 1357,567 1286,568 1215,571 1144,569 1073,572 1002,571 931,572 860,573 788,573 717,574 646,573 575,577 504,577 433,579 362,580 291,579 220,581 149,581"/>
+                <Baseline points="149,615 220,615 291,613 362,614 433,613 504,611 575,611 646,607 717,608 788,607 860,607 931,606 1002,605 1073,606 1144,603 1215,605 1286,602 1357,601 1428,603 1499,601 1571,603"/>
+                <TextEquiv>
+                    <Unicode>ce qui est difficile c'est de nous mettre en état de les faire"; "Quand nous ne som-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="147,702 217,706 287,705 357,704 427,704 497,699 567,701 637,700 707,698 777,699 847,698 917,699 987,696 1057,696 1127,694 1197,694 1267,692 1337,692 1407,692 1477,696 1547,698 1547,647 1477,645 1407,641 1337,641 1267,641 1197,643 1127,643 1057,645 987,645 917,648 847,647 777,648 707,647 637,649 567,650 497,648 427,653 357,653 287,654 217,655 147,651"/>
+                <Baseline points="147,685 217,689 287,688 357,687 427,687 497,682 567,684 637,683 707,681 777,682 847,681 917,682 987,679 1057,679 1127,677 1197,677 1267,675 1337,675 1407,675 1477,679 1547,681"/>
+                <TextEquiv>
+                    <Unicode>mes plus enfants, nous sommes déja morts". Oppure delle considerazioni di tecnica, che è</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="147,787 216,781 285,777 355,778 424,777 494,775 563,774 632,773 702,771 771,770 841,769 910,769 979,770 1049,769 1118,767 1188,767 1257,767 1326,767 1396,769 1465,772 1535,773 1535,725 1465,724 1396,721 1326,719 1257,719 1188,719 1118,719 1049,721 979,722 910,721 841,721 771,722 702,723 632,725 563,726 494,727 424,729 355,730 285,729 216,733 147,739"/>
+                <Baseline points="147,771 216,765 285,761 355,762 424,761 494,759 563,758 632,757 702,755 771,754 841,753 910,753 979,754 1049,753 1118,751 1188,751 1257,751 1326,751 1396,753 1465,756 1535,757"/>
+                <TextEquiv>
+                    <Unicode>poi l'arte stessa: "La taille directe c'est le vrai chemin vers la sculpture mais aussi le plus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="145,853 216,854 288,855 359,851 431,851 502,853 574,850 645,851 717,850 788,851 860,847 931,849 1003,847 1074,847 1146,845 1217,843 1289,842 1360,841 1432,841 1503,841 1575,845 1575,797 1503,793 1432,793 1360,793 1289,794 1217,795 1146,797 1074,799 1003,799 931,801 860,799 788,803 717,802 645,803 574,802 502,805 431,803 359,803 288,807 216,806 145,805"/>
+                <Baseline points="145,837 216,838 288,839 359,835 431,835 502,837 574,834 645,835 717,834 788,835 860,831 931,833 1003,831 1074,831 1146,829 1217,827 1289,826 1360,825 1432,825 1503,825 1575,829"/>
+                <TextEquiv>
+                    <Unicode>mauvais, pour ceux qui ne souvent pas marcher. Et à la fin, taille directe on indirecte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="153,932 224,930 296,930 368,930 439,929 511,928 583,928 654,928 726,928 798,927 870,928 941,923 1013,925 1085,924 1156,922 1228,920 1300,920 1371,920 1443,922 1515,920 1587,932 1587,880 1515,868 1443,870 1371,868 1300,868 1228,868 1156,870 1085,872 1013,873 941,871 870,876 798,875 726,876 654,876 583,876 511,876 439,877 368,878 296,878 224,878 153,880"/>
+                <Baseline points="153,915 224,913 296,913 368,913 439,912 511,911 583,911 654,911 726,911 798,910 870,911 941,906 1013,908 1085,907 1156,905 1228,903 1300,903 1371,903 1443,905 1515,903 1587,915"/>
+                <TextEquiv>
+                    <Unicode>cela ne veut rein dire, c'est la chose faite qui compete!" E quella che è come una confu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="141,1010 212,1010 283,1008 355,1006 426,1006 498,1006 569,1004 640,1004 712,1001 783,1000 855,1000 926,999 997,996 1069,998 1140,997 1212,998 1283,996 1354,996 1426,994 1497,996 1569,996 1569,944 1497,944 1426,942 1354,944 1283,944 1212,946 1140,945 1069,946 997,944 926,947 855,948 783,948 712,949 640,952 569,952 498,954 426,954 355,954 283,956 212,958 141,958"/>
+                <Baseline points="141,993 212,993 283,991 355,989 426,989 498,989 569,987 640,987 712,984 783,983 855,983 926,982 997,979 1069,981 1140,980 1212,981 1283,979 1354,979 1426,977 1497,979 1569,979"/>
+                <TextEquiv>
+                    <Unicode>sione, una parola di verità, detta agli uomini: "C'est de la joie pure que je vous donne ". Dove</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="137,1082 208,1082 280,1080 352,1080 424,1079 496,1078 568,1076 640,1076 712,1076 784,1077 856,1078 927,1077 999,1076 1071,1074 1143,1074 1215,1074 1287,1075 1359,1074 1431,1072 1503,1073 1575,1078 1575,1027 1503,1022 1431,1021 1359,1023 1287,1024 1215,1023 1143,1023 1071,1023 999,1025 927,1026 856,1027 784,1026 712,1025 640,1025 568,1025 496,1027 424,1028 352,1029 280,1029 208,1031 137,1031"/>
+                <Baseline points="137,1065 208,1065 280,1063 352,1063 424,1062 496,1061 568,1059 640,1059 712,1059 784,1060 856,1061 927,1060 999,1059 1071,1057 1143,1057 1215,1057 1287,1058 1359,1057 1431,1055 1503,1056 1575,1061"/>
+                <TextEquiv>
+                    <Unicode>ritorna anche un pensiero di moralità religiosa, che si sprigiona dall'umile, profonda sostanza del-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718272356611_1807" custom="readingOrder {index:9;} hi {offset:60; length:5;rend:underline;}">
+                <Coords points="136,1102 1081,1098 1081,1148 136,1152"/>
+                <Baseline points="136,1147 1081,1143"/>
+                <TextEquiv>
+                    <Unicode>le cose reali. Tutto ritorna oggetto, materia raggiungibile collo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718272358977_1812" custom="readingOrder {index:10;} add {offset:0; length:6;place:above;}">
+                <Coords points="985,1060 1098,1056 1100,1106 987,1110"/>
+                <Baseline points="987,1105 1100,1101"/>
+                <TextEquiv>
+                    <Unicode>con lo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718272361209_1817" custom="readingOrder {index:11;}">
+                <Coords points="1094,1098 1482,1092 1483,1142 1095,1148"/>
+                <Baseline points="1095,1143 1483,1137"/>
+                <TextEquiv>
+                    <Unicode>lo spirito e con l'intelletto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:12;}">
+                <Coords points="159,1236 228,1234 298,1230 368,1230 438,1230 508,1228 577,1229 647,1229 717,1228 787,1228 857,1228 926,1226 996,1224 1066,1224 1136,1222 1206,1223 1275,1223 1345,1222 1415,1220 1485,1221 1555,1226 1555,1174 1485,1169 1415,1168 1345,1170 1275,1171 1206,1171 1136,1170 1066,1172 996,1172 926,1174 857,1176 787,1176 717,1176 647,1177 577,1177 508,1176 438,1178 368,1178 298,1178 228,1182 159,1184"/>
+                <Baseline points="159,1219 228,1217 298,1213 368,1213 438,1213 508,1211 577,1212 647,1212 717,1211 787,1211 857,1211 926,1209 996,1207 1066,1207 1136,1205 1206,1206 1275,1206 1345,1205 1415,1203 1485,1204 1555,1209"/>
+                <TextEquiv>
+                    <Unicode>Così i naturalisti del tempo galileano, e di quello seguente occupati, colla meditazione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:13;}">
+                <Coords points="145,1312 215,1306 286,1307 357,1304 428,1304 499,1305 570,1304 641,1305 712,1304 783,1300 854,1302 924,1300 995,1300 1066,1300 1137,1298 1208,1298 1279,1297 1350,1296 1421,1297 1492,1296 1563,1298 1563,1247 1492,1245 1421,1246 1350,1245 1279,1246 1208,1247 1137,1247 1066,1249 995,1249 924,1249 854,1251 783,1249 712,1253 641,1254 570,1253 499,1254 428,1253 357,1253 286,1256 215,1255 145,1261"/>
+                <Baseline points="145,1295 215,1289 286,1290 357,1287 428,1287 499,1288 570,1287 641,1288 712,1287 783,1283 854,1285 924,1283 995,1283 1066,1283 1137,1281 1208,1281 1279,1280 1350,1279 1421,1280 1492,1279 1563,1281"/>
+                <TextEquiv>
+                    <Unicode>protratta della mente, in calcoli e misure fondate nella realtà delle cose visibili: l'incanto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:14;}">
+                <Coords points="141,1382 211,1381 282,1380 352,1378 423,1378 494,1378 564,1378 635,1378 705,1377 776,1376 847,1374 917,1374 988,1374 1058,1374 1129,1374 1200,1374 1270,1373 1341,1374 1411,1375 1482,1378 1553,1378 1553,1327 1482,1327 1411,1324 1341,1323 1270,1322 1200,1323 1129,1323 1058,1323 988,1323 917,1323 847,1323 776,1325 705,1326 635,1327 564,1327 494,1327 423,1327 352,1327 282,1329 211,1330 141,1331"/>
+                <Baseline points="141,1365 211,1364 282,1363 352,1361 423,1361 494,1361 564,1361 635,1361 705,1360 776,1359 847,1357 917,1357 988,1357 1058,1357 1129,1357 1200,1357 1270,1356 1341,1357 1411,1358 1482,1361 1553,1361"/>
+                <TextEquiv>
+                    <Unicode>sottile, la sorta di illuminata suggestione che si trae dalle loro annotazioni, come apertura di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:15;}">
+                <Coords points="145,1460 216,1458 288,1458 359,1458 431,1458 503,1456 574,1457 646,1456 717,1454 789,1454 861,1452 932,1452 1004,1452 1075,1452 1147,1452 1219,1450 1290,1450 1362,1448 1433,1448 1505,1449 1577,1452 1577,1400 1505,1397 1433,1396 1362,1396 1290,1398 1219,1398 1147,1400 1075,1400 1004,1400 932,1400 861,1400 789,1402 717,1402 646,1404 574,1405 503,1404 431,1406 359,1406 288,1406 216,1406 145,1408"/>
+                <Baseline points="145,1443 216,1441 288,1441 359,1441 431,1441 503,1439 574,1440 646,1439 717,1437 789,1437 861,1435 932,1435 1004,1435 1075,1435 1147,1435 1219,1433 1290,1433 1362,1431 1433,1431 1505,1432 1577,1435"/>
+                <TextEquiv>
+                    <Unicode>infinita serenità e convinzione su di una prospettiva lunghissima della natura. Diceva e spie-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:16;}">
+                <Coords points="157,1542 228,1537 300,1532 372,1532 443,1530 515,1530 587,1531 658,1530 730,1530 802,1531 874,1532 945,1528 1017,1528 1089,1528 1160,1527 1232,1524 1304,1524 1375,1524 1447,1524 1519,1525 1591,1530 1591,1478 1519,1473 1447,1472 1375,1472 1304,1472 1232,1472 1160,1475 1089,1476 1017,1476 945,1476 874,1480 802,1479 730,1478 658,1478 587,1479 515,1478 443,1478 372,1480 300,1480 228,1485 157,1490"/>
+                <Baseline points="157,1525 228,1520 300,1515 372,1515 443,1513 515,1513 587,1514 658,1513 730,1513 802,1514 874,1515 945,1511 1017,1511 1089,1511 1160,1510 1232,1507 1304,1507 1375,1507 1447,1507 1519,1508 1591,1513"/>
+                <TextEquiv>
+                    <Unicode>gava il modesto problema di meccanica della Selva galileana: "Perché quando la ruzzola gi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268510944_1234" custom="readingOrder {index:17;}">
+                <Coords points="148,1554 1560,1547 1560,1597 148,1604"/>
+                <Baseline points="148,1599 1560,1592"/>
+                <TextEquiv>
+                    <Unicode>rando velocemente in se stessa vien lasciata cadere, non va anche per aria innanzi, come fa poi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:18;}">
+                <Coords points="145,1698 215,1690 285,1688 355,1684 425,1683 496,1682 566,1682 636,1680 706,1682 776,1682 847,1683 917,1682 987,1682 1057,1681 1127,1682 1198,1678 1268,1678 1338,1676 1408,1676 1478,1676 1549,1676 1549,1624 1478,1624 1408,1624 1338,1624 1268,1626 1198,1626 1127,1630 1057,1629 987,1630 917,1630 847,1631 776,1630 706,1630 636,1628 566,1630 496,1630 425,1631 355,1632 285,1636 215,1638 145,1646"/>
+                <Baseline points="145,1681 215,1673 285,1671 355,1667 425,1666 496,1665 566,1665 636,1663 706,1665 776,1665 847,1666 917,1665 987,1665 1057,1664 1127,1665 1198,1661 1268,1661 1338,1659 1408,1659 1478,1659 1549,1659"/>
+                <TextEquiv>
+                    <Unicode>quando è in terra? - Perché avendo aria di sopra e di sotto, né queste parti né quelle hanno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:19;}">
+                <Coords points="133,1768 206,1764 279,1762 352,1762 425,1760 499,1761 572,1758 645,1759 718,1760 791,1760 865,1762 938,1762 1011,1760 1084,1756 1157,1757 1231,1756 1304,1754 1377,1753 1450,1752 1523,1750 1597,1754 1597,1702 1523,1698 1450,1700 1377,1701 1304,1702 1231,1704 1157,1705 1084,1704 1011,1708 938,1710 865,1710 791,1708 718,1708 645,1707 572,1706 499,1709 425,1708 352,1710 279,1710 206,1712 133,1716"/>
+                <Baseline points="133,1751 206,1747 279,1745 352,1745 425,1743 499,1744 572,1741 645,1742 718,1743 791,1743 865,1745 938,1745 1011,1743 1084,1739 1157,1740 1231,1739 1304,1737 1377,1736 1450,1735 1523,1733 1597,1737"/>
+                <TextEquiv>
+                    <Unicode>dove attaccarsi, e non avendo occasione di andar più innanzi che indietro, cade a piombo".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268515943_1239" custom="readingOrder {index:20;}">
+                <Coords points="196,1947 420,1936 422,1986 198,1997"/>
+                <Baseline points="198,1992 422,1981"/>
+                <TextEquiv>
+                    <Unicode>16.5.1961.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Parlando con gli amici usava riferirsi a concetti, a cui appoggiava la sua arte, e l'arte in genere;&#13;
+Come questi: "La beau c'est l'équieté absolue"; "Les choses ne sont pas difficiles à faire,&#13;
+ce qui est difficile c'est de nous mettre en état de les faire"; "Quand nous ne som-&#13;
+mes plus enfants, nous sommes déja morts". Oppure delle considerazioni di tecnica, che è&#13;
+poi l'arte stessa: "La taille directe c'est le vrai chemin vers la sculpture mais aussi le plus&#13;
+mauvais, pour ceux qui ne souvent pas marcher. Et à la fin, taille directe on indirecte&#13;
+cela ne veut rein dire, c'est la chose faite qui compete!" E quella che è come una confu-&#13;
+sione, una parola di verità, detta agli uomini: "C'est de la joie pure que je vous donne ". Dove&#13;
+ritorna anche un pensiero di moralità religiosa, che si sprigiona dall'umile, profonda sostanza del-&#13;
+le cose reali. Tutto ritorna oggetto, materia raggiungibile collo&#13;
+con lo&#13;
+lo spirito e con l'intelletto.&#13;
+Così i naturalisti del tempo galileano, e di quello seguente occupati, colla meditazione&#13;
+protratta della mente, in calcoli e misure fondate nella realtà delle cose visibili: l'incanto&#13;
+sottile, la sorta di illuminata suggestione che si trae dalle loro annotazioni, come apertura di&#13;
+infinita serenità e convinzione su di una prospettiva lunghissima della natura. Diceva e spie-&#13;
+gava il modesto problema di meccanica della Selva galileana: "Perché quando la ruzzola gi-&#13;
+rando velocemente in se stessa vien lasciata cadere, non va anche per aria innanzi, come fa poi&#13;
+quando è in terra? - Perché avendo aria di sopra e di sotto, né queste parti né quelle hanno&#13;
+dove attaccarsi, e non avendo occasione di andar più innanzi che indietro, cade a piombo".&#13;
+16.5.1961.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

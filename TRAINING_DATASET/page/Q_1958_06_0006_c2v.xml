@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:22:27.038+01:00</Created>
+        <LastChange>2024-06-20T10:58:57.503+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325436" pageNr="13" tsid="175603475" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=INXXOTZTQBRBZZAXBXQIJNKR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EFNQSKUGTNMTJROOIAJURYQD" imageId="53899339"/>
+    </Metadata>
+    <Page imageFilename="Q_1958_06_0006_c2v.jpg" imageWidth="1798" imageHeight="2539" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746059558" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1715191266461_437"/>
+                <RegionRefIndexed index="2" regionRef="region_1715190933122_348"/>
+                <RegionRefIndexed index="3" regionRef="region_1715191094577_387"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="201,300 214,2179 1712,2175 1668,269"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1715191266461_437" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="1554,279 1645,279 1645,356 1554,356"/>
+            <TextLine id="line_1715191240979_427" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:left;}">
+                <Coords points="1581,289 1629,290 1628,340 1580,339"/>
+                <Baseline points="1580,334 1628,335"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1715190933122_348" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="214,442 1643,442 1644,1164 215,1164"/>
+            <TextLine id="line_1715193238741_478" custom="readingOrder {index:0;}">
+                <Coords points="221,506 354,501 416,501 625,495 739,491 814,491 921,491 948,491 948,541 921,541 814,541 740,541 626,545 417,551 355,551 223,556"/>
+                <Baseline points="223,551 355,546 417,546 626,540 740,536 814,536 921,536 948,536"/>
+                <TextEquiv>
+                    <Unicode>Cavatolo di colpo, lo guarda con aria appena </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;} add {offset:0; length:9;place:above;}">
+                <Coords points="939,497 968,495 998,495 1027,495 1057,493 1087,493 1087,457 1057,457 1027,459 998,459 968,459 939,461"/>
+                <Baseline points="939,485 968,483 998,483 1027,483 1057,481 1087,481"/>
+                <TextEquiv>
+                    <Unicode>scontrosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715193297830_494" custom="readingOrder {index:2;} del {offset:0; length:6;rend:overstrike;}">
+                <Coords points="948,498 1091,492 1178,492 1252,491 1334,488 1415,489 1482,488 1538,488 1617,483 1620,533 1539,538 1482,538 1415,539 1335,538 1253,541 1178,542 1092,542 950,548"/>
+                <Baseline points="956,537 1096,537 1182,537 1257,536 1339,533 1419,534 1486,533 1543,533 1624,528"/>
+                <TextEquiv>
+                    <Unicode>offesa, impaziente. Lo butta, non per terra,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="217,634 286,630 356,628 426,626 496,622 566,622 635,621 705,618 775,618 845,618 915,618 984,616 1054,616 1124,614 1194,612 1264,612 1333,613 1403,612 1473,613 1543,612 1613,614 1613,581 1543,579 1473,580 1403,579 1333,580 1264,579 1194,579 1124,581 1054,583 984,583 915,585 845,585 775,585 705,585 635,588 566,589 496,589 426,593 356,595 286,597 217,601"/>
+                <Baseline points="217,623 286,619 356,617 426,615 496,611 566,611 635,610 705,607 775,607 845,607 915,607 984,605 1054,605 1124,603 1194,601 1264,601 1333,602 1403,601 1473,602 1543,601 1613,603"/>
+                <TextEquiv>
+                    <Unicode>dietro la stufa, dove nonno lo può per ora percuotere. Non persuaso di quella veste, che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715362785118_8" custom="readingOrder {index:4;} del {offset:55; length:5;rend:overstrike;} gap {offset:55; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="224,653 270,653 337,650 482,648 584,647 685,643 788,645 922,642 1020,636 1058,653 1233,662 1229,689 1044,687 1012,690 923,692 788,695 685,693 585,697 483,698 338,700 271,703 224,703"/>
+                <Baseline points="224,698 271,698 338,695 483,693 585,692 685,688 788,690 923,687 1012,685 1044,682 1217,682"/>
+                <TextEquiv>
+                    <Unicode>non si conosceva, cammina avanti e indietro, mentre la      </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;} add {offset:0; length:5;place:above;}">
+                <Coords points="1099,648 1135,649 1156,652 1191,654 1225,655 1222,631 1183,629 1157,628 1131,627 1105,627"/>
+                <Baseline points="1105,647 1131,647 1157,648 1183,649 1221,651"/>
+                <TextEquiv>
+                    <Unicode>madre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715362935302_39" custom="readingOrder {index:6;}">
+                <Coords points="1244,637 1294,637 1398,633 1501,634 1541,634 1612,634 1626,634 1626,684 1612,684 1541,684 1501,684 1399,683 1295,687 1244,687"/>
+                <Baseline points="1252,679 1303,679 1399,678 1501,679 1541,679 1612,679 1626,679"/>
+                <TextEquiv>
+                    <Unicode>, la nonna, le zie commen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:7;}">
+                <Coords points="229,787 299,785 369,784 440,781 510,778 581,779 651,775 721,774 792,773 862,773 933,772 1003,771 1073,771 1144,771 1214,769 1285,769 1355,769 1425,767 1496,766 1566,767 1637,767 1637,718 1566,718 1496,717 1425,718 1355,720 1285,720 1214,720 1144,722 1073,722 1003,722 933,723 862,724 792,724 721,725 651,726 581,730 510,729 440,732 369,735 299,736 229,738"/>
+                <Baseline points="229,771 299,769 369,768 440,765 510,762 581,763 651,759 721,758 792,757 862,757 933,756 1003,755 1073,755 1144,755 1214,753 1285,753 1355,753 1425,751 1496,750 1566,751 1637,751"/>
+                <TextEquiv>
+                    <Unicode>tano e ridono. Si ferma davanti al cugino, che come sola concessione alla festa dei grandi, ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715528999722_16" custom="readingOrder {index:8;} del {offset:35; length:6;rend:overstrike;}">
+                <Coords points="222,798 323,797 447,796 549,796 607,792 735,805 839,807 894,805 888,846 835,845 745,843 608,842 551,846 447,846 323,847 222,848"/>
+                <Baseline points="222,843 323,842 447,841 551,841 608,837 745,838 875,841 898,841"/>
+                <TextEquiv>
+                    <Unicode>accettato di portare il cappellino stando</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:9;} add {offset:0; length:9;place:above;}">
+                <Coords points="739,800 770,800 799,796 923,796 929,774 804,781 771,781 737,782"/>
+                <Baseline points="739,799 771,795 804,795 911,799"/>
+                <TextEquiv>
+                    <Unicode>romantico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715529101610_31" custom="readingOrder {index:10;}">
+                <Coords points="896,805 970,804 1105,790 1241,790 1324,787 1437,787 1531,787 1626,782 1628,832 1532,837 1437,837 1325,837 1242,840 1105,840 970,840 896,842"/>
+                <Baseline points="896,835 970,835 1105,835 1242,835 1325,832 1437,832 1532,832 1628,827"/>
+                <TextEquiv>
+                    <Unicode>carta: e, fissandolo a lungo, ha l'aria di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715529282619_44" custom="readingOrder {index:11;} del {offset:20; length:4;rend:overstrike;} gap {offset:20; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="222,881 333,877 410,877 473,877 527,895 616,897 617,925 542,927 473,927 410,927 334,927 224,931"/>
+                <Baseline points="224,926 334,922 410,922 473,922 542,922 617,920"/>
+                <TextEquiv>
+                    <Unicode>giudicare da quello     </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:12;} add {offset:0; length:5;place:above;}">
+                <Coords points="533,893 559,894 587,890 610,891 611,863 585,863 559,866 533,867"/>
+                <Baseline points="533,887 559,886 585,883 611,883"/>
+                <TextEquiv>
+                    <Unicode>della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715529340466_55" custom="readingOrder {index:13;}">
+                <Coords points="624,874 743,872 883,872 978,867 1113,867 1234,861 1282,861 1375,867 1457,864 1530,863 1592,863 1634,860 1637,910 1594,913 1530,913 1458,914 1374,917 1281,911 1235,911 1114,917 979,917 884,922 743,922 624,924"/>
+                <Baseline points="627,915 743,917 884,917 979,912 1114,912 1235,906 1281,906 1374,912 1458,909 1530,908 1594,908 1637,905"/>
+                <TextEquiv>
+                    <Unicode>parte che egli sta giuocando. Poi, si vede nella specchiera. Guar-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:14;}">
+                <Coords points="235,1009 303,1010 371,1009 440,1007 508,1007 577,1005 645,1005 713,1003 782,1001 850,1001 919,1001 987,1000 1055,1000 1124,999 1192,997 1261,996 1329,997 1397,997 1466,998 1534,996 1603,997 1603,949 1534,948 1466,950 1397,949 1329,949 1261,948 1192,949 1124,951 1055,952 987,952 919,953 850,953 782,953 713,955 645,957 577,957 508,959 440,959 371,961 303,962 235,961"/>
+                <Baseline points="235,993 303,994 371,993 440,991 508,991 577,989 645,989 713,987 782,985 850,985 919,985 987,984 1055,984 1124,983 1192,981 1261,980 1329,981 1397,981 1466,982 1534,980 1603,981"/>
+                <TextEquiv>
+                    <Unicode>da, incerto, scontento. Prende la via, sparisce non so dove. La giovane mamma, fra le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:15;}">
+                <Coords points="229,1089 298,1086 368,1084 437,1081 507,1083 577,1081 646,1079 716,1079 785,1077 855,1077 925,1077 994,1075 1064,1073 1133,1073 1203,1071 1273,1071 1342,1073 1412,1072 1481,1071 1551,1069 1621,1067 1621,1018 1551,1020 1481,1022 1412,1023 1342,1024 1273,1022 1203,1022 1133,1024 1064,1024 994,1026 925,1028 855,1028 785,1028 716,1030 646,1030 577,1032 507,1034 437,1032 368,1035 298,1037 229,1040"/>
+                <Baseline points="229,1073 298,1070 368,1068 437,1065 507,1067 577,1065 646,1063 716,1063 785,1061 855,1061 925,1061 994,1059 1064,1057 1133,1057 1203,1055 1273,1055 1342,1057 1412,1056 1481,1055 1551,1053 1621,1051"/>
+                <TextEquiv>
+                    <Unicode>sorelle, stringe in mano la maschera, che neppure ha provato di mettere in viso al suo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:16;}">
+                <Coords points="233,1169 259,1166 285,1163 312,1163 338,1163 364,1163 391,1162 417,1161 443,1161 470,1161 496,1161 523,1161 523,1112 496,1112 470,1112 443,1112 417,1112 391,1113 364,1114 338,1114 312,1114 285,1114 259,1117 233,1120"/>
+                <Baseline points="233,1153 259,1150 285,1147 312,1147 338,1147 364,1147 391,1146 417,1145 443,1145 470,1145 496,1145 523,1145"/>
+                <TextEquiv>
+                    <Unicode>piccino. Ridono.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Cavatolo di colpo, lo guarda con aria appena &#13;
+scontrosa&#13;
+offesa, impaziente. Lo butta, non per terra,&#13;
+dietro la stufa, dove nonno lo può per ora percuotere. Non persuaso di quella veste, che&#13;
+non si conosceva, cammina avanti e indietro, mentre la      &#13;
+madre&#13;
+, la nonna, le zie commen-&#13;
+tano e ridono. Si ferma davanti al cugino, che come sola concessione alla festa dei grandi, ha&#13;
+accettato di portare il cappellino stando&#13;
+romantico&#13;
+carta: e, fissandolo a lungo, ha l'aria di&#13;
+giudicare da quello     &#13;
+della&#13;
+parte che egli sta giuocando. Poi, si vede nella specchiera. Guar-&#13;
+da, incerto, scontento. Prende la via, sparisce non so dove. La giovane mamma, fra le&#13;
+sorelle, stringe in mano la maschera, che neppure ha provato di mettere in viso al suo &#13;
+piccino. Ridono.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1715191094577_387" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="226,1188 1685,1171 1695,2081 232,2097"/>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:0;}">
+                <Coords points="253,1233 321,1233 390,1233 458,1233 527,1230 596,1229 664,1231 733,1225 801,1223 870,1223 939,1223 1007,1222 1076,1222 1144,1223 1213,1221 1282,1222 1350,1221 1419,1219 1487,1215 1556,1213 1625,1215 1625,1185 1556,1183 1487,1185 1419,1189 1350,1191 1282,1192 1213,1191 1144,1193 1076,1192 1007,1192 939,1193 870,1193 801,1193 733,1195 664,1201 596,1199 527,1200 458,1203 390,1203 321,1203 253,1203"/>
+                <Baseline points="253,1223 321,1223 390,1223 458,1223 527,1220 596,1219 664,1221 733,1215 801,1213 870,1213 939,1213 1007,1212 1076,1212 1144,1213 1213,1211 1282,1212 1350,1211 1419,1209 1487,1205 1556,1203 1625,1205"/>
+                <TextEquiv>
+                    <Unicode>Ed ecco la bambina. L'ingresso nella stanza è festoso, denso di un'armonia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:1;} del {offset:77; length:5;rend:overstrike;} gap {offset:77; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="229,1315 298,1311 367,1307 437,1307 506,1305 576,1305 645,1303 714,1303 784,1301 853,1299 923,1299 992,1297 1061,1297 1131,1297 1200,1295 1270,1295 1339,1295 1408,1295 1478,1293 1547,1295 1617,1291 1617,1260 1547,1264 1478,1262 1408,1264 1339,1264 1270,1264 1200,1264 1131,1266 1061,1266 992,1266 923,1268 853,1268 784,1270 714,1272 645,1272 576,1274 506,1274 437,1276 367,1276 298,1280 229,1284"/>
+                <Baseline points="229,1305 298,1301 367,1297 437,1297 506,1295 576,1295 645,1293 714,1293 784,1291 853,1289 923,1289 992,1287 1061,1287 1131,1287 1200,1285 1270,1285 1339,1285 1408,1285 1478,1283 1547,1285 1617,1281"/>
+                <TextEquiv>
+                    <Unicode>in cui si fondono la felicità dell'infante per un atto tanto inconsueto, una      </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:2;} add {offset:0; length:6;place:above;}">
+                <Coords points="1513,1253 1543,1253 1574,1253 1604,1251 1635,1255 1635,1225 1604,1221 1574,1223 1543,1223 1513,1223"/>
+                <Baseline points="1513,1243 1543,1243 1574,1243 1604,1241 1635,1245"/>
+                <TextEquiv>
+                    <Unicode>nuvola</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:3;}">
+                <Coords points="237,1385 307,1383 377,1383 447,1379 517,1379 587,1379 657,1377 727,1378 797,1375 867,1374 937,1373 1007,1373 1077,1371 1147,1371 1217,1371 1287,1369 1357,1367 1427,1367 1497,1366 1567,1368 1637,1367 1637,1337 1567,1338 1497,1336 1427,1337 1357,1337 1287,1339 1217,1341 1147,1341 1077,1341 1007,1343 937,1343 867,1344 797,1345 727,1348 657,1347 587,1349 517,1349 447,1349 377,1353 307,1353 237,1355"/>
+                <Baseline points="237,1375 307,1373 377,1373 447,1369 517,1369 587,1369 657,1367 727,1368 797,1365 867,1364 937,1363 1007,1363 1077,1361 1147,1361 1217,1361 1287,1359 1357,1357 1427,1357 1497,1356 1567,1358 1637,1357"/>
+                <TextEquiv>
+                    <Unicode>lieve di pudore femminile, la prima vanità di sentirsi ammirata. L'abito d'arlec-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715702973048_20" custom="readingOrder {index:4;} del {offset:24; length:6;rend:overstrike;} gap {offset:24; length:0;quantity:6; unit:character; reason:illegible;} del {offset:40; length:8;rend:overstrike;} gap {offset:40; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="235,1409 371,1406 420,1406 503,1400 656,1403 781,1403 892,1411 1080,1412 1082,1450 888,1449 782,1453 656,1453 504,1450 422,1456 371,1456 236,1459"/>
+                <Baseline points="236,1454 371,1451 422,1451 504,1445 656,1448 782,1448 888,1444 1082,1445"/>
+                <TextEquiv>
+                    <Unicode>chino, nella sua foggia        bizzarra         </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:5;} add {offset:0; length:9;place:above;}">
+                <Coords points="923,1413 972,1413 1002,1413 1031,1411 1061,1409 1091,1409 1091,1379 1061,1379 1031,1381 1002,1383 972,1383 923,1383"/>
+                <Baseline points="924,1403 972,1403 1002,1403 1031,1401 1061,1399 1091,1399"/>
+                <TextEquiv>
+                    <Unicode>e irreale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715703026713_32" custom="readingOrder {index:6;} del {offset:23; length:6;} gap {offset:23; length:0;quantity:6; unit:character; reason:illegible;}">
+                <Coords points="1113,1395 1158,1395 1271,1394 1312,1390 1364,1388 1466,1406 1614,1407 1614,1441 1471,1442 1364,1438 1315,1440 1273,1444 1158,1445 1113,1445"/>
+                <Baseline points="1113,1440 1149,1437 1264,1436 1315,1435 1364,1433 1471,1437 1614,1436"/>
+                <TextEquiv>
+                    <Unicode>sottolinea l'armonioso       </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:7;} add {offset:0; length:5;place:above;}">
+                <Coords points="1500,1399 1545,1405 1581,1403 1581,1373 1545,1375 1500,1369"/>
+                <Baseline points="1503,1391 1545,1395 1581,1393"/>
+                <TextEquiv>
+                    <Unicode>passo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:8;}">
+                <Coords points="229,1537 298,1535 368,1538 437,1533 507,1533 576,1529 646,1528 715,1527 785,1527 854,1527 924,1527 993,1527 1063,1527 1132,1527 1202,1525 1271,1524 1341,1522 1410,1519 1480,1519 1549,1517 1619,1517 1619,1487 1549,1487 1480,1489 1410,1489 1341,1492 1271,1494 1202,1495 1132,1497 1063,1497 993,1497 924,1497 854,1497 785,1497 715,1497 646,1498 576,1499 507,1503 437,1503 368,1508 298,1505 229,1507"/>
+                <Baseline points="229,1527 298,1525 368,1528 437,1523 507,1523 576,1519 646,1518 715,1517 785,1517 854,1517 924,1517 993,1517 1063,1517 1132,1517 1202,1515 1271,1514 1341,1512 1410,1509 1480,1509 1549,1507 1619,1507"/>
+                <TextEquiv>
+                    <Unicode>di quel piccolo corpo di donna. La madre la segue con gli occhi, stando in mezzo alla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715703069065_47" custom="readingOrder {index:9;} del {offset:26; length:5;rend:overstrike;} gap {offset:26; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="230,1565 337,1565 362,1560 458,1559 521,1560 600,1560 726,1560 726,1610 600,1610 521,1610 458,1609 368,1610 341,1615 230,1615"/>
+                <Baseline points="230,1610 341,1610 367,1605 458,1604 521,1605 600,1605 726,1605"/>
+                <TextEquiv>
+                    <Unicode>porta: come la osservasse      </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:10;} add {offset:0; length:6;place:above;}">
+                <Coords points="621,1561 652,1565 683,1565 714,1563 745,1561 745,1531 714,1533 683,1535 652,1535 621,1531"/>
+                <Baseline points="621,1551 652,1555 683,1555 714,1553 745,1551"/>
+                <TextEquiv>
+                    <Unicode>a fare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715703322025_62" custom="readingOrder {index:11;}">
+                <Coords points="739,1559 858,1559 941,1559 1067,1552 1129,1549 1184,1547 1270,1551 1323,1547 1422,1545 1488,1545 1609,1549 1608,1599 1487,1595 1422,1595 1325,1597 1271,1601 1184,1597 1131,1599 1069,1602 942,1609 858,1609 739,1609"/>
+                <Baseline points="739,1604 858,1604 942,1604 1069,1597 1131,1594 1193,1588 1280,1588 1325,1588 1422,1590 1487,1590 1608,1594"/>
+                <TextEquiv>
+                    <Unicode>il primo passo nella vita. Non è che per divertimento,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:12;}">
+                <Coords points="231,1705 301,1701 371,1699 441,1696 511,1693 581,1691 651,1689 721,1688 791,1689 861,1688 931,1685 1001,1685 1071,1684 1141,1682 1211,1681 1281,1680 1351,1680 1421,1679 1491,1678 1561,1677 1631,1679 1631,1630 1561,1628 1491,1629 1421,1630 1351,1631 1281,1631 1211,1632 1141,1633 1071,1635 1001,1636 931,1636 861,1639 791,1640 721,1639 651,1640 581,1642 511,1644 441,1647 371,1650 301,1652 231,1656"/>
+                <Baseline points="231,1689 301,1685 371,1683 441,1680 511,1677 581,1675 651,1673 721,1672 791,1673 861,1672 931,1669 1001,1669 1071,1668 1141,1666 1211,1665 1281,1664 1351,1664 1421,1663 1491,1662 1561,1661 1631,1663"/>
+                <TextEquiv>
+                    <Unicode>per convincere i nonni. Il fratellino la guarda, rallegrato in silenzio. Si avvicina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:13;}">
+                <Coords points="237,1781 314,1775 392,1770 469,1769 547,1767 624,1764 702,1765 779,1762 857,1763 934,1761 1012,1759 1089,1759 1167,1757 1244,1755 1322,1755 1399,1755 1477,1753 1554,1753 1640,1753 1640,1704 1554,1704 1477,1704 1399,1706 1322,1706 1244,1706 1167,1708 1089,1710 1012,1710 934,1712 857,1714 779,1713 702,1716 624,1715 547,1718 469,1720 392,1721 314,1726 237,1732"/>
+                <Baseline points="237,1765 314,1759 392,1754 469,1753 547,1751 624,1748 702,1749 779,1746 857,1747 934,1745 1012,1743 1089,1743 1167,1741 1244,1739 1322,1739 1399,1739 1477,1737 1554,1737 1632,1737"/>
+                <TextEquiv>
+                    <Unicode>a lei, la sfiora nelle toppe a colori. Le accarezza. Le zie e la nonna, a turno, loda-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:14;}">
+                <Coords points="235,1849 305,1850 376,1848 446,1847 517,1844 588,1841 658,1839 729,1837 799,1837 870,1837 941,1836 1011,1835 1082,1835 1152,1831 1223,1829 1294,1829 1364,1827 1435,1825 1505,1825 1576,1829 1647,1831 1647,1782 1576,1780 1505,1776 1435,1776 1364,1778 1294,1780 1223,1780 1152,1782 1082,1786 1011,1786 941,1787 870,1788 799,1788 729,1788 658,1790 588,1792 517,1795 446,1798 376,1799 305,1801 235,1800"/>
+                <Baseline points="235,1833 305,1834 376,1832 446,1831 517,1828 588,1825 658,1823 729,1821 799,1821 870,1821 941,1820 1011,1819 1082,1819 1152,1815 1223,1813 1294,1813 1364,1811 1435,1809 1505,1809 1576,1813 1647,1815"/>
+                <TextEquiv>
+                    <Unicode>no la foggia, la cucitura dell'abito inconsueto. Anche loro, si direbbe che abbiano il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:15;}">
+                <Coords points="241,1927 311,1923 382,1922 453,1921 524,1921 595,1919 666,1917 737,1915 808,1916 879,1917 950,1915 1020,1912 1091,1911 1162,1911 1233,1911 1304,1907 1375,1906 1446,1905 1517,1904 1588,1905 1659,1905 1659,1856 1588,1856 1517,1855 1446,1856 1375,1857 1304,1858 1233,1862 1162,1862 1091,1862 1020,1863 950,1866 879,1868 808,1867 737,1866 666,1868 595,1870 524,1872 453,1872 382,1873 311,1874 241,1878"/>
+                <Baseline points="241,1911 311,1907 382,1906 453,1905 524,1905 595,1903 666,1901 737,1899 808,1900 879,1901 950,1899 1020,1896 1091,1895 1162,1895 1233,1895 1304,1891 1375,1890 1446,1889 1517,1888 1588,1889 1659,1889"/>
+                <TextEquiv>
+                    <Unicode>sospetto di una grazia acerba, di un anticipo di dolcezza, sprigionati da quel dise-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:16;}">
+                <Coords points="245,2005 289,2003 334,2001 378,1998 423,1997 468,1995 512,1995 557,1994 601,1993 646,1993 691,1993 735,1992 780,1991 824,1991 869,1989 914,1987 958,1987 1003,1984 1047,1983 1092,1981 1137,1983 1137,1934 1092,1932 1047,1934 1003,1935 958,1938 914,1938 869,1940 824,1942 780,1942 735,1943 691,1944 646,1944 601,1944 557,1945 512,1946 468,1946 423,1948 378,1949 334,1952 289,1954 245,1956"/>
+                <Baseline points="245,1989 289,1987 334,1985 378,1982 423,1981 468,1979 512,1979 557,1978 601,1977 646,1977 691,1977 735,1976 780,1975 824,1975 869,1973 914,1971 958,1971 1003,1968 1047,1967 1092,1965 1137,1967"/>
+                <TextEquiv>
+                    <Unicode>gno a mandorle, da quell'abitino di pezzi colorati.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705332008_229" custom="readingOrder {index:17;}">
+                <Coords points="265,2020 328,2020 417,2017 471,2016 579,2022 621,2013 679,2013 767,2033 766,2067 678,2063 627,2063 582,2072 470,2066 418,2067 329,2070 265,2070"/>
+                <Baseline points="265,2065 329,2065 418,2062 472,2056 583,2060 625,2056 678,2058 766,2062"/>
+                <TextEquiv>
+                    <Unicode>Il cuginetto: il fantolino, che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705295161_221" custom="readingOrder {index:18;} add {offset:0; length:2;place:above;}">
+                <Coords points="760,2002 801,1999 803,2031 761,2031"/>
+                <Baseline points="761,2026 803,2026"/>
+                <TextEquiv>
+                    <Unicode>ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715705270873_214" custom="readingOrder {index:19;}">
+                <Coords points="780,2031 855,2026 981,2011 1075,2006 1146,2004 1229,2000 1352,2002 1449,1996 1560,1997 1672,2000 1671,2050 1559,2047 1450,2046 1353,2052 1230,2050 1148,2054 1077,2056 982,2061 845,2061 778,2064"/>
+                <Baseline points="778,2059 845,2056 982,2056 1077,2051 1148,2049 1230,2045 1353,2047 1450,2041 1559,2042 1671,2045"/>
+                <TextEquiv>
+                    <Unicode>appena un anno di vita, si avvicina alla bambina. Ha ap-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ed ecco la bambina. L'ingresso nella stanza è festoso, denso di un'armonia&#13;
+in cui si fondono la felicità dell'infante per un atto tanto inconsueto, una      &#13;
+nuvola&#13;
+lieve di pudore femminile, la prima vanità di sentirsi ammirata. L'abito d'arlec-&#13;
+chino, nella sua foggia        bizzarra         &#13;
+e irreale&#13;
+sottolinea l'armonioso       &#13;
+passo&#13;
+di quel piccolo corpo di donna. La madre la segue con gli occhi, stando in mezzo alla&#13;
+porta: come la osservasse      &#13;
+a fare&#13;
+il primo passo nella vita. Non è che per divertimento,&#13;
+per convincere i nonni. Il fratellino la guarda, rallegrato in silenzio. Si avvicina&#13;
+a lei, la sfiora nelle toppe a colori. Le accarezza. Le zie e la nonna, a turno, loda-&#13;
+no la foggia, la cucitura dell'abito inconsueto. Anche loro, si direbbe che abbiano il&#13;
+sospetto di una grazia acerba, di un anticipo di dolcezza, sprigionati da quel dise-&#13;
+gno a mandorle, da quell'abitino di pezzi colorati.&#13;
+Il cuginetto: il fantolino, che&#13;
+ha&#13;
+appena un anno di vita, si avvicina alla bambina. Ha ap-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

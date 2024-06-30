@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:23:18.757+02:00</Created>
+        <LastChange>2024-06-21T10:05:14.475+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326036" pageNr="91" tsid="175603589" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=XTATLAQBEVUXZYZQWRPQFLMW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JZVHYRYIGZGVJGZXUIKOAYAU" imageId="54296159"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_10_0010_c4v.jpg" imageWidth="1798" imageHeight="2427" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746075011" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="177,254 177,2064 1793,2064 1793,254"/>
+            <TextLine id="line_1715357096956_969" custom="readingOrder {index:0;}">
+                <Coords points="207,497 1655,491 1655,541 207,547"/>
+                <Baseline points="207,542 1655,536"/>
+                <TextEquiv>
+                    <Unicode>è dedicato a lavori o professioni tecniche della vita moderna conosce come sia facile farsi, oltre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="185,624 257,622 330,620 403,619 476,620 549,619 622,620 695,617 768,616 841,618 914,616 986,616 1059,615 1132,616 1205,615 1278,614 1351,613 1424,612 1497,612 1570,617 1643,618 1643,566 1570,565 1497,560 1424,560 1351,561 1278,562 1205,563 1132,564 1059,563 986,564 914,564 841,566 768,564 695,565 622,568 549,567 476,568 403,567 330,568 257,570 185,572"/>
+                <Baseline points="185,607 257,605 330,603 403,602 476,603 549,602 622,603 695,600 768,599 841,601 914,599 986,599 1059,598 1132,599 1205,598 1278,597 1351,596 1424,595 1497,595 1570,600 1643,601"/>
+                <TextEquiv>
+                    <Unicode>il giusto impiego, una religione di codesti strumenti della civiltà. La città di Harrar è col-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:2;}">
+                <Coords points="181,700 253,696 326,694 399,693 472,692 545,692 618,692 691,692 764,692 837,691 910,691 982,690 1055,688 1128,688 1201,688 1274,688 1347,688 1420,689 1493,690 1566,693 1639,694 1639,642 1566,641 1493,638 1420,637 1347,636 1274,636 1201,636 1128,636 1055,636 982,638 910,639 837,639 764,640 691,640 618,640 545,640 472,640 399,641 326,642 253,644 181,648"/>
+                <Baseline points="181,683 253,679 326,677 399,676 472,675 545,675 618,675 691,675 764,675 837,674 910,674 982,673 1055,671 1128,671 1201,671 1274,671 1347,671 1420,672 1493,673 1566,676 1639,677"/>
+                <TextEquiv>
+                    <Unicode>locata su di un altipiano, a circa 2000 metri. Quando Rimbaud la raggiunse, a cavallo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="177,776 247,775 317,774 388,772 458,771 529,770 599,770 669,769 740,768 810,768 881,769 951,768 1021,766 1092,766 1162,766 1233,765 1303,766 1373,764 1444,764 1514,765 1585,764 1585,712 1514,713 1444,712 1373,712 1303,714 1233,713 1162,714 1092,714 1021,714 951,716 881,717 810,716 740,716 669,717 599,718 529,718 458,719 388,720 317,722 247,723 177,724"/>
+                <Baseline points="177,759 247,758 317,757 388,755 458,754 529,753 599,753 669,752 740,751 810,751 881,752 951,751 1021,749 1092,749 1162,749 1233,748 1303,749 1373,747 1444,747 1514,748 1585,747"/>
+                <TextEquiv>
+                    <Unicode>dopo un viaggio attraverso il deserto somalo durato venti giorni, credette di scorgere,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="179,848 251,846 323,846 395,846 467,845 539,842 611,843 683,844 755,842 827,843 900,842 972,842 1044,842 1116,842 1188,843 1260,844 1332,841 1404,840 1476,842 1548,842 1621,840 1621,788 1548,790 1476,790 1404,788 1332,789 1260,792 1188,791 1116,790 1044,790 972,790 900,790 827,791 755,790 683,792 611,791 539,790 467,793 395,794 323,794 251,794 179,796"/>
+                <Baseline points="179,831 251,829 323,829 395,829 467,828 539,825 611,826 683,827 755,825 827,826 900,825 972,825 1044,825 1116,825 1188,826 1260,827 1332,824 1404,823 1476,825 1548,825 1621,823"/>
+                <TextEquiv>
+                    <Unicode>in mezzo a un piano verde e solcato, come dei grossi rilievi di terra. La città è circon-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:5;}">
+                <Coords points="185,924 257,924 330,926 402,924 475,923 548,922 620,920 693,920 765,920 838,919 911,922 983,920 1056,920 1128,920 1201,921 1274,920 1346,920 1419,920 1491,922 1564,924 1637,926 1637,875 1564,873 1491,871 1419,869 1346,869 1274,869 1201,870 1128,869 1056,869 983,869 911,871 838,868 765,869 693,869 620,869 548,871 475,872 402,873 330,875 257,873 185,873"/>
+                <Baseline points="185,907 257,907 330,909 402,907 475,906 548,905 620,903 693,903 765,903 838,902 911,905 983,903 1056,903 1128,903 1201,904 1274,903 1346,903 1419,903 1491,905 1564,907 1637,909"/>
+                <TextEquiv>
+                    <Unicode>data di mura in pietre: là dentro, un ammasso di case in pietra e di capanne ricoper-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715356998418_885" custom="readingOrder {index:6;} del {offset:30; length:7;rend:overtyped;}">
+                <Coords points="185,952 805,947 805,997 185,1002"/>
+                <Baseline points="185,997 805,992"/>
+                <TextEquiv>
+                    <Unicode>te di fango. Il fango, secco, ricopre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715357002642_890" custom="readingOrder {index:7;} add {offset:1; length:7;place:above;}">
+                <Coords points="692,910 789,922 782,972 685,960"/>
+                <Baseline points="686,955 783,967"/>
+                <TextEquiv>
+                    <Unicode> riveste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715357006810_895" custom="readingOrder {index:8;}">
+                <Coords points="821,945 1593,945 1593,995 821,995"/>
+                <Baseline points="821,990 1593,990"/>
+                <TextEquiv>
+                    <Unicode>tutta la città. Le strade, sono dei solchi nella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:9;}">
+                <Coords points="187,1080 257,1078 328,1074 398,1074 469,1073 539,1070 610,1070 680,1068 751,1068 821,1070 892,1068 962,1071 1033,1072 1103,1069 1174,1072 1244,1070 1315,1072 1385,1070 1456,1070 1526,1069 1597,1068 1597,1016 1526,1017 1456,1018 1385,1018 1315,1020 1244,1018 1174,1020 1103,1017 1033,1020 962,1019 892,1016 821,1018 751,1016 680,1016 610,1018 539,1018 469,1021 398,1022 328,1022 257,1026 187,1028"/>
+                <Baseline points="187,1063 257,1061 328,1057 398,1057 469,1056 539,1053 610,1053 680,1051 751,1051 821,1053 892,1051 962,1054 1033,1055 1103,1052 1174,1055 1244,1053 1315,1055 1385,1053 1456,1053 1526,1052 1597,1051"/>
+                <TextEquiv>
+                    <Unicode>terra, fondo di torrenti per la stagione delle pioggie. Gli abitanti, piegati ai modi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715357011575_900" custom="readingOrder {index:10;}">
+                <Coords points="184,1101 669,1095 670,1145 185,1151"/>
+                <Baseline points="185,1146 670,1140"/>
+                <TextEquiv>
+                    <Unicode>della vita araba: le donne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715357021292_905" custom="readingOrder {index:11;} gap {offset:1; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="637,1056 723,1049 727,1099 641,1106"/>
+                <Baseline points="641,1101 727,1094"/>
+                <TextEquiv>
+                    <Unicode>       </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715357025454_910" custom="readingOrder {index:12;}">
+                <Coords points="688,1092 1583,1097 1583,1147 688,1142"/>
+                <Baseline points="688,1137 1583,1142"/>
+                <TextEquiv>
+                    <Unicode>bellissime. Rimbaud vi trovò, oltre a qualche caffè,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:13;}">
+                <Coords points="193,1236 265,1231 338,1230 410,1226 483,1228 555,1226 628,1224 700,1225 773,1223 845,1224 918,1225 990,1220 1063,1224 1135,1222 1208,1226 1280,1222 1353,1222 1425,1220 1498,1222 1570,1226 1643,1228 1643,1176 1570,1174 1498,1170 1425,1168 1353,1170 1280,1170 1208,1174 1135,1170 1063,1172 990,1168 918,1173 845,1172 773,1171 700,1173 628,1172 555,1174 483,1176 410,1174 338,1178 265,1179 193,1184"/>
+                <Baseline points="193,1219 265,1214 338,1213 410,1209 483,1211 555,1209 628,1207 700,1208 773,1206 845,1207 918,1208 990,1203 1063,1207 1135,1205 1208,1209 1280,1205 1353,1205 1425,1203 1498,1205 1570,1209 1643,1211"/>
+                <TextEquiv>
+                    <Unicode>a qualche spaccio di bevande, perfino alcune maison clores. Rimbaud era il primo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:14;}">
+                <Coords points="203,1310 273,1308 343,1306 413,1303 483,1301 553,1300 623,1298 693,1298 763,1296 833,1296 903,1296 973,1296 1043,1296 1113,1299 1183,1298 1253,1298 1323,1296 1393,1296 1463,1295 1533,1298 1603,1300 1603,1249 1533,1247 1463,1244 1393,1245 1323,1245 1253,1247 1183,1247 1113,1248 1043,1245 973,1245 903,1245 833,1245 763,1245 693,1247 623,1247 553,1249 483,1250 413,1252 343,1255 273,1257 203,1259"/>
+                <Baseline points="203,1293 273,1291 343,1289 413,1286 483,1284 553,1283 623,1281 693,1281 763,1279 833,1279 903,1279 973,1279 1043,1279 1113,1282 1183,1281 1253,1281 1323,1279 1393,1279 1463,1278 1533,1281 1603,1283"/>
+                <TextEquiv>
+                    <Unicode>francese che entrava nella regione. Aveva 26 anni. Disposto il carico delle merci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:15;}">
+                <Coords points="195,1380 264,1378 334,1380 403,1380 473,1380 542,1380 612,1378 681,1376 751,1378 820,1376 890,1374 959,1376 1029,1376 1098,1376 1168,1376 1237,1376 1307,1376 1376,1374 1446,1375 1515,1376 1585,1376 1585,1325 1515,1325 1446,1324 1376,1323 1307,1325 1237,1325 1168,1325 1098,1325 1029,1325 959,1325 890,1323 820,1325 751,1327 681,1325 612,1327 542,1329 473,1329 403,1329 334,1329 264,1327 195,1329"/>
+                <Baseline points="195,1363 264,1361 334,1363 403,1363 473,1363 542,1363 612,1361 681,1359 751,1361 820,1359 890,1357 959,1359 1029,1359 1098,1359 1168,1359 1237,1359 1307,1359 1376,1357 1446,1358 1515,1359 1585,1359"/>
+                <TextEquiv>
+                    <Unicode>recate da Aden, egli si interessò di sistemare l’alloggio: era una sorta di fattoria,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:16;}">
+                <Coords points="199,1458 268,1456 337,1452 406,1452 475,1452 544,1452 613,1452 682,1452 751,1452 820,1450 889,1450 958,1450 1027,1450 1096,1450 1165,1450 1234,1451 1303,1450 1372,1450 1441,1453 1510,1453 1579,1456 1579,1404 1510,1401 1441,1401 1372,1398 1303,1398 1234,1399 1165,1398 1096,1398 1027,1398 958,1398 889,1398 820,1398 751,1400 682,1400 613,1400 544,1400 475,1400 406,1400 337,1400 268,1404 199,1406"/>
+                <Baseline points="199,1441 268,1439 337,1435 406,1435 475,1435 544,1435 613,1435 682,1435 751,1435 820,1433 889,1433 958,1433 1027,1433 1096,1433 1165,1433 1234,1434 1303,1433 1372,1433 1441,1436 1510,1436 1579,1439"/>
+                <TextEquiv>
+                    <Unicode>con l’abitazione dell’agente e dei suoi servi, e i magazzini. Fece qualche viaggio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:17;}">
+                <Coords points="195,1532 267,1530 339,1528 411,1530 483,1529 556,1530 628,1528 700,1529 772,1526 844,1527 917,1526 989,1526 1061,1527 1133,1528 1205,1527 1278,1526 1350,1526 1422,1524 1494,1524 1566,1522 1639,1524 1639,1472 1566,1470 1494,1472 1422,1472 1350,1474 1278,1474 1205,1475 1133,1476 1061,1475 989,1474 917,1474 844,1475 772,1474 700,1477 628,1476 556,1478 483,1477 411,1478 339,1476 267,1478 195,1480"/>
+                <Baseline points="195,1515 267,1513 339,1511 411,1513 483,1512 556,1513 628,1511 700,1512 772,1509 844,1510 917,1509 989,1509 1061,1510 1133,1511 1205,1510 1278,1509 1350,1509 1422,1507 1494,1507 1566,1505 1639,1507"/>
+                <TextEquiv>
+                    <Unicode>nell'interno del paese, a procurare i generi di commercio, e dei cammelli, da servire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:18;}">
+                <Coords points="211,1612 280,1608 349,1604 419,1604 488,1606 558,1605 627,1604 696,1604 766,1604 835,1603 905,1602 974,1604 1043,1603 1113,1602 1182,1602 1252,1602 1321,1601 1390,1602 1460,1602 1529,1602 1599,1608 1599,1556 1529,1550 1460,1550 1390,1550 1321,1549 1252,1550 1182,1550 1113,1550 1043,1551 974,1552 905,1550 835,1551 766,1552 696,1552 627,1552 558,1553 488,1554 419,1552 349,1552 280,1556 211,1560"/>
+                <Baseline points="211,1595 280,1591 349,1587 419,1587 488,1589 558,1588 627,1587 696,1587 766,1587 835,1586 905,1585 974,1587 1043,1586 1113,1585 1182,1585 1252,1585 1321,1584 1390,1585 1460,1585 1529,1585 1599,1591"/>
+                <TextEquiv>
+                    <Unicode>per le carovane. Il lavoro si svolgeva lento, monotono, tra le difficoltà inevitabili</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:19;}">
+                <Coords points="201,1682 273,1680 345,1680 417,1680 489,1678 562,1678 634,1677 706,1678 778,1678 850,1678 923,1678 995,1678 1067,1676 1139,1676 1211,1677 1284,1678 1356,1679 1428,1678 1500,1678 1572,1679 1645,1684 1645,1632 1572,1627 1500,1626 1428,1626 1356,1627 1284,1626 1211,1625 1139,1624 1067,1624 995,1626 923,1626 850,1626 778,1626 706,1626 634,1625 562,1626 489,1626 417,1628 345,1628 273,1628 201,1630"/>
+                <Baseline points="201,1665 273,1663 345,1663 417,1663 489,1661 562,1661 634,1660 706,1661 778,1661 850,1661 923,1661 995,1661 1067,1659 1139,1659 1211,1660 1284,1661 1356,1662 1428,1661 1500,1661 1572,1662 1645,1667"/>
+                <TextEquiv>
+                    <Unicode>a codesto traffico, oltre a quelle fornite dai concorrenti mercanti armeni e greci. Pratica-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:20;}">
+                <Coords points="203,1766 273,1763 343,1760 413,1758 483,1756 554,1756 624,1754 694,1754 764,1754 834,1752 905,1752 975,1750 1045,1753 1115,1753 1185,1754 1256,1755 1326,1754 1396,1756 1466,1756 1536,1759 1607,1764 1607,1713 1536,1708 1466,1705 1396,1705 1326,1703 1256,1704 1185,1703 1115,1702 1045,1702 975,1699 905,1701 834,1701 764,1703 694,1703 624,1703 554,1705 483,1705 413,1707 343,1709 273,1712 203,1715"/>
+                <Baseline points="203,1749 273,1746 343,1743 413,1741 483,1739 554,1739 624,1737 694,1737 764,1737 834,1735 905,1735 975,1733 1045,1736 1115,1736 1185,1737 1256,1738 1326,1737 1396,1739 1466,1739 1536,1742 1607,1747"/>
+                <TextEquiv>
+                    <Unicode>mente, viveva isolato, lontano da ogni contatto col mondo civile. Gli abitanti rozzi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:21;}">
+                <Coords points="195,1836 267,1838 339,1836 411,1834 483,1832 555,1830 627,1830 699,1830 771,1828 843,1830 916,1830 988,1830 1060,1830 1132,1830 1204,1830 1276,1830 1348,1829 1420,1830 1492,1830 1564,1837 1637,1836 1637,1785 1564,1786 1492,1779 1420,1779 1348,1778 1276,1779 1204,1779 1132,1779 1060,1779 988,1779 916,1779 843,1779 771,1777 699,1779 627,1779 555,1779 483,1781 411,1783 339,1785 267,1787 195,1785"/>
+                <Baseline points="195,1819 267,1821 339,1819 411,1817 483,1815 555,1813 627,1813 699,1813 771,1811 843,1813 916,1813 988,1813 1060,1813 1132,1813 1204,1813 1276,1813 1348,1812 1420,1813 1492,1813 1564,1820 1637,1819"/>
+                <TextEquiv>
+                    <Unicode>bestiali, e sospettosi. Finita la giornata, si riduceva in casa. Apriva i libri giunti d’Eu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:22;}">
+                <Coords points="197,1914 269,1914 341,1912 413,1910 485,1908 558,1906 630,1904 702,1904 774,1904 846,1904 919,1904 991,1904 1063,1907 1135,1908 1207,1911 1280,1908 1352,1908 1424,1906 1496,1906 1568,1908 1641,1910 1641,1859 1568,1857 1496,1855 1424,1855 1352,1857 1280,1857 1207,1860 1135,1857 1063,1856 991,1853 919,1853 846,1853 774,1853 702,1853 630,1853 558,1855 485,1857 413,1859 341,1861 269,1863 197,1863"/>
+                <Baseline points="197,1897 269,1897 341,1895 413,1893 485,1891 558,1889 630,1887 702,1887 774,1887 846,1887 919,1887 991,1887 1063,1890 1135,1891 1207,1894 1280,1891 1352,1891 1424,1889 1496,1889 1568,1891 1641,1893"/>
+                <TextEquiv>
+                    <Unicode>ropa: ci si annoiava e intristiva. Manuali tecnici: una scienza propinata in for-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:23;}">
+                <Coords points="203,1986 274,1986 346,1984 418,1985 490,1982 562,1984 633,1984 705,1982 777,1982 849,1984 921,1982 992,1982 1064,1982 1136,1982 1208,1980 1280,1982 1351,1980 1423,1980 1495,1978 1567,1980 1639,1984 1639,1933 1567,1929 1495,1927 1423,1929 1351,1929 1280,1931 1208,1929 1136,1931 1064,1931 992,1931 921,1931 849,1933 777,1931 705,1931 633,1933 562,1933 490,1931 418,1934 346,1933 274,1935 203,1935"/>
+                <Baseline points="203,1969 274,1969 346,1967 418,1968 490,1965 562,1967 633,1967 705,1965 777,1965 849,1967 921,1965 992,1965 1064,1965 1136,1965 1208,1963 1280,1965 1351,1963 1423,1963 1495,1961 1567,1963 1639,1967"/>
+                <TextEquiv>
+                    <Unicode>me elementari, degna del miraggio enciclopedico dei Buvard e Pécuchet lasciati in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715357078723_960" custom="readingOrder {index:24;}">
+                <Coords points="224,2008 1654,2010 1654,2060 224,2058"/>
+                <Baseline points="224,2053 1654,2055"/>
+                <TextEquiv>
+                    <Unicode>Francia! Giunse l’inverno. Al cadere della notte, le guardie chiudevano le porte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>è dedicato a lavori o professioni tecniche della vita moderna conosce come sia facile farsi, oltre&#13;
+il giusto impiego, una religione di codesti strumenti della civiltà. La città di Harrar è col-&#13;
+locata su di un altipiano, a circa 2000 metri. Quando Rimbaud la raggiunse, a cavallo,&#13;
+dopo un viaggio attraverso il deserto somalo durato venti giorni, credette di scorgere,&#13;
+in mezzo a un piano verde e solcato, come dei grossi rilievi di terra. La città è circon-&#13;
+data di mura in pietre: là dentro, un ammasso di case in pietra e di capanne ricoper-&#13;
+te di fango. Il fango, secco, ricopre&#13;
+ riveste&#13;
+tutta la città. Le strade, sono dei solchi nella&#13;
+terra, fondo di torrenti per la stagione delle pioggie. Gli abitanti, piegati ai modi &#13;
+della vita araba: le donne&#13;
+       &#13;
+bellissime. Rimbaud vi trovò, oltre a qualche caffè,&#13;
+a qualche spaccio di bevande, perfino alcune maison clores. Rimbaud era il primo&#13;
+francese che entrava nella regione. Aveva 26 anni. Disposto il carico delle merci&#13;
+recate da Aden, egli si interessò di sistemare l’alloggio: era una sorta di fattoria,&#13;
+con l’abitazione dell’agente e dei suoi servi, e i magazzini. Fece qualche viaggio&#13;
+nell'interno del paese, a procurare i generi di commercio, e dei cammelli, da servire&#13;
+per le carovane. Il lavoro si svolgeva lento, monotono, tra le difficoltà inevitabili&#13;
+a codesto traffico, oltre a quelle fornite dai concorrenti mercanti armeni e greci. Pratica-&#13;
+mente, viveva isolato, lontano da ogni contatto col mondo civile. Gli abitanti rozzi,&#13;
+bestiali, e sospettosi. Finita la giornata, si riduceva in casa. Apriva i libri giunti d’Eu-&#13;
+ropa: ci si annoiava e intristiva. Manuali tecnici: una scienza propinata in for-&#13;
+me elementari, degna del miraggio enciclopedico dei Buvard e Pécuchet lasciati in&#13;
+Francia! Giunse l’inverno. Al cadere della notte, le guardie chiudevano le porte</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

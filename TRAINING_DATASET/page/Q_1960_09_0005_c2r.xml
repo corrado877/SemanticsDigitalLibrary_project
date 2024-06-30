@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:48:56.079+01:00</Created>
+        <LastChange>2024-06-20T11:15:36.330+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325991" pageNr="22" tsid="175603499" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=LVRFZULLOFGMZJEOCFBHIKOX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UINEXPDXWEYDQSIMNYEPVEUT" imageId="53902125"/>
+    </Metadata>
+    <Page imageFilename="Q_1960_09_0005_c2r.jpg" imageWidth="1798" imageHeight="2501">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746061480" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1718129402521_487"/>
+                <RegionRefIndexed index="2" regionRef="region_1718129459468_492"/>
+                <RegionRefIndexed index="3" regionRef="region_1718129473371_497"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="120,250 116,2154 1598,2137 1638,254"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1718129402521_487" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="261,362 137,362 137,267 261,267"/>
+            <TextLine id="line_1718129388381_481" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:left;}">
+                <Coords points="150,285 226,282 228,332 152,335"/>
+                <Baseline points="152,330 228,327"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718129459468_492" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1599,1819 147,1827 138,411 1590,403"/>
+            <TextLine id="line_1718129788766_513" custom="readingOrder {index:0;} person {offset:21; length:7;occupation:poet; firstname:Giovanni; dateOfDeath:6\u0020April\u00201912; dateOfBirth:31\u0020December\u00201855; lastname:Pascoli;} del {offset:61; length:5;rend:overstrike;} gap {offset:61; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="186,471 254,474 322,472 390,473 527,473 595,474 664,473 732,475 800,474 869,473 937,473 1005,474 1073,474 1142,475 1210,473 1249,473 1249,516 1210,516 1142,518 1073,517 1005,517 937,516 869,516 800,517 732,518 664,516 595,517 527,516 390,516 322,515 254,517 186,514"/>
+                <Baseline points="186,500 254,503 322,501 390,502 459,502 527,502 595,503 664,502 732,504 800,503 869,502 937,502 1005,503 1073,503 1142,504 1210,502 1266,502"/>
+                <TextEquiv>
+                    <Unicode>Altri poeti: dopo il Pascoli, ha avuto la poesia italiana; e      </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;} add {offset:0; length:11;place:above;}">
+                <Coords points="1164,468 1192,456 1221,456 1250,456 1278,456 1307,456 1336,456 1336,413 1307,413 1278,413 1250,413 1221,413 1192,413 1164,425"/>
+                <Baseline points="1164,454 1192,442 1221,442 1250,442 1278,442 1307,442 1336,442"/>
+                <TextEquiv>
+                    <Unicode>qualcuno ne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718129788765_512" custom="readingOrder {index:2;}">
+                <Coords points="1249,473 1347,473 1415,475 1483,477 1552,481 1552,524 1483,520 1415,518 1347,516 1249,516"/>
+                <Baseline points="1266,502 1278,502 1347,502 1415,504 1483,506 1552,510"/>
+                <TextEquiv>
+                    <Unicode>abbiamo conosciuto;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="172,594 242,596 313,596 383,596 454,596 525,598 595,596 666,596 736,596 807,596 878,598 948,598 1019,598 1089,598 1160,598 1231,598 1301,597 1372,596 1442,599 1513,599 1584,600 1584,552 1513,551 1442,551 1372,548 1301,549 1231,550 1160,550 1089,550 1019,550 948,550 878,550 807,548 736,548 666,548 595,548 525,550 454,548 383,548 313,548 242,548 172,546"/>
+                <Baseline points="172,578 242,580 313,580 383,580 454,580 525,582 595,580 666,580 736,580 807,580 878,582 948,582 1019,582 1089,582 1160,582 1231,582 1301,581 1372,580 1442,583 1513,583 1584,584"/>
+                <TextEquiv>
+                    <Unicode>visto da vicino. E, spesso, nel loro sogno, nella proposta umana della loro poetica, l'ora di pace,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="172,672 243,672 314,671 385,671 456,672 528,671 599,670 670,670 741,671 812,672 884,671 955,672 1026,670 1097,673 1168,673 1240,672 1311,673 1382,672 1453,670 1524,671 1596,668 1596,620 1524,623 1453,622 1382,624 1311,625 1240,624 1168,625 1097,625 1026,622 955,624 884,623 812,624 741,623 670,622 599,622 528,623 456,624 385,623 314,623 243,624 172,624"/>
+                <Baseline points="172,656 243,656 314,655 385,655 456,656 528,655 599,654 670,654 741,655 812,656 884,655 955,656 1026,654 1097,657 1168,657 1240,656 1311,657 1382,656 1453,654 1524,655 1596,652"/>
+                <TextEquiv>
+                    <Unicode>la serenità di un tramonto di cose e di sentimenti tutti chiariti, dopo il quale possa sorgere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="162,748 233,748 305,748 377,748 448,748 520,748 592,748 663,746 735,746 807,747 879,748 950,746 1022,746 1094,746 1165,746 1237,746 1309,746 1380,747 1452,748 1524,748 1596,754 1596,706 1524,700 1452,700 1380,699 1309,698 1237,698 1165,698 1094,698 1022,698 950,698 879,700 807,699 735,698 663,698 592,700 520,700 448,700 377,700 305,700 233,700 162,700"/>
+                <Baseline points="162,732 233,732 305,732 377,732 448,732 520,732 592,732 663,730 735,730 807,731 879,732 950,730 1022,730 1094,730 1165,730 1237,730 1309,730 1380,731 1452,732 1524,732 1596,738"/>
+                <TextEquiv>
+                    <Unicode>una tregua, una sospensione, uno spazio di meditazione, da cui prendere forse per continua-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="156,826 227,823 299,822 370,822 442,824 514,824 585,824 657,826 728,826 800,824 872,824 943,824 1015,824 1086,824 1158,824 1230,822 1301,822 1373,821 1444,820 1516,822 1588,828 1588,780 1516,774 1444,772 1373,773 1301,774 1230,774 1158,776 1086,776 1015,776 943,776 872,776 800,776 728,778 657,778 585,776 514,776 442,776 370,774 299,774 227,775 156,778"/>
+                <Baseline points="156,810 227,807 299,806 370,806 442,808 514,808 585,808 657,810 728,810 800,808 872,808 943,808 1015,808 1086,808 1158,808 1230,806 1301,806 1373,805 1444,804 1516,806 1588,812"/>
+                <TextEquiv>
+                    <Unicode>re. Ma uno, si fa per dire, è quello che, per quanto è lunga la vita, insegue con pazienza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="156,900 226,898 297,897 368,898 439,896 510,896 580,896 651,896 722,898 793,898 864,897 934,900 1005,901 1076,901 1147,904 1218,902 1288,902 1359,902 1430,902 1501,902 1572,900 1572,852 1501,854 1430,854 1359,854 1288,854 1218,854 1147,856 1076,853 1005,853 934,852 864,849 793,850 722,850 651,848 580,848 510,848 439,848 368,850 297,849 226,850 156,852"/>
+                <Baseline points="156,884 226,882 297,881 368,882 439,880 510,880 580,880 651,880 722,882 793,882 864,881 934,884 1005,885 1076,885 1147,888 1218,886 1288,886 1359,886 1430,886 1501,886 1572,884"/>
+                <TextEquiv>
+                    <Unicode>disperata, chiamandola con le parole di rimpianto una figura, che gli sfugge. E' la poesia, egli lo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="148,980 220,977 292,976 364,976 436,976 509,976 581,976 653,976 725,976 797,977 870,976 942,975 1014,974 1086,975 1158,974 1231,976 1303,976 1375,976 1447,978 1519,979 1592,980 1592,932 1519,931 1447,930 1375,928 1303,928 1231,928 1158,926 1086,927 1014,926 942,927 870,928 797,929 725,928 653,928 581,928 509,928 436,928 364,928 292,928 220,929 148,932"/>
+                <Baseline points="148,964 220,961 292,960 364,960 436,960 509,960 581,960 653,960 725,960 797,961 870,960 942,959 1014,958 1086,959 1158,958 1231,960 1303,960 1375,960 1447,962 1519,963 1592,964"/>
+                <TextEquiv>
+                    <Unicode>sa. Un giorno la raggiunge; la ghernisce. Quella volge il viso. In viso, un cuore, una poesia di ango-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:9;}">
+                <Coords points="152,1052 221,1049 291,1050 361,1050 431,1050 501,1050 571,1048 641,1048 711,1048 781,1048 851,1048 920,1048 990,1049 1060,1051 1130,1050 1200,1050 1270,1051 1340,1050 1410,1050 1480,1049 1550,1050 1550,1002 1480,1001 1410,1002 1340,1002 1270,1003 1200,1002 1130,1002 1060,1003 990,1001 920,1000 851,1000 781,1000 711,1000 641,1000 571,1000 501,1002 431,1002 361,1002 291,1002 221,1001 152,1004"/>
+                <Baseline points="152,1036 221,1033 291,1034 361,1034 431,1034 501,1034 571,1032 641,1032 711,1032 781,1032 851,1032 920,1032 990,1033 1060,1035 1130,1034 1200,1034 1270,1035 1340,1034 1410,1034 1480,1033 1550,1034"/>
+                <TextEquiv>
+                    <Unicode>scia repressa. L'uomo la sognava, come l'ultima speranza. Un altro, quasi da sempre, cioè dal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="162,1132 233,1130 304,1128 375,1126 446,1125 517,1124 588,1126 659,1126 730,1124 801,1123 872,1124 943,1124 1014,1125 1085,1126 1156,1126 1227,1127 1298,1126 1369,1124 1440,1128 1511,1130 1582,1134 1582,1086 1511,1082 1440,1080 1369,1076 1298,1078 1227,1079 1156,1078 1085,1078 1014,1077 943,1076 872,1076 801,1075 730,1076 659,1078 588,1078 517,1076 446,1077 375,1078 304,1080 233,1082 162,1084"/>
+                <Baseline points="162,1116 233,1114 304,1112 375,1110 446,1109 517,1108 588,1110 659,1110 730,1108 801,1107 872,1108 943,1108 1014,1109 1085,1110 1156,1110 1227,1111 1298,1110 1369,1108 1440,1112 1511,1114 1582,1118"/>
+                <TextEquiv>
+                    <Unicode>primo momento della vocazione e della dedizione, conobbe il viso e l'anima della sua donna: la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="164,1198 233,1196 302,1197 371,1198 440,1198 510,1199 579,1199 648,1198 717,1198 786,1198 856,1196 925,1194 994,1194 1063,1194 1132,1194 1202,1195 1271,1194 1340,1194 1409,1195 1478,1194 1548,1194 1548,1163 1478,1163 1409,1164 1340,1163 1271,1163 1202,1164 1132,1163 1063,1163 994,1163 925,1163 856,1165 786,1167 717,1167 648,1167 579,1168 510,1168 440,1167 371,1167 302,1166 233,1165 164,1167"/>
+                <Baseline points="164,1188 233,1186 302,1187 371,1188 440,1188 510,1189 579,1189 648,1188 717,1188 786,1188 856,1186 925,1184 994,1184 1063,1184 1132,1184 1202,1185 1271,1184 1340,1184 1409,1185 1478,1184 1548,1184"/>
+                <TextEquiv>
+                    <Unicode>poesia. La poesia, senza lacrime, gli si concesse. Da una tale dimestichezza nacque una condizione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718130842949_684" custom="readingOrder {index:12;}">
+                <Coords points="148,1232 219,1230 361,1230 432,1232 503,1229 574,1230 716,1230 787,1228 858,1227 929,1226 985,1226 985,1274 929,1274 858,1275 787,1276 716,1278 574,1278 503,1277 432,1280 361,1278 219,1278 148,1280"/>
+                <Baseline points="148,1264 219,1262 290,1262 361,1262 432,1264 503,1261 574,1262 645,1262 716,1262 787,1260 858,1259 929,1258 1000,1258"/>
+                <TextEquiv>
+                    <Unicode>di intimità senza rispetto, con momenti di bellissima,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:13;} add {offset:0; length:5;place:above;}">
+                <Coords points="966,1228 993,1231 1047,1231 1048,1208 989,1206 964,1206"/>
+                <Baseline points="964,1228 989,1228 1014,1230"/>
+                <TextEquiv>
+                    <Unicode>anche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718130838996_679" custom="readingOrder {index:14;}">
+                <Coords points="986,1230 1071,1227 1142,1226 1355,1226 1426,1227 1497,1228 1568,1230 1568,1278 1497,1276 1426,1275 1355,1274 1142,1274 1071,1275 986,1278"/>
+                <Baseline points="1003,1258 1071,1259 1142,1258 1213,1258 1284,1258 1355,1258 1426,1259 1497,1260 1568,1262"/>
+                <TextEquiv>
+                    <Unicode>di straziante verità di rapporti: rapporti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:15;}">
+                <Coords points="164,1356 235,1354 306,1354 377,1350 448,1351 519,1352 590,1350 661,1350 732,1350 803,1353 874,1352 945,1352 1016,1352 1087,1350 1158,1352 1229,1354 1300,1354 1371,1354 1442,1354 1513,1354 1584,1358 1584,1310 1513,1306 1442,1306 1371,1306 1300,1306 1229,1306 1158,1304 1087,1302 1016,1304 945,1304 874,1304 803,1305 732,1302 661,1302 590,1302 519,1304 448,1303 377,1302 306,1306 235,1306 164,1308"/>
+                <Baseline points="164,1340 235,1338 306,1338 377,1334 448,1335 519,1336 590,1334 661,1334 732,1334 803,1337 874,1336 945,1336 1016,1336 1087,1334 1158,1336 1229,1338 1300,1338 1371,1338 1442,1338 1513,1338 1584,1342"/>
+                <TextEquiv>
+                    <Unicode>fra la carne, il corpo, dirci i vestimenti, gli indumenti dell'uno, e la repugnanza, la noia, la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:16;}">
+                <Coords points="164,1432 234,1430 305,1430 376,1428 446,1428 517,1428 588,1428 658,1428 729,1428 800,1426 871,1427 941,1424 1012,1426 1083,1427 1153,1428 1224,1428 1295,1429 1365,1428 1436,1430 1507,1430 1578,1434 1578,1386 1507,1382 1436,1382 1365,1380 1295,1381 1224,1380 1153,1380 1083,1379 1012,1378 941,1376 871,1379 800,1378 729,1380 658,1380 588,1380 517,1380 446,1380 376,1380 305,1382 234,1382 164,1384"/>
+                <Baseline points="164,1416 234,1414 305,1414 376,1412 446,1412 517,1412 588,1412 658,1412 729,1412 800,1410 871,1411 941,1408 1012,1410 1083,1411 1153,1412 1224,1412 1295,1413 1365,1412 1436,1414 1507,1414 1578,1418"/>
+                <TextEquiv>
+                    <Unicode>stanchezza entrati ormai nell'animo dell'altra. Le donne non solo solo senso. Sono capriccio, e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:17;}">
+                <Coords points="154,1504 224,1503 295,1503 365,1504 436,1502 506,1503 577,1504 647,1502 718,1502 788,1502 859,1505 929,1506 1000,1504 1070,1504 1141,1504 1211,1504 1282,1502 1352,1502 1423,1502 1493,1505 1564,1508 1564,1460 1493,1457 1423,1454 1352,1454 1282,1454 1211,1456 1141,1456 1070,1456 1000,1456 929,1458 859,1457 788,1454 718,1454 647,1454 577,1456 506,1455 436,1454 365,1456 295,1455 224,1455 154,1456"/>
+                <Baseline points="154,1488 224,1487 295,1487 365,1488 436,1486 506,1487 577,1488 647,1486 718,1486 788,1486 859,1489 929,1490 1000,1488 1070,1488 1141,1488 1211,1488 1282,1486 1352,1486 1423,1486 1493,1489 1564,1492"/>
+                <TextEquiv>
+                    <Unicode>sofisma; sono dispetto, e insolubile scontentezza. Pure, questi e altri loro fratelli, vagheggiarono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:18;} del {offset:62; length:7;rend:overstrike;} gap {offset:62; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="166,1580 237,1580 309,1580 381,1580 452,1580 524,1580 596,1581 667,1581 739,1580 811,1579 883,1580 954,1580 1026,1580 1098,1580 1169,1578 1241,1580 1313,1580 1384,1580 1456,1580 1528,1579 1600,1580 1600,1532 1528,1531 1456,1532 1384,1532 1313,1532 1241,1532 1169,1530 1098,1532 1026,1532 954,1532 883,1532 811,1531 739,1532 667,1533 596,1533 524,1532 452,1532 381,1532 309,1532 237,1532 166,1532"/>
+                <Baseline points="166,1564 237,1564 309,1564 381,1564 452,1564 524,1564 596,1565 667,1565 739,1564 811,1563 883,1564 954,1564 1026,1564 1098,1564 1169,1562 1241,1564 1313,1564 1384,1564 1456,1564 1528,1563 1600,1564"/>
+                <TextEquiv>
+                    <Unicode>con fiducia, con superstiziosa fede, il raggiungimento di una         finale serenità. Non co-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718131607340_737" custom="readingOrder {index:19;}">
+                <Coords points="158,1606 228,1605 298,1605 368,1606 438,1606 508,1605 578,1606 648,1606 718,1607 736,1625 729,1651 718,1655 648,1654 578,1654 508,1653 438,1654 368,1654 298,1653 228,1653 158,1654"/>
+                <Baseline points="158,1638 228,1637 298,1637 368,1638 438,1638 508,1637 578,1638 648,1638 718,1639 755,1638"/>
+                <TextEquiv>
+                    <Unicode>nobbero, non attinsero che apprensione,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718131650895_749" custom="readingOrder {index:20;} add {offset:0; length:1;place:above;}">
+                <Coords points="728,1591 761,1587 758,1621 731,1621"/>
+                <Baseline points="731,1616 758,1616"/>
+                <TextEquiv>
+                    <Unicode>e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718131607340_736" custom="readingOrder {index:21;}">
+                <Coords points="751,1622 788,1606 1069,1606 1139,1607 1209,1606 1279,1607 1349,1607 1419,1608 1489,1609 1560,1612 1560,1660 1489,1657 1419,1656 1349,1655 1279,1655 1209,1654 1139,1655 1069,1654 788,1654 748,1655"/>
+                <Baseline points="755,1638 788,1638 859,1638 929,1638 999,1638 1069,1638 1139,1639 1209,1638 1279,1639 1349,1639 1419,1640 1489,1641 1560,1644"/>
+                <TextEquiv>
+                    <Unicode>ansia, dalle quali derivò, naturalmente, al loro lavoro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:22;}">
+                <Coords points="162,1734 233,1733 304,1731 376,1728 447,1726 519,1726 590,1726 661,1726 733,1728 804,1727 876,1728 947,1728 1018,1728 1090,1728 1161,1728 1233,1729 1304,1728 1375,1729 1447,1733 1518,1738 1590,1740 1590,1692 1518,1690 1447,1685 1375,1681 1304,1680 1233,1681 1161,1680 1090,1680 1018,1680 947,1680 876,1680 804,1679 733,1680 661,1678 590,1678 519,1678 447,1678 376,1680 304,1683 233,1685 162,1686"/>
+                <Baseline points="162,1718 233,1717 304,1715 376,1712 447,1710 519,1710 590,1710 661,1710 733,1712 804,1711 876,1712 947,1712 1018,1712 1090,1712 1161,1712 1233,1713 1304,1712 1375,1713 1447,1717 1518,1722 1590,1724"/>
+                <TextEquiv>
+                    <Unicode>un gesto e un tratto di quel modo di esistere in poesia che ancora riflette, travestita, la fiam-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:23;}">
+                <Coords points="156,1804 189,1806 223,1806 257,1806 291,1805 325,1804 358,1804 392,1804 426,1804 460,1804 494,1804 527,1805 561,1805 595,1804 629,1804 662,1806 696,1804 730,1806 764,1806 798,1807 832,1810 832,1762 798,1759 764,1758 730,1758 696,1756 662,1758 629,1756 595,1756 561,1757 527,1757 494,1756 460,1756 426,1756 392,1756 358,1756 325,1756 291,1757 257,1758 223,1758 189,1758 156,1756"/>
+                <Baseline points="156,1788 189,1790 223,1790 257,1790 291,1789 325,1788 358,1788 392,1788 426,1788 460,1788 494,1788 527,1789 561,1789 595,1788 629,1788 662,1790 696,1788 730,1790 764,1790 798,1791 832,1794"/>
+                <TextEquiv>
+                    <Unicode>ma che, lontanissima, fu chiamata romantica.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Altri poeti: dopo il Pascoli, ha avuto la poesia italiana; e      &#13;
+qualcuno ne&#13;
+abbiamo conosciuto;&#13;
+visto da vicino. E, spesso, nel loro sogno, nella proposta umana della loro poetica, l'ora di pace,&#13;
+la serenità di un tramonto di cose e di sentimenti tutti chiariti, dopo il quale possa sorgere&#13;
+una tregua, una sospensione, uno spazio di meditazione, da cui prendere forse per continua-&#13;
+re. Ma uno, si fa per dire, è quello che, per quanto è lunga la vita, insegue con pazienza&#13;
+disperata, chiamandola con le parole di rimpianto una figura, che gli sfugge. E' la poesia, egli lo&#13;
+sa. Un giorno la raggiunge; la ghernisce. Quella volge il viso. In viso, un cuore, una poesia di ango-&#13;
+scia repressa. L'uomo la sognava, come l'ultima speranza. Un altro, quasi da sempre, cioè dal&#13;
+primo momento della vocazione e della dedizione, conobbe il viso e l'anima della sua donna: la&#13;
+poesia. La poesia, senza lacrime, gli si concesse. Da una tale dimestichezza nacque una condizione&#13;
+di intimità senza rispetto, con momenti di bellissima,&#13;
+anche&#13;
+di straziante verità di rapporti: rapporti&#13;
+fra la carne, il corpo, dirci i vestimenti, gli indumenti dell'uno, e la repugnanza, la noia, la&#13;
+stanchezza entrati ormai nell'animo dell'altra. Le donne non solo solo senso. Sono capriccio, e&#13;
+sofisma; sono dispetto, e insolubile scontentezza. Pure, questi e altri loro fratelli, vagheggiarono&#13;
+con fiducia, con superstiziosa fede, il raggiungimento di una         finale serenità. Non co-&#13;
+nobbero, non attinsero che apprensione,&#13;
+e&#13;
+ansia, dalle quali derivò, naturalmente, al loro lavoro&#13;
+un gesto e un tratto di quel modo di esistere in poesia che ancora riflette, travestita, la fiam-&#13;
+ma che, lontanissima, fu chiamata romantica.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718129473371_497" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="138,1820 1597,1826 1598,2043 139,2037"/>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:0;} person {offset:81; length:6;occupation:poet; firstname:Diego\u0020; dateOfDeath:\u002028\u0020November\u00201976; dateOfBirth:25\u0020January\u00201887; lastname:Valeri;}">
+                <Coords points="162,1888 233,1885 305,1884 377,1884 448,1884 520,1886 592,1882 663,1884 735,1885 807,1884 879,1882 950,1883 1022,1880 1094,1881 1165,1880 1237,1882 1309,1880 1380,1882 1452,1880 1524,1879 1596,1882 1596,1834 1524,1831 1452,1832 1380,1834 1309,1832 1237,1834 1165,1832 1094,1833 1022,1832 950,1835 879,1834 807,1836 735,1837 663,1836 592,1834 520,1838 448,1836 377,1836 305,1836 233,1837 162,1840"/>
+                <Baseline points="162,1872 233,1869 305,1868 377,1868 448,1868 520,1870 592,1866 663,1868 735,1869 807,1868 879,1866 950,1867 1022,1864 1094,1865 1165,1864 1237,1866 1309,1864 1380,1866 1452,1864 1524,1863 1596,1866"/>
+                <TextEquiv>
+                    <Unicode>D'altro genere, il temperamento, la seconda natura, cioè il lavoro in poesia, di Valeri, che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:1;}">
+                <Coords points="148,1952 219,1953 290,1954 361,1954 432,1952 503,1952 574,1952 645,1952 716,1952 787,1950 858,1950 929,1950 1000,1950 1071,1950 1142,1952 1213,1953 1284,1952 1355,1952 1426,1953 1497,1952 1568,1954 1568,1924 1497,1922 1426,1923 1355,1922 1284,1922 1213,1923 1142,1922 1071,1920 1000,1920 929,1920 858,1920 787,1920 716,1922 645,1922 574,1922 503,1922 432,1922 361,1924 290,1924 219,1923 148,1922"/>
+                <Baseline points="148,1942 219,1943 290,1944 361,1944 432,1942 503,1942 574,1942 645,1942 716,1942 787,1940 858,1940 929,1940 1000,1940 1071,1940 1142,1942 1213,1943 1284,1942 1355,1942 1426,1943 1497,1942 1568,1944"/>
+                <TextEquiv>
+                    <Unicode>riflette, calmamente ma integralmente, i caratteri della sua natura fisica, definitasi nel corso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718131985371_781" custom="readingOrder {index:2;}">
+                <Coords points="144,2001 158,2002 236,1998 314,1996 471,1996 549,1998 784,1998 862,1997 940,1996 998,1996 998,2026 940,2026 862,2027 784,2028 549,2028 471,2026 314,2026 236,2028 158,2032 144,2031"/>
+                <Baseline points="144,2021 158,2022 236,2018 314,2016 393,2016 471,2016 549,2018 627,2018 705,2018 784,2018 862,2017 940,2016 998,2016"/>
+                <TextEquiv>
+                    <Unicode>della vita. Quel suo "occhio" che vede e ritrae con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:3;} add {offset:0; length:10;place:above;}">
+                <Coords points="992,1986 1063,1984 1088,1984 1113,1986 1138,1989 1164,1992 1164,1962 1138,1959 1113,1956 1088,1954 1063,1954 992,1956"/>
+                <Baseline points="1003,1976 1063,1974 1088,1974 1113,1976 1138,1979 1164,1982"/>
+                <TextEquiv>
+                    <Unicode>affettuosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718131985371_780" custom="readingOrder {index:4;} del {offset:0; length:10;rend:overstrike;}">
+                <Coords points="998,1996 1096,1996 1175,2000 1331,2000 1409,2002 1487,2000 1566,2000 1566,2030 1487,2030 1409,2032 1331,2030 1175,2030 1096,2026 998,2026"/>
+                <Baseline points="998,2016 1018,2016 1096,2016 1175,2020 1253,2020 1331,2020 1409,2022 1487,2020 1566,2020"/>
+                <TextEquiv>
+                    <Unicode>obbiettiva equità, è lui che propone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>D'altro genere, il temperamento, la seconda natura, cioè il lavoro in poesia, di Valeri, che&#13;
+riflette, calmamente ma integralmente, i caratteri della sua natura fisica, definitasi nel corso&#13;
+della vita. Quel suo "occhio" che vede e ritrae con&#13;
+affettuosa&#13;
+obbiettiva equità, è lui che propone</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

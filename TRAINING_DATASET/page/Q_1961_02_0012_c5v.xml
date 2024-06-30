@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:07:50.698+01:00</Created>
+        <LastChange>2024-06-20T11:28:02.788+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325499" pageNr="45" tsid="175603530" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=SNUCPPJVCRJDJSNWMDWWXLSD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KCFHXQGNWHDMOVPVXOHERNWG" imageId="53903602"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_02_0012_c5v.jpg" imageWidth="1798" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746066038" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718875623672_394"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718875623672_394" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1614,352 1524,352 1524,271 1614,271"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1537,334 1564,336 1591,336 1591,278 1564,278 1537,276"/>
+                <Baseline points="1537,315 1564,317 1591,317"/>
+                <TextEquiv>
+                    <Unicode>10.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>10.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="185,272 185,2036 1656,2033 1656,269"/>
+            <TextLine id="line_1718119241321_1330" custom="readingOrder {index:0;}">
+                <Coords points="220,461 1645,465 1645,515 220,511"/>
+                <Baseline points="220,506 1645,510"/>
+                <TextEquiv>
+                    <Unicode>e l'esperienza dentro il tessuto ritmico della forma, sbandano, fluttuano, segnano un'an_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718119245412_1335" custom="readingOrder {index:1;} hi {offset:26; length:9;rend:underline;}">
+                <Coords points="211,541 1645,537 1645,587 211,591"/>
+                <Baseline points="211,586 1645,582"/>
+                <TextEquiv>
+                    <Unicode>damento stilistico, che è movimento. Già nell'album di "Guerra pittorica", in disegni ispirati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718119250204_1340" custom="readingOrder {index:2;} gap {offset:55; length:0;quantity:9; unit:character; reason:illegible;}">
+                <Coords points="207,612 1632,612 1632,662 207,662"/>
+                <Baseline points="207,657 1632,657"/>
+                <TextEquiv>
+                    <Unicode>da una polemica occasionale, ma in fondo motivata, con         ,da una paziente ri_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718119256052_1345" custom="readingOrder {index:3;}">
+                <Coords points="209,690 1636,683 1636,733 209,740"/>
+                <Baseline points="209,735 1636,728"/>
+                <TextEquiv>
+                    <Unicode>cerca formale, i segni di matita, simili a cordicelle sfilacciate, tracciano le curve, le elis_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718119260397_1350" custom="readingOrder {index:4;} del {offset:4; length:2;rend:overstrike;} gap {offset:4; length:0;quantity:2; unit:character; reason:illegible;}">
+                <Coords points="210,767 325,765 326,815 211,817"/>
+                <Baseline points="211,812 326,810"/>
+                <TextEquiv>
+                    <Unicode>si,   </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="289,777 316,777 344,777 371,777 399,777 426,777 454,777 481,777 509,777 509,747 481,747 454,747 426,747 399,747 371,747 344,747 316,747 289,747"/>
+                <Baseline points="289,767 316,767 344,767 371,767 399,767 426,767 454,767 481,767 509,767"/>
+                <TextEquiv>
+                    <Unicode>inseguono la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718119263939_1355" custom="readingOrder {index:6;}">
+                <Coords points="343,769 1619,761 1619,811 343,819"/>
+                <Baseline points="343,814 1619,806"/>
+                <TextEquiv>
+                    <Unicode>geometria appassionata di un sistema sospeso a mezza via fra il disegno_in_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="217,910 286,900 356,898 426,898 496,897 566,898 636,897 706,896 776,894 846,893 916,892 985,892 1055,892 1125,893 1195,892 1265,894 1335,894 1405,892 1475,894 1545,893 1615,896 1615,845 1545,842 1475,843 1405,841 1335,843 1265,843 1195,841 1125,842 1055,841 985,841 916,841 846,842 776,843 706,845 636,846 566,847 496,846 426,847 356,847 286,849 217,859"/>
+                <Baseline points="217,893 286,883 356,881 426,881 496,880 566,881 636,880 706,879 776,877 846,876 916,875 985,875 1055,875 1125,876 1195,875 1265,877 1335,877 1405,875 1475,877 1545,876 1615,879"/>
+                <TextEquiv>
+                    <Unicode>parole e il disegni_in_segni. Quando il motivo, cioè l'immagine completa, si conclude</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718119272638_1360" custom="readingOrder {index:8;}">
+                <Coords points="215,919 1640,909 1640,959 215,969"/>
+                <Baseline points="215,964 1640,954"/>
+                <TextEquiv>
+                    <Unicode>dentro un ovale, o un rettangolo di spazi sensibili, è un'armonia, nient'altro che la sostan_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:9;}">
+                <Coords points="221,1051 290,1047 359,1048 428,1044 497,1043 567,1045 636,1043 705,1045 774,1048 843,1047 913,1049 982,1045 1051,1044 1120,1043 1189,1043 1259,1043 1328,1041 1397,1041 1466,1042 1535,1042 1605,1039 1605,985 1535,988 1466,988 1397,987 1328,987 1259,989 1189,989 1120,989 1051,990 982,991 913,995 843,993 774,994 705,991 636,989 567,991 497,989 428,990 359,994 290,993 221,997"/>
+                <Baseline points="221,1033 290,1029 359,1030 428,1026 497,1025 567,1027 636,1025 705,1027 774,1030 843,1029 913,1031 982,1027 1051,1026 1120,1025 1189,1025 1259,1025 1328,1023 1397,1023 1466,1024 1535,1024 1605,1021"/>
+                <TextEquiv>
+                    <Unicode>za di un'armonia occupa gli spazi, fino a debordare dai limiti negati.Non si può</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:10;}">
+                <Coords points="209,1129 279,1127 349,1126 420,1123 490,1123 561,1121 631,1121 701,1123 772,1123 842,1123 913,1123 983,1123 1053,1123 1124,1121 1194,1121 1265,1121 1335,1121 1405,1123 1476,1124 1546,1126 1617,1127 1617,1073 1546,1072 1476,1070 1405,1069 1335,1067 1265,1067 1194,1067 1124,1067 1053,1069 983,1069 913,1069 842,1069 772,1069 701,1069 631,1067 561,1067 490,1069 420,1069 349,1072 279,1073 209,1075"/>
+                <Baseline points="209,1111 279,1109 349,1108 420,1105 490,1105 561,1103 631,1103 701,1105 772,1105 842,1105 913,1105 983,1105 1053,1105 1124,1103 1194,1103 1265,1103 1335,1103 1405,1105 1476,1106 1546,1108 1617,1109"/>
+                <TextEquiv>
+                    <Unicode>immaginare che il progresso, la successiva, lenta, meravigliosa maturazione, la conqui_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:11;}">
+                <Coords points="221,1207 291,1204 361,1205 431,1204 501,1204 571,1203 641,1203 711,1203 781,1203 851,1203 921,1201 991,1203 1061,1202 1131,1201 1201,1203 1271,1202 1341,1202 1411,1201 1481,1202 1551,1199 1621,1205 1621,1151 1551,1145 1481,1148 1411,1147 1341,1148 1271,1148 1201,1149 1131,1147 1061,1148 991,1149 921,1147 851,1149 781,1149 711,1149 641,1149 571,1149 501,1150 431,1150 361,1151 291,1150 221,1153"/>
+                <Baseline points="221,1189 291,1186 361,1187 431,1186 501,1186 571,1185 641,1185 711,1185 781,1185 851,1185 921,1183 991,1185 1061,1184 1131,1183 1201,1185 1271,1184 1341,1184 1411,1183 1481,1184 1551,1181 1621,1187"/>
+                <TextEquiv>
+                    <Unicode>sta prudente e insieme ispirata, la lotta e la meditazione in cui poggiano il lavoro,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:12;}">
+                <Coords points="211,1279 282,1279 353,1279 424,1281 496,1280 567,1281 638,1279 710,1279 781,1279 852,1279 924,1279 995,1277 1066,1278 1137,1275 1209,1276 1280,1276 1351,1275 1423,1275 1494,1275 1565,1279 1637,1289 1637,1235 1565,1225 1494,1221 1423,1221 1351,1221 1280,1222 1209,1222 1137,1221 1066,1224 995,1223 924,1225 852,1225 781,1225 710,1225 638,1225 567,1227 496,1226 424,1227 353,1225 282,1225 211,1225"/>
+                <Baseline points="211,1261 282,1261 353,1261 424,1263 496,1262 567,1263 638,1261 710,1261 781,1261 852,1261 924,1261 995,1259 1066,1260 1137,1257 1209,1258 1280,1258 1351,1257 1423,1257 1494,1257 1565,1261 1637,1271"/>
+                <TextEquiv>
+                    <Unicode>l'invenzione continua dell'idea plastica di Carrà, potessero realizzarsi senza l'esperienza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718119278335_1365" custom="readingOrder {index:13;}">
+                <Coords points="228,1292 1651,1292 1651,1342 228,1342"/>
+                <Baseline points="228,1337 1651,1337"/>
+                <TextEquiv>
+                    <Unicode>futurista: un'esperienza, voglio dire, non solo di ricerche e di modi stilistici, ma sopratutto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:14;}">
+                <Coords points="209,1435 248,1431 288,1429 328,1428 367,1429 407,1429 447,1428 486,1427 526,1429 566,1430 606,1429 645,1429 685,1428 725,1429 764,1429 804,1428 844,1427 883,1427 923,1427 963,1428 1003,1433 1003,1384 963,1379 923,1378 883,1378 844,1378 804,1379 764,1380 725,1380 685,1379 645,1380 606,1380 566,1381 526,1380 486,1378 447,1379 407,1380 367,1380 328,1379 288,1380 248,1382 209,1386"/>
+                <Baseline points="209,1419 248,1415 288,1413 328,1412 367,1413 407,1413 447,1412 486,1411 526,1413 566,1414 606,1413 645,1413 685,1412 725,1413 764,1413 804,1412 844,1411 883,1411 923,1411 963,1412 1003,1417"/>
+                <TextEquiv>
+                    <Unicode>di esercizio morale, di conquista di umanità.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:15;} gap {offset:68; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="227,1503 296,1503 366,1503 436,1505 506,1505 576,1506 645,1503 715,1503 785,1501 855,1501 925,1502 994,1501 1064,1501 1134,1503 1204,1499 1274,1501 1343,1499 1413,1498 1483,1499 1553,1499 1623,1503 1623,1454 1553,1450 1483,1450 1413,1449 1343,1450 1274,1452 1204,1450 1134,1454 1064,1452 994,1452 925,1453 855,1452 785,1452 715,1454 645,1454 576,1457 506,1456 436,1456 366,1454 296,1454 227,1454"/>
+                <Baseline points="227,1487 296,1487 366,1487 436,1489 506,1489 576,1490 645,1487 715,1487 785,1485 855,1485 925,1486 994,1485 1064,1485 1134,1487 1204,1483 1274,1485 1343,1483 1413,1482 1483,1483 1553,1483 1623,1487"/>
+                <TextEquiv>
+                    <Unicode>Quando, nel dicembre 1917, Carrà tenne una sua mostra alla galleria      , in corso Venezia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:16;}">
+                <Coords points="223,1584 294,1580 366,1580 438,1580 510,1581 582,1580 653,1579 725,1578 797,1578 869,1578 941,1580 1012,1580 1084,1580 1156,1580 1228,1578 1300,1578 1371,1577 1443,1576 1515,1576 1587,1577 1659,1580 1659,1528 1587,1525 1515,1524 1443,1524 1371,1525 1300,1526 1228,1526 1156,1528 1084,1528 1012,1528 941,1528 869,1526 797,1526 725,1526 653,1527 582,1528 510,1529 438,1528 366,1528 294,1528 223,1532"/>
+                <Baseline points="223,1567 294,1563 366,1563 438,1563 510,1564 582,1563 653,1562 725,1561 797,1561 869,1561 941,1563 1012,1563 1084,1563 1156,1563 1228,1561 1300,1561 1371,1560 1443,1559 1515,1559 1587,1560 1659,1563"/>
+                <TextEquiv>
+                    <Unicode>a Milano, e fu la prima esibizione, lo scoppio insieme patetico e aggressivo della sua "pittu_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:17;}">
+                <Coords points="219,1656 290,1654 362,1656 434,1658 506,1657 578,1654 649,1652 721,1652 793,1652 865,1652 937,1652 1008,1654 1080,1653 1152,1652 1224,1650 1296,1652 1367,1652 1439,1652 1511,1652 1583,1652 1655,1658 1655,1606 1583,1600 1511,1600 1439,1600 1367,1600 1296,1600 1224,1598 1152,1600 1080,1601 1008,1602 937,1600 865,1600 793,1600 721,1600 649,1600 578,1602 506,1605 434,1606 362,1604 290,1602 219,1604"/>
+                <Baseline points="219,1639 290,1637 362,1639 434,1641 506,1640 578,1637 649,1635 721,1635 793,1635 865,1635 937,1635 1008,1637 1080,1636 1152,1635 1224,1633 1296,1635 1367,1635 1439,1635 1511,1635 1583,1635 1655,1641"/>
+                <TextEquiv>
+                    <Unicode>ra metafisica", il suo confronto, meditato e sicuro, con il mondo, la mostra si intitolava</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:18;}">
+                <Coords points="221,1734 292,1732 363,1732 434,1732 506,1730 577,1730 648,1729 720,1728 791,1726 862,1724 934,1724 1005,1725 1076,1728 1147,1727 1219,1730 1290,1728 1361,1728 1433,1728 1504,1728 1575,1730 1647,1732 1647,1680 1575,1678 1504,1676 1433,1676 1361,1676 1290,1676 1219,1678 1147,1675 1076,1676 1005,1673 934,1672 862,1672 791,1674 720,1676 648,1677 577,1678 506,1678 434,1680 363,1680 292,1680 221,1682"/>
+                <Baseline points="221,1717 292,1715 363,1715 434,1715 506,1713 577,1713 648,1712 720,1711 791,1709 862,1707 934,1707 1005,1708 1076,1711 1147,1710 1219,1713 1290,1711 1361,1711 1433,1711 1504,1711 1575,1713 1647,1715"/>
+                <TextEquiv>
+                    <Unicode>dal nome del "pittore futurista Carlo Carrà". Noi fummo a quella, veramente storica, mo_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:19;}">
+                <Coords points="211,1807 282,1807 353,1807 424,1809 496,1809 567,1810 638,1811 710,1811 781,1812 852,1809 924,1807 995,1804 1066,1803 1137,1802 1209,1802 1280,1801 1351,1802 1423,1801 1494,1803 1565,1804 1637,1801 1637,1747 1565,1750 1494,1749 1423,1747 1351,1748 1280,1747 1209,1748 1137,1748 1066,1749 995,1750 924,1753 852,1755 781,1758 710,1757 638,1757 567,1756 496,1755 424,1755 353,1753 282,1753 211,1753"/>
+                <Baseline points="211,1789 282,1789 353,1789 424,1791 496,1791 567,1792 638,1793 710,1793 781,1794 852,1791 924,1789 995,1786 1066,1785 1137,1784 1209,1784 1280,1783 1351,1784 1423,1783 1494,1785 1565,1786 1637,1783"/>
+                <TextEquiv>
+                    <Unicode>stra. Quando vi entrammo, quella giornata gelida di dicembre, ad attenderci nella stanzian, erano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718119284604_1370" custom="readingOrder {index:20;}">
+                <Coords points="216,1828 1655,1820 1655,1870 216,1878"/>
+                <Baseline points="216,1873 1655,1865"/>
+                <TextEquiv>
+                    <Unicode>la moglie di Carrà e il proprietario della galleria. Il corpo giornalistico, il corpo accredita_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718119289323_1375" custom="readingOrder {index:21;}">
+                <Coords points="211,1903 1657,1906 1657,1956 211,1953"/>
+                <Baseline points="211,1948 1657,1951"/>
+                <TextEquiv>
+                    <Unicode>to della critica d'arte, rimarcavano in pieno. Così, proseguiva e si consolidava, in una soli_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718119293959_1380" custom="readingOrder {index:22;}">
+                <Coords points="213,1975 1657,1977 1657,2027 213,2025"/>
+                <Baseline points="213,2020 1657,2022"/>
+                <TextEquiv>
+                    <Unicode>tudine quasi perfetta, il lavoro più profiquo di Carrà. Carrà aveva studio, e casa, in via Vi_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>e l'esperienza dentro il tessuto ritmico della forma, sbandano, fluttuano, segnano un'an_&#13;
+damento stilistico, che è movimento. Già nell'album di "Guerra pittorica", in disegni ispirati&#13;
+da una polemica occasionale, ma in fondo motivata, con         ,da una paziente ri_&#13;
+cerca formale, i segni di matita, simili a cordicelle sfilacciate, tracciano le curve, le elis_&#13;
+si,   &#13;
+inseguono la&#13;
+geometria appassionata di un sistema sospeso a mezza via fra il disegno_in_&#13;
+parole e il disegni_in_segni. Quando il motivo, cioè l'immagine completa, si conclude&#13;
+dentro un ovale, o un rettangolo di spazi sensibili, è un'armonia, nient'altro che la sostan_&#13;
+za di un'armonia occupa gli spazi, fino a debordare dai limiti negati.Non si può&#13;
+immaginare che il progresso, la successiva, lenta, meravigliosa maturazione, la conqui_&#13;
+sta prudente e insieme ispirata, la lotta e la meditazione in cui poggiano il lavoro,&#13;
+l'invenzione continua dell'idea plastica di Carrà, potessero realizzarsi senza l'esperienza&#13;
+futurista: un'esperienza, voglio dire, non solo di ricerche e di modi stilistici, ma sopratutto&#13;
+di esercizio morale, di conquista di umanità.&#13;
+Quando, nel dicembre 1917, Carrà tenne una sua mostra alla galleria      , in corso Venezia&#13;
+a Milano, e fu la prima esibizione, lo scoppio insieme patetico e aggressivo della sua "pittu_&#13;
+ra metafisica", il suo confronto, meditato e sicuro, con il mondo, la mostra si intitolava&#13;
+dal nome del "pittore futurista Carlo Carrà". Noi fummo a quella, veramente storica, mo_&#13;
+stra. Quando vi entrammo, quella giornata gelida di dicembre, ad attenderci nella stanzian, erano&#13;
+la moglie di Carrà e il proprietario della galleria. Il corpo giornalistico, il corpo accredita_&#13;
+to della critica d'arte, rimarcavano in pieno. Così, proseguiva e si consolidava, in una soli_&#13;
+tudine quasi perfetta, il lavoro più profiquo di Carrà. Carrà aveva studio, e casa, in via Vi_</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

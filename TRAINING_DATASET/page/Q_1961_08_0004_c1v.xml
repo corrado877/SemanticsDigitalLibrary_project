@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:22:29.315+01:00</Created>
+        <LastChange>2024-06-20T11:57:08.474+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326021" pageNr="62" tsid="175603528" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=RQPDJPKFGZCKZCAPUVBOLEUC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LVVTXVTMUOHUNCOLTIUHVMAE" imageId="53903852"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_08_0004_c1v.jpg" imageWidth="1798" imageHeight="2471" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746069305" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718186508141_1907"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718186508141_1907" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1528,297 1528,349 1587,349 1587,297"/>
+            <TextLine id="line_1718186508354_1910" custom="readingOrder {index:0;}">
+                <Coords points="1528,299 1585,297 1587,347 1530,349"/>
+                <Baseline points="1530,344 1587,342"/>
+                <TextEquiv>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="213,425 213,1997 1655,1997 1655,425"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="233,475 303,475 373,474 443,473 514,473 584,473 654,473 725,473 795,473 865,475 936,473 1006,473 1076,473 1146,474 1217,475 1287,473 1357,475 1428,475 1498,477 1568,477 1639,481 1639,433 1568,429 1498,429 1428,427 1357,427 1287,425 1217,427 1146,426 1076,425 1006,425 936,425 865,427 795,425 725,425 654,425 584,425 514,425 443,425 373,426 303,427 233,427"/>
+                <Baseline points="233,459 303,459 373,458 443,457 514,457 584,457 654,457 725,457 795,457 865,459 936,457 1006,457 1076,457 1146,458 1217,459 1287,457 1357,459 1428,459 1498,461 1568,461 1639,465"/>
+                <TextEquiv>
+                    <Unicode>mente luttuoso. Poi vengono le giostre. Quella con le carrozzine volanti, a montagna russa. Le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="237,545 306,548 376,550 446,549 516,549 586,549 656,547 726,549 796,548 866,547 936,547 1005,548 1075,547 1145,549 1215,549 1285,551 1355,553 1425,553 1495,555 1565,553 1635,557 1635,509 1565,505 1495,507 1425,505 1355,505 1285,503 1215,501 1145,501 1075,499 1005,500 936,499 866,499 796,500 726,501 656,499 586,501 516,501 446,501 376,502 306,500 237,497"/>
+                <Baseline points="237,529 306,532 376,534 446,533 516,533 586,533 656,531 726,533 796,532 866,531 936,531 1005,532 1075,531 1145,533 1215,533 1285,535 1355,537 1425,537 1495,539 1565,537 1635,541"/>
+                <TextEquiv>
+                    <Unicode>carrozzine, salendo verso il cielo, oscillano, come in un’altalena. Qualcuno le occupava, mandan-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} del {offset:45; length:11;rend:overstrike;}">
+                <Coords points="229,627 298,624 368,624 437,623 507,623 576,624 646,623 715,625 785,624 854,626 924,627 993,626 1063,627 1132,625 1202,626 1271,627 1341,625 1410,628 1480,630 1549,631 1619,633 1619,585 1549,583 1480,582 1410,580 1341,577 1271,579 1202,578 1132,577 1063,579 993,578 924,579 854,578 785,576 715,577 646,575 576,576 507,575 437,575 368,576 298,576 229,579"/>
+                <Baseline points="229,611 298,608 368,608 437,607 507,607 576,608 646,607 715,609 785,608 854,610 924,611 993,610 1063,611 1132,609 1202,610 1271,611 1341,609 1410,612 1480,614 1549,615 1619,617"/>
+                <TextEquiv>
+                    <Unicode>do nel tempo della discesa le consuete grida di allegria, di finto spavento. A pochi passi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="227,697 297,700 368,702 438,703 509,702 579,704 650,703 720,703 791,703 861,703 932,704 1002,703 1073,705 1143,705 1214,707 1284,705 1355,705 1425,705 1496,706 1566,705 1637,711 1637,663 1566,657 1496,658 1425,657 1355,657 1284,657 1214,659 1143,657 1073,657 1002,655 932,656 861,655 791,655 720,655 650,655 579,656 509,654 438,655 368,654 297,652 227,649"/>
+                <Baseline points="227,681 297,684 368,686 438,687 509,686 579,688 650,687 720,687 791,687 861,687 932,688 1002,687 1073,689 1143,689 1214,691 1284,689 1355,689 1425,689 1496,690 1566,689 1637,695"/>
+                <TextEquiv>
+                    <Unicode>l’altra giostra: quella antica, affettuosa, con i cavalli di legno. Finimenti, cinghie, parocchi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="229,777 300,777 371,778 442,777 514,777 585,777 656,777 728,777 799,775 870,778 942,777 1013,779 1084,779 1155,782 1227,780 1298,779 1369,777 1441,777 1512,777 1583,775 1655,777 1655,729 1583,727 1512,729 1441,729 1369,729 1298,731 1227,732 1155,734 1084,731 1013,731 942,729 870,730 799,727 728,729 656,729 585,729 514,729 442,729 371,730 300,729 229,729"/>
+                <Baseline points="229,761 300,761 371,762 442,761 514,761 585,761 656,761 728,761 799,759 870,762 942,761 1013,763 1084,763 1155,766 1227,764 1298,763 1369,761 1441,761 1512,761 1583,759 1655,761"/>
+                <TextEquiv>
+                    <Unicode>sono di legno ricoperto d’oro. Le briglie, che il fanciullo regge, sono i cuoio. Girano i cavalli-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;} del {offset:83; length:5;rend:overstrike;} div {offset:83; length:0;}">
+                <Coords points="213,855 284,852 356,849 428,849 500,850 572,851 643,853 715,853 787,853 859,852 931,851 1002,849 1074,850 1146,853 1218,853 1290,855 1361,854 1433,853 1505,853 1577,857 1649,865 1649,817 1577,809 1505,805 1433,805 1361,806 1290,807 1218,805 1146,805 1074,802 1002,801 931,803 859,804 787,805 715,805 643,805 572,803 500,802 428,801 356,801 284,804 213,807"/>
+                <Baseline points="213,839 284,836 356,833 428,833 500,834 572,835 643,837 715,837 787,837 859,836 931,835 1002,833 1074,834 1146,837 1218,837 1290,839 1361,838 1433,837 1505,837 1577,841 1649,849"/>
+                <TextEquiv>
+                    <Unicode>ni intorno intorno al suono ineffabile della musica. Una musica di fonte vegetale,      </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186498322_1892" custom="readingOrder {index:6;}">
+                <Coords points="216,872 392,870 393,920 217,922"/>
+                <Baseline points="217,917 393,915"/>
+                <TextEquiv>
+                    <Unicode>percorsa da </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186499970_1897" custom="readingOrder {index:7;}">
+                <Coords points="377,838 432,840 430,890 375,888"/>
+                <Baseline points="375,883 430,885"/>
+                <TextEquiv>
+                    <Unicode>un </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186503764_1902" custom="readingOrder {index:8;}">
+                <Coords points="405,870 1644,872 1644,922 405,920"/>
+                <Baseline points="405,915 1644,917"/>
+                <TextEquiv>
+                    <Unicode>chiocciolio di acqua nascosta. Il tiro al bersaglio risuona, un suono perduto e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:9;}">
+                <Coords points="217,1011 288,1005 359,1007 430,1006 501,1005 572,1002 643,1001 714,1001 785,1001 856,1001 928,1001 999,1004 1070,1005 1141,1004 1212,1003 1283,1003 1354,1003 1425,1005 1496,1005 1567,1005 1639,1007 1639,959 1567,957 1496,957 1425,957 1354,955 1283,955 1212,955 1141,956 1070,957 999,956 928,953 856,953 785,953 714,953 643,953 572,954 501,957 430,958 359,959 288,957 217,963"/>
+                <Baseline points="217,995 288,989 359,991 430,990 501,989 572,986 643,985 714,985 785,985 856,985 928,985 999,988 1070,989 1141,988 1212,987 1283,987 1354,987 1425,989 1496,989 1567,989 1639,991"/>
+                <TextEquiv>
+                    <Unicode>solitario, di coccio spaccato. Noi due si andava alla pista degli automobilini. Sono quelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:10;}">
+                <Coords points="233,1077 303,1079 373,1079 443,1079 514,1080 584,1080 654,1079 725,1081 795,1078 865,1077 936,1079 1006,1077 1076,1077 1146,1078 1217,1077 1287,1077 1357,1075 1428,1079 1498,1077 1568,1079 1639,1083 1639,1035 1568,1031 1498,1029 1428,1031 1357,1027 1287,1029 1217,1029 1146,1030 1076,1029 1006,1029 936,1031 865,1029 795,1030 725,1033 654,1031 584,1032 514,1032 443,1031 373,1031 303,1031 233,1029"/>
+                <Baseline points="233,1061 303,1063 373,1063 443,1063 514,1064 584,1064 654,1063 725,1065 795,1062 865,1061 936,1063 1006,1061 1076,1061 1146,1062 1217,1061 1287,1061 1357,1059 1428,1063 1498,1061 1568,1063 1639,1067"/>
+                <TextEquiv>
+                    <Unicode>cassette di lamiera, a foggia di automobile minuscola, che mosse da un poco di elettrici-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:11;}">
+                <Coords points="219,1159 290,1158 361,1155 432,1157 504,1156 575,1157 646,1157 718,1156 789,1155 860,1156 932,1157 1003,1158 1074,1156 1145,1156 1217,1156 1288,1157 1359,1157 1431,1155 1502,1158 1573,1157 1645,1163 1645,1115 1573,1109 1502,1110 1431,1107 1359,1109 1288,1109 1217,1108 1145,1108 1074,1108 1003,1110 932,1109 860,1108 789,1107 718,1108 646,1109 575,1109 504,1108 432,1109 361,1107 290,1110 219,1111"/>
+                <Baseline points="219,1143 290,1142 361,1139 432,1141 504,1140 575,1141 646,1141 718,1140 789,1139 860,1140 932,1141 1003,1142 1074,1140 1145,1140 1217,1140 1288,1141 1359,1141 1431,1139 1502,1142 1573,1141 1645,1147"/>
+                <TextEquiv>
+                    <Unicode>tà, corrono, sbandano, cozzano nelle sponde di legno, o fra di loro. Un razzolio, un russa_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:12;}">
+                <Coords points="221,1229 291,1237 362,1234 433,1233 504,1229 575,1229 646,1229 717,1231 788,1229 859,1230 930,1230 1000,1229 1071,1230 1142,1230 1213,1229 1284,1231 1355,1231 1426,1233 1497,1233 1568,1233 1639,1235 1639,1187 1568,1185 1497,1185 1426,1185 1355,1183 1284,1183 1213,1181 1142,1182 1071,1182 1000,1181 930,1182 859,1182 788,1181 717,1183 646,1181 575,1181 504,1181 433,1185 362,1186 291,1189 221,1181"/>
+                <Baseline points="221,1213 291,1221 362,1218 433,1217 504,1213 575,1213 646,1213 717,1215 788,1213 859,1214 930,1214 1000,1213 1071,1214 1142,1214 1213,1213 1284,1215 1355,1215 1426,1217 1497,1217 1568,1217 1639,1219"/>
+                <TextEquiv>
+                    <Unicode>re, quasi, di quelle carcasse infantili sul pavimento di bandiera. Sprizzano minute scin-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:13;}">
+                <Coords points="217,1309 288,1309 359,1309 430,1309 501,1307 572,1305 643,1305 714,1305 785,1305 856,1308 928,1308 999,1307 1070,1308 1141,1309 1212,1309 1283,1309 1354,1309 1425,1307 1496,1309 1567,1309 1639,1315 1639,1267 1567,1261 1496,1261 1425,1259 1354,1261 1283,1261 1212,1261 1141,1261 1070,1260 999,1259 928,1260 856,1260 785,1257 714,1257 643,1257 572,1257 501,1259 430,1261 359,1261 288,1261 217,1261"/>
+                <Baseline points="217,1293 288,1293 359,1293 430,1293 501,1291 572,1289 643,1289 714,1289 785,1289 856,1292 928,1292 999,1291 1070,1292 1141,1293 1212,1293 1283,1293 1354,1293 1425,1291 1496,1293 1567,1293 1639,1299"/>
+                <TextEquiv>
+                    <Unicode>tille, e le risa, i richiami, dei guidatori. La padrona era una giovane donna. Silenziosa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:14;}">
+                <Coords points="217,1387 288,1385 359,1383 430,1383 501,1381 572,1381 643,1383 714,1383 785,1383 856,1383 927,1384 998,1383 1069,1383 1140,1383 1211,1383 1282,1383 1353,1383 1424,1381 1495,1380 1566,1381 1637,1385 1637,1337 1566,1333 1495,1332 1424,1333 1353,1335 1282,1335 1211,1335 1140,1335 1069,1335 998,1335 927,1336 856,1335 785,1335 714,1335 643,1335 572,1333 501,1333 430,1335 359,1335 288,1337 217,1339"/>
+                <Baseline points="217,1371 288,1369 359,1367 430,1367 501,1365 572,1365 643,1367 714,1367 785,1367 856,1367 927,1368 998,1367 1069,1367 1140,1367 1211,1367 1282,1367 1353,1367 1424,1365 1495,1364 1566,1365 1637,1369"/>
+                <TextEquiv>
+                    <Unicode>si sposta da un lato all’altra della pista, con rimando lieve sulla lista, uno stretto marcia-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:15;}">
+                <Coords points="227,1473 295,1463 364,1462 433,1461 502,1460 571,1462 639,1461 708,1461 777,1461 846,1459 915,1459 983,1459 1052,1459 1121,1461 1190,1461 1259,1460 1327,1459 1396,1459 1465,1459 1534,1460 1603,1465 1603,1417 1534,1412 1465,1411 1396,1411 1327,1411 1259,1412 1190,1413 1121,1413 1052,1411 983,1411 915,1411 846,1411 777,1413 708,1413 639,1413 571,1414 502,1412 433,1413 364,1414 295,1415 227,1425"/>
+                <Baseline points="227,1457 295,1447 364,1446 433,1445 502,1444 571,1446 639,1445 708,1445 777,1445 846,1443 915,1443 983,1443 1052,1443 1121,1445 1190,1445 1259,1444 1327,1443 1396,1443 1465,1443 1534,1444 1603,1449"/>
+                <TextEquiv>
+                    <Unicode>piede di legno. Di lì, allunga il biglietto ai clienti, ritira il denaro che introduce in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:16;}">
+                <Coords points="217,1533 288,1533 359,1533 430,1533 502,1529 573,1531 644,1532 716,1532 787,1533 858,1532 930,1533 1001,1534 1072,1531 1143,1531 1215,1531 1286,1530 1357,1531 1429,1531 1500,1533 1571,1535 1643,1537 1643,1501 1571,1499 1500,1497 1429,1495 1357,1495 1286,1494 1215,1495 1143,1495 1072,1495 1001,1498 930,1497 858,1496 787,1497 716,1496 644,1496 573,1495 502,1493 430,1497 359,1497 288,1497 217,1497"/>
+                <Baseline points="217,1521 288,1521 359,1521 430,1521 502,1517 573,1519 644,1520 716,1520 787,1521 858,1520 930,1521 1001,1522 1072,1519 1143,1519 1215,1519 1286,1518 1357,1519 1429,1519 1500,1521 1571,1523 1643,1525"/>
+                <TextEquiv>
+                    <Unicode>una borsa di cuoio. Sottile, pallida i una ragazza come se ne incontrano nei paesi emi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186487310_1879" custom="readingOrder {index:17;} del {offset:77; length:8;rend:overstrike;}">
+                <Coords points="219,1553 1570,1564 1570,1614 219,1603"/>
+                <Baseline points="219,1598 1570,1609"/>
+                <TextEquiv>
+                    <Unicode>liani presso il Po. Lei e il marito erano, difatti, di qualche parte, fra la campagna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:18;}">
+                <Coords points="1465,1579 1492,1579 1519,1579 1547,1585 1547,1555 1519,1549 1492,1549 1465,1549"/>
+                <Baseline points="1465,1569 1492,1569 1519,1569 1547,1575"/>
+                <TextEquiv>
+                    <Unicode>bassa di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186488548_1884" custom="readingOrder {index:19;}">
+                <Coords points="1577,1564 1613,1564 1613,1614 1577,1614"/>
+                <Baseline points="1577,1609 1613,1609"/>
+                <TextEquiv>
+                    <Unicode>di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:20;}">
+                <Coords points="221,1687 248,1685 275,1688 302,1688 330,1688 357,1689 384,1689 412,1690 439,1690 466,1689 494,1689 521,1691 548,1691 575,1689 603,1689 630,1688 657,1687 685,1688 712,1689 739,1690 767,1693 767,1645 739,1642 712,1641 685,1640 657,1639 630,1640 603,1641 575,1641 548,1643 521,1643 494,1641 466,1641 439,1642 412,1642 384,1641 357,1641 330,1640 302,1640 275,1640 248,1637 221,1639"/>
+                <Baseline points="221,1671 248,1669 275,1672 302,1672 330,1672 357,1673 384,1673 412,1674 439,1674 466,1673 494,1673 521,1675 548,1675 575,1673 603,1673 630,1672 657,1671 685,1672 712,1673 739,1674 767,1677"/>
+                <TextEquiv>
+                    <Unicode> Reggio e la pianura mantovana.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:21;}">
+                <Coords points="247,1763 315,1761 384,1763 452,1763 521,1763 589,1765 658,1763 726,1761 795,1762 863,1762 932,1759 1000,1760 1069,1761 1137,1763 1206,1763 1274,1763 1343,1763 1411,1763 1480,1763 1548,1764 1617,1767 1617,1719 1548,1716 1480,1715 1411,1715 1343,1715 1274,1715 1206,1715 1137,1715 1069,1713 1000,1712 932,1711 863,1714 795,1714 726,1713 658,1715 589,1717 521,1715 452,1715 384,1715 315,1713 247,1715"/>
+                <Baseline points="247,1747 315,1745 384,1747 452,1747 521,1747 589,1749 658,1747 726,1745 795,1746 863,1746 932,1743 1000,1744 1069,1745 1137,1747 1206,1747 1274,1747 1343,1747 1411,1747 1480,1747 1548,1748 1617,1751"/>
+                <TextEquiv>
+                    <Unicode>Camminava, su quel breve margine, presso la ringhiera di legno, oscillando appena sui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:22;}">
+                <Coords points="229,1837 298,1836 368,1837 438,1839 508,1838 578,1836 648,1835 718,1837 788,1836 858,1837 928,1837 997,1838 1067,1837 1137,1837 1207,1838 1277,1839 1347,1839 1417,1839 1487,1839 1557,1840 1627,1847 1627,1799 1557,1792 1487,1791 1417,1791 1347,1791 1277,1791 1207,1790 1137,1789 1067,1789 997,1790 928,1789 858,1789 788,1788 718,1789 648,1787 578,1788 508,1790 438,1791 368,1789 298,1788 229,1789"/>
+                <Baseline points="229,1821 298,1820 368,1821 438,1823 508,1822 578,1820 648,1819 718,1821 788,1820 858,1821 928,1821 997,1822 1067,1821 1137,1821 1207,1822 1277,1823 1347,1823 1417,1823 1487,1823 1557,1824 1627,1831"/>
+                <TextEquiv>
+                    <Unicode>tacchi alti. L’ora notturna metteva un senso di freddo. La ragazza si stringeva nel golf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:23;}">
+                <Coords points="217,1915 286,1915 356,1915 426,1913 495,1913 565,1911 635,1913 704,1911 774,1913 844,1913 914,1913 983,1915 1053,1913 1123,1914 1192,1911 1262,1914 1332,1914 1401,1913 1471,1913 1541,1913 1611,1913 1611,1865 1541,1865 1471,1865 1401,1865 1332,1866 1262,1866 1192,1863 1123,1866 1053,1865 983,1867 914,1865 844,1865 774,1865 704,1863 635,1865 565,1863 495,1865 426,1865 356,1867 286,1867 217,1867"/>
+                <Baseline points="217,1899 286,1899 356,1899 426,1897 495,1897 565,1895 635,1897 704,1895 774,1897 844,1897 914,1897 983,1899 1053,1897 1123,1898 1192,1895 1262,1898 1332,1898 1401,1897 1471,1897 1541,1897 1611,1897"/>
+                <TextEquiv>
+                    <Unicode>di lana verde. Guardava intorno, come senza vedere. Fissava, lì di fronte, il bianco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:24;}">
+                <Coords points="227,1989 296,1989 365,1989 435,1989 504,1993 574,1992 643,1991 712,1993 782,1992 851,1991 921,1991 990,1992 1059,1991 1129,1991 1198,1992 1268,1990 1337,1991 1406,1990 1476,1989 1545,1991 1615,1997 1615,1949 1545,1943 1476,1941 1406,1942 1337,1943 1268,1942 1198,1944 1129,1943 1059,1943 990,1944 921,1943 851,1943 782,1944 712,1945 643,1943 574,1944 504,1945 435,1941 365,1941 296,1941 227,1941"/>
+                <Baseline points="227,1973 296,1973 365,1973 435,1973 504,1977 574,1976 643,1975 712,1977 782,1976 851,1975 921,1975 990,1976 1059,1975 1129,1975 1198,1976 1268,1974 1337,1975 1406,1974 1476,1973 1545,1975 1615,1981"/>
+                <TextEquiv>
+                    <Unicode>gessoso della fila di pipe del Tiro al bersaglio. La fila trema, scossa dall’aria, sospesa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mente luttuoso. Poi vengono le giostre. Quella con le carrozzine volanti, a montagna russa. Le&#13;
+carrozzine, salendo verso il cielo, oscillano, come in un’altalena. Qualcuno le occupava, mandan-&#13;
+do nel tempo della discesa le consuete grida di allegria, di finto spavento. A pochi passi,&#13;
+l’altra giostra: quella antica, affettuosa, con i cavalli di legno. Finimenti, cinghie, parocchi&#13;
+sono di legno ricoperto d’oro. Le briglie, che il fanciullo regge, sono i cuoio. Girano i cavalli-&#13;
+ni intorno intorno al suono ineffabile della musica. Una musica di fonte vegetale,      &#13;
+percorsa da &#13;
+un &#13;
+chiocciolio di acqua nascosta. Il tiro al bersaglio risuona, un suono perduto e&#13;
+solitario, di coccio spaccato. Noi due si andava alla pista degli automobilini. Sono quelle&#13;
+cassette di lamiera, a foggia di automobile minuscola, che mosse da un poco di elettrici-&#13;
+tà, corrono, sbandano, cozzano nelle sponde di legno, o fra di loro. Un razzolio, un russa_&#13;
+re, quasi, di quelle carcasse infantili sul pavimento di bandiera. Sprizzano minute scin-&#13;
+tille, e le risa, i richiami, dei guidatori. La padrona era una giovane donna. Silenziosa,&#13;
+si sposta da un lato all’altra della pista, con rimando lieve sulla lista, uno stretto marcia-&#13;
+piede di legno. Di lì, allunga il biglietto ai clienti, ritira il denaro che introduce in&#13;
+una borsa di cuoio. Sottile, pallida i una ragazza come se ne incontrano nei paesi emi-&#13;
+liani presso il Po. Lei e il marito erano, difatti, di qualche parte, fra la campagna&#13;
+bassa di&#13;
+di&#13;
+ Reggio e la pianura mantovana.&#13;
+Camminava, su quel breve margine, presso la ringhiera di legno, oscillando appena sui&#13;
+tacchi alti. L’ora notturna metteva un senso di freddo. La ragazza si stringeva nel golf&#13;
+di lana verde. Guardava intorno, come senza vedere. Fissava, lì di fronte, il bianco&#13;
+gessoso della fila di pipe del Tiro al bersaglio. La fila trema, scossa dall’aria, sospesa</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

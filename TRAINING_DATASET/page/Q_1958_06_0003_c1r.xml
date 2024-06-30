@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:22:26.362+01:00</Created>
+        <LastChange>2024-06-20T10:55:47.951+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325973" pageNr="10" tsid="175603493" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=HMKFPYIJMDZFLCOEPPVYDVIK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JWUKPBDBZVDIPXBOJVYZXBVV" imageId="53899336"/>
+    </Metadata>
+    <Page imageFilename="Q_1958_06_0003_c1r.jpg" imageWidth="1798" imageHeight="2539" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746058965" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1714060151989_234"/>
+                <RegionRefIndexed index="1" regionRef="region_1714059089594_34"/>
+                <RegionRefIndexed index="2" regionRef="region_1714059188186_48"/>
+                <RegionRefIndexed index="3" regionRef="region_1714059209554_51"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="region_1714060151989_234" custom="readingOrder {index:0;}">
+            <Coords points="100,269 1575,271 1575,2119 100,2117"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1714059089594_34" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="227,413 854,413 854,289 227,289"/>
+            <TextLine id="line_1714059130538_38" custom="readingOrder {index:0;} hi {offset:0; length:23;rend:underline;}">
+                <Coords points="244,299 843,301 843,388 244,386"/>
+                <Baseline points="250,356 844,348"/>
+                <TextEquiv>
+                    <Unicode>Tre bambini in maschera.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tre bambini in maschera.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1714059188186_48" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="159,522 1553,518 1558,1216 164,1220"/>
+            <TextLine id="line_1714059309892_67" custom="readingOrder {index:0;} del {offset:33; length:8;rend:overstrike;}">
+                <Coords points="183,562 490,571 800,568 983,567 983,617 800,618 487,626 182,623"/>
+                <Baseline points="189,603 494,602 803,607 983,612"/>
+                <TextEquiv>
+                    <Unicode>Le due mamme, che erano sorelle, dovevano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714059728123_165" custom="readingOrder {index:1;} add {offset:0; length:9;place:above;}">
+                <Coords points="838,528 1010,531 1008,568 836,565"/>
+                <Baseline points="836,560 1008,563"/>
+                <TextEquiv>
+                    <Unicode>pensavano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714059403163_86" custom="readingOrder {index:2;}">
+                <Coords points="1006,574 1219,566 1400,562 1517,563 1517,613 1400,612 1219,616 1006,618"/>
+                <Baseline points="1008,603 1216,600 1395,598 1515,605"/>
+                <TextEquiv>
+                    <Unicode>di portare i loro bimbi nella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714059469868_94" custom="readingOrder {index:3;}">
+                <Coords points="171,637 342,641 508,642 675,640 895,638 1162,644 1278,640 1399,631 1546,635 1545,685 1400,681 1280,690 1162,694 895,688 675,690 508,692 341,691 170,687"/>
+                <Baseline points="176,674 340,680 509,682 676,680 901,674 1168,680 1281,685 1401,676 1546,680"/>
+                <TextEquiv>
+                    <Unicode>casa dei nonni, per vestirli in maschera. La nonna stessa aveva detto:-"Venite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714059514235_102" custom="readingOrder {index:4;}">
+                <Coords points="183,717 491,717 662,710 742,712 896,709 1071,709 1197,707 1346,712 1531,710 1531,760 1345,762 1197,757 1071,759 896,759 742,762 662,760 492,767 183,767"/>
+                <Baseline points="183,754 492,754 663,748 743,750 895,750 1070,750 1197,752 1345,757 1531,755"/>
+                <TextEquiv>
+                    <Unicode>pure. Siamo contenti. Si deve capire che siamo in carnevale."- E la vigilia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714059535043_107" custom="readingOrder {index:5;}">
+                <Coords points="167,791 322,789 489,789 611,787 789,787 954,787 1095,786 1358,783 1551,786 1550,836 1358,833 1095,836 954,837 789,837 611,837 489,839 322,839 168,841"/>
+                <Baseline points="169,832 324,827 490,826 611,827 789,828 955,825 1096,827 1358,827 1550,831"/>
+                <TextEquiv>
+                    <Unicode>era uscita apposta. Col marito, erano andati dal cartolaio. Con pazienza, aveva-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714059548211_112" custom="readingOrder {index:6;}">
+                <Coords points="177,875 406,864 555,861 738,864 900,867 978,863 1152,861 1349,866 1469,866 1558,864 1559,914 1470,916 1348,916 1152,911 979,913 901,917 737,914 555,911 407,914 179,925"/>
+                <Baseline points="185,907 407,903 554,900 736,903 903,905 984,906 1156,907 1350,900 1471,901 1559,906"/>
+                <TextEquiv>
+                    <Unicode>no scelto tre mascherine, delle trombe di carta, con la corda a striscie; delle stelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714059572988_119" custom="readingOrder {index:7;}">
+                <Coords points="187,941 336,945 532,947 674,947 891,947 1086,947 1257,947 1398,940 1524,940 1524,990 1399,990 1258,997 1086,997 891,997 674,997 532,997 335,995 186,991"/>
+                <Baseline points="195,983 333,980 530,982 671,985 886,981 1080,976 1254,980 1399,985 1524,985"/>
+                <TextEquiv>
+                    <Unicode>filanti, e un cappellino di cartone. Un cappellino: alto, rotondo, come uno stampo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714059598451_124" custom="readingOrder {index:8;}">
+                <Coords points="188,1028 242,1030 236,1070 185,1070"/>
+                <Baseline points="185,1065 236,1065"/>
+                <TextEquiv>
+                    <Unicode>per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714059629875_136" custom="readingOrder {index:9;} add {offset:0; length:1;place:above;}">
+                <Coords points="211,994 252,994 251,1027 210,1027"/>
+                <Baseline points="210,1022 251,1022"/>
+                <TextEquiv>
+                    <Unicode>i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714059852683_196" custom="readingOrder {index:10;}">
+                <Coords points="250,1026 442,1017 555,1017 738,1014 943,1019 1131,1019 1253,1018 1453,1018 1554,1018 1557,1068 1455,1068 1253,1068 1131,1069 942,1069 738,1064 555,1067 442,1070 247,1066"/>
+                <Baseline points="251,1053 442,1056 556,1057 739,1049 942,1054 1131,1057 1254,1056 1456,1060 1542,1057"/>
+                <TextEquiv>
+                    <Unicode>dolci. Leggero, aereo, un poco tracotante: da stare in un balletto romantico.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714059954259_208" custom="readingOrder {index:11;} del {offset:0; length:9;rend:overstrike;} gap {offset:0; length:0;quantity:9; unit:character; reason:illegible;} del {offset:54; length:1;rend:overstrike;} gap {offset:54; length:0;quantity:1; unit:character; reason:illegible;}">
+                <Coords points="191,1090 412,1093 532,1089 657,1087 796,1092 942,1090 1087,1090 1185,1089 1268,1089 1352,1089 1432,1089 1545,1092 1544,1142 1431,1139 1352,1139 1268,1139 1185,1139 1087,1140 942,1140 795,1142 657,1137 533,1139 413,1143 189,1141"/>
+                <Baseline points="207,1138 413,1134 533,1130 657,1132 789,1131 937,1128 1088,1134 1185,1130 1268,1130 1352,1134 1431,1134 1544,1137"/>
+                <TextEquiv>
+                    <Unicode>          E' curioso come gli accessori del carnevale   vadano d'accordo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714059990978_218" custom="readingOrder {index:12;}">
+                <Coords points="188,1169 293,1167 386,1167 557,1167 557,1217 386,1217 293,1217 189,1219"/>
+                <Baseline points="189,1214 282,1210 375,1210 557,1212"/>
+                <TextEquiv>
+                    <Unicode>con i motivi militari.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Le due mamme, che erano sorelle, dovevano
+pensavano
+di portare i loro bimbi nella
+casa dei nonni, per vestirli in maschera. La nonna stessa aveva detto:-"Venite
+pure. Siamo contenti. Si deve capire che siamo in carnevale."- E la vigilia,
+era uscita apposta. Col marito, erano andati dal cartolaio. Con pazienza, aveva-
+no scelto tre mascherine, delle trombe di carta, con la corda a striscie; delle stelle
+filanti, e un cappellino di cartone. Un cappellino: alto, rotondo, come uno stampo
+per
+i
+dolci. Leggero, aereo, un poco tracotante: da stare in un balletto romantico.
+          E' curioso come gli accessori del carnevale   vadano d'accordo
+con i motivi militari.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1714059209554_51" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="171,1242 1568,1240 1568,2059 171,2061"/>
+            <TextLine id="line_1714060028971_224" custom="readingOrder {index:0;}">
+                <Coords points="206,1243 327,1241 492,1241 674,1241 860,1248 976,1246 1056,1243 1142,1244 1249,1248 1334,1248 1413,1250 1518,1246 1517,1291 1415,1291 1336,1298 1248,1298 1141,1294 1057,1293 977,1296 860,1298 673,1291 492,1291 327,1291 207,1293"/>
+                <Baseline points="207,1288 327,1281 492,1281 675,1282 865,1285 980,1284 1057,1285 1143,1283 1265,1282 1351,1288 1415,1286 1517,1286"/>
+                <TextEquiv>
+                    <Unicode>L'indomani era domenica, una giornata di sole, di vento e di nuvole,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714061972200_378" custom="readingOrder {index:1;}">
+                <Coords points="178,1321 400,1321 604,1317 845,1323 999,1320 1194,1326 1330,1314 1548,1320 1547,1370 1331,1364 1195,1376 999,1370 845,1373 604,1367 400,1371 178,1371"/>
+                <Baseline points="178,1366 400,1366 604,1362 845,1366 998,1359 1194,1367 1331,1359 1547,1365"/>
+                <TextEquiv>
+                    <Unicode>come ne sono in febbraio. Giunse prima la sorella maggiore, con i suoi due</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714061987961_383" custom="readingOrder {index:2;}">
+                <Coords points="190,1401 323,1401 536,1401 719,1397 837,1397 975,1398 1147,1392 1231,1392 1439,1395 1545,1397 1544,1447 1438,1445 1231,1442 1148,1442 976,1448 837,1447 719,1447 536,1451 323,1451 190,1451"/>
+                <Baseline points="191,1444 324,1440 539,1436 722,1436 837,1442 972,1441 1144,1435 1231,1437 1438,1440 1544,1442"/>
+                <TextEquiv>
+                    <Unicode>figlioli. La bimba e il piccino reggevano la cordicella della canina: una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062007280_388" custom="readingOrder {index:3;} del {offset:22; length:15;rend:overstrike;}">
+                <Coords points="195,1476 410,1473 571,1475 769,1476 993,1470 1077,1460 1221,1470 1468,1468 1549,1466 1550,1516 1469,1518 1220,1520 1078,1510 996,1520 769,1526 571,1525 410,1523 196,1526"/>
+                <Baseline points="203,1516 417,1509 567,1511 765,1510 996,1509 1078,1505 1219,1511 1468,1509 1550,1511"/>
+                <TextEquiv>
+                    <Unicode>bassotta, tutti e tre come di solito di corsa e all'impazzata, spargendosi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062042696_393" custom="readingOrder {index:4;}">
+                <Coords points="180,1547 334,1552 455,1543 666,1544 794,1544 860,1541 985,1541 1109,1546 1220,1549 1359,1558 1387,1559 1370,1596 1353,1596 1220,1599 1107,1596 984,1591 861,1591 795,1594 666,1594 457,1593 335,1602 179,1597"/>
+                <Baseline points="180,1588 341,1591 463,1583 667,1586 795,1584 861,1581 989,1582 1115,1584 1227,1587 1357,1587 1370,1591"/>
+                <TextEquiv>
+                    <Unicode>subito per le stanze. Si sentono sbattere le porte, smuovere le sedie, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062078728_401" custom="readingOrder {index:5;} add {offset:0; length:6;place:above;}">
+                <Coords points="1284,1531 1347,1524 1409,1524 1399,1558 1342,1553 1280,1553"/>
+                <Baseline points="1280,1548 1342,1548 1399,1553"/>
+                <TextEquiv>
+                    <Unicode>urtate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062163663_431" custom="readingOrder {index:6;}">
+                <Coords points="1384,1563 1453,1559 1542,1560 1538,1599 1451,1594 1384,1597"/>
+                <Baseline points="1392,1593 1451,1589 1538,1594"/>
+                <TextEquiv>
+                    <Unicode>in mezzo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062215301_440" custom="readingOrder {index:7;} del {offset:25; length:8;rend:overstrike;} gap {offset:25; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="177,1619 275,1619 433,1627 523,1619 625,1629 846,1632 844,1674 623,1671 525,1669 434,1677 274,1669 177,1669"/>
+                <Baseline points="177,1664 274,1664 434,1668 525,1660 623,1666 844,1669"/>
+                <TextEquiv>
+                    <Unicode>ai richiami della madre,         </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062231799_447" custom="readingOrder {index:8;} add {offset:0; length:11;place:above;}">
+                <Coords points="659,1602 742,1600 864,1601 851,1628 745,1626 659,1626"/>
+                <Baseline points="659,1621 745,1621 851,1623"/>
+                <TextEquiv>
+                    <Unicode>punteggiati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062278680_460" custom="readingOrder {index:9;}">
+                <Coords points="868,1616 1030,1621 1121,1621 1216,1621 1317,1619 1421,1619 1566,1621 1565,1677 1421,1669 1317,1669 1216,1671 1121,1671 1029,1671 867,1666"/>
+                <Baseline points="867,1661 1027,1665 1119,1665 1216,1666 1317,1664 1421,1664 1554,1666"/>
+                <TextEquiv>
+                    <Unicode>dal campanellino della cagnetta. Corrono,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062309471_465" custom="readingOrder {index:10;}">
+                <Coords points="183,1706 295,1699 471,1698 590,1698 695,1698 790,1697 905,1697 1013,1697 1087,1697 1179,1697 1224,1697 1345,1693 1427,1698 1549,1698 1549,1748 1426,1748 1344,1743 1225,1747 1179,1747 1087,1747 1013,1747 905,1747 790,1747 695,1748 590,1748 471,1748 297,1749 186,1756"/>
+                <Baseline points="186,1751 298,1740 476,1738 594,1742 695,1743 790,1742 905,1742 1013,1742 1087,1742 1179,1742 1225,1742 1344,1738 1427,1741 1550,1741"/>
+                <TextEquiv>
+                    <Unicode>e si spande nella casa un fremito improvviso, come quando un colpo di vento</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062326208_470" custom="readingOrder {index:11;} del {offset:39; length:8;rend:overstrike;}">
+                <Coords points="196,1786 328,1786 436,1772 562,1779 667,1779 763,1779 861,1783 1012,1786 1016,1823 847,1825 764,1829 667,1829 561,1829 438,1822 331,1836 196,1836"/>
+                <Baseline points="196,1831 332,1827 439,1813 566,1818 672,1818 762,1820 845,1816 1009,1819"/>
+                <TextEquiv>
+                    <Unicode>spalanca le finestre: volano le tende, battono </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062370975_481" custom="readingOrder {index:12;} add {offset:0; length:7;place:above;}">
+                <Coords points="886,1750 1042,1761 1041,1782 885,1774"/>
+                <Baseline points="885,1769 1041,1780"/>
+                <TextEquiv>
+                    <Unicode>tremano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062463064_517" custom="readingOrder {index:13;} del {offset:3; length:19;rend:overstrike;}">
+                <Coords points="1015,1783 1243,1789 1425,1781 1425,1825 1264,1827 1021,1824"/>
+                <Baseline points="1023,1818 1216,1818 1419,1817"/>
+                <TextEquiv>
+                    <Unicode>le cime delle piantine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062505614_527" custom="readingOrder {index:14;} add {offset:0; length:11;place:above;}">
+                <Coords points="1092,1751 1312,1750 1310,1785 1090,1786"/>
+                <Baseline points="1090,1781 1310,1780"/>
+                <TextEquiv>
+                    <Unicode>pianticelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714064250729_705" custom="readingOrder {index:15;}">
+                <Coords points="1434,1775 1543,1777 1542,1827 1433,1825"/>
+                <Baseline points="1433,1820 1542,1822"/>
+                <TextEquiv>
+                    <Unicode>contro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062755127_593" custom="readingOrder {index:16;}">
+                <Coords points="189,1855 293,1852 435,1852 589,1852 830,1852 922,1852 1021,1852 1123,1852 1236,1848 1340,1848 1436,1855 1561,1853 1562,1903 1435,1905 1338,1898 1237,1898 1124,1902 1021,1902 922,1902 830,1902 589,1902 435,1902 294,1902 190,1905"/>
+                <Baseline points="190,1900 294,1897 436,1894 590,1892 830,1895 922,1894 1021,1894 1124,1897 1237,1893 1338,1892 1430,1893 1557,1892"/>
+                <TextEquiv>
+                    <Unicode>i vetri, sbatte una porta. Ed ecco rispuntano in fila, e di corsa, i due bimbi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062789190_600" custom="readingOrder {index:17;}">
+                <Coords points="189,1924 355,1920 487,1923 679,1926 780,1926 924,1926 1125,1920 1221,1927 1333,1927 1466,1928 1565,1923 1567,1973 1467,1978 1333,1977 1219,1977 1124,1970 925,1976 780,1976 679,1976 486,1973 355,1970 190,1974"/>
+                <Baseline points="190,1969 355,1965 488,1964 681,1967 780,1967 925,1967 1124,1965 1219,1972 1335,1969 1469,1970 1562,1969"/>
+                <TextEquiv>
+                    <Unicode>la loro bassotta scampanellante, e, in fondo, una seconda cagnolina. E' la madre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062823223_608" custom="readingOrder {index:18;} del {offset:40; length:7;rend:overstrike;} gap {offset:40; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="183,2006 297,1998 483,1998 586,1998 768,2012 909,2015 906,2048 765,2047 586,2048 483,2048 299,2048 186,2056"/>
+                <Baseline points="186,2051 299,2043 483,2043 586,2043 765,2042 906,2043"/>
+                <TextEquiv>
+                    <Unicode>della bassotta. Si ferma, quasi subito.        </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062853903_619" custom="readingOrder {index:19;}">
+                <Coords points="818,1976 920,1979 919,2015 817,2012"/>
+                <Baseline points="817,2007 919,2010"/>
+                <TextEquiv>
+                    <Unicode>Salta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714062918967_641" custom="readingOrder {index:20;}">
+                <Coords points="924,2002 1036,2007 1140,2002 1221,2002 1288,2002 1378,2002 1531,2005 1558,2005 1558,2055 1531,2055 1378,2052 1288,2052 1221,2052 1141,2052 1036,2057 922,2052"/>
+                <Baseline points="921,2042 1035,2047 1141,2047 1221,2047 1288,2047 1378,2047 1531,2050 1558,2050"/>
+                <TextEquiv>
+                    <Unicode> sulla poltrona, guarda con pazienza la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>L'indomani era domenica, una giornata di sole, di vento e di nuvole,
+come ne sono in febbraio. Giunse prima la sorella maggiore, con i suoi due
+figlioli. La bimba e il piccino reggevano la cordicella della canina: una
+bassotta, tutti e tre come di solito di corsa e all'impazzata, spargendosi
+subito per le stanze. Si sentono sbattere le porte, smuovere le sedie, 
+urtate
+in mezzo
+ai richiami della madre,         
+punteggiati
+dal campanellino della cagnetta. Corrono,
+e si spande nella casa un fremito improvviso, come quando un colpo di vento
+spalanca le finestre: volano le tende, battono 
+tremano
+le cime delle piantine
+pianticelle
+contro
+i vetri, sbatte una porta. Ed ecco rispuntano in fila, e di corsa, i due bimbi,
+la loro bassotta scampanellante, e, in fondo, una seconda cagnolina. E' la madre
+della bassotta. Si ferma, quasi subito.        
+Salta
+ sulla poltrona, guarda con pazienza la</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

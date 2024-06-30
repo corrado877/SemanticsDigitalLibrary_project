@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:48:59.095+02:00</Created>
+        <LastChange>2024-06-20T10:46:46.751+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326074" pageNr="127" tsid="175603607" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=GVQPHWFLAXEUFYOCVQQHOHVQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KUBUXMTBORHBTEBPLRICHGKD" imageId="54317585"/>
+    </Metadata>
+    <Page imageFilename="Q_10_1955_0003_c1r.jpg" imageWidth="1798" imageHeight="2324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746082608" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="186,439 186,2016 1656,2016 1656,439"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:25;rend:underline;}">
+                <Coords points="626,490 651,488 677,489 703,490 729,490 755,490 780,490 806,490 832,490 858,489 884,489 909,489 935,488 961,488 987,488 1013,488 1038,488 1064,488 1090,488 1116,489 1182,493 1182,444 1116,440 1090,439 1064,439 1038,439 1013,439 987,439 961,439 935,439 909,440 884,440 858,440 832,441 806,441 780,441 755,441 729,441 703,441 677,440 651,439 626,441"/>
+                <Baseline points="626,474 651,472 677,473 703,474 729,474 755,474 780,474 806,474 832,474 858,473 884,473 909,473 935,472 961,472 987,472 1013,472 1038,472 1064,472 1090,472 1116,473 1169,480"/>
+                <TextEquiv>
+                    <Unicode>La cronaca del Poliziano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="224,576 295,574 366,572 438,570 509,570 581,568 652,570 723,568 795,567 866,568 938,568 1009,569 1080,568 1152,569 1223,569 1295,570 1366,568 1437,567 1509,568 1580,568 1652,572 1652,523 1580,519 1509,519 1437,518 1366,519 1295,521 1223,520 1152,520 1080,519 1009,520 938,519 866,519 795,518 723,519 652,521 581,519 509,521 438,521 366,523 295,525 224,527"/>
+                <Baseline points="224,560 295,558 366,556 438,554 509,554 581,552 652,554 723,552 795,551 866,552 938,552 1009,553 1080,552 1152,553 1223,553 1295,554 1366,552 1437,551 1509,552 1580,552 1652,556"/>
+                <TextEquiv>
+                    <Unicode>In una mattina di domenica, della metà di maggio. Mentre in casa tutti dor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="196,652 267,650 339,650 410,648 482,647 554,646 625,644 697,644 768,644 840,645 912,644 983,644 1055,644 1126,644 1198,645 1270,644 1341,643 1413,644 1484,642 1556,644 1628,646 1628,597 1556,595 1484,593 1413,595 1341,594 1270,595 1198,596 1126,595 1055,595 983,595 912,595 840,596 768,595 697,595 625,595 554,597 482,598 410,599 339,601 267,601 196,603"/>
+                <Baseline points="196,636 267,634 339,634 410,632 482,631 554,630 625,628 697,628 768,628 840,629 912,628 983,628 1055,628 1126,628 1198,629 1270,628 1341,627 1413,628 1484,626 1556,628 1628,630"/>
+                <TextEquiv>
+                    <Unicode>minavano, ero uscito nell'orto per guardare le rose. Appena tra un'aiuola e la sie-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="190,734 262,728 335,726 407,724 480,724 552,724 625,723 697,720 770,720 842,720 915,722 987,718 1060,717 1132,718 1205,719 1277,718 1350,719 1422,721 1495,722 1567,724 1640,728 1640,679 1567,675 1495,673 1422,672 1350,670 1277,669 1205,670 1132,669 1060,668 987,669 915,673 842,671 770,671 697,671 625,674 552,675 480,675 407,675 335,677 262,679 190,685"/>
+                <Baseline points="190,718 262,712 335,710 407,708 480,708 552,708 625,707 697,704 770,704 842,704 915,706 987,702 1060,701 1132,702 1205,703 1277,702 1350,703 1422,705 1495,706 1567,708 1640,712"/>
+                <TextEquiv>
+                    <Unicode>pe, inciampai nella tartaruga, col dorso ancora luccicante di rugiada. La scansai su-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="190,804 261,804 332,804 403,804 474,804 546,801 617,798 688,798 759,797 830,796 902,796 973,795 1044,794 1115,794 1186,792 1258,792 1329,793 1400,794 1471,794 1542,795 1614,792 1614,743 1542,746 1471,745 1400,745 1329,744 1258,743 1186,743 1115,745 1044,745 973,746 902,747 830,747 759,748 688,749 617,749 546,752 474,755 403,755 332,755 261,755 190,755"/>
+                <Baseline points="190,788 261,788 332,788 403,788 474,788 546,785 617,782 688,782 759,781 830,780 902,780 973,779 1044,778 1115,778 1186,776 1258,776 1329,777 1400,778 1471,778 1542,779 1614,776"/>
+                <TextEquiv>
+                    <Unicode>bito per un senso di sospetto che coteste bestie mi mettono. E osservai una rosa bianca, di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="192,880 261,874 331,874 401,875 471,874 541,872 610,872 680,872 750,870 820,870 890,870 959,868 1029,869 1099,866 1169,868 1239,867 1308,867 1378,866 1448,869 1518,866 1588,868 1588,819 1518,817 1448,820 1378,817 1308,818 1239,818 1169,819 1099,817 1029,820 959,819 890,821 820,821 750,821 680,823 610,823 541,823 471,825 401,826 331,825 261,825 192,831"/>
+                <Baseline points="192,864 261,858 331,858 401,859 471,858 541,856 610,856 680,856 750,854 820,854 890,854 959,852 1029,853 1099,850 1169,852 1239,851 1308,851 1378,850 1448,853 1518,850 1588,852"/>
+                <TextEquiv>
+                    <Unicode>stelo alto, che tremava, come animata. Tra i petali morbidi e teneri scorsi un paio di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="188,954 259,950 330,950 402,950 473,950 545,949 616,952 687,950 759,948 830,946 902,946 973,947 1044,946 1116,945 1187,944 1259,944 1330,943 1401,942 1473,942 1544,946 1633,950 1633,901 1544,897 1473,893 1401,893 1330,894 1259,895 1187,895 1116,896 1044,897 973,898 902,897 830,897 759,899 687,901 616,903 545,900 473,901 402,901 330,901 259,901 188,905"/>
+                <Baseline points="188,938 259,934 330,934 402,934 473,934 545,933 616,936 687,934 759,932 830,930 902,930 973,931 1044,930 1116,929 1187,928 1259,928 1330,927 1401,926 1473,926 1544,930 1627,940"/>
+                <TextEquiv>
+                    <Unicode>scarabei. Verdi di corazza, come un gioiello egiziano. Verdi, con riflessi d'oro, inquieti,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="186,1022 257,1026 328,1028 399,1028 470,1028 542,1026 613,1026 684,1024 755,1022 826,1022 898,1022 969,1022 1040,1024 1111,1022 1182,1022 1254,1020 1325,1020 1396,1021 1467,1020 1538,1020 1610,1024 1610,975 1538,971 1467,971 1396,972 1325,971 1254,971 1182,973 1111,973 1040,975 969,973 898,973 826,973 755,973 684,975 613,977 542,977 470,979 399,979 328,979 257,977 186,973"/>
+                <Baseline points="186,1006 257,1010 328,1012 399,1012 470,1012 542,1010 613,1010 684,1008 755,1006 826,1006 898,1006 969,1006 1040,1008 1111,1006 1182,1006 1254,1004 1325,1004 1396,1005 1467,1004 1538,1004 1610,1008"/>
+                <TextEquiv>
+                    <Unicode>indaffarati, trafficavano con le zampine tra i pistilli gialli della rosa di carne bianca.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="202,1106 274,1102 346,1102 418,1100 490,1098 562,1100 634,1098 706,1096 778,1098 850,1098 922,1100 994,1100 1066,1100 1138,1100 1210,1099 1282,1096 1354,1097 1426,1098 1498,1098 1570,1101 1642,1106 1642,1057 1570,1052 1498,1049 1426,1049 1354,1048 1282,1047 1210,1050 1138,1051 1066,1051 994,1051 922,1051 850,1049 778,1049 706,1047 634,1049 562,1051 490,1049 418,1051 346,1053 274,1053 202,1057"/>
+                <Baseline points="202,1090 274,1086 346,1086 418,1084 490,1082 562,1084 634,1082 706,1080 778,1082 850,1082 922,1084 994,1084 1066,1084 1138,1084 1210,1083 1282,1080 1354,1081 1426,1082 1498,1082 1570,1085 1642,1090"/>
+                <TextEquiv>
+                    <Unicode>E davano il senso d'una vita che scorreva, nascosta, tra le cose naturali della natura.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="210,1178 281,1176 352,1174 424,1174 495,1174 567,1174 638,1175 709,1174 781,1173 852,1172 924,1174 995,1172 1066,1172 1138,1172 1209,1172 1281,1172 1352,1174 1423,1174 1495,1174 1566,1176 1638,1176 1638,1127 1566,1127 1495,1125 1423,1125 1352,1125 1281,1123 1209,1123 1138,1123 1066,1123 995,1123 924,1125 852,1123 781,1124 709,1125 638,1126 567,1125 495,1125 424,1125 352,1125 281,1127 210,1129"/>
+                <Baseline points="210,1162 281,1160 352,1158 424,1158 495,1158 567,1158 638,1159 709,1158 781,1157 852,1156 924,1158 995,1156 1066,1156 1138,1156 1209,1156 1281,1156 1352,1158 1423,1158 1495,1158 1566,1160 1638,1160"/>
+                <TextEquiv>
+                    <Unicode>Così mi venne di pensare a una qualità dell'arte toscana, lì tra le foglie che spec-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="210,1252 281,1252 353,1254 425,1256 497,1255 569,1254 640,1253 712,1251 784,1251 856,1251 928,1248 999,1248 1071,1248 1143,1248 1215,1246 1287,1246 1358,1247 1430,1247 1502,1248 1574,1248 1646,1252 1646,1203 1574,1199 1502,1199 1430,1198 1358,1198 1287,1197 1215,1197 1143,1199 1071,1199 999,1199 928,1199 856,1202 784,1202 712,1202 640,1204 569,1205 497,1206 425,1207 353,1205 281,1203 210,1203"/>
+                <Baseline points="210,1236 281,1236 353,1238 425,1240 497,1239 569,1238 640,1237 712,1235 784,1235 856,1235 928,1232 999,1232 1071,1232 1143,1232 1215,1230 1287,1230 1358,1231 1430,1231 1502,1232 1574,1232 1646,1236"/>
+                <TextEquiv>
+                    <Unicode>chiavano di verde, tra i rami teneri e vivi che spuntavano dalla terra fresca dell'al-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="212,1332 238,1330 264,1330 290,1331 317,1332 343,1333 369,1334 396,1334 396,1285 369,1285 343,1284 317,1283 290,1282 264,1281 238,1281 212,1283"/>
+                <Baseline points="212,1316 238,1314 264,1314 290,1315 317,1316 343,1317 369,1318 396,1318"/>
+                <TextEquiv>
+                    <Unicode>ba recente.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;} gap {offset:85; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="222,1404 292,1404 362,1404 433,1404 503,1402 573,1404 644,1401 714,1399 784,1402 855,1402 925,1402 995,1402 1066,1401 1136,1401 1206,1402 1277,1402 1347,1400 1417,1400 1488,1401 1558,1402 1658,1405 1658,1356 1558,1353 1488,1352 1417,1351 1347,1351 1277,1353 1206,1353 1136,1352 1066,1352 995,1353 925,1353 855,1353 784,1353 714,1350 644,1352 573,1355 503,1353 433,1355 362,1355 292,1355 222,1355"/>
+                <Baseline points="222,1388 292,1388 362,1388 433,1388 503,1386 573,1388 644,1385 714,1383 784,1386 855,1386 925,1386 995,1386 1066,1385 1136,1385 1206,1386 1277,1386 1347,1384 1417,1384 1488,1385 1558,1386 1648,1388"/>
+                <TextEquiv>
+                    <Unicode>Avevo appena finito di leggere la narrazione del Poliziano nella congiura dei Pazzi.     </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="214,1480 286,1480 358,1480 430,1478 502,1478 574,1476 646,1475 718,1476 790,1474 862,1474 935,1474 1007,1474 1079,1474 1151,1474 1223,1476 1295,1476 1367,1475 1439,1476 1511,1474 1583,1475 1656,1480 1656,1431 1583,1426 1511,1425 1439,1427 1367,1426 1295,1427 1223,1427 1151,1425 1079,1425 1007,1425 935,1425 862,1425 790,1425 718,1427 646,1426 574,1427 502,1429 430,1429 358,1431 286,1431 214,1431"/>
+                <Baseline points="214,1464 286,1464 358,1464 430,1462 502,1462 574,1460 646,1459 718,1460 790,1458 862,1458 935,1458 1007,1458 1079,1458 1151,1458 1223,1460 1295,1460 1367,1459 1439,1460 1511,1458 1583,1459 1656,1464"/>
+                <TextEquiv>
+                    <Unicode>tenevo ancora il libro fra le mani. Quasi a ricordarmi di qualcosa. E mi ricordai, aven-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="202,1556 272,1557 343,1557 414,1556 485,1556 556,1556 627,1556 698,1555 769,1554 840,1554 911,1552 981,1554 1052,1552 1123,1553 1194,1554 1265,1552 1336,1550 1407,1552 1478,1554 1549,1556 1620,1560 1620,1511 1549,1507 1478,1505 1407,1503 1336,1501 1265,1503 1194,1505 1123,1504 1052,1503 981,1505 911,1503 840,1505 769,1505 698,1506 627,1507 556,1507 485,1507 414,1507 343,1508 272,1508 202,1507"/>
+                <Baseline points="202,1540 272,1541 343,1541 414,1540 485,1540 556,1540 627,1540 698,1539 769,1538 840,1538 911,1536 981,1538 1052,1536 1123,1537 1194,1538 1265,1536 1336,1534 1407,1536 1478,1538 1549,1540 1620,1544"/>
+                <TextEquiv>
+                    <Unicode>do ancora in mente, e quasi davanti agli occhi la sanguinosa azione del 26 aprile 1478,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="198,1632 268,1634 339,1632 410,1628 481,1630 552,1627 622,1626 693,1629 764,1629 835,1630 906,1632 976,1632 1047,1632 1118,1630 1189,1628 1260,1628 1330,1628 1401,1626 1472,1626 1543,1627 1614,1626 1614,1578 1543,1579 1472,1578 1401,1578 1330,1580 1260,1580 1189,1580 1118,1582 1047,1584 976,1584 906,1584 835,1582 764,1581 693,1581 622,1578 552,1579 481,1582 410,1580 339,1584 268,1586 198,1584"/>
+                <Baseline points="198,1616 268,1618 339,1616 410,1612 481,1614 552,1611 622,1610 693,1613 764,1613 835,1614 906,1616 976,1616 1047,1616 1118,1614 1189,1612 1260,1612 1330,1612 1401,1610 1472,1610 1543,1611 1614,1610"/>
+                <TextEquiv>
+                    <Unicode>del Poliaiuolo, e delle sue fantasie di ammazzamenti, e di conflitti cruenti, di scene con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715535187656_412" custom="readingOrder {index:16;} gap {offset:32; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="210,1651 1312,1645 1312,1695 210,1701"/>
+                <Baseline points="210,1696 1312,1690"/>
+                <TextEquiv>
+                    <Unicode>armati Intanto la Battaglia dei      nell'incisione famosa: dove </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715535189535_417" custom="readingOrder {index:17;}">
+                <Coords points="1314,1608 1343,1608 1343,1658 1314,1658"/>
+                <Baseline points="1314,1653 1343,1653"/>
+                <TextEquiv>
+                    <Unicode>è</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715535197519_422" custom="readingOrder {index:18;}">
+                <Coords points="1328,1643 1655,1649 1654,1699 1327,1693"/>
+                <Baseline points="1327,1688 1654,1694"/>
+                <TextEquiv>
+                    <Unicode>il gruppo di maschi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715534853515_362" custom="readingOrder {index:19;}">
+                <Coords points="209,1728 356,1725 357,1775 210,1778"/>
+                <Baseline points="210,1773 357,1770"/>
+                <TextEquiv>
+                    <Unicode>inferociti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715534855746_367" custom="readingOrder {index:20;} add {offset:0; length:3;place:above;}">
+                <Coords points="362,1690 393,1691 392,1741 361,1740"/>
+                <Baseline points="361,1735 392,1736"/>
+                <TextEquiv>
+                    <Unicode>che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715534864379_372" custom="readingOrder {index:21;}">
+                <Coords points="370,1725 1261,1724 1261,1774 370,1775"/>
+                <Baseline points="370,1770 1261,1769"/>
+                <TextEquiv>
+                    <Unicode>si azzuffano con le spade ricurve, quasi orientali,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:22;} add {offset:0; length:6;place:above;}">
+                <Coords points="1242,1728 1270,1730 1299,1730 1328,1734 1328,1704 1299,1700 1270,1700 1242,1698"/>
+                <Baseline points="1242,1718 1270,1720 1299,1720 1328,1724"/>
+                <TextEquiv>
+                    <Unicode>taluni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715534867382_377" custom="readingOrder {index:23;}">
+                <Coords points="1274,1724 1634,1727 1634,1777 1274,1774"/>
+                <Baseline points="1274,1769 1634,1772"/>
+                <TextEquiv>
+                    <Unicode>riposatamente, sui corpi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:24;}">
+                <Coords points="214,1866 284,1863 355,1861 425,1860 496,1857 566,1857 637,1854 707,1855 778,1854 848,1854 919,1854 989,1854 1060,1854 1130,1854 1201,1854 1271,1854 1342,1854 1412,1854 1483,1852 1553,1850 1624,1852 1624,1803 1553,1801 1483,1803 1412,1805 1342,1805 1271,1805 1201,1805 1130,1805 1060,1805 989,1805 919,1805 848,1805 778,1805 707,1806 637,1805 566,1808 496,1808 425,1811 355,1812 284,1814 214,1817"/>
+                <Baseline points="214,1850 284,1847 355,1845 425,1844 496,1841 566,1841 637,1838 707,1839 778,1838 848,1838 919,1838 989,1838 1060,1838 1130,1838 1201,1838 1271,1838 1342,1838 1412,1838 1483,1836 1553,1834 1624,1836"/>
+                <TextEquiv>
+                    <Unicode>dei giganti, incidono e squartano con sottili coltelli, col gusto tranquillo del macellaio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:25;} del {offset:12; length:2;rend:overstrike;}">
+                <Coords points="220,1940 289,1934 359,1934 428,1934 498,1934 568,1934 637,1933 707,1934 776,1932 846,1930 916,1930 985,1928 1055,1928 1124,1928 1194,1928 1264,1927 1333,1927 1403,1926 1472,1924 1542,1924 1612,1926 1612,1877 1542,1875 1472,1875 1403,1877 1333,1878 1264,1878 1194,1879 1124,1879 1055,1879 985,1879 916,1881 846,1881 776,1883 707,1885 637,1884 568,1885 498,1885 428,1885 359,1885 289,1885 220,1891"/>
+                <Baseline points="220,1924 289,1918 359,1918 428,1918 498,1918 568,1918 637,1917 707,1918 776,1916 846,1914 916,1914 985,1912 1055,1912 1124,1912 1194,1912 1264,1911 1333,1911 1403,1910 1472,1908 1542,1908 1612,1910"/>
+                <TextEquiv>
+                    <Unicode>in bottega.    Pertanto, sangue non scorre : tutto è terso, pulito. Come in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:26;}">
+                <Coords points="210,2016 282,2012 354,2012 426,2012 498,2010 570,2010 642,2010 714,2010 786,2010 858,2007 930,2006 1002,2008 1074,2008 1146,2008 1218,2005 1290,2006 1362,2004 1434,2006 1506,2006 1578,2006 1650,2008 1650,1959 1578,1957 1506,1957 1434,1957 1362,1955 1290,1957 1218,1956 1146,1959 1074,1959 1002,1959 930,1957 858,1958 786,1961 714,1961 642,1961 570,1961 498,1961 426,1963 354,1963 282,1963 210,1967"/>
+                <Baseline points="210,2000 282,1996 354,1996 426,1996 498,1994 570,1994 642,1994 714,1994 786,1994 858,1991 930,1990 1002,1992 1074,1992 1146,1992 1218,1989 1290,1990 1362,1988 1434,1990 1506,1990 1578,1990 1650,1992"/>
+                <TextEquiv>
+                    <Unicode>grinta sono atroci, spaventose; e basta osservare dove mirano gli occhi dei combattenti: al ventre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La cronaca del Poliziano.&#13;
+In una mattina di domenica, della metà di maggio. Mentre in casa tutti dor-&#13;
+minavano, ero uscito nell'orto per guardare le rose. Appena tra un'aiuola e la sie-&#13;
+pe, inciampai nella tartaruga, col dorso ancora luccicante di rugiada. La scansai su-&#13;
+bito per un senso di sospetto che coteste bestie mi mettono. E osservai una rosa bianca, di&#13;
+stelo alto, che tremava, come animata. Tra i petali morbidi e teneri scorsi un paio di&#13;
+scarabei. Verdi di corazza, come un gioiello egiziano. Verdi, con riflessi d'oro, inquieti,&#13;
+indaffarati, trafficavano con le zampine tra i pistilli gialli della rosa di carne bianca.&#13;
+E davano il senso d'una vita che scorreva, nascosta, tra le cose naturali della natura.&#13;
+Così mi venne di pensare a una qualità dell'arte toscana, lì tra le foglie che spec-&#13;
+chiavano di verde, tra i rami teneri e vivi che spuntavano dalla terra fresca dell'al-&#13;
+ba recente.&#13;
+Avevo appena finito di leggere la narrazione del Poliziano nella congiura dei Pazzi.     &#13;
+tenevo ancora il libro fra le mani. Quasi a ricordarmi di qualcosa. E mi ricordai, aven-&#13;
+do ancora in mente, e quasi davanti agli occhi la sanguinosa azione del 26 aprile 1478,&#13;
+del Poliaiuolo, e delle sue fantasie di ammazzamenti, e di conflitti cruenti, di scene con&#13;
+armati Intanto la Battaglia dei      nell'incisione famosa: dove &#13;
+è&#13;
+il gruppo di maschi&#13;
+inferociti&#13;
+che&#13;
+si azzuffano con le spade ricurve, quasi orientali,&#13;
+taluni&#13;
+riposatamente, sui corpi&#13;
+dei giganti, incidono e squartano con sottili coltelli, col gusto tranquillo del macellaio&#13;
+in bottega.    Pertanto, sangue non scorre : tutto è terso, pulito. Come in&#13;
+grinta sono atroci, spaventose; e basta osservare dove mirano gli occhi dei combattenti: al ventre,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

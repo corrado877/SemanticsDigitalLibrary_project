@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:16:38.677+01:00</Created>
+        <LastChange>2024-06-20T11:42:24.342+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325502" pageNr="50" tsid="175603533" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=FXKQIZMMTOHJIKVGDUSYTHWW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EWPWWFRGGTXMCGYAXIXKWBPL" imageId="53903820"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_07_0001_piatto_ant_r.jpg" imageWidth="1798" imageHeight="2476" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746066971" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="616,512 616,675 1078,675 1078,512"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="628,548 654,547 680,546 706,545 732,545 758,546 784,546 811,546 837,546 863,545 889,545 915,545 941,544 967,544 994,542 994,512 967,514 941,514 915,515 889,515 863,515 837,516 811,516 784,516 758,516 732,515 706,515 680,516 654,517 628,518"/>
+                <Baseline points="628,538 654,537 680,536 706,535 732,535 758,536 784,536 811,536 837,536 863,535 889,535 915,535 941,534 967,534 994,532"/>
+                <TextEquiv>
+                    <Unicode>I viaggi di Ungaretti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} date {offset:0; length:9;year:1961; day:25; month:3;}">
+                <Coords points="892,582 918,582 944,582 970,582 997,581 1023,580 1049,580 1076,578 1076,548 1049,550 1023,550 997,551 970,552 944,552 918,552 892,552"/>
+                <Baseline points="892,572 918,572 944,572 970,572 997,571 1023,570 1049,570 1076,568"/>
+                <TextEquiv>
+                    <Unicode>25.3.1961</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="616,624 642,626 668,625 694,625 720,627 746,627 772,626 798,626 824,628 850,626 876,630 902,633 928,634 954,634 980,634 1006,632 1006,602 980,604 954,604 928,604 902,603 876,600 850,596 824,598 798,596 772,596 746,597 720,597 694,595 668,595 642,596 616,594"/>
+                <Baseline points="616,614 642,616 668,615 694,615 720,617 746,617 772,616 798,616 824,618 850,616 876,620 902,623 928,624 954,624 980,624 1006,622"/>
+                <TextEquiv>
+                    <Unicode>L'Africa di Rimbaud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;} date {offset:0; length:9;year:1961; day:20; month:3;}">
+                <Coords points="890,674 916,673 943,675 970,675 997,674 1024,674 1051,672 1078,672 1078,642 1051,642 1024,644 997,644 970,645 943,645 916,643 890,644"/>
+                <Baseline points="890,664 916,663 943,665 970,665 997,664 1024,664 1051,662 1078,662"/>
+                <TextEquiv>
+                    <Unicode>20.3.1961</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>I viaggi di Ungaretti&#13;
+25.3.1961&#13;
+L'Africa di Rimbaud&#13;
+20.3.1961</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

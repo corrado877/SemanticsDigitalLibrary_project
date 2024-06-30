@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:48:58.835+02:00</Created>
+        <LastChange>2024-06-20T10:46:06.831+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326063" pageNr="126" tsid="175603610" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=EDJKDACUSVHJVKAIBQMLKWKD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UYVWHIBAKQTQRSQBPUIIVJJU" imageId="54317581"/>
+    </Metadata>
+    <Page imageFilename="Q_10_1955_0001_piatto_ant.jpg" imageWidth="1798" imageHeight="2324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746082424" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="530,622 531,990 983,990 982,622"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:11;rend:underline;}">
+                <Coords points="660,663 685,661 710,662 736,663 761,663 786,663 812,665 837,663 862,663 888,662 913,661 938,662 964,663 964,624 938,623 913,622 888,623 862,624 837,624 812,626 786,624 761,624 736,624 710,623 685,622 660,624"/>
+                <Baseline points="660,650 685,648 710,649 736,650 761,650 786,650 812,652 837,650 862,650 888,649 913,648 938,649 964,650"/>
+                <TextEquiv>
+                    <Unicode>Varie, 1953</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="530,713 555,715 580,715 605,716 630,717 655,717 680,719 705,719 730,720 756,721 781,722 806,723 831,723 856,725 881,725 906,725 931,726 956,729 982,729 982,689 956,689 931,686 906,685 881,685 856,685 831,683 806,683 781,682 756,681 730,680 705,679 680,679 655,677 630,677 605,676 580,675 555,675 530,673"/>
+                <Baseline points="530,700 555,702 580,702 605,703 630,704 655,704 680,706 705,706 730,707 756,708 781,709 806,710 831,710 856,712 881,712 906,712 931,713 956,716 982,716"/>
+                <TextEquiv>
+                    <Unicode>1. La cronaca del Poliziano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="530,777 555,777 581,777 606,777 632,778 658,779 683,779 709,779 735,779 760,780 786,781 811,781 837,781 863,781 888,781 914,783 940,783 940,743 914,743 888,741 863,741 837,741 811,741 786,741 760,740 735,739 709,739 683,739 658,739 632,738 606,737 581,737 555,737 530,737"/>
+                <Baseline points="530,764 555,764 581,764 606,764 632,765 658,766 683,766 709,766 735,766 760,767 786,768 811,768 837,768 863,768 888,768 914,770 940,770"/>
+                <TextEquiv>
+                    <Unicode>2. Le rime di Dante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="588,866 614,864 640,864 666,864 692,864 718,864 744,864 770,864 796,864 822,864 848,865 874,867 900,868 900,825 874,824 848,822 822,821 796,821 770,821 744,821 718,821 692,821 666,821 640,821 614,821 588,823"/>
+                <Baseline points="588,852 614,850 640,850 666,850 692,850 718,850 744,850 770,850 796,850 822,850 848,851 874,853 900,854"/>
+                <TextEquiv>
+                    <Unicode>Ricordo delle Rime</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="704,951 804,950 838,950 930,943 941,875 838,871 790,871 704,880"/>
+                <Baseline points="764,914 794,916 825,918 856,918"/>
+                <TextEquiv>
+                    <Unicode>(1955)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715533332982_122" custom="readingOrder {index:5;} hi {offset:0; length:6;rend:color; type:red;}">
+                <Coords points="750,911 828,913 827,963 749,961"/>
+                <Baseline points="749,956 827,958"/>
+                <TextEquiv>
+                    <Unicode>Maggio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Varie, 1953&#13;
+1. La cronaca del Poliziano&#13;
+2. Le rime di Dante&#13;
+Ricordo delle Rime&#13;
+(1955)&#13;
+Maggio</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

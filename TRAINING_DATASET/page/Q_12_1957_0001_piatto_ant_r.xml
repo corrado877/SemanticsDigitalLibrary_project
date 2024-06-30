@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:37:27.702+02:00</Created>
+        <LastChange>2024-06-21T10:17:18.392+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326044" pageNr="108" tsid="175603597" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=CXMQPNNORUYLBWQPYGUIEXRU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OGNKDFIMODXLKJQUPEYMCHNA" imageId="54316444"/>
+    </Metadata>
+    <Page imageFilename="Q_12_1957_0001_piatto_ant_r.jpg" imageWidth="1798" imageHeight="2523" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746078613" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="661,648 661,876 1035,876 1035,648"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:11; continued:true;rend:center;}">
+                <Coords points="705,685 730,688 755,688 781,688 806,689 832,689 857,689 882,689 908,689 933,689 959,691 959,654 933,652 908,652 882,652 857,652 832,652 806,652 781,651 755,651 730,651 705,648"/>
+                <Baseline points="705,673 730,676 755,676 781,676 806,677 832,677 857,677 882,677 908,677 933,677 959,679"/>
+                <TextEquiv>
+                    <Unicode>Miscellanea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} hi {offset:0; length:16; continued:true;rend:center;}">
+                <Coords points="661,739 687,739 713,740 740,740 766,739 793,740 819,740 846,739 872,741 898,739 925,741 951,741 978,741 1004,741 1031,739 1031,702 1004,704 978,704 951,704 925,704 898,702 872,704 846,702 819,703 793,703 766,702 740,703 713,703 687,702 661,702"/>
+                <Baseline points="661,727 687,727 713,728 740,728 766,727 793,728 819,728 846,727 872,729 898,727 925,729 951,729 978,729 1004,729 1031,727"/>
+                <TextEquiv>
+                    <Unicode>dell'agosto 1957</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} hi {offset:0; length:16; continued:true;rend:center;}">
+                <Coords points="663,804 689,806 716,806 742,805 769,805 795,806 822,806 849,806 875,806 902,808 928,808 955,809 981,810 1008,811 1035,812 1035,772 1008,771 981,770 955,769 928,768 902,768 875,766 849,766 822,766 795,766 769,765 742,765 716,766 689,766 663,764"/>
+                <Baseline points="663,791 689,793 716,793 742,792 769,792 795,793 822,793 849,793 875,793 902,795 928,795 955,796 981,797 1008,798 1035,799"/>
+                <TextEquiv>
+                    <Unicode>Pezzi bolognesi -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;} hi {offset:0; length:19; continued:true;rend:center;}">
+                <Coords points="663,866 689,866 716,868 742,868 769,869 795,870 822,870 849,870 875,872 902,874 928,874 955,874 981,874 1008,875 1035,876 1035,836 1008,835 981,834 955,834 928,834 902,834 875,832 849,830 822,830 795,830 769,829 742,828 716,828 689,826 663,826"/>
+                <Baseline points="663,853 689,853 716,855 742,855 769,856 795,857 822,857 849,857 875,859 902,861 928,861 955,861 981,861 1008,862 1035,863"/>
+                <TextEquiv>
+                    <Unicode>Viaggio in Belgio -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Miscellanea&#13;
+dell'agosto 1957&#13;
+Pezzi bolognesi -&#13;
+Viaggio in Belgio -</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="1222,707 1213,865 1595,865 1604,707"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;} hi {offset:0; length:16;rend:color; type:red;}">
+                <Coords points="1213,857 1238,856 1263,855 1289,855 1314,855 1340,857 1365,857 1391,856 1416,854 1442,853 1467,853 1493,855 1518,858 1544,860 1569,862 1595,865 1595,715 1569,712 1544,710 1518,708 1493,705 1467,703 1442,703 1416,704 1391,706 1365,707 1340,707 1314,705 1289,705 1263,705 1238,706 1213,707"/>
+                <Baseline points="1213,807 1238,806 1263,805 1289,805 1314,805 1340,807 1365,807 1391,806 1416,804 1442,803 1467,803 1493,805 1518,808 1544,810 1569,812 1595,815"/>
+                <TextEquiv>
+                    <Unicode>Estate a Bologna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Estate a Bologna</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

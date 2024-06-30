@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:23:17.309+02:00</Created>
+        <LastChange>2024-06-21T09:59:31.530+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326002" pageNr="84" tsid="175603569" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=RRCGNSTGVZFHFJZSTYGYNYWF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OPJAEECGVRCMZAOOPUFHJEVX" imageId="54296135"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_10_0001_piatto_ant.jpg" imageWidth="1798" imageHeight="2427" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746073544" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="665,669 665,831 1127,831 1127,669"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:17;rend:underline;}">
+                <Coords points="665,831 690,830 716,830 742,831 767,831 793,829 819,828 844,828 870,828 896,827 921,827 947,825 973,825 998,822 1024,820 1050,819 1075,819 1101,819 1127,821 1127,671 1101,669 1075,669 1050,669 1024,670 998,672 973,675 947,675 921,677 896,677 870,678 844,678 819,678 793,679 767,681 742,681 716,680 690,680 665,681"/>
+                <Baseline points="665,781 690,780 716,780 742,781 767,781 793,779 819,778 844,778 870,778 896,777 921,777 947,775 973,775 998,772 1024,770 1050,769 1075,769 1101,769 1127,771"/>
+                <TextEquiv>
+                    <Unicode>Rimbaud in Africa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rimbaud in Africa</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

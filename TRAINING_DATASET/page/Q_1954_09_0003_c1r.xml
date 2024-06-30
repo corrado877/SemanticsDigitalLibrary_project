@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:14:12.103+02:00</Created>
+        <LastChange>2024-06-21T09:45:36.029+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325998" pageNr="76" tsid="175603545" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=HQIHNHSEOUOHPNWVNYXDGCMT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TQJJRNTXBUFIKEACLUHCQGXS" imageId="54294198"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_09_0003_c1r.jpg" imageWidth="1798" imageHeight="2383" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746071972" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1713344099154_156"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="159,266 161,2112 1597,2112 1585,266"/>
+            <TextLine id="line_1713344170193_165" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:left;}">
+                <Coords points="203,378 260,378 260,428 203,428"/>
+                <Baseline points="203,423 260,423"/>
+                <TextEquiv>
+                    <Unicode>1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;} place {offset:39; length:7;country:Italia;}">
+                <Coords points="223,531 288,529 353,529 418,527 483,527 549,527 614,525 679,527 744,527 809,523 875,524 940,522 1005,520 1070,521 1135,519 1201,519 1266,517 1331,518 1396,515 1461,515 1527,515 1527,466 1461,466 1396,466 1331,469 1266,468 1201,470 1135,470 1070,472 1005,471 940,473 875,475 809,474 744,478 679,478 614,476 549,478 483,478 418,478 353,480 288,480 223,482"/>
+                <Baseline points="223,515 288,513 353,513 418,511 483,511 549,511 614,509 679,511 744,511 809,507 875,508 940,506 1005,504 1070,505 1135,503 1201,503 1266,501 1331,502 1396,499 1461,499 1527,499"/>
+                <TextEquiv>
+                    <Unicode>Sarà così in ogni città, ma mai come a Bologna, nella cattiva stagione, ho capito</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="203,613 271,607 339,605 407,603 475,604 543,605 611,606 679,603 747,603 815,603 883,602 951,600 1019,597 1087,597 1155,596 1223,597 1291,597 1359,597 1427,596 1495,597 1587,596 1584,549 1490,540 1439,541 1359,548 1291,548 1223,548 1155,547 1087,548 1019,548 951,551 883,553 815,554 747,554 679,554 611,557 543,556 475,555 407,554 339,556 271,558 203,564"/>
+                <Baseline points="203,597 271,591 339,589 407,587 475,588 543,589 611,590 679,587 747,587 815,587 883,586 951,584 1019,581 1087,581 1155,580 1223,581 1291,581 1359,581 1427,580 1495,581 1583,594"/>
+                <TextEquiv>
+                    <Unicode>come le strade siano dei passaggi, dei sentieri che collegano casa a casa. E le case,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="201,681 270,683 339,684 409,687 478,685 548,679 617,678 686,675 756,677 825,673 895,675 964,673 1033,675 1103,673 1172,671 1242,671 1311,669 1380,667 1450,667 1519,668 1589,671 1589,622 1519,619 1450,618 1380,618 1311,620 1242,622 1172,622 1103,624 1033,626 964,624 895,626 825,624 756,628 686,626 617,629 548,630 478,636 409,638 339,635 270,634 201,632"/>
+                <Baseline points="201,665 270,667 339,668 409,671 478,669 548,663 617,662 686,659 756,661 825,657 895,659 964,657 1033,659 1103,657 1172,655 1242,655 1311,653 1380,651 1450,651 1519,652 1589,655"/>
+                <TextEquiv>
+                    <Unicode>dei rifugi, dei ricoveri dove salvarsi in questa stagione. Le strade si curvano e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;} del {offset:57; length:5;rend:overstrike;} gap {offset:57; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="199,767 268,763 337,762 406,759 475,757 545,757 614,755 683,757 752,753 821,753 891,757 960,750 1029,751 1098,753 1167,751 1237,749 1306,745 1375,743 1444,743 1513,743 1583,745 1583,696 1513,694 1444,694 1375,694 1306,696 1237,700 1167,702 1098,704 1029,702 960,701 891,708 821,704 752,704 683,708 614,706 545,708 475,708 406,710 337,713 268,714 199,718"/>
+                <Baseline points="199,751 268,747 337,746 406,743 475,741 545,741 614,739 683,741 752,737 821,737 891,741 960,734 1029,735 1098,737 1167,735 1237,733 1306,729 1375,727 1444,727 1513,727 1583,729"/>
+                <TextEquiv>
+                    <Unicode>piegano, si restringono e allargano per avvicinarsi agli       accessi delle case.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="195,839 265,837 336,834 407,835 478,833 549,831 619,831 690,826 761,824 832,823 903,822 973,821 1044,821 1115,821 1186,819 1257,819 1327,821 1398,819 1469,819 1540,817 1611,821 1611,772 1540,768 1469,770 1398,770 1327,772 1257,770 1186,770 1115,772 1044,772 973,772 903,773 832,774 761,775 690,777 619,782 549,782 478,784 407,786 336,785 265,788 195,790"/>
+                <Baseline points="195,823 265,821 336,818 407,819 478,817 549,815 619,815 690,810 761,808 832,807 903,806 973,805 1044,805 1115,805 1186,803 1257,803 1327,805 1398,803 1469,803 1540,801 1611,805"/>
+                <TextEquiv>
+                    <Unicode>In casa c’è il fuoco, l’acqua, il letto. Sono costruite con terra impastata, modellata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="201,909 271,909 342,910 412,909 483,908 553,905 624,905 694,904 765,905 835,903 906,902 976,899 1047,897 1117,896 1188,897 1258,895 1329,896 1399,897 1470,901 1540,904 1611,911 1611,862 1540,855 1470,852 1399,848 1329,847 1258,846 1188,848 1117,847 1047,848 976,850 906,853 835,854 765,856 694,855 624,856 553,856 483,859 412,860 342,861 271,860 201,860"/>
+                <Baseline points="201,893 271,893 342,894 412,893 483,892 553,889 624,889 694,888 765,889 835,887 906,886 976,883 1047,881 1117,880 1188,881 1258,879 1329,880 1399,881 1470,885 1540,888 1611,895"/>
+                <TextEquiv>
+                    <Unicode>e cotta; sorrette di travature, che sono alberi, e parti di alberi. Servivano più che la difesa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="205,987 275,985 345,985 415,985 485,983 556,981 626,982 696,981 766,983 836,979 907,977 977,975 1047,973 1117,973 1187,973 1258,972 1328,972 1398,971 1468,973 1538,974 1609,983 1609,934 1538,925 1468,924 1398,922 1328,923 1258,923 1187,924 1117,924 1047,924 977,926 907,928 836,930 766,934 696,932 626,933 556,932 485,934 415,936 345,936 275,936 205,938"/>
+                <Baseline points="205,971 275,969 345,969 415,969 485,967 556,965 626,966 696,965 766,967 836,963 907,961 977,959 1047,957 1117,957 1187,957 1258,956 1328,956 1398,955 1468,957 1538,958 1609,967"/>
+                <TextEquiv>
+                    <Unicode>o la lotta, o la rivalità bellica, tra ospitare e salvare l’uomo dal tempo. Per “tempo"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="183,1067 253,1063 324,1061 394,1061 465,1061 536,1059 606,1059 677,1057 747,1057 818,1055 889,1054 959,1054 1030,1053 1100,1052 1171,1051 1242,1051 1312,1048 1383,1049 1453,1047 1524,1045 1595,1049 1595,1000 1524,996 1453,998 1383,1000 1312,999 1242,1002 1171,1002 1100,1003 1030,1004 959,1005 889,1005 818,1006 747,1008 677,1008 606,1010 536,1010 465,1012 394,1012 324,1012 253,1014 183,1018"/>
+                <Baseline points="183,1051 253,1047 324,1045 394,1045 465,1045 536,1043 606,1043 677,1041 747,1041 818,1039 889,1038 959,1038 1030,1037 1100,1036 1171,1035 1242,1035 1312,1032 1383,1033 1453,1031 1524,1029 1595,1033"/>
+                <TextEquiv>
+                    <Unicode>da noi si intende intemperie, e nel tempo c’è un significato quasi di forza natura.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:9;}">
+                <Coords points="201,1146 269,1140 337,1134 405,1134 473,1131 541,1134 609,1130 677,1129 745,1134 813,1128 881,1127 949,1126 1017,1126 1085,1130 1153,1126 1221,1123 1289,1124 1357,1124 1425,1122 1493,1123 1561,1120 1561,1074 1493,1077 1425,1076 1357,1078 1289,1078 1221,1077 1153,1080 1085,1084 1017,1080 949,1080 881,1081 813,1082 745,1088 677,1083 609,1084 541,1088 473,1085 405,1088 337,1088 269,1094 201,1100"/>
+                <Baseline points="201,1131 269,1125 337,1119 405,1119 473,1116 541,1119 609,1115 677,1114 745,1119 813,1113 881,1112 949,1111 1017,1111 1085,1115 1153,1111 1221,1108 1289,1109 1357,1109 1425,1107 1493,1108 1561,1105"/>
+                <TextEquiv>
+                    <Unicode>“Fa tempo": vuol dire, cambia il tempo, e fa brutto. Per la pioggia e la neve, per il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="201,1210 271,1210 342,1209 413,1210 484,1208 555,1205 626,1204 697,1207 768,1205 839,1204 910,1205 980,1204 1051,1206 1122,1203 1193,1202 1264,1198 1335,1201 1406,1198 1477,1199 1548,1200 1619,1206 1619,1160 1548,1154 1477,1153 1406,1152 1335,1155 1264,1152 1193,1156 1122,1157 1051,1160 980,1158 910,1159 839,1158 768,1159 697,1161 626,1158 555,1159 484,1162 413,1164 342,1163 271,1164 201,1164"/>
+                <Baseline points="201,1195 271,1195 342,1194 413,1195 484,1193 555,1190 626,1189 697,1192 768,1190 839,1189 910,1190 980,1189 1051,1191 1122,1188 1193,1187 1264,1183 1335,1186 1406,1183 1477,1184 1548,1185 1619,1191"/>
+                <TextEquiv>
+                    <Unicode>maltempo e gli inverni che non finiscono mai, ci sono i portici, davanti alle case.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="197,1289 266,1288 335,1288 404,1287 473,1287 542,1285 611,1283 680,1283 749,1283 818,1281 888,1281 957,1281 1026,1280 1095,1281 1164,1279 1233,1278 1302,1275 1371,1273 1440,1276 1509,1280 1579,1281 1579,1232 1509,1231 1440,1227 1371,1224 1302,1226 1233,1229 1164,1230 1095,1232 1026,1231 957,1232 888,1232 818,1232 749,1234 680,1234 611,1234 542,1236 473,1238 404,1238 335,1239 266,1239 197,1240"/>
+                <Baseline points="197,1273 266,1272 335,1272 404,1271 473,1271 542,1269 611,1267 680,1267 749,1267 818,1265 888,1265 957,1265 1026,1264 1095,1265 1164,1263 1233,1262 1302,1259 1371,1257 1440,1260 1509,1264 1579,1265"/>
+                <TextEquiv>
+                    <Unicode>Per spiegarsi l’origine del portico, nelle case emiliane, bisogna pensare all’origine agri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="191,1369 261,1368 331,1366 401,1365 471,1363 542,1363 612,1361 682,1361 752,1357 822,1359 893,1353 963,1353 1033,1353 1103,1353 1173,1353 1244,1351 1314,1350 1384,1349 1454,1350 1524,1351 1595,1353 1595,1304 1524,1302 1454,1301 1384,1300 1314,1301 1244,1302 1173,1304 1103,1304 1033,1304 963,1304 893,1304 822,1310 752,1308 682,1312 612,1312 542,1314 471,1314 401,1316 331,1317 261,1319 191,1320"/>
+                <Baseline points="191,1353 261,1352 331,1350 401,1349 471,1347 542,1347 612,1345 682,1345 752,1341 822,1343 893,1337 963,1337 1033,1337 1103,1337 1173,1337 1244,1335 1314,1334 1384,1333 1454,1334 1524,1335 1595,1337"/>
+                <TextEquiv>
+                    <Unicode>cola e aperta di codesta terra emiliana. E basta ripensare al significato , di tettoia e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:13;}">
+                <Coords points="183,1441 252,1441 322,1441 391,1440 461,1439 531,1437 600,1438 670,1437 739,1435 809,1435 879,1433 948,1429 1018,1432 1087,1431 1157,1431 1227,1431 1296,1428 1366,1427 1435,1425 1505,1424 1575,1425 1575,1376 1505,1375 1435,1376 1366,1378 1296,1379 1227,1382 1157,1382 1087,1382 1018,1383 948,1380 879,1384 809,1386 739,1386 670,1388 600,1389 531,1388 461,1390 391,1391 322,1392 252,1392 183,1392"/>
+                <Baseline points="183,1425 252,1425 322,1425 391,1424 461,1423 531,1421 600,1422 670,1421 739,1419 809,1419 879,1417 948,1413 1018,1416 1087,1415 1157,1415 1227,1415 1296,1412 1366,1411 1435,1409 1505,1408 1575,1409"/>
+                <TextEquiv>
+                    <Unicode>ricovero per gli attrezzi e gli animali da lavoro, che ha il portico nelle più antiche case</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:14;}">
+                <Coords points="187,1511 255,1511 324,1512 392,1509 461,1509 529,1507 598,1506 666,1507 735,1506 803,1503 872,1505 940,1503 1009,1502 1077,1500 1146,1497 1214,1497 1283,1497 1351,1497 1420,1497 1488,1499 1557,1503 1557,1473 1488,1469 1420,1467 1351,1467 1283,1467 1214,1467 1146,1467 1077,1470 1009,1472 940,1473 872,1475 803,1473 735,1476 666,1477 598,1476 529,1477 461,1479 392,1479 324,1482 255,1481 187,1481"/>
+                <Baseline points="187,1501 255,1501 324,1502 392,1499 461,1499 529,1497 598,1496 666,1497 735,1496 803,1493 872,1495 940,1493 1009,1492 1077,1490 1146,1487 1214,1487 1283,1487 1351,1487 1420,1487 1488,1489 1557,1493"/>
+                <TextEquiv>
+                    <Unicode>di Bologna che ancora restano. Il portico è formato di colonne e di travi di legno, di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713344852069_180" custom="readingOrder {index:15;} del {offset:40; length:7;rend:overtyped;} div {offset:40; length:0;}">
+                <Coords points="197,1542 343,1544 538,1539 774,1537 932,1537 932,1587 774,1587 539,1589 343,1594 196,1592"/>
+                <Baseline points="196,1587 343,1589 539,1584 774,1582 932,1582"/>
+                <TextEquiv>
+                    <Unicode>carattere e formazione tutta agricola e         ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:16;}">
+                <Coords points="785,1541 811,1541 838,1543 864,1544 891,1545 891,1515 864,1514 838,1513 811,1511 785,1511"/>
+                <Baseline points="785,1531 811,1531 838,1533 864,1534 891,1535"/>
+                <TextEquiv>
+                    <Unicode>rurale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713344864266_185" custom="readingOrder {index:17;}">
+                <Coords points="982,1535 1187,1542 1302,1537 1499,1537 1616,1537 1616,1587 1499,1587 1303,1587 1187,1592 980,1585"/>
+                <Baseline points="980,1580 1187,1587 1303,1582 1499,1582 1610,1582"/>
+                <TextEquiv>
+                    <Unicode> sul quale, molto in alto, è la dimora degli </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:18;}">
+                <Coords points="182,1667 437,1663 497,1663 556,1665 616,1661 676,1661 735,1659 795,1659 855,1659 914,1661 974,1661 1034,1659 1093,1661 1153,1657 1213,1657 1272,1657 1332,1657 1392,1655 1451,1654 1511,1655 1571,1659 1571,1610 1511,1606 1451,1605 1392,1606 1332,1608 1272,1608 1213,1608 1153,1608 1093,1612 1034,1610 974,1612 914,1612 855,1610 795,1610 735,1610 676,1612 616,1612 556,1616 497,1614 437,1614 177,1615"/>
+                <Baseline points="191,1666 437,1647 497,1647 556,1649 616,1645 676,1645 735,1643 795,1643 855,1643 914,1645 974,1645 1034,1643 1093,1645 1153,1641 1213,1641 1272,1641 1332,1641 1392,1639 1451,1638 1511,1639 1571,1643"/>
+                <TextEquiv>
+                    <Unicode>uomini. Alta, inalzata sul livello della terra, è la casa, anche per salvarla dal pericolo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:19;}">
+                <Coords points="293,1705 328,1705 395,1697 396,1667 328,1675 288,1670"/>
+                <Baseline points="290,1700 325,1700 392,1694"/>
+                <TextEquiv>
+                    <Unicode>e dai danni delle acque dei fiumi, e dei corsi d’acqua, che, di frequente, straripavano e alla-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:20;} add {offset:0; length:5;place:above;}">
+                <Coords points="191,1743 262,1739 333,1741 404,1739 475,1739 546,1737 617,1739 688,1733 759,1736 830,1735 902,1732 973,1732 1044,1729 1115,1729 1186,1729 1257,1729 1328,1728 1399,1725 1470,1723 1541,1725 1613,1733 1613,1703 1541,1695 1470,1693 1399,1695 1328,1698 1257,1699 1186,1699 1115,1699 1044,1699 973,1702 902,1702 830,1705 759,1706 688,1703 617,1709 546,1707 475,1709 404,1709 333,1711 262,1709 191,1713"/>
+                <Baseline points="191,1733 262,1729 333,1731 404,1729 475,1729 546,1727 617,1729 688,1723 759,1726 830,1725 902,1722 973,1722 1044,1719 1115,1719 1186,1719 1257,1719 1328,1718 1399,1715 1470,1713 1541,1715 1613,1723"/>
+                <TextEquiv>
+                    <Unicode>danni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:21;}">
+                <Coords points="197,1821 258,1819 320,1821 382,1821 443,1821 505,1817 567,1815 628,1815 690,1817 752,1816 814,1813 875,1813 937,1811 999,1812 1060,1812 1122,1809 1184,1807 1245,1805 1307,1803 1369,1803 1431,1809 1431,1760 1369,1754 1307,1754 1245,1756 1184,1758 1122,1760 1060,1763 999,1763 937,1762 875,1764 814,1764 752,1767 690,1768 628,1766 567,1766 505,1768 443,1772 382,1772 320,1772 258,1770 197,1772"/>
+                <Baseline points="197,1805 258,1803 320,1805 382,1805 443,1805 505,1801 567,1799 628,1799 690,1801 752,1800 814,1797 875,1797 937,1795 999,1796 1060,1796 1122,1793 1184,1791 1245,1789 1307,1787 1369,1787 1431,1793"/>
+                <TextEquiv>
+                    <Unicode>gavano in ogni parte. La nostra architettura ha queste povere e vere origini.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:22;} del {offset:0; length:99;rend:overstrike;}">
+                <Coords points="199,1899 269,1898 340,1894 410,1891 481,1893 551,1889 622,1889 692,1889 763,1891 833,1887 904,1885 974,1885 1045,1883 1115,1885 1186,1883 1256,1883 1327,1883 1397,1881 1468,1882 1538,1881 1609,1885 1609,1836 1538,1832 1468,1833 1397,1832 1327,1834 1256,1834 1186,1834 1115,1836 1045,1834 974,1836 904,1836 833,1838 763,1842 692,1840 622,1840 551,1840 481,1844 410,1842 340,1845 269,1849 199,1850"/>
+                <Baseline points="199,1883 269,1882 340,1878 410,1875 481,1877 551,1873 622,1873 692,1873 763,1875 833,1871 904,1869 974,1869 1045,1867 1115,1869 1186,1867 1256,1867 1327,1867 1397,1865 1468,1866 1538,1865 1609,1869"/>
+                <TextEquiv>
+                    <Unicode>L’Emilia è una terra fertile di un benigno lavoro. La natura favorisce gli                         </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:23;}">
+                <Coords points="201,1975 268,1973 336,1971 404,1969 472,1965 540,1965 608,1964 676,1964 744,1965 812,1965 880,1964 947,1961 1015,1961 1083,1961 1151,1959 1219,1960 1287,1961 1355,1959 1423,1960 1491,1957 1559,1959 1559,1910 1491,1908 1423,1911 1355,1910 1287,1912 1219,1911 1151,1910 1083,1912 1015,1912 947,1912 880,1915 812,1916 744,1916 676,1915 608,1915 540,1916 472,1916 404,1920 336,1922 268,1924 201,1926"/>
+                <Baseline points="201,1959 268,1957 336,1955 404,1953 472,1949 540,1949 608,1948 676,1948 744,1949 812,1949 880,1948 947,1945 1015,1945 1083,1945 1151,1943 1219,1944 1287,1945 1355,1943 1423,1944 1491,1941 1559,1943"/>
+                <TextEquiv>
+                    <Unicode>Le case hanno il colore della terra, dei frutti della terra sui quali sia passato il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:24;}">
+                <Coords points="215,2059 284,2051 353,2048 422,2046 491,2045 561,2041 630,2041 699,2040 768,2042 837,2043 907,2039 976,2037 1045,2037 1114,2034 1183,2033 1253,2032 1322,2031 1391,2031 1460,2034 1529,2033 1599,2033 1599,1984 1529,1984 1460,1985 1391,1982 1322,1982 1253,1983 1183,1984 1114,1985 1045,1988 976,1988 907,1990 837,1994 768,1993 699,1991 630,1992 561,1992 491,1996 422,1997 353,1999 284,2002 215,2010"/>
+                <Baseline points="215,2043 284,2035 353,2032 422,2030 491,2029 561,2025 630,2025 699,2024 768,2026 837,2027 907,2023 976,2021 1045,2021 1114,2018 1183,2017 1253,2016 1322,2015 1391,2015 1460,2018 1529,2017 1599,2017"/>
+                <TextEquiv>
+                    <Unicode>peso del tempo e del cielo. Colori di campagna: il rosso, il giallo del grano, della zucca,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1.&#13;
+Sarà così in ogni città, ma mai come a Bologna, nella cattiva stagione, ho capito&#13;
+come le strade siano dei passaggi, dei sentieri che collegano casa a casa. E le case,&#13;
+dei rifugi, dei ricoveri dove salvarsi in questa stagione. Le strade si curvano e&#13;
+piegano, si restringono e allargano per avvicinarsi agli       accessi delle case.&#13;
+In casa c’è il fuoco, l’acqua, il letto. Sono costruite con terra impastata, modellata&#13;
+e cotta; sorrette di travature, che sono alberi, e parti di alberi. Servivano più che la difesa&#13;
+o la lotta, o la rivalità bellica, tra ospitare e salvare l’uomo dal tempo. Per “tempo"&#13;
+da noi si intende intemperie, e nel tempo c’è un significato quasi di forza natura.&#13;
+“Fa tempo": vuol dire, cambia il tempo, e fa brutto. Per la pioggia e la neve, per il&#13;
+maltempo e gli inverni che non finiscono mai, ci sono i portici, davanti alle case.&#13;
+Per spiegarsi l’origine del portico, nelle case emiliane, bisogna pensare all’origine agri-&#13;
+cola e aperta di codesta terra emiliana. E basta ripensare al significato , di tettoia e&#13;
+ricovero per gli attrezzi e gli animali da lavoro, che ha il portico nelle più antiche case&#13;
+di Bologna che ancora restano. Il portico è formato di colonne e di travi di legno, di&#13;
+carattere e formazione tutta agricola e         ,&#13;
+rurale&#13;
+ sul quale, molto in alto, è la dimora degli &#13;
+uomini. Alta, inalzata sul livello della terra, è la casa, anche per salvarla dal pericolo&#13;
+e dai danni delle acque dei fiumi, e dei corsi d’acqua, che, di frequente, straripavano e alla-&#13;
+danni&#13;
+gavano in ogni parte. La nostra architettura ha queste povere e vere origini.&#13;
+L’Emilia è una terra fertile di un benigno lavoro. La natura favorisce gli                         &#13;
+Le case hanno il colore della terra, dei frutti della terra sui quali sia passato il&#13;
+peso del tempo e del cielo. Colori di campagna: il rosso, il giallo del grano, della zucca,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1713344099154_156" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="270,432 195,432 195,337 270,337"/>
+        </TextRegion>
+    </Page>
+</PcGts>

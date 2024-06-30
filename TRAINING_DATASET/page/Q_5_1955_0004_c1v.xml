@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:23:13.182+02:00</Created>
+        <LastChange>2024-06-21T10:09:45.626+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326052" pageNr="103" tsid="175603579" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=PYDHIWUBVDDQGJSDVFNFANBV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IORXDCPTWCOQOLMHDNKJMFAS" imageId="54314808"/>
+    </Metadata>
+    <Page imageFilename="Q_5_1955_0004_c1v.jpg" imageWidth="1798" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746077444" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="218,489 218,2064 1672,2064 1672,489"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="230,550 300,545 370,541 440,540 511,541 581,540 651,540 722,538 792,538 862,538 933,539 1003,542 1073,538 1143,539 1214,536 1284,536 1354,534 1425,532 1495,533 1565,531 1636,532 1636,490 1565,489 1495,491 1425,490 1354,492 1284,494 1214,494 1143,497 1073,496 1003,500 933,497 862,496 792,496 722,496 651,498 581,498 511,499 440,498 370,499 300,503 230,508"/>
+                <Baseline points="230,536 300,531 370,527 440,526 511,527 581,526 651,526 722,524 792,524 862,524 933,525 1003,528 1073,524 1143,525 1214,522 1284,522 1354,520 1425,518 1495,519 1565,517 1636,518"/>
+                <TextEquiv>
+                    <Unicode>a ritiro. Navi, o montagna, sono nello sfondo della sua figura. E quando in casa, o nel suo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="236,622 305,622 375,620 445,622 515,622 585,620 654,621 724,619 794,618 864,616 934,615 1003,612 1073,612 1143,611 1213,610 1283,608 1352,609 1422,610 1492,610 1562,612 1632,610 1632,568 1562,570 1492,568 1422,568 1352,567 1283,566 1213,568 1143,569 1073,570 1003,570 934,573 864,574 794,576 724,577 654,579 585,578 515,580 445,580 375,578 305,580 236,580"/>
+                <Baseline points="236,608 305,608 375,606 445,608 515,608 585,606 654,607 724,605 794,604 864,602 934,601 1003,598 1073,598 1143,597 1213,596 1283,594 1352,595 1422,596 1492,596 1562,598 1632,596"/>
+                <TextEquiv>
+                    <Unicode>ufficio, corde, ramponi, chiodi testimoniavano del suo passato di montanaro e di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="238,698 306,701 375,699 444,696 513,693 582,692 650,691 719,690 788,688 857,688 926,686 994,686 1063,685 1132,686 1201,684 1270,684 1338,684 1407,686 1476,682 1545,682 1614,684 1614,642 1545,640 1476,640 1407,644 1338,642 1270,642 1201,642 1132,644 1063,643 994,644 926,644 857,646 788,646 719,648 650,649 582,650 513,651 444,654 375,657 306,659 238,656"/>
+                <Baseline points="238,684 306,687 375,685 444,682 513,679 582,678 650,677 719,676 788,674 857,674 926,672 994,672 1063,671 1132,672 1201,670 1270,670 1338,670 1407,672 1476,668 1545,668 1614,670"/>
+                <TextEquiv>
+                    <Unicode>alpino, era come mettere l'occhio nell'angolo della cabina di comando del vecchio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="236,776 305,776 375,774 444,773 514,772 583,770 653,770 722,766 792,766 861,763 931,764 1000,764 1070,764 1139,760 1209,760 1278,761 1348,762 1417,760 1487,758 1556,759 1626,756 1626,714 1556,717 1487,716 1417,718 1348,720 1278,719 1209,718 1139,718 1070,722 1000,722 931,722 861,721 792,724 722,724 653,728 583,728 514,730 444,731 375,732 305,734 236,734"/>
+                <Baseline points="236,762 305,762 375,760 444,759 514,758 583,756 653,756 722,752 792,752 861,749 931,750 1000,750 1070,750 1139,746 1209,746 1278,747 1348,748 1417,746 1487,744 1556,745 1626,742"/>
+                <TextEquiv>
+                    <Unicode>capitano, con strumenti e attrezzi di navigazione a portata di mano. Ma questi testi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="242,848 310,847 379,846 448,844 517,843 586,841 654,842 723,843 792,842 861,840 930,840 998,840 1067,839 1136,838 1205,838 1274,836 1342,836 1411,836 1480,836 1549,836 1618,838 1618,796 1549,794 1480,794 1411,794 1342,794 1274,794 1205,796 1136,796 1067,797 998,798 930,798 861,798 792,800 723,801 654,800 586,799 517,801 448,802 379,804 310,805 242,806"/>
+                <Baseline points="242,834 310,833 379,832 448,830 517,829 586,827 654,828 723,829 792,828 861,826 930,826 998,826 1067,825 1136,824 1205,824 1274,822 1342,822 1411,822 1480,822 1549,822 1618,824"/>
+                <TextEquiv>
+                    <Unicode>moni della vita, dell'esistenza pratica, sembrano ricavare quel tanto di nostalgico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;} del {offset:76; length:8;rend:overstrike;}">
+                <Coords points="236,922 304,924 373,923 442,920 511,920 580,917 648,920 717,918 786,918 855,918 924,916 992,916 1061,915 1130,914 1199,914 1268,914 1336,914 1405,914 1474,911 1543,911 1612,908 1612,866 1543,869 1474,869 1405,872 1336,872 1268,872 1199,872 1130,872 1061,873 992,874 924,874 855,876 786,876 717,876 648,878 580,875 511,878 442,878 373,881 304,882 236,880"/>
+                <Baseline points="236,908 304,910 373,909 442,906 511,906 580,903 648,906 717,904 786,904 855,904 924,902 992,902 1061,901 1130,900 1199,900 1268,900 1336,900 1405,900 1474,897 1543,897 1612,894"/>
+                <TextEquiv>
+                    <Unicode>spitiro necessario a tener vivo il motivo di un ideale racconto, continuo e         </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="218,998 288,996 359,995 430,994 501,994 572,992 642,992 713,989 784,988 855,988 926,985 996,984 1067,984 1138,984 1209,984 1280,984 1350,984 1421,982 1492,982 1563,982 1634,984 1634,954 1563,952 1492,952 1421,952 1350,954 1280,954 1209,954 1138,954 1067,954 996,954 926,955 855,958 784,958 713,959 642,962 572,962 501,964 430,964 359,965 288,966 218,968"/>
+                <Baseline points="218,988 288,986 359,985 430,984 501,984 572,982 642,982 713,979 784,978 855,978 926,975 996,974 1067,974 1138,974 1209,974 1280,974 1350,974 1421,972 1492,972 1563,972 1634,974"/>
+                <TextEquiv>
+                    <Unicode>inesauribile, di cui si fanno i narratori. Mettendosi appena una vena di nobile rettorica,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715441010310_80" custom="readingOrder {index:7;} add {offset:0; length:12;place:above;}">
+                <Coords points="208,997 371,982 375,1032 212,1047"/>
+                <Baseline points="212,1042 375,1027"/>
+                <TextEquiv>
+                    <Unicode>Giustificata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715441013663_85" custom="readingOrder {index:8;}">
+                <Coords points="246,1026 446,1023 447,1073 247,1076"/>
+                <Baseline points="247,1071 447,1068"/>
+                <TextEquiv>
+                    <Unicode>del resto da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715441015902_90" custom="readingOrder {index:9;} add {offset:0; length:3;place:above;}">
+                <Coords points="449,980 509,984 506,1034 446,1030"/>
+                <Baseline points="446,1025 506,1029"/>
+                <TextEquiv>
+                    <Unicode>una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715441019116_95" custom="readingOrder {index:10;}">
+                <Coords points="455,1022 820,1022 820,1072 455,1072"/>
+                <Baseline points="455,1067 820,1067"/>
+                <TextEquiv>
+                    <Unicode>umana partecipazione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715441021977_100" custom="readingOrder {index:11;}">
+                <Coords points="237,1104 297,1104 297,1154 237,1154"/>
+                <Baseline points="237,1149 297,1149"/>
+                <TextEquiv>
+                    <Unicode>Dopo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715441024717_105" custom="readingOrder {index:12;}">
+                <Coords points="282,1065 321,1065 321,1115 282,1115"/>
+                <Baseline points="282,1110 321,1110"/>
+                <TextEquiv>
+                    <Unicode>le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715441028471_110" custom="readingOrder {index:13;} del {offset:0; length:4;rend:overstrike;} gap {offset:0; length:0;quantity:4; reason:illegible;}">
+                <Coords points="312,1103 583,1100 583,1150 312,1153"/>
+                <Baseline points="312,1148 583,1145"/>
+                <TextEquiv>
+                    <Unicode>     traduzioni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715441032867_115" custom="readingOrder {index:14;} del {offset:9; length:13;rend:overstrike;} div {offset:9; length:0;}">
+                <Coords points="522,1053 931,1043 932,1093 523,1103"/>
+                <Baseline points="523,1098 932,1088"/>
+                <TextEquiv>
+                    <Unicode>di altri               lavori</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715441046407_120" custom="readingOrder {index:15;}">
+                <Coords points="614,1097 1669,1091 1669,1141 614,1147"/>
+                <Baseline points="614,1142 1669,1136"/>
+                <TextEquiv>
+                    <Unicode>Jahier s'è applicato a ridurre, in figura italiana, gli scritti auto-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:16;} hi {offset:73; length:15; continued:true;rend:underline;}">
+                <Coords points="238,1226 308,1226 378,1228 448,1226 518,1225 589,1224 659,1222 729,1220 799,1218 869,1216 940,1218 1010,1218 1080,1215 1150,1214 1220,1212 1291,1211 1361,1212 1431,1214 1501,1214 1571,1214 1642,1216 1642,1174 1571,1172 1501,1172 1431,1172 1361,1170 1291,1169 1220,1170 1150,1172 1080,1173 1010,1176 940,1176 869,1174 799,1176 729,1178 659,1180 589,1182 518,1183 448,1184 378,1186 308,1184 238,1184"/>
+                <Baseline points="238,1212 308,1212 378,1214 448,1212 518,1211 589,1210 659,1208 729,1206 799,1204 869,1202 940,1204 1010,1204 1080,1201 1150,1200 1220,1198 1291,1197 1361,1198 1431,1200 1501,1200 1571,1200 1642,1202"/>
+                <TextEquiv>
+                    <Unicode>biografici, e i racconti di più diretto sfondo autobiografico di Conrad: Lo specchio del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:17;} hi {offset:0; length:51; continued:true;rend:underline;}">
+                <Coords points="236,1302 305,1304 374,1302 444,1301 513,1296 583,1298 652,1296 721,1294 791,1296 860,1295 930,1294 999,1292 1068,1291 1138,1292 1207,1290 1277,1291 1346,1289 1415,1288 1485,1287 1554,1288 1624,1288 1624,1246 1554,1246 1485,1245 1415,1246 1346,1247 1277,1249 1207,1248 1138,1250 1068,1249 999,1250 930,1252 860,1253 791,1254 721,1252 652,1254 583,1256 513,1254 444,1259 374,1260 305,1262 236,1260"/>
+                <Baseline points="236,1288 305,1290 374,1288 444,1287 513,1282 583,1284 652,1282 721,1280 791,1282 860,1281 930,1280 999,1278 1068,1277 1138,1278 1207,1276 1277,1277 1346,1275 1415,1274 1485,1273 1554,1274 1624,1274"/>
+                <TextEquiv>
+                    <Unicode>mare; Cronaca personale; Racconti tra terra e mare. Intorno a questi ha lavorato di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:18;}">
+                <Coords points="222,1374 292,1372 363,1372 434,1370 505,1368 576,1370 646,1370 717,1370 788,1372 859,1374 930,1370 1000,1369 1071,1366 1142,1367 1213,1366 1284,1366 1354,1365 1425,1362 1496,1363 1567,1364 1638,1366 1638,1336 1567,1334 1496,1333 1425,1332 1354,1335 1284,1336 1213,1336 1142,1337 1071,1336 1000,1339 930,1340 859,1344 788,1342 717,1340 646,1340 576,1340 505,1338 434,1340 363,1342 292,1342 222,1344"/>
+                <Baseline points="222,1364 292,1362 363,1362 434,1360 505,1358 576,1360 646,1360 717,1360 788,1362 859,1364 930,1360 1000,1359 1071,1356 1142,1357 1213,1356 1284,1356 1354,1355 1425,1352 1496,1353 1567,1354 1638,1356"/>
+                <TextEquiv>
+                    <Unicode>note e di interpretazioni, raggiungendo di prexiosione il significato dell'opera attraverso la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715441059922_131" custom="readingOrder {index:19;}">
+                <Coords points="235,1409 1042,1396 1043,1446 236,1459"/>
+                <Baseline points="236,1454 1043,1441"/>
+                <TextEquiv>
+                    <Unicode>conoscenza del cuore dell'uomo Conrad: quasi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715441062572_136" custom="readingOrder {index:20;} add {offset:0; length:12;place:above;}">
+                <Coords points="1010,1358 1182,1356 1183,1406 1011,1408"/>
+                <Baseline points="1011,1403 1183,1401"/>
+                <TextEquiv>
+                    <Unicode>il risultato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715441065795_141" custom="readingOrder {index:21;}">
+                <Coords points="1065,1398 1658,1394 1658,1444 1065,1448"/>
+                <Baseline points="1065,1443 1658,1439"/>
+                <TextEquiv>
+                    <Unicode> sorgesse da una personale frequentazio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:22;} hi {offset:4; length:18;rend:underline;} hi {offset:36; length:44;rend:underline;}">
+                <Coords points="226,1530 296,1529 366,1530 436,1530 506,1528 577,1528 647,1528 717,1526 787,1526 857,1526 928,1521 998,1520 1068,1520 1138,1520 1208,1520 1279,1520 1349,1519 1419,1518 1489,1519 1559,1520 1630,1520 1630,1478 1559,1478 1489,1477 1419,1476 1349,1477 1279,1478 1208,1478 1138,1478 1068,1478 998,1478 928,1479 857,1484 787,1484 717,1484 647,1486 577,1486 506,1486 436,1488 366,1488 296,1487 226,1488"/>
+                <Baseline points="226,1516 296,1515 366,1516 436,1516 506,1514 577,1514 647,1514 717,1512 787,1512 857,1512 928,1507 998,1506 1068,1506 1138,1506 1208,1506 1279,1506 1349,1505 1419,1504 1489,1505 1559,1506 1630,1506"/>
+                <TextEquiv>
+                    <Unicode>ne: nato a comprendere, dice Jahier a guardare nello stesso piano di coscienza i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:23;}">
+                <Coords points="238,1596 307,1606 376,1604 445,1606 514,1602 583,1602 652,1602 721,1600 790,1598 859,1598 928,1598 997,1598 1066,1598 1135,1598 1204,1595 1273,1594 1342,1594 1411,1591 1480,1591 1549,1594 1618,1596 1618,1554 1549,1552 1480,1549 1411,1549 1342,1552 1273,1552 1204,1553 1135,1556 1066,1556 997,1556 928,1556 859,1556 790,1556 721,1558 652,1560 583,1560 514,1560 445,1564 376,1562 307,1564 238,1554"/>
+                <Baseline points="238,1582 307,1592 376,1590 445,1592 514,1588 583,1588 652,1588 721,1586 790,1584 859,1584 928,1584 997,1584 1066,1584 1135,1584 1204,1581 1273,1580 1342,1580 1411,1577 1480,1577 1549,1580 1618,1582"/>
+                <TextEquiv>
+                    <Unicode>“selvaggi” del Congo e i loro stolidi “colonizzatori”. Piaceranno a Jahier le parole</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:24;}">
+                <Coords points="236,1688 307,1685 379,1680 450,1680 522,1680 593,1678 665,1677 736,1676 808,1673 879,1672 951,1672 1022,1672 1094,1676 1165,1672 1237,1670 1308,1670 1380,1671 1451,1670 1523,1672 1594,1670 1666,1672 1666,1630 1594,1628 1523,1630 1451,1628 1380,1629 1308,1628 1237,1628 1165,1630 1094,1634 1022,1630 951,1630 879,1630 808,1631 736,1634 665,1635 593,1636 522,1638 450,1638 379,1638 307,1643 236,1646"/>
+                <Baseline points="236,1674 307,1671 379,1666 450,1666 522,1666 593,1664 665,1663 736,1662 808,1659 879,1658 951,1658 1022,1658 1094,1662 1165,1658 1237,1656 1308,1656 1380,1657 1451,1656 1523,1658 1594,1656 1666,1658"/>
+                <TextEquiv>
+                    <Unicode>con cui lo dipinge uno che lo conobbe da vicino: “ciò che contava, per lui, era il ci-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:25;}">
+                <Coords points="226,1766 297,1762 368,1760 440,1758 511,1756 583,1753 654,1753 725,1754 797,1754 868,1756 940,1754 1011,1750 1082,1750 1154,1750 1225,1751 1297,1752 1368,1749 1439,1750 1511,1750 1582,1751 1654,1750 1654,1708 1582,1709 1511,1708 1439,1708 1368,1707 1297,1710 1225,1709 1154,1708 1082,1708 1011,1708 940,1712 868,1714 797,1712 725,1712 654,1711 583,1711 511,1714 440,1716 368,1718 297,1720 226,1724"/>
+                <Baseline points="226,1752 297,1748 368,1746 440,1744 511,1742 583,1739 654,1739 725,1740 797,1740 868,1742 940,1740 1011,1736 1082,1736 1154,1736 1225,1737 1297,1738 1368,1735 1439,1736 1511,1736 1582,1737 1654,1736"/>
+                <TextEquiv>
+                    <Unicode>mento fra l'Uomo e gli Elementi, con un apparechhio tecnico, che fosse sempre un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715441082641_152" custom="readingOrder {index:26;}">
+                <Coords points="236,1784 1662,1775 1662,1825 236,1834"/>
+                <Baseline points="236,1829 1662,1820"/>
+                <TextEquiv>
+                    <Unicode>poco al di sotto del bisogno." In cui per apparechhio tecnico, traslatamente, sembra di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:27;}">
+                <Coords points="236,1908 307,1908 379,1910 451,1909 523,1908 595,1908 666,1908 738,1908 810,1905 882,1904 954,1904 1025,1906 1097,1904 1169,1904 1241,1900 1313,1900 1384,1898 1456,1896 1528,1896 1600,1898 1672,1900 1672,1858 1600,1856 1528,1854 1456,1854 1384,1856 1313,1858 1241,1858 1169,1862 1097,1862 1025,1864 954,1862 882,1862 810,1863 738,1866 666,1866 595,1866 523,1866 451,1867 379,1868 307,1866 236,1866"/>
+                <Baseline points="236,1894 307,1894 379,1896 451,1895 523,1894 595,1894 666,1894 738,1894 810,1891 882,1890 954,1890 1025,1892 1097,1890 1169,1890 1241,1886 1313,1886 1384,1884 1456,1882 1528,1882 1600,1884 1672,1886"/>
+                <TextEquiv>
+                    <Unicode>identificare i mezzi materiali e morali che ha l'uomo per affrontare la natura e la real-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:28;}">
+                <Coords points="238,1984 309,1986 381,1984 452,1985 524,1986 596,1982 667,1982 739,1982 810,1980 882,1982 954,1978 1025,1977 1097,1976 1168,1978 1240,1977 1312,1976 1383,1975 1455,1974 1526,1976 1598,1976 1670,1980 1670,1938 1598,1934 1526,1934 1455,1932 1383,1933 1312,1934 1240,1935 1168,1936 1097,1934 1025,1935 954,1936 882,1940 810,1938 739,1940 667,1940 596,1940 524,1944 452,1943 381,1942 309,1944 238,1942"/>
+                <Baseline points="238,1970 309,1972 381,1970 452,1971 524,1972 596,1968 667,1968 739,1968 810,1966 882,1968 954,1964 1025,1963 1097,1962 1168,1964 1240,1963 1312,1962 1383,1961 1455,1960 1526,1962 1598,1962 1670,1966"/>
+                <TextEquiv>
+                    <Unicode>tà di ogni momento. E quasi si pensa che solo con gli strumenti del mestiere, della professio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:29;}">
+                <Coords points="248,2064 318,2064 389,2062 460,2060 531,2060 602,2058 673,2060 744,2056 815,2057 886,2058 957,2058 1027,2059 1098,2058 1169,2056 1240,2058 1311,2055 1382,2058 1453,2058 1524,2055 1595,2051 1666,2048 1666,2006 1595,2009 1524,2013 1453,2016 1382,2016 1311,2013 1240,2016 1169,2014 1098,2016 1027,2017 957,2016 886,2016 815,2015 744,2014 673,2018 602,2016 531,2018 460,2018 389,2020 318,2022 248,2022"/>
+                <Baseline points="248,2050 318,2050 389,2048 460,2046 531,2046 602,2044 673,2046 744,2042 815,2043 886,2044 957,2044 1027,2045 1098,2044 1169,2042 1240,2044 1311,2041 1382,2044 1453,2044 1524,2041 1595,2037 1666,2034"/>
+                <TextEquiv>
+                    <Unicode>ne, l'uomo possa offrire al tempo incalzante, una giustificazione, anzi una prova da va-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a ritiro. Navi, o montagna, sono nello sfondo della sua figura. E quando in casa, o nel suo&#13;
+ufficio, corde, ramponi, chiodi testimoniavano del suo passato di montanaro e di&#13;
+alpino, era come mettere l'occhio nell'angolo della cabina di comando del vecchio&#13;
+capitano, con strumenti e attrezzi di navigazione a portata di mano. Ma questi testi-&#13;
+moni della vita, dell'esistenza pratica, sembrano ricavare quel tanto di nostalgico&#13;
+spitiro necessario a tener vivo il motivo di un ideale racconto, continuo e         &#13;
+inesauribile, di cui si fanno i narratori. Mettendosi appena una vena di nobile rettorica,&#13;
+Giustificata&#13;
+del resto da&#13;
+una&#13;
+umana partecipazione&#13;
+Dopo&#13;
+le&#13;
+     traduzioni&#13;
+di altri               lavori&#13;
+Jahier s'è applicato a ridurre, in figura italiana, gli scritti auto-&#13;
+biografici, e i racconti di più diretto sfondo autobiografico di Conrad: Lo specchio del&#13;
+mare; Cronaca personale; Racconti tra terra e mare. Intorno a questi ha lavorato di&#13;
+note e di interpretazioni, raggiungendo di prexiosione il significato dell'opera attraverso la&#13;
+conoscenza del cuore dell'uomo Conrad: quasi&#13;
+il risultato&#13;
+ sorgesse da una personale frequentazio-&#13;
+ne: nato a comprendere, dice Jahier a guardare nello stesso piano di coscienza i&#13;
+“selvaggi” del Congo e i loro stolidi “colonizzatori”. Piaceranno a Jahier le parole&#13;
+con cui lo dipinge uno che lo conobbe da vicino: “ciò che contava, per lui, era il ci-&#13;
+mento fra l'Uomo e gli Elementi, con un apparechhio tecnico, che fosse sempre un&#13;
+poco al di sotto del bisogno." In cui per apparechhio tecnico, traslatamente, sembra di&#13;
+identificare i mezzi materiali e morali che ha l'uomo per affrontare la natura e la real-&#13;
+tà di ogni momento. E quasi si pensa che solo con gli strumenti del mestiere, della professio-&#13;
+ne, l'uomo possa offrire al tempo incalzante, una giustificazione, anzi una prova da va-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=112833:lm=none:date=21_06_2024_19:03</Creator>
+        <Created>2024-03-29T16:59:38.385+01:00</Created>
+        <LastChange>2024-06-22T17:48:02.662+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325447" pageNr="35" tsid="175603514" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=KWPBUZJSDEZNVSQXTDEIRFFE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UVXSERZWOGKVOEPQSOUAJCZS" imageId="53902884"/>
+    </Metadata>
+    <Page imageFilename="Q_1960_16_0012_c5v.jpg" imageWidth="1798" imageHeight="2473" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746063985" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1718646191725_1675"/>
+                <RegionRefIndexed index="2" regionRef="region_1718646209189_1679"/>
+                <RegionRefIndexed index="3" regionRef="region_1718646346302_1733"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="197,276 203,2058 1658,2058 1652,276"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1718646191725_1675" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="1617,346 1536,346 1536,285 1617,285"/>
+            <TextLine id="line_1718646180015_1669" custom="readingOrder {index:0;} hi {offset:0; length:3;rend:right;}">
+                <Coords points="1543,357 1552,357 1565,364 1579,350 1590,351 1590,266 1570,263 1558,268 1552,264 1543,264"/>
+                <Baseline points="1553,323 1595,323"/>
+                <TextEquiv>
+                    <Unicode>10.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718646209189_1679" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1645,991 209,991 209,409 1645,409"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="206,513 1603,511 1570,415 1137,458 206,431"/>
+                <Baseline points="216,496 285,490 355,488 424,487 494,484 564,484 633,484 703,483 772,484 842,482 912,482 981,484 1051,484 1120,484 1190,484 1260,485 1329,487 1399,488 1468,490 1538,490 1608,494"/>
+                <TextEquiv>
+                    <Unicode>qualche pittura degli artisti, coi quali era cresciuto nella sua vita che fu una specie di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719067729682_140" custom="readingOrder {index:1;}">
+                <Coords points="206,536 683,528 683,594 206,603"/>
+                <Baseline points="216,560 287,559 359,560 431,560 502,563 574,560 646,561 683,562"/>
+                <TextEquiv>
+                    <Unicode>eroica lotta per la poesia,  </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="578,531 710,538 828,523 849,540 875,529 942,536 942,505 913,500 761,505 714,500 692,482 657,505 578,504"/>
+                <Baseline points="588,522 613,524 639,524 664,524 690,524 715,524 741,522 767,522 792,522 818,522 843,522 869,522 894,522 920,522 946,522"/>
+                <TextEquiv>
+                    <Unicode>di combattimento generoso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1719067729681_139" custom="readingOrder {index:3;} person {offset:58; length:4; continued:true;occupation:poet; firstname:Marie; dateOfDeath:\u00208\u0020June\u00201956; dateOfBirth:31\u0020October\u00201883; lastname:Laurencin;}">
+                <Coords points="683,528 1645,513 1645,576 683,594"/>
+                <Baseline points="683,562 717,563 789,564 861,561 933,560 1004,561 1076,562 1148,560 1219,561 1291,562 1363,562 1434,560 1506,562 1578,562 1650,562"/>
+                <TextEquiv>
+                    <Unicode>per l'arte nuova degli uomini nuovi: la grande tela della Lau-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;} person {offset:0; length:6; continued:true;occupation:poet; firstname:Marie; dateOfDeath:\u00208\u0020June\u00201956; dateOfBirth:31\u0020October\u00201883; lastname:Laurencin;} foreign {offset:48; length:17;lang:french;} person {offset:70; length:7;occupation:painter; firstname:Pablo; dateOfDeath:8\u0020April\u00201973; dateOfBirth:25\u0020October\u00201881; lastname:Picasso;}">
+                <Coords points="212,679 1616,665 1616,581 1337,619 212,601"/>
+                <Baseline points="222,640 291,640 361,638 431,640 501,638 571,637 641,634 711,635 781,634 851,634 921,637 990,636 1060,638 1130,638 1200,640 1270,636 1340,638 1410,637 1480,636 1550,639 1620,642"/>
+                <TextEquiv>
+                    <Unicode>rencin che raffigura il poeta e i suoi amici; l'Homme à la guitare di Picasso; il ri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;} person {offset:35; length:10;occupation:artist; firstname:Giorgio; dateOfDeath:20\u0020November\u00201978; dateOfBirth:10\u0020July\u00201888; lastname:De\u0020Chirico;} foreign {offset:50; length:16;lang:french;}">
+                <Coords points="206,746 1599,737 1599,672 1549,663 206,679"/>
+                <Baseline points="216,716 285,714 354,714 424,710 493,710 563,709 632,708 701,708 771,708 840,708 910,708 979,708 1048,708 1118,710 1187,710 1257,712 1326,712 1395,714 1465,712 1534,716 1604,720"/>
+                <TextEquiv>
+                    <Unicode>tratto "premonitore" dipintogli da De Chirico: le portrait - cible, col pesce -metafisico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;} person {offset:84; length:5; continued:true;occupation:poet; firstname:Guillaume\u0020; dateOfDeath:9\u0020November\u00201918; dateOfBirth:26\u0020August\u00201880; lastname:Apollinaire;}">
+                <Coords points="199,820 1655,820 1655,757 1578,746 199,750"/>
+                <Baseline points="210,792 282,790 354,792 427,788 499,785 572,786 644,785 716,786 789,785 861,784 934,786 1006,789 1078,790 1151,790 1223,792 1296,789 1368,792 1440,790 1513,792 1585,794 1658,798"/>
+                <TextEquiv>
+                    <Unicode>di latta. I disegni, gli acquerelli di Vlaminck, di Derain, di Dufy. Il ritratto di Apol-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;} person {offset:0; length:7; continued:true;occupation:poet; firstname:Guillaume\u0020; dateOfDeath:9\u0020November\u00201918; dateOfBirth:26\u0020August\u00201880; lastname:Apollinaire;} person {offset:31; length:7;occupation:painter; firstname:Pablo; lastname:Picasso;}">
+                <Coords points="208,900 1639,888 1639,828 1552,820 208,835"/>
+                <Baseline points="218,868 289,866 360,867 431,868 503,866 574,866 645,866 717,864 788,864 859,864 931,864 1002,864 1073,862 1144,866 1216,862 1287,865 1358,864 1430,868 1501,868 1572,870 1644,874"/>
+                <TextEquiv>
+                    <Unicode>linaire in divisa militare, di Picasso, bello come un Ingres. Qualche maschera, qualche sta-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="210,974 1201,974 1201,895 1157,889 210,900"/>
+                <Baseline points="220,940 269,938 318,942 367,944 417,942 466,944 515,942 565,942 614,942 663,940 713,939 762,938 811,940 860,940 910,938 959,938 1008,939 1058,940 1107,940 1156,942 1206,944"/>
+                <TextEquiv>
+                    <Unicode>tuetta negra. E, fra i libri, una testa di pietra, di Brancusi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>qualche pittura degli artisti, coi quali era cresciuto nella sua vita che fu una specie di&#13;
+eroica lotta per la poesia,  &#13;
+di combattimento generoso&#13;
+per l'arte nuova degli uomini nuovi: la grande tela della Lau-&#13;
+rencin che raffigura il poeta e i suoi amici; l'Homme à la guitare di Picasso; il ri-&#13;
+tratto "premonitore" dipintogli da De Chirico: le portrait - cible, col pesce -metafisico&#13;
+di latta. I disegni, gli acquerelli di Vlaminck, di Derain, di Dufy. Il ritratto di Apol-&#13;
+linaire in divisa militare, di Picasso, bello come un Ingres. Qualche maschera, qualche sta-&#13;
+tuetta negra. E, fra i libri, una testa di pietra, di Brancusi.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="footer" id="region_1718646346302_1733" custom="readingOrder {index:3;} structure {type:footer;}">
+            <Coords points="695,2031 426,2031 426,1961 695,1961"/>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:0;} date {offset:0; length:11;year:1960; day:3; month:12;}">
+                <Coords points="444,2061 465,2056 484,2065 523,2045 556,2052 576,2039 592,2045 612,2029 650,2030 652,1958 565,1980 529,1962 511,1971 465,1951 446,1956"/>
+                <Baseline points="456,2008 484,2005 512,2005 540,2004 569,2004 597,2004 625,2002 654,2000"/>
+                <TextEquiv>
+                    <Unicode>3. XII.1960</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

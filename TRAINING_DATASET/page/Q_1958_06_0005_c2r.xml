@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:22:26.828+01:00</Created>
+        <LastChange>2024-06-20T10:58:52.476+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325974" pageNr="12" tsid="175603494" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=WFOOVSRNFFKVPULVWLOONOVT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IWXPEOMQCYTNOHHQWYBLUSWK" imageId="53899338"/>
+    </Metadata>
+    <Page imageFilename="Q_1958_06_0005_c2r.jpg" imageWidth="1798" imageHeight="2539" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746059366" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1715192709481_450"/>
+                <RegionRefIndexed index="1" regionRef="region_1714670392164_151"/>
+                <RegionRefIndexed index="2" regionRef="region_1714670572316_175"/>
+                <RegionRefIndexed index="3" regionRef="region_1714670593020_178"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1715192709481_450" custom="readingOrder {index:0;}">
+            <Coords points="90,264 1566,264 1566,2077 90,2077"/>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1714670392164_151" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="121,302 226,299 231,379 123,378"/>
+            <TextLine id="line_1714670484853_168" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:left;}">
+                <Coords points="130,319 215,319 215,369 130,369"/>
+                <Baseline points="130,364 215,364"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1714670572316_175" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="128,483 1557,481 1557,1605 128,1607"/>
+            <TextLine id="line_1714670622422_181" custom="readingOrder {index:0;}">
+                <Coords points="143,474 325,480 455,480 627,480 804,480 914,480 1087,482 1214,485 1285,484 1408,480 1475,482 1525,482 1525,532 1474,532 1408,530 1286,534 1214,535 1086,532 914,530 804,530 627,530 455,530 324,530 142,524"/>
+                <Baseline points="142,519 324,525 455,525 627,525 804,525 914,525 1086,527 1215,526 1287,525 1408,525 1474,527 1525,527"/>
+                <TextEquiv>
+                    <Unicode>verde bottiglia, amaranto, azzurro, viola, compongono un tessuto di fantasia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714670641750_186" custom="readingOrder {index:1;}">
+                <Coords points="144,554 299,554 421,554 627,551 788,555 850,554 973,554 1179,563 1250,557 1353,559 1456,559 1550,559 1550,609 1456,609 1353,609 1251,607 1180,613 972,604 850,604 788,605 627,601 421,604 299,604 144,604"/>
+                <Baseline points="144,593 299,590 421,596 627,596 788,600 850,599 973,595 1181,604 1251,600 1353,602 1456,604 1550,604"/>
+                <TextEquiv>
+                    <Unicode>di allegra malinconia. "Bisognerà vedere come le sta addosso", osserva con mo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714670658870_191" custom="readingOrder {index:2;}">
+                <Coords points="144,632 217,632 334,632 436,632 549,632 655,633 762,637 848,638 888,630 978,629 1065,629 1228,633 1332,633 1434,641 1522,643 1546,643 1546,693 1522,693 1432,691 1330,683 1227,683 1064,679 978,679 894,680 852,688 761,687 654,683 549,682 436,682 334,682 217,682 144,682"/>
+                <Baseline points="144,677 217,677 331,673 433,672 549,676 655,673 763,671 853,677 893,675 978,674 1064,674 1227,678 1330,678 1434,675 1524,677 1546,688"/>
+                <TextEquiv>
+                    <Unicode>destia la madre. Toccano, sfiorano quei colori di velluto, sogguardando la bambina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714670680598_196" custom="readingOrder {index:3;}">
+                <Coords points="141,708 241,708 311,710 357,705 513,710 597,710 665,710 760,712 833,708 938,710 994,715 1063,716 1122,713 1216,712 1287,710 1393,712 1499,715 1540,720 1533,770 1495,765 1392,762 1287,760 1217,762 1123,763 1064,766 992,765 936,760 834,758 761,762 665,760 597,760 512,760 359,755 313,760 240,758 141,758"/>
+                <Baseline points="141,753 241,748 314,750 358,749 511,748 597,749 668,750 764,752 834,753 933,752 986,752 1061,756 1123,755 1217,754 1288,752 1394,751 1496,757 1534,765"/>
+                <TextEquiv>
+                    <Unicode>che risponde alle occhiate con viso tranquillo. E' bionda, di lisci capelli, sugli occhi ro-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714670701933_201" custom="readingOrder {index:4;}">
+                <Coords points="152,780 212,788 265,788 324,788 442,787 512,787 570,787 661,785 857,782 976,782 1078,783 1161,787 1236,787 1318,787 1388,787 1473,787 1551,790 1549,840 1472,837 1388,837 1318,837 1236,837 1160,837 1077,833 976,832 857,832 662,835 570,837 512,837 442,837 324,838 265,838 209,838 145,830"/>
+                <Baseline points="146,825 209,833 265,828 324,828 442,827 512,827 570,829 662,827 857,827 976,827 1077,825 1160,829 1236,826 1318,822 1388,828 1472,832 1549,835"/>
+                <TextEquiv>
+                    <Unicode>tondi, pungenti. Anch'essa, la piccola, allunga la mano, e, come fanno le donne, si prova</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714670716214_206" custom="readingOrder {index:5;} del {offset:46; length:4;rend:overstrike;}">
+                <Coords points="138,859 224,855 291,858 344,860 441,854 517,858 595,858 709,858 817,865 940,866 940,916 815,915 708,908 595,908 516,908 441,904 345,910 289,908 224,905 140,909"/>
+                <Baseline points="152,903 224,900 289,903 345,905 441,899 516,897 595,897 708,898 815,905 940,911"/>
+                <TextEquiv>
+                    <Unicode>a confermare, con la vocetta agra:" E' un bel tipo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714670747573_216" custom="readingOrder {index:6;} add {offset:0; length:6;place:above;}">
+                <Coords points="870,837 906,837 970,837 968,866 905,866 865,866"/>
+                <Baseline points="865,861 905,861 968,861"/>
+                <TextEquiv>
+                    <Unicode>genere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714670832798_249" custom="readingOrder {index:7;}">
+                <Coords points="945,874 986,872 1035,861 1069,862 1133,863 1176,863 1226,863 1290,863 1356,863 1403,863 1483,863 1521,863 1551,863 1551,913 1521,913 1483,913 1403,913 1356,913 1290,913 1226,913 1176,913 1133,913 1068,912 1034,911 995,911 942,910"/>
+                <Baseline points="945,900 995,906 1034,906 1067,904 1132,905 1176,908 1228,898 1292,898 1356,908 1403,908 1483,908 1521,908 1551,908"/>
+                <TextEquiv>
+                    <Unicode>di velluto." L'abito era imprestato. Per il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714670964957_274" custom="readingOrder {index:8;}">
+                <Coords points="137,936 213,935 271,935 348,932 428,936 461,935 533,931 576,935 604,935 656,935 704,935 737,933 782,932 854,932 879,932 1000,932 1086,936 1169,936 1244,932 1333,939 1394,937 1460,935 1527,933 1553,935 1549,985 1526,983 1461,985 1395,987 1332,989 1243,982 1170,986 1085,986 999,982 879,982 854,982 783,982 739,983 705,985 656,985 604,985 574,985 532,981 463,985 428,986 348,982 272,985 213,985 137,986"/>
+                <Baseline points="144,977 213,976 272,976 348,977 428,979 463,978 532,976 574,980 604,980 656,980 705,980 739,978 783,977 854,977 879,977 999,977 1085,977 1170,977 1245,974 1334,980 1395,981 1461,980 1526,978 1549,980"/>
+                <TextEquiv>
+                    <Unicode>fratellino: una specie di agnellino , dolce, di tre anni, non sono previste mascherature di sorta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714671026173_289" custom="readingOrder {index:9;}">
+                <Coords points="140,1012 241,1013 334,1009 415,1009 500,1009 596,1016 634,1017 648,1012 744,1011 794,1008 854,1008 898,1012 969,1012 1033,1012 1103,1012 1152,1014 1195,1013 1269,1013 1330,1013 1388,1013 1450,1012 1499,1012 1546,1011 1547,1061 1499,1062 1450,1062 1388,1063 1330,1063 1269,1063 1196,1063 1152,1064 1102,1062 1033,1062 969,1062 896,1062 852,1058 795,1058 745,1061 657,1061 643,1066 594,1066 498,1059 415,1059 335,1059 242,1063 140,1062"/>
+                <Baseline points="140,1057 242,1054 335,1050 415,1054 498,1054 594,1055 642,1055 656,1056 745,1051 795,1048 852,1053 896,1057 969,1057 1033,1057 1102,1057 1152,1055 1196,1054 1269,1058 1330,1058 1388,1058 1450,1057 1499,1057 1547,1056"/>
+                <TextEquiv>
+                    <Unicode>La grazia del suo viso, la compostezza del capo, sembrano non adattarsi ad una trasformazio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714671047229_294" custom="readingOrder {index:10;}">
+                <Coords points="134,1089 203,1091 291,1087 381,1087 468,1087 524,1086 600,1086 708,1087 799,1087 913,1090 979,1090 1130,1093 1170,1093 1239,1093 1309,1095 1394,1095 1424,1162 1400,1167 1374,1141 1310,1145 1238,1143 1170,1143 1130,1143 979,1140 912,1140 798,1137 708,1137 600,1136 524,1136 468,1137 381,1137 292,1137 204,1141 135,1138"/>
+                <Baseline points="143,1136 204,1136 292,1132 384,1131 471,1129 524,1129 600,1131 709,1128 799,1128 912,1135 985,1131 1136,1134 1172,1133 1240,1133 1310,1140 1376,1136 1402,1168"/>
+                <TextEquiv>
+                    <Unicode>ne, ad un mutamento recato da abiti, da accenni, da colori imprevisti. A lui bastano </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714671097061_306" custom="readingOrder {index:11;}">
+                <Coords points="1405,1093 1480,1092 1519,1093 1553,1093 1553,1143 1518,1143 1479,1142 1419,1143"/>
+                <Baseline points="1420,1136 1479,1136 1518,1138 1553,1138"/>
+                <TextEquiv>
+                    <Unicode>la sua ma-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714671153763_316" custom="readingOrder {index:12;}">
+                <Coords points="137,1161 235,1168 293,1166 377,1166 436,1166 527,1170 603,1164 639,1159 756,1164 841,1164 893,1171 972,1169 1023,1169 1130,1171 1230,1171 1317,1162 1408,1175 1466,1158 1546,1164 1542,1214 1466,1208 1403,1212 1319,1212 1232,1221 1130,1221 1023,1219 973,1219 891,1221 838,1214 755,1214 641,1209 609,1214 528,1220 435,1216 377,1216 294,1216 234,1218 134,1211"/>
+                <Baseline points="140,1208 234,1213 297,1208 380,1208 437,1208 530,1212 608,1209 641,1204 755,1209 838,1204 896,1206 973,1206 1016,1207 1131,1202 1235,1206 1319,1207 1403,1207 1466,1203 1542,1209"/>
+                <TextEquiv>
+                    <Unicode>glietta, i suoi calzoncini di velluto grigio. Quieto, remissivo vive nell'ombra della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714671275749_324" custom="readingOrder {index:13;}">
+                <Coords points="142,1235 200,1236 303,1236 400,1243 488,1241 550,1239 618,1241 668,1241 733,1241 818,1244 888,1244 955,1244 1032,1244 1129,1244 1186,1244 1261,1244 1327,1244 1342,1241 1410,1241 1482,1241 1550,1244 1548,1294 1481,1291 1410,1291 1346,1291 1331,1294 1261,1294 1186,1294 1129,1294 1032,1294 955,1294 888,1294 817,1294 732,1291 668,1291 617,1291 550,1289 489,1291 399,1293 301,1286 200,1286 141,1285"/>
+                <Baseline points="141,1280 200,1281 301,1281 399,1284 492,1278 553,1280 617,1286 668,1284 739,1280 824,1285 888,1289 955,1284 1032,1281 1129,1286 1183,1282 1258,1282 1331,1289 1346,1286 1410,1286 1481,1286 1548,1289"/>
+                <TextEquiv>
+                    <Unicode>mamma, oppure gode di sentirsi divertito e protetto nei giuochi, nella complessa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714671303325_329" custom="readingOrder {index:14;}">
+                <Coords points="141,1315 208,1315 294,1315 409,1315 445,1312 519,1312 628,1317 700,1318 789,1318 809,1317 926,1307 1017,1313 1103,1313 1167,1315 1259,1320 1315,1313 1417,1313 1503,1320 1544,1320 1544,1370 1501,1370 1415,1363 1318,1363 1261,1370 1165,1365 1102,1363 1015,1363 926,1357 812,1367 790,1368 700,1368 627,1367 518,1362 447,1362 411,1365 294,1365 208,1365 141,1365"/>
+                <Baseline points="141,1360 208,1360 294,1357 411,1357 447,1357 518,1357 627,1362 702,1359 792,1359 812,1362 926,1352 1015,1358 1103,1353 1166,1355 1261,1365 1318,1358 1415,1358 1501,1365 1544,1365"/>
+                <TextEquiv>
+                    <Unicode>rete di giuochi, di traffici, di parole e di meraviglie continue procurati dalla fanta-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714671447221_347" custom="readingOrder {index:15;} del {offset:4; length:8;rend:overstrike;} del {offset:72; length:5;rend:overstrike;}">
+                <Coords points="140,1392 213,1392 302,1392 400,1389 490,1389 572,1389 692,1388 757,1389 883,1396 955,1397 981,1391 1033,1391 1118,1392 1207,1392 1241,1393 1328,1397 1385,1399 1429,1399 1491,1399 1548,1399 1548,1449 1491,1449 1429,1449 1384,1449 1326,1447 1239,1443 1206,1442 1118,1442 1033,1441 987,1441 961,1447 881,1446 755,1439 692,1438 572,1439 490,1439 401,1439 303,1442 213,1442 140,1442"/>
+                <Baseline points="146,1437 213,1437 303,1435 401,1432 490,1434 572,1434 692,1433 755,1434 882,1436 961,1437 989,1431 1036,1438 1119,1437 1207,1430 1239,1438 1326,1437 1384,1439 1430,1438 1492,1438 1548,1444"/>
+                <TextEquiv>
+                    <Unicode>sia paziente della sorella. Nella sorellina, che ha tre anni più di lui,egli vede, ora per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714671501117_359" custom="readingOrder {index:16;} del {offset:5; length:7;rend:overstrike;} gap {offset:5; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="131,1470 405,1479 405,1529 131,1520"/>
+                <Baseline points="132,1510 397,1513"/>
+                <TextEquiv>
+                    <Unicode>ora,        </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714671645772_374" custom="readingOrder {index:17;} add {offset:0; length:8;place:above;}">
+                <Coords points="221,1444 314,1442 399,1450 398,1476 308,1476 223,1472"/>
+                <Baseline points="223,1467 308,1471 398,1471"/>
+                <TextEquiv>
+                    <Unicode>prodursi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714671747580_390" custom="readingOrder {index:18;}">
+                <Coords points="406,1471 513,1465 586,1465 680,1469 765,1468 850,1465 949,1466 1025,1467 1101,1467 1198,1470 1312,1468 1367,1468 1447,1468 1555,1469 1555,1519 1447,1518 1367,1518 1312,1518 1198,1520 1100,1517 1025,1517 948,1516 851,1515 766,1518 679,1519 585,1515 514,1515 407,1521"/>
+                <Baseline points="418,1509 520,1505 591,1505 684,1515 770,1509 855,1506 953,1512 1030,1513 1107,1512 1206,1511 1318,1510 1372,1514 1452,1514 1551,1514"/>
+                <TextEquiv>
+                    <Unicode>uno spettacolo, un miracolo che egli non sa ancora che si chiama la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1714671823085_401" custom="readingOrder {index:19;} hi {offset:55; length:14;rend:underline;}">
+                <Coords points="136,1541 202,1541 301,1540 410,1543 464,1543 606,1543 682,1543 773,1546 849,1538 935,1544 1032,1547 1152,1543 1193,1543 1248,1543 1248,1593 1193,1593 1153,1593 1032,1597 933,1594 850,1588 775,1596 681,1593 606,1593 464,1593 409,1593 301,1590 202,1591 136,1591"/>
+                <Baseline points="136,1586 202,1586 301,1585 409,1588 464,1584 606,1584 681,1588 775,1591 850,1583 933,1589 1032,1592 1153,1588 1193,1588 1248,1588"/>
+                <TextEquiv>
+                    <Unicode>vita. Per ora, la chiama: giuoco, o, come egli ripete: una cosa bella.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>verde bottiglia, amaranto, azzurro, viola, compongono un tessuto di fantasia,&#13;
+di allegra malinconia. "Bisognerà vedere come le sta addosso", osserva con mo-&#13;
+destia la madre. Toccano, sfiorano quei colori di velluto, sogguardando la bambina&#13;
+che risponde alle occhiate con viso tranquillo. E' bionda, di lisci capelli, sugli occhi ro-&#13;
+tondi, pungenti. Anch'essa, la piccola, allunga la mano, e, come fanno le donne, si prova&#13;
+a confermare, con la vocetta agra:" E' un bel tipo&#13;
+genere&#13;
+di velluto." L'abito era imprestato. Per il&#13;
+fratellino: una specie di agnellino , dolce, di tre anni, non sono previste mascherature di sorta.&#13;
+La grazia del suo viso, la compostezza del capo, sembrano non adattarsi ad una trasformazio-&#13;
+ne, ad un mutamento recato da abiti, da accenni, da colori imprevisti. A lui bastano &#13;
+la sua ma-&#13;
+glietta, i suoi calzoncini di velluto grigio. Quieto, remissivo vive nell'ombra della&#13;
+mamma, oppure gode di sentirsi divertito e protetto nei giuochi, nella complessa&#13;
+rete di giuochi, di traffici, di parole e di meraviglie continue procurati dalla fanta-&#13;
+sia paziente della sorella. Nella sorellina, che ha tre anni più di lui,egli vede, ora per&#13;
+ora,        &#13;
+prodursi&#13;
+uno spettacolo, un miracolo che egli non sa ancora che si chiama la&#13;
+vita. Per ora, la chiama: giuoco, o, come egli ripete: una cosa bella.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1714670593020_178" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="119,1611 1558,1617 1558,2065 123,2065"/>
+            <TextLine id="line_1714672814701_421" custom="readingOrder {index:0;}">
+                <Coords points="167,1614 296,1621 366,1619 466,1619 522,1618 585,1618 647,1614 691,1619 772,1619 824,1621 902,1623 935,1623 1033,1619 1161,1626 1240,1621 1328,1621 1426,1621 1487,1621 1535,1621 1535,1671 1487,1671 1426,1671 1328,1671 1241,1671 1161,1676 1033,1669 936,1673 901,1673 823,1671 771,1669 688,1669 646,1664 586,1668 522,1668 466,1669 367,1669 295,1671 165,1664"/>
+                <Baseline points="172,1656 302,1663 369,1659 468,1659 522,1663 586,1663 646,1659 688,1664 771,1664 827,1663 905,1665 936,1668 1033,1664 1161,1671 1241,1666 1328,1666 1426,1666 1487,1666 1535,1666"/>
+                <TextEquiv>
+                    <Unicode>Ma l'altra sorella. l'altra mamma, così esile, fanciulla e ridente nei grossi denti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715188471536_65" custom="readingOrder {index:1;}">
+                <Coords points="129,1692 271,1695 455,1692 508,1692 632,1697 666,1694 816,1692 932,1695 1041,1694 1142,1697 1190,1694 1349,1694 1519,1697 1518,1747 1349,1744 1191,1744 1143,1747 1041,1744 932,1745 816,1742 668,1744 633,1747 507,1742 455,1742 271,1745 128,1742"/>
+                <Baseline points="128,1737 271,1740 455,1737 510,1734 636,1739 667,1736 815,1734 932,1740 1041,1739 1143,1742 1191,1739 1349,1733 1518,1736"/>
+                <TextEquiv>
+                    <Unicode>bianchi, è impegnata a rivestire il suo fantolino nell'abito di carnevale. Pierrot:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715188540519_70" custom="readingOrder {index:2;}">
+                <Coords points="134,1770 297,1770 372,1768 476,1768 626,1768 838,1773 984,1773 1102,1773 1271,1775 1458,1773 1561,1776 1560,1826 1458,1823 1271,1825 1102,1823 984,1823 837,1823 625,1818 476,1818 373,1818 298,1820 134,1820"/>
+                <Baseline points="139,1811 303,1811 370,1809 473,1809 625,1813 837,1818 984,1818 1103,1813 1272,1815 1458,1818 1560,1821"/>
+                <TextEquiv>
+                    <Unicode>consiste in una casacchina, lunga un palmo, e i pantaloni: un altro palmo, divisi, come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715188573945_75" custom="readingOrder {index:3;}">
+                <Coords points="141,1853 295,1850 392,1850 457,1850 568,1850 631,1843 834,1848 965,1852 1121,1850 1181,1845 1332,1852 1447,1850 1549,1848 1550,1898 1448,1900 1331,1902 1182,1895 1123,1900 965,1902 833,1898 633,1893 570,1900 457,1900 392,1900 295,1900 142,1903"/>
+                <Baseline points="142,1898 295,1895 392,1895 457,1889 570,1889 633,1885 833,1890 965,1892 1123,1890 1182,1890 1335,1894 1452,1892 1550,1893"/>
+                <TextEquiv>
+                    <Unicode>in uno stemma, inquartati: nero e bianco. Tozzo, rotondo, morbido: ruzzolante come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715188610384_80" custom="readingOrder {index:4;} del {offset:35; length:5;rend:overstrike;} gap {offset:35; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="135,1920 343,1926 430,1918 545,1920 664,1923 867,1936 870,1977 663,1973 544,1970 432,1968 344,1976 134,1970"/>
+                <Baseline points="134,1963 344,1969 432,1963 544,1965 663,1968 870,1972"/>
+                <TextEquiv>
+                    <Unicode>un cagnolo coperto dal paltoncino.      </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715188639503_89" custom="readingOrder {index:5;} add {offset:0; length:6;place:above;}">
+                <Coords points="775,1900 908,1907 904,1930 776,1933"/>
+                <Baseline points="776,1928 905,1927"/>
+                <TextEquiv>
+                    <Unicode>Avanza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715188733728_122" custom="readingOrder {index:6;}">
+                <Coords points="898,1932 990,1921 1125,1921 1247,1921 1451,1932 1546,1932 1546,1982 1450,1982 1246,1971 1125,1971 991,1971 899,1982"/>
+                <Baseline points="906,1964 992,1962 1125,1966 1246,1966 1450,1977 1546,1977"/>
+                <TextEquiv>
+                    <Unicode>traballando e senza paura. Quello che non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715188812408_133" custom="readingOrder {index:7;}">
+                <Coords points="146,1997 216,2000 272,2000 321,2000 390,2006 477,2001 562,2004 654,2001 703,1997 824,1997 989,1994 1107,1998 1178,1998 1264,2002 1391,1997 1479,2005 1528,2001 1531,2051 1479,2055 1390,2047 1264,2052 1177,2048 1106,2048 989,2044 824,2047 705,2047 657,2051 562,2054 477,2051 389,2056 319,2050 272,2050 215,2050 144,2047"/>
+                <Baseline points="144,2042 215,2045 272,2045 319,2045 389,2051 477,2046 562,2049 657,2046 705,2042 824,2042 989,2039 1106,2043 1177,2043 1264,2047 1390,2042 1479,2050 1531,2046"/>
+                <TextEquiv>
+                    <Unicode>sopporta neppure per un minuto, è il cappelluccio, lo zucchetto, a spicchi bianchi e neri.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ma l'altra sorella. l'altra mamma, così esile, fanciulla e ridente nei grossi denti&#13;
+bianchi, è impegnata a rivestire il suo fantolino nell'abito di carnevale. Pierrot:&#13;
+consiste in una casacchina, lunga un palmo, e i pantaloni: un altro palmo, divisi, come&#13;
+in uno stemma, inquartati: nero e bianco. Tozzo, rotondo, morbido: ruzzolante come&#13;
+un cagnolo coperto dal paltoncino.      &#13;
+Avanza&#13;
+traballando e senza paura. Quello che non&#13;
+sopporta neppure per un minuto, è il cappelluccio, lo zucchetto, a spicchi bianchi e neri.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

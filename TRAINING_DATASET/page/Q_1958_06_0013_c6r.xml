@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:22:28.895+01:00</Created>
+        <LastChange>2024-06-20T10:59:40.715+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325989" pageNr="18" tsid="175603497" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=SSTOZNDHFBXJCAWTABPOPVCW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KHOECIVVFDWLNXNTFFDAYPKI" imageId="53899346"/>
+    </Metadata>
+    <Page imageFilename="Q_1958_06_0013_c6r.jpg" imageWidth="1798" imageHeight="2539">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746060663" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1716913004851_378"/>
+                <RegionRefIndexed index="2" regionRef="region_1716913053883_394"/>
+                <RegionRefIndexed index="3" regionRef="region_1716913100627_401"/>
+                <RegionRefIndexed index="4" regionRef="region_1716913129507_410"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="130,262 119,2286 1581,2288 1592,264"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1716913004851_378" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="221,379 148,379 148,301 221,301"/>
+            <TextLine id="line_1716913368014_509" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:left;}">
+                <Coords points="155,324 218,324 218,374 155,374"/>
+                <Baseline points="155,369 218,369"/>
+                <TextEquiv>
+                    <Unicode>5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1716913053883_394" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1562,1226 131,1222 139,447 1570,451"/>
+            <TextLine id="line_1716914088101_541" custom="readingOrder {index:0;}">
+                <Coords points="141,511 346,511 414,513 483,513 551,511 825,511 893,512 961,510 1030,511 1098,510 1167,509 1235,507 1303,505 1322,505 1322,535 1303,535 1235,537 1167,539 1098,540 1030,541 961,540 893,542 825,541 551,541 483,543 414,543 346,541 141,541"/>
+                <Baseline points="141,531 209,531 277,531 346,531 414,533 483,533 551,531 619,531 688,531 756,531 825,531 893,532 961,530 1030,531 1098,530 1167,529 1235,527 1303,525 1322,525"/>
+                <TextEquiv>
+                    <Unicode>secolo scorso, quasi sempre mostrano di essere malattie e smarrimenti (dai </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="1291,495 1320,491 1349,493 1379,493 1379,463 1349,463 1320,461 1291,465"/>
+                <Baseline points="1291,485 1320,481 1349,483 1379,483"/>
+                <TextEquiv>
+                    <Unicode>primi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716914088100_540" custom="readingOrder {index:2;}">
+                <Coords points="1322,505 1372,505 1440,504 1509,509 1509,539 1440,534 1372,535 1322,535"/>
+                <Baseline points="1322,525 1372,525 1440,524 1509,529"/>
+                <TextEquiv>
+                    <Unicode>romantici ai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="137,630 207,626 278,626 349,626 419,622 490,622 561,622 631,620 702,620 773,622 844,620 914,618 985,618 1056,619 1126,616 1197,618 1268,618 1338,618 1409,620 1480,621 1551,624 1551,573 1480,570 1409,569 1338,567 1268,567 1197,567 1126,565 1056,568 985,567 914,567 844,569 773,571 702,569 631,569 561,571 490,571 419,571 349,575 278,575 207,575 137,579"/>
+                <Baseline points="137,613 207,609 278,609 349,609 419,605 490,605 561,605 631,603 702,603 773,605 844,603 914,601 985,601 1056,602 1126,599 1197,601 1268,601 1338,601 1409,603 1480,604 1551,607"/>
+                <TextEquiv>
+                    <Unicode>simbolisti) assai invidiabili. Beati loro. Quando gli chiederanno dei suoi coetanei gli impres-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;} person {offset:10; length:5;occupation:symbolist\u0020artist; firstname:Bertrand; dateOfDeath:6\u0020July\u00201916; dateOfBirth:20\u0020April\u00201840; lastname:Redon;}">
+                <Coords points="147,705 216,703 286,701 356,698 426,697 496,697 566,696 636,693 706,695 776,696 846,695 915,693 985,693 1055,692 1125,691 1195,691 1265,689 1335,689 1405,689 1475,689 1545,691 1545,642 1475,640 1405,640 1335,640 1265,640 1195,642 1125,642 1055,643 985,644 915,644 846,646 776,647 706,646 636,644 566,647 496,648 426,648 356,649 286,652 216,654 147,656"/>
+                <Baseline points="147,689 216,687 286,685 356,682 426,681 496,681 566,680 636,677 706,679 776,680 846,679 915,677 985,677 1055,676 1125,675 1195,675 1265,673 1335,673 1405,673 1475,673 1545,675"/>
+                <TextEquiv>
+                    <Unicode>sionisti, Redon sapeva osservare:" Ils sont un peu bas de plafond pour moi". Non è che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="131,784 201,781 272,780 342,778 413,777 483,778 554,776 624,776 695,774 765,776 836,772 906,772 977,770 1047,771 1118,772 1188,772 1259,772 1329,772 1400,770 1470,770 1541,770 1541,719 1470,719 1400,719 1329,721 1259,721 1188,721 1118,721 1047,720 977,719 906,721 836,721 765,725 695,723 624,725 554,725 483,727 413,726 342,727 272,729 201,730 131,733"/>
+                <Baseline points="131,767 201,764 272,763 342,761 413,760 483,761 554,759 624,759 695,757 765,759 836,755 906,755 977,753 1047,754 1118,755 1188,755 1259,755 1329,755 1400,753 1470,753 1541,753"/>
+                <TextEquiv>
+                    <Unicode>egli non avesse i piedi per terra: era un forte sentimento intellettuale, quasi il ricordo e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="133,856 203,853 274,852 344,852 415,852 485,851 556,850 626,848 697,848 767,848 838,846 908,846 979,846 1049,845 1120,844 1190,846 1261,845 1331,844 1402,845 1472,845 1543,848 1543,797 1472,794 1402,794 1331,793 1261,794 1190,795 1120,793 1049,794 979,795 908,795 838,795 767,797 697,797 626,797 556,799 485,800 415,801 344,801 274,801 203,802 133,805"/>
+                <Baseline points="133,839 203,836 274,835 344,835 415,835 485,834 556,833 626,831 697,831 767,831 838,829 908,829 979,829 1049,828 1120,827 1190,829 1261,828 1331,827 1402,828 1472,828 1543,831"/>
+                <TextEquiv>
+                    <Unicode>la nostalgia di un tempo perduto, che guidava le sue immaginazioni. Così i suoi fiori notturni,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716911507850_331" custom="readingOrder {index:7;}">
+                <Coords points="132,876 155,877 233,876 310,875 388,873 542,873 620,871 697,869 775,871 852,872 929,871 1007,871 1084,869 1162,870 1239,868 1316,867 1394,869 1471,869 1549,875 1549,926 1471,920 1394,920 1316,918 1239,919 1162,921 1084,920 1007,922 929,922 852,923 775,922 697,920 620,922 542,924 388,924 310,926 233,927 155,928 132,927"/>
+                <Baseline points="132,910 155,911 233,910 310,909 388,907 465,907 542,907 620,905 697,903 775,905 852,906 929,905 1007,905 1084,903 1162,904 1239,902 1316,901 1394,903 1471,903 1549,909"/>
+                <TextEquiv>
+                    <Unicode>i suoi centauri, i suoi soli, i suoi ragni, le sue meduse, i suoi motivi alluderanno potentemen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:8;} person {offset:42; length:5;occupation:symbolist\u0020artist; firstname:Bertrand; dateOfDeath:\u00206\u0020July\u00201916; dateOfBirth:20\u0020April\u00201840; lastname:Redon;}">
+                <Coords points="129,1008 200,1002 272,1000 344,1000 416,998 488,996 560,995 632,996 704,996 776,996 848,996 919,996 991,998 1063,998 1135,998 1207,998 1279,999 1351,1000 1423,1000 1495,999 1567,1000 1567,949 1495,948 1423,949 1351,949 1279,948 1207,947 1135,947 1063,947 991,947 919,945 848,945 776,945 704,945 632,945 560,944 488,945 416,947 344,949 272,949 200,951 129,957"/>
+                <Baseline points="129,991 200,985 272,983 344,983 416,981 488,979 560,978 632,979 704,979 776,979 848,979 919,979 991,981 1063,981 1135,981 1207,981 1279,982 1351,983 1423,983 1495,982 1567,983"/>
+                <TextEquiv>
+                    <Unicode>te al senso di una realtà più vera. Certo Redon, negli anni di sciagura francese: 1870-1871, lesse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:9;} person {offset:11; length:11;occupation:poet; firstname:Isidore\u0020Lucien; dateOfDeath:24\u0020November\u00201870; dateOfBirth:4\u0020April\u00201846; lastname:Ducasse;}">
+                <Coords points="125,1082 195,1080 265,1078 335,1078 406,1076 476,1074 546,1074 617,1073 687,1074 757,1074 828,1074 898,1072 968,1072 1038,1072 1109,1072 1179,1072 1249,1074 1320,1072 1390,1073 1460,1074 1531,1074 1531,1023 1460,1023 1390,1022 1320,1021 1249,1023 1179,1021 1109,1021 1038,1021 968,1021 898,1021 828,1023 757,1023 687,1023 617,1022 546,1023 476,1023 406,1025 335,1027 265,1027 195,1029 125,1031"/>
+                <Baseline points="125,1065 195,1063 265,1061 335,1061 406,1059 476,1057 546,1057 617,1056 687,1057 757,1057 828,1057 898,1055 968,1055 1038,1055 1109,1055 1179,1055 1249,1057 1320,1055 1390,1056 1460,1057 1531,1057"/>
+                <TextEquiv>
+                    <Unicode>i Canti di Lautréamont. Del resto facevano parte di un mondo, di una corrente di vita che dopo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:10;} person {offset:29; length:9;occupation:poet; firstname:Samuel\u0020Taylor; dateOfDeath:25\u0020July\u00201834; dateOfBirth:\u002021\u0020October\u00201772; lastname:Coleridge;} person {offset:43; length:10;occupation:writer; firstname:Thomas\u0020Penson; dateOfDeath:8\u0020December\u00201859; dateOfBirth:\u002015\u0020August\u00201785; lastname:De\u0020Quincey;} person {offset:58; length:5;occupation:poet; firstname:William; dateOfDeath:12\u0020August\u00201827; dateOfBirth:28\u0020November\u00201757; lastname:Blake;}">
+                <Coords points="135,1147 205,1147 276,1144 347,1145 418,1143 489,1142 559,1140 630,1143 701,1142 772,1143 843,1145 913,1144 984,1143 1055,1143 1126,1143 1197,1141 1267,1142 1338,1143 1409,1143 1480,1142 1551,1145 1551,1115 1480,1112 1409,1113 1338,1113 1267,1112 1197,1111 1126,1113 1055,1113 984,1113 913,1114 843,1115 772,1113 701,1112 630,1113 559,1110 489,1112 418,1113 347,1115 276,1114 205,1117 135,1117"/>
+                <Baseline points="135,1137 205,1137 276,1134 347,1135 418,1133 489,1132 559,1130 630,1133 701,1132 772,1133 843,1135 913,1134 984,1133 1055,1133 1126,1133 1197,1131 1267,1132 1338,1133 1409,1133 1480,1132 1551,1135"/>
+                <TextEquiv>
+                    <Unicode>gli esempi ormai classici di Coleridge, di De Quincey, di Blake, oltremanica, s'era trapiantati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716920280985_735" custom="readingOrder {index:11;} del {offset:21; length:9;rend:overstrike;} gap {offset:21; length:0;quantity:9; unit:character; reason:illegible;}">
+                <Coords points="134,1197 181,1197 241,1195 301,1193 542,1193 598,1191 598,1221 542,1223 301,1223 241,1225 181,1227 134,1227"/>
+                <Baseline points="134,1217 181,1217 241,1215 301,1213 362,1213 422,1213 482,1213 542,1213 598,1211"/>
+                <TextEquiv>
+                    <Unicode>in terra di Francia.          </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;} add {offset:0; length:13;place:above;}">
+                <Coords points="489,1165 516,1167 544,1169 572,1169 599,1170 627,1172 655,1173 655,1143 627,1142 599,1140 572,1139 544,1139 516,1137 489,1135"/>
+                <Baseline points="489,1155 516,1157 544,1159 572,1159 599,1160 627,1162 655,1163"/>
+                <TextEquiv>
+                    <Unicode>Prolificarono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;} del {offset:13; length:5;rend:overstrike;} gap {offset:13; length:0;}">
+                <Coords points="763,1181 792,1179 822,1181 851,1181 881,1177 881,1147 851,1151 822,1151 792,1149 763,1151"/>
+                <Baseline points="763,1171 792,1169 822,1171 851,1171 881,1167"/>
+                <TextEquiv>
+                    <Unicode>la poesia di      </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716920304953_744" custom="readingOrder {index:14;} add {offset:0; length:6;place:above;} person {offset:0; length:6;occupation:poet; firstname:Gérard; dateOfDeath:26\u0020January\u00201855; dateOfBirth:22\u0020May\u00201808; lastname:Labrunie;}">
+                <Coords points="598,1191 602,1191 663,1189 723,1191 783,1191 843,1189 895,1187 895,1217 843,1219 783,1221 723,1221 663,1219 602,1221 598,1221"/>
+                <Baseline points="598,1211 602,1211 663,1209 723,1211 783,1211 843,1209 895,1207"/>
+                <TextEquiv>
+                    <Unicode>Nerval</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716920304953_743" custom="readingOrder {index:15;} person {offset:12; length:10;occupation:poet; firstname:Charles\u0020Pierre\u0020; dateOfDeath:31\u0020August\u00201867; dateOfBirth:\u00209\u0020April\u00201821; lastname:Baudelaire\u0020;}">
+                <Coords points="895,1187 903,1187 964,1187 1024,1185 1144,1185 1204,1187 1265,1185 1265,1215 1204,1217 1144,1215 1024,1215 964,1217 903,1217 895,1217"/>
+                <Baseline points="895,1207 903,1207 964,1207 1024,1205 1084,1205 1144,1205 1204,1207 1265,1205"/>
+                <TextEquiv>
+                    <Unicode>e quella di Baudelaire.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>secolo scorso, quasi sempre mostrano di essere malattie e smarrimenti (dai &#13;
+primi&#13;
+romantici ai&#13;
+simbolisti) assai invidiabili. Beati loro. Quando gli chiederanno dei suoi coetanei gli impres-&#13;
+sionisti, Redon sapeva osservare:" Ils sont un peu bas de plafond pour moi". Non è che&#13;
+egli non avesse i piedi per terra: era un forte sentimento intellettuale, quasi il ricordo e&#13;
+la nostalgia di un tempo perduto, che guidava le sue immaginazioni. Così i suoi fiori notturni,&#13;
+i suoi centauri, i suoi soli, i suoi ragni, le sue meduse, i suoi motivi alluderanno potentemen-&#13;
+te al senso di una realtà più vera. Certo Redon, negli anni di sciagura francese: 1870-1871, lesse&#13;
+i Canti di Lautréamont. Del resto facevano parte di un mondo, di una corrente di vita che dopo&#13;
+gli esempi ormai classici di Coleridge, di De Quincey, di Blake, oltremanica, s'era trapiantati&#13;
+in terra di Francia.          &#13;
+Prolificarono&#13;
+la poesia di      &#13;
+Nerval&#13;
+e quella di Baudelaire.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1716913100627_401" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1571,2135 130,2138 130,1244 1571,1241"/>
+            <TextLine id="line_1716911531889_346" custom="readingOrder {index:0;} person {offset:0; length:14;firstname:Isidore\u0020Lucien\u0020; dateOfDeath:24\u0020November\u00201870; dateOfBirth:4\u0020April\u00201846; lastname:Ducasse;} person {offset:14; length:22;occupation:poet; firstname:Isidore\u0020Lucien; dateOfDeath:24\u0020November\u00201870; dateOfBirth:4\u0020April\u00201846; lastname:Ducasse;}">
+                <Coords points="141,1261 154,1261 231,1257 309,1255 386,1255 463,1251 540,1251 618,1252 695,1252 772,1251 849,1249 927,1249 1004,1250 1081,1247 1158,1249 1236,1248 1313,1249 1390,1250 1467,1251 1545,1253 1545,1304 1467,1302 1390,1301 1313,1300 1236,1299 1158,1300 1081,1298 1004,1301 927,1300 849,1300 772,1302 695,1303 618,1303 540,1302 463,1302 386,1306 309,1306 231,1308 154,1312 141,1312"/>
+                <Baseline points="141,1295 154,1295 231,1291 309,1289 386,1289 463,1285 540,1285 618,1286 695,1286 772,1285 849,1283 927,1283 1004,1284 1081,1281 1158,1283 1236,1282 1313,1283 1390,1284 1467,1285 1545,1287"/>
+                <TextEquiv>
+                    <Unicode>Isidor Ducasse, Conte de Lautréamont difendeva da quell'albero di sangue; oppure, di-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:1;}">
+                <Coords points="133,1377 203,1379 273,1379 344,1377 414,1377 485,1377 555,1375 625,1376 696,1377 766,1377 837,1375 907,1375 977,1375 1048,1375 1118,1373 1189,1373 1259,1374 1329,1373 1400,1374 1470,1374 1541,1371 1541,1322 1470,1325 1400,1325 1329,1324 1259,1325 1189,1324 1118,1324 1048,1326 977,1326 907,1326 837,1326 766,1328 696,1328 625,1327 555,1326 485,1328 414,1328 344,1328 273,1330 203,1330 133,1328"/>
+                <Baseline points="133,1361 203,1363 273,1363 344,1361 414,1361 485,1361 555,1359 625,1360 696,1361 766,1361 837,1359 907,1359 977,1359 1048,1359 1118,1357 1189,1357 1259,1358 1329,1357 1400,1358 1470,1358 1541,1355"/>
+                <TextEquiv>
+                    <Unicode>remo di inchiostro. Inchiostro poetico. Morì a 25 anni, avendo scritto i Canti, e un breve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:2;} foreign {offset:31; length:25;lang:french;} hi {offset:31; length:25;rend:underline;}">
+                <Coords points="135,1458 206,1457 278,1456 349,1456 421,1456 492,1454 564,1453 635,1452 707,1452 778,1452 850,1450 921,1450 993,1454 1064,1454 1136,1452 1207,1452 1279,1452 1350,1450 1422,1454 1493,1456 1565,1456 1565,1405 1493,1405 1422,1403 1350,1399 1279,1401 1207,1401 1136,1401 1064,1403 993,1403 921,1399 850,1399 778,1401 707,1401 635,1401 564,1402 492,1403 421,1405 349,1405 278,1405 206,1406 135,1407"/>
+                <Baseline points="135,1441 206,1440 278,1439 349,1439 421,1439 492,1437 564,1436 635,1435 707,1435 778,1435 850,1433 921,1433 993,1437 1064,1437 1136,1435 1207,1435 1279,1435 1350,1433 1422,1437 1493,1439 1565,1439"/>
+                <TextEquiv>
+                    <Unicode>libro di Poesie, che intitolò: Préface à un livre future. Un piccolo, strano libro, in cui, all'orgas-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:3;}">
+                <Coords points="143,1534 214,1532 285,1532 356,1530 428,1530 499,1528 570,1528 642,1526 713,1526 784,1526 856,1528 927,1528 998,1528 1069,1528 1141,1528 1212,1528 1283,1528 1355,1528 1426,1528 1497,1525 1569,1526 1569,1475 1497,1474 1426,1477 1355,1477 1283,1477 1212,1477 1141,1477 1069,1477 998,1477 927,1477 856,1477 784,1475 713,1475 642,1475 570,1477 499,1477 428,1479 356,1479 285,1481 214,1481 143,1483"/>
+                <Baseline points="143,1517 214,1515 285,1515 356,1513 428,1513 499,1511 570,1511 642,1509 713,1509 784,1509 856,1511 927,1511 998,1511 1069,1511 1141,1511 1212,1511 1283,1511 1355,1511 1426,1511 1497,1508 1569,1509"/>
+                <TextEquiv>
+                    <Unicode>mo dell'immagine lirica, è subentrato lo scatto di una meditazione di "superiore ironia" (Gor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:4;}">
+                <Coords points="139,1610 210,1608 282,1608 353,1606 425,1604 496,1604 568,1602 639,1602 711,1604 782,1604 854,1606 925,1604 997,1604 1068,1602 1140,1602 1211,1602 1283,1601 1354,1602 1426,1602 1497,1603 1569,1604 1569,1553 1497,1552 1426,1551 1354,1551 1283,1550 1211,1551 1140,1551 1068,1551 997,1553 925,1553 854,1555 782,1553 711,1553 639,1551 568,1551 496,1553 425,1553 353,1555 282,1557 210,1557 139,1559"/>
+                <Baseline points="139,1593 210,1591 282,1591 353,1589 425,1587 496,1587 568,1585 639,1585 711,1587 782,1587 854,1589 925,1587 997,1587 1068,1585 1140,1585 1211,1585 1283,1584 1354,1585 1426,1585 1497,1586 1569,1587"/>
+                <TextEquiv>
+                    <Unicode>mont) testimoniando della tristezza opprimente dei suoi semidei, dei suoi angeli decaduti, dei suoi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1717087840901_102" custom="readingOrder {index:5;}">
+                <Coords points="159,1647 227,1645 365,1645 400,1643 400,1673 365,1675 227,1675 159,1677"/>
+                <Baseline points="159,1667 227,1665 296,1665 365,1665 400,1663"/>
+                <TextEquiv>
+                    <Unicode>ermafroditi. A </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:6;} add {offset:0; length:4;place:above;}">
+                <Coords points="385,1633 414,1633 443,1633 443,1603 414,1603 385,1603"/>
+                <Baseline points="385,1623 414,1623 443,1623"/>
+                <TextEquiv>
+                    <Unicode>tale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1717087840901_101" custom="readingOrder {index:7;} del {offset:10; length:10;rend:overstrike;} gap {offset:10; length:0;quantity:10; unit:character; reason:illegible;}">
+                <Coords points="400,1643 434,1643 503,1641 571,1640 640,1641 709,1640 778,1639 847,1639 915,1641 984,1640 1053,1641 1122,1641 1191,1639 1328,1639 1397,1640 1466,1642 1535,1645 1535,1675 1466,1672 1397,1670 1328,1669 1191,1669 1122,1671 1053,1671 984,1670 915,1671 847,1669 778,1669 709,1670 640,1671 571,1670 503,1671 434,1673 400,1673"/>
+                <Baseline points="400,1663 434,1663 503,1661 571,1660 640,1661 709,1660 778,1659 847,1659 915,1661 984,1660 1053,1661 1122,1661 1191,1659 1259,1659 1328,1659 1397,1660 1466,1662 1535,1665"/>
+                <TextEquiv>
+                    <Unicode>proposito            : ho rivisto il disegno dell'amico pittore ferrarese,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1717088434859_129" custom="readingOrder {index:8;}">
+                <Coords points="139,1729 170,1729 247,1723 323,1717 400,1719 484,1719 484,1749 400,1749 323,1747 247,1753 170,1759 139,1759"/>
+                <Baseline points="139,1749 170,1749 247,1743 323,1737 400,1739 477,1739 484,1739"/>
+                <TextEquiv>
+                    <Unicode>di cui ho fatto cenno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:9;} add {offset:0; length:12;place:above;}">
+                <Coords points="377,1715 404,1714 431,1711 458,1708 485,1707 512,1707 539,1707 566,1705 593,1703 593,1673 566,1675 539,1677 512,1677 485,1677 458,1678 431,1681 404,1684 377,1685"/>
+                <Baseline points="377,1705 404,1704 431,1701 458,1698 485,1697 512,1697 539,1697 566,1695 593,1693"/>
+                <TextEquiv>
+                    <Unicode>in principio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1717088434859_128" custom="readingOrder {index:10;}">
+                <Coords points="484,1719 553,1719 630,1717 860,1717 937,1718 1014,1717 1090,1718 1167,1717 1244,1717 1320,1718 1397,1719 1474,1718 1551,1721 1551,1751 1474,1748 1397,1749 1320,1748 1244,1747 1167,1747 1090,1748 1014,1747 937,1748 860,1747 630,1747 553,1749 484,1749"/>
+                <Baseline points="484,1739 553,1739 630,1737 707,1737 784,1737 860,1737 937,1738 1014,1737 1090,1738 1167,1737 1244,1737 1320,1738 1397,1739 1474,1738 1551,1741"/>
+                <TextEquiv>
+                    <Unicode>Mi ha colpito, nei tratti di penna nera, simili a graffiature, e il filo intessu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1717088776988_146" custom="readingOrder {index:11;}">
+                <Coords points="136,1802 163,1801 241,1796 319,1797 397,1795 475,1795 553,1793 631,1795 720,1795 720,1825 631,1825 553,1823 475,1825 397,1825 319,1827 241,1826 163,1831 136,1832"/>
+                <Baseline points="136,1822 163,1821 241,1816 319,1817 397,1815 475,1815 553,1813 631,1815 709,1815 723,1815"/>
+                <TextEquiv>
+                    <Unicode>to di pastello rosso, che finge le righe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:12;} add {offset:0; length:5;place:above;}">
+                <Coords points="675,1787 707,1785 739,1789 739,1759 707,1755 675,1757"/>
+                <Baseline points="675,1777 707,1775 739,1779"/>
+                <TextEquiv>
+                    <Unicode>rosse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1717088776987_145" custom="readingOrder {index:13;}">
+                <Coords points="723,1795 787,1795 865,1794 943,1793 1021,1792 1099,1791 1177,1793 1255,1793 1333,1795 1411,1796 1489,1797 1567,1803 1567,1833 1489,1827 1411,1826 1333,1825 1255,1823 1177,1823 1099,1821 1021,1822 943,1823 865,1824 787,1825 723,1825"/>
+                <Baseline points="723,1815 787,1815 865,1814 943,1813 1021,1812 1099,1811 1177,1813 1255,1813 1333,1815 1411,1816 1489,1817 1567,1823"/>
+                <TextEquiv>
+                    <Unicode>di una povera maglia di ragazzo. Allucinazione, e malinco-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:14;} hi {offset:73; length:25; continued:true;rend:underline;}">
+                <Coords points="137,1916 208,1912 279,1910 350,1910 421,1910 492,1908 563,1908 634,1906 705,1906 776,1908 847,1906 918,1906 989,1906 1060,1906 1131,1906 1202,1906 1273,1906 1344,1906 1415,1907 1486,1906 1557,1904 1557,1853 1486,1855 1415,1856 1344,1855 1273,1855 1202,1855 1131,1855 1060,1855 989,1855 918,1855 847,1855 776,1857 705,1855 634,1855 563,1857 492,1857 421,1859 350,1859 279,1859 208,1861 137,1865"/>
+                <Baseline points="137,1899 208,1895 279,1893 350,1893 421,1893 492,1891 563,1891 634,1889 705,1889 776,1891 847,1889 918,1889 989,1889 1060,1889 1131,1889 1202,1889 1273,1889 1344,1889 1415,1890 1486,1889 1557,1887"/>
+                <TextEquiv>
+                    <Unicode>nia di adolescenza. Ho potuto trascrivere due righe di scrittura. Dice: "Gli uomini oggi gli uomi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:15;} hi {offset:0; length:77; continued:true;rend:underline;}">
+                <Coords points="143,1992 213,1988 284,1988 354,1988 425,1986 496,1984 566,1982 637,1982 707,1981 778,1982 849,1980 919,1982 990,1980 1060,1981 1131,1982 1202,1982 1272,1979 1343,1980 1413,1979 1484,1981 1555,1982 1555,1931 1484,1930 1413,1928 1343,1929 1272,1928 1202,1931 1131,1931 1060,1930 990,1929 919,1931 849,1929 778,1931 707,1930 637,1931 566,1931 496,1933 425,1935 354,1937 284,1937 213,1937 143,1941"/>
+                <Baseline points="143,1975 213,1971 284,1971 354,1971 425,1969 496,1967 566,1965 637,1965 707,1964 778,1965 849,1963 919,1965 990,1963 1060,1964 1131,1965 1202,1965 1272,1962 1343,1963 1413,1962 1484,1964 1555,1965"/>
+                <TextEquiv>
+                    <Unicode>ni di ieri gli uomini di un secolo di due di tre ecc. secoli fa - L'ho veduto!" Omaggio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1717089292851_166" custom="readingOrder {index:16;}">
+                <Coords points="134,2022 158,2023 236,2018 314,2017 549,2017 627,2015 705,2016 783,2013 861,2014 922,2014 922,2056 861,2056 783,2055 705,2058 627,2057 549,2059 314,2059 236,2060 158,2065 134,2064"/>
+                <Baseline points="134,2050 158,2051 236,2046 314,2045 392,2045 470,2045 549,2045 627,2043 705,2044 783,2041 861,2042 922,2042"/>
+                <TextEquiv>
+                    <Unicode>timoroso di un giovane poeta-pittore, quaranta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1717089336406_171" custom="readingOrder {index:17;} add {offset:0; length:6;place:above;}">
+                <Coords points="928,1993 966,1992 1035,1986 1031,2020 964,2025 930,2026"/>
+                <Baseline points="930,2021 964,2020 1031,2015"/>
+                <TextEquiv>
+                    <Unicode>cinque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1717089292851_165" custom="readingOrder {index:18;} del {offset:0; length:6;rend:overstrike;} person {offset:29; length:13; continued:true;occupation:poet; firstname:Isidore\u0020Lucien; dateOfDeath:24\u0020November\u00201870; dateOfBirth:4\u0020April\u00201846; lastname:Ducasse;}">
+                <Coords points="925,2025 948,2026 1026,2023 1096,2017 1174,2015 1252,2015 1330,2013 1408,2013 1486,2016 1565,2019 1565,2061 1486,2058 1408,2055 1330,2055 1252,2057 1174,2057 1096,2059 1017,2058 939,2057 922,2056"/>
+                <Baseline points="922,2042 939,2043 1017,2044 1096,2045 1174,2043 1252,2043 1330,2041 1408,2041 1486,2044 1565,2047"/>
+                <TextEquiv>
+                    <Unicode>e più anni fa, al misterioso Conte di Lau-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:19;} person {offset:0; length:8; continued:true;occupation:poet; firstname:Isidore\u0020Lucien; dateOfDeath:24\u0020November\u00201870; dateOfBirth:4\u0020April\u00201846; lastname:Ducasse;}">
+                <Coords points="153,2135 197,2133 242,2131 286,2131 331,2129 375,2124 420,2121 464,2121 509,2118 553,2116 598,2117 642,2117 687,2114 731,2115 776,2116 820,2117 865,2117 909,2117 954,2118 998,2123 1043,2121 1043,2079 998,2081 954,2076 909,2075 865,2075 820,2075 776,2074 731,2073 687,2072 642,2075 598,2075 553,2074 509,2076 464,2079 420,2079 375,2082 331,2087 286,2089 242,2089 197,2091 153,2093"/>
+                <Baseline points="153,2121 197,2119 242,2117 286,2117 331,2115 375,2110 420,2107 464,2107 509,2104 553,2102 598,2103 642,2103 687,2100 731,2101 776,2102 820,2103 865,2103 909,2103 954,2104 998,2109 1043,2107"/>
+                <TextEquiv>
+                    <Unicode>tréamont: l' "ermafrodito" delle "ore 24 1/2."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Isidor Ducasse, Conte de Lautréamont difendeva da quell'albero di sangue; oppure, di-&#13;
+remo di inchiostro. Inchiostro poetico. Morì a 25 anni, avendo scritto i Canti, e un breve&#13;
+libro di Poesie, che intitolò: Préface à un livre future. Un piccolo, strano libro, in cui, all'orgas-&#13;
+mo dell'immagine lirica, è subentrato lo scatto di una meditazione di "superiore ironia" (Gor-&#13;
+mont) testimoniando della tristezza opprimente dei suoi semidei, dei suoi angeli decaduti, dei suoi&#13;
+ermafroditi. A &#13;
+tale&#13;
+proposito            : ho rivisto il disegno dell'amico pittore ferrarese,&#13;
+di cui ho fatto cenno&#13;
+in principio.&#13;
+Mi ha colpito, nei tratti di penna nera, simili a graffiature, e il filo intessu-&#13;
+to di pastello rosso, che finge le righe&#13;
+rosse&#13;
+di una povera maglia di ragazzo. Allucinazione, e malinco-&#13;
+nia di adolescenza. Ho potuto trascrivere due righe di scrittura. Dice: "Gli uomini oggi gli uomi-&#13;
+ni di ieri gli uomini di un secolo di due di tre ecc. secoli fa - L'ho veduto!" Omaggio&#13;
+timoroso di un giovane poeta-pittore, quaranta&#13;
+cinque&#13;
+e più anni fa, al misterioso Conte di Lau-&#13;
+tréamont: l' "ermafrodito" delle "ore 24 1/2."</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="footer" id="region_1716913129507_410" custom="readingOrder {index:4;} structure {type:footer;}">
+            <Coords points="247,2206 501,2206 501,2280 247,2280"/>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:0;} date {offset:0; length:8;year:1958; day:25; month:2;}">
+                <Coords points="271,2276 296,2276 321,2276 346,2277 371,2278 396,2278 421,2278 446,2276 471,2276 471,2225 446,2225 421,2227 396,2227 371,2227 346,2226 321,2225 296,2225 271,2225"/>
+                <Baseline points="271,2259 296,2259 321,2259 346,2260 371,2261 396,2261 421,2261 446,2259 471,2259"/>
+                <TextEquiv>
+                    <Unicode>25.2.958</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>25.2.958</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

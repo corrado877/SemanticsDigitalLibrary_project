@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:23:18.202+02:00</Created>
+        <LastChange>2024-06-22T09:21:17.192+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326040" pageNr="100" tsid="175603593" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=CREKZQSLRROHINWELEIOSXVZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HDXBHPWOEWXHZLYRDSFVASFH" imageId="54296153"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_10_0007_c3r.jpg" imageWidth="1798" imageHeight="2427" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746076836" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="161,400 161,2175 1631,2175 1631,400"/>
+            <TextLine id="line_1715335903988_227" custom="readingOrder {index:0;}">
+                <Coords points="174,481 483,480 483,530 174,531"/>
+                <Baseline points="174,526 475,526"/>
+                <TextEquiv>
+                    <Unicode>la Svizzera, in Italia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:1;} add {offset:0; length:38;place:above;}">
+                <Coords points="459,446 489,446 520,446 551,447 582,448 613,447 643,447 674,448 705,448 736,448 767,448 797,447 828,446 859,446 890,444 921,444 951,442 982,440 1013,440 1044,440 1075,440 1075,400 1044,400 1013,400 982,400 951,402 921,404 890,404 859,406 828,406 797,407 767,408 736,408 705,408 674,408 643,407 613,407 582,408 551,407 520,406 489,406 459,406"/>
+                <Baseline points="459,433 489,433 520,433 551,434 582,435 613,434 643,434 674,435 705,435 736,435 767,435 797,434 828,433 859,433 890,431 921,431 951,429 982,427 1013,427 1044,427 1075,427"/>
+                <TextEquiv>
+                    <Unicode>Breve soggiorno, e malattia, a Milano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715335937052_236" custom="readingOrder {index:2;}">
+                <Coords points="504,477 1607,475 1607,525 504,527"/>
+                <Baseline points="504,522 1607,520"/>
+                <TextEquiv>
+                    <Unicode>Per Livorno e Marsiglia, ritorno in patria, donde partenza per l’Olanda.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="169,606 241,604 313,603 385,604 458,601 530,600 602,598 675,600 747,600 819,598 892,598 964,597 1036,596 1108,596 1181,596 1253,596 1325,595 1398,594 1470,594 1542,598 1631,600 1631,560 1542,558 1470,554 1398,554 1325,555 1253,556 1181,556 1108,556 1036,556 964,557 892,558 819,558 747,560 675,560 602,558 530,560 458,561 385,564 313,563 241,564 169,566"/>
+                <Baseline points="169,593 241,591 313,590 385,591 458,588 530,587 602,585 675,587 747,587 819,585 892,585 964,584 1036,583 1108,583 1181,583 1253,583 1325,582 1398,581 1470,581 1542,585 1631,594"/>
+                <TextEquiv>
+                    <Unicode>Arruolato per le colonie olandesi, sbarca a Batavia, diserta; s’arruola su d’un veliero inglese.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="177,682 249,680 321,680 393,680 465,679 537,678 609,679 681,680 753,676 825,676 897,674 969,674 1041,674 1113,672 1185,674 1257,674 1329,670 1401,672 1473,670 1545,672 1628,674 1628,634 1545,632 1473,630 1401,632 1329,630 1257,634 1185,634 1113,632 1041,634 969,634 897,634 825,636 753,636 681,640 609,639 537,638 465,639 393,640 321,640 249,640 177,642"/>
+                <Baseline points="177,669 249,667 321,667 393,667 465,666 537,665 609,666 681,667 753,663 825,663 897,661 969,661 1041,661 1113,659 1185,661 1257,661 1329,657 1401,659 1473,657 1545,659 1624,659"/>
+                <TextEquiv>
+                    <Unicode>Ritorno in Francia; di qui si dirige in Germania: interprete in un circo ad Amburgo. Poi:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="169,764 241,758 314,759 386,758 459,754 531,753 604,752 676,752 749,754 821,754 894,754 966,752 1039,753 1111,752 1184,750 1256,750 1329,748 1401,748 1474,748 1546,747 1619,752 1619,712 1546,707 1474,708 1401,708 1329,708 1256,710 1184,710 1111,712 1039,713 966,712 894,714 821,714 749,714 676,712 604,712 531,713 459,714 386,718 314,719 241,718 169,724"/>
+                <Baseline points="169,751 241,745 314,746 386,745 459,741 531,740 604,739 676,739 749,741 821,741 894,741 966,739 1039,740 1111,739 1184,737 1256,737 1329,735 1401,735 1474,735 1546,734 1619,739"/>
+                <TextEquiv>
+                    <Unicode>Svezia, Danimarca. Ripassa dalla Francia, in Italia. È a Roma; lo imbarcano a Civita-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="173,836 244,836 315,834 387,832 458,832 530,830 601,830 672,830 744,828 815,828 887,826 958,826 1029,828 1101,826 1172,824 1244,824 1315,824 1386,824 1458,826 1529,826 1601,828 1601,788 1529,786 1458,786 1386,784 1315,784 1244,784 1172,784 1101,786 1029,788 958,786 887,786 815,788 744,788 672,790 601,790 530,790 458,792 387,792 315,794 244,796 173,796"/>
+                <Baseline points="173,823 244,823 315,821 387,819 458,819 530,817 601,817 672,817 744,815 815,815 887,813 958,813 1029,815 1101,813 1172,811 1244,811 1315,811 1386,811 1458,813 1529,813 1601,815"/>
+                <TextEquiv>
+                    <Unicode>vecchia. Di nuovo, Charleville. Ancora ad Amburgo. Una volta, di ottobre, traversa i Vosgi, a </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="161,918 234,914 308,912 381,912 455,911 528,910 602,910 675,909 749,908 822,905 896,902 969,902 1043,902 1116,900 1190,902 1263,898 1337,898 1410,896 1484,896 1557,896 1631,896 1631,856 1557,856 1484,856 1410,856 1337,858 1263,858 1190,862 1116,860 1043,862 969,862 896,862 822,865 749,868 675,869 602,870 528,870 455,871 381,872 308,872 234,874 161,878"/>
+                <Baseline points="161,905 234,901 308,899 381,899 455,898 528,897 602,897 675,896 749,895 822,892 896,889 969,889 1043,889 1116,887 1190,889 1263,885 1337,885 1410,883 1484,883 1557,883 1631,883"/>
+                <TextEquiv>
+                    <Unicode>piedi; è in Isvizzera: passa il San Gottardo, sempre a piedi. A Genova, s’imbar-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="191,988 262,984 333,983 404,982 475,982 547,983 618,983 689,984 760,986 831,983 903,980 974,980 1045,978 1116,976 1187,976 1259,976 1330,976 1401,976 1472,976 1543,976 1615,976 1615,936 1543,936 1472,936 1401,936 1330,936 1259,936 1187,936 1116,936 1045,938 974,940 903,940 831,943 760,946 689,944 618,943 547,943 475,942 404,942 333,943 262,944 191,948"/>
+                <Baseline points="191,975 262,971 333,970 404,969 475,969 547,970 618,970 689,971 760,973 831,970 903,967 974,967 1045,965 1116,963 1187,963 1259,963 1330,963 1401,963 1472,963 1543,963 1615,963"/>
+                <TextEquiv>
+                    <Unicode>ca per Alessandria d’ Egitto. Giunge a Cipro, dove s’impiega come capo in un cantiere in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:9;}">
+                <Coords points="177,1062 247,1063 318,1064 388,1064 459,1061 530,1060 600,1062 671,1058 741,1057 812,1056 883,1056 953,1054 1024,1054 1094,1055 1165,1056 1236,1056 1306,1055 1377,1054 1447,1054 1518,1053 1589,1050 1589,1010 1518,1013 1447,1014 1377,1014 1306,1015 1236,1016 1165,1016 1094,1015 1024,1014 953,1014 883,1016 812,1016 741,1017 671,1018 600,1022 530,1020 459,1021 388,1024 318,1024 247,1023 177,1022"/>
+                <Baseline points="177,1049 247,1050 318,1051 388,1051 459,1048 530,1047 600,1049 671,1045 741,1044 812,1043 883,1043 953,1041 1024,1041 1094,1042 1165,1043 1236,1043 1306,1042 1377,1041 1447,1041 1518,1040 1589,1037"/>
+                <TextEquiv>
+                    <Unicode>costruzione. S’ammala: è spedito a casa. Ritorna a Cipro, e di qui, insofferente del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="179,1136 249,1138 319,1139 390,1138 460,1135 531,1134 601,1134 671,1132 742,1132 812,1132 883,1135 953,1134 1023,1134 1094,1132 1164,1132 1235,1133 1305,1130 1375,1126 1446,1126 1516,1125 1587,1126 1587,1086 1516,1085 1446,1086 1375,1086 1305,1090 1235,1093 1164,1092 1094,1092 1023,1094 953,1094 883,1095 812,1092 742,1092 671,1092 601,1094 531,1094 460,1095 390,1098 319,1099 249,1098 179,1096"/>
+                <Baseline points="179,1123 249,1125 319,1126 390,1125 460,1122 531,1121 601,1121 671,1119 742,1119 812,1119 883,1122 953,1121 1023,1121 1094,1119 1164,1119 1235,1120 1305,1117 1375,1113 1446,1113 1516,1112 1587,1113"/>
+                <TextEquiv>
+                    <Unicode>clima, guadagna Aden, sul Mar Rosso. Siamo nell’agosto 1880. Ecco Rimbaud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="181,1216 252,1214 323,1213 394,1214 465,1210 537,1209 608,1206 679,1206 750,1205 821,1206 893,1204 964,1203 1035,1206 1106,1204 1177,1205 1249,1202 1320,1202 1391,1200 1462,1200 1533,1201 1605,1200 1605,1160 1533,1161 1462,1160 1391,1160 1320,1162 1249,1162 1177,1165 1106,1164 1035,1166 964,1163 893,1164 821,1166 750,1165 679,1166 608,1166 537,1169 465,1170 394,1174 323,1173 252,1174 181,1176"/>
+                <Baseline points="181,1203 252,1201 323,1200 394,1201 465,1197 537,1196 608,1193 679,1193 750,1192 821,1193 893,1191 964,1190 1035,1193 1106,1191 1177,1192 1249,1189 1320,1189 1391,1187 1462,1187 1533,1188 1605,1187"/>
+                <TextEquiv>
+                    <Unicode>In Africa, dopo avere, come la belva in gabbia, battuto il capo in ogni angolo della vecchia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="179,1288 250,1286 322,1288 393,1286 465,1286 537,1288 608,1288 680,1286 751,1283 823,1283 895,1284 966,1282 1038,1282 1109,1283 1181,1281 1253,1280 1324,1280 1396,1278 1467,1278 1539,1276 1611,1276 1611,1236 1539,1236 1467,1238 1396,1238 1324,1240 1253,1240 1181,1241 1109,1243 1038,1242 966,1242 895,1244 823,1243 751,1243 680,1246 608,1248 537,1248 465,1246 393,1246 322,1248 250,1246 179,1248"/>
+                <Baseline points="179,1275 250,1273 322,1275 393,1273 465,1273 537,1275 608,1275 680,1273 751,1270 823,1270 895,1271 966,1269 1038,1269 1109,1270 1181,1268 1253,1267 1324,1267 1396,1265 1467,1265 1539,1263 1611,1263"/>
+                <TextEquiv>
+                    <Unicode>Europa. In questi sei o sette anni, più nessun segno, nessuna traccia visibile, esterna del suo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715336215950_289" custom="readingOrder {index:13;}">
+                <Coords points="180,1312 1206,1307 1213,1314 1210,1363 1195,1356 180,1362"/>
+                <Baseline points="180,1357 1196,1351 1212,1359"/>
+                <TextEquiv>
+                    <Unicode>passato di poeta. Tutto si è dissolto, per sempre. Le sue lettere, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715336504441_364" custom="readingOrder {index:14;}">
+                <Coords points="1215,1271 1290,1270 1291,1320 1216,1321"/>
+                <Baseline points="1216,1316 1291,1315"/>
+                <TextEquiv>
+                    <Unicode>quasi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715336241335_299" custom="readingOrder {index:15;}">
+                <Coords points="1231,1307 1600,1306 1600,1356 1231,1357"/>
+                <Baseline points="1231,1352 1600,1351"/>
+                <TextEquiv>
+                    <Unicode>esclusivamente dirette ai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:16;}">
+                <Coords points="189,1440 214,1440 239,1440 265,1441 290,1442 315,1440 341,1438 366,1438 391,1438 417,1437 442,1436 467,1436 493,1436 518,1438 543,1437 569,1436 594,1436 619,1436 645,1434 645,1394 619,1396 594,1396 569,1396 543,1397 518,1398 493,1396 467,1396 442,1396 417,1397 391,1398 366,1398 341,1398 315,1400 290,1402 265,1401 239,1400 214,1400 189,1400"/>
+                <Baseline points="189,1427 214,1427 239,1427 265,1428 290,1429 315,1427 341,1425 366,1425 391,1425 417,1424 442,1423 467,1423 493,1423 518,1425 543,1424 569,1423 594,1423 619,1423 645,1421"/>
+                <TextEquiv>
+                    <Unicode>famigliari, parlano chiaro.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:17;}">
+                <Coords points="199,1513 270,1513 341,1514 412,1511 483,1511 554,1511 625,1511 696,1510 767,1509 838,1507 909,1507 980,1507 1051,1506 1122,1507 1193,1505 1264,1507 1335,1505 1406,1505 1477,1505 1548,1505 1619,1515 1619,1485 1548,1475 1477,1475 1406,1475 1335,1475 1264,1477 1193,1475 1122,1477 1051,1476 980,1477 909,1477 838,1477 767,1479 696,1480 625,1481 554,1481 483,1481 412,1481 341,1484 270,1483 199,1483"/>
+                <Baseline points="199,1503 270,1503 341,1504 412,1501 483,1501 554,1501 625,1501 696,1500 767,1499 838,1497 909,1497 980,1497 1051,1496 1122,1497 1193,1495 1264,1497 1335,1495 1406,1495 1477,1495 1548,1495 1619,1505"/>
+                <TextEquiv>
+                    <Unicode>Adesso c’è un uomo, in cerca di lavoro, magari di fortuna. Spesso scalzo, stracciato: un </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715335085087_87" custom="readingOrder {index:18;}">
+                <Coords points="184,1543 903,1543 903,1593 184,1593"/>
+                <Baseline points="196,1588 899,1590"/>
+                <TextEquiv>
+                    <Unicode>vagabondo sulle banchine dei porti, nelle bettole</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715335107059_96" custom="readingOrder {index:19;} add {offset:0; length:25;place:above;}">
+                <Coords points="772,1493 1106,1496 1106,1546 772,1543"/>
+                <Baseline points="771,1539 1101,1540"/>
+                <TextEquiv>
+                    <Unicode>di trafficanti e marinari</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715335275125_153" custom="readingOrder {index:20;}">
+                <Coords points="910,1573 933,1541 1629,1540 1629,1590 937,1591 902,1596"/>
+                <Baseline points="904,1592 937,1586 1629,1585"/>
+                <TextEquiv>
+                    <Unicode>, negli uffici di lavoro. Una figura magra, im-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:21;}">
+                <Coords points="187,1670 258,1666 330,1666 402,1664 474,1664 546,1662 617,1663 689,1662 761,1662 833,1664 905,1661 976,1661 1048,1660 1120,1660 1192,1658 1264,1662 1335,1663 1407,1664 1479,1663 1551,1664 1623,1670 1623,1630 1551,1624 1479,1623 1407,1624 1335,1623 1264,1622 1192,1618 1120,1620 1048,1620 976,1621 905,1621 833,1624 761,1622 689,1622 617,1623 546,1622 474,1624 402,1624 330,1626 258,1626 187,1630"/>
+                <Baseline points="187,1657 258,1653 330,1653 402,1651 474,1651 546,1649 617,1650 689,1649 761,1649 833,1651 905,1648 976,1648 1048,1647 1120,1647 1192,1645 1264,1649 1335,1650 1407,1651 1479,1650 1551,1651 1623,1657"/>
+                <TextEquiv>
+                    <Unicode>penetrabile. Quando, sprovvisto di documenti, bussa ai consolati francesi, il funzionario registra-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715335333105_165" custom="readingOrder {index:22;}">
+                <Coords points="182,1695 1621,1697 1621,1747 182,1745"/>
+                <Baseline points="182,1740 1621,1742"/>
+                <TextEquiv>
+                    <Unicode>no nella sua pratica: “Cé français, qui est grand, sec, jean gris, moustaches presque blon-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715335353635_170" custom="readingOrder {index:23;}">
+                <Coords points="173,1772 1143,1768 1143,1818 173,1822"/>
+                <Baseline points="173,1817 1143,1813"/>
+                <TextEquiv>
+                    <Unicode>des, mais petites, m’à été amaré pour les carabiniers". </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715335367697_175" custom="readingOrder {index:24;} add {offset:0; length:42;place:above;}">
+                <Coords points="685,1721 1360,1719 1360,1769 685,1771"/>
+                <Baseline points="685,1766 1360,1764"/>
+                <TextEquiv>
+                    <Unicode>Condotto dai carabinieri, per informzioni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715335377025_180" custom="readingOrder {index:25;}">
+                <Coords points="1168,1762 1626,1763 1626,1813 1168,1812"/>
+                <Baseline points="1168,1807 1626,1808"/>
+                <TextEquiv>
+                    <Unicode>La sua storia, ormai, ignorato </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715335394215_185" custom="readingOrder {index:26;}">
+                <Coords points="184,1846 773,1845 773,1895 184,1896"/>
+                <Baseline points="184,1891 773,1890"/>
+                <TextEquiv>
+                    <Unicode>dai manuali e repertori delle lettere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715335398893_190" custom="readingOrder {index:27;} add {offset:0; length:9;place:above;}">
+                <Coords points="590,1799 770,1800 770,1850 590,1849"/>
+                <Baseline points="590,1844 770,1845"/>
+                <TextEquiv>
+                    <Unicode>nazionali</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715335409744_195" custom="readingOrder {index:28;}">
+                <Coords points="810,1851 1555,1839 1556,1889 767,1903"/>
+                <Baseline points="776,1896 1556,1884"/>
+                <TextEquiv>
+                    <Unicode>, passa tutta sui registri e schedari della polizia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:29;}">
+                <Coords points="203,1965 274,1966 345,1965 416,1965 487,1964 558,1963 629,1963 700,1961 771,1963 842,1963 913,1962 984,1961 1055,1963 1126,1963 1197,1963 1268,1961 1339,1961 1410,1961 1481,1960 1552,1961 1623,1965 1623,1935 1552,1931 1481,1930 1410,1931 1339,1931 1268,1931 1197,1933 1126,1933 1055,1933 984,1931 913,1932 842,1933 771,1933 700,1931 629,1933 558,1933 487,1934 416,1935 345,1935 274,1936 203,1935"/>
+                <Baseline points="203,1955 274,1956 345,1955 416,1955 487,1954 558,1953 629,1953 700,1951 771,1953 842,1953 913,1952 984,1951 1055,1953 1126,1953 1197,1953 1268,1951 1339,1951 1410,1951 1481,1950 1552,1951 1623,1955"/>
+                <TextEquiv>
+                    <Unicode>Rimbaud, da adesso, è tutto dall'Africa. È qui l’Inferno in terra, che egli ha cercato. Prepa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715335459593_209" custom="readingOrder {index:30;} del {offset:16; length:9;rend:overtyped;}">
+                <Coords points="181,1996 581,1997 581,2047 181,2046"/>
+                <Baseline points="181,2041 581,2042"/>
+                <TextEquiv>
+                    <Unicode>rato alla lotta mostruosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715335464505_214" custom="readingOrder {index:31;} add {offset:0; length:8;place:above;}">
+                <Coords points="419,1958 580,1958 580,2008 419,2008"/>
+                <Baseline points="419,2003 580,2003"/>
+                <TextEquiv>
+                    <Unicode>faticosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715335479169_219" custom="readingOrder {index:32;}">
+                <Coords points="594,1999 1635,1995 1635,2045 594,2049"/>
+                <Baseline points="594,2044 1635,2040"/>
+                <TextEquiv>
+                    <Unicode>, egli non cederà che perdendo a brano a brano il suo povero corpo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28" custom="readingOrder {index:33;}">
+                <Coords points="185,2091 256,2088 328,2089 400,2086 471,2084 543,2085 615,2083 686,2081 758,2081 830,2081 902,2083 973,2083 1045,2083 1117,2084 1188,2080 1260,2081 1332,2080 1403,2081 1475,2081 1547,2082 1619,2089 1619,2059 1547,2052 1475,2051 1403,2051 1332,2050 1260,2051 1188,2050 1117,2054 1045,2053 973,2053 902,2053 830,2051 758,2051 686,2051 615,2053 543,2055 471,2054 400,2056 328,2059 256,2058 185,2061"/>
+                <Baseline points="185,2081 256,2078 328,2079 400,2076 471,2074 543,2075 615,2073 686,2071 758,2071 830,2071 902,2073 973,2073 1045,2073 1117,2074 1188,2070 1260,2071 1332,2070 1403,2071 1475,2071 1547,2072 1619,2079"/>
+                <TextEquiv>
+                    <Unicode>L’Africa di Rimbaud non è l’Oceania di Gauguin. I sensi selvaggi non sono quelli di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_29" custom="readingOrder {index:34;}">
+                <Coords points="185,2143 256,2136 328,2133 399,2131 471,2129 542,2127 614,2126 685,2125 757,2125 828,2125 900,2123 971,2123 1043,2121 1114,2122 1186,2117 1257,2119 1329,2119 1400,2117 1472,2119 1543,2123 1615,2125 1615,2095 1543,2093 1472,2089 1400,2087 1329,2089 1257,2089 1186,2087 1114,2092 1043,2091 971,2093 900,2093 828,2095 757,2095 685,2095 614,2096 542,2097 471,2099 399,2101 328,2103 256,2106 185,2113"/>
+                <Baseline points="185,2133 256,2126 328,2123 399,2121 471,2119 542,2117 614,2116 685,2115 757,2115 828,2115 900,2113 971,2113 1043,2111 1114,2112 1186,2107 1257,2109 1329,2109 1400,2107 1472,2109 1543,2113 1615,2115"/>
+                <TextEquiv>
+                    <Unicode>J. J. Rousseau.  Il colore “fauve" che egli scoprì prima di Van Gogh, le illazioni roman-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_30" custom="readingOrder {index:35;}">
+                <Coords points="185,2175 244,2173 304,2171 363,2167 423,2167 483,2165 542,2163 602,2163 661,2161 721,2163 781,2163 840,2165 900,2163 959,2161 1019,2161 1079,2161 1138,2161 1198,2159 1257,2161 1317,2159 1377,2165 1377,2135 1317,2129 1257,2131 1198,2129 1138,2131 1079,2131 1019,2131 959,2131 900,2133 840,2135 781,2133 721,2133 661,2131 602,2133 542,2133 483,2135 423,2137 363,2137 304,2141 244,2143 185,2145"/>
+                <Baseline points="185,2165 244,2163 304,2161 363,2157 423,2157 483,2155 542,2153 602,2153 661,2151 721,2153 781,2153 840,2155 900,2153 959,2151 1019,2151 1079,2151 1138,2151 1198,2149 1257,2151 1317,2149 1377,2155"/>
+                <TextEquiv>
+                    <Unicode>tico sociali resteranno in eredità dei suoi contemporanei, e dei posteri. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>la Svizzera, in Italia.
+Breve soggiorno, e malattia, a Milano.
+Per Livorno e Marsiglia, ritorno in patria, donde partenza per l’Olanda.
+Arruolato per le colonie olandesi, sbarca a Batavia, diserta; s’arruola su d’un veliero inglese.
+Ritorno in Francia; di qui si dirige in Germania: interprete in un circo ad Amburgo. Poi:
+Svezia, Danimarca. Ripassa dalla Francia, in Italia. È a Roma; lo imbarcano a Civita-
+vecchia. Di nuovo, Charleville. Ancora ad Amburgo. Una volta, di ottobre, traversa i Vosgi, a 
+piedi; è in Isvizzera: passa il San Gottardo, sempre a piedi. A Genova, s’imbar-
+ca per Alessandria d’ Egitto. Giunge a Cipro, dove s’impiega come capo in un cantiere in
+costruzione. S’ammala: è spedito a casa. Ritorna a Cipro, e di qui, insofferente del
+clima, guadagna Aden, sul Mar Rosso. Siamo nell’agosto 1880. Ecco Rimbaud
+In Africa, dopo avere, come la belva in gabbia, battuto il capo in ogni angolo della vecchia
+Europa. In questi sei o sette anni, più nessun segno, nessuna traccia visibile, esterna del suo
+passato di poeta. Tutto si è dissolto, per sempre. Le sue lettere, 
+quasi
+esclusivamente dirette ai
+famigliari, parlano chiaro.
+Adesso c’è un uomo, in cerca di lavoro, magari di fortuna. Spesso scalzo, stracciato: un 
+vagabondo sulle banchine dei porti, nelle bettole
+di trafficanti e marinari
+, negli uffici di lavoro. Una figura magra, im-
+penetrabile. Quando, sprovvisto di documenti, bussa ai consolati francesi, il funzionario registra-
+no nella sua pratica: “Cé français, qui est grand, sec, jean gris, moustaches presque blon-
+des, mais petites, m’à été amaré pour les carabiniers". 
+Condotto dai carabinieri, per informzioni.
+La sua storia, ormai, ignorato 
+dai manuali e repertori delle lettere
+nazionali
+, passa tutta sui registri e schedari della polizia.
+Rimbaud, da adesso, è tutto dall'Africa. È qui l’Inferno in terra, che egli ha cercato. Prepa-
+rato alla lotta mostruosa
+faticosa
+, egli non cederà che perdendo a brano a brano il suo povero corpo.
+L’Africa di Rimbaud non è l’Oceania di Gauguin. I sensi selvaggi non sono quelli di
+J. J. Rousseau.  Il colore “fauve" che egli scoprì prima di Van Gogh, le illazioni roman-
+tico sociali resteranno in eredità dei suoi contemporanei, e dei posteri. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

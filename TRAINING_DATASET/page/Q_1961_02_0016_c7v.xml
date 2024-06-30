@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:07:51.470+01:00</Created>
+        <LastChange>2024-06-20T11:32:35.575+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326014" pageNr="49" tsid="175603521" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=EOFDWLYVNUYARZBNLTLBGQFK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VXUPZVFTDNGVAPQFHIHGRWJD" imageId="53903607"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_02_0016_c7v.jpg" imageWidth="1798" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746066823" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1718875939623_503"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="209,264 209,2037 1659,2037 1659,264"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1549,333 1609,335 1609,287 1549,285"/>
+                <Baseline points="1549,317 1597,319"/>
+                <TextEquiv>
+                    <Unicode>14.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="223,519 293,517 364,514 435,513 505,512 576,509 647,511 717,508 788,509 859,509 930,510 1000,511 1071,511 1142,508 1212,509 1283,507 1354,509 1424,507 1495,509 1566,509 1637,513 1637,465 1566,461 1495,461 1424,459 1354,461 1283,459 1212,461 1142,460 1071,463 1000,463 930,462 859,461 788,461 717,460 647,463 576,461 505,464 435,465 364,466 293,469 223,471"/>
+                <Baseline points="223,503 293,501 364,498 435,497 505,496 576,493 647,495 717,492 788,493 859,493 930,494 1000,495 1071,495 1142,492 1212,493 1283,491 1354,493 1424,491 1495,493 1566,493 1637,497"/>
+                <TextEquiv>
+                    <Unicode>cato, di vecchia, o antica casa italiana. La casa, ad un piano, è dietro il porticato, che è deser_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="209,593 279,591 350,590 421,585 492,585 563,585 633,585 704,586 775,584 846,583 917,583 987,581 1058,581 1129,581 1200,581 1271,579 1341,579 1412,577 1483,580 1554,581 1625,583 1625,535 1554,533 1483,532 1412,529 1341,531 1271,531 1200,533 1129,533 1058,533 987,533 917,535 846,535 775,536 704,538 633,537 563,537 492,537 421,537 350,542 279,543 209,545"/>
+                <Baseline points="209,577 279,575 350,574 421,569 492,569 563,569 633,569 704,570 775,568 846,567 917,567 987,565 1058,565 1129,565 1200,565 1271,563 1341,563 1412,561 1483,564 1554,565 1625,567"/>
+                <TextEquiv>
+                    <Unicode>to, come deserto è tutto lo spazio della scena. L'ombra della casa: una casa, come un cubo, un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="217,667 287,669 358,665 429,663 500,661 571,662 641,659 712,660 783,658 854,659 925,658 995,658 1066,659 1137,659 1208,661 1279,661 1349,659 1420,659 1491,660 1562,661 1633,663 1633,615 1562,613 1491,612 1420,611 1349,611 1279,613 1208,613 1137,611 1066,611 995,610 925,610 854,611 783,610 712,612 641,611 571,614 500,613 429,615 358,617 287,621 217,619"/>
+                <Baseline points="217,651 287,653 358,649 429,647 500,645 571,646 641,643 712,644 783,642 854,643 925,642 995,642 1066,643 1137,643 1208,645 1279,645 1349,643 1420,643 1491,644 1562,645 1633,647"/>
+                <TextEquiv>
+                    <Unicode>ammasso di pietra e mattoni, l'ombra della casa, sporge e dilaga, tanto nel davanti, come di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="227,755 297,745 368,742 439,741 510,739 581,737 651,739 722,738 793,735 864,735 935,733 1005,733 1076,735 1147,734 1218,733 1289,733 1359,732 1430,733 1501,733 1572,733 1643,735 1643,687 1572,685 1501,685 1430,685 1359,684 1289,685 1218,685 1147,686 1076,687 1005,685 935,685 864,687 793,687 722,690 651,691 581,689 510,691 439,693 368,694 297,697 227,707"/>
+                <Baseline points="227,739 297,729 368,726 439,725 510,723 581,721 651,723 722,722 793,719 864,719 935,717 1005,717 1076,719 1147,718 1218,717 1289,717 1359,716 1430,717 1501,717 1572,717 1643,719"/>
+                <TextEquiv>
+                    <Unicode>fianco, dove va a infilarsi al piede di un alto muro: un muro, massiccio, di palazzo, che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="229,821 299,820 370,819 440,817 511,816 582,815 652,813 723,814 793,812 864,811 935,810 1005,811 1076,809 1146,812 1217,811 1288,809 1358,809 1429,807 1499,806 1570,805 1641,809 1641,761 1570,757 1499,758 1429,759 1358,761 1288,761 1217,763 1146,764 1076,761 1005,763 935,762 864,763 793,764 723,766 652,765 582,767 511,768 440,769 370,771 299,772 229,773"/>
+                <Baseline points="229,805 299,804 370,803 440,801 511,800 582,799 652,797 723,798 793,796 864,795 935,794 1005,795 1076,793 1146,796 1217,795 1288,793 1358,793 1429,791 1499,790 1570,789 1641,793"/>
+                <TextEquiv>
+                    <Unicode>ha solo due minuscole finestrelle; due fessure di buio. Sul primo piano, a destra, e immerso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="217,899 287,895 358,893 429,891 499,889 570,888 641,889 711,888 782,886 853,885 924,885 994,883 1065,883 1136,883 1206,885 1277,881 1348,880 1418,879 1489,878 1560,878 1631,879 1631,831 1560,830 1489,830 1418,831 1348,832 1277,833 1206,837 1136,835 1065,835 994,835 924,837 853,837 782,838 711,840 641,841 570,840 499,841 429,843 358,845 287,847 217,851"/>
+                <Baseline points="217,883 287,879 358,877 429,875 499,873 570,872 641,873 711,872 782,870 853,869 924,869 994,867 1065,867 1136,867 1206,869 1277,865 1348,864 1418,863 1489,862 1560,862 1631,863"/>
+                <TextEquiv>
+                    <Unicode>nell'ombra, una stanza, l'ombra di una stanza, collocata sulla base di mattoni. Non è traccia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="217,977 289,972 361,969 433,965 505,964 577,963 649,960 721,959 793,959 865,956 938,957 1010,959 1082,961 1154,961 1226,961 1298,961 1370,957 1442,957 1514,955 1586,957 1659,959 1659,911 1586,909 1514,907 1442,909 1370,909 1298,913 1226,913 1154,913 1082,913 1010,911 938,909 865,908 793,911 721,911 649,912 577,915 505,916 433,917 361,921 289,924 217,929"/>
+                <Baseline points="217,961 289,956 361,953 433,949 505,948 577,947 649,944 721,943 793,943 865,940 938,941 1010,943 1082,945 1154,945 1226,945 1298,945 1370,941 1442,941 1514,939 1586,941 1659,943"/>
+                <TextEquiv>
+                    <Unicode>di uomo, né di passaggio umano. Tuttavia il quadro è di un'alta, commovente invocazione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="213,1043 283,1041 354,1039 425,1039 495,1038 566,1037 637,1035 707,1034 778,1030 849,1031 920,1029 990,1031 1061,1031 1132,1031 1202,1030 1273,1027 1344,1030 1414,1029 1485,1031 1556,1031 1627,1033 1627,1003 1556,1001 1485,1001 1414,999 1344,1000 1273,997 1202,1000 1132,1001 1061,1001 990,1001 920,999 849,1001 778,1000 707,1004 637,1005 566,1007 495,1008 425,1009 354,1009 283,1011 213,1013"/>
+                <Baseline points="213,1033 283,1031 354,1029 425,1029 495,1028 566,1027 637,1025 707,1024 778,1020 849,1021 920,1019 990,1021 1061,1021 1132,1021 1202,1020 1273,1017 1344,1020 1414,1019 1485,1021 1556,1021 1627,1023"/>
+                <TextEquiv>
+                    <Unicode>umana. Così, in una sorta di nuova, ripensata, trasportata, profonda mediatazione plastica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718122124256_1944" custom="readingOrder {index:9;} del {offset:40; length:10;rend:overstrike;}">
+                <Coords points="226,1071 975,1062 976,1112 227,1121"/>
+                <Baseline points="227,1116 976,1107"/>
+                <TextEquiv>
+                    <Unicode>del tempo dell' "arte metafisica", così importante </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;} add {offset:0; length:9;place:above;}">
+                <Coords points="807,1077 832,1076 858,1076 883,1074 909,1073 935,1073 935,1043 909,1043 883,1044 858,1046 832,1046 807,1047"/>
+                <Baseline points="807,1067 832,1066 858,1066 883,1064 909,1063 935,1063"/>
+                <TextEquiv>
+                    <Unicode> decisivo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718122128312_1949" custom="readingOrder {index:11;}">
+                <Coords points="978,1058 1188,1058 1188,1108 978,1108"/>
+                <Baseline points="978,1103 1188,1103"/>
+                <TextEquiv>
+                    <Unicode>per il destino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718122138374_1957" custom="readingOrder {index:12;} add {offset:0; length:7;place:above;}">
+                <Coords points="1080,1018 1179,1019 1179,1069 1080,1068"/>
+                <Baseline points="1080,1063 1179,1064"/>
+                <TextEquiv>
+                    <Unicode>poetico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718122140640_1962" custom="readingOrder {index:13;}">
+                <Coords points="1200,1059 1226,1059 1226,1109 1200,1109"/>
+                <Baseline points="1200,1104 1226,1104"/>
+                <TextEquiv>
+                    <Unicode>di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718122142727_1967" custom="readingOrder {index:14;} add {offset:0; length:5;place:above;}">
+                <Coords points="1239,1013 1322,1017 1320,1067 1237,1063"/>
+                <Baseline points="1237,1058 1320,1062"/>
+                <TextEquiv>
+                    <Unicode>Carlo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718122145111_1972" custom="readingOrder {index:15;}">
+                <Coords points="1240,1059 1351,1056 1352,1106 1241,1109"/>
+                <Baseline points="1241,1104 1352,1101"/>
+                <TextEquiv>
+                    <Unicode>Carrà</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:16;}">
+                <Coords points="387,2037 412,2034 438,2034 464,2035 489,2033 515,2029 541,2029 566,2029 592,2029 618,2029 643,2029 669,2029 695,2029 721,2029 721,1981 695,1981 669,1981 643,1981 618,1981 592,1981 566,1981 541,1981 515,1981 489,1985 464,1987 438,1986 412,1986 387,1989"/>
+                <Baseline points="387,2021 412,2018 438,2018 464,2019 489,2017 515,2013 541,2013 566,2013 592,2013 618,2013 643,2013 669,2013 695,2013 721,2013"/>
+                <TextEquiv>
+                    <Unicode>15 gennaio 1961</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>14.&#13;
+cato, di vecchia, o antica casa italiana. La casa, ad un piano, è dietro il porticato, che è deser_&#13;
+to, come deserto è tutto lo spazio della scena. L'ombra della casa: una casa, come un cubo, un&#13;
+ammasso di pietra e mattoni, l'ombra della casa, sporge e dilaga, tanto nel davanti, come di&#13;
+fianco, dove va a infilarsi al piede di un alto muro: un muro, massiccio, di palazzo, che&#13;
+ha solo due minuscole finestrelle; due fessure di buio. Sul primo piano, a destra, e immerso&#13;
+nell'ombra, una stanza, l'ombra di una stanza, collocata sulla base di mattoni. Non è traccia&#13;
+di uomo, né di passaggio umano. Tuttavia il quadro è di un'alta, commovente invocazione&#13;
+umana. Così, in una sorta di nuova, ripensata, trasportata, profonda mediatazione plastica&#13;
+del tempo dell' "arte metafisica", così importante &#13;
+ decisivo&#13;
+per il destino&#13;
+poetico&#13;
+di&#13;
+Carlo&#13;
+Carrà&#13;
+15 gennaio 1961</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1718875939623_503" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="1619,339 1536,339 1536,275 1619,275"/>
+        </TextRegion>
+    </Page>
+</PcGts>

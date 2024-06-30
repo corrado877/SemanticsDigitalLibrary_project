@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:07:51.064+01:00</Created>
+        <LastChange>2024-06-20T11:30:33.309+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326013" pageNr="46" tsid="175603520" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=WTKETXIKDDSNFHYXRSWPKHLS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RJLTYQLPHCWOEBPEEDJQQEUM" imageId="53903603"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_02_0013_c6r.jpg" imageWidth="1798" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746066228" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718875729783_420"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718875729783_420" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="236,352 165,352 165,275 236,275"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="173,339 198,337 223,339 223,284 198,282 173,284"/>
+                <Baseline points="173,321 198,319 223,321"/>
+                <TextEquiv>
+                    <Unicode>11.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>11.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="135,261 137,2020 1607,2028 1605,269"/>
+            <TextLine id="line_1718119979255_1470" custom="readingOrder {index:0;}">
+                <Coords points="176,451 1586,463 1586,513 176,501"/>
+                <Baseline points="176,496 1586,508"/>
+                <TextEquiv>
+                    <Unicode>vaio. Tutto avveniva nello spazio esiguo di due camere. Qui venivano, in quel tempo, con Vincen_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="149,592 221,587 293,586 365,588 437,585 509,588 581,588 653,587 725,586 797,586 870,586 942,585 1014,582 1086,584 1158,584 1230,582 1302,582 1374,582 1446,582 1518,581 1591,588 1591,536 1518,529 1446,530 1374,530 1302,530 1230,530 1158,532 1086,532 1014,530 942,533 870,534 797,534 725,534 653,535 581,536 509,536 437,533 365,536 293,534 221,535 149,540"/>
+                <Baseline points="149,575 221,570 293,569 365,571 437,568 509,571 581,571 653,570 725,569 797,569 870,569 942,568 1014,565 1086,567 1158,567 1230,565 1302,565 1374,565 1446,565 1518,564 1591,571"/>
+                <TextEquiv>
+                    <Unicode>zo Cardarelli; qui incontrai, la prima volta, Giuseppe Ungaretti, che in una breve licenza dal fronte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="165,664 235,664 306,662 377,660 448,660 519,660 590,662 661,660 732,660 803,662 874,660 944,662 1015,664 1086,659 1157,662 1228,658 1299,657 1370,654 1441,658 1512,659 1583,662 1583,610 1512,607 1441,606 1370,602 1299,605 1228,606 1157,610 1086,607 1015,612 944,610 874,608 803,610 732,608 661,608 590,610 519,608 448,608 377,608 306,610 235,612 165,612"/>
+                <Baseline points="165,647 235,647 306,645 377,643 448,643 519,643 590,645 661,643 732,643 803,645 874,643 944,645 1015,647 1086,642 1157,645 1228,641 1299,640 1370,637 1441,641 1512,642 1583,645"/>
+                <TextEquiv>
+                    <Unicode>saliva di corsa le scale di via Vivaio, e, spalancando la porticina a vetri di quel modesto ap_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="173,747 243,741 314,739 385,741 456,737 527,737 597,735 668,735 739,736 810,735 881,736 951,736 1022,737 1093,737 1164,735 1235,735 1305,733 1376,735 1447,735 1518,735 1589,737 1589,683 1518,681 1447,681 1376,681 1305,679 1235,681 1164,681 1093,683 1022,683 951,682 881,682 810,681 739,682 668,681 597,681 527,683 456,683 385,687 314,685 243,687 173,693"/>
+                <Baseline points="173,729 243,723 314,721 385,723 456,719 527,719 597,717 668,717 739,718 810,717 881,718 951,718 1022,719 1093,719 1164,717 1235,717 1305,715 1376,717 1447,717 1518,717 1589,719"/>
+                <TextEquiv>
+                    <Unicode>partamento, gridava in trionfo:" Oh, Carrà ti ho portato un pacco di toscani". Erano i siga_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="171,823 240,823 310,819 380,818 450,817 520,817 589,817 659,815 729,815 799,813 869,815 938,813 1008,813 1078,811 1148,811 1218,810 1287,811 1357,811 1427,814 1497,813 1567,815 1567,761 1497,759 1427,760 1357,757 1287,757 1218,756 1148,757 1078,757 1008,759 938,759 869,761 799,759 729,761 659,761 589,763 520,763 450,763 380,764 310,765 240,769 171,769"/>
+                <Baseline points="171,805 240,805 310,801 380,800 450,799 520,799 589,799 659,797 729,797 799,795 869,797 938,795 1008,795 1078,793 1148,793 1218,792 1287,793 1357,793 1427,796 1497,795 1567,797"/>
+                <TextEquiv>
+                    <Unicode>ri, legati da un nastrino tricolore, che si ditribuivano ai soldati in guerra. Era, per Carrà, il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="171,903 242,895 313,894 384,893 455,893 526,893 597,893 668,895 739,894 810,893 881,893 952,892 1023,893 1094,891 1165,887 1236,887 1307,888 1378,889 1449,889 1520,891 1591,899 1591,845 1520,837 1449,835 1378,835 1307,834 1236,833 1165,833 1094,837 1023,839 952,838 881,839 810,839 739,840 668,841 597,839 526,839 455,839 384,839 313,840 242,841 171,849"/>
+                <Baseline points="171,885 242,877 313,876 384,875 455,875 526,875 597,875 668,877 739,876 810,875 881,875 952,874 1023,875 1094,873 1165,869 1236,869 1307,870 1378,871 1449,871 1520,873 1591,881"/>
+                <TextEquiv>
+                    <Unicode>periodo più intenso della sua "pittura metafisica", che aveva fatto seguito repentinamente, e spes_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="155,972 226,968 297,966 368,966 439,966 510,967 581,966 652,968 723,969 794,968 866,966 937,966 1008,966 1079,963 1150,960 1221,958 1292,960 1363,962 1434,962 1505,965 1577,968 1577,916 1505,913 1434,910 1363,910 1292,908 1221,906 1150,908 1079,911 1008,914 937,914 866,914 794,916 723,917 652,916 581,914 510,915 439,914 368,914 297,914 226,916 155,920"/>
+                <Baseline points="155,955 226,951 297,949 368,949 439,949 510,950 581,949 652,951 723,952 794,951 866,949 937,949 1008,949 1079,946 1150,943 1221,941 1292,943 1363,945 1434,945 1505,948 1577,951"/>
+                <TextEquiv>
+                    <Unicode>so si era sovrapposto e incontrato, con quello della sua arte, dopo la scadenza futurista, tramite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="153,1044 224,1043 296,1042 367,1042 439,1041 510,1040 582,1041 653,1040 725,1040 796,1039 868,1038 939,1038 1011,1040 1082,1036 1154,1036 1225,1036 1297,1038 1368,1036 1440,1038 1511,1039 1583,1048 1583,996 1511,987 1440,986 1368,984 1297,986 1225,984 1154,984 1082,984 1011,988 939,986 868,986 796,987 725,988 653,988 582,989 510,988 439,989 367,990 296,990 224,991 153,992"/>
+                <Baseline points="153,1027 224,1026 296,1025 367,1025 439,1024 510,1023 582,1024 653,1023 725,1023 796,1022 868,1021 939,1021 1011,1023 1082,1019 1154,1019 1225,1019 1297,1021 1368,1019 1440,1021 1511,1022 1583,1031"/>
+                <TextEquiv>
+                    <Unicode>in questo modo all'insegna di un neo-primitivismo, cui sovrastavano, ad eguale distanza,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="151,1121 222,1121 294,1121 365,1121 437,1119 509,1119 580,1118 652,1119 723,1119 795,1119 867,1119 938,1119 1010,1119 1081,1119 1153,1119 1225,1121 1296,1121 1368,1119 1439,1119 1511,1120 1583,1123 1583,1069 1511,1066 1439,1065 1368,1065 1296,1067 1225,1067 1153,1065 1081,1065 1010,1065 938,1065 867,1065 795,1065 723,1065 652,1065 580,1064 509,1065 437,1065 365,1067 294,1067 222,1067 151,1067"/>
+                <Baseline points="151,1103 222,1103 294,1103 365,1103 437,1101 509,1101 580,1100 652,1101 723,1101 795,1101 867,1101 938,1101 1010,1101 1081,1101 1153,1101 1225,1103 1296,1103 1368,1101 1439,1101 1511,1102 1583,1105"/>
+                <TextEquiv>
+                    <Unicode>le immagini di Giotto e quelle di Rousseau il Doganiere. Difatti,fu, in quella mostra di Corso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="173,1190 242,1195 312,1195 382,1198 452,1194 522,1194 592,1194 662,1191 732,1193 802,1194 872,1194 941,1195 1011,1196 1081,1196 1151,1197 1221,1196 1291,1197 1361,1197 1431,1196 1501,1197 1571,1200 1571,1148 1501,1145 1431,1144 1361,1145 1291,1145 1221,1144 1151,1145 1081,1144 1011,1144 941,1143 872,1142 802,1142 732,1141 662,1139 592,1142 522,1142 452,1142 382,1146 312,1143 242,1143 173,1138"/>
+                <Baseline points="173,1173 242,1178 312,1178 382,1181 452,1177 522,1177 592,1177 662,1174 732,1176 802,1177 872,1177 941,1178 1011,1179 1081,1179 1151,1180 1221,1179 1291,1180 1361,1180 1431,1179 1501,1180 1571,1183"/>
+                <TextEquiv>
+                    <Unicode>Venezia, e poi fu nello studio di Carrà, che vedemmo la grande tela dei "Romantici", e la sedu_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="175,1266 244,1269 313,1269 382,1270 451,1270 520,1269 589,1268 658,1270 727,1270 796,1271 866,1272 935,1270 1004,1272 1073,1268 1142,1268 1211,1266 1280,1266 1349,1266 1418,1268 1487,1269 1557,1272 1557,1220 1487,1217 1418,1216 1349,1214 1280,1214 1211,1214 1142,1216 1073,1216 1004,1220 935,1218 866,1220 796,1219 727,1218 658,1218 589,1216 520,1217 451,1218 382,1218 313,1217 244,1217 175,1214"/>
+                <Baseline points="175,1249 244,1252 313,1252 382,1253 451,1253 520,1252 589,1251 658,1253 727,1253 796,1254 866,1255 935,1253 1004,1255 1073,1251 1142,1251 1211,1249 1280,1249 1349,1249 1418,1251 1487,1252 1557,1255"/>
+                <TextEquiv>
+                    <Unicode>cente, struggente commozione romantica "La Carrozzalla". Poco lontano, nello stesso luogo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="163,1354 233,1346 304,1346 375,1346 445,1345 516,1345 587,1342 657,1344 728,1342 799,1344 870,1342 940,1340 1011,1342 1082,1342 1152,1340 1223,1342 1294,1341 1364,1340 1435,1343 1506,1343 1577,1352 1577,1301 1506,1292 1435,1292 1364,1289 1294,1290 1223,1291 1152,1289 1082,1291 1011,1291 940,1289 870,1291 799,1293 728,1291 657,1293 587,1291 516,1294 445,1294 375,1295 304,1295 233,1295 163,1303"/>
+                <Baseline points="163,1337 233,1329 304,1329 375,1329 445,1328 516,1328 587,1325 657,1327 728,1325 799,1327 870,1325 940,1323 1011,1325 1082,1325 1152,1323 1223,1325 1294,1324 1364,1323 1435,1326 1506,1326 1577,1335"/>
+                <TextEquiv>
+                    <Unicode>posavano in attesa di essere frequentemente controllati dall'occhio del pittore, altri dipinti,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="171,1422 241,1421 311,1420 382,1418 452,1421 523,1418 593,1420 663,1419 734,1420 804,1420 875,1421 945,1420 1015,1420 1086,1418 1156,1418 1227,1416 1297,1417 1367,1416 1438,1418 1508,1420 1579,1422 1579,1371 1508,1369 1438,1367 1367,1365 1297,1366 1227,1365 1156,1367 1086,1367 1015,1369 945,1369 875,1370 804,1369 734,1369 663,1368 593,1369 523,1367 452,1370 382,1367 311,1369 241,1370 171,1371"/>
+                <Baseline points="171,1405 241,1404 311,1403 382,1401 452,1404 523,1401 593,1403 663,1402 734,1403 804,1403 875,1404 945,1403 1015,1403 1086,1401 1156,1401 1227,1399 1297,1400 1367,1399 1438,1401 1508,1403 1579,1405"/>
+                <TextEquiv>
+                    <Unicode>le cose migliorei, quelle più rinomate del nuovo periodo "metafisico". Ed erano: Le già ri_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:13;} gap {offset:8; length:0;} hi {offset:28; length:19;rend:underline;} hi {offset:49; length:18;rend:underline;}">
+                <Coords points="171,1499 239,1498 308,1499 377,1496 445,1495 514,1495 583,1494 651,1495 720,1493 789,1493 858,1493 926,1495 995,1495 1064,1495 1132,1493 1201,1492 1270,1495 1338,1491 1407,1492 1476,1493 1545,1493 1545,1439 1476,1439 1407,1438 1338,1437 1270,1441 1201,1438 1132,1439 1064,1441 995,1441 926,1441 858,1439 789,1439 720,1439 651,1441 583,1440 514,1441 445,1441 377,1442 308,1445 239,1444 171,1445"/>
+                <Baseline points="171,1481 239,1480 308,1481 377,1478 445,1477 514,1477 583,1476 651,1477 720,1475 789,1475 858,1475 926,1477 995,1477 1064,1477 1132,1475 1201,1474 1270,1477 1338,1473 1407,1474 1476,1475 1545,1475"/>
+                <TextEquiv>
+                    <Unicode>cordate Gentiluomo ubriaco; La camera incantata; Il dio Ermafrodito, chiamato in seguito</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:14;} hi {offset:1; length:18;rend:underline;} hi {offset:21; length:14;rend:underline;} hi {offset:37; length:10;rend:underline;} hi {offset:49; length:19;rend:underline;} hi {offset:70; length:15;rend:underline;}">
+                <Coords points="171,1575 242,1575 313,1575 384,1575 455,1573 526,1577 597,1574 668,1577 739,1575 810,1571 882,1571 953,1575 1024,1571 1095,1569 1166,1570 1237,1570 1308,1569 1379,1567 1450,1565 1521,1565 1593,1571 1593,1517 1521,1511 1450,1511 1379,1513 1308,1515 1237,1516 1166,1516 1095,1515 1024,1517 953,1521 882,1517 810,1517 739,1521 668,1523 597,1520 526,1523 455,1519 384,1521 313,1521 242,1521 171,1521"/>
+                <Baseline points="171,1557 242,1557 313,1557 384,1557 455,1555 526,1559 597,1556 668,1559 739,1557 810,1553 882,1553 953,1557 1024,1553 1095,1551 1166,1552 1237,1552 1308,1551 1379,1549 1450,1547 1521,1547 1593,1553"/>
+                <TextEquiv>
+                    <Unicode>l'Idolo Ermafrodito; Madre e figlio; Solitudine; La lunga metafisica; La Natura morta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:15;} hi {offset:0; length:14;rend:underline;} hi {offset:16; length:8;rend:underline;} hi {offset:26; length:24;rend:underline;}">
+                <Coords points="175,1652 243,1648 311,1649 379,1648 448,1650 516,1646 584,1649 653,1648 721,1646 789,1642 858,1642 926,1645 994,1645 1062,1648 1131,1644 1199,1645 1267,1646 1336,1648 1404,1648 1472,1648 1541,1652 1541,1600 1472,1596 1404,1596 1336,1596 1267,1594 1199,1593 1131,1592 1062,1596 994,1593 926,1593 858,1590 789,1590 721,1594 653,1596 584,1597 516,1594 448,1598 379,1596 311,1597 243,1596 175,1600"/>
+                <Baseline points="175,1635 243,1631 311,1632 379,1631 448,1633 516,1629 584,1632 653,1631 721,1629 789,1625 858,1625 926,1628 994,1628 1062,1631 1131,1627 1199,1628 1267,1629 1336,1631 1404,1631 1472,1631 1541,1635"/>
+                <TextEquiv>
+                    <Unicode>con la squadra; Penelope; Il cavaliere occidentale. E' già, nell'anno seguente, il 1918,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="169,1726 238,1724 308,1722 378,1721 448,1722 518,1722 588,1722 658,1722 728,1720 798,1719 868,1719 937,1720 1007,1718 1077,1717 1147,1718 1217,1717 1287,1717 1357,1720 1427,1717 1497,1718 1567,1722 1567,1670 1497,1666 1427,1665 1357,1668 1287,1665 1217,1665 1147,1666 1077,1665 1007,1666 937,1668 868,1667 798,1667 728,1668 658,1670 588,1670 518,1670 448,1670 378,1669 308,1670 238,1672 169,1674"/>
+                <Baseline points="169,1709 238,1707 308,1705 378,1704 448,1705 518,1705 588,1705 658,1705 728,1703 798,1702 868,1702 937,1703 1007,1701 1077,1700 1147,1701 1217,1700 1287,1700 1357,1703 1427,1700 1497,1701 1567,1705"/>
+                <TextEquiv>
+                    <Unicode>Carrà, stava impiantando, dentro lo spazio allungato della tela rettangolare, l'idea plastica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="159,1803 230,1801 301,1797 372,1798 443,1797 515,1796 586,1797 657,1797 728,1795 799,1795 871,1794 942,1795 1013,1795 1084,1795 1155,1795 1227,1797 1298,1798 1369,1797 1440,1797 1511,1795 1583,1797 1583,1743 1511,1741 1440,1743 1369,1743 1298,1744 1227,1743 1155,1741 1084,1741 1013,1741 942,1741 871,1740 799,1741 728,1741 657,1743 586,1743 515,1742 443,1743 372,1744 301,1743 230,1747 159,1749"/>
+                <Baseline points="159,1785 230,1783 301,1779 372,1780 443,1779 515,1778 586,1779 657,1779 728,1777 799,1777 871,1776 942,1777 1013,1777 1084,1777 1155,1777 1227,1779 1298,1780 1369,1779 1440,1779 1511,1777 1583,1779"/>
+                <TextEquiv>
+                    <Unicode>che furono le "Figlie di Loth". Essendovi ignote le ragioni di "macchina" in senso classicheggian_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="157,1877 228,1879 300,1879 372,1877 444,1877 516,1877 588,1876 660,1875 732,1877 804,1875 876,1873 947,1875 1019,1874 1091,1875 1163,1874 1235,1875 1307,1875 1379,1874 1451,1875 1523,1877 1595,1879 1595,1825 1523,1823 1451,1821 1379,1820 1307,1821 1235,1821 1163,1820 1091,1821 1019,1820 947,1821 876,1819 804,1821 732,1823 660,1821 588,1822 516,1823 444,1823 372,1823 300,1825 228,1825 157,1823"/>
+                <Baseline points="157,1859 228,1861 300,1861 372,1859 444,1859 516,1859 588,1858 660,1857 732,1859 804,1857 876,1855 947,1857 1019,1856 1091,1857 1163,1856 1235,1857 1307,1857 1379,1856 1451,1857 1523,1859 1595,1861"/>
+                <TextEquiv>
+                    <Unicode>te, e ogni suggestione di museo, l'impresa pronta solo verso una riuscita poetica in pit_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718119964563_1455" custom="readingOrder {index:19;}">
+                <Coords points="163,1902 252,1906 250,1956 161,1952"/>
+                <Baseline points="161,1947 250,1951"/>
+                <TextEquiv>
+                    <Unicode>tura.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718119968593_1460" custom="readingOrder {index:20;} del {offset:11; length:12;rend:overstrike;}">
+                <Coords points="182,1968 702,1975 701,2025 181,2018"/>
+                <Baseline points="181,2013 701,2020"/>
+                <TextEquiv>
+                    <Unicode>Del resto, dello stesso dell'anno '19,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:21;} add {offset:0; length:5;place:above;}">
+                <Coords points="681,1961 713,1963 746,1965 779,1967 779,1924 746,1922 713,1920 681,1918"/>
+                <Baseline points="681,1947 713,1949 746,1951 779,1953"/>
+                <TextEquiv>
+                    <Unicode>basta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718119971298_1465" custom="readingOrder {index:22;}">
+                <Coords points="719,1973 1600,1979 1600,2029 719,2023"/>
+                <Baseline points="719,2018 1600,2024"/>
+                <TextEquiv>
+                    <Unicode> la Natura morta metafisica, quella con il busto di gesso,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vaio. Tutto avveniva nello spazio esiguo di due camere. Qui venivano, in quel tempo, con Vincen_&#13;
+zo Cardarelli; qui incontrai, la prima volta, Giuseppe Ungaretti, che in una breve licenza dal fronte,&#13;
+saliva di corsa le scale di via Vivaio, e, spalancando la porticina a vetri di quel modesto ap_&#13;
+partamento, gridava in trionfo:" Oh, Carrà ti ho portato un pacco di toscani". Erano i siga_&#13;
+ri, legati da un nastrino tricolore, che si ditribuivano ai soldati in guerra. Era, per Carrà, il&#13;
+periodo più intenso della sua "pittura metafisica", che aveva fatto seguito repentinamente, e spes_&#13;
+so si era sovrapposto e incontrato, con quello della sua arte, dopo la scadenza futurista, tramite&#13;
+in questo modo all'insegna di un neo-primitivismo, cui sovrastavano, ad eguale distanza,&#13;
+le immagini di Giotto e quelle di Rousseau il Doganiere. Difatti,fu, in quella mostra di Corso&#13;
+Venezia, e poi fu nello studio di Carrà, che vedemmo la grande tela dei "Romantici", e la sedu_&#13;
+cente, struggente commozione romantica "La Carrozzalla". Poco lontano, nello stesso luogo,&#13;
+posavano in attesa di essere frequentemente controllati dall'occhio del pittore, altri dipinti,&#13;
+le cose migliorei, quelle più rinomate del nuovo periodo "metafisico". Ed erano: Le già ri_&#13;
+cordate Gentiluomo ubriaco; La camera incantata; Il dio Ermafrodito, chiamato in seguito&#13;
+l'Idolo Ermafrodito; Madre e figlio; Solitudine; La lunga metafisica; La Natura morta&#13;
+con la squadra; Penelope; Il cavaliere occidentale. E' già, nell'anno seguente, il 1918,&#13;
+Carrà, stava impiantando, dentro lo spazio allungato della tela rettangolare, l'idea plastica&#13;
+che furono le "Figlie di Loth". Essendovi ignote le ragioni di "macchina" in senso classicheggian_&#13;
+te, e ogni suggestione di museo, l'impresa pronta solo verso una riuscita poetica in pit_&#13;
+tura.&#13;
+Del resto, dello stesso dell'anno '19,&#13;
+basta&#13;
+ la Natura morta metafisica, quella con il busto di gesso,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:23:19.137+02:00</Created>
+        <LastChange>2024-06-21T10:05:37.545+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326037" pageNr="93" tsid="175603590" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=RGCCKTHZEOYISMSHTBVZEXUW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QBIZZPWPYJSCFYJVKCTBVETD" imageId="54296165"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_10_0013_c6r.jpg" imageWidth="1798" imageHeight="2427" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746075401" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="0,289 0,2058 1629,2058 1629,289"/>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="181,529 252,531 324,531 396,529 467,529 539,527 611,527 682,525 754,525 826,526 898,525 969,526 1041,525 1113,527 1184,525 1256,527 1328,525 1399,525 1471,527 1543,525 1615,527 1615,473 1543,471 1471,473 1399,471 1328,471 1256,473 1184,471 1113,473 1041,471 969,472 898,471 826,472 754,471 682,471 611,473 539,473 467,475 396,475 324,477 252,477 181,475"/>
+                <Baseline points="181,511 252,513 324,513 396,511 467,511 539,509 611,509 682,507 754,507 826,508 898,507 969,508 1041,507 1113,509 1184,507 1256,509 1328,507 1399,507 1471,509 1543,507 1615,509"/>
+                <TextEquiv>
+                    <Unicode>Rimbaud veste un abiticcio di tela, di cotone. Il volto dimagrito, abbronzato, nero, come le magre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="175,613 247,611 319,611 391,611 463,608 535,609 607,608 679,607 751,605 823,604 896,605 968,603 1040,603 1112,605 1184,604 1256,603 1328,602 1400,602 1472,601 1544,602 1617,599 1617,545 1544,548 1472,547 1400,548 1328,548 1256,549 1184,550 1112,551 1040,549 968,549 896,551 823,550 751,551 679,553 607,554 535,555 463,554 391,557 319,557 247,557 175,559"/>
+                <Baseline points="175,595 247,593 319,593 391,593 463,590 535,591 607,590 679,589 751,587 823,586 896,587 968,585 1040,585 1112,587 1184,586 1256,585 1328,584 1400,584 1472,583 1544,584 1617,581"/>
+                <TextEquiv>
+                    <Unicode>mani. Mani usate, si vede, a mestieri “ignobili". Nel torrente, è un poco d’acqua. Rimbaud poggia i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="177,694 249,687 321,684 393,682 465,683 537,682 609,682 681,680 753,680 825,678 897,678 969,676 1041,676 1113,676 1185,675 1257,676 1329,678 1401,676 1473,678 1545,679 1617,680 1617,628 1545,627 1473,626 1401,624 1329,626 1257,624 1185,623 1113,624 1041,624 969,624 897,626 825,626 753,628 681,628 609,630 537,630 465,631 393,630 321,632 249,635 177,642"/>
+                <Baseline points="177,677 249,670 321,667 393,665 465,666 537,665 609,665 681,663 753,663 825,661 897,661 969,659 1041,659 1113,659 1185,658 1257,659 1329,661 1401,659 1473,661 1545,662 1617,663"/>
+                <TextEquiv>
+                    <Unicode>piedi sui sassi della riva. Sassi, come lava spenta. Dietro le spalle, cespugli di spini. Un paesag-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="181,764 253,762 325,759 397,758 470,758 542,758 614,756 687,757 759,756 831,755 904,754 976,755 1048,753 1120,752 1193,753 1265,752 1337,753 1410,750 1482,750 1554,754 1627,758 1627,706 1554,702 1482,698 1410,698 1337,701 1265,700 1193,701 1120,700 1048,701 976,703 904,702 831,703 759,704 687,705 614,704 542,706 470,706 397,706 325,707 253,710 181,712"/>
+                <Baseline points="181,747 253,745 325,742 397,741 470,741 542,741 614,739 687,740 759,739 831,738 904,737 976,738 1048,736 1120,735 1193,736 1265,735 1337,736 1410,733 1482,733 1554,737 1627,741"/>
+                <TextEquiv>
+                    <Unicode>gio di desolazione immensa; e un uomo vi è dentro. Si direbbe un galeotto, un evaso dal carcere. Questa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="175,841 247,839 319,839 391,837 463,835 535,833 607,835 679,835 751,833 823,833 895,833 967,832 1039,831 1111,831 1183,831 1255,831 1327,829 1399,829 1471,829 1543,830 1615,831 1615,777 1543,776 1471,775 1399,775 1327,775 1255,777 1183,777 1111,777 1039,777 967,778 895,779 823,779 751,779 679,781 607,781 535,779 463,781 391,783 319,785 247,785 175,787"/>
+                <Baseline points="175,823 247,821 319,821 391,819 463,817 535,815 607,817 679,817 751,815 823,815 895,815 967,814 1039,813 1111,813 1183,813 1255,813 1327,811 1399,811 1471,811 1543,812 1615,813"/>
+                <TextEquiv>
+                    <Unicode>lettera del maggio, è tra i documenti più commoventi, nella sua compostezza, della vita del tempo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="177,912 202,912 227,912 252,913 277,915 302,916 327,918 327,866 302,864 277,863 252,861 227,860 202,860 177,860"/>
+                <Baseline points="177,895 202,895 227,895 252,896 277,898 302,899 327,901"/>
+                <TextEquiv>
+                    <Unicode>africano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715359037579_1332" custom="readingOrder {index:6;} del {offset:54; length:8;rend:overstrike;}">
+                <Coords points="165,940 1135,929 1136,979 166,990"/>
+                <Baseline points="166,985 1136,974"/>
+                <TextEquiv>
+                    <Unicode>_ Isabella, dice, ha torto di non volersi sposare, se qualcuno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1081,946 1117,942 1153,942 1153,885 1117,885 1081,889"/>
+                <Baseline points="1081,927 1117,923 1153,923"/>
+                <TextEquiv>
+                    <Unicode>uno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715359044603_1337" custom="readingOrder {index:8;} del {offset:8; length:2;rend:overstrike;} gap {offset:8; length:0;quantity:2; unit:character; reason:illegible;}">
+                <Coords points="1153,921 1582,934 1581,984 1152,971"/>
+                <Baseline points="1152,966 1581,979"/>
+                <TextEquiv>
+                    <Unicode>serio e    istruito si presenta;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="173,1064 245,1064 317,1062 390,1062 462,1060 535,1061 607,1059 679,1060 752,1057 824,1056 897,1058 969,1058 1041,1058 1114,1058 1186,1058 1259,1057 1331,1057 1403,1058 1476,1057 1548,1058 1621,1056 1621,1005 1548,1007 1476,1006 1403,1007 1331,1006 1259,1006 1186,1007 1114,1007 1041,1007 969,1007 897,1007 824,1005 752,1006 679,1009 607,1008 535,1010 462,1009 390,1011 317,1011 245,1013 173,1013"/>
+                <Baseline points="173,1047 245,1047 317,1045 390,1045 462,1043 535,1044 607,1042 679,1043 752,1040 824,1039 897,1041 969,1041 1041,1041 1114,1041 1186,1041 1259,1040 1331,1040 1403,1041 1476,1040 1548,1041 1621,1039"/>
+                <TextEquiv>
+                    <Unicode>uno che abbia un avvenire. _ “La vie est comme cela, et la solitude est une mauvaise _ Isabella, dice, ha torto di non volersi sposare, se chose, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="155,1149 227,1147 299,1145 371,1141 444,1139 516,1139 588,1138 661,1137 733,1137 805,1136 878,1137 950,1138 1022,1136 1094,1135 1167,1135 1239,1135 1311,1135 1384,1133 1456,1133 1528,1133 1601,1135 1601,1080 1528,1078 1456,1078 1384,1078 1311,1080 1239,1080 1167,1080 1094,1080 1022,1081 950,1083 878,1082 805,1081 733,1082 661,1082 588,1083 516,1084 444,1084 371,1086 299,1090 227,1092 155,1094"/>
+                <Baseline points="155,1131 227,1129 299,1127 371,1123 444,1121 516,1121 588,1120 661,1119 733,1119 805,1118 878,1119 950,1120 1022,1118 1094,1117 1167,1117 1239,1117 1311,1117 1384,1115 1456,1115 1528,1115 1601,1117"/>
+                <TextEquiv>
+                    <Unicode>ici bas". E la solitudine è una triste cosa. “Pour moi, je regrette de ne pas être marié</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="153,1227 226,1222 300,1219 373,1218 447,1217 520,1217 594,1214 667,1215 741,1213 814,1215 888,1214 961,1213 1035,1211 1108,1212 1182,1211 1255,1209 1329,1209 1402,1209 1476,1211 1549,1212 1623,1217 1623,1162 1549,1157 1476,1156 1402,1154 1329,1154 1255,1154 1182,1156 1108,1157 1035,1156 961,1158 888,1159 814,1160 741,1158 667,1160 594,1159 520,1162 447,1162 373,1163 300,1164 226,1167 153,1172"/>
+                <Baseline points="153,1209 226,1204 300,1201 373,1200 447,1199 520,1199 594,1196 667,1197 741,1195 814,1197 888,1196 961,1195 1035,1193 1108,1194 1182,1193 1255,1191 1329,1191 1402,1191 1476,1193 1549,1194 1623,1199"/>
+                <TextEquiv>
+                    <Unicode>et avrir une famille. Mais, à presente, je suis condamné à errer, attaché à une entrepri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="159,1300 230,1296 302,1296 374,1294 446,1296 518,1294 589,1295 661,1294 733,1293 805,1292 877,1288 948,1286 1020,1284 1092,1284 1164,1284 1236,1282 1307,1282 1379,1282 1451,1282 1523,1282 1595,1282 1595,1230 1523,1230 1451,1230 1379,1230 1307,1230 1236,1230 1164,1232 1092,1232 1020,1232 948,1234 877,1236 805,1240 733,1241 661,1242 589,1243 518,1242 446,1244 374,1242 302,1244 230,1244 159,1248"/>
+                <Baseline points="159,1283 230,1279 302,1279 374,1277 446,1279 518,1277 589,1278 661,1277 733,1276 805,1275 877,1271 948,1269 1020,1267 1092,1267 1164,1267 1236,1265 1307,1265 1379,1265 1451,1265 1523,1265 1595,1265"/>
+                <TextEquiv>
+                    <Unicode>se lointaine, et, tous les jours, je perds le goût pour les climats et les manières de vivre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="169,1370 240,1370 312,1370 384,1368 456,1366 528,1368 600,1367 672,1366 744,1366 816,1365 888,1366 959,1364 1031,1364 1103,1362 1175,1359 1247,1358 1319,1358 1391,1358 1463,1358 1535,1360 1607,1356 1607,1304 1535,1308 1463,1306 1391,1306 1319,1306 1247,1306 1175,1307 1103,1310 1031,1312 959,1312 888,1314 816,1313 744,1314 672,1314 600,1315 528,1316 456,1314 384,1316 312,1318 240,1318 169,1318"/>
+                <Baseline points="169,1353 240,1353 312,1353 384,1351 456,1349 528,1351 600,1350 672,1349 744,1349 816,1348 888,1349 959,1347 1031,1347 1103,1345 1175,1342 1247,1341 1319,1341 1391,1341 1463,1341 1535,1343 1607,1339"/>
+                <TextEquiv>
+                    <Unicode>et même la langue de l'Europe". Sono condannato a errare; e ogni giorno perdo il gusto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="169,1452 241,1447 313,1446 385,1444 457,1442 529,1440 601,1441 673,1438 745,1442 817,1441 889,1440 961,1439 1033,1440 1105,1438 1177,1436 1249,1438 1321,1437 1393,1434 1465,1436 1537,1438 1640,1444 1640,1392 1537,1386 1465,1384 1393,1382 1321,1385 1249,1386 1177,1384 1105,1386 1033,1388 961,1387 889,1388 817,1389 745,1390 673,1386 601,1389 529,1388 457,1390 385,1392 313,1394 241,1395 169,1400"/>
+                <Baseline points="169,1435 241,1430 313,1429 385,1427 457,1425 529,1423 601,1424 673,1421 745,1425 817,1424 889,1423 961,1422 1033,1423 1105,1421 1177,1419 1249,1421 1321,1420 1393,1417 1465,1419 1537,1421 1635,1442"/>
+                <TextEquiv>
+                    <Unicode>per le maniere di vivere e la lingua d’Europa. È un tremendo lamento, che contiene una confes-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="145,1528 218,1527 292,1524 366,1524 439,1522 513,1522 587,1520 660,1518 734,1520 808,1514 882,1516 955,1514 1029,1513 1103,1512 1176,1510 1250,1509 1324,1510 1397,1510 1471,1510 1545,1512 1619,1514 1619,1462 1545,1460 1471,1458 1397,1458 1324,1458 1250,1457 1176,1458 1103,1460 1029,1461 955,1462 882,1464 808,1462 734,1468 660,1466 587,1468 513,1470 439,1470 366,1472 292,1472 218,1475 145,1476"/>
+                <Baseline points="145,1511 218,1510 292,1507 366,1507 439,1505 513,1505 587,1503 660,1501 734,1503 808,1497 882,1499 955,1497 1029,1496 1103,1495 1176,1493 1250,1492 1324,1493 1397,1493 1471,1493 1545,1495 1619,1497"/>
+                <TextEquiv>
+                    <Unicode>sione e una condanna per qualcuno. "Aimé! _ continua Rimbaud, e a cosa servono queste par-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="176,1599 246,1601 316,1598 387,1597 457,1596 527,1594 598,1593 668,1593 738,1594 809,1595 879,1593 949,1591 1020,1591 1090,1592 1160,1593 1231,1591 1301,1589 1371,1591 1442,1591 1512,1592 1583,1591 1583,1537 1512,1538 1442,1537 1371,1537 1301,1535 1231,1537 1160,1539 1090,1538 1020,1537 949,1537 879,1539 809,1541 738,1540 668,1539 598,1539 527,1540 457,1542 387,1543 316,1544 246,1547 176,1545"/>
+                <Baseline points="176,1581 246,1583 316,1580 387,1579 457,1578 527,1576 598,1575 668,1575 738,1576 809,1577 879,1575 949,1573 1020,1573 1090,1574 1160,1575 1231,1573 1301,1571 1371,1573 1442,1573 1512,1574 1583,1573"/>
+                <TextEquiv>
+                    <Unicode>tenze e questi ritorni, e queste fatiche e queste avventure presso razze straniere, e queste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="179,1675 248,1675 318,1676 387,1675 457,1675 526,1673 596,1671 665,1671 735,1669 804,1670 874,1669 943,1669 1013,1668 1082,1667 1152,1667 1221,1667 1291,1666 1360,1665 1430,1665 1499,1665 1569,1665 1569,1611 1499,1611 1430,1611 1360,1611 1291,1612 1221,1613 1152,1613 1082,1613 1013,1614 943,1615 874,1615 804,1616 735,1615 665,1617 596,1617 526,1619 457,1621 387,1621 318,1622 248,1621 179,1621"/>
+                <Baseline points="179,1657 248,1657 318,1658 387,1657 457,1657 526,1655 596,1653 665,1653 735,1651 804,1652 874,1651 943,1651 1013,1650 1082,1649 1152,1649 1221,1649 1291,1648 1360,1647 1430,1647 1499,1647 1569,1647"/>
+                <TextEquiv>
+                    <Unicode>lingue di cui ci si riempie la memoria, e queste pene senza nome, se io non devo un giorno,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="181,1748 253,1750 325,1750 397,1748 469,1747 542,1744 614,1746 686,1744 758,1744 830,1744 903,1744 975,1744 1047,1744 1119,1742 1191,1743 1264,1740 1336,1741 1408,1738 1480,1740 1552,1740 1625,1746 1625,1694 1552,1688 1480,1688 1408,1686 1336,1689 1264,1688 1191,1691 1119,1690 1047,1692 975,1692 903,1692 830,1692 758,1692 686,1692 614,1694 542,1692 469,1695 397,1696 325,1698 253,1698 181,1696"/>
+                <Baseline points="181,1731 253,1733 325,1733 397,1731 469,1730 542,1727 614,1729 686,1727 758,1727 830,1727 903,1727 975,1727 1047,1727 1119,1725 1191,1726 1264,1723 1336,1724 1408,1721 1480,1723 1552,1723 1625,1729"/>
+                <TextEquiv>
+                    <Unicode>dopo tanti anni, potermi riposare in un luogo che un poco mi piaccia, e trovare una fami-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="181,1830 253,1826 325,1823 398,1822 470,1820 543,1820 615,1816 687,1818 760,1820 832,1818 905,1820 977,1819 1049,1818 1122,1818 1194,1817 1267,1816 1339,1816 1411,1815 1484,1815 1556,1818 1629,1820 1629,1769 1556,1767 1484,1764 1411,1764 1339,1765 1267,1765 1194,1766 1122,1767 1049,1767 977,1768 905,1769 832,1767 760,1769 687,1767 615,1765 543,1769 470,1769 398,1771 325,1772 253,1775 181,1779"/>
+                <Baseline points="181,1813 253,1809 325,1806 398,1805 470,1803 543,1803 615,1799 687,1801 760,1803 832,1801 905,1803 977,1802 1049,1801 1122,1801 1194,1800 1267,1799 1339,1799 1411,1798 1484,1798 1556,1801 1629,1803"/>
+                <TextEquiv>
+                    <Unicode>glia, e avere almeno un figlio che io possa per il resto della vita educare a mio modo..."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="181,1900 252,1898 324,1897 395,1896 467,1896 539,1896 610,1894 682,1895 753,1895 825,1894 897,1894 968,1892 1040,1890 1111,1892 1183,1892 1255,1890 1326,1892 1398,1892 1469,1893 1541,1892 1613,1894 1613,1843 1541,1841 1469,1842 1398,1841 1326,1841 1255,1839 1183,1841 1111,1841 1040,1839 968,1841 897,1843 825,1843 753,1844 682,1844 610,1843 539,1845 467,1845 395,1845 324,1846 252,1847 181,1849"/>
+                <Baseline points="181,1883 252,1881 324,1880 395,1879 467,1879 539,1879 610,1877 682,1878 753,1878 825,1877 897,1877 968,1875 1040,1873 1111,1875 1183,1875 1255,1873 1326,1875 1398,1875 1469,1876 1541,1875 1613,1877"/>
+                <TextEquiv>
+                    <Unicode>E verso la fine, la dolorosa conclusione: _ “Vous me parlez des nouvelles politiqus. Si vous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715358997656_1307" custom="readingOrder {index:21;}">
+                <Coords points="179,1925 1628,1919 1628,1969 179,1975"/>
+                <Baseline points="179,1970 1628,1964"/>
+                <TextEquiv>
+                    <Unicode>saviez comme ça m'est indifferent!... Comme les musulmans, je sais que ce qui ar-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715359002293_1312" custom="readingOrder {index:22;}">
+                <Coords points="181,2001 1632,1994 1632,2044 181,2051"/>
+                <Baseline points="181,2046 1632,2039"/>
+                <TextEquiv>
+                    <Unicode>rive arrive, et c’est toute". E questo è tutto. In quanto al sentimento di affetto, di tene-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rimbaud veste un abiticcio di tela, di cotone. Il volto dimagrito, abbronzato, nero, come le magre&#13;
+mani. Mani usate, si vede, a mestieri “ignobili". Nel torrente, è un poco d’acqua. Rimbaud poggia i&#13;
+piedi sui sassi della riva. Sassi, come lava spenta. Dietro le spalle, cespugli di spini. Un paesag-&#13;
+gio di desolazione immensa; e un uomo vi è dentro. Si direbbe un galeotto, un evaso dal carcere. Questa&#13;
+lettera del maggio, è tra i documenti più commoventi, nella sua compostezza, della vita del tempo&#13;
+africano.&#13;
+_ Isabella, dice, ha torto di non volersi sposare, se qualcuno&#13;
+uno&#13;
+serio e    istruito si presenta;&#13;
+uno che abbia un avvenire. _ “La vie est comme cela, et la solitude est une mauvaise _ Isabella, dice, ha torto di non volersi sposare, se chose, &#13;
+ici bas". E la solitudine è una triste cosa. “Pour moi, je regrette de ne pas être marié&#13;
+et avrir une famille. Mais, à presente, je suis condamné à errer, attaché à une entrepri-&#13;
+se lointaine, et, tous les jours, je perds le goût pour les climats et les manières de vivre&#13;
+et même la langue de l'Europe". Sono condannato a errare; e ogni giorno perdo il gusto&#13;
+per le maniere di vivere e la lingua d’Europa. È un tremendo lamento, che contiene una confes-&#13;
+sione e una condanna per qualcuno. "Aimé! _ continua Rimbaud, e a cosa servono queste par-&#13;
+tenze e questi ritorni, e queste fatiche e queste avventure presso razze straniere, e queste&#13;
+lingue di cui ci si riempie la memoria, e queste pene senza nome, se io non devo un giorno,&#13;
+dopo tanti anni, potermi riposare in un luogo che un poco mi piaccia, e trovare una fami-&#13;
+glia, e avere almeno un figlio che io possa per il resto della vita educare a mio modo..."&#13;
+E verso la fine, la dolorosa conclusione: _ “Vous me parlez des nouvelles politiqus. Si vous&#13;
+saviez comme ça m'est indifferent!... Comme les musulmans, je sais que ce qui ar-&#13;
+rive arrive, et c’est toute". E questo è tutto. In quanto al sentimento di affetto, di tene-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

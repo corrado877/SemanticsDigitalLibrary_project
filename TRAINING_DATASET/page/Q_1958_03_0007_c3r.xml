@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:16:22.607+01:00</Created>
+        <LastChange>2024-06-20T11:00:42.246+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325433" pageNr="6" tsid="175603472" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=KNWPIAREIZSKCKMXFAFOPIWN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JVKBUINSVHJTGAHOVNQTBBZS" imageId="53898446"/>
+    </Metadata>
+    <Page imageFilename="Q_1958_03_0007_c3r.jpg" imageWidth="1798" imageHeight="2531" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746058147" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1713724117253_93"/>
+                <RegionRefIndexed index="1" regionRef="region_1713636203846_106"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+                <RegionRefIndexed index="3" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1713724117253_93" custom="readingOrder {index:0;}">
+            <Coords points="115,282 1585,279 1585,2110 115,2113"/>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1713636203846_106" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="139,338 228,338 228,406 139,406"/>
+            <TextLine id="line_1713636342423_128" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:left;}">
+                <Coords points="151,343 215,343 212,388 153,387"/>
+                <Baseline points="153,377 212,378"/>
+                <TextEquiv>
+                    <Unicode>5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="129,481 129,1109 1589,1093 1581,482"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="163,572 233,573 304,570 374,572 445,572 515,571 586,572 656,572 727,572 797,572 868,573 938,572 1009,572 1079,572 1150,572 1220,572 1291,572 1361,572 1432,573 1502,574 1573,576 1573,525 1502,523 1432,522 1361,521 1291,521 1220,521 1150,521 1079,521 1009,521 938,521 868,522 797,521 727,521 656,521 586,521 515,520 445,521 374,521 304,519 233,522 163,521"/>
+                <Baseline points="163,555 233,556 304,553 374,555 445,555 515,554 586,555 656,555 727,555 797,555 868,556 938,555 1009,555 1079,555 1150,555 1220,555 1291,555 1361,555 1432,556 1502,557 1573,559"/>
+                <TextEquiv>
+                    <Unicode>case di borghesi e di signori, è l'introduzione e il complemento di un'altra moderna applicazio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="137,656 208,652 280,650 351,649 423,648 495,648 566,649 638,648 709,647 781,648 853,646 924,646 996,644 1067,646 1139,643 1211,642 1282,643 1354,644 1425,644 1497,645 1569,646 1569,595 1497,594 1425,593 1354,593 1282,592 1211,591 1139,592 1067,595 996,593 924,595 853,595 781,597 709,596 638,597 566,598 495,597 423,597 351,598 280,599 208,601 137,605"/>
+                <Baseline points="137,639 208,635 280,633 351,632 423,631 495,631 566,632 638,631 709,630 781,631 853,629 924,629 996,627 1067,629 1139,626 1211,625 1282,626 1354,627 1425,627 1497,628 1569,629"/>
+                <TextEquiv>
+                    <Unicode>ne di impiego e comodità domestica: il termosifone. Il muratore, il fabbro, il lattoniere, l'i-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="137,728 208,728 280,728 352,725 424,722 496,722 568,722 640,720 712,720 784,722 856,724 927,722 999,722 1071,722 1143,722 1215,722 1287,719 1359,718 1431,720 1503,721 1575,720 1575,669 1503,670 1431,669 1359,667 1287,668 1215,671 1143,671 1071,671 999,671 927,671 856,673 784,671 712,669 640,669 568,671 496,671 424,671 352,674 280,677 208,677 137,677"/>
+                <Baseline points="137,711 208,711 280,711 352,708 424,705 496,705 568,705 640,703 712,703 784,705 856,707 927,705 999,705 1071,705 1143,705 1215,705 1287,702 1359,701 1431,703 1503,704 1575,703"/>
+                <TextEquiv>
+                    <Unicode>draulico (l'antico trombaio del Granduca di Toscana), insieme a tanti altri, sono gli arti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="157,806 227,803 298,801 368,798 439,798 510,798 580,798 651,798 721,798 792,796 863,798 933,800 1004,800 1074,797 1145,796 1216,796 1286,797 1357,796 1427,796 1498,795 1569,798 1569,747 1498,744 1427,745 1357,745 1286,746 1216,745 1145,745 1074,746 1004,749 933,749 863,747 792,745 721,747 651,747 580,747 510,747 439,747 368,747 298,750 227,752 157,755"/>
+                <Baseline points="157,789 227,786 298,784 368,781 439,781 510,781 580,781 651,781 721,781 792,779 863,781 933,783 1004,783 1074,780 1145,779 1216,779 1286,780 1357,779 1427,779 1498,778 1569,781"/>
+                <TextEquiv>
+                    <Unicode>iani il cui lavoro, sempre nuovo e riinventato ogni giorno, si congiunge a dar vita al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="157,882 228,879 300,876 371,875 443,872 514,874 586,874 657,874 729,873 800,874 872,872 943,871 1015,874 1086,873 1158,872 1229,872 1301,871 1372,872 1444,874 1515,874 1587,876 1587,825 1515,823 1444,823 1372,821 1301,820 1229,821 1158,821 1086,822 1015,823 943,820 872,821 800,823 729,822 657,823 586,823 514,823 443,821 371,824 300,825 228,828 157,831"/>
+                <Baseline points="157,865 228,862 300,859 371,858 443,855 514,857 586,857 657,857 729,856 800,857 872,855 943,854 1015,857 1086,856 1158,855 1229,855 1301,854 1372,855 1444,857 1515,857 1587,859"/>
+                <TextEquiv>
+                    <Unicode>lavoro di colui che, sull'osservazione della pentola che scalda l'acqua, concepì di impiegare,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="159,953 228,949 297,948 366,945 435,943 505,944 574,943 643,941 712,942 781,942 851,941 920,941 989,939 1058,937 1127,939 1197,939 1266,939 1335,939 1404,937 1473,938 1543,937 1543,907 1473,908 1404,907 1335,909 1266,909 1197,909 1127,909 1058,907 989,909 920,911 851,911 781,912 712,912 643,911 574,913 505,914 435,913 366,915 297,918 228,919 159,923"/>
+                <Baseline points="159,943 228,939 297,938 366,935 435,933 505,934 574,933 643,931 712,932 781,932 851,931 920,931 989,929 1058,927 1127,929 1197,929 1266,929 1335,929 1404,927 1473,928 1543,927"/>
+                <TextEquiv>
+                    <Unicode>per il riscaldamento e il benessere dei cittadini, l'acqua, invece del fuoco, condotta e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;} del {offset:82; length:5;rend:overstrike;} gap {offset:82; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="145,1017 213,1019 281,1023 349,1019 418,1018 486,1017 554,1019 623,1018 691,1018 759,1019 828,1019 896,1019 964,1019 1032,1017 1101,1015 1169,1015 1237,1013 1306,1013 1374,1013 1442,1012 1569,1014 1569,984 1442,982 1374,983 1306,983 1237,983 1169,985 1101,985 1032,987 964,989 896,989 828,989 759,989 691,988 623,988 554,989 486,987 418,988 349,989 281,993 213,989 145,987"/>
+                <Baseline points="145,1007 213,1009 281,1013 349,1009 418,1008 486,1007 554,1009 623,1008 691,1008 759,1009 828,1009 896,1009 964,1009 1032,1007 1101,1005 1169,1005 1237,1003 1306,1003 1374,1003 1442,1002 1555,1008"/>
+                <TextEquiv>
+                    <Unicode>costretta a muoversi, dentro una rete di canali di ferro come il sangue dentro le      </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;} add {offset:0; length:7;place:above;}">
+                <Coords points="1457,977 1484,977 1512,979 1539,979 1567,981 1567,951 1539,949 1512,949 1484,947 1457,947"/>
+                <Baseline points="1457,967 1484,967 1512,969 1539,969 1567,971"/>
+                <TextEquiv>
+                    <Unicode>arterie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="137,1108 163,1106 190,1106 217,1104 244,1104 271,1104 298,1103 325,1103 352,1104 379,1104 406,1104 433,1104 433,1053 406,1053 379,1053 352,1053 325,1052 298,1052 271,1053 244,1053 217,1053 190,1055 163,1055 137,1057"/>
+                <Baseline points="137,1091 163,1089 190,1089 217,1087 244,1087 271,1087 298,1086 325,1086 352,1087 379,1087 406,1087 433,1087"/>
+                <TextEquiv>
+                    <Unicode>del Corpo umano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>case di borghesi e di signori, è l'introduzione e il complemento di un'altra moderna applicazio-&#13;
+ne di impiego e comodità domestica: il termosifone. Il muratore, il fabbro, il lattoniere, l'i-&#13;
+draulico (l'antico trombaio del Granduca di Toscana), insieme a tanti altri, sono gli arti-&#13;
+iani il cui lavoro, sempre nuovo e riinventato ogni giorno, si congiunge a dar vita al&#13;
+lavoro di colui che, sull'osservazione della pentola che scalda l'acqua, concepì di impiegare,&#13;
+per il riscaldamento e il benessere dei cittadini, l'acqua, invece del fuoco, condotta e&#13;
+costretta a muoversi, dentro una rete di canali di ferro come il sangue dentro le      &#13;
+arterie&#13;
+del Corpo umano.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="122,1125 1595,1125 1586,2094 122,2094"/>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:0;}">
+                <Coords points="151,1180 221,1178 292,1178 363,1176 434,1176 505,1178 576,1178 647,1177 718,1176 789,1176 860,1177 930,1176 1001,1176 1072,1178 1143,1178 1214,1176 1285,1178 1356,1176 1427,1175 1498,1175 1569,1176 1569,1125 1498,1124 1427,1124 1356,1125 1285,1127 1214,1125 1143,1127 1072,1127 1001,1125 930,1125 860,1126 789,1125 718,1125 647,1126 576,1127 505,1127 434,1125 363,1125 292,1127 221,1127 151,1129"/>
+                <Baseline points="151,1163 221,1161 292,1161 363,1159 434,1159 505,1161 576,1161 647,1160 718,1159 789,1159 860,1160 930,1159 1001,1159 1072,1161 1143,1161 1214,1159 1285,1161 1356,1159 1427,1158 1498,1158 1569,1159"/>
+                <TextEquiv>
+                    <Unicode>Noi possiamo guardare ai primi apparecchi e manufatti, in sostanza meccanici, di codesta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:1;}">
+                <Coords points="129,1260 201,1262 274,1261 347,1260 419,1258 492,1254 565,1252 637,1251 710,1250 783,1252 856,1252 928,1250 1001,1250 1074,1250 1146,1250 1219,1248 1292,1248 1364,1247 1437,1252 1510,1252 1583,1258 1583,1207 1510,1201 1437,1201 1364,1196 1292,1197 1219,1197 1146,1199 1074,1199 1001,1199 928,1199 856,1201 783,1201 710,1199 637,1200 565,1201 492,1203 419,1207 347,1209 274,1210 201,1211 129,1209"/>
+                <Baseline points="129,1243 201,1245 274,1244 347,1243 419,1241 492,1237 565,1235 637,1234 710,1233 783,1235 856,1235 928,1233 1001,1233 1074,1233 1146,1233 1219,1231 1292,1231 1364,1230 1437,1235 1510,1235 1583,1241"/>
+                <TextEquiv>
+                    <Unicode>tecnica e della professione ad essa legata, come si guardano le prime automobili, i primi fonogra-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:2;}">
+                <Coords points="165,1331 234,1331 304,1329 373,1328 443,1327 512,1323 582,1324 651,1325 721,1319 790,1320 860,1319 929,1319 999,1317 1068,1317 1138,1315 1207,1315 1277,1315 1346,1315 1416,1316 1485,1317 1555,1317 1555,1287 1485,1287 1416,1286 1346,1285 1277,1285 1207,1285 1138,1285 1068,1287 999,1287 929,1289 860,1289 790,1290 721,1289 651,1295 582,1294 512,1293 443,1297 373,1298 304,1299 234,1301 165,1301"/>
+                <Baseline points="165,1321 234,1321 304,1319 373,1318 443,1317 512,1313 582,1314 651,1315 721,1309 790,1310 860,1309 929,1309 999,1307 1068,1307 1138,1305 1207,1305 1277,1305 1346,1305 1416,1306 1485,1307 1555,1307"/>
+                <TextEquiv>
+                    <Unicode>fi, la lanterna magica del cinema, e le altre invenzioni divenute di uso comune sulla moderna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:3;}">
+                <Coords points="241,1365 272,1365 303,1365 303,1335 272,1335 241,1335"/>
+                <Baseline points="241,1355 272,1355 303,1355"/>
+                <TextEquiv>
+                    <Unicode>vita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:4;} del {offset:0; length:7;rend:overstrike;} gap {offset:0; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="133,1405 203,1407 274,1403 345,1401 416,1399 487,1400 557,1399 628,1400 699,1400 770,1397 841,1397 911,1395 982,1395 1053,1392 1124,1391 1195,1391 1265,1393 1336,1395 1407,1395 1478,1397 1549,1401 1560,1345 1478,1367 1407,1365 1336,1365 1265,1363 1195,1361 1124,1361 1053,1362 982,1365 911,1365 841,1367 770,1367 699,1370 628,1370 557,1369 487,1370 416,1369 345,1371 274,1373 203,1377 133,1375"/>
+                <Baseline points="133,1395 203,1397 274,1393 345,1391 416,1389 487,1390 557,1389 628,1390 699,1390 770,1387 841,1387 911,1385 982,1385 1053,1382 1124,1381 1195,1381 1265,1383 1336,1385 1407,1385 1478,1387 1549,1391"/>
+                <TextEquiv>
+                    <Unicode>        delle nazioni. Guardarle, con l'interesse retrospettivo del visitatore di un museo. I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:5;}">
+                <Coords points="135,1484 207,1482 280,1482 352,1482 425,1481 497,1483 570,1482 642,1484 715,1482 787,1482 860,1482 932,1481 1005,1479 1077,1476 1150,1476 1222,1474 1295,1475 1367,1475 1440,1476 1512,1480 1585,1482 1585,1431 1512,1429 1440,1425 1367,1424 1295,1424 1222,1423 1150,1425 1077,1425 1005,1428 932,1430 860,1431 787,1431 715,1431 642,1433 570,1431 497,1432 425,1430 352,1431 280,1431 207,1431 135,1433"/>
+                <Baseline points="135,1467 207,1465 280,1465 352,1465 425,1464 497,1466 570,1465 642,1467 715,1465 787,1465 860,1465 932,1464 1005,1462 1077,1459 1150,1459 1222,1457 1295,1458 1367,1458 1440,1459 1512,1463 1585,1465"/>
+                <TextEquiv>
+                    <Unicode>ritrovati, le primitive e rudimentali applicazioni in quella, come nelle altre tecniche dell'arte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:6;}">
+                <Coords points="121,1562 193,1558 266,1558 339,1556 412,1556 485,1555 557,1558 630,1558 703,1556 776,1554 849,1556 921,1556 994,1557 1067,1558 1140,1557 1213,1558 1285,1556 1358,1556 1431,1556 1504,1558 1577,1560 1577,1509 1504,1507 1431,1505 1358,1505 1285,1505 1213,1507 1140,1506 1067,1507 994,1506 921,1505 849,1505 776,1503 703,1505 630,1507 557,1507 485,1504 412,1505 339,1505 266,1507 193,1507 121,1511"/>
+                <Baseline points="121,1545 193,1541 266,1541 339,1539 412,1539 485,1538 557,1541 630,1541 703,1539 776,1537 849,1539 921,1539 994,1540 1067,1541 1140,1540 1213,1541 1285,1539 1358,1539 1431,1539 1504,1541 1577,1543"/>
+                <TextEquiv>
+                    <Unicode>meccanica, erano quelli che il tempo e il grado di civiltà della società comportano. Erano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:7;}">
+                <Coords points="137,1630 208,1631 280,1630 351,1634 423,1632 494,1632 566,1634 637,1634 709,1632 780,1631 852,1630 923,1630 995,1629 1066,1630 1138,1630 1209,1629 1281,1632 1352,1631 1424,1630 1495,1632 1567,1634 1567,1583 1495,1581 1424,1579 1352,1580 1281,1581 1209,1578 1138,1579 1066,1579 995,1578 923,1579 852,1579 780,1580 709,1581 637,1583 566,1583 494,1581 423,1581 351,1583 280,1579 208,1580 137,1579"/>
+                <Baseline points="137,1613 208,1614 280,1613 351,1617 423,1615 494,1615 566,1617 637,1617 709,1615 780,1614 852,1613 923,1613 995,1612 1066,1613 1138,1613 1209,1612 1281,1615 1352,1614 1424,1613 1495,1615 1567,1617"/>
+                <TextEquiv>
+                    <Unicode>l'espressione del progresso civile, cioè nell'ordine economico e in quello morale, di uomini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:8;}">
+                <Coords points="139,1710 209,1710 279,1707 349,1708 420,1709 490,1710 560,1712 631,1712 701,1713 771,1714 842,1714 912,1714 982,1712 1052,1710 1123,1710 1193,1710 1263,1709 1334,1708 1404,1708 1474,1706 1564,1707 1564,1656 1474,1655 1404,1657 1334,1657 1263,1658 1193,1659 1123,1659 1052,1659 982,1661 912,1663 842,1663 771,1663 701,1662 631,1661 560,1661 490,1659 420,1658 349,1657 279,1656 209,1659 139,1659"/>
+                <Baseline points="139,1693 209,1693 279,1690 349,1691 420,1692 490,1693 560,1695 631,1695 701,1696 771,1697 842,1697 912,1697 982,1695 1052,1693 1123,1693 1193,1693 1263,1692 1334,1691 1404,1691 1474,1689 1545,1693"/>
+                <TextEquiv>
+                    <Unicode>nel cui lavoro si riepilogavano le aspirazioni di un secolo, uscito dai più grandi rivolgi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:9;}">
+                <Coords points="131,1789 186,1789 236,1790 315,1787 393,1786 472,1784 551,1783 630,1782 708,1783 787,1784 866,1782 945,1785 1023,1786 1102,1782 1181,1782 1260,1782 1338,1781 1417,1782 1496,1782 1575,1786 1575,1735 1496,1731 1417,1731 1338,1730 1260,1731 1181,1731 1102,1731 1023,1735 945,1734 866,1731 787,1733 708,1732 630,1731 551,1732 472,1733 393,1735 315,1736 236,1739 185,1740 131,1738"/>
+                <Baseline points="145,1774 236,1773 315,1770 393,1769 472,1767 551,1766 630,1765 708,1766 787,1767 866,1765 945,1768 1023,1769 1102,1765 1181,1765 1260,1765 1338,1764 1417,1765 1496,1765 1575,1769"/>
+                <TextEquiv>
+                    <Unicode>menti politici della storia. Col bisogno di raggiungere un benessere terreno, l'uomo chiedeva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:10;}">
+                <Coords points="128,1864 198,1864 238,1862 315,1860 393,1859 470,1858 547,1857 624,1856 701,1856 779,1858 856,1859 933,1858 1010,1856 1087,1856 1165,1854 1242,1857 1319,1856 1396,1858 1473,1860 1551,1864 1551,1813 1473,1809 1396,1807 1319,1805 1242,1806 1165,1803 1087,1805 1010,1805 933,1807 856,1808 779,1807 701,1805 624,1805 547,1806 470,1807 393,1808 315,1809 238,1811 194,1811 128,1813"/>
+                <Baseline points="141,1850 238,1845 315,1843 393,1842 470,1841 547,1840 624,1839 701,1839 779,1841 856,1842 933,1841 1010,1839 1087,1839 1165,1837 1242,1840 1319,1839 1396,1841 1473,1843 1551,1847"/>
+                <TextEquiv>
+                    <Unicode>di procurarselo in una condizione umana di dignità. L'Ottocento fu modesto e ottimista,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:11;} foreign {offset:74; length:13;lang:french;}">
+                <Coords points="131,1942 203,1940 275,1940 347,1938 420,1936 492,1934 564,1934 637,1934 709,1934 781,1934 854,1934 926,1934 998,1934 1070,1934 1143,1932 1215,1932 1287,1932 1360,1932 1432,1932 1504,1934 1577,1940 1577,1889 1504,1883 1432,1881 1360,1881 1287,1881 1215,1881 1143,1881 1070,1883 998,1883 926,1883 854,1883 781,1883 709,1883 637,1883 564,1883 492,1883 420,1885 347,1887 275,1889 203,1889 131,1891"/>
+                <Baseline points="131,1925 203,1923 275,1923 347,1921 420,1919 492,1917 564,1917 637,1917 709,1917 781,1917 854,1917 926,1917 998,1917 1070,1917 1143,1915 1215,1915 1287,1915 1360,1915 1432,1915 1504,1917 1577,1923"/>
+                <TextEquiv>
+                    <Unicode>dopo la dissipazione rivoluzionaria e poi militare con cui si chiudeva l'"ancien régime". Gli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:12;}">
+                <Coords points="137,2019 209,2015 282,2012 354,2009 427,2011 499,2010 572,2009 644,2011 717,2011 789,2009 862,2007 934,2009 1007,2010 1079,2009 1152,2010 1224,2011 1297,2011 1369,2010 1442,2011 1514,2012 1587,2015 1587,1967 1514,1964 1442,1963 1369,1962 1297,1963 1224,1963 1152,1962 1079,1961 1007,1962 934,1961 862,1959 789,1961 717,1963 644,1963 572,1961 499,1962 427,1963 354,1961 282,1964 209,1967 137,1971"/>
+                <Baseline points="137,2003 209,1999 282,1996 354,1993 427,1995 499,1994 572,1993 644,1995 717,1995 789,1993 862,1991 934,1993 1007,1994 1079,1993 1152,1994 1224,1995 1297,1995 1369,1994 1442,1995 1514,1996 1587,1999"/>
+                <TextEquiv>
+                    <Unicode>uomini lavoravano, inventando, ricavando gli strumenti del lavoro dalle proprie ma-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:13;}">
+                <Coords points="135,2085 205,2087 276,2086 347,2087 417,2087 488,2089 559,2089 629,2089 700,2089 771,2089 842,2086 912,2085 983,2085 1054,2085 1124,2085 1195,2086 1266,2085 1336,2083 1407,2085 1478,2085 1549,2085 1549,2037 1478,2037 1407,2037 1336,2035 1266,2037 1195,2038 1124,2037 1054,2037 983,2037 912,2037 842,2038 771,2041 700,2041 629,2041 559,2041 488,2041 417,2039 347,2039 276,2038 205,2039 135,2037"/>
+                <Baseline points="135,2069 205,2071 276,2070 347,2071 417,2071 488,2073 559,2073 629,2073 700,2073 771,2073 842,2070 912,2069 983,2069 1054,2069 1124,2069 1195,2070 1266,2069 1336,2067 1407,2069 1478,2069 1549,2069"/>
+                <TextEquiv>
+                    <Unicode>ni. Gli attrezzi che si crearono, da un blocco di ferro, non erano che la continuazione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Noi possiamo guardare ai primi apparecchi e manufatti, in sostanza meccanici, di codesta&#13;
+tecnica e della professione ad essa legata, come si guardano le prime automobili, i primi fonogra-&#13;
+fi, la lanterna magica del cinema, e le altre invenzioni divenute di uso comune sulla moderna&#13;
+vita&#13;
+        delle nazioni. Guardarle, con l'interesse retrospettivo del visitatore di un museo. I&#13;
+ritrovati, le primitive e rudimentali applicazioni in quella, come nelle altre tecniche dell'arte&#13;
+meccanica, erano quelli che il tempo e il grado di civiltà della società comportano. Erano&#13;
+l'espressione del progresso civile, cioè nell'ordine economico e in quello morale, di uomini&#13;
+nel cui lavoro si riepilogavano le aspirazioni di un secolo, uscito dai più grandi rivolgi-&#13;
+menti politici della storia. Col bisogno di raggiungere un benessere terreno, l'uomo chiedeva&#13;
+di procurarselo in una condizione umana di dignità. L'Ottocento fu modesto e ottimista,&#13;
+dopo la dissipazione rivoluzionaria e poi militare con cui si chiudeva l'"ancien régime". Gli&#13;
+uomini lavoravano, inventando, ricavando gli strumenti del lavoro dalle proprie ma-&#13;
+ni. Gli attrezzi che si crearono, da un blocco di ferro, non erano che la continuazione</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

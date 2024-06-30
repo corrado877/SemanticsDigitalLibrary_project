@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:49:01.296+02:00</Created>
+        <LastChange>2024-06-20T10:48:12.261+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326078" pageNr="136" tsid="175603631" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=NGLYNFMDLNBOWLSTJXCHTVWH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IFKVLCMRLNEHKEXVOWPVAPTC" imageId="54317612"/>
+    </Metadata>
+    <Page imageFilename="Q_10_1955_0014_c6v.jpg" imageWidth="1798" imageHeight="2324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746084382" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="157,382 166,2039 1636,2039 1627,382"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="246,529 315,527 384,527 453,526 523,525 592,524 661,520 731,519 800,518 869,517 939,515 1008,513 1077,513 1146,513 1216,511 1285,512 1354,511 1424,511 1493,510 1562,508 1632,505 1632,453 1562,456 1493,458 1424,459 1354,459 1285,460 1216,459 1146,461 1077,461 1008,461 939,463 869,465 800,466 731,467 661,468 592,472 523,473 453,474 384,475 315,475 246,477"/>
+                <Baseline points="246,512 315,510 384,510 453,509 523,508 592,507 661,503 731,502 800,501 869,500 939,498 1008,496 1077,496 1146,496 1216,494 1285,495 1354,494 1424,494 1493,493 1562,491 1632,488"/>
+                <TextEquiv>
+                    <Unicode>La spinta poetica, a comporre cioè poeticamente la storia di un sentimento,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;} hi {offset:60; length:18;rend:underline;}">
+                <Coords points="178,605 250,599 323,597 396,597 468,597 541,597 614,597 686,596 759,597 832,593 905,593 977,591 1050,591 1123,587 1195,587 1268,585 1341,585 1413,585 1486,583 1559,582 1632,581 1632,529 1559,530 1486,531 1413,533 1341,533 1268,533 1195,535 1123,535 1050,539 977,539 905,541 832,541 759,545 686,544 614,545 541,545 468,545 396,545 323,545 250,547 178,553"/>
+                <Baseline points="178,588 250,582 323,580 396,580 468,580 541,580 614,580 686,579 759,580 832,576 905,576 977,574 1050,574 1123,570 1195,570 1268,568 1341,568 1413,568 1486,566 1559,565 1632,564"/>
+                <TextEquiv>
+                    <Unicode>cerca subito di esternarsi in una materia ferma e visibile, intorno alla quale l'au-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="166,681 236,677 307,673 378,673 449,671 520,671 591,673 662,673 733,673 804,673 875,672 945,670 1016,667 1087,666 1158,663 1229,661 1300,661 1371,661 1442,660 1513,659 1584,659 1584,607 1513,607 1442,608 1371,609 1300,609 1229,609 1158,611 1087,614 1016,615 945,618 875,620 804,621 733,621 662,621 591,621 520,619 449,619 378,621 307,621 236,625 166,629"/>
+                <Baseline points="166,664 236,660 307,656 378,656 449,654 520,654 591,656 662,656 733,656 804,656 875,655 945,653 1016,650 1087,649 1158,646 1229,644 1300,644 1371,644 1442,643 1513,642 1584,642"/>
+                <TextEquiv>
+                    <Unicode>tore vuol lavorare con una insistenza che sente lo strumento, ne conserva i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="170,757 243,753 316,751 389,749 462,749 536,747 609,747 682,746 755,746 828,745 902,744 975,747 1048,742 1121,741 1194,738 1268,737 1341,737 1414,734 1487,735 1560,736 1634,733 1634,681 1560,684 1487,683 1414,682 1341,685 1268,685 1194,686 1121,689 1048,690 975,695 902,692 828,693 755,694 682,694 609,695 536,695 462,697 389,697 316,699 243,701 170,705"/>
+                <Baseline points="170,740 243,736 316,734 389,732 462,732 536,730 609,730 682,729 755,729 828,728 902,727 975,730 1048,725 1121,724 1194,721 1268,720 1341,720 1414,717 1487,718 1560,719 1634,716"/>
+                <TextEquiv>
+                    <Unicode>segni sull'opera: come di scalpello, di punta di ferro, di trapano sul marmo, sulla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715596315003_926" custom="readingOrder {index:4;} hi {offset:8; length:38;rend:underline;} hi {offset:50; length:19;rend:underline;} hi {offset:73; length:7;rend:underline;}">
+                <Coords points="174,776 1621,759 1622,809 175,826"/>
+                <Baseline points="175,821 1622,804"/>
+                <TextEquiv>
+                    <Unicode>pietra. Rispondimi, se puoi, altro che "Nulla". / Maledetta tua culla, / che lu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;} hi {offset:0; length:26;rend:underline;} hi {offset:30; length:29;rend:underline;} hi {offset:62; length:16;rend:underline;}">
+                <Coords points="166,907 238,905 311,902 383,901 456,900 528,900 601,897 673,895 746,895 818,893 891,891 963,891 1036,891 1108,889 1181,889 1253,887 1326,886 1398,886 1471,887 1543,885 1616,885 1616,833 1543,833 1471,835 1398,834 1326,834 1253,835 1181,837 1108,837 1036,839 963,839 891,839 818,841 746,843 673,843 601,845 528,848 456,848 383,849 311,850 238,853 166,855"/>
+                <Baseline points="166,890 238,888 311,885 383,884 456,883 528,883 601,880 673,878 746,878 818,876 891,874 963,874 1036,874 1108,872 1181,872 1253,870 1326,869 1398,869 1471,870 1543,868 1616,868"/>
+                <TextEquiv>
+                    <Unicode>singò cotanti sonni invano; / maledetto lo tuo perduto pane,/ che non si perda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;} hi {offset:0; length:7;rend:underline;}">
+                <Coords points="166,981 237,980 309,979 381,979 453,979 525,975 596,972 668,973 740,971 812,970 884,965 955,967 1027,965 1099,963 1171,965 1243,963 1314,963 1386,963 1458,963 1530,961 1602,961 1602,909 1530,909 1458,911 1386,911 1314,911 1243,911 1171,913 1099,911 1027,913 955,915 884,913 812,918 740,919 668,921 596,920 525,923 453,927 381,927 309,927 237,928 166,929"/>
+                <Baseline points="166,964 237,963 309,962 381,962 453,962 525,958 596,955 668,956 740,954 812,953 884,948 955,950 1027,948 1099,946 1171,948 1243,946 1314,946 1386,946 1458,946 1530,944 1602,944"/>
+                <TextEquiv>
+                    <Unicode>al cane...) Qui è la stretta dell'operaio sullo strumento di lavoro. Senti come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="172,1061 243,1059 315,1059 387,1056 459,1054 531,1053 602,1051 674,1049 746,1046 818,1045 890,1041 961,1041 1033,1039 1105,1039 1177,1039 1249,1039 1320,1039 1392,1039 1464,1037 1536,1037 1608,1035 1608,984 1536,986 1464,986 1392,988 1320,988 1249,988 1177,988 1105,988 1033,988 961,990 890,990 818,994 746,995 674,998 602,1000 531,1002 459,1003 387,1005 315,1008 243,1008 172,1010"/>
+                <Baseline points="172,1044 243,1042 315,1042 387,1039 459,1037 531,1036 602,1034 674,1032 746,1029 818,1028 890,1024 961,1024 1033,1022 1105,1022 1177,1022 1249,1022 1320,1022 1392,1022 1464,1020 1536,1020 1608,1018"/>
+                <TextEquiv>
+                    <Unicode>lo stringi, e sforza su di lui. Ancora è l'ago del trapano che sfrigola, volando via</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="172,1137 243,1135 314,1133 386,1130 457,1127 529,1123 600,1121 671,1121 743,1119 814,1119 886,1119 957,1120 1028,1117 1100,1117 1171,1118 1243,1119 1314,1116 1385,1115 1457,1113 1528,1112 1624,1111 1624,1060 1528,1061 1457,1062 1385,1064 1314,1065 1243,1068 1171,1067 1100,1066 1028,1066 957,1069 886,1068 814,1068 743,1068 671,1070 600,1070 529,1072 457,1076 386,1079 314,1082 243,1084 172,1086"/>
+                <Baseline points="172,1120 243,1118 314,1116 386,1113 457,1110 529,1106 600,1104 671,1104 743,1102 814,1102 886,1102 957,1103 1028,1100 1100,1100 1171,1101 1243,1102 1314,1099 1385,1098 1457,1096 1528,1095 1618,1106"/>
+                <TextEquiv>
+                    <Unicode>la pietra come polvere. Intanto si delinea un disegno, un bordo, una frangia, lieve,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="176,1209 247,1207 319,1202 391,1201 463,1200 535,1199 607,1199 679,1197 751,1197 823,1196 895,1197 966,1195 1038,1195 1110,1195 1182,1191 1254,1187 1326,1189 1398,1187 1470,1188 1542,1186 1614,1185 1614,1134 1542,1135 1470,1137 1398,1136 1326,1138 1254,1136 1182,1140 1110,1144 1038,1144 966,1144 895,1146 823,1145 751,1146 679,1146 607,1148 535,1148 463,1149 391,1150 319,1151 247,1156 176,1158"/>
+                <Baseline points="176,1192 247,1190 319,1185 391,1184 463,1183 535,1182 607,1182 679,1180 751,1180 823,1179 895,1180 966,1178 1038,1178 1110,1178 1182,1174 1254,1170 1326,1172 1398,1170 1470,1171 1542,1169 1614,1168"/>
+                <TextEquiv>
+                    <Unicode>mossa, attraversata da un filo di vento./ Le figure di Giovanni Pisano nella fontana di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:10;}">
+                <Coords points="178,1279 250,1281 322,1281 394,1281 467,1280 539,1277 611,1275 684,1277 756,1277 828,1277 901,1275 973,1275 1045,1273 1117,1271 1190,1268 1262,1267 1334,1266 1407,1265 1479,1265 1551,1264 1624,1265 1624,1213 1551,1212 1479,1213 1407,1213 1334,1214 1262,1215 1190,1216 1117,1219 1045,1221 973,1223 901,1223 828,1225 756,1225 684,1225 611,1223 539,1225 467,1228 394,1229 322,1229 250,1229 178,1227"/>
+                <Baseline points="178,1262 250,1264 322,1264 394,1264 467,1263 539,1260 611,1258 684,1260 756,1260 828,1260 901,1258 973,1258 1045,1256 1117,1254 1190,1251 1262,1250 1334,1249 1407,1248 1479,1248 1551,1247 1624,1248"/>
+                <TextEquiv>
+                    <Unicode>Perugia) Egli vuol dare corpo ai sentimenti; e li veste subito di carne, di sostan-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:11;}">
+                <Coords points="188,1363 258,1358 329,1357 399,1357 470,1355 540,1353 611,1353 681,1351 752,1351 822,1351 893,1351 963,1349 1034,1349 1104,1348 1175,1343 1245,1343 1316,1341 1386,1343 1457,1342 1527,1343 1598,1345 1598,1293 1527,1291 1457,1290 1386,1291 1316,1289 1245,1291 1175,1291 1104,1296 1034,1297 963,1297 893,1299 822,1299 752,1299 681,1299 611,1301 540,1301 470,1303 399,1305 329,1305 258,1306 188,1311"/>
+                <Baseline points="188,1346 258,1341 329,1340 399,1340 470,1338 540,1336 611,1336 681,1334 752,1334 822,1334 893,1334 963,1332 1034,1332 1104,1331 1175,1326 1245,1326 1316,1324 1386,1326 1457,1325 1527,1326 1598,1328"/>
+                <TextEquiv>
+                    <Unicode>za umana. Li vede muovere, agire. E' in questo rappresentare l'azione di un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:12;}">
+                <Coords points="192,1437 264,1435 336,1435 408,1431 480,1431 553,1429 625,1431 697,1431 769,1429 841,1429 914,1427 986,1425 1058,1423 1130,1423 1202,1422 1275,1419 1347,1420 1419,1417 1491,1419 1563,1420 1636,1425 1636,1373 1563,1368 1491,1367 1419,1365 1347,1368 1275,1367 1202,1370 1130,1371 1058,1371 986,1373 914,1375 841,1377 769,1377 697,1379 625,1379 553,1377 480,1379 408,1379 336,1383 264,1383 192,1385"/>
+                <Baseline points="192,1420 264,1418 336,1418 408,1414 480,1414 553,1412 625,1414 697,1414 769,1412 841,1412 914,1410 986,1408 1058,1406 1130,1406 1202,1405 1275,1402 1347,1403 1419,1400 1491,1402 1563,1403 1636,1408"/>
+                <TextEquiv>
+                    <Unicode>sentimento che si palesa una sua qualità figurativa. Il dolore, l'amicizia: han-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:13;}">
+                <Coords points="182,1513 252,1515 323,1512 394,1509 464,1509 535,1507 606,1505 676,1503 747,1504 818,1501 889,1502 959,1501 1030,1497 1101,1498 1171,1495 1242,1495 1313,1495 1383,1493 1454,1493 1525,1492 1596,1493 1596,1441 1525,1440 1454,1441 1383,1441 1313,1443 1242,1443 1171,1443 1101,1446 1030,1445 959,1449 889,1450 818,1449 747,1452 676,1451 606,1453 535,1455 464,1457 394,1457 323,1460 252,1463 182,1461"/>
+                <Baseline points="182,1496 252,1498 323,1495 394,1492 464,1492 535,1490 606,1488 676,1486 747,1487 818,1484 889,1485 959,1484 1030,1480 1101,1481 1171,1478 1242,1478 1313,1478 1383,1476 1454,1476 1525,1475 1596,1476"/>
+                <TextEquiv>
+                    <Unicode>no un viso, e un corpo. Questa concezione figurativa e fortemente simbolica è</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:14;}">
+                <Coords points="186,1589 258,1587 331,1584 403,1583 476,1580 548,1579 621,1579 693,1577 766,1577 838,1576 911,1575 983,1575 1056,1572 1128,1571 1201,1571 1273,1571 1346,1569 1418,1569 1491,1571 1563,1570 1636,1573 1636,1521 1563,1518 1491,1519 1418,1517 1346,1517 1273,1519 1201,1519 1128,1519 1056,1520 983,1523 911,1523 838,1524 766,1525 693,1525 621,1527 548,1527 476,1528 403,1531 331,1532 258,1535 186,1537"/>
+                <Baseline points="186,1572 258,1570 331,1567 403,1566 476,1563 548,1562 621,1562 693,1560 766,1560 838,1559 911,1558 983,1558 1056,1555 1128,1554 1201,1554 1273,1554 1346,1552 1418,1552 1491,1554 1563,1553 1636,1556"/>
+                <TextEquiv>
+                    <Unicode>ancora l'espressione della mente gotica di Dante, in cui sentimenti e sensazioni,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:15;}">
+                <Coords points="186,1661 258,1660 330,1660 402,1659 474,1657 546,1655 618,1655 690,1656 762,1657 834,1656 907,1653 979,1653 1051,1651 1123,1651 1195,1650 1267,1649 1339,1649 1411,1649 1483,1647 1555,1648 1628,1649 1628,1597 1555,1596 1483,1595 1411,1597 1339,1597 1267,1597 1195,1598 1123,1599 1051,1599 979,1601 907,1601 834,1604 762,1605 690,1604 618,1603 546,1603 474,1605 402,1607 330,1608 258,1608 186,1609"/>
+                <Baseline points="186,1644 258,1643 330,1643 402,1642 474,1640 546,1638 618,1638 690,1639 762,1640 834,1639 907,1636 979,1636 1051,1634 1123,1634 1195,1633 1267,1632 1339,1632 1411,1632 1483,1630 1555,1631 1628,1632"/>
+                <TextEquiv>
+                    <Unicode>cioè la sostanza dell'incompreso, si configurano in atti, e azioni quasi tea-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:16;}">
+                <Coords points="194,1741 264,1739 334,1737 404,1737 474,1732 544,1731 614,1729 684,1729 754,1731 824,1729 894,1727 964,1725 1034,1727 1104,1725 1174,1727 1244,1726 1314,1725 1384,1723 1454,1723 1524,1723 1594,1723 1594,1672 1524,1672 1454,1672 1384,1672 1314,1674 1244,1675 1174,1676 1104,1674 1034,1676 964,1674 894,1676 824,1678 754,1680 684,1678 614,1678 544,1680 474,1681 404,1686 334,1686 264,1688 194,1690"/>
+                <Baseline points="194,1724 264,1722 334,1720 404,1720 474,1715 544,1714 614,1712 684,1712 754,1714 824,1712 894,1710 964,1708 1034,1710 1104,1708 1174,1710 1244,1709 1314,1708 1384,1706 1454,1706 1524,1706 1594,1706"/>
+                <TextEquiv>
+                    <Unicode>trali, di una drammaticità tanto improvvisa quanto rozza e medievale.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:17;} hi {offset:2; length:34;rend:underline;}">
+                <Coords points="297,1805 397,1806 434,1807 472,1807 509,1807 547,1806 584,1806 621,1805 659,1805 696,1805 734,1805 771,1803 808,1803 846,1803 883,1802 921,1801 958,1801 995,1801 1033,1801 1070,1801 1129,1802 1129,1751 1070,1750 1033,1750 995,1750 958,1750 921,1750 883,1751 846,1752 808,1752 771,1752 734,1754 696,1754 659,1754 621,1754 584,1755 547,1755 509,1756 472,1756 434,1756 397,1755 297,1754"/>
+                <Baseline points="315,1793 397,1789 434,1790 472,1790 509,1790 547,1789 584,1789 621,1788 659,1788 696,1788 734,1788 771,1786 808,1786 846,1786 883,1785 921,1784 958,1784 995,1784 1033,1784 1070,1784 1123,1788"/>
+                <TextEquiv>
+                    <Unicode>("Allor mi surgon nella mente strida",</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:18;}">
+                <Coords points="194,1893 265,1888 337,1886 409,1883 481,1883 553,1883 625,1881 697,1879 769,1879 841,1877 913,1877 984,1876 1056,1875 1128,1875 1200,1875 1272,1875 1344,1874 1416,1871 1488,1871 1560,1870 1632,1873 1632,1821 1560,1818 1488,1819 1416,1819 1344,1822 1272,1823 1200,1823 1128,1823 1056,1823 984,1824 913,1825 841,1825 769,1827 697,1827 625,1829 553,1831 481,1831 409,1831 337,1834 265,1836 194,1841"/>
+                <Baseline points="194,1876 265,1871 337,1869 409,1866 481,1866 553,1866 625,1864 697,1862 769,1862 841,1860 913,1860 984,1859 1056,1858 1128,1858 1200,1858 1272,1858 1344,1857 1416,1854 1488,1854 1560,1853 1632,1856"/>
+                <TextEquiv>
+                    <Unicode>che, se non fosse d'un contenuto lirismo classico, quasi come un verso di Seneca,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:19;}">
+                <Coords points="196,1965 266,1962 337,1960 408,1959 478,1956 549,1955 620,1956 690,1959 761,1955 832,1955 903,1953 973,1951 1044,1949 1115,1950 1185,1947 1256,1947 1327,1946 1397,1947 1468,1947 1539,1949 1610,1953 1610,1901 1539,1897 1468,1895 1397,1895 1327,1894 1256,1895 1185,1895 1115,1898 1044,1897 973,1899 903,1901 832,1903 761,1903 690,1907 620,1904 549,1903 478,1904 408,1907 337,1908 266,1910 196,1913"/>
+                <Baseline points="196,1948 266,1945 337,1943 408,1942 478,1939 549,1938 620,1939 690,1942 761,1938 832,1938 903,1936 973,1934 1044,1932 1115,1933 1185,1930 1256,1930 1327,1929 1397,1930 1468,1930 1539,1932 1610,1936"/>
+                <TextEquiv>
+                    <Unicode>di cui conserva la potenza scenica, sarebbe già l'anticipo della categoria dei&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:20;}">
+                <Coords points="196,2036 260,2037 325,2039 389,2036 454,2035 519,2035 583,2035 648,2035 712,2034 777,2031 842,2029 906,2028 971,2026 1035,2027 1100,2023 1164,2025 1229,2023 1294,2024 1358,2024 1423,2023 1488,2025 1488,1973 1423,1971 1358,1972 1294,1972 1229,1971 1164,1973 1100,1971 1035,1975 971,1974 906,1976 842,1977 777,1979 712,1982 648,1983 583,1983 519,1983 454,1983 389,1984 325,1987 260,1985 196,1984"/>
+                <Baseline points="196,2019 260,2020 325,2022 389,2019 454,2018 519,2018 583,2018 648,2018 712,2017 777,2014 842,2012 906,2011 971,2009 1035,2010 1100,2006 1164,2008 1229,2006 1294,2007 1358,2007 1423,2006 1488,2008"/>
+                <TextEquiv>
+                    <Unicode>sinistri e lugubri gridi che attraversano le tragedie di Shakespeare.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La spinta poetica, a comporre cioè poeticamente la storia di un sentimento,&#13;
+cerca subito di esternarsi in una materia ferma e visibile, intorno alla quale l'au-&#13;
+tore vuol lavorare con una insistenza che sente lo strumento, ne conserva i&#13;
+segni sull'opera: come di scalpello, di punta di ferro, di trapano sul marmo, sulla&#13;
+pietra. Rispondimi, se puoi, altro che "Nulla". / Maledetta tua culla, / che lu-&#13;
+singò cotanti sonni invano; / maledetto lo tuo perduto pane,/ che non si perda&#13;
+al cane...) Qui è la stretta dell'operaio sullo strumento di lavoro. Senti come&#13;
+lo stringi, e sforza su di lui. Ancora è l'ago del trapano che sfrigola, volando via&#13;
+la pietra come polvere. Intanto si delinea un disegno, un bordo, una frangia, lieve,&#13;
+mossa, attraversata da un filo di vento./ Le figure di Giovanni Pisano nella fontana di&#13;
+Perugia) Egli vuol dare corpo ai sentimenti; e li veste subito di carne, di sostan-&#13;
+za umana. Li vede muovere, agire. E' in questo rappresentare l'azione di un&#13;
+sentimento che si palesa una sua qualità figurativa. Il dolore, l'amicizia: han-&#13;
+no un viso, e un corpo. Questa concezione figurativa e fortemente simbolica è&#13;
+ancora l'espressione della mente gotica di Dante, in cui sentimenti e sensazioni,&#13;
+cioè la sostanza dell'incompreso, si configurano in atti, e azioni quasi tea-&#13;
+trali, di una drammaticità tanto improvvisa quanto rozza e medievale.&#13;
+("Allor mi surgon nella mente strida",&#13;
+che, se non fosse d'un contenuto lirismo classico, quasi come un verso di Seneca,&#13;
+di cui conserva la potenza scenica, sarebbe già l'anticipo della categoria dei&gt;&#13;
+sinistri e lugubri gridi che attraversano le tragedie di Shakespeare.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

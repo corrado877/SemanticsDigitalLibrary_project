@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:22:31.212+01:00</Created>
+        <LastChange>2024-06-20T12:07:11.412+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325996" pageNr="72" tsid="175603543" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=RTRJTXYMLILJHOMZPDRSAWEV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CGZCSHNWLJUYOEUHXEBWWGLK" imageId="53903865"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_08_0017_c8r.jpg" imageWidth="1798" imageHeight="2471" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746071198" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718268306226_1018"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718268306226_1018" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="152,272 152,322 200,322 200,272"/>
+            <TextLine id="line_1718268306324_1021" custom="readingOrder {index:0;}">
+                <Coords points="152,272 200,272 200,322 152,322"/>
+                <Baseline points="152,317 200,317"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="133,408 135,2005 1593,2004 1591,407"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="153,478 223,474 293,470 364,470 434,471 505,470 575,470 645,472 716,472 786,474 857,472 927,472 997,472 1068,471 1138,470 1209,468 1279,469 1349,466 1420,468 1490,465 1561,466 1561,415 1490,414 1420,417 1349,415 1279,418 1209,417 1138,419 1068,420 997,421 927,421 857,421 786,423 716,421 645,421 575,419 505,419 434,420 364,419 293,419 223,423 153,427"/>
+                <Baseline points="153,461 223,457 293,453 364,453 434,454 505,453 575,453 645,455 716,455 786,457 857,455 927,455 997,455 1068,454 1138,453 1209,451 1279,452 1349,449 1420,451 1490,448 1561,449"/>
+                <TextEquiv>
+                    <Unicode>sua vocazione nell'accingersi a segare religiosamente, per ore e giornate di seguito, un blocco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="153,550 224,550 295,550 366,550 438,549 509,544 580,548 652,546 723,546 794,545 866,544 937,542 1008,542 1079,542 1151,543 1222,541 1293,540 1365,541 1436,541 1507,542 1579,548 1579,497 1507,491 1436,490 1365,490 1293,489 1222,490 1151,492 1079,491 1008,491 937,491 866,493 794,494 723,495 652,495 580,497 509,493 438,498 366,499 295,499 224,499 153,499"/>
+                <Baseline points="153,533 224,533 295,533 366,533 438,532 509,527 580,531 652,529 723,529 794,528 866,527 937,525 1008,525 1079,525 1151,526 1222,524 1293,523 1365,524 1436,524 1507,525 1579,531"/>
+                <TextEquiv>
+                    <Unicode>di marmo, o un tronco, una trave di legno, che egli aveva trascelto fra mille. E, dopo  lunghi calco-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="151,627 222,627 293,625 364,625 435,625 506,622 577,621 648,620 719,620 790,617 861,619 932,619 1003,617 1074,618 1145,617 1216,619 1287,619 1358,619 1429,621 1500,617 1571,621 1571,573 1500,569 1429,573 1358,571 1287,571 1216,571 1145,569 1074,570 1003,569 932,571 861,571 790,569 719,572 648,572 577,573 506,574 435,577 364,577 293,577 222,579 151,579"/>
+                <Baseline points="151,611 222,611 293,609 364,609 435,609 506,606 577,605 648,604 719,604 790,601 861,603 932,603 1003,601 1074,602 1145,601 1216,603 1287,603 1358,603 1429,605 1500,601 1571,605"/>
+                <TextEquiv>
+                    <Unicode>li e misure e di segni mentali, della trave di legno ricavavo il piano per un sedile, pensato in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;} gap {offset:0; length:0;} hi {offset:16; length:11;rend:underline;}">
+                <Coords points="147,703 218,701 289,699 360,698 431,699 503,697 574,699 645,701 716,698 787,697 859,695 930,694 1001,693 1072,691 1143,690 1215,689 1286,687 1357,689 1428,687 1499,689 1571,691 1571,643 1499,641 1428,639 1357,641 1286,639 1215,641 1143,642 1072,643 1001,645 930,646 859,647 787,649 716,650 645,653 574,651 503,649 431,651 360,650 289,651 218,653 147,655"/>
+                <Baseline points="147,687 218,685 289,683 360,682 431,683 503,681 574,683 645,685 716,682 787,681 859,679 930,678 1001,677 1072,675 1143,674 1215,673 1286,671 1357,673 1428,671 1499,673 1571,675"/>
+                <TextEquiv>
+                    <Unicode>un certo modo e proporzione, e i due sostegni per il sedile. Il sedile, così ottenuto, finiva per conte-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="149,773 219,776 290,775 361,773 432,773 503,769 574,771 645,769 716,769 787,767 858,767 928,767 999,767 1070,767 1141,769 1212,767 1283,767 1354,765 1425,768 1496,767 1567,775 1567,726 1496,718 1425,719 1354,716 1283,718 1212,718 1141,720 1070,718 999,718 928,718 858,718 787,718 716,720 645,720 574,722 503,720 432,724 361,724 290,726 219,727 149,724"/>
+                <Baseline points="149,757 219,760 290,759 361,757 432,757 503,753 574,755 645,753 716,753 787,751 858,751 928,751 999,751 1070,751 1141,753 1212,751 1283,751 1354,749 1425,752 1496,751 1567,759"/>
+                <TextEquiv>
+                    <Unicode>nere ed esprimere un certo sentimento intellettuale di un tale individuo. A parte il sedile (che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="153,849 224,849 295,849 366,849 437,847 508,850 579,847 650,848 721,845 792,846 864,847 935,847 1006,845 1077,845 1148,845 1219,844 1290,845 1361,843 1432,841 1503,841 1575,851 1575,802 1503,792 1432,792 1361,794 1290,796 1219,795 1148,796 1077,796 1006,796 935,798 864,798 792,797 721,796 650,799 579,798 508,801 437,798 366,800 295,800 224,800 153,800"/>
+                <Baseline points="153,833 224,833 295,833 366,833 437,831 508,834 579,831 650,832 721,829 792,830 864,831 935,831 1006,829 1077,829 1148,829 1219,828 1290,829 1361,827 1432,825 1503,825 1575,835"/>
+                <TextEquiv>
+                    <Unicode>sta al Museo d'arte di Filadelfia), qui sul vestibolo veneziano, fra i giardini e la laguna; nel vestibolo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="159,923 230,925 301,923 372,924 443,921 514,925 585,921 656,925 727,921 798,920 870,919 941,919 1012,919 1083,917 1154,919 1225,922 1296,919 1367,919 1438,917 1509,915 1581,917 1581,868 1509,866 1438,868 1367,870 1296,870 1225,873 1154,870 1083,868 1012,870 941,870 870,870 798,871 727,872 656,876 585,872 514,876 443,872 372,875 301,874 230,876 159,874"/>
+                <Baseline points="159,907 230,909 301,907 372,908 443,905 514,909 585,905 656,909 727,905 798,904 870,903 941,903 1012,903 1083,901 1154,903 1225,906 1296,903 1367,903 1438,901 1509,899 1581,901"/>
+                <TextEquiv>
+                    <Unicode>dove, com'è naturale, la gente si ferma per depositare il cappello o la valigia, figuravano, in una luce</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="145,1008 216,1005 288,1002 360,1002 431,1001 503,1000 575,1000 646,998 718,998 790,997 862,998 933,996 1005,998 1077,999 1148,997 1220,996 1292,994 1363,994 1435,996 1507,994 1579,996 1579,945 1507,943 1435,945 1363,943 1292,943 1220,945 1148,946 1077,948 1005,947 933,945 862,947 790,946 718,947 646,947 575,949 503,949 431,950 360,951 288,951 216,954 145,957"/>
+                <Baseline points="145,991 216,988 288,985 360,985 431,984 503,983 575,983 646,981 718,981 790,980 862,981 933,979 1005,981 1077,982 1148,980 1220,979 1292,977 1363,977 1435,979 1507,977 1579,979"/>
+                <TextEquiv>
+                    <Unicode>serena e fittata, alcune opere di Brancusi. Tutti le avranno viste, e osservate secondo la disposizione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;} hi {offset:46; length:11;rend:underline;}">
+                <Coords points="155,1086 226,1082 297,1081 368,1079 439,1076 510,1074 581,1076 652,1074 723,1075 794,1076 866,1075 937,1075 1008,1074 1079,1073 1150,1072 1221,1072 1292,1072 1363,1072 1434,1072 1505,1073 1577,1078 1577,1027 1505,1022 1434,1021 1363,1021 1292,1021 1221,1021 1150,1021 1079,1022 1008,1023 937,1024 866,1024 794,1025 723,1024 652,1023 581,1025 510,1023 439,1025 368,1028 297,1030 226,1031 155,1035"/>
+                <Baseline points="155,1069 226,1065 297,1064 368,1062 439,1059 510,1057 581,1059 652,1057 723,1058 794,1059 866,1058 937,1058 1008,1057 1079,1056 1150,1055 1221,1055 1292,1055 1363,1055 1434,1055 1505,1056 1577,1061"/>
+                <TextEquiv>
+                    <Unicode>propria. Guardavom, nei cartellini, i titoli: La saggezza, una figura femminile, rannicchiata nella pie-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718271556970_1672" custom="readingOrder {index:9;} hi {offset:5; length:9;rend:underline;} hi {offset:85; length:16; continued:true;rend:underline;}">
+                <Coords points="142,1103 1576,1096 1576,1146 142,1153"/>
+                <Baseline points="142,1148 1576,1141"/>
+                <TextEquiv>
+                    <Unicode>tra. Cariatide, un motivo che si eleva nel legno, e si snoda quasi come corpo umano. Il Torso di fan-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718271541919_1654" custom="readingOrder {index:10;} hi {offset:0; length:6; continued:true;rend:underline;}">
+                <Coords points="147,1179 1591,1181 1591,1231 147,1229"/>
+                <Baseline points="147,1224 1591,1226"/>
+                <TextEquiv>
+                    <Unicode>ciulla, in onice, snodato e freddo, d'una sensualità apprensiva che, così mozzato, manifesta la sua carna-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718271545637_1659" custom="readingOrder {index:11;} hi {offset:94; length:11;rend:underline;}">
+                <Coords points="140,1251 1578,1245 1578,1295 140,1301"/>
+                <Baseline points="140,1296 1578,1290"/>
+                <TextEquiv>
+                    <Unicode>lità attraverso le lievi maculazioni, le venature scancellate di rosa nella pietra sensibile. Ritratto di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718271549475_1664" custom="readingOrder {index:12;} hi {offset:0; length:6;rend:underline;}">
+                <Coords points="149,1332 1587,1321 1587,1371 149,1382"/>
+                <Baseline points="149,1377 1587,1366"/>
+                <TextEquiv>
+                    <Unicode>Gingio: il capo del limbo fiorito nel sonno, le braccine, le spalle di bianca sostanza vegetale. Nes-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:13;} hi {offset:88; length:7; continued:true;rend:underline;}">
+                <Coords points="145,1457 215,1455 286,1452 357,1451 428,1449 499,1450 570,1449 641,1449 712,1448 783,1447 854,1446 924,1445 995,1445 1066,1446 1137,1445 1208,1443 1279,1443 1350,1443 1421,1445 1492,1443 1563,1445 1563,1415 1492,1413 1421,1415 1350,1413 1279,1413 1208,1413 1137,1415 1066,1416 995,1415 924,1415 854,1416 783,1417 712,1418 641,1419 570,1419 499,1420 428,1419 357,1421 286,1422 215,1425 145,1427"/>
+                <Baseline points="145,1447 215,1445 286,1442 357,1441 428,1439 499,1440 570,1439 641,1439 712,1438 783,1437 854,1436 924,1435 995,1435 1066,1436 1137,1435 1208,1433 1279,1433 1350,1433 1421,1435 1492,1433 1563,1435"/>
+                <TextEquiv>
+                    <Unicode>sun marmo sarà mai più tenero: prassitelico, cereo, intriso di luce. Di marmo è pure la Princi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718271622098_1702" custom="readingOrder {index:14;} hi {offset:0; length:7; continued:true;rend:underline;}">
+                <Coords points="144,1482 1503,1478 1503,1528 144,1532"/>
+                <Baseline points="144,1527 1503,1523"/>
+                <TextEquiv>
+                    <Unicode>pessa X, una figura, nella sua astrazione e riduzione fantastica, a suo modo rinascimentale,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:15;} add {offset:0; length:11;place:above;}">
+                <Coords points="1367,1483 1393,1485 1419,1485 1446,1486 1472,1487 1498,1489 1548,1497 1548,1467 1498,1459 1472,1457 1446,1456 1419,1455 1393,1455 1367,1453"/>
+                <Baseline points="1367,1473 1393,1475 1419,1475 1446,1476 1472,1477 1498,1479 1540,1489"/>
+                <TextEquiv>
+                    <Unicode>lauranesca,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718271623641_1707" custom="readingOrder {index:16;}">
+                <Coords points="1506,1472 1578,1470 1579,1520 1507,1522"/>
+                <Baseline points="1507,1517 1579,1515"/>
+                <TextEquiv>
+                    <Unicode>se si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:17;}">
+                <Coords points="135,1614 207,1610 280,1610 352,1610 425,1611 497,1610 570,1610 642,1609 715,1608 787,1607 860,1606 932,1606 1005,1605 1077,1602 1150,1599 1222,1598 1295,1598 1367,1598 1440,1598 1512,1600 1585,1602 1585,1551 1512,1549 1440,1547 1367,1547 1295,1547 1222,1547 1150,1548 1077,1551 1005,1554 932,1555 860,1555 787,1556 715,1557 642,1558 570,1559 497,1559 425,1560 352,1559 280,1559 207,1559 135,1563"/>
+                <Baseline points="135,1597 207,1593 280,1593 352,1593 425,1594 497,1593 570,1593 642,1592 715,1591 787,1590 860,1589 932,1589 1005,1588 1077,1585 1150,1582 1222,1581 1295,1581 1367,1581 1440,1581 1512,1583 1585,1585"/>
+                <TextEquiv>
+                    <Unicode>può azzardare. Un'immagine lunare, un'idolo intangibile come lo sono le damigelle al seguito della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:18;}">
+                <Coords points="151,1684 222,1686 293,1683 364,1682 435,1682 506,1681 577,1682 648,1682 719,1681 790,1680 861,1681 932,1680 1003,1680 1074,1681 1145,1682 1216,1680 1287,1679 1358,1680 1429,1679 1500,1676 1571,1680 1571,1629 1500,1625 1429,1628 1358,1629 1287,1628 1216,1629 1145,1631 1074,1630 1003,1629 932,1629 861,1630 790,1629 719,1630 648,1631 577,1631 506,1630 435,1631 364,1631 293,1632 222,1635 151,1633"/>
+                <Baseline points="151,1667 222,1669 293,1666 364,1665 435,1665 506,1664 577,1665 648,1665 719,1664 790,1663 861,1664 932,1663 1003,1663 1074,1664 1145,1665 1216,1663 1287,1662 1358,1663 1429,1662 1500,1659 1571,1663"/>
+                <TextEquiv>
+                    <Unicode>Regina di Saba in Piero della Francesca. Quando l'astrazione giunge ad una sigla di pura geometria,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:19;} hi {offset:81; length:16;rend:underline;}">
+                <Coords points="137,1766 209,1764 282,1760 355,1760 428,1758 501,1759 574,1758 647,1759 720,1760 793,1759 866,1756 938,1758 1011,1756 1084,1754 1157,1754 1230,1754 1303,1751 1376,1751 1449,1754 1522,1755 1595,1758 1595,1707 1522,1704 1449,1703 1376,1700 1303,1700 1230,1703 1157,1703 1084,1703 1011,1705 938,1707 866,1705 793,1708 720,1709 647,1708 574,1707 501,1708 428,1707 355,1709 282,1709 209,1713 137,1715"/>
+                <Baseline points="137,1749 209,1747 282,1743 355,1743 428,1741 501,1742 574,1741 647,1742 720,1743 793,1742 866,1739 938,1741 1011,1739 1084,1737 1157,1737 1230,1737 1303,1734 1376,1734 1449,1737 1522,1738 1595,1741"/>
+                <TextEquiv>
+                    <Unicode>e la forma non ha altra espressione che quella morale, lo scultore costruisce il Torso di giovane, e non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718271578957_1680" custom="readingOrder {index:20;}">
+                <Coords points="146,1788 1583,1775 1583,1825 146,1838"/>
+                <Baseline points="146,1833 1583,1820"/>
+                <TextEquiv>
+                    <Unicode>è più che un racconto, un modo fra un cilindro d'attore con due tronconi laterali. L'ottone lucidato,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718271583149_1685" custom="readingOrder {index:21;}">
+                <Coords points="156,1855 1588,1853 1588,1903 156,1905"/>
+                <Baseline points="156,1900 1588,1898"/>
+                <TextEquiv>
+                    <Unicode>lustrato accuratamente col Sidol, spinge l'immagine alla suggestione dell'incastro, della vitalità</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718271586877_1690" custom="readingOrder {index:22;} hi {offset:16; length:19;rend:underline;}">
+                <Coords points="151,1933 1588,1933 1588,1983 151,1983"/>
+                <Baseline points="151,1978 1588,1978"/>
+                <TextEquiv>
+                    <Unicode>della macchina. Mademoiselle Pogany è un ritratto: l'astrazione, la deduzione meccanica delle for-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sua vocazione nell'accingersi a segare religiosamente, per ore e giornate di seguito, un blocco&#13;
+di marmo, o un tronco, una trave di legno, che egli aveva trascelto fra mille. E, dopo  lunghi calco-&#13;
+li e misure e di segni mentali, della trave di legno ricavavo il piano per un sedile, pensato in&#13;
+un certo modo e proporzione, e i due sostegni per il sedile. Il sedile, così ottenuto, finiva per conte-&#13;
+nere ed esprimere un certo sentimento intellettuale di un tale individuo. A parte il sedile (che&#13;
+sta al Museo d'arte di Filadelfia), qui sul vestibolo veneziano, fra i giardini e la laguna; nel vestibolo,&#13;
+dove, com'è naturale, la gente si ferma per depositare il cappello o la valigia, figuravano, in una luce&#13;
+serena e fittata, alcune opere di Brancusi. Tutti le avranno viste, e osservate secondo la disposizione&#13;
+propria. Guardavom, nei cartellini, i titoli: La saggezza, una figura femminile, rannicchiata nella pie-&#13;
+tra. Cariatide, un motivo che si eleva nel legno, e si snoda quasi come corpo umano. Il Torso di fan-&#13;
+ciulla, in onice, snodato e freddo, d'una sensualità apprensiva che, così mozzato, manifesta la sua carna-&#13;
+lità attraverso le lievi maculazioni, le venature scancellate di rosa nella pietra sensibile. Ritratto di&#13;
+Gingio: il capo del limbo fiorito nel sonno, le braccine, le spalle di bianca sostanza vegetale. Nes-&#13;
+sun marmo sarà mai più tenero: prassitelico, cereo, intriso di luce. Di marmo è pure la Princi-&#13;
+pessa X, una figura, nella sua astrazione e riduzione fantastica, a suo modo rinascimentale,&#13;
+lauranesca,&#13;
+se si&#13;
+può azzardare. Un'immagine lunare, un'idolo intangibile come lo sono le damigelle al seguito della&#13;
+Regina di Saba in Piero della Francesca. Quando l'astrazione giunge ad una sigla di pura geometria,&#13;
+e la forma non ha altra espressione che quella morale, lo scultore costruisce il Torso di giovane, e non&#13;
+è più che un racconto, un modo fra un cilindro d'attore con due tronconi laterali. L'ottone lucidato,&#13;
+lustrato accuratamente col Sidol, spinge l'immagine alla suggestione dell'incastro, della vitalità&#13;
+della macchina. Mademoiselle Pogany è un ritratto: l'astrazione, la deduzione meccanica delle for-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

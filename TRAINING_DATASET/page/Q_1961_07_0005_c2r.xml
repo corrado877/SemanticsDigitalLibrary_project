@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:16:39.255+01:00</Created>
+        <LastChange>2024-06-20T11:43:08.315+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326016" pageNr="53" tsid="175603523" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=YKTJDWYPZVGODNWAOFFEBPGG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KIIRFBCHKEWQHVKGGMGFQMGJ" imageId="53903824"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_07_0005_c2r.jpg" imageWidth="1798" imageHeight="2476" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746067579" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="region_1718876303992_34"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="115,258 119,2045 1596,2045 1592,258"/>
+            <TextLine id="line_1718179649961_351" custom="readingOrder {index:0;}">
+                <Coords points="143,444 629,445 629,495 143,494"/>
+                <Baseline points="143,489 629,490"/>
+                <TextEquiv>
+                    <Unicode>l'esclamazione si perdeva in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718179652437_356" custom="readingOrder {index:1;} add {offset:0; length:2;place:above;}">
+                <Coords points="619,405 669,410 665,460 615,455"/>
+                <Baseline points="615,450 665,455"/>
+                <TextEquiv>
+                    <Unicode>un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718179655403_361" custom="readingOrder {index:2;}">
+                <Coords points="641,442 1565,447 1565,497 641,492"/>
+                <Baseline points="641,487 1565,492"/>
+                <TextEquiv>
+                    <Unicode>soffio, un bisbiglio. Poi, non più. La grammatica di chi scrive&lt;lb/&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="140,578 210,576 280,576 350,576 420,577 490,578 560,576 630,577 700,576 770,576 840,577 910,579 980,580 1050,580 1120,582 1190,582 1260,585 1330,582 1400,580 1470,578 1540,578 1540,524 1470,524 1400,526 1330,528 1260,531 1190,528 1120,528 1050,526 980,526 910,525 840,523 770,522 700,522 630,523 560,522 490,524 420,523 350,522 280,522 210,522 140,524"/>
+                <Baseline points="140,560 210,558 280,558 350,558 420,559 490,560 560,558 630,559 700,558 770,558 840,559 910,561 980,562 1050,562 1120,564 1190,564 1260,567 1330,564 1400,562 1470,560 1540,560"/>
+                <TextEquiv>
+                    <Unicode>viene dal suo respiero, dal corpo. Il corpo può essere crepato da un'ansia, da un pensiero di </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="132,654 174,652 217,650 259,652 302,651 345,652 387,652 430,650 472,652 515,652 558,652 600,651 643,654 685,653 728,654 771,654 813,654 856,654 898,656 941,656 984,658 984,604 941,602 898,602 856,600 813,600 771,600 728,600 685,599 643,600 600,597 558,598 515,598 472,598 430,596 387,598 345,598 302,597 259,598 217,596 174,598 132,600"/>
+                <Baseline points="132,636 174,634 217,632 259,634 302,633 345,634 387,634 430,632 472,634 515,634 558,634 600,633 643,636 685,635 728,636 771,636 813,636 856,636 898,638 941,638 984,640"/>
+                <TextEquiv>
+                    <Unicode>dolore, che hanno pace, e sboccano, travolti, in gridi.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="156,733 226,728 297,729 367,727 438,729 509,728 579,729 650,729 720,727 791,727 862,727 932,727 1003,727 1073,725 1144,727 1215,725 1285,726 1356,727 1426,725 1497,725 1568,731 1568,679 1497,673 1426,673 1356,675 1285,674 1215,673 1144,675 1073,673 1003,675 932,675 862,675 791,675 720,675 650,677 579,677 509,676 438,677 367,675 297,677 226,676 156,681"/>
+                <Baseline points="156,716 226,711 297,712 367,710 438,712 509,711 579,712 650,712 720,710 791,710 862,710 932,710 1003,710 1073,708 1144,710 1215,708 1285,709 1356,710 1426,708 1497,708 1568,714"/>
+                <TextEquiv>
+                    <Unicode>Quaderno egiziano, aveva chiamato Ungaretti, queste carte e traccie egiziane. Da Alessandria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="142,807 211,805 281,803 351,801 421,801 491,801 561,801 631,801 701,803 771,801 841,802 910,803 980,803 1050,803 1120,805 1190,804 1260,805 1330,805 1400,803 1470,804 1540,803 1540,746 1470,747 1400,746 1330,748 1260,748 1190,747 1120,748 1050,746 980,746 910,746 841,745 771,744 701,746 631,744 561,744 491,744 421,744 351,744 281,746 211,748 142,750"/>
+                <Baseline points="142,788 211,786 281,784 351,782 421,782 491,782 561,782 631,782 701,784 771,782 841,783 910,784 980,784 1050,784 1120,786 1190,785 1260,786 1330,786 1400,784 1470,785 1540,784"/>
+                <TextEquiv>
+                    <Unicode>al Cairo deambula il ricordo, e il sentimento della scrittura, spingengo gli occhi della mente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="158,880 228,880 299,878 369,876 440,876 511,876 581,878 652,878 722,878 793,880 864,880 934,880 1005,882 1075,882 1146,882 1217,881 1287,880 1358,880 1428,880 1499,883 1570,882 1570,828 1499,829 1428,826 1358,826 1287,826 1217,827 1146,828 1075,828 1005,828 934,826 864,826 793,826 722,824 652,824 581,824 511,822 440,822 369,822 299,824 228,826 158,826"/>
+                <Baseline points="158,862 228,862 299,860 369,858 440,858 511,858 581,860 652,860 722,860 793,862 864,862 934,862 1005,864 1075,864 1146,864 1217,863 1287,862 1358,862 1428,862 1499,865 1570,864"/>
+                <TextEquiv>
+                    <Unicode>sino al deserto d'Africa. E' un uomo che ritrova, passo dietro passo, briciola a briciola, eco per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="120,960 192,956 265,954 338,954 411,954 484,954 557,954 630,956 703,955 776,956 849,956 921,955 994,954 1067,955 1140,954 1213,956 1286,954 1359,956 1432,958 1505,956 1578,960 1578,906 1505,902 1432,904 1359,902 1286,900 1213,902 1140,900 1067,901 994,900 921,901 849,902 776,902 703,901 630,902 557,900 484,900 411,900 338,900 265,900 192,902 120,906"/>
+                <Baseline points="120,942 192,938 265,936 338,936 411,936 484,936 557,936 630,938 703,937 776,938 849,938 921,937 994,936 1067,937 1140,936 1213,938 1286,936 1359,938 1432,940 1505,938 1578,942"/>
+                <TextEquiv>
+                    <Unicode>eco, le parti della sua gioventù, la prima, fondamentale esistenza umana. Il suo ritorno, il pas_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:9;}">
+                <Coords points="134,1033 205,1033 277,1031 349,1029 420,1029 492,1027 564,1028 635,1028 707,1029 779,1031 851,1031 922,1031 994,1031 1066,1029 1137,1032 1209,1031 1281,1031 1352,1031 1424,1035 1496,1034 1568,1033 1568,981 1496,982 1424,983 1352,979 1281,979 1209,979 1137,980 1066,977 994,979 922,979 851,979 779,979 707,977 635,976 564,976 492,975 420,977 349,977 277,979 205,981 134,981"/>
+                <Baseline points="134,1016 205,1016 277,1014 349,1012 420,1012 492,1010 564,1011 635,1011 707,1012 779,1014 851,1014 922,1014 994,1014 1066,1012 1137,1015 1209,1014 1281,1014 1352,1014 1424,1018 1496,1017 1568,1016"/>
+                <TextEquiv>
+                    <Unicode>saggio, un poco trasognato od esaltato, è incontrato e accompagnato da una folla di fantas_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718179834556_407" custom="readingOrder {index:10;}">
+                <Coords points="141,1049 1420,1048 1420,1098 141,1099"/>
+                <Baseline points="141,1094 1420,1093"/>
+                <TextEquiv>
+                    <Unicode>mi. Ombre, persone; e l'incalcolabile sfondo del paesaggio e della natura. La prima</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718179836663_412" custom="readingOrder {index:11;} add {offset:0; length:4;place:above;}">
+                <Coords points="1383,1016 1439,1023 1432,1073 1376,1066"/>
+                <Baseline points="1377,1061 1433,1068"/>
+                <TextEquiv>
+                    <Unicode>cosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718179839394_417" custom="readingOrder {index:12;}">
+                <Coords points="1418,1049 1579,1055 1577,1105 1416,1099"/>
+                <Baseline points="1416,1094 1577,1100"/>
+                <TextEquiv>
+                    <Unicode>di Ungaretti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:13;} del {offset:8; length:11;rend:overstrike;} gap {offset:8; length:0;quantity:11; unit:character; reason:illegible;}">
+                <Coords points="134,1174 159,1174 184,1175 210,1175 235,1174 261,1174 286,1174 312,1172 337,1172 363,1175 388,1176 414,1178 414,1148 388,1146 363,1145 337,1142 312,1142 286,1144 261,1144 235,1144 210,1145 184,1145 159,1144 134,1144"/>
+                <Baseline points="134,1164 159,1164 184,1165 210,1165 235,1164 261,1164 286,1164 312,1162 337,1162 363,1165 388,1166 414,1168"/>
+                <TextEquiv>
+                    <Unicode>che noi            </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:14;} add {offset:0; length:10;place:above;}">
+                <Coords points="266,1142 291,1142 317,1142 342,1143 368,1146 393,1148 419,1150 444,1152 470,1156 470,1126 444,1122 419,1120 393,1118 368,1116 342,1113 317,1112 291,1112 266,1112"/>
+                <Baseline points="266,1132 291,1132 317,1132 342,1133 368,1136 393,1138 419,1140 444,1142 470,1146"/>
+                <TextEquiv>
+                    <Unicode>conoscemmo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718179682577_374" custom="readingOrder {index:15;}">
+                <Coords points="467,1122 1581,1138 1580,1188 466,1172"/>
+                <Baseline points="466,1167 1580,1183"/>
+                <TextEquiv>
+                    <Unicode>/ "Lacerba", 1915) s'intitolava: &lt;hi rend="underline"&gt;Il paesaggio d'Alessandria d'Egitto;&lt;/hi&gt; e subi_&lt;lb/&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:16;}">
+                <Coords points="138,1261 209,1261 281,1257 353,1257 424,1256 496,1259 568,1259 639,1258 711,1259 783,1257 855,1257 926,1257 998,1257 1070,1257 1141,1258 1213,1259 1285,1261 1356,1259 1428,1261 1500,1264 1572,1269 1572,1217 1500,1212 1428,1209 1356,1207 1285,1209 1213,1207 1141,1206 1070,1205 998,1205 926,1205 855,1205 783,1205 711,1207 639,1206 568,1207 496,1207 424,1204 353,1205 281,1205 209,1209 138,1209"/>
+                <Baseline points="138,1244 209,1244 281,1240 353,1240 424,1239 496,1242 568,1242 639,1241 711,1242 783,1240 855,1240 926,1240 998,1240 1070,1240 1141,1241 1213,1242 1285,1244 1356,1242 1428,1244 1500,1247 1572,1252"/>
+                <TextEquiv>
+                    <Unicode>to dopo, nella "Voce", un componimento invaso e pensoso della tiepida memoria d'infanzia. Inanzi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:17;} gap {offset:53; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="132,1331 202,1331 273,1331 343,1331 414,1332 484,1331 555,1333 625,1331 696,1331 766,1329 837,1331 907,1331 978,1331 1048,1332 1119,1331 1189,1333 1260,1333 1330,1331 1401,1333 1471,1334 1542,1339 1542,1287 1471,1282 1401,1281 1330,1279 1260,1281 1189,1281 1119,1279 1048,1280 978,1279 907,1279 837,1279 766,1277 696,1279 625,1279 555,1281 484,1279 414,1280 343,1279 273,1279 202,1279 132,1279"/>
+                <Baseline points="132,1314 202,1314 273,1314 343,1314 414,1315 484,1314 555,1316 625,1314 696,1314 766,1312 837,1314 907,1314 978,1314 1048,1315 1119,1314 1189,1316 1260,1316 1330,1314 1401,1316 1471,1317 1542,1322"/>
+                <TextEquiv>
+                    <Unicode>un canto di dolore d'emigranti: "Ora mandato come un       dagli anni/ Rinvenute le strade</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:18;}">
+                <Coords points="118,1410 190,1411 263,1410 336,1408 409,1409 482,1408 554,1409 627,1410 700,1409 773,1411 846,1410 918,1410 991,1412 1064,1412 1137,1414 1210,1413 1282,1412 1355,1410 1428,1410 1501,1410 1574,1414 1574,1359 1501,1355 1428,1355 1355,1355 1282,1357 1210,1358 1137,1359 1064,1357 991,1357 918,1355 846,1355 773,1356 700,1354 627,1355 554,1354 482,1353 409,1354 336,1353 263,1355 190,1356 118,1355"/>
+                <Baseline points="118,1392 190,1393 263,1392 336,1390 409,1391 482,1390 554,1391 627,1392 700,1391 773,1393 846,1392 918,1392 991,1394 1064,1394 1137,1396 1210,1395 1282,1394 1355,1392 1428,1392 1501,1392 1574,1396"/>
+                <TextEquiv>
+                    <Unicode>del mio segreto/ m'intride un mio uragano d'incandescenza.../ Co0nto a sorsi la bontà del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718179669435_366" custom="readingOrder {index:19;}">
+                <Coords points="133,1429 1569,1435 1569,1485 133,1479"/>
+                <Baseline points="133,1474 1569,1480"/>
+                <TextEquiv>
+                    <Unicode>tempo.../ Di sabato sera/ a quest'ora/ gli ebrei di levante/ portano via/ i loro morti/ e nell'im_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="130,1565 201,1563 273,1559 345,1559 416,1559 488,1559 560,1559 631,1560 703,1561 775,1561 847,1561 918,1561 990,1560 1062,1561 1133,1561 1205,1561 1277,1561 1348,1563 1420,1563 1492,1562 1564,1565 1564,1513 1492,1510 1420,1511 1348,1511 1277,1509 1205,1509 1133,1509 1062,1509 990,1508 918,1509 847,1509 775,1509 703,1509 631,1508 560,1507 488,1507 416,1507 345,1507 273,1507 201,1511 130,1513"/>
+                <Baseline points="130,1548 201,1546 273,1542 345,1542 416,1542 488,1542 560,1542 631,1543 703,1544 775,1544 847,1544 918,1544 990,1543 1062,1544 1133,1544 1205,1544 1277,1544 1348,1546 1420,1546 1492,1545 1564,1548"/>
+                <TextEquiv>
+                    <Unicode>buto dei vicoli/ non si vede/ che il tentennamento/ delle luci/ coperte di crespo.../ Balia suda_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="138,1637 209,1637 281,1636 353,1635 424,1634 496,1633 568,1633 639,1633 711,1633 783,1633 855,1633 926,1635 998,1635 1070,1635 1141,1635 1213,1637 1285,1637 1356,1637 1428,1639 1500,1639 1572,1639 1572,1587 1500,1587 1428,1587 1356,1585 1285,1585 1213,1585 1141,1583 1070,1583 998,1583 926,1583 855,1581 783,1581 711,1581 639,1581 568,1581 496,1581 424,1582 353,1583 281,1584 209,1585 138,1585"/>
+                <Baseline points="138,1620 209,1620 281,1619 353,1618 424,1617 496,1616 568,1616 639,1616 711,1616 783,1616 855,1616 926,1618 998,1618 1070,1618 1141,1618 1213,1620 1285,1620 1356,1620 1428,1622 1500,1622 1572,1622"/>
+                <TextEquiv>
+                    <Unicode>nese che m'ha allevato/ il sole che l'aveva bruciata le ho succhiato_/ O mio paese caldo ho amato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:22;}">
+                <Coords points="132,1713 204,1712 276,1711 348,1711 420,1710 493,1711 565,1711 637,1711 709,1713 781,1711 854,1711 926,1713 998,1713 1070,1712 1142,1713 1215,1711 1287,1712 1359,1709 1431,1710 1503,1710 1576,1713 1576,1661 1503,1658 1431,1658 1359,1657 1287,1660 1215,1659 1142,1661 1070,1660 998,1661 926,1661 854,1659 781,1659 709,1661 637,1659 565,1659 493,1659 420,1658 348,1659 276,1659 204,1660 132,1661"/>
+                <Baseline points="132,1696 204,1695 276,1694 348,1694 420,1693 493,1694 565,1694 637,1694 709,1696 781,1694 854,1694 926,1696 998,1696 1070,1695 1142,1696 1215,1694 1287,1695 1359,1692 1431,1693 1503,1693 1576,1696"/>
+                <TextEquiv>
+                    <Unicode>stanotte nostalgia del tuo sole..." L'Africa è entrata nel suo sangue, con il peso enorme del ventre_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_27" custom="readingOrder {index:23;}">
+                <Coords points="138,1791 209,1788 281,1785 353,1785 425,1784 497,1785 568,1785 640,1783 712,1785 784,1784 856,1783 927,1784 999,1785 1071,1785 1143,1785 1215,1785 1286,1787 1358,1785 1430,1787 1502,1787 1574,1789 1574,1738 1502,1736 1430,1736 1358,1734 1286,1736 1215,1734 1143,1734 1071,1734 999,1734 927,1733 856,1732 784,1733 712,1734 640,1732 568,1734 497,1734 425,1733 353,1734 281,1734 209,1737 138,1740"/>
+                <Baseline points="138,1774 209,1771 281,1768 353,1768 425,1767 497,1768 568,1768 640,1766 712,1768 784,1767 856,1766 927,1767 999,1768 1071,1768 1143,1768 1215,1768 1286,1770 1358,1768 1430,1770 1502,1770 1574,1772"/>
+                <TextEquiv>
+                    <Unicode>con la luce che il cielo si beve, in ore che non hanno più peso umano. L'uomo non è che un'ombra. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28" custom="readingOrder {index:24;} hi {offset:82; length:16; continued:true;rend:underline;}">
+                <Coords points="146,1861 215,1861 285,1859 354,1860 424,1859 494,1861 563,1860 633,1861 702,1861 772,1862 842,1859 911,1859 981,1860 1050,1861 1120,1861 1190,1864 1259,1864 1329,1865 1398,1862 1468,1864 1538,1867 1538,1816 1468,1813 1398,1811 1329,1814 1259,1813 1190,1813 1120,1810 1050,1810 981,1809 911,1808 842,1808 772,1811 702,1810 633,1810 563,1809 494,1810 424,1808 354,1809 285,1808 215,1810 146,1810"/>
+                <Baseline points="146,1844 215,1844 285,1842 354,1843 424,1842 494,1844 563,1843 633,1844 702,1844 772,1845 842,1842 911,1842 981,1843 1050,1844 1120,1844 1190,1847 1259,1847 1329,1848 1398,1845 1468,1847 1538,1850"/>
+                <TextEquiv>
+                    <Unicode>Ombre di cose, apparizioni di animati dalla terra e dal cielo. Mostri e fantasmi. Giornata di fan_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_29" custom="readingOrder {index:25;} hi {offset:0; length:5; continued:true;rend:underline;}">
+                <Coords points="142,1939 212,1940 282,1939 352,1939 423,1937 493,1937 563,1935 634,1937 704,1935 774,1935 845,1937 915,1937 985,1937 1055,1937 1126,1939 1196,1939 1266,1941 1337,1941 1407,1941 1477,1943 1548,1943 1548,1891 1477,1891 1407,1889 1337,1889 1266,1889 1196,1887 1126,1887 1055,1885 985,1885 915,1885 845,1885 774,1883 704,1883 634,1885 563,1883 493,1885 423,1885 352,1887 282,1887 212,1888 142,1887"/>
+                <Baseline points="142,1922 212,1923 282,1922 352,1922 423,1920 493,1920 563,1918 634,1920 704,1918 774,1918 845,1920 915,1920 985,1920 1055,1920 1126,1922 1196,1922 1266,1924 1337,1924 1407,1924 1477,1926 1548,1926"/>
+                <TextEquiv>
+                    <Unicode>tasmi è un altro capitolo africano. /"Alta, fresca mattina, dondolante come una palme".) E' a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_30" custom="readingOrder {index:26;}">
+                <Coords points="144,2021 214,2019 284,2017 354,2015 424,2015 495,2015 565,2015 635,2014 705,2015 775,2015 846,2015 916,2017 986,2015 1056,2015 1126,2011 1197,2014 1267,2014 1337,2013 1407,2015 1477,2015 1548,2017 1548,1965 1477,1963 1407,1963 1337,1961 1267,1962 1197,1962 1126,1959 1056,1963 986,1963 916,1965 846,1963 775,1963 705,1963 635,1962 565,1963 495,1963 424,1963 354,1963 284,1965 214,1967 144,1969"/>
+                <Baseline points="144,2004 214,2002 284,2000 354,1998 424,1998 495,1998 565,1998 635,1997 705,1998 775,1998 846,1998 916,2000 986,1998 1056,1998 1126,1994 1197,1997 1267,1997 1337,1996 1407,1998 1477,1998 1548,2000"/>
+                <TextEquiv>
+                    <Unicode>questo punto che lo scrivere di Ungaretti si carica di una qualità, di cui lo spettacolo di natura</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>l'esclamazione si perdeva in&#13;
+un&#13;
+soffio, un bisbiglio. Poi, non più. La grammatica di chi scrive&lt;lb/&gt;&#13;
+viene dal suo respiero, dal corpo. Il corpo può essere crepato da un'ansia, da un pensiero di &#13;
+dolore, che hanno pace, e sboccano, travolti, in gridi.)&#13;
+Quaderno egiziano, aveva chiamato Ungaretti, queste carte e traccie egiziane. Da Alessandria&#13;
+al Cairo deambula il ricordo, e il sentimento della scrittura, spingengo gli occhi della mente&#13;
+sino al deserto d'Africa. E' un uomo che ritrova, passo dietro passo, briciola a briciola, eco per&#13;
+eco, le parti della sua gioventù, la prima, fondamentale esistenza umana. Il suo ritorno, il pas_&#13;
+saggio, un poco trasognato od esaltato, è incontrato e accompagnato da una folla di fantas_&#13;
+mi. Ombre, persone; e l'incalcolabile sfondo del paesaggio e della natura. La prima&#13;
+cosa&#13;
+di Ungaretti&#13;
+che noi            &#13;
+conoscemmo&#13;
+/ "Lacerba", 1915) s'intitolava: &lt;hi rend="underline"&gt;Il paesaggio d'Alessandria d'Egitto;&lt;/hi&gt; e subi_&lt;lb/&gt;&#13;
+to dopo, nella "Voce", un componimento invaso e pensoso della tiepida memoria d'infanzia. Inanzi&#13;
+un canto di dolore d'emigranti: "Ora mandato come un       dagli anni/ Rinvenute le strade&#13;
+del mio segreto/ m'intride un mio uragano d'incandescenza.../ Co0nto a sorsi la bontà del&#13;
+tempo.../ Di sabato sera/ a quest'ora/ gli ebrei di levante/ portano via/ i loro morti/ e nell'im_&#13;
+buto dei vicoli/ non si vede/ che il tentennamento/ delle luci/ coperte di crespo.../ Balia suda_&#13;
+nese che m'ha allevato/ il sole che l'aveva bruciata le ho succhiato_/ O mio paese caldo ho amato&#13;
+stanotte nostalgia del tuo sole..." L'Africa è entrata nel suo sangue, con il peso enorme del ventre_&#13;
+con la luce che il cielo si beve, in ore che non hanno più peso umano. L'uomo non è che un'ombra. &#13;
+Ombre di cose, apparizioni di animati dalla terra e dal cielo. Mostri e fantasmi. Giornata di fan_&#13;
+tasmi è un altro capitolo africano. /"Alta, fresca mattina, dondolante come una palme".) E' a&#13;
+questo punto che lo scrivere di Ungaretti si carica di una qualità, di cui lo spettacolo di natura</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1718876303992_34" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="229,332 139,332 139,261 229,261"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="150,325 177,325 204,323 204,266 177,268 150,268"/>
+                <Baseline points="150,306 177,306 204,304"/>
+                <TextEquiv>
+                    <Unicode>3:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

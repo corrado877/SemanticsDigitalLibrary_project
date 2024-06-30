@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:22:30.493+01:00</Created>
+        <LastChange>2024-06-20T12:05:52.716+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325995" pageNr="69" tsid="175603542" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=OAEOBWDKRXMLNHRDVTUQYNSA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WWODEDLDZCSTOIPWSIGRINKS" imageId="53903861"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_08_0013_c6r.jpg" imageWidth="1798" imageHeight="2471" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746070633" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718877924485_232"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718877924485_232" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="270,335 137,335 137,257 270,257"/>
+            <TextLine id="line_1718267995897_693" custom="readingOrder {index:0;}">
+                <Coords points="150,267 226,267 226,317 150,317"/>
+                <Baseline points="150,312 226,312"/>
+                <TextEquiv>
+                    <Unicode>5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="114,254 114,2014 1591,2010 1591,250"/>
+            <TextLine id="line_1718268044760_730" custom="readingOrder {index:0;}">
+                <Coords points="150,424 1536,424 1536,474 150,474"/>
+                <Baseline points="150,469 1536,469"/>
+                <TextEquiv>
+                    <Unicode>Colombo discorre con la voce pacata di chi trae le parole in un lento e lungo percorso, quasi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268048555_735" custom="readingOrder {index:1;} gap {offset:92; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="137,511 1581,505 1581,555 137,561"/>
+                <Baseline points="137,556 1581,550"/>
+                <TextEquiv>
+                    <Unicode>che gli pesi di giungere alla conclusione dei pensieri. Conversare con garbo, con serenità,        </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268052197_740" custom="readingOrder {index:2;}">
+                <Coords points="128,577 1579,585 1579,635 128,627"/>
+                <Baseline points="128,622 1579,630"/>
+                <TextEquiv>
+                    <Unicode>sul limite, sul filo di ragionamento che divide un'opinione dall'altra, sembra essere il tempera-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="129,716 201,714 274,714 347,712 419,708 492,706 565,706 637,704 710,705 783,704 856,706 928,707 1001,708 1074,707 1146,706 1219,706 1292,706 1364,706 1437,710 1510,710 1583,716 1583,664 1510,658 1437,658 1364,654 1292,654 1219,654 1146,654 1074,655 1001,656 928,655 856,654 783,652 710,653 637,652 565,654 492,654 419,656 347,660 274,662 201,662 129,664"/>
+                <Baseline points="129,699 201,697 274,697 347,695 419,691 492,689 565,689 637,687 710,688 783,687 856,689 928,690 1001,691 1074,690 1146,689 1219,689 1292,689 1364,689 1437,693 1510,693 1583,699"/>
+                <TextEquiv>
+                    <Unicode>mento di una natura che sta tra il bene e il male, senza troppa fiducia nell'uno né troppo orro-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="141,790 212,788 283,784 354,784 425,782 496,780 567,782 638,782 709,782 780,784 851,784 922,783 993,784 1064,783 1135,782 1206,784 1277,784 1348,784 1419,784 1490,782 1561,784 1561,732 1490,730 1419,732 1348,732 1277,732 1206,732 1135,730 1064,731 993,732 922,731 851,732 780,732 709,730 638,730 567,730 496,728 425,730 354,732 283,732 212,736 141,738"/>
+                <Baseline points="141,773 212,771 283,767 354,767 425,765 496,763 567,765 638,765 709,765 780,767 851,767 922,766 993,767 1064,766 1135,765 1206,767 1277,767 1348,767 1419,767 1490,765 1561,767"/>
+                <TextEquiv>
+                    <Unicode>re per l'altro. Verità della vita è nella profondità delle passioni. Ma quando le passioni sono de-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:5;}">
+                <Coords points="157,868 227,862 298,859 369,856 440,858 511,858 582,860 653,860 724,858 795,858 866,858 936,858 1007,858 1078,860 1149,860 1220,860 1291,860 1362,860 1433,860 1504,861 1575,866 1575,814 1504,809 1433,808 1362,808 1291,808 1220,808 1149,808 1078,808 1007,806 936,806 866,806 795,806 724,806 653,808 582,808 511,806 440,806 369,804 298,807 227,810 157,816"/>
+                <Baseline points="157,851 227,845 298,842 369,839 440,841 511,841 582,843 653,843 724,841 795,841 866,841 936,841 1007,841 1078,843 1149,843 1220,843 1291,843 1362,843 1433,843 1504,844 1575,849"/>
+                <TextEquiv>
+                    <Unicode>poste? Ci attendono mattini in cui il cielo, dentro la finestra, non ha più senso di un vetro opaco,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="141,932 212,935 284,934 356,934 428,935 500,932 572,931 644,931 716,930 788,930 860,930 931,930 1003,933 1075,934 1147,935 1219,934 1291,932 1363,933 1435,932 1507,935 1579,940 1579,888 1507,883 1435,880 1363,881 1291,880 1219,882 1147,883 1075,882 1003,881 931,878 860,878 788,878 716,878 644,879 572,879 500,880 428,883 356,882 284,882 212,883 141,880"/>
+                <Baseline points="141,915 212,918 284,917 356,917 428,918 500,915 572,914 644,914 716,913 788,913 860,913 931,913 1003,916 1075,917 1147,918 1219,917 1291,915 1363,916 1435,915 1507,918 1579,923"/>
+                <TextEquiv>
+                    <Unicode>di una tenda tirata. E le ore della giornata si annunciano indifferenti, uguali come i grani di un rosa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:7;}">
+                <Coords points="133,1016 204,1014 275,1012 346,1010 418,1010 489,1010 560,1010 632,1008 703,1009 774,1010 846,1008 917,1010 988,1008 1059,1008 1131,1006 1202,1006 1273,1006 1345,1006 1416,1006 1487,1004 1559,1008 1559,956 1487,952 1416,954 1345,954 1273,954 1202,954 1131,954 1059,956 988,956 917,958 846,956 774,958 703,957 632,956 560,958 489,958 418,958 346,958 275,960 204,962 133,964"/>
+                <Baseline points="133,999 204,997 275,995 346,993 418,993 489,993 560,993 632,991 703,992 774,993 846,991 917,993 988,991 1059,991 1131,989 1202,989 1273,989 1345,989 1416,989 1487,987 1559,991"/>
+                <TextEquiv>
+                    <Unicode>rio. La gioventù, veramente, è finita. E questo sentimento ci sembra occupare ogni persona. Tuttavia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:8;}">
+                <Coords points="137,1086 208,1085 280,1086 351,1086 423,1088 495,1084 566,1085 638,1086 709,1084 781,1084 853,1084 924,1084 996,1082 1067,1082 1139,1082 1211,1082 1282,1082 1354,1082 1425,1084 1497,1084 1569,1084 1569,1032 1497,1032 1425,1032 1354,1030 1282,1030 1211,1030 1139,1030 1067,1030 996,1030 924,1032 853,1032 781,1032 709,1032 638,1034 566,1033 495,1032 423,1036 351,1034 280,1034 208,1033 137,1034"/>
+                <Baseline points="137,1069 208,1068 280,1069 351,1069 423,1071 495,1067 566,1068 638,1069 709,1067 781,1067 853,1067 924,1067 996,1065 1067,1065 1139,1065 1211,1065 1282,1065 1354,1065 1425,1067 1497,1067 1569,1067"/>
+                <TextEquiv>
+                    <Unicode>il mondo si agita. Gli uomini inseguono disegni ambiziosi di dominio. I loro sogni si fanno vio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:9;}">
+                <Coords points="147,1170 218,1167 290,1166 362,1164 434,1163 506,1168 577,1162 649,1164 721,1164 793,1162 865,1162 936,1160 1008,1160 1080,1158 1152,1160 1224,1160 1295,1160 1367,1162 1439,1162 1511,1162 1583,1166 1583,1115 1511,1111 1439,1111 1367,1111 1295,1109 1224,1109 1152,1109 1080,1107 1008,1109 936,1109 865,1111 793,1111 721,1113 649,1113 577,1111 506,1117 434,1112 362,1113 290,1115 218,1116 147,1119"/>
+                <Baseline points="147,1153 218,1150 290,1149 362,1147 434,1146 506,1151 577,1145 649,1147 721,1147 793,1145 865,1145 936,1143 1008,1143 1080,1141 1152,1143 1224,1143 1295,1143 1367,1145 1439,1145 1511,1145 1583,1149"/>
+                <TextEquiv>
+                    <Unicode>lenti. La potenza dell'orgoglio si spinge ai limiti della crudeltà. È la natura stessa che sembra incerta,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:10;}">
+                <Coords points="143,1237 213,1235 284,1231 355,1233 426,1231 497,1231 568,1231 639,1232 710,1231 781,1231 852,1231 922,1231 993,1231 1064,1231 1135,1229 1206,1229 1277,1231 1348,1229 1419,1231 1490,1229 1561,1229 1561,1198 1490,1198 1419,1200 1348,1198 1277,1200 1206,1198 1135,1198 1064,1200 993,1200 922,1200 852,1200 781,1200 710,1200 639,1201 568,1200 497,1200 426,1200 355,1202 284,1200 213,1204 143,1206"/>
+                <Baseline points="143,1227 213,1225 284,1221 355,1223 426,1221 497,1221 568,1221 639,1222 710,1221 781,1221 852,1221 922,1221 993,1221 1064,1221 1135,1219 1206,1219 1277,1221 1348,1219 1419,1221 1490,1219 1561,1219"/>
+                <TextEquiv>
+                    <Unicode>non sicura del proprio equilibrio. L'uomo, allora, assiste, o ha paura della verità, che è in fondo ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718269504777_1352" custom="readingOrder {index:11;} gap {offset:74; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="146,1264 1396,1261 1396,1311 146,1314"/>
+                <Baseline points="146,1309 1396,1306"/>
+                <TextEquiv>
+                    <Unicode>ogni cosa. Gli basta sapersi ingranaggio, particella infinitesimale della          che </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718269508275_1357" custom="readingOrder {index:12;} add {offset:0; length:9;place:above;}">
+                <Coords points="1383,1217 1530,1223 1528,1273 1381,1267"/>
+                <Baseline points="1381,1262 1528,1268"/>
+                <TextEquiv>
+                    <Unicode>navigherà</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718269511201_1362" custom="readingOrder {index:13;} date {offset:0; length:8;year:0; day:0; month:0;}">
+                <Coords points="1411,1257 1589,1259 1588,1309 1410,1307"/>
+                <Baseline points="1410,1302 1588,1304"/>
+                <TextEquiv>
+                    <Unicode>viaggerà nello</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:14;}">
+                <Coords points="153,1399 224,1395 295,1393 367,1392 438,1391 510,1391 581,1391 652,1391 724,1391 795,1391 867,1391 938,1391 1009,1389 1081,1390 1152,1393 1224,1393 1295,1391 1366,1393 1438,1391 1509,1394 1581,1397 1581,1343 1509,1340 1438,1337 1366,1339 1295,1337 1224,1339 1152,1339 1081,1336 1009,1335 938,1337 867,1337 795,1337 724,1337 652,1337 581,1337 510,1337 438,1337 367,1338 295,1339 224,1341 153,1345"/>
+                <Baseline points="153,1381 224,1377 295,1375 367,1374 438,1373 510,1373 581,1373 652,1373 724,1373 795,1373 867,1373 938,1373 1009,1371 1081,1372 1152,1375 1224,1375 1295,1373 1366,1375 1438,1373 1509,1376 1581,1379"/>
+                <TextEquiv>
+                    <Unicode>spazio, inviata alla conquista di astri, di mondi ignoti. Di certo, non conoscerà l'incertezza ma-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:15;}">
+                <Coords points="135,1477 180,1473 226,1471 272,1469 318,1470 364,1469 410,1469 456,1471 502,1470 548,1469 594,1469 639,1469 685,1467 731,1467 777,1465 823,1465 869,1467 915,1466 961,1467 1007,1466 1053,1467 1053,1413 1007,1412 961,1413 915,1412 869,1413 823,1411 777,1411 731,1413 685,1413 639,1415 594,1415 548,1415 502,1416 456,1417 410,1415 364,1415 318,1416 272,1415 226,1417 180,1419 135,1423"/>
+                <Baseline points="135,1459 180,1455 226,1453 272,1451 318,1452 364,1451 410,1451 456,1453 502,1452 548,1451 594,1451 639,1451 685,1449 731,1449 777,1447 823,1447 869,1449 915,1448 961,1449 1007,1448 1053,1449"/>
+                <TextEquiv>
+                    <Unicode>linconica, l'affabile disincanto del navigatore di Leopardi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:16;}">
+                <Coords points="241,2005 266,2003 292,2003 317,2005 343,2004 368,2002 394,2000 419,1999 445,1999 471,1999 471,1945 445,1945 419,1945 394,1946 368,1948 343,1950 317,1951 292,1949 266,1949 241,1951"/>
+                <Baseline points="241,1987 266,1985 292,1985 317,1987 343,1986 368,1984 394,1982 419,1981 445,1981 471,1981"/>
+                <TextEquiv>
+                    <Unicode>25.4.1961</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Colombo discorre con la voce pacata di chi trae le parole in un lento e lungo percorso, quasi&#13;
+che gli pesi di giungere alla conclusione dei pensieri. Conversare con garbo, con serenità,        &#13;
+sul limite, sul filo di ragionamento che divide un'opinione dall'altra, sembra essere il tempera-&#13;
+mento di una natura che sta tra il bene e il male, senza troppa fiducia nell'uno né troppo orro-&#13;
+re per l'altro. Verità della vita è nella profondità delle passioni. Ma quando le passioni sono de-&#13;
+poste? Ci attendono mattini in cui il cielo, dentro la finestra, non ha più senso di un vetro opaco,&#13;
+di una tenda tirata. E le ore della giornata si annunciano indifferenti, uguali come i grani di un rosa-&#13;
+rio. La gioventù, veramente, è finita. E questo sentimento ci sembra occupare ogni persona. Tuttavia&#13;
+il mondo si agita. Gli uomini inseguono disegni ambiziosi di dominio. I loro sogni si fanno vio-&#13;
+lenti. La potenza dell'orgoglio si spinge ai limiti della crudeltà. È la natura stessa che sembra incerta,&#13;
+non sicura del proprio equilibrio. L'uomo, allora, assiste, o ha paura della verità, che è in fondo ad&#13;
+ogni cosa. Gli basta sapersi ingranaggio, particella infinitesimale della          che &#13;
+navigherà&#13;
+viaggerà nello&#13;
+spazio, inviata alla conquista di astri, di mondi ignoti. Di certo, non conoscerà l'incertezza ma-&#13;
+linconica, l'affabile disincanto del navigatore di Leopardi.&#13;
+25.4.1961</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

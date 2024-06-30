@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:22:29.181+01:00</Created>
+        <LastChange>2024-06-20T11:56:53.213+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325507" pageNr="61" tsid="175603538" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=OHPWAKYYIXKMUONHZWRPZYNS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MEVCWGNUENAWZLWOAHAUKDMK" imageId="53903851"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_08_0003_c1r.jpg" imageWidth="1798" imageHeight="2471" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746069109" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="121,327 121,1992 1571,1992 1571,327"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="541,390 569,392 598,394 626,394 655,391 683,390 712,390 740,390 769,389 797,387 826,386 854,386 883,385 911,384 940,383 968,382 997,382 1025,380 1054,380 1082,378 1111,384 1111,333 1082,327 1054,329 1025,329 997,331 968,331 940,332 911,333 883,334 854,335 826,335 797,336 769,338 740,339 712,339 683,339 655,340 626,343 598,343 569,341 541,339"/>
+                <Baseline points="541,373 569,375 598,377 626,377 655,374 683,373 712,373 740,373 769,372 797,370 826,369 854,369 883,368 911,367 940,366 968,365 997,365 1025,363 1054,363 1082,361 1111,367"/>
+                <TextEquiv>
+                    <Unicode>La pista degli automobilini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="163,552 232,552 302,550 372,552 442,552 512,552 581,552 651,552 721,550 791,547 861,547 930,546 1000,544 1070,546 1140,546 1210,547 1279,547 1349,548 1419,545 1489,544 1559,546 1559,495 1489,493 1419,494 1349,497 1279,496 1210,496 1140,495 1070,495 1000,493 930,495 861,496 791,496 721,499 651,501 581,501 512,501 442,501 372,501 302,499 232,501 163,501"/>
+                <Baseline points="163,535 232,535 302,533 372,535 442,535 512,535 581,535 651,535 721,533 791,530 861,530 930,529 1000,527 1070,529 1140,529 1210,530 1279,530 1349,531 1419,528 1489,527 1559,529"/>
+                <TextEquiv>
+                    <Unicode>Noi si usciva dal caffè verso le dieci di sera. Chiacchierando, ci si dirigeva verso la Monta-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="153,623 222,619 291,619 360,619 429,619 498,620 567,619 636,619 705,620 774,620 844,619 913,617 982,613 1051,615 1120,615 1189,616 1258,615 1327,615 1396,615 1465,615 1535,621 1535,591 1465,585 1396,585 1327,585 1258,585 1189,586 1120,585 1051,585 982,583 913,587 844,589 774,590 705,590 636,589 567,589 498,590 429,589 360,589 291,589 222,589 153,593"/>
+                <Baseline points="153,613 222,609 291,609 360,609 429,609 498,610 567,609 636,609 705,610 774,610 844,609 913,607 982,603 1051,605 1120,605 1189,606 1258,605 1327,605 1396,605 1465,605 1535,611"/>
+                <TextEquiv>
+                    <Unicode>gnola. A quel tempo era comune, fra i bolognesi, chiamare così il grande spiazzo che si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186443951_1832" custom="readingOrder {index:3;}">
+                <Coords points="142,648 846,646 846,696 142,698"/>
+                <Baseline points="142,693 846,691"/>
+                <TextEquiv>
+                    <Unicode>stende davanti al monumento, che ricorda la </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;} del {offset:9; length:8;rend:overstrike;} gap {offset:9; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="847,653 887,656 913,657 939,657 965,656 991,654 1018,653 1044,655 1070,655 1096,655 1122,654 1148,653 1175,655 1175,625 1148,623 1122,624 1096,625 1070,625 1044,625 1018,623 991,624 965,626 939,627 913,627 887,626 847,623"/>
+                <Baseline points="853,644 887,646 913,647 939,647 965,646 991,644 1018,643 1044,645 1070,645 1096,645 1122,644 1148,643 1175,645"/>
+                <TextEquiv>
+                    <Unicode>giornata          dell'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186445735_1837" custom="readingOrder {index:5;}">
+                <Coords points="863,641 1528,648 1528,698 863,691"/>
+                <Baseline points="863,686 1528,693"/>
+                <TextEquiv>
+                    <Unicode>8 agosto. Lo spiazzo che, allora, era destinato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="137,781 205,776 274,777 343,775 411,775 480,774 549,773 617,775 686,774 755,775 824,773 892,775 961,774 1030,777 1098,775 1167,776 1236,777 1304,775 1373,775 1442,773 1511,779 1511,730 1442,724 1373,726 1304,726 1236,728 1167,727 1098,726 1030,728 961,725 892,726 824,724 755,726 686,725 617,726 549,724 480,725 411,726 343,726 274,728 205,727 137,732"/>
+                <Baseline points="137,765 205,760 274,761 343,759 411,759 480,758 549,757 617,759 686,758 755,759 824,757 892,759 961,758 1030,761 1098,759 1167,760 1236,761 1304,759 1373,759 1442,757 1511,763"/>
+                <TextEquiv>
+                    <Unicode>a ricevere giostre e baracconi di divertimento popolare: padiglioni di fiere e di fenomeni,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="141,853 209,852 278,851 346,849 415,851 483,852 552,851 620,852 689,851 757,851 826,851 894,850 963,849 1031,849 1100,849 1168,850 1237,849 1305,851 1374,848 1442,849 1511,847 1511,798 1442,800 1374,799 1305,802 1237,800 1168,801 1100,800 1031,800 963,800 894,801 826,802 757,802 689,802 620,803 552,802 483,803 415,802 346,800 278,802 209,803 141,804"/>
+                <Baseline points="141,837 209,836 278,835 346,833 415,835 483,836 552,835 620,836 689,835 757,835 826,835 894,834 963,833 1031,833 1100,833 1168,834 1237,833 1305,835 1374,832 1442,833 1511,831"/>
+                <TextEquiv>
+                    <Unicode>castelli incantati, tiri al bersaglio. La musica delle giostre si spandeva, pacata e come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186456218_1845" custom="readingOrder {index:8;} del {offset:31; length:3;rend:overstrike;} gap {offset:31; length:0;quantity:3; unit:character; reason:illegible;}">
+                <Coords points="139,874 676,874 676,924 139,924"/>
+                <Baseline points="139,919 676,919"/>
+                <TextEquiv>
+                    <Unicode>udita in sogno, fino dentro la    </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186458049_1850" custom="readingOrder {index:9;} add {offset:0; length:3;place:above;}">
+                <Coords points="632,846 692,851 688,901 628,896"/>
+                <Baseline points="628,891 688,896"/>
+                <TextEquiv>
+                    <Unicode>via</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186460635_1855" custom="readingOrder {index:10;}">
+                <Coords points="676,868 1568,876 1568,926 676,918"/>
+                <Baseline points="676,913 1568,921"/>
+                <TextEquiv>
+                    <Unicode>della stazione. Via dell’Indipendenza: nei paraggi dell’A-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:11;}">
+                <Coords points="141,1008 212,1008 283,1006 354,1004 425,1004 496,1002 567,1002 638,1002 709,1002 780,1002 851,1000 922,1001 993,1000 1064,1001 1135,998 1206,1002 1277,1003 1348,1000 1419,1004 1490,1002 1561,1002 1561,951 1490,951 1419,953 1348,949 1277,952 1206,951 1135,947 1064,950 993,949 922,950 851,949 780,951 709,951 638,951 567,951 496,951 425,953 354,953 283,955 212,957 141,957"/>
+                <Baseline points="141,991 212,991 283,989 354,987 425,987 496,985 567,985 638,985 709,985 780,985 851,983 922,984 993,983 1064,984 1135,981 1206,985 1277,986 1348,983 1419,987 1490,985 1561,985"/>
+                <TextEquiv>
+                    <Unicode>rena del Sole. Di fronte al teatro, e dietro il cavallo firmato di Garibaldi, era un caffè, rino-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:12;}">
+                <Coords points="143,1082 212,1080 281,1081 350,1080 420,1082 489,1082 558,1082 628,1080 697,1080 766,1079 836,1076 905,1076 974,1077 1043,1076 1113,1076 1182,1078 1251,1078 1321,1078 1390,1078 1459,1078 1529,1076 1529,1025 1459,1027 1390,1027 1321,1027 1251,1027 1182,1027 1113,1025 1043,1025 974,1026 905,1025 836,1025 766,1028 697,1029 628,1029 558,1031 489,1031 420,1031 350,1029 281,1030 212,1029 143,1031"/>
+                <Baseline points="143,1065 212,1063 281,1064 350,1063 420,1065 489,1065 558,1065 628,1063 697,1063 766,1062 836,1059 905,1059 974,1060 1043,1059 1113,1059 1182,1061 1251,1061 1321,1061 1390,1061 1459,1061 1529,1059"/>
+                <TextEquiv>
+                    <Unicode>mato in quegli anni per la sua clientela di nottambuli: politicanti, giornalisti, e oziosi, che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:13;} del {offset:43; length:2;rend:overstrike;}">
+                <Coords points="121,1151 191,1148 261,1147 331,1147 402,1147 472,1145 542,1145 613,1147 683,1148 753,1145 824,1146 894,1143 964,1143 1034,1144 1105,1147 1175,1147 1245,1150 1316,1150 1386,1147 1456,1148 1527,1151 1527,1121 1456,1118 1386,1117 1316,1120 1245,1120 1175,1117 1105,1117 1034,1114 964,1113 894,1113 824,1116 753,1115 683,1118 613,1117 542,1115 472,1115 402,1117 331,1117 261,1117 191,1118 121,1121"/>
+                <Baseline points="121,1141 191,1138 261,1137 331,1137 402,1137 472,1135 542,1135 613,1137 683,1138 753,1135 824,1136 894,1133 964,1133 1034,1134 1105,1137 1175,1137 1245,1140 1316,1140 1386,1137 1456,1138 1527,1141"/>
+                <TextEquiv>
+                    <Unicode>aspettavano l’ora di ritornare verso casa. Io Ero con il solito amico. Passando, guardavamo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186466855_1863" custom="readingOrder {index:14;} del {offset:38; length:7;rend:overstrike;} gap {offset:38; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="130,1179 847,1174 847,1224 130,1229"/>
+                <Baseline points="130,1224 847,1219"/>
+                <TextEquiv>
+                    <Unicode>dentro i vetri del caffè. Sapevano di        </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:15;}">
+                <Coords points="787,1183 815,1181 843,1183 871,1181 899,1183 899,1153 871,1151 843,1153 815,1151 787,1153"/>
+                <Baseline points="787,1173 815,1171 843,1173 871,1171 899,1173"/>
+                <TextEquiv>
+                    <Unicode>doversi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186468575_1868" custom="readingOrder {index:16;}">
+                <Coords points="857,1175 1565,1180 1565,1230 857,1225"/>
+                <Baseline points="857,1220 1565,1225"/>
+                <TextEquiv>
+                    <Unicode>scoprire, ma più tardi, verso la mezzanotte un&lt;lb/&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:17;}">
+                <Coords points="133,1314 190,1311 248,1309 305,1307 363,1308 421,1306 478,1308 536,1306 593,1306 651,1306 709,1306 766,1304 824,1305 881,1304 939,1304 997,1306 1054,1306 1112,1306 1169,1304 1227,1304 1285,1304 1285,1253 1227,1253 1169,1253 1112,1255 1054,1255 997,1255 939,1253 881,1253 824,1254 766,1253 709,1255 651,1255 593,1255 536,1255 478,1257 421,1255 363,1257 305,1256 248,1258 190,1260 133,1263"/>
+                <Baseline points="133,1297 190,1294 248,1292 305,1290 363,1291 421,1289 478,1291 536,1289 593,1289 651,1289 709,1289 766,1287 824,1288 881,1287 939,1287 997,1289 1054,1289 1112,1289 1169,1287 1227,1287 1285,1287"/>
+                <TextEquiv>
+                    <Unicode>terzo amico. Più anziano di noi. La montagnola era a pochi passi.&lt;lb/&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:18;}">
+                <Coords points="145,1388 214,1384 284,1386 353,1386 423,1386 493,1386 562,1386 632,1384 701,1384 771,1382 841,1380 910,1382 980,1382 1049,1381 1119,1382 1189,1383 1258,1380 1328,1380 1397,1381 1467,1382 1537,1384 1537,1333 1467,1331 1397,1330 1328,1329 1258,1329 1189,1332 1119,1331 1049,1330 980,1331 910,1331 841,1329 771,1331 701,1333 632,1333 562,1335 493,1335 423,1335 353,1335 284,1335 214,1333 145,1337"/>
+                <Baseline points="145,1371 214,1367 284,1369 353,1369 423,1369 493,1369 562,1369 632,1367 701,1367 771,1365 841,1363 910,1365 980,1365 1049,1364 1119,1365 1189,1366 1258,1363 1328,1363 1397,1364 1467,1365 1537,1367"/>
+                <TextEquiv>
+                    <Unicode>Sul margine della piazza, arrivavano i banchi dei caramellai. Vasi cilindrici di vetro,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:19;}">
+                <Coords points="137,1464 208,1464 280,1460 352,1458 423,1459 495,1458 567,1458 638,1460 710,1458 782,1458 854,1456 925,1456 997,1456 1069,1457 1140,1459 1212,1458 1284,1457 1355,1456 1427,1458 1499,1457 1571,1458 1571,1407 1499,1406 1427,1407 1355,1405 1284,1406 1212,1407 1140,1408 1069,1406 997,1405 925,1405 854,1405 782,1407 710,1407 638,1409 567,1407 495,1407 423,1408 352,1407 280,1409 208,1413 137,1413"/>
+                <Baseline points="137,1447 208,1447 280,1443 352,1441 423,1442 495,1441 567,1441 638,1443 710,1441 782,1441 854,1439 925,1439 997,1439 1069,1440 1140,1442 1212,1441 1284,1440 1355,1439 1427,1441 1499,1440 1571,1441"/>
+                <TextEquiv>
+                    <Unicode>zeppi di caramella a mosaico, capolavori di intarsio, con disegni stellari, simili a pietre dure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:20;}">
+                <Coords points="129,1542 199,1540 270,1538 341,1534 412,1536 483,1534 554,1532 624,1532 695,1531 766,1532 837,1532 908,1530 979,1532 1050,1531 1120,1530 1191,1532 1262,1532 1333,1530 1404,1531 1475,1531 1546,1535 1546,1484 1475,1480 1404,1480 1333,1479 1262,1481 1191,1481 1120,1479 1050,1480 979,1481 908,1479 837,1481 766,1481 695,1480 624,1481 554,1481 483,1483 412,1485 341,1483 270,1487 199,1489 129,1491"/>
+                <Baseline points="129,1525 199,1523 270,1521 341,1517 412,1519 483,1517 554,1515 624,1515 695,1514 766,1515 837,1515 908,1513 979,1515 1050,1514 1120,1513 1191,1515 1262,1515 1333,1513 1404,1514 1475,1514 1546,1518"/>
+                <TextEquiv>
+                    <Unicode>di un diadema. E i due dell’ultimo banco: marito e moglie, in lunghi grembiuli bianchi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:21;}">
+                <Coords points="141,1612 212,1612 283,1610 354,1612 425,1610 496,1609 567,1608 638,1608 709,1608 780,1606 851,1606 922,1605 993,1604 1064,1604 1135,1606 1206,1606 1277,1605 1348,1606 1419,1605 1490,1605 1561,1606 1561,1555 1490,1554 1419,1554 1348,1555 1277,1554 1206,1555 1135,1555 1064,1553 993,1553 922,1554 851,1555 780,1555 709,1557 638,1557 567,1557 496,1558 425,1559 354,1561 283,1559 212,1561 141,1561"/>
+                <Baseline points="141,1595 212,1595 283,1593 354,1595 425,1593 496,1592 567,1591 638,1591 709,1591 780,1589 851,1589 922,1588 993,1587 1064,1587 1135,1589 1206,1589 1277,1588 1348,1589 1419,1588 1490,1588 1561,1589"/>
+                <TextEquiv>
+                    <Unicode>che giravano, parlando fra di loro, le corde di zucchero filato: una bianca, una verde, una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:22;}">
+                <Coords points="137,1686 208,1690 279,1686 350,1686 422,1684 493,1685 564,1685 636,1684 707,1684 778,1684 850,1684 921,1682 992,1682 1063,1682 1135,1680 1206,1680 1277,1681 1349,1680 1420,1682 1491,1681 1563,1682 1563,1631 1491,1630 1420,1631 1349,1629 1277,1630 1206,1629 1135,1629 1063,1631 992,1631 921,1631 850,1633 778,1633 707,1633 636,1633 564,1634 493,1634 422,1633 350,1635 279,1635 208,1639 137,1635"/>
+                <Baseline points="137,1669 208,1673 279,1669 350,1669 422,1667 493,1668 564,1668 636,1667 707,1667 778,1667 850,1667 921,1665 992,1665 1063,1665 1135,1663 1206,1663 1277,1664 1349,1663 1420,1665 1491,1664 1563,1665"/>
+                <TextEquiv>
+                    <Unicode>rossa. Qualcosa, come una pentola, bolliva sopra un fornelletto. Fiammelle di acetilene saltando</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:23;}">
+                <Coords points="125,1760 196,1760 268,1758 339,1762 411,1760 483,1760 554,1760 626,1758 697,1758 769,1758 841,1756 912,1758 984,1760 1055,1757 1127,1757 1199,1758 1270,1758 1342,1759 1413,1758 1485,1758 1557,1764 1557,1713 1485,1707 1413,1707 1342,1708 1270,1707 1199,1707 1127,1706 1055,1706 984,1709 912,1707 841,1705 769,1707 697,1707 626,1707 554,1709 483,1709 411,1709 339,1711 268,1707 196,1709 125,1709"/>
+                <Baseline points="125,1743 196,1743 268,1741 339,1745 411,1743 483,1743 554,1743 626,1741 697,1741 769,1741 841,1739 912,1741 984,1743 1055,1740 1127,1740 1199,1741 1270,1741 1342,1742 1413,1741 1485,1741 1557,1747"/>
+                <TextEquiv>
+                    <Unicode>da bussolotti di latta, si producevano nel buio della sera. I banchi di caramelle, quasi, non avevano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:24;}">
+                <Coords points="125,1840 195,1838 265,1838 335,1836 406,1836 476,1836 546,1836 617,1837 687,1834 757,1834 828,1834 898,1833 968,1832 1038,1835 1109,1836 1179,1838 1249,1839 1320,1838 1390,1840 1460,1842 1531,1846 1531,1795 1460,1791 1390,1789 1320,1787 1249,1788 1179,1787 1109,1785 1038,1784 968,1781 898,1782 828,1783 757,1783 687,1783 617,1786 546,1785 476,1785 406,1785 335,1785 265,1787 195,1787 125,1789"/>
+                <Baseline points="125,1823 195,1821 265,1821 335,1819 406,1819 476,1819 546,1819 617,1820 687,1817 757,1817 828,1817 898,1816 968,1815 1038,1818 1109,1819 1179,1821 1249,1822 1320,1821 1390,1823 1460,1825 1531,1829"/>
+                <TextEquiv>
+                    <Unicode>no clienti. Come pure senza clienti, il chiosco del fotografo – rapido. Un uomo giovane, un ragazzo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:25;}">
+                <Coords points="133,1914 204,1913 276,1914 347,1912 419,1912 490,1910 562,1910 633,1910 705,1912 776,1910 848,1911 919,1908 991,1908 1062,1909 1134,1907 1205,1910 1277,1908 1348,1910 1420,1910 1491,1909 1563,1910 1563,1859 1491,1858 1420,1859 1348,1859 1277,1857 1205,1859 1134,1856 1062,1858 991,1857 919,1857 848,1860 776,1859 705,1861 633,1859 562,1859 490,1859 419,1861 347,1861 276,1863 204,1862 133,1863"/>
+                <Baseline points="133,1897 204,1896 276,1897 347,1895 419,1895 490,1893 562,1893 633,1893 705,1895 776,1893 848,1894 919,1891 991,1891 1062,1892 1134,1890 1205,1893 1277,1891 1348,1893 1420,1893 1491,1892 1563,1893"/>
+                <TextEquiv>
+                    <Unicode>sedeva là dentro occupato nella lettura di una dispensa di romanzo. La testa dentro un alto berretto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:26;}">
+                <Coords points="125,1992 196,1990 267,1988 338,1989 409,1988 480,1988 551,1986 622,1988 693,1987 764,1986 836,1986 907,1986 978,1984 1049,1984 1120,1984 1191,1986 1262,1988 1333,1986 1404,1988 1475,1988 1547,1990 1547,1939 1475,1937 1404,1937 1333,1935 1262,1937 1191,1935 1120,1933 1049,1933 978,1933 907,1935 836,1935 764,1935 693,1936 622,1937 551,1935 480,1937 409,1937 338,1938 267,1937 196,1939 125,1941"/>
+                <Baseline points="125,1975 196,1973 267,1971 338,1972 409,1971 480,1971 551,1969 622,1971 693,1970 764,1969 836,1969 907,1969 978,1967 1049,1967 1120,1967 1191,1969 1262,1971 1333,1969 1404,1971 1475,1971 1547,1973"/>
+                <TextEquiv>
+                    <Unicode>di lana. Il cencio nero avvolto intorno alla macchina. Un senso di vita fermata, un indugio vaga-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La pista degli automobilini&#13;
+Noi si usciva dal caffè verso le dieci di sera. Chiacchierando, ci si dirigeva verso la Monta-&#13;
+gnola. A quel tempo era comune, fra i bolognesi, chiamare così il grande spiazzo che si&#13;
+stende davanti al monumento, che ricorda la &#13;
+giornata          dell'&#13;
+8 agosto. Lo spiazzo che, allora, era destinato&#13;
+a ricevere giostre e baracconi di divertimento popolare: padiglioni di fiere e di fenomeni,&#13;
+castelli incantati, tiri al bersaglio. La musica delle giostre si spandeva, pacata e come&#13;
+udita in sogno, fino dentro la    &#13;
+via&#13;
+della stazione. Via dell’Indipendenza: nei paraggi dell’A-&#13;
+rena del Sole. Di fronte al teatro, e dietro il cavallo firmato di Garibaldi, era un caffè, rino-&#13;
+mato in quegli anni per la sua clientela di nottambuli: politicanti, giornalisti, e oziosi, che&#13;
+aspettavano l’ora di ritornare verso casa. Io Ero con il solito amico. Passando, guardavamo&#13;
+dentro i vetri del caffè. Sapevano di        &#13;
+doversi &#13;
+scoprire, ma più tardi, verso la mezzanotte un&lt;lb/&gt;&#13;
+terzo amico. Più anziano di noi. La montagnola era a pochi passi.&lt;lb/&gt;&#13;
+Sul margine della piazza, arrivavano i banchi dei caramellai. Vasi cilindrici di vetro,&#13;
+zeppi di caramella a mosaico, capolavori di intarsio, con disegni stellari, simili a pietre dure&#13;
+di un diadema. E i due dell’ultimo banco: marito e moglie, in lunghi grembiuli bianchi,&#13;
+che giravano, parlando fra di loro, le corde di zucchero filato: una bianca, una verde, una&#13;
+rossa. Qualcosa, come una pentola, bolliva sopra un fornelletto. Fiammelle di acetilene saltando&#13;
+da bussolotti di latta, si producevano nel buio della sera. I banchi di caramelle, quasi, non avevano&#13;
+no clienti. Come pure senza clienti, il chiosco del fotografo – rapido. Un uomo giovane, un ragazzo&#13;
+sedeva là dentro occupato nella lettura di una dispensa di romanzo. La testa dentro un alto berretto&#13;
+di lana. Il cencio nero avvolto intorno alla macchina. Un senso di vita fermata, un indugio vaga-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

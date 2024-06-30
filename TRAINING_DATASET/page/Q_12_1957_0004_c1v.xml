@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:37:28.432+02:00</Created>
+        <LastChange>2024-06-21T10:17:45.536+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326045" pageNr="110" tsid="175603598" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=OTQHYNVQYNHPYVCRGGDOXPLX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GMANCUKBUSMJUQINRVIDLBTW" imageId="54316450"/>
+    </Metadata>
+    <Page imageFilename="Q_12_1957_0004_c1v.jpg" imageWidth="1798" imageHeight="2523" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746079054" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="193,533 193,2091 1659,2091 1659,533"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="221,563 292,567 363,566 434,567 505,567 576,565 647,565 718,565 789,567 860,566 932,564 1003,563 1074,565 1145,563 1216,565 1287,564 1358,563 1429,566 1500,567 1571,569 1643,571 1643,541 1571,539 1500,537 1429,536 1358,533 1287,534 1216,535 1145,533 1074,535 1003,533 932,534 860,536 789,537 718,535 647,535 576,535 505,537 434,537 363,536 292,537 221,533"/>
+                <Baseline points="221,553 292,557 363,556 434,557 505,557 576,555 647,555 718,555 789,557 860,556 932,554 1003,553 1074,555 1145,553 1216,555 1287,554 1358,553 1429,556 1500,557 1571,559 1643,561"/>
+                <TextEquiv>
+                    <Unicode>barba bionda. L'ingegnere. Seguito da assisenti, da muratori. Svolgeva un rotolo ampio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706686529_171" custom="readingOrder {index:1;}">
+                <Coords points="206,594 530,593 530,643 206,644"/>
+                <Baseline points="206,639 530,638"/>
+                <TextEquiv>
+                    <Unicode>di carte". "I disegni,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;} add {offset:1; length:13;place:above;}">
+                <Coords points="515,603 540,603 565,602 590,600 615,599 641,599 666,599 691,601 716,602 741,603 767,605 767,575 741,573 716,572 691,571 666,569 641,569 615,569 590,570 565,572 540,573 515,573"/>
+                <Baseline points="515,593 540,593 565,592 590,590 615,589 641,589 666,589 691,591 716,592 741,593 767,595"/>
+                <TextEquiv>
+                    <Unicode>"si mormorava.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706693827_176" custom="readingOrder {index:3;}">
+                <Coords points="550,592 1647,596 1647,646 550,642"/>
+                <Baseline points="550,637 1647,641"/>
+                <TextEquiv>
+                    <Unicode> Tutti allungavano gli occhi. Guardavano con rispetto. Uno, tra i curiosi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="201,715 273,716 345,719 417,713 489,714 561,711 633,711 705,713 777,711 849,714 921,715 993,711 1065,713 1137,713 1209,714 1281,713 1353,714 1425,715 1497,715 1569,716 1641,723 1641,692 1569,685 1497,684 1425,684 1353,683 1281,682 1209,683 1137,682 1065,682 993,680 921,684 849,683 777,680 705,682 633,680 561,680 489,683 417,682 345,688 273,685 201,684"/>
+                <Baseline points="201,705 273,706 345,709 417,703 489,704 561,701 633,701 705,703 777,701 849,704 921,705 993,701 1065,703 1137,703 1209,704 1281,703 1353,704 1425,705 1497,705 1569,706 1641,713"/>
+                <TextEquiv>
+                    <Unicode>avvertiva: "Fanno il cemento armato" - "Cos'è, il cemento armato?" - "Non si sa"-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="219,797 289,793 360,792 431,791 501,790 572,789 643,789 713,788 784,787 855,787 926,789 996,789 1067,789 1138,790 1208,791 1279,791 1350,792 1420,793 1491,792 1562,791 1633,797 1633,767 1562,761 1491,762 1420,763 1350,762 1279,761 1208,761 1138,760 1067,759 996,759 926,759 855,757 784,757 713,758 643,759 572,759 501,760 431,761 360,762 289,763 219,767"/>
+                <Baseline points="219,787 289,783 360,782 431,781 501,780 572,779 643,779 713,778 784,777 855,777 926,779 996,779 1067,779 1138,780 1208,781 1279,781 1350,782 1420,783 1491,782 1562,781 1633,787"/>
+                <TextEquiv>
+                    <Unicode>"Lo fanno anche i tedeschi". Con deferente timore, si stava a sentire. Finchè, dal fondo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706703199_184" custom="readingOrder {index:6;}">
+                <Coords points="206,823 1329,817 1329,867 206,873"/>
+                <Baseline points="206,868 1329,862"/>
+                <TextEquiv>
+                    <Unicode>degli scavi, fra le rovine di muri e di mattoni, una voce proclamava </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:7;}">
+                <Coords points="1135,823 1161,825 1188,825 1214,828 1241,830 1267,832 1294,834 1320,835 1347,837 1347,807 1320,805 1294,804 1267,802 1241,800 1214,798 1188,795 1161,795 1135,793"/>
+                <Baseline points="1135,813 1161,815 1188,815 1214,818 1241,820 1267,822 1294,824 1320,825 1347,827"/>
+                <TextEquiv>
+                    <Unicode>allegramente : - </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706705340_189" custom="readingOrder {index:8;} gap {offset:5; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="1343,821 1628,828 1627,878 1342,871"/>
+                <Baseline points="1342,866 1627,873"/>
+                <TextEquiv>
+                    <Unicode>"L'è      ed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:9;} gap {offset:0; length:0;quantity:9; unit:character; reason:illegible;}">
+                <Coords points="207,943 233,948 259,948 285,947 311,948 338,949 364,949 390,951 416,951 443,951 455,896 416,920 390,920 364,918 338,918 311,917 285,916 259,917 233,917 207,912"/>
+                <Baseline points="207,933 233,938 259,938 285,937 311,938 338,939 364,939 390,941 416,941 443,941"/>
+                <TextEquiv>
+                    <Unicode>          .. "</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:10;}">
+                <Coords points="205,1031 276,1025 347,1023 418,1021 489,1017 560,1017 631,1017 702,1015 773,1017 844,1019 916,1018 987,1017 1058,1019 1129,1019 1200,1017 1271,1017 1342,1017 1413,1017 1484,1017 1555,1019 1627,1015 1627,984 1555,988 1484,986 1413,986 1342,986 1271,986 1200,986 1129,988 1058,988 987,986 916,987 844,988 773,986 702,984 631,986 560,986 489,986 418,990 347,992 276,994 205,1000"/>
+                <Baseline points="205,1021 276,1015 347,1013 418,1011 489,1007 560,1007 631,1007 702,1005 773,1007 844,1009 916,1008 987,1007 1058,1009 1129,1009 1200,1007 1271,1007 1342,1007 1413,1007 1484,1007 1555,1009 1627,1005"/>
+                <TextEquiv>
+                    <Unicode>Il gergo dei muratori bolognesi ci estasiava. Era passato, del resto, nell'uso del popolo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:11;} date {offset:53; length:4;year:0; day:0; month:0;} gap {offset:53; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="203,1101 275,1099 347,1098 420,1095 492,1096 565,1095 637,1095 709,1094 782,1095 854,1095 927,1093 999,1094 1071,1093 1144,1093 1216,1092 1289,1091 1361,1093 1433,1093 1506,1095 1578,1096 1651,1099 1651,1069 1578,1066 1506,1065 1433,1063 1361,1063 1289,1061 1216,1062 1144,1063 1071,1063 999,1064 927,1063 854,1065 782,1065 709,1064 637,1065 565,1065 492,1066 420,1065 347,1068 275,1069 203,1071"/>
+                <Baseline points="203,1091 275,1089 347,1088 420,1085 492,1086 565,1085 637,1085 709,1084 782,1085 854,1085 927,1083 999,1084 1071,1083 1144,1083 1216,1082 1289,1081 1361,1083 1433,1083 1506,1085 1578,1086 1651,1089"/>
+                <TextEquiv>
+                    <Unicode>intero; intendo, fra la gente di lavoro. Si coglieva      nelle botteghe, nelle osterie, al mer-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706725726_201" custom="readingOrder {index:12;}">
+                <Coords points="200,1131 679,1129 679,1179 200,1181"/>
+                <Baseline points="200,1176 679,1174"/>
+                <TextEquiv>
+                    <Unicode>cato, e perfino in famiglia, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:13;} add {offset:0; length:12;place:above;}">
+                <Coords points="565,1131 593,1133 621,1133 649,1133 677,1133 705,1136 733,1137 733,1107 705,1106 677,1103 649,1103 621,1103 593,1103 565,1101"/>
+                <Baseline points="565,1121 593,1123 621,1123 649,1123 677,1123 705,1126 733,1127"/>
+                <TextEquiv>
+                    <Unicode>che fosse di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706728245_206" custom="readingOrder {index:14;}">
+                <Coords points="707,1119 1645,1125 1645,1175 707,1169"/>
+                <Baseline points="707,1164 1628,1170"/>
+                <TextEquiv>
+                    <Unicode> condizione operaia, o artigiana. Sono termini che si ritengono,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:15;}">
+                <Coords points="193,1255 265,1251 338,1249 410,1249 483,1249 555,1250 628,1247 700,1247 773,1247 845,1246 918,1245 990,1245 1063,1245 1135,1245 1208,1245 1280,1245 1353,1246 1425,1246 1498,1247 1570,1246 1643,1247 1643,1216 1570,1215 1498,1216 1425,1215 1353,1215 1280,1214 1208,1214 1135,1214 1063,1214 990,1214 918,1214 845,1215 773,1216 700,1216 628,1216 555,1219 483,1218 410,1218 338,1218 265,1220 193,1224"/>
+                <Baseline points="193,1245 265,1241 338,1239 410,1239 483,1239 555,1240 628,1237 700,1237 773,1237 845,1236 918,1235 990,1235 1063,1235 1135,1235 1208,1235 1280,1235 1353,1236 1425,1236 1498,1237 1570,1236 1643,1237"/>
+                <TextEquiv>
+                    <Unicode>per la loro violenza, espressa, per il colore e suono. Ora, io credo, caduti in disuso, dalla classe stessa </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706737698_214" custom="readingOrder {index:16;} del {offset:26; length:5;rend:overstrike;} gap {offset:26; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="202,1278 681,1278 681,1328 202,1328"/>
+                <Baseline points="202,1323 681,1323"/>
+                <TextEquiv>
+                    <Unicode>che l'aveva creati, in un       </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:17;} add {offset:0; length:7;place:above;}">
+                <Coords points="581,1293 608,1295 635,1298 662,1299 689,1297 689,1267 662,1269 635,1268 608,1265 581,1263"/>
+                <Baseline points="581,1283 608,1285 635,1288 662,1289 689,1287"/>
+                <TextEquiv>
+                    <Unicode>eccesso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706739872_219" custom="readingOrder {index:18;}">
+                <Coords points="688,1276 1640,1274 1640,1324 688,1326"/>
+                <Baseline points="688,1321 1640,1319"/>
+                <TextEquiv>
+                    <Unicode>di fantasia. E' come un istinto plastico della rappresentazione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706748221_227" custom="readingOrder {index:19;} del {offset:26; length:7;rend:overstrike;} gap {offset:26; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="200,1351 1391,1353 1391,1403 200,1401"/>
+                <Baseline points="200,1396 1391,1398"/>
+                <TextEquiv>
+                    <Unicode>verbale in esseri toccati         dalla realtà materiale delle cose, dei sensi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:20;}">
+                <Coords points="1121,1359 1146,1359 1171,1359 1196,1360 1221,1361 1246,1361 1271,1361 1296,1361 1321,1360 1346,1358 1371,1357 1396,1357 1421,1357 1446,1356 1471,1356 1496,1357 1521,1357 1547,1357 1547,1327 1521,1327 1496,1327 1471,1326 1446,1326 1421,1327 1396,1327 1371,1327 1346,1328 1321,1330 1296,1331 1271,1331 1246,1331 1221,1331 1196,1330 1171,1329 1146,1329 1121,1329"/>
+                <Baseline points="1121,1349 1146,1349 1171,1349 1196,1350 1221,1351 1246,1351 1271,1351 1296,1351 1321,1350 1346,1348 1371,1347 1396,1347 1421,1347 1446,1346 1471,1346 1496,1347 1521,1347 1547,1347"/>
+                <TextEquiv>
+                    <Unicode>I muratori sono al lavoro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706750400_232" custom="readingOrder {index:21;}">
+                <Coords points="1402,1355 1651,1355 1651,1405 1402,1405"/>
+                <Baseline points="1402,1400 1651,1400"/>
+                <TextEquiv>
+                    <Unicode> Passa una ragaz-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706757321_240" custom="readingOrder {index:22;}">
+                <Coords points="185,1434 231,1427 239,1476 193,1483"/>
+                <Baseline points="192,1478 238,1471"/>
+                <TextEquiv>
+                    <Unicode>za</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:23;} add {offset:0; length:17;place:above;}">
+                <Coords points="193,1427 220,1427 247,1429 275,1430 302,1430 329,1429 357,1429 384,1429 411,1430 439,1433 439,1403 411,1400 384,1399 357,1399 329,1399 302,1400 275,1400 247,1399 220,1397 193,1397"/>
+                <Baseline points="193,1417 220,1417 247,1419 275,1420 302,1420 329,1419 357,1419 384,1419 411,1420 439,1423"/>
+                <TextEquiv>
+                    <Unicode>ballando i tacchi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706766769_245" custom="readingOrder {index:24;} del {offset:21; length:6;rend:overstrike;}">
+                <Coords points="241,1426 687,1433 686,1483 240,1476"/>
+                <Baseline points="240,1471 686,1478"/>
+                <TextEquiv>
+                    <Unicode>: "Oh bela cafiela", dicono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715764074518_529" custom="readingOrder {index:25;} add {offset:0; length:8;place:above;}">
+                <Coords points="579,1390 713,1395 711,1445 577,1440"/>
+                <Baseline points="577,1435 711,1440"/>
+                <TextEquiv>
+                    <Unicode>dice uno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715763938129_500" custom="readingOrder {index:26;} del {offset:4; length:8;rend:overtyped;}">
+                <Coords points="696,1423 866,1429 864,1479 694,1473"/>
+                <Baseline points="694,1468 864,1474"/>
+                <TextEquiv>
+                    <Unicode> ed emettono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715764076805_534" custom="readingOrder {index:27;} add {offset:0; length:6;place:above;}">
+                <Coords points="763,1389 871,1399 867,1449 759,1439"/>
+                <Baseline points="759,1434 867,1444"/>
+                <TextEquiv>
+                    <Unicode>emette</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715763941715_505" custom="readingOrder {index:28;} hi {offset:13; length:23;rend:underline;}">
+                <Coords points="874,1426 1652,1431 1652,1481 874,1476"/>
+                <Baseline points="874,1471 1652,1476"/>
+                <TextEquiv>
+                    <Unicode>un fischio. "Slonna che ingambadonna..."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715764268105_572" custom="readingOrder {index:29;}">
+                <Coords points="201,1513 737,1509 737,1559 201,1563"/>
+                <Baseline points="201,1558 737,1554"/>
+                <TextEquiv>
+                    <Unicode>Le gambe delle ragazze bolognesi, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:30;}">
+                <Coords points="611,1503 636,1508 662,1509 687,1509 713,1511 739,1511 739,1481 713,1481 687,1479 662,1479 636,1478 611,1473"/>
+                <Baseline points="611,1493 636,1498 662,1499 687,1499 713,1501 739,1501"/>
+                <TextEquiv>
+                    <Unicode>si sa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715764271006_577" custom="readingOrder {index:31;}">
+                <Coords points="745,1501 1652,1503 1652,1553 745,1551"/>
+                <Baseline points="745,1546 1652,1548"/>
+                <TextEquiv>
+                    <Unicode> sono foggiate in un modellato armonioso e scattante: il resto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706778229_258" custom="readingOrder {index:32;} del {offset:11; length:6;rend:overtped;}">
+                <Coords points="201,1583 469,1577 470,1627 202,1633"/>
+                <Baseline points="202,1628 470,1622"/>
+                <TextEquiv>
+                    <Unicode>del corpo, sembra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:33;} add {offset:0; length:9;place:above;}">
+                <Coords points="341,1587 370,1587 399,1587 428,1589 457,1589 487,1591 487,1561 457,1559 428,1559 399,1557 370,1557 341,1557"/>
+                <Baseline points="341,1577 370,1577 399,1577 428,1579 457,1579 487,1581"/>
+                <TextEquiv>
+                    <Unicode>si mostra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706781156_263" custom="readingOrder {index:34;}">
+                <Coords points="478,1575 1573,1577 1573,1627 478,1625"/>
+                <Baseline points="478,1620 1573,1622"/>
+                <TextEquiv>
+                    <Unicode> felice d'essere così portato. Un altro, nell'atto che stava per caricarsi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:35;} add {offset:0; length:9;place:above;}">
+                <Coords points="1449,1585 1477,1589 1505,1591 1533,1591 1561,1592 1589,1593 1617,1591 1617,1561 1589,1563 1561,1562 1533,1561 1505,1561 1477,1559 1449,1555"/>
+                <Baseline points="1449,1575 1477,1579 1505,1581 1533,1581 1561,1582 1589,1583 1617,1581"/>
+                <TextEquiv>
+                    <Unicode>il cumulo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706782701_268" custom="readingOrder {index:36;}">
+                <Coords points="1578,1577 1624,1575 1626,1625 1580,1627"/>
+                <Baseline points="1580,1622 1626,1620"/>
+                <TextEquiv>
+                    <Unicode>di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706792417_276" custom="readingOrder {index:37;}">
+                <Coords points="198,1657 828,1661 828,1711 198,1707"/>
+                <Baseline points="198,1702 828,1706"/>
+                <TextEquiv>
+                    <Unicode>mattoni sulla spalla, lancia un sibilo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706794665_281" custom="readingOrder {index:38;} add {offset:0; length:6;place:above;}">
+                <Coords points="720,1606 831,1619 825,1669 714,1656"/>
+                <Baseline points="715,1651 826,1664"/>
+                <TextEquiv>
+                    <Unicode>lungo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715706797317_286" custom="readingOrder {index:39;} hi {offset:24; length:25; continued:true;rend:underline;}">
+                <Coords points="841,1652 1656,1665 1655,1715 840,1702"/>
+                <Baseline points="840,1697 1655,1710"/>
+                <TextEquiv>
+                    <Unicode> da serpente. Brontola: "-- che don beli biganzi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:40;} hi {offset:0; length:19; continued:true;rend:underline;}">
+                <Coords points="201,1783 273,1781 345,1779 417,1779 489,1778 562,1779 634,1778 706,1777 778,1777 850,1777 923,1775 995,1775 1067,1773 1139,1776 1211,1777 1284,1779 1356,1777 1428,1779 1500,1779 1572,1780 1645,1783 1645,1752 1572,1749 1500,1748 1428,1748 1356,1746 1284,1748 1211,1746 1139,1745 1067,1742 995,1744 923,1744 850,1746 778,1746 706,1746 634,1747 562,1748 489,1747 417,1748 345,1748 273,1750 201,1752"/>
+                <Baseline points="201,1773 273,1771 345,1769 417,1769 489,1768 562,1769 634,1768 706,1767 778,1767 850,1767 923,1765 995,1765 1067,1763 1139,1766 1211,1767 1284,1769 1356,1767 1428,1769 1500,1769 1572,1770 1645,1773"/>
+                <TextEquiv>
+                    <Unicode>Dio at bacudessa.." Infila il capo sotto i mattoni. Tutto è finito. E' stato un atti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:41;}">
+                <Coords points="205,1859 277,1857 350,1855 422,1855 495,1857 567,1855 640,1853 712,1855 785,1854 857,1855 930,1855 1002,1853 1075,1854 1147,1855 1220,1855 1292,1853 1365,1853 1437,1853 1510,1853 1582,1855 1655,1859 1655,1828 1582,1824 1510,1822 1437,1822 1365,1822 1292,1822 1220,1824 1147,1824 1075,1823 1002,1822 930,1824 857,1824 785,1823 712,1824 640,1822 567,1824 495,1826 422,1824 350,1824 277,1826 205,1828"/>
+                <Baseline points="205,1849 277,1847 350,1845 422,1845 495,1847 567,1845 640,1843 712,1845 785,1844 857,1845 930,1845 1002,1843 1075,1844 1147,1845 1220,1845 1292,1843 1365,1843 1437,1843 1510,1843 1582,1845 1655,1849"/>
+                <TextEquiv>
+                    <Unicode>mo: un momento di sfogo, di colorita rappresentazione popolare, nell'ora prima di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:42;}">
+                <Coords points="207,1935 279,1936 351,1935 423,1931 495,1931 567,1929 639,1929 711,1929 783,1929 855,1929 928,1929 1000,1929 1072,1931 1144,1931 1216,1931 1288,1931 1360,1931 1432,1933 1504,1933 1576,1933 1649,1937 1649,1906 1576,1902 1504,1902 1432,1902 1360,1900 1288,1900 1216,1900 1144,1900 1072,1900 1000,1898 928,1898 855,1898 783,1898 711,1898 639,1898 567,1898 495,1900 423,1900 351,1904 279,1905 207,1904"/>
+                <Baseline points="207,1925 279,1926 351,1925 423,1921 495,1921 567,1919 639,1919 711,1919 783,1919 855,1919 928,1919 1000,1919 1072,1921 1144,1921 1216,1921 1288,1921 1360,1921 1432,1923 1504,1923 1576,1923 1649,1927"/>
+                <TextEquiv>
+                    <Unicode>sera. Gli operai sono al loro lavoro, lenti, pazienti. I passanti si volgono, guardano,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:43;}">
+                <Coords points="201,2013 273,2011 346,2007 419,2006 492,2005 565,2003 638,2005 711,2005 784,2005 857,2005 930,2004 1002,2003 1075,2004 1148,2003 1221,2004 1294,2007 1367,2007 1440,2008 1513,2007 1586,2008 1659,2007 1659,1976 1586,1977 1513,1976 1440,1977 1367,1976 1294,1976 1221,1973 1148,1972 1075,1973 1002,1972 930,1973 857,1974 784,1974 711,1974 638,1974 565,1972 492,1974 419,1975 346,1976 273,1980 201,1982"/>
+                <Baseline points="201,2003 273,2001 346,1997 419,1996 492,1995 565,1993 638,1995 711,1995 784,1995 857,1995 930,1994 1002,1993 1075,1994 1148,1993 1221,1994 1294,1997 1367,1997 1440,1998 1513,1997 1586,1998 1659,1997"/>
+                <TextEquiv>
+                    <Unicode>ridono. Nella strada acciottolata, giunge una carrozza, che infila la piazza, e sparisce. Noi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:44;}">
+                <Coords points="207,2085 277,2085 347,2086 417,2083 487,2082 557,2079 627,2079 697,2080 767,2081 837,2081 907,2079 977,2079 1047,2081 1117,2081 1187,2083 1257,2083 1327,2083 1397,2083 1467,2083 1537,2086 1607,2091 1607,2060 1537,2055 1467,2052 1397,2052 1327,2052 1257,2052 1187,2052 1117,2050 1047,2050 977,2048 907,2048 837,2050 767,2050 697,2049 627,2048 557,2048 487,2051 417,2052 347,2055 277,2054 207,2054"/>
+                <Baseline points="207,2075 277,2075 347,2076 417,2073 487,2072 557,2069 627,2069 697,2070 767,2071 837,2071 907,2069 977,2069 1047,2071 1117,2071 1187,2073 1257,2073 1327,2073 1397,2073 1467,2073 1537,2076 1607,2081"/>
+                <TextEquiv>
+                    <Unicode>ragazzi, il pacco dei libri sotto il braccio, ci incamminiamo verso casa. Altri tempi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>barba bionda. L'ingegnere. Seguito da assisenti, da muratori. Svolgeva un rotolo ampio&#13;
+di carte". "I disegni,&#13;
+"si mormorava.&#13;
+ Tutti allungavano gli occhi. Guardavano con rispetto. Uno, tra i curiosi,&#13;
+avvertiva: "Fanno il cemento armato" - "Cos'è, il cemento armato?" - "Non si sa"-&#13;
+"Lo fanno anche i tedeschi". Con deferente timore, si stava a sentire. Finchè, dal fondo&#13;
+degli scavi, fra le rovine di muri e di mattoni, una voce proclamava &#13;
+allegramente : - &#13;
+"L'è      ed&#13;
+          .. "&#13;
+Il gergo dei muratori bolognesi ci estasiava. Era passato, del resto, nell'uso del popolo&#13;
+intero; intendo, fra la gente di lavoro. Si coglieva      nelle botteghe, nelle osterie, al mer-&#13;
+cato, e perfino in famiglia, &#13;
+che fosse di&#13;
+ condizione operaia, o artigiana. Sono termini che si ritengono,&#13;
+per la loro violenza, espressa, per il colore e suono. Ora, io credo, caduti in disuso, dalla classe stessa &#13;
+che l'aveva creati, in un       &#13;
+eccesso&#13;
+di fantasia. E' come un istinto plastico della rappresentazione&#13;
+verbale in esseri toccati         dalla realtà materiale delle cose, dei sensi.&#13;
+I muratori sono al lavoro&#13;
+ Passa una ragaz-&#13;
+za&#13;
+ballando i tacchi&#13;
+: "Oh bela cafiela", dicono&#13;
+dice uno&#13;
+ ed emettono&#13;
+emette&#13;
+un fischio. "Slonna che ingambadonna..."&#13;
+Le gambe delle ragazze bolognesi, &#13;
+si sa,&#13;
+ sono foggiate in un modellato armonioso e scattante: il resto&#13;
+del corpo, sembra&#13;
+si mostra&#13;
+ felice d'essere così portato. Un altro, nell'atto che stava per caricarsi &#13;
+il cumulo&#13;
+di&#13;
+mattoni sulla spalla, lancia un sibilo,&#13;
+lungo,&#13;
+ da serpente. Brontola: "-- che don beli biganzi,&#13;
+Dio at bacudessa.." Infila il capo sotto i mattoni. Tutto è finito. E' stato un atti-&#13;
+mo: un momento di sfogo, di colorita rappresentazione popolare, nell'ora prima di&#13;
+sera. Gli operai sono al loro lavoro, lenti, pazienti. I passanti si volgono, guardano,&#13;
+ridono. Nella strada acciottolata, giunge una carrozza, che infila la piazza, e sparisce. Noi&#13;
+ragazzi, il pacco dei libri sotto il braccio, ci incamminiamo verso casa. Altri tempi.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

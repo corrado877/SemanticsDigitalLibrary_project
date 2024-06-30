@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:16:39.833+01:00</Created>
+        <LastChange>2024-06-20T11:43:40.076+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326017" pageNr="55" tsid="175603524" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=HKIWNYBEDBHXAHKAXUANRKBU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VXOFOJIYOLCEPEOFPDRVRYDL" imageId="53903828"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_07_0009_c4r.jpg" imageWidth="1798" imageHeight="2476" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746067950" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="130,348 130,2025 1580,2025 1580,348"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:19;rend:underline;}">
+                <Coords points="574,413 599,412 625,409 650,411 676,411 701,413 727,412 752,409 778,407 803,407 829,405 854,405 880,404 905,402 931,400 956,399 982,399 1008,399 1008,348 982,348 956,348 931,349 905,351 880,353 854,354 829,354 803,356 778,356 752,358 727,361 701,362 676,360 650,360 625,358 599,361 574,362"/>
+                <Baseline points="574,396 599,395 625,392 650,394 676,394 701,396 727,395 752,392 778,390 803,390 829,388 854,388 880,387 905,385 931,383 956,382 982,382 1008,382"/>
+                <TextEquiv>
+                    <Unicode>L'Africa di Rimbaud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} del {offset:34; length:24;rend:overstrike;}">
+                <Coords points="176,583 245,580 315,579 385,579 455,581 525,577 595,577 665,578 735,577 805,577 875,575 944,577 1014,577 1084,577 1154,577 1224,577 1294,577 1364,577 1434,575 1504,575 1574,575 1574,524 1504,524 1434,524 1364,526 1294,526 1224,526 1154,526 1084,526 1014,526 944,526 875,524 805,526 735,526 665,527 595,526 525,526 455,530 385,528 315,528 245,529 176,532"/>
+                <Baseline points="176,566 245,563 315,562 385,562 455,564 525,560 595,560 665,561 735,560 805,560 875,558 944,560 1014,560 1084,560 1154,560 1224,560 1294,560 1364,560 1434,558 1504,558 1574,558"/>
+                <TextEquiv>
+                    <Unicode>Ci sono di quelli, tra gli uomini degni del nome di uomini, che ai momenti insormontabili</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} gap {offset:68; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="138,657 208,656 278,653 348,654 418,653 488,653 558,655 628,655 698,657 768,656 839,656 909,655 979,655 1049,655 1119,651 1189,651 1259,651 1329,649 1399,648 1469,648 1540,645 1540,594 1469,597 1399,597 1329,598 1259,600 1189,600 1119,600 1049,604 979,604 909,604 839,605 768,605 698,606 628,604 558,604 488,602 418,602 348,603 278,602 208,605 138,606"/>
+                <Baseline points="138,640 208,639 278,636 348,637 418,636 488,636 558,638 628,638 698,640 768,639 839,639 909,638 979,638 1049,638 1119,634 1189,634 1259,634 1329,632 1399,631 1469,631 1540,628"/>
+                <TextEquiv>
+                    <Unicode>dell'esistenza, e quando le condizioni dell'esistenza giungono alle       , al di là delle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="152,735 223,731 294,729 365,728 436,729 507,727 578,727 649,727 720,728 791,729 863,728 934,728 1005,729 1076,728 1147,729 1218,727 1289,726 1360,727 1431,727 1502,728 1574,731 1574,680 1502,677 1431,676 1360,676 1289,675 1218,676 1147,678 1076,677 1005,678 934,677 863,677 791,678 720,677 649,676 578,676 507,676 436,678 365,677 294,678 223,680 152,684"/>
+                <Baseline points="152,718 223,714 294,712 365,711 436,712 507,710 578,710 649,710 720,711 791,712 863,711 934,711 1005,712 1076,711 1147,712 1218,710 1289,709 1360,710 1431,710 1502,711 1574,714"/>
+                <TextEquiv>
+                    <Unicode>quali sembra sia o il minuto, o almeno la prospettiva di uno spazio infinito da affrontare,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="130,807 200,807 270,809 340,805 411,803 481,803 551,801 622,801 692,801 762,801 833,802 903,801 973,803 1043,802 1114,803 1184,804 1254,801 1325,801 1395,801 1465,801 1536,805 1536,754 1465,750 1395,750 1325,750 1254,750 1184,753 1114,752 1043,751 973,752 903,750 833,751 762,750 692,750 622,750 551,750 481,752 411,752 340,754 270,758 200,756 130,756"/>
+                <Baseline points="130,790 200,790 270,792 340,788 411,786 481,786 551,784 622,784 692,784 762,784 833,785 903,784 973,786 1043,785 1114,786 1184,787 1254,784 1325,784 1395,784 1465,784 1536,788"/>
+                <TextEquiv>
+                    <Unicode>si piegano sui grandi libri. Non si vuole dire di gente arrivata alla disperazione: ma solo di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="152,891 222,885 293,883 363,881 434,879 504,878 575,879 645,879 716,881 786,879 857,882 927,881 998,881 1068,879 1139,879 1209,879 1280,879 1350,879 1421,877 1491,877 1562,875 1562,824 1491,826 1421,826 1350,828 1280,828 1209,828 1139,828 1068,828 998,830 927,830 857,831 786,828 716,830 645,828 575,828 504,827 434,828 363,830 293,832 222,834 152,840"/>
+                <Baseline points="152,874 222,868 293,866 363,864 434,862 504,861 575,862 645,862 716,864 786,862 857,865 927,864 998,864 1068,862 1139,862 1209,862 1280,862 1350,862 1421,860 1491,860 1562,858"/>
+                <TextEquiv>
+                    <Unicode>qualcuno che ha visto naufragare speranze, fallire progetti, e prova una noia invincibile per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="134,963 206,957 278,959 350,957 423,958 495,957 567,957 640,956 712,955 784,955 857,955 929,957 1001,957 1073,957 1146,957 1218,955 1290,957 1363,957 1435,957 1507,955 1580,957 1580,906 1507,904 1435,906 1363,906 1290,906 1218,904 1146,906 1073,906 1001,906 929,906 857,904 784,904 712,904 640,905 567,906 495,906 423,907 350,906 278,908 206,906 134,912"/>
+                <Baseline points="134,946 206,940 278,942 350,940 423,941 495,940 567,940 640,939 712,938 784,938 857,938 929,940 1001,940 1073,940 1146,940 1218,938 1290,940 1363,940 1435,940 1507,938 1580,940"/>
+                <TextEquiv>
+                    <Unicode>il commercio dei propri simili. Anche gente comune, ma non troppo. uomini di fantasia, e di cuore.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="150,1033 220,1033 290,1031 360,1033 430,1032 500,1033 570,1033 640,1032 710,1031 780,1032 850,1031 920,1029 990,1028 1060,1027 1130,1027 1200,1026 1270,1027 1340,1027 1410,1027 1480,1027 1550,1029 1550,978 1480,976 1410,976 1340,976 1270,976 1200,975 1130,976 1060,976 990,977 920,978 850,980 780,981 710,980 640,981 570,982 500,982 430,981 360,982 290,980 220,982 150,982"/>
+                <Baseline points="150,1016 220,1016 290,1014 360,1016 430,1015 500,1016 570,1016 640,1015 710,1014 780,1015 850,1014 920,1012 990,1011 1060,1010 1130,1010 1200,1009 1270,1010 1340,1010 1410,1010 1480,1010 1550,1012"/>
+                <TextEquiv>
+                    <Unicode>Ne conobbi uno, ed era, o si dichiarava un ateo; era un autodidatta. Finito in carcere (è storia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="146,1104 216,1103 286,1104 356,1106 426,1103 497,1102 567,1102 637,1100 707,1100 777,1102 848,1102 918,1102 988,1102 1058,1101 1128,1100 1199,1100 1269,1098 1339,1098 1409,1098 1479,1098 1550,1098 1550,1068 1479,1068 1409,1068 1339,1068 1269,1068 1199,1070 1128,1070 1058,1071 988,1072 918,1072 848,1072 777,1072 707,1070 637,1070 567,1072 497,1072 426,1073 356,1076 286,1074 216,1073 146,1074"/>
+                <Baseline points="146,1094 216,1093 286,1094 356,1096 426,1093 497,1092 567,1092 637,1090 707,1090 777,1092 848,1092 918,1092 988,1092 1058,1091 1128,1090 1199,1090 1269,1088 1339,1088 1409,1088 1479,1088 1550,1088"/>
+                <TextEquiv>
+                    <Unicode>del principio di questo secolo), in conseguenza di un ideale politico, o sociale, anche morale: nei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718182295984_924" custom="readingOrder {index:9;} del {offset:7; length:5;rend:overstrike;} gap {offset:7; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="145,1129 319,1129 319,1179 145,1179"/>
+                <Baseline points="145,1174 319,1174"/>
+                <TextEquiv>
+                    <Unicode>lunghi      </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:10;} add {offset:0; length:4;place:above;}">
+                <Coords points="250,1138 280,1142 310,1144 310,1114 280,1112 250,1108"/>
+                <Baseline points="250,1128 280,1132 310,1134"/>
+                <TextEquiv>
+                    <Unicode>mesi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718182298508_929" custom="readingOrder {index:11;}">
+                <Coords points="323,1129 1559,1123 1559,1173 323,1179"/>
+                <Baseline points="323,1174 1559,1168"/>
+                <TextEquiv>
+                    <Unicode>di detenzione, non ebbe altra compagnia di quella di un libro, che un compagno, come si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718182301978_934" custom="readingOrder {index:12;} date {offset:25; length:8;year:0; day:0; month:0;} gap {offset:25; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="142,1206 647,1202 647,1252 142,1256"/>
+                <Baseline points="142,1251 647,1247"/>
+                <TextEquiv>
+                    <Unicode>dice, di fede, gli aveva         </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:13;} add {offset:0; length:9;place:above;}">
+                <Coords points="498,1224 525,1221 553,1220 580,1220 608,1218 636,1216 636,1186 608,1188 580,1190 553,1190 525,1191 498,1194"/>
+                <Baseline points="498,1214 525,1211 553,1210 580,1210 608,1208 636,1206"/>
+                <TextEquiv>
+                    <Unicode>procurato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718182305345_939" custom="readingOrder {index:14;} del {offset:25; length:15;rend:overstrike;}">
+                <Coords points="660,1202 1271,1200 1271,1250 660,1252"/>
+                <Baseline points="660,1247 1271,1245"/>
+                <TextEquiv>
+                    <Unicode>Era il Nuovo Testamento. Non so che cosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:15;} add {offset:0; length:22;place:above;}">
+                <Coords points="1110,1212 1136,1214 1163,1214 1190,1214 1216,1213 1243,1212 1270,1212 1296,1212 1323,1214 1350,1214 1376,1212 1403,1215 1430,1216 1430,1186 1403,1185 1376,1182 1350,1184 1323,1184 1296,1182 1270,1182 1243,1182 1216,1183 1190,1184 1163,1184 1136,1184 1110,1182"/>
+                <Baseline points="1110,1202 1136,1204 1163,1204 1190,1204 1216,1203 1243,1202 1270,1202 1296,1202 1323,1204 1350,1204 1376,1202 1403,1205 1430,1206"/>
+                <TextEquiv>
+                    <Unicode>Chissà che riflessioni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718182307024_944" custom="readingOrder {index:16;}">
+                <Coords points="1284,1197 1557,1200 1557,1250 1284,1247"/>
+                <Baseline points="1284,1242 1557,1245"/>
+                <TextEquiv>
+                    <Unicode> ricavasse da quella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:17;}">
+                <Coords points="144,1337 215,1338 287,1339 358,1341 430,1339 502,1337 573,1335 645,1334 716,1333 788,1332 860,1331 931,1333 1003,1333 1074,1333 1146,1333 1218,1333 1289,1331 1361,1331 1432,1333 1504,1334 1576,1337 1576,1286 1504,1283 1432,1282 1361,1280 1289,1280 1218,1282 1146,1282 1074,1282 1003,1282 931,1282 860,1280 788,1281 716,1282 645,1283 573,1284 502,1286 430,1288 358,1290 287,1288 215,1287 144,1286"/>
+                <Baseline points="144,1320 215,1321 287,1322 358,1324 430,1322 502,1320 573,1318 645,1317 716,1316 788,1315 860,1314 931,1316 1003,1316 1074,1316 1146,1316 1218,1316 1289,1314 1361,1314 1432,1316 1504,1317 1576,1320"/>
+                <TextEquiv>
+                    <Unicode>lettura, e frequentazione quotidiana. Con noi, suoi famigliari, non gli piaceva di parlare. Solamente,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718182319875_952" custom="readingOrder {index:18;} add {offset:0; length:2;place:above;}">
+                <Coords points="173,1330 235,1330 235,1380 173,1380"/>
+                <Baseline points="173,1375 235,1375"/>
+                <TextEquiv>
+                    <Unicode>in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718182324535_957" custom="readingOrder {index:19;} del {offset:0; length:4;rend:overstrike;} gap {offset:0; length:0;quantity:4; unit:character; reason:illegible;} date {offset:15; length:3;year:0; day:0; month:0;}">
+                <Coords points="149,1356 1557,1365 1557,1415 149,1406"/>
+                <Baseline points="149,1401 1557,1410"/>
+                <TextEquiv>
+                    <Unicode>     occasioni più diverse, all'improvviso, gli veniva fatto di citare, con aria distratta, un passo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718182332579_965" custom="readingOrder {index:20;} del {offset:38; length:9;rend:overstrike;}">
+                <Coords points="151,1433 817,1433 817,1483 151,1483"/>
+                <Baseline points="151,1478 817,1478"/>
+                <TextEquiv>
+                    <Unicode>un episodio, una frase di quel libro. In quella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:21;} add {offset:0; length:5;place:above;}">
+                <Coords points="746,1442 772,1444 798,1444 824,1444 850,1444 850,1414 824,1414 798,1414 772,1414 746,1412"/>
+                <Baseline points="746,1432 772,1434 798,1434 824,1434 850,1434"/>
+                <TextEquiv>
+                    <Unicode>Nella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718182334876_970" custom="readingOrder {index:22;}">
+                <Coords points="821,1429 1551,1431 1551,1481 821,1479"/>
+                <Baseline points="821,1474 1551,1476"/>
+                <TextEquiv>
+                    <Unicode>succinta citazione, in quel ricordo, sembrava voler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:23;}">
+                <Coords points="146,1550 217,1555 289,1556 360,1556 432,1558 503,1560 575,1560 646,1560 718,1558 789,1556 861,1556 932,1554 1004,1554 1075,1554 1147,1555 1218,1554 1290,1554 1361,1554 1433,1554 1504,1555 1576,1562 1576,1532 1504,1525 1433,1524 1361,1524 1290,1524 1218,1524 1147,1525 1075,1524 1004,1524 932,1524 861,1526 789,1526 718,1528 646,1530 575,1530 503,1530 432,1528 360,1526 289,1526 217,1525 146,1520"/>
+                <Baseline points="146,1540 217,1545 289,1546 360,1546 432,1548 503,1550 575,1550 646,1550 718,1548 789,1546 861,1546 932,1544 1004,1544 1075,1544 1147,1545 1218,1544 1290,1544 1361,1544 1433,1544 1504,1545 1576,1552"/>
+                <TextEquiv>
+                    <Unicode>cercare una conferma, o una spiegazione, di un pensiero suo che, ripeto, non poteva aver fondamen_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718182344703_978" custom="readingOrder {index:24;} del {offset:39; length:8;rend:overstrike;} gap {offset:39; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="153,1581 852,1581 852,1631 153,1631"/>
+                <Baseline points="153,1626 852,1626"/>
+                <TextEquiv>
+                    <Unicode>to in un principio, in un suggerimento         </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:25;} del {offset:0; length:9;rend:above;}">
+                <Coords points="696,1592 721,1594 747,1593 773,1593 798,1593 824,1593 850,1592 850,1562 824,1563 798,1563 773,1563 747,1563 721,1564 696,1562"/>
+                <Baseline points="696,1582 721,1584 747,1583 773,1583 798,1583 824,1583 850,1582"/>
+                <TextEquiv>
+                    <Unicode>di ordine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718182348013_983" custom="readingOrder {index:26;}">
+                <Coords points="861,1577 1564,1579 1564,1629 861,1627"/>
+                <Baseline points="861,1622 1564,1624"/>
+                <TextEquiv>
+                    <Unicode>religioso. Semplicemente, poteva darsi che, di quella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:27;}">
+                <Coords points="156,1711 225,1713 295,1714 364,1715 434,1717 504,1716 573,1713 643,1713 712,1712 782,1711 852,1711 921,1711 991,1711 1060,1713 1130,1711 1200,1711 1269,1711 1339,1711 1408,1713 1478,1715 1548,1713 1548,1662 1478,1664 1408,1662 1339,1660 1269,1660 1200,1660 1130,1660 1060,1662 991,1660 921,1660 852,1660 782,1660 712,1661 643,1662 573,1662 504,1665 434,1666 364,1664 295,1663 225,1662 156,1660"/>
+                <Baseline points="156,1694 225,1696 295,1697 364,1698 434,1700 504,1699 573,1696 643,1696 712,1695 782,1694 852,1694 921,1694 991,1694 1060,1696 1130,1694 1200,1694 1269,1694 1339,1694 1408,1696 1478,1698 1548,1696"/>
+                <TextEquiv>
+                    <Unicode>testimonianza, egli apprezzava la serietà, l'omertà delle proposte, e un incoraggiamento, oppure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:28;}">
+                <Coords points="152,1793 220,1793 288,1793 356,1793 425,1791 493,1791 561,1791 630,1791 698,1789 766,1791 835,1789 903,1791 971,1787 1039,1787 1108,1787 1176,1786 1244,1785 1313,1785 1381,1787 1449,1788 1518,1789 1518,1738 1449,1737 1381,1736 1313,1734 1244,1734 1176,1735 1108,1736 1039,1736 971,1736 903,1740 835,1738 766,1740 698,1738 630,1740 561,1740 493,1740 425,1740 356,1742 288,1742 220,1742 152,1742"/>
+                <Baseline points="152,1776 220,1776 288,1776 356,1776 425,1774 493,1774 561,1774 630,1774 698,1772 766,1774 835,1772 903,1774 971,1770 1039,1770 1108,1770 1176,1769 1244,1768 1313,1768 1381,1770 1449,1771 1518,1772"/>
+                <TextEquiv>
+                    <Unicode>non so che cosa, per dare una spiegazione alla propria difficoltà, una risposta a domande sue.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:29;}">
+                <Coords points="172,1873 241,1871 311,1867 381,1867 451,1869 521,1867 590,1865 660,1864 730,1865 800,1864 870,1865 939,1865 1009,1864 1079,1863 1149,1863 1219,1861 1288,1862 1358,1863 1428,1864 1498,1866 1568,1869 1568,1818 1498,1815 1428,1813 1358,1812 1288,1811 1219,1810 1149,1812 1079,1812 1009,1813 939,1814 870,1814 800,1813 730,1814 660,1813 590,1814 521,1816 451,1818 381,1816 311,1816 241,1820 172,1822"/>
+                <Baseline points="172,1856 241,1854 311,1850 381,1850 451,1852 521,1850 590,1848 660,1847 730,1848 800,1847 870,1848 939,1848 1009,1847 1079,1846 1149,1846 1219,1844 1288,1845 1358,1846 1428,1847 1498,1849 1568,1852"/>
+                <TextEquiv>
+                    <Unicode>A me succede da molto tempo, da vent'anni almeno, che, ogni tanto, provo il bisogno di rileg_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:30;}">
+                <Coords points="154,1953 224,1946 294,1943 364,1942 434,1942 504,1941 574,1941 644,1940 714,1941 784,1939 855,1942 925,1941 995,1941 1065,1943 1135,1943 1205,1941 1275,1941 1345,1939 1415,1940 1485,1942 1556,1941 1556,1890 1485,1891 1415,1889 1345,1888 1275,1890 1205,1890 1135,1892 1065,1892 995,1890 925,1890 855,1891 784,1888 714,1890 644,1889 574,1890 504,1890 434,1891 364,1891 294,1892 224,1895 154,1902"/>
+                <Baseline points="154,1936 224,1929 294,1926 364,1925 434,1925 504,1924 574,1924 644,1923 714,1924 784,1922 855,1925 925,1924 995,1924 1065,1926 1135,1926 1205,1924 1275,1924 1345,1922 1415,1923 1485,1925 1556,1924"/>
+                <TextEquiv>
+                    <Unicode>gere le lettere di Rimbaud dall'Africa. E' come cercare, in fatto di verità e di crudezza della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718182365339_991" custom="readingOrder {index:31;} del {offset:78; length:4;rend:overstrike;} gap {offset:78; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="146,1969 1305,1954 1306,2004 147,2019"/>
+                <Baseline points="147,2014 1306,1999"/>
+                <TextEquiv>
+                    <Unicode>vita, qualcosa che non la poesia, non la dolcezza dell'affetto, non l'armonia     </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718182368986_996" custom="readingOrder {index:32;} add {offset:0; length:3;place:above;}">
+                <Coords points="1271,1925 1324,1925 1324,1975 1271,1975"/>
+                <Baseline points="1271,1970 1324,1970"/>
+                <TextEquiv>
+                    <Unicode>del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718182371353_1001" custom="readingOrder {index:33;}">
+                <Coords points="1320,1956 1563,1960 1562,2010 1319,2006"/>
+                <Baseline points="1319,2001 1562,2005"/>
+                <TextEquiv>
+                    <Unicode>bello e del buono.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>L'Africa di Rimbaud&#13;
+Ci sono di quelli, tra gli uomini degni del nome di uomini, che ai momenti insormontabili&#13;
+dell'esistenza, e quando le condizioni dell'esistenza giungono alle       , al di là delle&#13;
+quali sembra sia o il minuto, o almeno la prospettiva di uno spazio infinito da affrontare,&#13;
+si piegano sui grandi libri. Non si vuole dire di gente arrivata alla disperazione: ma solo di&#13;
+qualcuno che ha visto naufragare speranze, fallire progetti, e prova una noia invincibile per&#13;
+il commercio dei propri simili. Anche gente comune, ma non troppo. uomini di fantasia, e di cuore.&#13;
+Ne conobbi uno, ed era, o si dichiarava un ateo; era un autodidatta. Finito in carcere (è storia&#13;
+del principio di questo secolo), in conseguenza di un ideale politico, o sociale, anche morale: nei&#13;
+lunghi      &#13;
+mesi&#13;
+di detenzione, non ebbe altra compagnia di quella di un libro, che un compagno, come si&#13;
+dice, di fede, gli aveva         &#13;
+procurato&#13;
+Era il Nuovo Testamento. Non so che cosa&#13;
+Chissà che riflessioni&#13;
+ ricavasse da quella&#13;
+lettura, e frequentazione quotidiana. Con noi, suoi famigliari, non gli piaceva di parlare. Solamente,&#13;
+in&#13;
+     occasioni più diverse, all'improvviso, gli veniva fatto di citare, con aria distratta, un passo,&#13;
+un episodio, una frase di quel libro. In quella&#13;
+Nella&#13;
+succinta citazione, in quel ricordo, sembrava voler&#13;
+cercare una conferma, o una spiegazione, di un pensiero suo che, ripeto, non poteva aver fondamen_&#13;
+to in un principio, in un suggerimento         &#13;
+di ordine&#13;
+religioso. Semplicemente, poteva darsi che, di quella&#13;
+testimonianza, egli apprezzava la serietà, l'omertà delle proposte, e un incoraggiamento, oppure&#13;
+non so che cosa, per dare una spiegazione alla propria difficoltà, una risposta a domande sue.&#13;
+A me succede da molto tempo, da vent'anni almeno, che, ogni tanto, provo il bisogno di rileg_&#13;
+gere le lettere di Rimbaud dall'Africa. E' come cercare, in fatto di verità e di crudezza della&#13;
+vita, qualcosa che non la poesia, non la dolcezza dell'affetto, non l'armonia     &#13;
+del&#13;
+bello e del buono.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

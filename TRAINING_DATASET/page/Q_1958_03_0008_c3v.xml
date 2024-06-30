@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:16:22.796+01:00</Created>
+        <LastChange>2024-06-20T11:00:48.960+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325971" pageNr="7" tsid="175603491" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=FVKORKWXUTJRIJGHIGJXTCFY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UMFOPIFKSKSTEFBOWREWKVWU" imageId="53898448"/>
+    </Metadata>
+    <Page imageFilename="Q_1958_03_0008_c3v.jpg" imageWidth="1798" imageHeight="2531" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746058359" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1713638103108_404"/>
+                <RegionRefIndexed index="1" regionRef="region_1713636931645_139"/>
+                <RegionRefIndexed index="2" regionRef="region_1712687311341_568"/>
+                <RegionRefIndexed index="3" regionRef="region_1712687421373_582"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1713638103108_404" custom="readingOrder {index:0;}">
+            <Coords points="202,278 1700,276 1700,2061 202,2063"/>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1713636931645_139" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="1531,317 1642,317 1642,399 1531,399"/>
+            <TextLine id="line_1713636944477_145" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:right;}">
+                <Coords points="1562,337 1619,337 1619,387 1562,387"/>
+                <Baseline points="1562,382 1619,382"/>
+                <TextEquiv>
+                    <Unicode>6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>6.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1712687311341_568" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1670,805 205,800 211,449 1668,452"/>
+            <TextLine id="line_1713637027046_162" custom="readingOrder {index:0;} hi {offset:0; length:9;rend:underline;}">
+                <Coords points="213,527 521,526 800,523 800,573 521,576 213,577"/>
+                <Baseline points="222,572 521,571 800,568"/>
+                <TextEquiv>
+                    <Unicode>razionale del loro corpo: martelli,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637032815_167" custom="readingOrder {index:1;} add {offset:0; length:9;place:above;}">
+                <Coords points="797,465 942,458 944,508 799,515"/>
+                <Baseline points="799,510 944,503"/>
+                <TextEquiv>
+                    <Unicode>scalpelli, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637047518_172" custom="readingOrder {index:2;}">
+                <Coords points="822,523 1101,523 1409,510 1650,517 1649,567 1409,560 1102,573 822,573"/>
+                <Baseline points="822,568 1102,568 1409,555 1649,562"/>
+                <TextEquiv>
+                    <Unicode> lime, punteruoli, rapano, seghe, tenaglie, cesoie,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637109071_181" custom="readingOrder {index:3;} del {offset:14; length:9;rend:overstrike;} gap {offset:14; length:0;quantity:9; unit:character; reason:illegible;}">
+                <Coords points="210,607 464,603 712,601 820,590 1127,591 1331,594 1650,593 1650,643 1331,644 1127,641 822,640 714,651 464,653 211,657"/>
+                <Baseline points="215,651 464,648 714,646 822,635 1127,636 1331,639 1650,638"/>
+                <TextEquiv>
+                    <Unicode>pinze, morse.           La natura antropomorfica di taluni di quei vecchi arnesi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637125990_186" custom="readingOrder {index:4;}">
+                <Coords points="218,675 549,674 1079,668 1268,671 1502,667 1634,667 1653,667 1653,717 1634,717 1502,717 1268,721 1079,718 549,724 218,725"/>
+                <Baseline points="225,719 549,719 1079,713 1268,716 1502,712 1634,712 1653,712"/>
+                <TextEquiv>
+                    <Unicode>è commovente e quasi romanzesca: sono mani, dita, mascelle,denti di acciaio, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637157326_191" custom="readingOrder {index:5;}">
+                <Coords points="216,748 404,748 645,743 790,746 953,748 1255,749 1255,799 953,798 789,796 645,793 404,798 216,798"/>
+                <Baseline points="216,793 404,793 645,788 789,791 953,793 1238,795"/>
+                <TextEquiv>
+                    <Unicode>che si muovono e agiscono, in preda ad un loro assurdo sentimento!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>razionale del loro corpo: martelli,&#13;
+scalpelli, &#13;
+ lime, punteruoli, rapano, seghe, tenaglie, cesoie,&#13;
+pinze, morse.           La natura antropomorfica di taluni di quei vecchi arnesi,&#13;
+è commovente e quasi romanzesca: sono mani, dita, mascelle,denti di acciaio, &#13;
+che si muovono e agiscono, in preda ad un loro assurdo sentimento!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1712687421373_582" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1657,2025 211,2025 211,815 1657,815"/>
+            <TextLine id="line_1713637224710_214" custom="readingOrder {index:0;}">
+                <Coords points="228,830 570,830 782,830 957,824 1096,824 1309,824 1634,819 1635,869 1309,874 1096,874 958,874 783,880 570,880 228,880"/>
+                <Baseline points="233,876 570,875 783,875 958,869 1096,869 1309,869 1635,864"/>
+                <TextEquiv>
+                    <Unicode>L'umanità laboriosa e generosa che dava alla luce questi mostri benigni, questi arti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637263606_220" custom="readingOrder {index:1;}">
+                <Coords points="223,906 487,901 669,900 1019,895 1263,893 1435,898 1607,898 1607,948 1434,948 1263,943 1020,945 669,950 488,951 224,956"/>
+                <Baseline points="230,949 488,946 669,945 1020,940 1263,938 1434,943 1607,943"/>
+                <TextEquiv>
+                    <Unicode>animati in un sogno di nuovi "prodotti" della pazienza e dell'intelligenza umana,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637283990_225" custom="readingOrder {index:2;}">
+                <Coords points="218,983 440,979 649,978 830,978 967,974 1204,974 1408,968 1627,972 1626,1022 1408,1018 1205,1024 968,1024 831,1028 649,1028 441,1029 219,1033"/>
+                <Baseline points="224,1021 441,1024 649,1023 831,1023 968,1019 1205,1019 1408,1013 1626,1017"/>
+                <TextEquiv>
+                    <Unicode>doveva essersi formata una morale che regolava i rapporti suoi propri con quelli del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637368322_246" custom="readingOrder {index:3;}">
+                <Coords points="215,1054 311,1052 525,1056 678,1044 883,1048 1131,1050 1324,1048 1654,1048 1654,1098 1324,1098 1131,1100 882,1098 679,1094 526,1106 311,1102 216,1104"/>
+                <Baseline points="216,1099 311,1097 526,1101 679,1089 882,1093 1131,1095 1324,1093 1654,1093"/>
+                <TextEquiv>
+                    <Unicode>quotidiano suo lavoro: gli attrezzi di lavoro. Era una civiltà, che incominciava dal nulla.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637388141_251" custom="readingOrder {index:4;}">
+                <Coords points="219,1129 455,1130 692,1132 938,1127 1139,1124 1280,1129 1540,1124 1643,1124 1643,1174 1540,1174 1280,1179 1139,1174 939,1177 692,1182 455,1180 219,1179"/>
+                <Baseline points="219,1174 455,1175 692,1177 939,1172 1139,1169 1280,1174 1540,1169 1643,1169"/>
+                <TextEquiv>
+                    <Unicode>Come Robinson Crusoe nell'isola, essa doveva ricavare e foggiare, non dalla terra ma dal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637402950_256" custom="readingOrder {index:5;}">
+                <Coords points="219,1209 405,1205 660,1202 965,1200 1147,1200 1281,1194 1563,1202 1643,1202 1643,1252 1562,1252 1281,1244 1148,1250 965,1250 660,1252 406,1255 220,1259"/>
+                <Baseline points="229,1255 406,1250 660,1247 965,1245 1148,1245 1281,1239 1562,1247 1643,1247"/>
+                <TextEquiv>
+                    <Unicode>ferro, ogni mezzo necessario a realizzare il suo bisogno, il suo sogno di ricostruzione del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637599819_281" custom="readingOrder {index:6;} del {offset:52; length:12;rend:overstrike;} gap {offset:52; length:0;quantity:12; unit:character; reason:illegible;}">
+                <Coords points="227,1283 348,1281 511,1281 709,1280 824,1278 926,1274 1034,1288 1248,1300 1248,1329 1030,1325 927,1324 825,1328 710,1330 511,1331 348,1331 228,1333"/>
+                <Baseline points="228,1328 348,1326 511,1326 710,1325 825,1323 927,1319 1030,1320 1248,1324"/>
+                <TextEquiv>
+                    <Unicode>mondo. Creare, stampare il primo chiodo. I mestieri              </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637633165_290" custom="readingOrder {index:7;} add {offset:0; length:12;place:above;}">
+                <Coords points="1060,1254 1259,1266 1258,1303 1059,1291"/>
+                <Baseline points="1066,1288 1258,1298"/>
+                <TextEquiv>
+                    <Unicode>soccorrevano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637671774_302" custom="readingOrder {index:8;}">
+                <Coords points="1261,1285 1414,1283 1634,1276 1634,1326 1414,1325 1261,1327"/>
+                <Baseline points="1266,1321 1413,1315 1630,1313"/>
+                <TextEquiv>
+                    <Unicode>con l'inclinazione e l'in-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637786813_321" custom="readingOrder {index:9;}">
+                <Coords points="218,1364 394,1359 636,1355 891,1352 1000,1352 1101,1350 1255,1344 1343,1361 1641,1355 1642,1405 1339,1411 1252,1394 1102,1400 1000,1402 891,1402 637,1405 395,1409 219,1414"/>
+                <Baseline points="223,1409 395,1404 637,1400 891,1397 1000,1397 1102,1395 1252,1389 1339,1406 1642,1400"/>
+                <TextEquiv>
+                    <Unicode>ventiva infinita degli uomini impegnati in un lavoro manuale. La gamma vasta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637814756_326" custom="readingOrder {index:10;}">
+                <Coords points="213,1439 390,1439 622,1432 788,1432 1026,1432 1227,1426 1413,1439 1640,1434 1641,1484 1412,1489 1226,1476 1027,1482 788,1482 623,1482 391,1489 214,1489"/>
+                <Baseline points="223,1487 391,1484 623,1477 788,1477 1027,1477 1226,1471 1412,1484 1641,1479"/>
+                <TextEquiv>
+                    <Unicode>dei mestieri, appoggiati ad alcuni mestieri primitivi e di base, si apre in quel secolo con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637831365_331" custom="readingOrder {index:11;}">
+                <Coords points="218,1511 351,1509 564,1506 822,1506 1072,1506 1250,1506 1451,1504 1641,1511 1639,1561 1450,1554 1250,1556 1072,1556 822,1556 564,1556 352,1559 219,1561"/>
+                <Baseline points="219,1556 352,1554 564,1551 822,1551 1072,1551 1250,1551 1450,1549 1639,1556"/>
+                <TextEquiv>
+                    <Unicode>l'armonia e l'umana bellezza con cui, nello stesso tempo, gli uomini approfondivano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637846981_336" custom="readingOrder {index:12;}">
+                <Coords points="221,1592 505,1584 683,1586 977,1584 1285,1582 1564,1574 1649,1580 1646,1630 1563,1624 1286,1632 977,1634 683,1636 505,1634 222,1642"/>
+                <Baseline points="222,1637 505,1629 683,1631 977,1629 1286,1627 1563,1619 1646,1625"/>
+                <TextEquiv>
+                    <Unicode>a conoscenza dei loro sentimenti, e li impiegavano nell'interesse di tutti gli esseri viventi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637863725_341" custom="readingOrder {index:13;}">
+                <Coords points="263,1658 599,1654 953,1654 1124,1654 1308,1654 1617,1652 1648,1652 1648,1702 1617,1702 1308,1704 1124,1704 953,1704 599,1704 264,1708"/>
+                <Baseline points="280,1701 599,1699 953,1699 1124,1699 1308,1699 1617,1697 1648,1697"/>
+                <TextEquiv>
+                    <Unicode>Vecchi mestieri: artigiani e operai, gente piegata sul lavoro per tutta la durata della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637907181_346" custom="readingOrder {index:14;}">
+                <Coords points="224,1738 467,1738 594,1724 855,1738 1017,1725 1175,1725 1343,1724 1504,1732 1632,1732 1632,1782 1503,1782 1342,1774 1175,1775 1019,1775 856,1788 595,1774 469,1788 224,1788"/>
+                <Baseline points="224,1783 469,1783 595,1769 856,1783 1019,1770 1175,1770 1342,1769 1503,1777 1632,1777"/>
+                <TextEquiv>
+                    <Unicode>vita, inventori di strumenti, costruttori di oggetti, di cose che hanno l'intento, e quasi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637923141_351" custom="readingOrder {index:15;}">
+                <Coords points="222,1813 398,1815 531,1807 755,1802 993,1807 1162,1807 1415,1804 1544,1807 1637,1807 1637,1857 1543,1857 1415,1854 1162,1857 993,1857 755,1852 533,1857 399,1865 221,1863"/>
+                <Baseline points="221,1858 399,1860 533,1852 755,1847 993,1852 1162,1852 1415,1849 1543,1852 1637,1852"/>
+                <TextEquiv>
+                    <Unicode>"l'animo" rivolto a rendere un poco più lieta l'esistenza umana nella società civile.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637941229_356" custom="readingOrder {index:16;}">
+                <Coords points="220,1892 389,1890 538,1888 683,1886 809,1884 922,1884 1133,1888 1318,1884 1511,1884 1642,1880 1643,1930 1512,1934 1318,1934 1133,1938 922,1934 809,1934 684,1936 539,1938 390,1940 221,1942"/>
+                <Baseline points="221,1937 390,1935 539,1933 684,1931 809,1929 922,1929 1133,1933 1318,1929 1512,1929 1643,1925"/>
+                <TextEquiv>
+                    <Unicode>Essi preparavano il tempo futuro, quello che oggi è incominciato: il tempo della mac-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713637967540_361" custom="readingOrder {index:17;}">
+                <Coords points="216,1968 393,1958 545,1958 698,1958 807,1960 891,1960 960,1960 1127,1958 1244,1958 1375,1958 1375,2008 1244,2008 1127,2008 960,2010 891,2010 807,2010 698,2008 545,2008 394,2008 219,2018"/>
+                <Baseline points="219,2013 394,2003 545,2003 698,2003 807,2005 891,2005 960,2005 1127,2003 1244,2003 1364,2003"/>
+                <TextEquiv>
+                    <Unicode>china. La macchina: creata a imitazione, e perfezione dell'uomo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>L'umanità laboriosa e generosa che dava alla luce questi mostri benigni, questi arti&#13;
+animati in un sogno di nuovi "prodotti" della pazienza e dell'intelligenza umana,&#13;
+doveva essersi formata una morale che regolava i rapporti suoi propri con quelli del&#13;
+quotidiano suo lavoro: gli attrezzi di lavoro. Era una civiltà, che incominciava dal nulla.&#13;
+Come Robinson Crusoe nell'isola, essa doveva ricavare e foggiare, non dalla terra ma dal&#13;
+ferro, ogni mezzo necessario a realizzare il suo bisogno, il suo sogno di ricostruzione del&#13;
+mondo. Creare, stampare il primo chiodo. I mestieri              &#13;
+soccorrevano&#13;
+con l'inclinazione e l'in-&#13;
+ventiva infinita degli uomini impegnati in un lavoro manuale. La gamma vasta&#13;
+dei mestieri, appoggiati ad alcuni mestieri primitivi e di base, si apre in quel secolo con&#13;
+l'armonia e l'umana bellezza con cui, nello stesso tempo, gli uomini approfondivano&#13;
+a conoscenza dei loro sentimenti, e li impiegavano nell'interesse di tutti gli esseri viventi.&#13;
+Vecchi mestieri: artigiani e operai, gente piegata sul lavoro per tutta la durata della&#13;
+vita, inventori di strumenti, costruttori di oggetti, di cose che hanno l'intento, e quasi&#13;
+"l'animo" rivolto a rendere un poco più lieta l'esistenza umana nella società civile.&#13;
+Essi preparavano il tempo futuro, quello che oggi è incominciato: il tempo della mac-&#13;
+china. La macchina: creata a imitazione, e perfezione dell'uomo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

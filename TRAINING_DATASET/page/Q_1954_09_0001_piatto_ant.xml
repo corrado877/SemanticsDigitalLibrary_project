@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T16:14:11.621+02:00</Created>
+        <LastChange>2024-06-21T09:45:20.369+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326028" pageNr="75" tsid="175602721" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=BGFFDMMZRMYFQXSMRKQZJFDB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QPVLJOWZXPMGGJQBBBSGTGSX" imageId="54294187"/>
+    </Metadata>
+    <Page imageFilename="Q_1954_09_0001_piatto_ant.jpg" imageWidth="1798" imageHeight="2383" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746071734" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="heading" id="tr_2" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="633,715 639,815 1077,824 1075,714"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:15;rend:center;}">
+                <Coords points="639,773 664,773 690,772 716,773 741,774 767,772 793,771 819,769 844,769 870,768 896,767 921,767 947,768 973,770 999,773 999,743 973,740 947,738 921,737 896,737 870,738 844,739 819,739 793,741 767,742 741,744 716,743 690,742 664,743 639,743"/>
+                <Baseline points="639,763 664,763 690,762 716,763 741,764 767,762 793,761 819,759 844,759 870,758 896,757 921,757 947,758 973,760 999,763"/>
+                <TextEquiv>
+                    <Unicode>Case di Bologna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;} date {offset:0; length:13;year:1954; day:0; month:5;}">
+                <Coords points="773,813 798,808 824,807 849,810 875,812 901,811 926,811 952,811 978,811 1003,811 1029,813 1055,815 1055,785 1029,783 1003,781 978,781 952,781 926,781 901,781 875,782 849,780 824,777 798,778 773,783"/>
+                <Baseline points="773,803 798,798 824,797 849,800 875,802 901,801 926,801 952,801 978,801 1003,801 1029,803 1055,805"/>
+                <TextEquiv>
+                    <Unicode>[maggio 1954]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Case di Bologna&#13;
+[maggio 1954]</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="tr_1" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="475,846 476,909 613,910 611,844"/>
+            <TextLine id="line_1713343471202_112" custom="readingOrder {index:0;}">
+                <Coords points="483,851 599,851 599,901 483,901"/>
+                <Baseline points="483,896 599,896"/>
+                <TextEquiv>
+                    <Unicode>varie:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>varie:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

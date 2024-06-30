@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:23:14.082+02:00</Created>
+        <LastChange>2024-06-21T10:10:15.332+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326043" pageNr="106" tsid="175603596" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=WRVATCXCRNVOXCGACLUBQDXI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MGLDAVNGHEWABSSQAMAJGQMP" imageId="54314818"/>
+    </Metadata>
+    <Page imageFilename="Q_5_1955_0008_c3v.jpg" imageWidth="1798" imageHeight="2450" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746078199" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="226,479 226,2073 1680,2073 1680,479"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="260,549 330,548 400,547 470,546 540,544 610,543 680,540 750,537 820,539 890,538 960,537 1030,537 1100,536 1170,533 1240,535 1310,533 1380,533 1450,531 1520,532 1590,531 1660,531 1660,479 1590,479 1520,480 1450,479 1380,481 1310,481 1240,483 1170,481 1100,484 1030,485 960,485 890,486 820,487 750,485 680,488 610,491 540,492 470,494 400,495 330,496 260,497"/>
+                <Baseline points="260,532 330,531 400,530 470,529 540,527 610,526 680,523 750,520 820,522 890,521 960,520 1030,520 1100,519 1170,516 1240,518 1310,516 1380,516 1450,514 1520,515 1590,514 1660,514"/>
+                <TextEquiv>
+                    <Unicode>di popolana allegria con cui Maccari anima le sue collezioni. Così le teorie, i festoni,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} gap {offset:14; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="252,623 320,621 388,621 456,622 524,621 593,619 661,619 729,616 797,617 865,613 934,613 1002,612 1070,611 1138,611 1206,611 1275,611 1343,611 1411,611 1479,610 1547,609 1616,613 1616,561 1547,557 1479,558 1411,559 1343,559 1275,559 1206,559 1138,559 1070,559 1002,560 934,561 865,561 797,565 729,564 661,567 593,567 524,569 456,570 388,569 320,569 252,571"/>
+                <Baseline points="252,606 320,604 388,604 456,605 524,604 593,602 661,602 729,599 797,600 865,596 934,596 1002,595 1070,594 1138,594 1206,594 1275,594 1343,594 1411,594 1479,593 1547,592 1616,596"/>
+                <TextEquiv>
+                    <Unicode>le collane di       -insetti, bruchi, si adagiano bonariamente nel foglio, lo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="234,697 306,698 378,697 450,697 523,697 595,697 667,695 740,693 812,693 884,691 957,689 1029,689 1101,689 1173,689 1246,686 1318,687 1390,687 1463,685 1535,685 1607,685 1680,687 1680,635 1607,633 1535,633 1463,633 1390,635 1318,635 1246,634 1173,637 1101,637 1029,637 957,637 884,639 812,641 740,641 667,643 595,645 523,645 450,645 378,645 306,646 234,645"/>
+                <Baseline points="234,680 306,681 378,680 450,680 523,680 595,680 667,678 740,676 812,676 884,674 957,672 1029,672 1101,672 1173,672 1246,669 1318,670 1390,670 1463,668 1535,668 1607,668 1680,670"/>
+                <TextEquiv>
+                    <Unicode>invadono, lo incorniciano secondo un gusto di decorazione popolare, di stampa alle-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="234,783 302,779 371,775 439,775 508,774 576,774 645,773 713,773 782,770 850,769 919,769 987,766 1056,766 1124,765 1193,766 1261,766 1330,763 1398,765 1467,764 1535,766 1604,767 1604,716 1535,715 1467,713 1398,714 1330,712 1261,715 1193,715 1124,714 1056,715 987,715 919,718 850,718 782,719 713,722 645,722 576,723 508,723 439,724 371,724 302,728 234,732"/>
+                <Baseline points="234,766 302,762 371,758 439,758 508,757 576,757 645,756 713,756 782,753 850,752 919,752 987,749 1056,749 1124,748 1193,749 1261,749 1330,746 1398,748 1467,747 1535,749 1604,750"/>
+                <TextEquiv>
+                    <Unicode>gorica. Questo gusto e fantasia popolare nell'assumere un poco favolosamente i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="238,853 309,851 381,849 453,849 525,849 597,851 669,851 741,849 813,849 885,849 957,847 1028,845 1100,843 1172,845 1244,842 1316,841 1388,838 1460,837 1532,837 1604,837 1676,839 1676,788 1604,786 1532,786 1460,786 1388,787 1316,790 1244,791 1172,794 1100,792 1028,794 957,796 885,798 813,798 741,798 669,800 597,800 525,798 453,798 381,798 309,800 238,802"/>
+                <Baseline points="238,836 309,834 381,832 453,832 525,832 597,834 669,834 741,832 813,832 885,832 957,830 1028,828 1100,826 1172,828 1244,825 1316,824 1388,821 1460,820 1532,820 1604,820 1676,822"/>
+                <TextEquiv>
+                    <Unicode>i motivi della composizione si rinforzano e complicano quando si tratta di immaginare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="244,925 313,925 383,925 453,925 523,924 593,923 663,921 733,920 803,919 873,918 943,919 1012,919 1082,916 1152,914 1222,913 1292,913 1362,911 1432,911 1502,911 1572,911 1642,911 1642,860 1572,860 1502,860 1432,860 1362,860 1292,862 1222,862 1152,863 1082,865 1012,868 943,868 873,867 803,868 733,869 663,870 593,872 523,873 453,874 383,874 313,874 244,874"/>
+                <Baseline points="244,908 313,908 383,908 453,908 523,907 593,906 663,904 733,903 803,902 873,901 943,902 1012,902 1082,899 1152,897 1222,896 1292,896 1362,894 1432,894 1502,894 1572,894 1642,894"/>
+                <TextEquiv>
+                    <Unicode>le “favole” nel colore. Il colore (mi riferisco alle cose di Maccari del “Selvaggio” in particola-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;} gap {offset:81; length:0;}">
+                <Coords points="236,1005 305,1003 375,1001 445,999 515,997 585,993 654,993 724,994 794,995 864,995 934,996 1003,995 1073,993 1143,991 1213,989 1283,986 1352,987 1422,987 1492,988 1562,989 1632,987 1632,936 1562,938 1492,937 1422,936 1352,936 1283,935 1213,938 1143,940 1073,942 1003,944 934,945 864,944 794,944 724,943 654,942 585,942 515,946 445,948 375,950 305,952 236,954"/>
+                <Baseline points="236,988 305,986 375,984 445,982 515,980 585,976 654,976 724,977 794,978 864,978 934,979 1003,978 1073,976 1143,974 1213,972 1283,969 1352,970 1422,970 1492,971 1562,972 1632,970"/>
+                <TextEquiv>
+                    <Unicode>re) cala sul disegno, lo riveste, al modo, appunto, di come il colore accompagna il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715531251416_33" custom="readingOrder {index:7;} del {offset:0; length:9;rend:overstrike;} del {offset:73; length:8;rend:overstrike;}">
+                <Coords points="229,1022 1618,1010 1618,1060 229,1072"/>
+                <Baseline points="229,1067 1618,1055"/>
+                <TextEquiv>
+                    <Unicode>          l'inchiostro nero della vecchia stampa di piazza e di mercato.          </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715531255840_38" custom="readingOrder {index:8;} del {offset:0; length:54;rend:overstrike;} del {offset:55; length:16;rend:overstrike;} gap {offset:55; length:0;quantity:16; unit:character; reason:illegible;}">
+                <Coords points="230,1100 1580,1089 1580,1139 230,1150"/>
+                <Baseline points="230,1145 1580,1134"/>
+                <TextEquiv>
+                    <Unicode>che il disegno o l'impronta del disegno, sono ottenuti                 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="228,1235 299,1233 370,1231 441,1231 512,1227 583,1227 654,1225 725,1223 796,1224 867,1223 938,1223 1009,1222 1080,1221 1151,1221 1222,1219 1293,1217 1364,1215 1435,1215 1506,1215 1577,1214 1648,1213 1648,1162 1577,1163 1506,1164 1435,1164 1364,1164 1293,1166 1222,1168 1151,1170 1080,1170 1009,1171 938,1172 867,1172 796,1173 725,1172 654,1174 583,1176 512,1176 441,1180 370,1180 299,1182 228,1184"/>
+                <Baseline points="228,1218 299,1216 370,1214 441,1214 512,1210 583,1210 654,1208 725,1206 796,1207 867,1206 938,1206 1009,1205 1080,1204 1151,1204 1222,1202 1293,1200 1364,1198 1435,1198 1506,1198 1577,1197 1648,1196"/>
+                <TextEquiv>
+                    <Unicode>Maccari risaliva a Bologna, circa trent'anni fa, col suo Selvaggio e le altre storie. Si anda-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="226,1305 296,1303 366,1301 436,1301 506,1301 576,1299 646,1301 716,1301 786,1299 856,1298 927,1297 997,1295 1067,1293 1137,1295 1207,1295 1277,1293 1347,1294 1417,1293 1487,1292 1557,1294 1628,1297 1628,1246 1557,1243 1487,1241 1417,1242 1347,1243 1277,1242 1207,1244 1137,1244 1067,1242 997,1244 927,1246 856,1247 786,1248 716,1250 646,1250 576,1248 506,1250 436,1250 366,1250 296,1252 226,1254"/>
+                <Baseline points="226,1288 296,1286 366,1284 436,1284 506,1284 576,1282 646,1284 716,1284 786,1282 856,1281 927,1280 997,1278 1067,1276 1137,1278 1207,1278 1277,1276 1347,1277 1417,1276 1487,1275 1557,1277 1628,1280"/>
+                <TextEquiv>
+                    <Unicode>va alla trattoria: e lì. fa lui e Longanesi facevamo a chi sporcava più carte con la matita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="226,1389 297,1386 369,1383 441,1382 512,1380 584,1377 656,1376 727,1373 799,1372 871,1371 943,1373 1014,1373 1086,1371 1158,1373 1229,1371 1301,1371 1373,1369 1444,1369 1516,1367 1588,1371 1660,1377 1660,1326 1588,1320 1516,1316 1444,1318 1373,1318 1301,1320 1229,1320 1158,1322 1086,1320 1014,1322 943,1322 871,1320 799,1321 727,1322 656,1325 584,1326 512,1329 441,1331 369,1332 297,1335 226,1338"/>
+                <Baseline points="226,1372 297,1369 369,1366 441,1365 512,1363 584,1360 656,1359 727,1356 799,1355 871,1354 943,1356 1014,1356 1086,1354 1158,1356 1229,1354 1301,1354 1373,1352 1444,1352 1516,1350 1588,1354 1660,1360"/>
+                <TextEquiv>
+                    <Unicode>e la penna. Poi, si passava da casa di Morandi: e per quella ora non facevamo disegni. Mac-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="228,1457 298,1455 368,1455 438,1455 508,1455 579,1453 649,1453 719,1453 789,1451 859,1451 930,1452 1000,1449 1070,1447 1140,1447 1210,1445 1281,1445 1351,1444 1421,1443 1491,1440 1561,1441 1632,1439 1632,1388 1561,1390 1491,1389 1421,1392 1351,1393 1281,1394 1210,1394 1140,1396 1070,1396 1000,1398 930,1401 859,1400 789,1400 719,1402 649,1402 579,1402 508,1404 438,1404 368,1404 298,1404 228,1406"/>
+                <Baseline points="228,1440 298,1438 368,1438 438,1438 508,1438 579,1436 649,1436 719,1436 789,1434 859,1434 930,1435 1000,1432 1070,1430 1140,1430 1210,1428 1281,1428 1351,1427 1421,1426 1491,1423 1561,1424 1632,1422"/>
+                <TextEquiv>
+                    <Unicode>cari finiva per dire: -Ragazzi! Dipingere è una gran cosa!- Da quel tempo il lavoro di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="226,1533 297,1532 369,1529 440,1527 512,1527 583,1525 655,1528 726,1529 798,1527 869,1527 941,1525 1012,1524 1084,1523 1155,1521 1227,1522 1298,1521 1370,1520 1441,1521 1513,1519 1584,1519 1656,1519 1656,1467 1584,1467 1513,1467 1441,1469 1370,1468 1298,1469 1227,1470 1155,1469 1084,1471 1012,1472 941,1473 869,1475 798,1475 726,1477 655,1476 583,1473 512,1475 440,1475 369,1477 297,1480 226,1481"/>
+                <Baseline points="226,1516 297,1515 369,1512 440,1510 512,1510 583,1508 655,1511 726,1512 798,1510 869,1510 941,1508 1012,1507 1084,1506 1155,1504 1227,1505 1298,1504 1370,1503 1441,1504 1513,1502 1584,1502 1656,1502"/>
+                <TextEquiv>
+                    <Unicode>Maccari ha fatto molta strada. Disegni e linoleum: caricature, satire politiche, fanta-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="232,1615 303,1611 374,1611 445,1611 516,1607 587,1607 658,1605 729,1605 800,1602 871,1601 943,1601 1014,1598 1085,1599 1156,1596 1227,1595 1298,1595 1369,1595 1440,1597 1511,1595 1582,1595 1654,1593 1654,1541 1582,1543 1511,1543 1440,1545 1369,1543 1298,1543 1227,1543 1156,1544 1085,1547 1014,1546 943,1549 871,1549 800,1550 729,1553 658,1553 587,1555 516,1555 445,1559 374,1559 303,1559 232,1563"/>
+                <Baseline points="232,1598 303,1594 374,1594 445,1594 516,1590 587,1590 658,1588 729,1588 800,1585 871,1584 943,1584 1014,1581 1085,1582 1156,1579 1227,1578 1298,1578 1369,1578 1440,1580 1511,1578 1582,1578 1654,1576"/>
+                <TextEquiv>
+                    <Unicode>sie, fantasie poetiche. Malumori, sfoghi e allegria: allegria ottraverso la poesia. Poi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="242,1685 311,1683 380,1683 449,1683 519,1681 588,1682 657,1682 727,1677 796,1679 865,1677 935,1677 1004,1675 1073,1675 1142,1675 1212,1675 1281,1673 1350,1674 1420,1671 1489,1671 1558,1672 1628,1669 1628,1617 1558,1620 1489,1619 1420,1619 1350,1622 1281,1621 1212,1623 1142,1623 1073,1623 1004,1623 935,1625 865,1625 796,1627 727,1625 657,1630 588,1630 519,1629 449,1631 380,1631 311,1631 242,1633"/>
+                <Baseline points="242,1668 311,1666 380,1666 449,1666 519,1664 588,1665 657,1665 727,1660 796,1662 865,1660 935,1660 1004,1658 1073,1658 1142,1658 1212,1658 1281,1656 1350,1657 1420,1654 1489,1654 1558,1655 1628,1652"/>
+                <TextEquiv>
+                    <Unicode>pitture, cioè: composizioni fantastiche, allegoriche immaginate nel colore.E il suo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="244,1757 315,1759 386,1761 457,1761 528,1759 599,1759 670,1757 741,1755 812,1753 883,1753 954,1752 1025,1752 1096,1751 1167,1751 1238,1749 1309,1747 1380,1747 1451,1745 1522,1749 1593,1748 1664,1751 1664,1699 1593,1696 1522,1697 1451,1693 1380,1695 1309,1695 1238,1697 1167,1699 1096,1699 1025,1700 954,1700 883,1701 812,1701 741,1703 670,1705 599,1707 528,1707 457,1709 386,1709 315,1707 244,1705"/>
+                <Baseline points="244,1740 315,1742 386,1744 457,1744 528,1742 599,1742 670,1740 741,1738 812,1736 883,1736 954,1735 1025,1735 1096,1734 1167,1734 1238,1732 1309,1730 1380,1730 1451,1728 1522,1732 1593,1731 1664,1734"/>
+                <TextEquiv>
+                    <Unicode>colore, sempre di più, s'è allontanato dal colore - di - tubetto e di - tavolozza, per di-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="246,1833 316,1835 386,1833 456,1833 526,1832 596,1831 666,1832 736,1831 806,1831 876,1829 947,1830 1017,1827 1087,1827 1157,1826 1227,1823 1297,1822 1367,1821 1437,1821 1507,1822 1577,1821 1648,1821 1648,1769 1577,1769 1507,1770 1437,1769 1367,1769 1297,1770 1227,1771 1157,1774 1087,1775 1017,1775 947,1778 876,1777 806,1779 736,1779 666,1780 596,1779 526,1780 456,1781 386,1781 316,1783 246,1781"/>
+                <Baseline points="246,1816 316,1818 386,1816 456,1816 526,1815 596,1814 666,1815 736,1814 806,1814 876,1812 947,1813 1017,1810 1087,1810 1157,1809 1227,1806 1297,1805 1367,1804 1437,1804 1507,1805 1577,1804 1648,1804"/>
+                <TextEquiv>
+                    <Unicode>ventare un colore personale, direi perfino astratto, o metafisico. Metamorfosi critica e pole-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="238,1913 309,1913 380,1912 451,1911 522,1909 593,1909 664,1907 735,1907 806,1906 877,1907 949,1906 1020,1904 1091,1905 1162,1903 1233,1903 1304,1901 1375,1899 1446,1899 1517,1899 1588,1897 1660,1897 1660,1845 1588,1845 1517,1847 1446,1847 1375,1847 1304,1849 1233,1851 1162,1851 1091,1853 1020,1852 949,1854 877,1855 806,1854 735,1855 664,1855 593,1857 522,1857 451,1859 380,1860 309,1861 238,1861"/>
+                <Baseline points="238,1896 309,1896 380,1895 451,1894 522,1892 593,1892 664,1890 735,1890 806,1889 877,1890 949,1889 1020,1887 1091,1888 1162,1886 1233,1886 1304,1884 1375,1882 1446,1882 1517,1882 1588,1880 1660,1880"/>
+                <TextEquiv>
+                    <Unicode>mica. (Pensare che è stato il colore di Matisse, di Marquet, di Bonnard, ecc.) Per trasfor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715531274291_49" custom="readingOrder {index:19;}">
+                <Coords points="240,1931 1658,1926 1658,1976 240,1981"/>
+                <Baseline points="240,1976 1658,1971"/>
+                <TextEquiv>
+                    <Unicode>marsi, quasi irrisorio, nel colore anonimo, volutamente banale e “moderno” dell'af-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:20;} del {offset:39; length:7;rend:overstrike;}">
+                <Coords points="234,2073 305,2071 376,2069 447,2066 519,2061 590,2061 661,2061 733,2059 804,2058 875,2057 947,2051 1018,2050 1089,2051 1160,2050 1232,2051 1303,2053 1374,2053 1446,2051 1517,2052 1588,2052 1660,2057 1660,2005 1588,2000 1517,2000 1446,1999 1374,2001 1303,2001 1232,1999 1160,1998 1089,1999 1018,1998 947,1999 875,2005 804,2006 733,2007 661,2009 590,2009 519,2009 447,2014 376,2017 305,2019 234,2021"/>
+                <Baseline points="234,2056 305,2054 376,2052 447,2049 519,2044 590,2044 661,2044 733,2042 804,2041 875,2040 947,2034 1018,2033 1089,2034 1160,2033 1232,2034 1303,2036 1374,2036 1446,2034 1517,2035 1588,2035 1660,2040"/>
+                <TextEquiv>
+                    <Unicode>fuche in carta, anzi in latta dipinta.         Anche Maccari “si è aperto” alla poesia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>di popolana allegria con cui Maccari anima le sue collezioni. Così le teorie, i festoni,&#13;
+le collane di       -insetti, bruchi, si adagiano bonariamente nel foglio, lo&#13;
+invadono, lo incorniciano secondo un gusto di decorazione popolare, di stampa alle-&#13;
+gorica. Questo gusto e fantasia popolare nell'assumere un poco favolosamente i&#13;
+i motivi della composizione si rinforzano e complicano quando si tratta di immaginare&#13;
+le “favole” nel colore. Il colore (mi riferisco alle cose di Maccari del “Selvaggio” in particola-&#13;
+re) cala sul disegno, lo riveste, al modo, appunto, di come il colore accompagna il&#13;
+          l'inchiostro nero della vecchia stampa di piazza e di mercato.          &#13;
+che il disegno o l'impronta del disegno, sono ottenuti                 &#13;
+Maccari risaliva a Bologna, circa trent'anni fa, col suo Selvaggio e le altre storie. Si anda-&#13;
+va alla trattoria: e lì. fa lui e Longanesi facevamo a chi sporcava più carte con la matita&#13;
+e la penna. Poi, si passava da casa di Morandi: e per quella ora non facevamo disegni. Mac-&#13;
+cari finiva per dire: -Ragazzi! Dipingere è una gran cosa!- Da quel tempo il lavoro di&#13;
+Maccari ha fatto molta strada. Disegni e linoleum: caricature, satire politiche, fanta-&#13;
+sie, fantasie poetiche. Malumori, sfoghi e allegria: allegria ottraverso la poesia. Poi&#13;
+pitture, cioè: composizioni fantastiche, allegoriche immaginate nel colore.E il suo&#13;
+colore, sempre di più, s'è allontanato dal colore - di - tubetto e di - tavolozza, per di-&#13;
+ventare un colore personale, direi perfino astratto, o metafisico. Metamorfosi critica e pole-&#13;
+mica. (Pensare che è stato il colore di Matisse, di Marquet, di Bonnard, ecc.) Per trasfor-&#13;
+marsi, quasi irrisorio, nel colore anonimo, volutamente banale e “moderno” dell'af-&#13;
+fuche in carta, anzi in latta dipinta.         Anche Maccari “si è aperto” alla poesia,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

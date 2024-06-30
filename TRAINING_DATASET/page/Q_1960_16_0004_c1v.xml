@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:59:35.729+01:00</Created>
+        <LastChange>2024-06-20T11:18:20.117+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325491" pageNr="28" tsid="175603502" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=YGHDVYRCMUSCCJUPHAIUJKGQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZRETFMVHRDVKOAVENNHXSHTE" imageId="53902855"/>
+    </Metadata>
+    <Page imageFilename="Q_1960_16_0004_c1v.jpg" imageWidth="1798" imageHeight="2473" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746062609" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1718625577416_23"/>
+                <RegionRefIndexed index="2" regionRef="region_1718625742368_41"/>
+                <RegionRefIndexed index="3" regionRef="region_1718625787721_45"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="178,251 188,2238 1667,2238 1657,251"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1718625577416_23" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="1633,336 1533,336 1533,256 1633,256"/>
+            <TextLine id="line_1718625550497_13" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:left;}">
+                <Coords points="1560,274 1630,274 1630,324 1560,324"/>
+                <Baseline points="1560,319 1630,319"/>
+                <TextEquiv>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718625742368_41" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1654,1737 208,1735 194,444 1640,446"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:5; length:20;rend:underline;}">
+                <Coords points="200,516 270,516 341,514 411,514 482,513 552,511 623,508 693,510 764,510 834,512 905,508 975,510 1046,508 1116,507 1187,506 1257,508 1328,509 1398,508 1469,508 1539,508 1610,510 1610,467 1539,465 1469,465 1398,465 1328,466 1257,465 1187,463 1116,464 1046,465 975,467 905,465 834,469 764,467 693,467 623,465 552,468 482,470 411,471 341,471 270,473 200,473"/>
+                <Baseline points="200,502 270,502 341,500 411,500 482,499 552,497 623,494 693,496 764,496 834,498 905,494 975,496 1046,494 1116,493 1187,492 1257,494 1328,495 1398,494 1469,494 1539,494 1610,496"/>
+                <TextEquiv>
+                    <Unicode>che "non ha mai sbagliato". E non si poteva dire con maggiore semplicità, giustezza e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="204,588 274,587 345,591 416,588 487,588 558,586 628,586 699,586 770,586 841,584 912,581 982,581 1053,580 1124,580 1195,582 1266,582 1336,582 1407,582 1478,582 1549,583 1620,586 1620,543 1549,540 1478,539 1407,539 1336,539 1266,539 1195,539 1124,537 1053,537 982,538 912,538 841,541 770,543 699,543 628,543 558,543 487,545 416,545 345,548 274,544 204,545"/>
+                <Baseline points="204,574 274,573 345,577 416,574 487,574 558,572 628,572 699,572 770,572 841,570 912,567 982,567 1053,566 1124,566 1195,568 1266,568 1336,568 1407,568 1478,568 1549,569 1620,572"/>
+                <TextEquiv>
+                    <Unicode>verità.  Gli artisti che egli ha "scoperto", cioè collocato nel loro proprio valore, si chia-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} person {offset:13; length:9;occupation:painter; firstname:Eugène; dateOfDeath:13\u0020August\u00201863; dateOfBirth:26\u0020April\u00201798; lastname:Delacroix;} person {offset:24; length:7;occupation:painter; firstname:Honoré; dateOfDeath:10\u0020February\u00201879; dateOfBirth:26\u0020February\u00201808\u0020; lastname:Daumier;} person {offset:33; length:5;occupation:painter; firstname:Camille; dateOfDeath:22\u0020February\u00201875; dateOfBirth:16\u0020July\u00201796; lastname:Corot;} person {offset:40; length:6;occupation:painter; firstname:Charles; lastname:Meryon;}">
+                <Coords points="194,660 265,660 337,662 408,661 480,660 551,660 623,661 694,660 766,660 837,657 909,657 980,658 1052,656 1123,656 1195,656 1266,656 1338,656 1409,656 1481,656 1552,655 1624,658 1624,615 1552,612 1481,613 1409,613 1338,613 1266,613 1195,613 1123,613 1052,613 980,615 909,614 837,614 766,617 694,617 623,618 551,617 480,617 408,618 337,619 265,617 194,617"/>
+                <Baseline points="194,646 265,646 337,648 408,647 480,646 551,646 623,647 694,646 766,646 837,643 909,643 980,644 1052,642 1123,642 1195,642 1266,642 1338,642 1409,642 1481,642 1552,641 1624,644"/>
+                <TextEquiv>
+                    <Unicode>mano: David, Delacroix, Daumier, Corot, Meyron, e si sa quanto la sua attenzione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;} person {offset:24; length:7;occupation:painter; firstname:Gustave; dateOfDeath:31\u0020December\u00201877; dateOfBirth:10\u0020June\u00201819; lastname:Courbet;}">
+                <Coords points="208,744 279,738 351,732 423,731 494,731 566,730 638,728 709,728 781,727 853,727 925,728 996,727 1068,728 1140,728 1211,726 1283,726 1355,726 1426,726 1498,726 1570,729 1642,736 1642,706 1570,699 1498,696 1426,696 1355,696 1283,696 1211,696 1140,698 1068,698 996,697 925,698 853,697 781,697 709,698 638,698 566,700 494,701 423,701 351,702 279,708 208,714"/>
+                <Baseline points="208,734 279,728 351,722 423,721 494,721 566,720 638,718 709,718 781,717 853,717 925,718 996,717 1068,718 1140,718 1211,716 1283,716 1355,716 1426,716 1498,716 1570,719 1642,726"/>
+                <TextEquiv>
+                    <Unicode>fosse indirizzata verso Courbet, di cui non fece in tempo a conoscere il pieno svilup-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718626280720_110" custom="readingOrder {index:4;} del {offset:23; length:10;rend:overstrike;}">
+                <Coords points="210,792 281,782 353,778 424,779 496,778 568,776 639,778 711,776 782,777 797,777 797,807 782,807 711,806 639,808 568,806 496,808 424,809 353,808 281,812 210,822"/>
+                <Baseline points="210,812 281,802 353,798 424,799 496,798 568,796 639,798 711,796 782,797 797,797"/>
+                <TextEquiv>
+                    <Unicode>po poetico, la portata imprevista</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;} add {offset:0; length:24;place:above;}">
+                <Coords points="598,772 624,772 651,772 678,772 704,772 731,772 758,771 785,770 811,770 838,770 865,770 891,770 918,770 945,771 972,774 972,744 945,741 918,740 891,740 865,740 838,740 811,740 785,740 758,741 731,742 704,742 678,742 651,742 624,742 598,742"/>
+                <Baseline points="598,762 624,762 651,762 678,762 704,762 731,762 758,761 785,760 811,760 838,760 865,760 891,760 918,760 945,761 972,764"/>
+                <TextEquiv>
+                    <Unicode>imprevedibile per allora,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718626280720_109" custom="readingOrder {index:6;} del {offset:37; length:3;rend:overstrike;} gap {offset:37; length:0;quantity:3; unit:character; reason:illegible;}">
+                <Coords points="797,777 854,777 926,776 1069,776 1140,774 1498,774 1570,772 1642,772 1642,802 1570,802 1498,804 1140,804 1069,806 926,806 854,807 797,807"/>
+                <Baseline points="797,797 854,797 926,796 997,796 1069,796 1140,794 1212,794 1284,794 1355,794 1427,794 1498,794 1570,792 1642,792"/>
+                <TextEquiv>
+                    <Unicode>di sconvolgimento estetico e morale.     Una simi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="204,894 275,888 347,886 418,886 490,884 561,884 633,883 704,885 776,884 847,886 919,888 990,888 1062,887 1133,890 1205,885 1276,883 1348,882 1419,881 1491,882 1562,883 1634,894 1634,851 1562,840 1491,839 1419,838 1348,839 1276,840 1205,842 1133,847 1062,844 990,845 919,845 847,843 776,841 704,842 633,840 561,841 490,841 418,843 347,843 275,845 204,851"/>
+                <Baseline points="204,880 275,874 347,872 418,872 490,870 561,870 633,869 704,871 776,870 847,872 919,874 990,874 1062,873 1133,876 1205,871 1276,869 1348,868 1419,867 1491,868 1562,869 1634,880"/>
+                <TextEquiv>
+                    <Unicode>le vocazione, che richiedeva coraggio, disinteresse e quasi uno spirito di sacrificio,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="208,968 278,966 349,964 420,962 491,962 562,961 633,960 704,960 775,960 846,962 917,960 987,960 1058,960 1129,960 1200,960 1271,958 1342,957 1413,956 1484,956 1555,958 1626,960 1626,917 1555,915 1484,913 1413,913 1342,914 1271,915 1200,917 1129,917 1058,917 987,917 917,917 846,919 775,917 704,917 633,917 562,918 491,919 420,919 349,921 278,923 208,925"/>
+                <Baseline points="208,954 278,952 349,950 420,948 491,948 562,947 633,946 704,946 775,946 846,948 917,946 987,946 1058,946 1129,946 1200,946 1271,944 1342,943 1413,942 1484,942 1555,944 1626,946"/>
+                <TextEquiv>
+                    <Unicode>non si può dire che trovasse consensi nella società e nelle classi intellettuali del suo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:9;} person {offset:79; length:6; continued:true;occupation:poet; firstname:Charles\u0020Pierre; dateOfDeath:31\u0020August\u00201867; dateOfBirth:9\u0020April\u00201821; lastname:Baudelarie;}">
+                <Coords points="208,1040 279,1042 350,1043 421,1042 492,1040 564,1042 635,1040 706,1038 777,1038 848,1037 920,1036 991,1036 1062,1036 1133,1036 1204,1036 1276,1036 1347,1036 1418,1035 1489,1037 1560,1036 1632,1042 1632,999 1560,993 1489,994 1418,992 1347,993 1276,993 1204,993 1133,993 1062,993 991,993 920,993 848,994 777,995 706,995 635,997 564,999 492,997 421,999 350,1000 279,999 208,997"/>
+                <Baseline points="208,1026 279,1028 350,1029 421,1028 492,1026 564,1028 635,1026 706,1024 777,1024 848,1023 920,1022 991,1022 1062,1022 1133,1022 1204,1022 1276,1022 1347,1022 1418,1021 1489,1023 1560,1022 1632,1028"/>
+                <TextEquiv>
+                    <Unicode>tempo. Gli provocò bensì come è è nell'ordine delle cose, amarezza e condanne. Baude-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:10;} person {offset:0; length:5; continued:true;occupation:poet; firstname:Charles\u0020Pierre; dateOfDeath:31\u0020August\u00201867; dateOfBirth:9\u0020April\u00201821; lastname:Baudelarie;}">
+                <Coords points="202,1120 274,1118 346,1115 418,1114 491,1114 563,1114 635,1114 708,1114 780,1114 852,1115 925,1116 997,1116 1069,1115 1141,1114 1214,1114 1286,1112 1358,1111 1431,1110 1503,1110 1575,1109 1648,1116 1648,1073 1575,1066 1503,1067 1431,1067 1358,1068 1286,1069 1214,1071 1141,1071 1069,1072 997,1073 925,1073 852,1072 780,1071 708,1071 635,1071 563,1071 491,1071 418,1071 346,1072 274,1075 202,1077"/>
+                <Baseline points="202,1106 274,1104 346,1101 418,1100 491,1100 563,1100 635,1100 708,1100 780,1100 852,1101 925,1102 997,1102 1069,1101 1141,1100 1214,1100 1286,1098 1358,1097 1431,1096 1503,1096 1575,1095 1648,1102"/>
+                <TextEquiv>
+                    <Unicode>laire credeva nella poesia, e visse, in un seguito farragginoso di sventure, amando sopra-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="206,1188 277,1185 349,1186 420,1187 492,1189 563,1188 635,1188 706,1188 778,1188 849,1188 921,1186 992,1186 1064,1184 1135,1182 1207,1182 1278,1182 1350,1183 1421,1184 1493,1184 1564,1184 1636,1178 1636,1148 1564,1154 1493,1154 1421,1154 1350,1153 1278,1152 1207,1152 1135,1152 1064,1154 992,1156 921,1156 849,1158 778,1158 706,1158 635,1158 563,1158 492,1159 420,1157 349,1156 277,1155 206,1158"/>
+                <Baseline points="206,1178 277,1175 349,1176 420,1177 492,1179 563,1178 635,1178 706,1178 778,1178 849,1178 921,1176 992,1176 1064,1174 1135,1172 1207,1172 1278,1172 1350,1173 1421,1174 1493,1174 1564,1174 1636,1168"/>
+                <TextEquiv>
+                    <Unicode>tutto l'arte: la pittura dei pittori del suo tempo. Non chiese gratitudine, neppure agli </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718627060106_146" custom="readingOrder {index:12;}">
+                <Coords points="204,1234 348,1234 421,1236 493,1235 566,1236 579,1235 579,1265 566,1266 493,1265 421,1266 348,1264 204,1264"/>
+                <Baseline points="204,1254 276,1254 348,1254 421,1256 493,1255 566,1256 579,1255"/>
+                <TextEquiv>
+                    <Unicode>artisti medesimi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:13;} add {offset:0; length:12;place:above;}">
+                <Coords points="494,1226 522,1227 550,1225 578,1222 606,1222 634,1220 662,1222 662,1192 634,1190 606,1192 578,1192 550,1195 522,1197 494,1196"/>
+                <Baseline points="494,1216 522,1217 550,1215 578,1212 606,1212 634,1210 662,1212"/>
+                <TextEquiv>
+                    <Unicode>a favore dei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718627060106_145" custom="readingOrder {index:14;}">
+                <Coords points="579,1235 638,1234 710,1234 783,1231 855,1232 928,1232 1000,1233 1072,1232 1145,1231 1217,1233 1290,1232 1362,1232 1434,1230 1507,1232 1579,1230 1652,1236 1652,1266 1579,1260 1507,1262 1434,1260 1362,1262 1290,1262 1217,1263 1145,1261 1072,1262 1000,1263 928,1262 855,1262 783,1261 710,1264 638,1264 579,1265"/>
+                <Baseline points="579,1255 638,1254 710,1254 783,1251 855,1252 928,1252 1000,1253 1072,1252 1145,1251 1217,1253 1290,1252 1362,1252 1434,1250 1507,1252 1579,1250 1652,1256"/>
+                <TextEquiv>
+                    <Unicode>quali la sua intelligenza appassionata si era spesa fino all'ultimo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:15;} person {offset:30; length:9;occupation:painter; firstname:Eugène; dateOfDeath:13\u0020August\u00201863; dateOfBirth:26\u0020April\u00201798; lastname:Delacroix;}">
+                <Coords points="212,1351 282,1350 353,1350 423,1346 494,1347 564,1346 635,1342 705,1341 776,1340 846,1340 917,1340 987,1340 1058,1338 1128,1338 1199,1338 1269,1338 1340,1339 1410,1342 1481,1341 1551,1339 1622,1334 1622,1291 1551,1296 1481,1298 1410,1299 1340,1296 1269,1295 1199,1295 1128,1295 1058,1295 987,1297 917,1297 846,1297 776,1297 705,1298 635,1299 564,1303 494,1304 423,1303 353,1307 282,1307 212,1308"/>
+                <Baseline points="212,1337 282,1336 353,1336 423,1332 494,1333 564,1332 635,1328 705,1327 776,1326 846,1326 917,1326 987,1326 1058,1324 1128,1324 1199,1324 1269,1324 1340,1325 1410,1328 1481,1327 1551,1325 1622,1320"/>
+                <TextEquiv>
+                    <Unicode>I suoi rapporti con il grande Delacroix stanno a dimostrarlo. Quando l'oggetto più alto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718628166724_249" custom="readingOrder {index:16;}">
+                <Coords points="202,1388 272,1386 342,1385 412,1384 623,1384 694,1385 764,1385 834,1384 1045,1384 1115,1381 1186,1380 1397,1380 1467,1382 1537,1383 1568,1385 1568,1415 1537,1413 1467,1412 1397,1410 1186,1410 1115,1411 1045,1414 834,1414 764,1415 694,1415 623,1414 412,1414 342,1415 272,1416 202,1418"/>
+                <Baseline points="202,1408 272,1406 342,1405 412,1404 483,1404 553,1404 623,1404 694,1405 764,1405 834,1404 905,1404 975,1404 1045,1404 1115,1401 1186,1400 1256,1400 1326,1400 1397,1400 1467,1402 1537,1403 1568,1405"/>
+                <TextEquiv>
+                    <Unicode>della sua venerazione si spense, egli non trovò che da andare a suonare alla </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:17;} add {offset:0; length:4;place:above;}">
+                <Coords points="1497,1383 1538,1387 1566,1387 1566,1357 1538,1357 1497,1353"/>
+                <Baseline points="1503,1373 1538,1376 1566,1376"/>
+                <TextEquiv>
+                    <Unicode>casa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718628166723_248" custom="readingOrder {index:18;}">
+                <Coords points="1568,1385 1608,1388 1608,1418 1568,1415"/>
+                <Baseline points="1568,1405 1608,1408"/>
+                <TextEquiv>
+                    <Unicode>di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:19;} person {offset:0; length:9;occupation:painter; firstname:Eugène; dateOfDeath:13\u0020August\u00201863; dateOfBirth:26\u0020April\u00201798; lastname:Delacroix;}">
+                <Coords points="210,1500 279,1496 349,1497 418,1497 488,1498 557,1496 627,1497 696,1496 766,1494 835,1495 905,1494 974,1496 1044,1495 1113,1492 1183,1492 1252,1490 1322,1490 1391,1490 1461,1493 1530,1494 1600,1498 1600,1455 1530,1451 1461,1450 1391,1447 1322,1447 1252,1447 1183,1449 1113,1449 1044,1452 974,1453 905,1451 835,1452 766,1451 696,1453 627,1454 557,1453 488,1455 418,1454 349,1454 279,1453 210,1457"/>
+                <Baseline points="210,1486 279,1482 349,1483 418,1483 488,1484 557,1482 627,1483 696,1482 766,1480 835,1481 905,1480 974,1482 1044,1481 1113,1478 1183,1478 1252,1476 1322,1476 1391,1476 1461,1479 1530,1480 1600,1484"/>
+                <TextEquiv>
+                    <Unicode>Delacroix; e là, seduto in un divano sfondato, a fianco della governante del maestro,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:20;}">
+                <Coords points="210,1574 281,1576 352,1575 423,1574 494,1572 565,1572 636,1570 707,1572 778,1572 849,1570 920,1569 991,1568 1062,1570 1133,1568 1204,1566 1275,1564 1346,1564 1417,1564 1488,1565 1559,1566 1630,1564 1630,1521 1559,1523 1488,1522 1417,1521 1346,1521 1275,1521 1204,1523 1133,1525 1062,1527 991,1525 920,1526 849,1527 778,1529 707,1529 636,1527 565,1529 494,1529 423,1531 352,1532 281,1533 210,1531"/>
+                <Baseline points="210,1560 281,1562 352,1561 423,1560 494,1558 565,1558 636,1556 707,1558 778,1558 849,1556 920,1555 991,1554 1062,1556 1133,1554 1204,1552 1275,1550 1346,1550 1417,1550 1488,1551 1559,1552 1630,1550"/>
+                <TextEquiv>
+                    <Unicode>non seppe che parlare e piangere per due lunghe ore, insieme con la vecchia Jenny. Dalle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:21;}">
+                <Coords points="212,1654 282,1650 353,1648 423,1646 494,1646 564,1645 635,1647 705,1641 776,1642 846,1644 917,1643 987,1642 1058,1642 1128,1644 1199,1642 1269,1642 1340,1642 1410,1642 1481,1640 1551,1641 1622,1640 1622,1597 1551,1598 1481,1597 1410,1599 1340,1599 1269,1599 1199,1599 1128,1601 1058,1599 987,1599 917,1600 846,1601 776,1599 705,1598 635,1604 564,1602 494,1603 423,1603 353,1605 282,1607 212,1611"/>
+                <Baseline points="212,1640 282,1636 353,1634 423,1632 494,1632 564,1631 635,1633 705,1627 776,1628 846,1630 917,1629 987,1628 1058,1628 1128,1630 1199,1628 1269,1628 1340,1628 1410,1628 1481,1626 1551,1627 1622,1626"/>
+                <TextEquiv>
+                    <Unicode>vaste entrate dello studio, guardavano la luce calare, e farsi sera, nel cortiletto di rue </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:22;} place {offset:13; length:7;country:France;}">
+                <Coords points="234,1728 283,1726 332,1725 381,1724 430,1722 479,1721 528,1722 577,1718 626,1719 675,1722 724,1722 773,1720 822,1720 871,1719 920,1718 969,1720 1018,1720 1067,1720 1116,1721 1165,1720 1214,1720 1214,1677 1165,1677 1116,1678 1067,1677 1018,1677 969,1677 920,1675 871,1676 822,1677 773,1677 724,1679 675,1679 626,1676 577,1675 528,1679 479,1678 430,1679 381,1681 332,1682 283,1683 234,1685"/>
+                <Baseline points="234,1714 283,1712 332,1711 381,1710 430,1708 479,1707 528,1708 577,1704 626,1705 675,1708 724,1708 773,1706 822,1706 871,1705 920,1704 969,1706 1018,1706 1067,1706 1116,1707 1165,1706 1214,1706"/>
+                <TextEquiv>
+                    <Unicode>Furstenberg. Parigi, intanto, era occupata in altri pensieri.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>che "non ha mai sbagliato". E non si poteva dire con maggiore semplicità, giustezza e&#13;
+verità.  Gli artisti che egli ha "scoperto", cioè collocato nel loro proprio valore, si chia-&#13;
+mano: David, Delacroix, Daumier, Corot, Meyron, e si sa quanto la sua attenzione&#13;
+fosse indirizzata verso Courbet, di cui non fece in tempo a conoscere il pieno svilup-&#13;
+po poetico, la portata imprevista&#13;
+imprevedibile per allora,&#13;
+di sconvolgimento estetico e morale.     Una simi-&#13;
+le vocazione, che richiedeva coraggio, disinteresse e quasi uno spirito di sacrificio,&#13;
+non si può dire che trovasse consensi nella società e nelle classi intellettuali del suo&#13;
+tempo. Gli provocò bensì come è è nell'ordine delle cose, amarezza e condanne. Baude-&#13;
+laire credeva nella poesia, e visse, in un seguito farragginoso di sventure, amando sopra-&#13;
+tutto l'arte: la pittura dei pittori del suo tempo. Non chiese gratitudine, neppure agli &#13;
+artisti medesimi&#13;
+a favore dei&#13;
+quali la sua intelligenza appassionata si era spesa fino all'ultimo.&#13;
+I suoi rapporti con il grande Delacroix stanno a dimostrarlo. Quando l'oggetto più alto&#13;
+della sua venerazione si spense, egli non trovò che da andare a suonare alla &#13;
+casa&#13;
+di&#13;
+Delacroix; e là, seduto in un divano sfondato, a fianco della governante del maestro,&#13;
+non seppe che parlare e piangere per due lunghe ore, insieme con la vecchia Jenny. Dalle&#13;
+vaste entrate dello studio, guardavano la luce calare, e farsi sera, nel cortiletto di rue &#13;
+Furstenberg. Parigi, intanto, era occupata in altri pensieri.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718625787721_45" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1651,2055 202,2055 202,1740 1651,1740"/>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:0;}">
+                <Coords points="238,1808 308,1805 378,1804 448,1804 518,1804 588,1804 658,1803 728,1802 798,1802 868,1802 939,1800 1009,1800 1079,1798 1149,1797 1219,1796 1289,1795 1359,1797 1429,1796 1499,1797 1569,1797 1640,1802 1640,1759 1569,1754 1499,1754 1429,1753 1359,1754 1289,1752 1219,1753 1149,1754 1079,1755 1009,1757 939,1757 868,1759 798,1759 728,1759 658,1760 588,1761 518,1761 448,1761 378,1761 308,1762 238,1765"/>
+                <Baseline points="238,1794 308,1791 378,1790 448,1790 518,1790 588,1790 658,1789 728,1788 798,1788 868,1788 939,1786 1009,1786 1079,1784 1149,1783 1219,1782 1289,1781 1359,1783 1429,1782 1499,1783 1569,1783 1640,1788"/>
+                <TextEquiv>
+                    <Unicode>Le generazioni si rinnovano, la storia degli uomini la storia degli uomini ha il suo corso, che gli uo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:1;}">
+                <Coords points="220,1876 253,1876 287,1880 321,1880 355,1880 389,1880 423,1880 457,1880 491,1880 525,1880 559,1878 592,1878 626,1878 660,1878 694,1878 728,1876 762,1878 796,1876 830,1875 864,1877 898,1878 898,1835 864,1834 830,1832 796,1833 762,1835 728,1833 694,1835 660,1835 626,1835 592,1835 559,1835 525,1837 491,1837 457,1837 423,1837 389,1837 355,1837 321,1837 287,1837 253,1833 220,1833"/>
+                <Baseline points="220,1862 253,1862 287,1866 321,1866 355,1866 389,1866 423,1866 457,1866 491,1866 525,1866 559,1864 592,1864 626,1864 660,1864 694,1864 728,1862 762,1864 796,1862 830,1861 864,1863 898,1864"/>
+                <TextEquiv>
+                    <Unicode>mini non possono prevedere né regolare.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:2;}">
+                <Coords points="250,1958 319,1958 388,1956 458,1954 527,1954 597,1951 666,1948 735,1948 805,1949 874,1950 944,1948 1013,1950 1082,1946 1152,1944 1221,1948 1291,1948 1360,1945 1429,1946 1499,1945 1568,1948 1638,1952 1638,1909 1568,1905 1499,1902 1429,1903 1360,1902 1291,1905 1221,1905 1152,1901 1082,1903 1013,1907 944,1905 874,1907 805,1906 735,1905 666,1905 597,1908 527,1911 458,1911 388,1913 319,1915 250,1915"/>
+                <Baseline points="250,1944 319,1944 388,1942 458,1940 527,1940 597,1937 666,1934 735,1934 805,1935 874,1936 944,1934 1013,1936 1082,1932 1152,1930 1221,1934 1291,1934 1360,1931 1429,1932 1499,1931 1568,1934 1638,1938"/>
+                <TextEquiv>
+                    <Unicode>Così prese corpo, nella vicenda della poesia e dell'arte francese, a mezzo secolo di di-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:3;} person {offset:20; length:11;occupation:poet; firstname:Charles\u0020Pierre\u0020; dateOfDeath:31\u0020August\u00201867; dateOfBirth:9\u0020April\u00201821; lastname:Baudelaire;}">
+                <Coords points="224,2036 295,2034 366,2032 438,2032 509,2030 581,2032 652,2030 723,2030 795,2029 866,2028 938,2028 1009,2028 1080,2028 1152,2029 1223,2028 1295,2026 1366,2024 1437,2024 1509,2024 1580,2023 1652,2024 1652,1981 1580,1980 1509,1981 1437,1981 1366,1981 1295,1983 1223,1985 1152,1986 1080,1985 1009,1985 938,1985 866,1985 795,1986 723,1987 652,1987 581,1989 509,1987 438,1989 366,1989 295,1991 224,1993"/>
+                <Baseline points="224,2022 295,2020 366,2018 438,2018 509,2016 581,2018 652,2016 723,2016 795,2015 866,2014 938,2014 1009,2014 1080,2014 1152,2015 1223,2014 1295,2012 1366,2010 1437,2010 1509,2010 1580,2009 1652,2010"/>
+                <TextEquiv>
+                    <Unicode>stanza dal tempo di Baudelaire, la figura massiccia: l'opera, formicolante di vita-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Le generazioni si rinnovano, la storia degli uomini la storia degli uomini ha il suo corso, che gli uo-&#13;
+mini non possono prevedere né regolare.&#13;
+Così prese corpo, nella vicenda della poesia e dell'arte francese, a mezzo secolo di di-&#13;
+stanza dal tempo di Baudelaire, la figura massiccia: l'opera, formicolante di vita-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

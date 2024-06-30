@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:22:31.315+01:00</Created>
+        <LastChange>2024-06-20T12:07:39.524+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326027" pageNr="73" tsid="175602720" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=IKMWVCBXOFSNAITAPDFXRTVP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZQIBIRQVKPXGJFWCLTUNAHEM" imageId="53903866"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_08_0018_c8v.jpg" imageWidth="1798" imageHeight="2471" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746071388" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718268402564_1120"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718268402564_1120" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1549,277 1549,327 1601,327 1601,277"/>
+            <TextLine id="line_1718268402623_1123" custom="readingOrder {index:0;}">
+                <Coords points="1549,277 1601,277 1601,327 1549,327"/>
+                <Baseline points="1549,322 1601,322"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="183,399 179,2007 1665,2007 1669,399"/>
+            <TextLine id="line_1718268409454_1128" custom="readingOrder {index:0;}">
+                <Coords points="216,410 1634,416 1634,466 216,460"/>
+                <Baseline points="216,455 1634,461"/>
+                <TextEquiv>
+                    <Unicode>me, frastagliate, sinuose; ed è curioso che, tanta astrazione, sia in rapporto, da una parte, con qualcosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268412712_1133" custom="readingOrder {index:1;}">
+                <Coords points="216,484 1633,499 1633,549 216,534"/>
+                <Baseline points="216,529 1633,544"/>
+                <TextEquiv>
+                    <Unicode>dello Stile Liberty di fine-secolo, e dall'altra con l'efflorescenza decadente di certo Modigliani.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268416006_1138" custom="readingOrder {index:2;}">
+                <Coords points="220,560 756,563 756,613 220,610"/>
+                <Baseline points="220,605 756,608"/>
+                <TextEquiv>
+                    <Unicode>L'ottone placcato dei banchi da bar,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;} add {offset:0; length:17;place:above;}">
+                <Coords points="703,565 729,567 755,568 781,569 807,569 833,570 859,571 885,571 911,571 937,571 937,541 911,541 885,541 859,541 833,540 807,539 781,539 755,538 729,537 703,535"/>
+                <Baseline points="703,555 729,557 755,558 781,559 807,559 833,560 859,561 885,561 911,561 937,561"/>
+                <TextEquiv>
+                    <Unicode>il metallo dorato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268417912_1143" custom="readingOrder {index:4;}">
+                <Coords points="767,563 1637,573 1636,623 766,613"/>
+                <Baseline points="766,608 1636,618"/>
+                <TextEquiv>
+                    <Unicode>delle prime automobili condividono il rischio di una tale este-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="215,695 240,692 265,692 291,697 291,649 265,644 240,644 215,647"/>
+                <Baseline points="215,679 240,676 265,676 291,681"/>
+                <TextEquiv>
+                    <Unicode>tica.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268421906_1148" custom="readingOrder {index:6;} hi {offset:2; length:12;rend:underline;}">
+                <Coords points="225,712 1643,727 1643,777 225,762"/>
+                <Baseline points="225,757 1643,772"/>
+                <TextEquiv>
+                    <Unicode>L'Adamo ed Eva somma verticalmente un eccesso di elementi decorativi, di plasticità summa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="215,848 286,844 357,845 428,844 499,844 570,844 641,844 712,843 783,842 854,843 925,844 996,844 1067,844 1138,844 1209,846 1280,847 1351,848 1422,848 1493,850 1564,850 1635,856 1635,804 1564,798 1493,798 1422,796 1351,796 1280,795 1209,794 1138,792 1067,792 996,792 925,792 854,791 783,790 712,791 641,792 570,792 499,792 428,792 357,793 286,792 215,796"/>
+                <Baseline points="215,831 286,827 357,828 428,827 499,827 570,827 641,827 712,826 783,825 854,826 925,827 996,827 1067,827 1138,827 1209,829 1280,830 1351,831 1422,831 1493,833 1564,833 1635,839"/>
+                <TextEquiv>
+                    <Unicode>le violenta, e il legno, in cui è scolpito, insinua un gesto idolatrico, e rituale di feticcio primitivo;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;} hi {offset:28; length:16;rend:underline;}">
+                <Coords points="209,920 280,918 352,916 423,916 495,916 566,916 638,916 709,916 781,914 852,916 924,918 995,918 1067,919 1138,918 1210,920 1281,921 1353,924 1424,924 1496,924 1567,924 1639,928 1639,876 1567,872 1496,872 1424,872 1353,872 1281,869 1210,868 1138,866 1067,867 995,866 924,866 852,864 781,862 709,864 638,864 566,864 495,864 423,864 352,864 280,866 209,868"/>
+                <Baseline points="209,903 280,901 352,899 423,899 495,899 566,899 638,899 709,899 781,897 852,899 924,901 995,901 1067,902 1138,901 1210,903 1281,904 1353,907 1424,907 1496,907 1567,907 1639,911"/>
+                <TextEquiv>
+                    <Unicode>non diversamente da come lo Spirito di Budda, incavato nel legno rossiccio, nel torcimento di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268427574_1153" custom="readingOrder {index:9;}">
+                <Coords points="215,934 1667,944 1667,994 215,984"/>
+                <Baseline points="215,979 1667,989"/>
+                <TextEquiv>
+                    <Unicode>vite, nelle dentature d'ingranaggio, nelle intaccature e nel finale sferico di testa di torchietto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268431618_1158" custom="readingOrder {index:10;} del {offset:12; length:3;rend:overstrike;}">
+                <Coords points="219,1017 1632,1024 1632,1074 219,1067"/>
+                <Baseline points="219,1062 1632,1069"/>
+                <TextEquiv>
+                    <Unicode>non esclude sul l'intenzione di trasformare in oggetto, in strumento inerte, in accessorio di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268434736_1163" custom="readingOrder {index:11;}">
+                <Coords points="214,1090 1657,1101 1657,1151 214,1140"/>
+                <Baseline points="214,1135 1657,1146"/>
+                <TextEquiv>
+                    <Unicode>officina l'idea iniziale di un'immagine di infinita, interminabile meditazione. Il lettore che sia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268438819_1168" custom="readingOrder {index:12;}">
+                <Coords points="210,1171 1660,1181 1660,1231 210,1221"/>
+                <Baseline points="210,1216 1660,1226"/>
+                <TextEquiv>
+                    <Unicode>stato, per un poco, dentro la suggestione di codesto gruppo e schieramento di opere di Brancusi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268441945_1173" custom="readingOrder {index:13;}">
+                <Coords points="217,1245 1660,1250 1660,1300 217,1295"/>
+                <Baseline points="217,1290 1660,1295"/>
+                <TextEquiv>
+                    <Unicode>come noi vi fummo, potrà condividere il senso di stordita contemplazione che le nostre parole ten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268445986_1178" custom="readingOrder {index:14;}">
+                <Coords points="219,1318 1640,1325 1640,1375 219,1368"/>
+                <Baseline points="219,1363 1640,1370"/>
+                <TextEquiv>
+                    <Unicode>tano di riprodurre. Conoscevano qualcosa della "letteratura" brancusiana, per aver avuto per le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268450622_1183" custom="readingOrder {index:15;}">
+                <Coords points="212,1397 1664,1407 1664,1457 212,1447"/>
+                <Baseline points="212,1442 1664,1452"/>
+                <TextEquiv>
+                    <Unicode>mani l'omaggio a Brancusi, il volume ordinato da Christian Zervos nei suoi "Cahiers d'Art".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268455383_1188" custom="readingOrder {index:16;}">
+                <Coords points="223,1473 1656,1487 1656,1537 223,1523"/>
+                <Baseline points="223,1518 1656,1532"/>
+                <TextEquiv>
+                    <Unicode>Quanto di meglio, all'incirca, la critica ha procurato di studio e d'interpretazione sullo scultore,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268458464_1193" custom="readingOrder {index:17;}">
+                <Coords points="209,1544 1656,1556 1656,1606 209,1594"/>
+                <Baseline points="209,1589 1656,1601"/>
+                <TextEquiv>
+                    <Unicode>il vecchietto solitario e dimenticato fra i gatti e le latte sfondate dell'Impasse Ronsin, a Parigi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268461521_1198" custom="readingOrder {index:18;}">
+                <Coords points="213,1618 1658,1637 1657,1687 212,1668"/>
+                <Baseline points="212,1663 1657,1682"/>
+                <TextEquiv>
+                    <Unicode>Impasse Ronsin: è un vicoletto cieco, un cul di sacco, dalle parti di Vangirard, occupato da cata-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718268465257_1203" custom="readingOrder {index:19;}">
+                <Coords points="217,1698 1647,1706 1647,1756 217,1748"/>
+                <Baseline points="217,1743 1647,1751"/>
+                <TextEquiv>
+                    <Unicode>pecchie, baracche e atelier d'artisti. Il vecchio è rimasto là dentro, come un qualunque operaio sul</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:20;}">
+                <Coords points="201,1832 274,1830 347,1826 420,1827 493,1826 566,1826 639,1826 712,1826 785,1826 858,1826 932,1829 1005,1830 1078,1830 1151,1828 1224,1830 1297,1828 1370,1832 1443,1830 1516,1832 1589,1837 1663,1842 1663,1790 1589,1785 1516,1780 1443,1778 1370,1780 1297,1776 1224,1778 1151,1776 1078,1778 1005,1778 932,1777 858,1774 785,1774 712,1774 639,1774 566,1774 493,1774 420,1775 347,1774 274,1778 201,1780"/>
+                <Baseline points="201,1815 274,1813 347,1809 420,1810 493,1809 566,1809 639,1809 712,1809 785,1809 858,1809 932,1812 1005,1813 1078,1813 1151,1811 1224,1813 1297,1811 1370,1815 1443,1813 1516,1815 1589,1820 1663,1825"/>
+                <TextEquiv>
+                    <Unicode>suo laboratorio. Le sculture, che egli custodiva gelosamente, coperti d'incerati, di tendoni da camio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:21;}">
+                <Coords points="201,1906 273,1906 345,1906 418,1906 490,1904 563,1904 635,1903 707,1904 780,1903 852,1902 925,1906 997,1906 1069,1908 1142,1906 1214,1906 1287,1906 1359,1906 1431,1908 1504,1909 1576,1912 1649,1918 1649,1866 1576,1860 1504,1857 1431,1856 1359,1854 1287,1854 1214,1854 1142,1854 1069,1856 997,1854 925,1854 852,1850 780,1851 707,1852 635,1851 563,1852 490,1852 418,1854 345,1854 273,1854 201,1854"/>
+                <Baseline points="201,1889 273,1889 345,1889 418,1889 490,1887 563,1887 635,1886 707,1887 780,1886 852,1885 925,1889 997,1889 1069,1891 1142,1889 1214,1889 1287,1889 1359,1889 1431,1891 1504,1892 1576,1895 1649,1901"/>
+                <TextEquiv>
+                    <Unicode>nisti. In mezzo a una confusione di tronchi d'albero sbozzati, tavoloni di legno, blocchi di pietra,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:22;}">
+                <Coords points="205,1980 278,1980 351,1980 424,1980 497,1978 571,1978 644,1978 717,1978 790,1980 863,1980 937,1982 1010,1982 1083,1982 1156,1985 1229,1986 1303,1985 1376,1988 1449,1986 1522,1988 1595,1990 1669,1996 1669,1944 1595,1938 1522,1936 1449,1934 1376,1936 1303,1933 1229,1934 1156,1933 1083,1930 1010,1930 937,1930 863,1928 790,1928 717,1926 644,1926 571,1926 497,1926 424,1928 351,1928 278,1928 205,1928"/>
+                <Baseline points="205,1963 278,1963 351,1963 424,1963 497,1961 571,1961 644,1961 717,1961 790,1963 863,1963 937,1965 1010,1965 1083,1965 1156,1968 1229,1969 1303,1968 1376,1971 1449,1969 1522,1971 1595,1973 1669,1979"/>
+                <TextEquiv>
+                    <Unicode>lastre e cubi di marmo. E tutti gli attrezzi del lavoro: seghe, scalpelli, trapani, martelli, mazzuoli.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>me, frastagliate, sinuose; ed è curioso che, tanta astrazione, sia in rapporto, da una parte, con qualcosa&#13;
+dello Stile Liberty di fine-secolo, e dall'altra con l'efflorescenza decadente di certo Modigliani.&#13;
+L'ottone placcato dei banchi da bar,&#13;
+il metallo dorato&#13;
+delle prime automobili condividono il rischio di una tale este-&#13;
+tica.&#13;
+L'Adamo ed Eva somma verticalmente un eccesso di elementi decorativi, di plasticità summa-&#13;
+le violenta, e il legno, in cui è scolpito, insinua un gesto idolatrico, e rituale di feticcio primitivo;&#13;
+non diversamente da come lo Spirito di Budda, incavato nel legno rossiccio, nel torcimento di&#13;
+vite, nelle dentature d'ingranaggio, nelle intaccature e nel finale sferico di testa di torchietto,&#13;
+non esclude sul l'intenzione di trasformare in oggetto, in strumento inerte, in accessorio di&#13;
+officina l'idea iniziale di un'immagine di infinita, interminabile meditazione. Il lettore che sia&#13;
+stato, per un poco, dentro la suggestione di codesto gruppo e schieramento di opere di Brancusi,&#13;
+come noi vi fummo, potrà condividere il senso di stordita contemplazione che le nostre parole ten&#13;
+tano di riprodurre. Conoscevano qualcosa della "letteratura" brancusiana, per aver avuto per le&#13;
+mani l'omaggio a Brancusi, il volume ordinato da Christian Zervos nei suoi "Cahiers d'Art".&#13;
+Quanto di meglio, all'incirca, la critica ha procurato di studio e d'interpretazione sullo scultore,&#13;
+il vecchietto solitario e dimenticato fra i gatti e le latte sfondate dell'Impasse Ronsin, a Parigi.&#13;
+Impasse Ronsin: è un vicoletto cieco, un cul di sacco, dalle parti di Vangirard, occupato da cata-&#13;
+pecchie, baracche e atelier d'artisti. Il vecchio è rimasto là dentro, come un qualunque operaio sul&#13;
+suo laboratorio. Le sculture, che egli custodiva gelosamente, coperti d'incerati, di tendoni da camio-&#13;
+nisti. In mezzo a una confusione di tronchi d'albero sbozzati, tavoloni di legno, blocchi di pietra,&#13;
+lastre e cubi di marmo. E tutti gli attrezzi del lavoro: seghe, scalpelli, trapani, martelli, mazzuoli.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

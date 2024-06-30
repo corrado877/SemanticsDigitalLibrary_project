@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:37:28.756+02:00</Created>
+        <LastChange>2024-06-21T10:20:31.830+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326057" pageNr="113" tsid="175603584" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=DMCOJKDTVWPWBVYWRMGFIRUX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MMTRRQOQVCFNIVQURBQWYMFX" imageId="54316459"/>
+    </Metadata>
+    <Page imageFilename="Q_12_1957_0007_c3r.jpg" imageWidth="1798" imageHeight="2523" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746079651" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:0;}">
+            <Coords points="139,254 148,1880 1596,1880 1587,254"/>
+            <TextLine id="line_1715862631481_183" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="277,278 324,280 322,330 275,328"/>
+                <Baseline points="275,323 322,325"/>
+                <TextEquiv>
+                    <Unicode>6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862628958_178" custom="readingOrder {index:1;}">
+                <Coords points="182,317 236,317 236,367 182,367"/>
+                <Baseline points="182,362 236,362"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715936875900_561" custom="readingOrder {index:2;} date {offset:0; length:6;year:0; day:0; month:0;}">
+                <Coords points="144,513 517,518 516,568 143,563"/>
+                <Baseline points="143,558 516,563"/>
+                <TextEquiv>
+                    <Unicode>Mentre Un altro ingegno </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:3;} add {offset:0; length:9;place:above;}">
+                <Coords points="457,513 485,509 513,511 541,513 569,515 569,478 541,476 513,474 485,472 457,476"/>
+                <Baseline points="457,501 485,497 513,499 541,501 569,503"/>
+                <TextEquiv>
+                    <Unicode>pittorico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715936889761_574" custom="readingOrder {index:4;}">
+                <Coords points="517,522 1407,524 1407,574 517,572"/>
+                <Baseline points="517,567 1407,569"/>
+                <TextEquiv>
+                    <Unicode>, che pure l'approfondì, troppo appassionato, troppo disperato,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:5;} add {offset:0; length:34;place:above;}">
+                <Coords points="913,441 940,443 968,443 995,443 1023,443 1050,443 1078,444 1105,444 1133,443 1160,443 1188,445 1215,445 1243,445 1270,447 1298,447 1325,447 1353,448 1380,450 1408,452 1435,455 1463,461 1463,412 1435,406 1408,403 1380,401 1353,399 1325,398 1298,398 1270,398 1243,396 1215,396 1188,396 1160,394 1133,394 1105,395 1078,395 1050,394 1023,394 995,394 968,394 940,394 913,392"/>
+                <Baseline points="913,425 940,427 968,427 995,427 1023,427 1050,427 1078,428 1105,428 1133,427 1160,427 1188,429 1215,429 1243,429 1270,431 1298,431 1325,431 1353,432 1380,434 1408,436 1435,439 1463,445"/>
+                <TextEquiv>
+                    <Unicode>secondo che il tempo suo imponeva,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715936891966_579" custom="readingOrder {index:6;}">
+                <Coords points="1419,517 1566,524 1563,574 1416,567"/>
+                <Baseline points="1424,561 1563,569"/>
+                <TextEquiv>
+                    <Unicode>ne fu un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715936899672_587" custom="readingOrder {index:7;}">
+                <Coords points="162,595 423,597 423,647 162,645"/>
+                <Baseline points="162,640 423,642"/>
+                <TextEquiv>
+                    <Unicode>poco la vittima:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:8;} add {offset:0; length:10;place:above;}">
+                <Coords points="297,601 325,601 354,603 383,603 412,605 441,609 441,579 412,575 383,573 354,573 325,571 297,571"/>
+                <Baseline points="297,591 325,591 354,593 383,593 412,595 441,599"/>
+                <TextEquiv>
+                    <Unicode>Delacroix.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715936904357_592" custom="readingOrder {index:9;} del {offset:36; length:7;rend:overstrike;}">
+                <Coords points="441,594 1137,605 1136,655 440,644"/>
+                <Baseline points="440,639 1136,650"/>
+                <TextEquiv>
+                    <Unicode>E il canto di lui risuonava a volta lugubre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:10;} add {offset:0; length:15;place:above;}">
+                <Coords points="981,607 1006,607 1031,606 1056,606 1081,607 1106,607 1131,605 1156,605 1181,605 1207,607 1207,577 1181,575 1156,575 1131,575 1106,577 1081,577 1056,576 1031,576 1006,577 981,577"/>
+                <Baseline points="981,597 1006,597 1031,596 1056,596 1081,597 1106,597 1131,595 1156,595 1181,595 1207,597"/>
+                <TextEquiv>
+                    <Unicode>di voce mortale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715936906829_597" custom="readingOrder {index:11;}">
+                <Coords points="1148,599 1583,594 1584,644 1149,649"/>
+                <Baseline points="1149,644 1584,639"/>
+                <TextEquiv>
+                    <Unicode>troppo intrisa di fatica, di do-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:12;} del {offset:14; length:74;rend:overstrike;}">
+                <Coords points="161,719 231,721 301,723 371,725 441,725 511,725 581,723 651,724 721,722 791,725 861,724 931,724 1001,721 1071,723 1141,723 1211,725 1281,723 1351,725 1421,725 1491,723 1561,725 1561,676 1491,674 1421,676 1351,676 1281,674 1211,676 1141,674 1071,674 1001,672 931,675 861,675 791,676 721,673 651,675 581,674 511,676 441,676 371,676 301,674 231,672 161,670"/>
+                <Baseline points="161,703 231,705 301,707 371,709 441,709 511,709 581,707 651,708 721,706 791,709 861,708 931,708 1001,705 1071,707 1141,707 1211,709 1281,707 1351,709 1421,709 1491,707 1561,709"/>
+                <TextEquiv>
+                    <Unicode>lore umano. - A lunga distanza da qui, da questa casa, stranamente incantata, è il posto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:13;} del {offset:0; length:81;rend:overstrike;}">
+                <Coords points="159,795 227,795 296,795 365,795 434,795 503,795 572,792 641,791 710,791 779,790 848,789 916,789 985,791 1054,791 1123,791 1192,793 1261,793 1330,795 1399,796 1468,798 1537,797 1537,767 1468,768 1399,766 1330,765 1261,763 1192,763 1123,761 1054,761 985,761 916,759 848,759 779,760 710,761 641,761 572,762 503,765 434,765 365,765 296,765 227,765 159,765"/>
+                <Baseline points="159,785 227,785 296,785 365,785 434,785 503,785 572,782 641,781 710,781 779,780 848,779 916,779 985,781 1054,781 1123,781 1192,783 1261,783 1330,785 1399,786 1468,788 1537,787"/>
+                <TextEquiv>
+                    <Unicode>di Anversa, sono i traffici delle navi, e l'acqua in moto dell'Oceano portata fin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715936918941_605" custom="readingOrder {index:14;} del {offset:0; length:56;rend:overstrike;} del {offset:74; length:11;rend:overstrike;}">
+                <Coords points="155,824 1553,830 1553,880 155,874"/>
+                <Baseline points="155,869 1553,875"/>
+                <TextEquiv>
+                    <Unicode>qui: e da codesta apertura, lo spazio immenso della vita Delacroix provò, per la vita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:15;} add {offset:0; length:13;place:above;}">
+                <Coords points="1357,833 1382,835 1407,836 1432,837 1458,838 1483,839 1508,839 1533,839 1577,840 1577,810 1533,809 1508,809 1483,809 1458,808 1432,807 1407,806 1382,805 1357,803"/>
+                <Baseline points="1357,823 1382,825 1407,826 1432,827 1458,828 1483,829 1508,829 1533,829 1559,831"/>
+                <TextEquiv>
+                    <Unicode>senza tregua,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:16;}">
+                <Coords points="153,949 224,950 296,949 367,947 439,949 511,949 582,950 654,949 725,949 797,946 869,947 940,945 1012,947 1083,947 1155,948 1227,951 1298,951 1370,951 1441,951 1513,953 1585,955 1585,906 1513,904 1441,902 1370,902 1298,902 1227,902 1155,899 1083,898 1012,898 940,896 869,898 797,897 725,900 654,900 582,901 511,900 439,900 367,898 296,900 224,901 153,900"/>
+                <Baseline points="153,933 224,934 296,933 367,931 439,933 511,933 582,934 654,933 725,933 797,930 869,931 940,929 1012,931 1083,931 1155,932 1227,935 1298,935 1370,935 1441,935 1513,937 1585,939"/>
+                <TextEquiv>
+                    <Unicode>una costante, prorompente nostalgia non solo per l'arte di Rubes: per qualcosa di spon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715936926696_613" custom="readingOrder {index:17;}">
+                <Coords points="155,967 868,971 868,1021 155,1017"/>
+                <Baseline points="155,1012 868,1016"/>
+                <TextEquiv>
+                    <Unicode>taneo, di sanguigno, di nascosto come la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:18;} add {offset:0; length:6;place:above;}">
+                <Coords points="823,975 855,975 888,975 921,975 921,926 888,926 855,926 823,926"/>
+                <Baseline points="823,959 855,959 888,959 921,959"/>
+                <TextEquiv>
+                    <Unicode>teneva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715936928954_618" custom="readingOrder {index:19;} del {offset:20; length:2;rend:overstrike;}">
+                <Coords points="876,971 1598,974 1598,1024 876,1021"/>
+                <Baseline points="876,1016 1598,1019"/>
+                <TextEquiv>
+                    <Unicode>linfa nelle redici; ed di cui avvertiva il tepo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715937653948_750" custom="readingOrder {index:20;} hi {offset:70; length:8;rend:underline; type:grey;}">
+                <Coords points="149,1046 1326,1054 1326,1104 149,1096"/>
+                <Baseline points="149,1091 1326,1099"/>
+                <TextEquiv>
+                    <Unicode>re che saliva, e temperava del colore della vita i volti delle donne, le carni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715936939853_627" custom="readingOrder {index:21;} add {offset:0; length:5;place:above;}">
+                <Coords points="1225,1010 1360,1018 1357,1068 1222,1060"/>
+                <Baseline points="1222,1055 1357,1063"/>
+                <TextEquiv>
+                    <Unicode>carni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715937656506_755" custom="readingOrder {index:22;} del {offset:0; length:5;rend:overstrike;}">
+                <Coords points="1343,1050 1588,1056 1587,1106 1342,1100"/>
+                <Baseline points="1342,1095 1587,1101"/>
+                <TextEquiv>
+                    <Unicode>degli dei fantolini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_16" custom="readingOrder {index:23;}">
+                <Coords points="155,1173 226,1174 298,1171 370,1171 441,1172 513,1171 585,1171 656,1172 728,1173 800,1173 872,1171 943,1173 1015,1173 1087,1173 1158,1175 1230,1177 1302,1177 1373,1179 1445,1177 1517,1177 1589,1183 1589,1134 1517,1128 1445,1128 1373,1130 1302,1128 1230,1128 1158,1126 1087,1124 1015,1124 943,1124 872,1122 800,1124 728,1124 656,1123 585,1122 513,1122 441,1123 370,1122 298,1122 226,1125 155,1124"/>
+                <Baseline points="155,1157 226,1158 298,1155 370,1155 441,1156 513,1155 585,1155 656,1156 728,1157 800,1157 872,1155 943,1157 1015,1157 1087,1157 1158,1159 1230,1161 1302,1161 1373,1163 1445,1161 1517,1161 1589,1167"/>
+                <TextEquiv>
+                    <Unicode>riguardi, le vesti, l'aria che stagnava intorno ad essi. La nostalgia, a momenti gli si mu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_17" custom="readingOrder {index:24;}">
+                <Coords points="147,1253 172,1253 198,1252 224,1252 250,1252 276,1252 302,1253 328,1251 354,1253 380,1251 406,1250 431,1249 457,1249 483,1249 509,1247 535,1249 561,1249 587,1249 613,1249 639,1250 665,1253 665,1204 639,1201 613,1200 587,1200 561,1200 535,1200 509,1198 483,1200 457,1200 431,1200 406,1201 380,1202 354,1204 328,1202 302,1204 276,1203 250,1203 224,1203 198,1203 172,1204 147,1204"/>
+                <Baseline points="147,1237 172,1237 198,1236 224,1236 250,1236 276,1236 302,1237 328,1235 354,1237 380,1235 406,1234 431,1233 457,1233 483,1233 509,1231 535,1233 561,1233 587,1233 613,1233 639,1234 665,1237"/>
+                <TextEquiv>
+                    <Unicode>tava in un angoscioso rancore.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_18" custom="readingOrder {index:25;}">
+                <Coords points="165,1323 233,1325 302,1327 371,1327 439,1325 508,1325 577,1325 645,1325 714,1325 783,1325 852,1325 920,1323 989,1324 1058,1323 1126,1325 1195,1327 1264,1329 1332,1329 1401,1329 1470,1328 1539,1327 1539,1278 1470,1279 1401,1280 1332,1280 1264,1280 1195,1278 1126,1276 1058,1274 989,1275 920,1274 852,1276 783,1276 714,1276 645,1276 577,1276 508,1276 439,1276 371,1278 302,1278 233,1276 165,1274"/>
+                <Baseline points="165,1307 233,1309 302,1311 371,1311 439,1309 508,1309 577,1309 645,1309 714,1309 783,1309 852,1309 920,1307 989,1308 1058,1307 1126,1309 1195,1311 1264,1313 1332,1313 1401,1313 1470,1312 1539,1311"/>
+                <TextEquiv>
+                    <Unicode>Lasciammo la casa di Rubens, con gli occhi, la fantasia ancora accesa, come quando</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_19" custom="readingOrder {index:26;}">
+                <Coords points="147,1407 216,1403 286,1403 356,1401 426,1399 496,1399 566,1399 636,1398 706,1398 776,1399 846,1400 915,1401 985,1403 1055,1403 1125,1403 1195,1405 1265,1406 1335,1407 1405,1405 1475,1408 1545,1411 1545,1362 1475,1359 1405,1356 1335,1358 1265,1357 1195,1356 1125,1354 1055,1354 985,1354 915,1352 846,1351 776,1350 706,1349 636,1349 566,1350 496,1350 426,1350 356,1352 286,1354 216,1354 147,1358"/>
+                <Baseline points="147,1391 216,1387 286,1387 356,1385 426,1383 496,1383 566,1383 636,1382 706,1382 776,1383 846,1384 915,1385 985,1387 1055,1387 1125,1387 1195,1389 1265,1390 1335,1391 1405,1389 1475,1392 1545,1395"/>
+                <TextEquiv>
+                    <Unicode>si è usciti dal Padiglione delle Meraviglie. Fummo ben presto davanti al prato. La</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_20" custom="readingOrder {index:27;}">
+                <Coords points="151,1481 222,1477 293,1477 364,1477 436,1475 507,1475 578,1475 650,1475 721,1475 792,1475 864,1475 935,1477 1006,1480 1077,1481 1149,1482 1220,1481 1291,1479 1363,1478 1434,1480 1505,1481 1577,1483 1577,1434 1505,1432 1434,1431 1363,1429 1291,1430 1220,1432 1149,1433 1077,1432 1006,1431 935,1428 864,1426 792,1426 721,1426 650,1426 578,1426 507,1426 436,1426 364,1428 293,1428 222,1428 151,1432"/>
+                <Baseline points="151,1465 222,1461 293,1461 364,1461 436,1459 507,1459 578,1459 650,1459 721,1459 792,1459 864,1459 935,1461 1006,1464 1077,1465 1149,1466 1220,1465 1291,1463 1363,1462 1434,1464 1505,1465 1577,1467"/>
+                <TextEquiv>
+                    <Unicode>Schelda, vasta e morbida, riposava fra le banchine di pietra, sotto i ponti di ferro. I traf-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_21" custom="readingOrder {index:28;} hi {offset:37; length:4;rend:underline; type:grey;}">
+                <Coords points="159,1561 230,1558 301,1553 372,1551 443,1551 515,1551 586,1553 657,1552 728,1553 799,1553 871,1555 942,1555 1013,1554 1084,1555 1155,1553 1227,1553 1298,1553 1369,1556 1440,1557 1511,1561 1583,1563 1583,1514 1511,1512 1440,1508 1369,1507 1298,1504 1227,1504 1155,1504 1084,1506 1013,1505 942,1506 871,1506 799,1504 728,1504 657,1503 586,1504 515,1502 443,1502 372,1502 301,1504 230,1509 159,1512"/>
+                <Baseline points="159,1545 230,1542 301,1537 372,1535 443,1535 515,1535 586,1537 657,1536 728,1537 799,1537 871,1539 942,1539 1013,1538 1084,1539 1155,1537 1227,1537 1298,1537 1369,1540 1440,1541 1511,1545 1583,1547"/>
+                <TextEquiv>
+                    <Unicode>fici si svolgevano, lenti, ordinati. Grue, come pacifici mostri colorati di verde, di giallo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_22" custom="readingOrder {index:29;}">
+                <Coords points="163,1629 234,1629 305,1629 376,1629 448,1629 519,1629 590,1627 662,1627 733,1625 804,1628 876,1630 947,1631 1018,1631 1089,1629 1161,1631 1232,1633 1303,1631 1375,1633 1446,1631 1517,1631 1589,1635 1589,1586 1517,1582 1446,1582 1375,1584 1303,1582 1232,1584 1161,1582 1089,1580 1018,1582 947,1582 876,1581 804,1579 733,1576 662,1578 590,1578 519,1580 448,1580 376,1580 305,1580 234,1580 163,1580"/>
+                <Baseline points="163,1613 234,1613 305,1613 376,1613 448,1613 519,1613 590,1611 662,1611 733,1609 804,1612 876,1614 947,1615 1018,1615 1089,1613 1161,1615 1232,1617 1303,1615 1375,1617 1446,1615 1517,1615 1589,1619"/>
+                <TextEquiv>
+                    <Unicode>estraevano colli, casse, balle di merci, che, dopo un breve giro silenzioso, e comandi se-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_23" custom="readingOrder {index:30;}">
+                <Coords points="165,1709 235,1708 305,1707 375,1705 446,1705 516,1704 586,1705 657,1705 727,1704 797,1705 868,1704 938,1705 1008,1707 1078,1708 1149,1709 1219,1709 1289,1708 1360,1705 1430,1709 1500,1710 1571,1713 1571,1664 1500,1661 1430,1660 1360,1656 1289,1659 1219,1660 1149,1660 1078,1659 1008,1658 938,1656 868,1655 797,1656 727,1655 657,1656 586,1656 516,1655 446,1656 375,1656 305,1658 235,1659 165,1660"/>
+                <Baseline points="165,1693 235,1692 305,1691 375,1689 446,1689 516,1688 586,1689 657,1689 727,1688 797,1689 868,1688 938,1689 1008,1691 1078,1692 1149,1693 1219,1693 1289,1692 1360,1689 1430,1693 1500,1694 1571,1697"/>
+                <TextEquiv>
+                    <Unicode>gnati da fischi stridenti, depositavano su carri, fermi sui marciapiedi, sotto le calate.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_24" custom="readingOrder {index:31;} hi {offset:0; length:4;rend:color; type:grey;}">
+                <Coords points="715,1877 776,1871 784,1843 811,1845 839,1843 867,1843 875,1780 848,1781 826,1776 805,1767 790,1741 726,1746"/>
+                <Baseline points="729,1829 756,1827 784,1827 811,1829 839,1827 867,1827"/>
+                <TextEquiv>
+                    <Unicode>Grue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>6&#13;
+3.&#13;
+Mentre Un altro ingegno &#13;
+pittorico&#13;
+, che pure l'approfondì, troppo appassionato, troppo disperato,&#13;
+secondo che il tempo suo imponeva,&#13;
+ne fu un&#13;
+poco la vittima:&#13;
+Delacroix.&#13;
+E il canto di lui risuonava a volta lugubre,&#13;
+di voce mortale&#13;
+troppo intrisa di fatica, di do-&#13;
+lore umano. - A lunga distanza da qui, da questa casa, stranamente incantata, è il posto&#13;
+di Anversa, sono i traffici delle navi, e l'acqua in moto dell'Oceano portata fin&#13;
+qui: e da codesta apertura, lo spazio immenso della vita Delacroix provò, per la vita&#13;
+senza tregua,&#13;
+una costante, prorompente nostalgia non solo per l'arte di Rubes: per qualcosa di spon&#13;
+taneo, di sanguigno, di nascosto come la&#13;
+teneva&#13;
+linfa nelle redici; ed di cui avvertiva il tepo-&#13;
+re che saliva, e temperava del colore della vita i volti delle donne, le carni&#13;
+carni&#13;
+degli dei fantolini&#13;
+riguardi, le vesti, l'aria che stagnava intorno ad essi. La nostalgia, a momenti gli si mu-&#13;
+tava in un angoscioso rancore.&#13;
+Lasciammo la casa di Rubens, con gli occhi, la fantasia ancora accesa, come quando&#13;
+si è usciti dal Padiglione delle Meraviglie. Fummo ben presto davanti al prato. La&#13;
+Schelda, vasta e morbida, riposava fra le banchine di pietra, sotto i ponti di ferro. I traf-&#13;
+fici si svolgevano, lenti, ordinati. Grue, come pacifici mostri colorati di verde, di giallo,&#13;
+estraevano colli, casse, balle di merci, che, dopo un breve giro silenzioso, e comandi se-&#13;
+gnati da fischi stridenti, depositavano su carri, fermi sui marciapiedi, sotto le calate.&#13;
+Grue</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:22:29.671+01:00</Created>
+        <LastChange>2024-06-20T12:03:38.464+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325993" pageNr="65" tsid="175603540" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=GRYONXTWANSXAVQBQOPVOBII&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MLAMQMBSMHSHUNTDPYPQGYLX" imageId="53903855"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_08_0007_c3r.jpg" imageWidth="1798" imageHeight="2471" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746069876" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718186698122_2117"/>
+                <RegionRefIndexed index="1" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718186698122_2117" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="123,283 123,333 172,333 172,283"/>
+            <TextLine id="line_1718186698212_2120" custom="readingOrder {index:0;}">
+                <Coords points="123,283 172,283 172,333 123,333"/>
+                <Baseline points="123,328 172,328"/>
+                <TextEquiv>
+                    <Unicode>5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:1;}">
+            <Coords points="125,412 125,1990 1571,1990 1571,412"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="143,476 213,473 283,472 353,468 423,470 493,466 563,467 633,466 703,466 773,467 843,466 913,468 983,470 1053,468 1123,466 1193,466 1263,465 1333,464 1403,466 1473,467 1543,468 1543,416 1473,415 1403,414 1333,412 1263,413 1193,414 1123,414 1053,416 983,418 913,416 843,414 773,415 703,414 633,414 563,415 493,414 423,418 353,416 283,420 213,421 143,424"/>
+                <Baseline points="143,459 213,456 283,455 353,451 423,453 493,449 563,450 633,449 703,449 773,450 843,449 913,451 983,453 1053,451 1123,449 1193,449 1263,448 1333,447 1403,449 1473,450 1543,451"/>
+                <TextEquiv>
+                    <Unicode>di fare... la ragazza è ben contenta a parlare con noi... con della gente educata... bella gente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="145,548 215,550 286,549 357,546 428,546 499,544 569,546 640,544 711,543 782,542 853,543 923,542 994,542 1065,541 1136,544 1207,538 1277,538 1348,538 1419,539 1490,540 1561,538 1561,486 1490,488 1419,487 1348,486 1277,486 1207,486 1136,492 1065,489 994,490 923,490 853,491 782,490 711,491 640,492 569,494 499,492 428,494 357,494 286,497 215,498 145,496"/>
+                <Baseline points="145,531 215,533 286,532 357,529 428,529 499,527 569,529 640,527 711,526 782,525 853,526 923,525 994,525 1065,524 1136,527 1207,521 1277,521 1348,521 1419,522 1490,523 1561,521"/>
+                <TextEquiv>
+                    <Unicode>civile.. pezzo di somaro.. e magari avrà anche le corna.." Osservai con calma: ".. sola-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="143,622 213,622 283,621 354,620 424,620 495,620 565,619 635,622 706,622 776,618 847,618 917,616 987,616 1058,618 1128,616 1199,616 1269,616 1339,614 1410,614 1480,615 1551,616 1551,564 1480,563 1410,562 1339,562 1269,564 1199,564 1128,564 1058,566 987,564 917,564 847,566 776,566 706,570 635,570 565,567 495,568 424,568 354,568 283,569 213,570 143,570"/>
+                <Baseline points="143,605 213,605 283,604 354,603 424,603 495,603 565,602 635,605 706,605 776,601 847,601 917,599 987,599 1058,601 1128,599 1199,599 1269,599 1339,597 1410,597 1480,598 1551,599"/>
+                <TextEquiv>
+                    <Unicode>mente non le avrà da noi..." E cercavo di ridere. Eravamo fuori, per accendere la sigaretta,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="133,700 203,698 274,696 345,698 416,696 487,698 558,696 629,694 700,693 771,692 842,692 912,691 983,692 1054,692 1125,692 1196,692 1267,692 1338,690 1409,690 1480,691 1551,692 1551,640 1480,639 1409,638 1338,638 1267,640 1196,640 1125,640 1054,640 983,640 912,639 842,640 771,640 700,641 629,642 558,644 487,646 416,644 345,646 274,644 203,646 133,648"/>
+                <Baseline points="133,683 203,681 274,679 345,681 416,679 487,681 558,679 629,677 700,676 771,675 842,675 912,674 983,675 1054,675 1125,675 1196,675 1267,675 1338,673 1409,673 1480,674 1551,675"/>
+                <TextEquiv>
+                    <Unicode>sotto il portico, dov'è un vecchio albergo. Sentivo l'ira rigirarsi nel suo piccolo corpo. Voleva dire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="147,782 218,776 289,775 360,770 431,770 502,769 573,768 644,768 715,766 786,768 857,768 928,769 999,768 1070,767 1141,768 1212,768 1283,766 1354,766 1425,766 1496,771 1567,776 1567,725 1496,720 1425,715 1354,715 1283,715 1212,717 1141,717 1070,716 999,717 928,718 857,717 786,717 715,715 644,717 573,717 502,718 431,719 360,719 289,724 218,725 147,731"/>
+                <Baseline points="147,765 218,759 289,758 360,753 431,753 502,752 573,751 644,751 715,749 786,751 857,751 928,752 999,751 1070,750 1141,751 1212,751 1283,749 1354,749 1425,749 1496,754 1567,759"/>
+                <TextEquiv>
+                    <Unicode>qualcosa; e disse brontolando: ".. sarebbe bene.. queste altre sere, vorrei andarci da solo.." In-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186717907_2128" custom="readingOrder {index:5;}">
+                <Coords points="131,796 642,792 693,835 660,872 624,839 132,846"/>
+                <Baseline points="132,841 626,834 663,868"/>
+                <TextEquiv>
+                    <Unicode>tendeva, a rivedere gli automobilini, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186723281_2133" custom="readingOrder {index:6;}">
+                <Coords points="668,792 1572,794 1572,844 668,842"/>
+                <Baseline points="668,837 1572,839"/>
+                <TextEquiv>
+                    <Unicode>e tentare il bersaglio di fantocci. Non trovai da replicare. Eravamo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="129,926 200,924 272,924 344,921 415,927 487,922 559,922 630,922 702,921 774,922 846,920 917,920 989,920 1061,921 1132,920 1204,918 1276,918 1347,916 1419,916 1491,918 1563,920 1563,868 1491,866 1419,864 1347,864 1276,866 1204,866 1132,868 1061,869 989,868 917,868 846,868 774,870 702,869 630,870 559,870 487,870 415,875 344,869 272,872 200,872 129,874"/>
+                <Baseline points="129,909 200,907 272,907 344,904 415,910 487,905 559,905 630,905 702,904 774,905 846,903 917,903 989,903 1061,904 1132,903 1204,901 1276,901 1347,899 1419,899 1491,901 1563,903"/>
+                <TextEquiv>
+                    <Unicode>davanti al caffè. Guardavamo dentro. L'amico giornalista ci fece un cenno. Entrammo, spingen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="129,998 199,1001 269,1000 339,1002 410,1001 480,1000 550,998 621,999 691,999 761,996 832,996 902,996 972,996 1042,996 1113,994 1183,994 1253,994 1324,994 1394,994 1464,995 1535,1002 1535,950 1464,943 1394,942 1324,942 1253,942 1183,942 1113,942 1042,944 972,944 902,944 832,944 761,944 691,947 621,947 550,946 480,948 410,949 339,950 269,948 199,949 129,946"/>
+                <Baseline points="129,981 199,984 269,983 339,985 410,984 480,983 550,981 621,982 691,982 761,979 832,979 902,979 972,979 1042,979 1113,977 1183,977 1253,977 1324,977 1394,977 1464,978 1535,985"/>
+                <TextEquiv>
+                    <Unicode>do la porta girevole. Io davanti, l'amico dentro. Amavo, e infuriato nel profilo giallastro. Mi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:9;}">
+                <Coords points="129,1080 199,1079 270,1079 340,1076 411,1077 481,1074 552,1076 622,1072 693,1072 763,1072 834,1073 904,1072 975,1076 1045,1073 1116,1074 1186,1072 1257,1072 1327,1068 1398,1069 1468,1071 1539,1072 1539,1020 1468,1019 1398,1017 1327,1016 1257,1020 1186,1020 1116,1022 1045,1021 975,1024 904,1020 834,1021 763,1020 693,1020 622,1020 552,1024 481,1022 411,1025 340,1024 270,1027 199,1027 129,1028"/>
+                <Baseline points="129,1063 199,1062 270,1062 340,1059 411,1060 481,1057 552,1059 622,1055 693,1055 763,1055 834,1056 904,1055 975,1059 1045,1056 1116,1057 1186,1055 1257,1055 1327,1051 1398,1052 1468,1054 1539,1055"/>
+                <TextEquiv>
+                    <Unicode>toccò sulla spalla." Non le dispiacerà, mi disse; lei mi capisce.. è solo una storia così..." Dissi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="137,1152 208,1152 280,1154 352,1150 423,1151 495,1150 567,1151 638,1150 710,1150 782,1149 854,1150 925,1149 997,1148 1069,1148 1140,1148 1212,1144 1284,1144 1355,1146 1427,1146 1499,1150 1571,1156 1571,1104 1499,1098 1427,1094 1355,1094 1284,1092 1212,1092 1140,1096 1069,1096 997,1096 925,1097 854,1098 782,1097 710,1098 638,1098 567,1099 495,1098 423,1099 352,1098 280,1102 208,1100 137,1100"/>
+                <Baseline points="137,1135 208,1135 280,1137 352,1133 423,1134 495,1133 567,1134 638,1133 710,1133 782,1132 854,1133 925,1132 997,1131 1069,1131 1140,1131 1212,1127 1284,1127 1355,1129 1427,1129 1499,1133 1571,1139"/>
+                <TextEquiv>
+                    <Unicode>che capivo, capivo bene. E aggiunsi: "Stia tranquillo, non ci pensi; e buona fortuna..." Il giorna-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="141,1234 211,1231 281,1228 351,1228 421,1226 491,1226 561,1227 631,1226 701,1224 771,1224 842,1223 912,1224 982,1222 1052,1221 1122,1220 1192,1220 1262,1218 1332,1218 1402,1218 1472,1219 1543,1218 1543,1167 1472,1168 1402,1167 1332,1167 1262,1167 1192,1169 1122,1169 1052,1170 982,1171 912,1173 842,1172 771,1173 701,1173 631,1175 561,1176 491,1175 421,1175 351,1177 281,1177 211,1180 141,1183"/>
+                <Baseline points="141,1217 211,1214 281,1211 351,1211 421,1209 491,1209 561,1210 631,1209 701,1207 771,1207 842,1206 912,1207 982,1205 1052,1204 1122,1203 1192,1203 1262,1201 1332,1201 1402,1201 1472,1202 1543,1201"/>
+                <TextEquiv>
+                    <Unicode>lista, teneva un libro aperto, sul tavolino di marmo. Ci salutò con il gesto della mano, cordiale. Si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="135,1304 205,1302 276,1304 347,1302 418,1302 489,1301 560,1300 631,1301 702,1298 773,1298 844,1299 914,1298 985,1298 1056,1299 1127,1298 1198,1296 1269,1297 1340,1296 1411,1296 1482,1297 1553,1300 1553,1249 1482,1246 1411,1245 1340,1245 1269,1246 1198,1245 1127,1247 1056,1248 985,1247 914,1247 844,1248 773,1247 702,1247 631,1250 560,1249 489,1250 418,1251 347,1251 276,1253 205,1251 135,1253"/>
+                <Baseline points="135,1287 205,1285 276,1287 347,1285 418,1285 489,1284 560,1283 631,1284 702,1281 773,1281 844,1282 914,1281 985,1281 1056,1282 1127,1281 1198,1279 1269,1280 1340,1279 1411,1279 1482,1280 1553,1283"/>
+                <TextEquiv>
+                    <Unicode>toglieva gli occhialini dal naso, passandosi una mano sugli occhi. "Andiamo, andiamo", diceva.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_13" custom="readingOrder {index:13;}">
+                <Coords points="145,1386 215,1378 286,1378 356,1376 427,1377 498,1379 568,1378 639,1379 709,1379 780,1378 851,1376 921,1376 992,1376 1062,1377 1133,1378 1204,1378 1274,1376 1345,1376 1415,1376 1486,1375 1557,1376 1557,1324 1486,1323 1415,1324 1345,1324 1274,1324 1204,1326 1133,1326 1062,1325 992,1324 921,1324 851,1324 780,1326 709,1327 639,1327 568,1326 498,1327 427,1325 356,1324 286,1326 215,1326 145,1334"/>
+                <Baseline points="145,1369 215,1361 286,1361 356,1359 427,1360 498,1362 568,1361 639,1362 709,1362 780,1361 851,1359 921,1359 992,1359 1062,1360 1133,1361 1204,1361 1274,1359 1345,1359 1415,1359 1486,1358 1557,1359"/>
+                <TextEquiv>
+                    <Unicode>"Stasera, siete in ritardo". E aggiunse, battendo sul libro: "Davo un'occhiata a questo libro di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_14" custom="readingOrder {index:14;}">
+                <Coords points="137,1460 166,1458 195,1458 224,1458 253,1460 283,1460 283,1408 253,1408 224,1406 195,1406 166,1406 137,1408"/>
+                <Baseline points="137,1443 166,1441 195,1441 224,1441 253,1443 283,1443"/>
+                <TextEquiv>
+                    <Unicode>Sorel."-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_15" custom="readingOrder {index:15;}">
+                <Coords points="217,1990 245,1989 273,1989 301,1990 330,1990 358,1988 386,1986 415,1984 415,1932 386,1934 358,1936 330,1938 301,1938 273,1937 245,1937 217,1938"/>
+                <Baseline points="217,1973 245,1972 273,1972 301,1973 330,1973 358,1971 386,1969 415,1967"/>
+                <TextEquiv>
+                    <Unicode>13.4.1961.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>di fare... la ragazza è ben contenta a parlare con noi... con della gente educata... bella gente&#13;
+civile.. pezzo di somaro.. e magari avrà anche le corna.." Osservai con calma: ".. sola-&#13;
+mente non le avrà da noi..." E cercavo di ridere. Eravamo fuori, per accendere la sigaretta,&#13;
+sotto il portico, dov'è un vecchio albergo. Sentivo l'ira rigirarsi nel suo piccolo corpo. Voleva dire&#13;
+qualcosa; e disse brontolando: ".. sarebbe bene.. queste altre sere, vorrei andarci da solo.." In-&#13;
+tendeva, a rivedere gli automobilini, &#13;
+e tentare il bersaglio di fantocci. Non trovai da replicare. Eravamo&#13;
+davanti al caffè. Guardavamo dentro. L'amico giornalista ci fece un cenno. Entrammo, spingen-&#13;
+do la porta girevole. Io davanti, l'amico dentro. Amavo, e infuriato nel profilo giallastro. Mi&#13;
+toccò sulla spalla." Non le dispiacerà, mi disse; lei mi capisce.. è solo una storia così..." Dissi&#13;
+che capivo, capivo bene. E aggiunsi: "Stia tranquillo, non ci pensi; e buona fortuna..." Il giorna-&#13;
+lista, teneva un libro aperto, sul tavolino di marmo. Ci salutò con il gesto della mano, cordiale. Si&#13;
+toglieva gli occhialini dal naso, passandosi una mano sugli occhi. "Andiamo, andiamo", diceva.&#13;
+"Stasera, siete in ritardo". E aggiunse, battendo sul libro: "Davo un'occhiata a questo libro di&#13;
+Sorel."-&#13;
+13.4.1961.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

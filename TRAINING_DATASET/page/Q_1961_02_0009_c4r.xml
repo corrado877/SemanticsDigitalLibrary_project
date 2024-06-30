@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:07:50.220+01:00</Created>
+        <LastChange>2024-06-20T11:26:06.449+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325498" pageNr="43" tsid="175603529" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=VDYBVSHSVCGBIAEONXBKSWVK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GGRFBXENURXOARFHMURIAFNH" imageId="53903598"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_02_0009_c4r.jpg" imageWidth="1798" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746065641" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718117264149_850"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718117264149_850" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="155,279 155,334 203,334 203,279"/>
+            <TextLine id="line_1718117264303_853" custom="readingOrder {index:0;}">
+                <Coords points="155,284 197,279 203,329 161,334"/>
+                <Baseline points="160,329 202,324"/>
+                <TextEquiv>
+                    <Unicode>7.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>7.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="153,444 153,2016 1607,2016 1607,444"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:75; continued:true;rend:underline;}">
+                <Coords points="165,504 235,506 306,504 377,504 448,502 519,502 590,500 661,501 732,500 803,498 874,499 944,498 1015,499 1086,499 1157,498 1228,498 1299,498 1370,496 1441,499 1512,500 1583,506 1583,454 1512,448 1441,447 1370,444 1299,446 1228,446 1157,446 1086,447 1015,447 944,446 874,447 803,446 732,448 661,449 590,448 519,450 448,450 377,452 306,452 235,454 165,452"/>
+                <Baseline points="165,487 235,489 306,487 377,487 448,485 519,485 590,483 661,484 732,483 803,481 874,482 944,481 1015,482 1086,482 1157,481 1228,481 1299,481 1370,479 1441,482 1512,483 1583,489"/>
+                <TextEquiv>
+                    <Unicode>La composizione si fa liquida e sonora come le musiche nel mattino d'estate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} hi {offset:0; length:68; continued:true;rend:underline;}">
+                <Coords points="173,587 243,586 314,581 384,578 455,577 525,577 596,575 666,577 737,574 807,573 878,573 948,573 1019,574 1089,571 1160,572 1230,572 1301,571 1371,573 1442,573 1512,573 1583,577 1583,528 1512,524 1442,524 1371,524 1301,522 1230,523 1160,523 1089,522 1019,525 948,524 878,524 807,524 737,525 666,528 596,526 525,528 455,528 384,529 314,532 243,537 173,538"/>
+                <Baseline points="173,571 243,570 314,565 384,562 455,561 525,561 596,559 666,561 737,558 807,557 878,557 948,557 1019,558 1089,555 1160,556 1230,556 1301,555 1371,557 1442,557 1512,557 1583,561"/>
+                <TextEquiv>
+                    <Unicode>I 4 tomi grigiopiomboblù Rosa Bianco Nero come grappolo d'uva matura</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} hi {offset:0; length:77; continued:true;rend:underline;}">
+                <Coords points="167,655 236,653 306,653 376,651 446,651 516,651 586,650 656,649 726,647 796,653 866,649 935,649 1005,647 1075,647 1145,645 1215,645 1285,645 1355,647 1425,646 1495,648 1565,649 1565,600 1495,599 1425,597 1355,598 1285,596 1215,596 1145,596 1075,598 1005,598 935,600 866,600 796,604 726,598 656,600 586,601 516,602 446,602 376,602 306,604 236,604 167,606"/>
+                <Baseline points="167,639 236,637 306,637 376,635 446,635 516,635 586,634 656,633 726,631 796,637 866,633 935,633 1005,631 1075,631 1145,629 1215,629 1285,629 1355,631 1425,630 1495,632 1565,633"/>
+                <TextEquiv>
+                    <Unicode>mandano sul volto sferico della composizione riflessi variati d'infinita dol_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;} hi {offset:0; length:46; continued:true;rend:underline;}">
+                <Coords points="176,730 223,727 270,727 317,724 364,723 411,725 458,724 506,725 553,725 600,725 647,723 694,723 741,723 788,721 836,725 883,724 930,725 977,725 1024,724 1071,721 1119,723 1119,674 1071,672 1024,675 977,676 930,676 883,675 836,676 788,672 741,674 694,674 647,674 600,676 553,676 506,676 458,675 411,676 364,674 317,675 270,678 223,678 176,681"/>
+                <Baseline points="176,714 223,711 270,711 317,708 364,707 411,709 458,708 506,709 553,709 600,709 647,707 694,707 741,707 788,705 836,709 883,708 930,709 977,709 1024,708 1071,705 1119,707"/>
+                <TextEquiv>
+                    <Unicode>cezza varietà infinita nella unità di 4 numeri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;} hi {offset:0; length:74; continued:true;rend:underline;}">
+                <Coords points="183,810 253,804 324,802 394,804 465,799 536,799 606,800 677,799 747,798 818,798 889,798 959,798 1030,800 1100,799 1171,797 1242,800 1312,798 1383,798 1453,797 1524,795 1595,800 1595,748 1524,743 1453,745 1383,746 1312,746 1242,748 1171,745 1100,747 1030,748 959,746 889,746 818,746 747,746 677,747 606,748 536,747 465,747 394,752 324,750 253,752 183,758"/>
+                <Baseline points="183,793 253,787 324,785 394,787 465,782 536,782 606,783 677,782 747,781 818,781 889,781 959,781 1030,783 1100,782 1171,780 1242,783 1312,781 1383,781 1453,780 1524,778 1595,783"/>
+                <TextEquiv>
+                    <Unicode>E' la celeste teoria che insonora il muto vortice della realtà e ne modula</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;} hi {offset:0; length:9; continued:true;rend:underline;}">
+                <Coords points="161,883 230,881 255,880 281,880 306,881 332,884 357,882 383,882 383,830 357,830 332,832 306,829 281,828 255,828 230,829 161,831"/>
+                <Baseline points="168,867 230,864 255,863 281,863 306,864 332,867 357,865 383,865"/>
+                <TextEquiv>
+                    <Unicode>il canto...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;} hi {offset:0; length:72; continued:true;rend:underline;}">
+                <Coords points="171,960 234,957 298,955 362,954 426,954 490,954 553,956 617,955 681,954 745,953 809,952 872,950 936,948 1000,948 1064,948 1128,948 1191,948 1255,948 1319,949 1383,948 1447,952 1447,900 1383,896 1319,897 1255,896 1191,896 1128,896 1064,896 1000,896 936,896 872,898 809,900 745,901 681,902 617,903 553,904 490,902 426,902 362,902 298,903 234,905 171,908"/>
+                <Baseline points="171,943 234,940 298,938 362,937 426,937 490,937 553,939 617,938 681,937 745,936 809,935 872,933 936,931 1000,931 1064,931 1128,931 1191,931 1255,931 1319,932 1383,931 1447,935"/>
+                <TextEquiv>
+                    <Unicode>La coscienza tornò limpida e sonora come le musiche nel mattino d'estate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;} hi {offset:0; length:86; continued:true;rend:underline;}">
+                <Coords points="179,1033 247,1030 316,1029 384,1028 453,1030 522,1030 590,1030 659,1028 727,1026 796,1028 865,1028 933,1026 1002,1028 1070,1027 1139,1028 1208,1026 1276,1027 1345,1026 1413,1026 1482,1024 1551,1026 1551,974 1482,972 1413,974 1345,974 1276,975 1208,974 1139,976 1070,975 1002,976 933,974 865,976 796,976 727,974 659,976 590,978 522,978 453,978 384,976 316,977 247,978 179,981"/>
+                <Baseline points="179,1016 247,1013 316,1012 384,1011 453,1013 522,1013 590,1013 659,1011 727,1009 796,1011 865,1011 933,1009 1002,1011 1070,1010 1139,1011 1208,1009 1276,1010 1345,1009 1413,1009 1482,1007 1551,1009"/>
+                <TextEquiv>
+                    <Unicode>Le teribili logiche rivolte verso lo stellato lautamente migrano da uno spazio storico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;} hi {offset:0; length:15; continued:true;rend:underline;}">
+                <Coords points="165,1106 250,1107 275,1109 300,1110 325,1110 350,1110 375,1108 400,1110 425,1111 451,1112 451,1061 425,1060 400,1059 375,1057 350,1059 325,1059 300,1059 275,1058 250,1056 165,1055"/>
+                <Baseline points="166,1097 250,1090 275,1092 300,1093 325,1093 350,1093 375,1091 400,1093 425,1094 451,1095"/>
+                <TextEquiv>
+                    <Unicode>ormai soppresso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;} hi {offset:0; length:40; continued:true;rend:underline;}">
+                <Coords points="193,1182 229,1180 265,1182 301,1182 337,1182 373,1182 409,1180 445,1182 481,1181 517,1180 554,1180 590,1180 626,1181 662,1183 698,1183 734,1182 770,1182 806,1178 842,1178 878,1178 915,1176 915,1125 878,1127 842,1127 806,1127 770,1131 734,1131 698,1132 662,1132 626,1130 590,1129 554,1129 517,1129 481,1130 445,1131 409,1129 373,1131 337,1131 301,1131 265,1131 229,1129 193,1131"/>
+                <Baseline points="193,1165 229,1163 265,1165 301,1165 337,1165 373,1165 409,1163 445,1165 481,1164 517,1163 554,1163 590,1163 626,1164 662,1166 698,1166 734,1165 770,1165 806,1161 842,1161 878,1161 915,1159"/>
+                <TextEquiv>
+                    <Unicode>sull'asse del metodo vidi le 5 parallele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;} hi {offset:0; length:63; continued:true;rend:underline;}">
+                <Coords points="181,1257 231,1254 281,1256 332,1256 382,1256 433,1256 483,1258 533,1256 584,1258 634,1261 685,1259 735,1258 785,1256 836,1256 886,1257 937,1256 987,1256 1037,1256 1088,1256 1138,1258 1189,1256 1189,1204 1138,1206 1088,1204 1037,1204 987,1204 937,1204 886,1205 836,1204 785,1204 735,1206 685,1207 634,1209 584,1206 533,1204 483,1206 433,1204 382,1204 332,1204 281,1204 231,1202 181,1205"/>
+                <Baseline points="181,1240 231,1237 281,1239 332,1239 382,1239 433,1239 483,1241 533,1239 584,1241 634,1244 685,1242 735,1241 785,1239 836,1239 886,1240 937,1239 987,1239 1037,1239 1088,1239 1138,1241 1189,1239"/>
+                <TextEquiv>
+                    <Unicode>Inserirsi in una di esse significa palpitare sul cuore di tutte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;} hi {offset:0; length:11; continued:true;rend:underline;}">
+                <Coords points="185,1330 212,1330 239,1332 267,1333 294,1334 321,1334 349,1334 349,1282 321,1282 294,1282 267,1281 239,1280 212,1278 185,1278"/>
+                <Baseline points="185,1313 212,1313 239,1315 267,1316 294,1317 321,1317 349,1317"/>
+                <TextEquiv>
+                    <Unicode>ancora vita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;} hi {offset:0; length:10; continued:true;rend:underline;}">
+                <Coords points="203,1404 229,1402 256,1404 283,1404 310,1407 337,1412 337,1360 310,1355 283,1352 256,1352 229,1350 203,1352"/>
+                <Baseline points="203,1387 229,1385 256,1387 283,1387 310,1390 337,1395"/>
+                <TextEquiv>
+                    <Unicode>altra vita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;} hi {offset:0; length:72; continued:true;rend:underline;}">
+                <Coords points="203,1486 271,1486 340,1484 409,1484 478,1483 547,1484 615,1488 684,1482 753,1481 822,1480 891,1478 959,1479 1028,1478 1097,1480 1166,1480 1235,1478 1303,1478 1372,1476 1441,1475 1510,1477 1579,1476 1579,1424 1510,1425 1441,1423 1372,1424 1303,1426 1235,1426 1166,1428 1097,1428 1028,1426 959,1427 891,1426 822,1428 753,1429 684,1430 615,1436 547,1432 478,1431 409,1432 340,1432 271,1434 203,1434"/>
+                <Baseline points="203,1469 271,1469 340,1467 409,1467 478,1466 547,1467 615,1471 684,1465 753,1464 822,1463 891,1461 959,1462 1028,1461 1097,1463 1166,1463 1235,1461 1303,1461 1372,1459 1441,1458 1510,1460 1579,1459"/>
+                <TextEquiv>
+                    <Unicode>fino all'incantesimo per una bellezza che dal quadrante frangibile della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;} hi {offset:0; length:7; continued:true;rend:underline;}">
+                <Coords points="177,1566 203,1565 230,1563 257,1562 284,1562 311,1562 338,1564 365,1564 365,1512 338,1512 311,1510 284,1510 257,1510 230,1511 203,1513 177,1514"/>
+                <Baseline points="177,1549 203,1548 230,1546 257,1545 284,1545 311,1545 338,1547 365,1547"/>
+                <TextEquiv>
+                    <Unicode>materia...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;} hi {offset:0; length:25; continued:true;rend:underline;}">
+                <Coords points="199,1640 232,1640 265,1640 298,1639 331,1638 364,1637 397,1637 430,1637 463,1636 496,1636 529,1636 562,1632 595,1632 628,1632 661,1631 694,1630 727,1630 760,1630 793,1632 826,1637 859,1638 859,1586 826,1585 793,1580 760,1578 727,1578 694,1578 661,1579 628,1580 595,1580 562,1580 529,1584 496,1584 463,1584 430,1585 397,1585 364,1585 331,1586 298,1587 265,1588 232,1588 199,1588"/>
+                <Baseline points="199,1623 232,1623 265,1623 298,1622 331,1621 364,1620 397,1620 430,1620 463,1619 496,1619 529,1619 562,1615 595,1615 628,1615 661,1614 694,1613 727,1613 760,1613 793,1615 826,1620 859,1621"/>
+                <TextEquiv>
+                    <Unicode>La corporale bellezza si </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;} hi {offset:0; length:87; continued:true;rend:underline;}">
+                <Coords points="183,1709 252,1709 322,1709 392,1711 462,1711 532,1712 602,1709 672,1707 742,1708 812,1707 882,1709 951,1708 1021,1707 1091,1705 1161,1704 1231,1705 1301,1705 1371,1703 1441,1701 1511,1704 1581,1711 1581,1662 1511,1655 1441,1652 1371,1654 1301,1656 1231,1656 1161,1655 1091,1656 1021,1658 951,1659 882,1660 812,1658 742,1659 672,1658 602,1660 532,1663 462,1662 392,1662 322,1660 252,1660 183,1660"/>
+                <Baseline points="183,1693 252,1693 322,1693 392,1695 462,1695 532,1696 602,1693 672,1691 742,1692 812,1691 882,1693 951,1692 1021,1691 1091,1689 1161,1688 1231,1689 1301,1689 1371,1687 1441,1685 1511,1688 1581,1695"/>
+                <TextEquiv>
+                    <Unicode>Lo spirito che anima una pena cosifatta, amaliazione di ritmo e di dimensione strofica,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;} hi {offset:0; length:93; continued:true;rend:underline;}">
+                <Coords points="183,1793 253,1789 323,1787 393,1786 463,1788 533,1785 603,1784 673,1783 743,1785 813,1785 883,1786 953,1785 1023,1784 1093,1783 1163,1785 1233,1783 1303,1783 1373,1785 1443,1782 1513,1780 1583,1777 1583,1728 1513,1731 1443,1733 1373,1736 1303,1734 1233,1734 1163,1736 1093,1734 1023,1735 953,1736 883,1737 813,1736 743,1736 673,1734 603,1735 533,1736 463,1739 393,1737 323,1738 253,1740 183,1744"/>
+                <Baseline points="183,1777 253,1773 323,1771 393,1770 463,1772 533,1769 603,1768 673,1767 743,1769 813,1769 883,1770 953,1769 1023,1768 1093,1767 1163,1769 1233,1767 1303,1767 1373,1769 1443,1766 1513,1764 1583,1761"/>
+                <TextEquiv>
+                    <Unicode>quasi scandita, più che nel pensiero, sulle parole e sul pensiero, ha qualche rapporto con il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;} hi {offset:0; length:84; continued:true;rend:underline;}">
+                <Coords points="173,1866 243,1864 314,1865 385,1861 456,1860 527,1860 598,1862 669,1861 740,1860 811,1864 882,1861 952,1858 1023,1858 1094,1856 1165,1856 1236,1858 1307,1858 1378,1854 1449,1855 1520,1855 1591,1862 1591,1811 1520,1804 1449,1804 1378,1803 1307,1807 1236,1807 1165,1805 1094,1805 1023,1807 952,1807 882,1810 811,1813 740,1809 669,1810 598,1811 527,1809 456,1809 385,1810 314,1814 243,1813 173,1815"/>
+                <Baseline points="173,1849 243,1847 314,1848 385,1844 456,1843 527,1843 598,1845 669,1844 740,1843 811,1847 882,1844 952,1841 1023,1841 1094,1839 1165,1839 1236,1841 1307,1841 1378,1837 1449,1838 1520,1838 1591,1845"/>
+                <TextEquiv>
+                    <Unicode>respiro d' "alla montagna" di talune pagine zaratustriane. Si sa di quale importanza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;} hi {offset:0; length:93; continued:true;rend:underline;}">
+                <Coords points="153,1944 225,1940 297,1941 369,1940 441,1939 514,1940 586,1940 658,1939 730,1940 802,1939 875,1938 947,1934 1019,1934 1091,1934 1163,1934 1236,1934 1308,1934 1380,1932 1452,1934 1524,1937 1597,1936 1597,1884 1524,1885 1452,1882 1380,1880 1308,1882 1236,1882 1163,1882 1091,1882 1019,1882 947,1882 875,1886 802,1887 730,1888 658,1887 586,1888 514,1888 441,1887 369,1888 297,1889 225,1888 153,1892"/>
+                <Baseline points="153,1927 225,1923 297,1924 369,1923 441,1922 514,1923 586,1923 658,1922 730,1923 802,1922 875,1921 947,1917 1019,1917 1091,1917 1163,1917 1236,1917 1308,1917 1380,1915 1452,1917 1524,1920 1597,1919"/>
+                <TextEquiv>
+                    <Unicode>risultò, per la poetica del futurismo, la Componente_Nietzche, nel senso di disporre la mente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;} hi {offset:0; length:90; continued:true;rend:underline;}">
+                <Coords points="157,2014 229,2016 302,2014 374,2014 447,2016 519,2014 592,2013 664,2012 737,2013 809,2012 882,2014 954,2016 1027,2016 1099,2016 1172,2014 1244,2012 1317,2012 1389,2010 1462,2011 1534,2010 1607,2016 1607,1964 1534,1958 1462,1959 1389,1958 1317,1960 1244,1960 1172,1962 1099,1964 1027,1964 954,1964 882,1962 809,1960 737,1961 664,1960 592,1961 519,1962 447,1964 374,1962 302,1962 229,1964 157,1962"/>
+                <Baseline points="157,1997 229,1999 302,1997 374,1997 447,1999 519,1997 592,1996 664,1995 737,1996 809,1995 882,1997 954,1999 1027,1999 1099,1999 1172,1997 1244,1995 1317,1995 1389,1993 1462,1994 1534,1993 1607,1999"/>
+                <TextEquiv>
+                    <Unicode>dei nuovi "rivoluzionari" ad un lecito rovesciamento, e sradicamento  dei valori morali: M</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La composizione si fa liquida e sonora come le musiche nel mattino d'estate&#13;
+I 4 tomi grigiopiomboblù Rosa Bianco Nero come grappolo d'uva matura&#13;
+mandano sul volto sferico della composizione riflessi variati d'infinita dol_&#13;
+cezza varietà infinita nella unità di 4 numeri&#13;
+E' la celeste teoria che insonora il muto vortice della realtà e ne modula&#13;
+il canto...&#13;
+La coscienza tornò limpida e sonora come le musiche nel mattino d'estate&#13;
+Le teribili logiche rivolte verso lo stellato lautamente migrano da uno spazio storico&#13;
+ormai soppresso&#13;
+sull'asse del metodo vidi le 5 parallele&#13;
+Inserirsi in una di esse significa palpitare sul cuore di tutte&#13;
+ancora vita&#13;
+altra vita&#13;
+fino all'incantesimo per una bellezza che dal quadrante frangibile della&#13;
+materia...&#13;
+La corporale bellezza si &#13;
+Lo spirito che anima una pena cosifatta, amaliazione di ritmo e di dimensione strofica,&#13;
+quasi scandita, più che nel pensiero, sulle parole e sul pensiero, ha qualche rapporto con il&#13;
+respiro d' "alla montagna" di talune pagine zaratustriane. Si sa di quale importanza&#13;
+risultò, per la poetica del futurismo, la Componente_Nietzche, nel senso di disporre la mente&#13;
+dei nuovi "rivoluzionari" ad un lecito rovesciamento, e sradicamento  dei valori morali: M</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

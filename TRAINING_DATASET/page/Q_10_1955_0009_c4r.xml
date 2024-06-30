@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:49:00.473+02:00</Created>
+        <LastChange>2024-06-20T10:47:33.366+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326066" pageNr="132" tsid="175603613" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=WKMBXPYPTWAFDLVKMUQPKAWL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FSAHHQNJKVPARNATIQQZBOZR" imageId="54317598"/>
+    </Metadata>
+    <Page imageFilename="Q_10_1955_0009_c4r.jpg" imageWidth="1798" imageHeight="2324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746083534" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="178,220 178,2058 1652,2058 1652,220"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} gap {offset:0; length:0;}">
+                <Coords points="212,276 237,276 262,276 288,276 313,276 339,276 364,274 390,276 390,222 364,220 339,222 313,222 288,222 262,222 237,222 212,222"/>
+                <Baseline points="212,258 237,258 262,258 288,258 313,258 339,258 364,256 390,258"/>
+                <TextEquiv>
+                    <Unicode>22 maggio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} hi {offset:0; length:39;rend:underline;}">
+                <Coords points="622,350 660,348 698,348 736,349 774,349 813,348 851,348 889,345 927,344 965,344 1004,342 1042,341 1080,340 1118,340 1156,338 1195,338 1233,336 1271,336 1309,337 1347,339 1386,338 1386,284 1347,285 1309,283 1271,282 1233,282 1195,284 1156,284 1118,286 1080,286 1042,287 1004,288 965,290 927,290 889,291 851,294 813,294 774,295 736,295 698,294 660,294 622,296"/>
+                <Baseline points="622,332 660,330 698,330 736,331 774,331 813,330 851,330 889,327 927,326 965,326 1004,324 1042,323 1080,322 1118,322 1156,320 1195,320 1233,318 1271,318 1309,319 1347,321 1386,320"/>
+                <TextEquiv>
+                    <Unicode>Le Rime di Dante e gli scultori Pisani.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} hi {offset:0; length:12;rend:underline;}">
+                <Coords points="200,506 268,502 337,500 405,500 474,497 543,496 611,496 680,497 748,498 817,496 886,496 954,497 1023,495 1091,492 1160,494 1229,494 1297,492 1366,494 1434,492 1503,493 1572,494 1572,440 1503,439 1434,438 1366,440 1297,438 1229,440 1160,440 1091,438 1023,441 954,443 886,442 817,442 748,444 680,443 611,442 543,442 474,443 405,446 337,446 268,448 200,452"/>
+                <Baseline points="200,488 268,484 337,482 405,482 474,479 543,478 611,478 680,479 748,480 817,478 886,478 954,479 1023,477 1091,474 1160,476 1229,476 1297,474 1366,476 1434,474 1503,475 1572,476"/>
+                <TextEquiv>
+                    <Unicode>La Vita Nova: tentativo di unificazione poetica / Contini), cioè di unificazione tra la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="184,582 255,580 326,580 398,579 469,576 541,577 612,575 683,574 755,573 826,570 898,570 969,570 1040,570 1112,571 1183,571 1255,572 1326,572 1397,570 1469,570 1540,570 1612,572 1612,518 1540,516 1469,516 1397,516 1326,518 1255,518 1183,517 1112,517 1040,516 969,516 898,516 826,516 755,519 683,520 612,521 541,523 469,522 398,525 326,526 255,526 184,528"/>
+                <Baseline points="184,564 255,562 326,562 398,561 469,558 541,559 612,557 683,556 755,555 826,552 898,552 969,552 1040,552 1112,553 1183,553 1255,554 1326,554 1397,552 1469,552 1540,552 1612,554"/>
+                <TextEquiv>
+                    <Unicode>materia autobiografica, la materia biografica della giovinezza, e quella proposta dalla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="196,660 267,659 339,658 411,656 482,654 554,654 626,653 697,650 769,651 841,650 913,652 984,649 1056,648 1128,647 1199,644 1271,644 1343,643 1414,642 1486,644 1558,645 1630,650 1630,596 1558,591 1486,590 1414,588 1343,589 1271,590 1199,590 1128,593 1056,594 984,595 913,598 841,596 769,597 697,596 626,599 554,600 482,600 411,602 339,604 267,605 196,606"/>
+                <Baseline points="196,642 267,641 339,640 411,638 482,636 554,636 626,635 697,632 769,633 841,632 913,634 984,631 1056,630 1128,629 1199,626 1271,626 1343,625 1414,624 1486,626 1558,627 1630,632"/>
+                <TextEquiv>
+                    <Unicode>fantasia e dal sentimento. Quindi, dentro uno schema narrativo, l'effluvio di cose im-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="196,739 267,733 338,729 409,728 480,725 552,725 623,724 694,725 765,721 836,721 908,722 979,720 1050,719 1121,719 1192,717 1264,715 1335,714 1406,715 1477,717 1548,720 1620,723 1620,677 1548,674 1477,671 1406,669 1335,668 1264,669 1192,671 1121,673 1050,673 979,674 908,676 836,675 765,675 694,679 623,678 552,679 480,679 409,682 338,683 267,687 196,693"/>
+                <Baseline points="196,724 267,718 338,714 409,713 480,710 552,710 623,709 694,710 765,706 836,706 908,707 979,705 1050,704 1121,704 1192,702 1264,700 1335,699 1406,700 1477,702 1548,705 1620,708"/>
+                <TextEquiv>
+                    <Unicode>palpabili di un mondo, di un'emisfero "poetico" e intellettuale, da lui solo raggiunto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="202,801 272,801 343,800 413,798 484,799 555,799 625,801 696,801 766,798 837,797 908,795 978,795 1049,797 1119,797 1190,794 1261,793 1331,795 1402,797 1472,793 1543,793 1614,793 1614,747 1543,747 1472,737 1402,741 1347,735 1277,733 1190,748 1119,751 1049,751 978,749 908,749 837,751 766,752 696,755 625,755 552,735 481,735 416,737 346,739 272,755 202,755"/>
+                <Baseline points="202,786 272,786 343,785 413,783 484,784 555,784 625,786 696,786 766,783 837,782 908,780 978,780 1049,782 1119,782 1190,779 1261,778 1331,780 1402,782 1472,778 1543,778 1614,778"/>
+                <TextEquiv>
+                    <Unicode>Anche la "Vita Nova" è dunque un poema d'amore, un romanzo, un "canto" nella tradi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="196,896 221,893 246,891 271,889 296,888 321,886 346,886 371,886 396,885 421,885 446,886 472,886 472,832 446,832 421,831 396,831 371,832 346,832 321,832 296,834 271,835 246,837 221,839 196,842"/>
+                <Baseline points="196,878 221,875 246,873 271,871 296,870 321,868 346,868 371,868 396,867 421,867 446,868 472,868"/>
+                <TextEquiv>
+                    <Unicode>zione provenzale.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="200,1032 269,1032 339,1032 408,1032 478,1030 547,1030 617,1029 686,1028 756,1028 825,1029 895,1024 964,1026 1034,1024 1103,1024 1173,1024 1242,1026 1312,1026 1381,1024 1451,1025 1520,1028 1590,1022 1590,968 1520,974 1451,971 1381,970 1312,972 1242,972 1173,970 1103,970 1034,970 964,972 895,970 825,975 756,974 686,974 617,975 547,976 478,976 408,978 339,978 269,978 200,978"/>
+                <Baseline points="200,1014 269,1014 339,1014 408,1014 478,1012 547,1012 617,1011 686,1010 756,1010 825,1011 895,1006 964,1008 1034,1006 1103,1006 1173,1006 1242,1008 1312,1008 1381,1006 1451,1007 1520,1010 1590,1004"/>
+                <TextEquiv>
+                    <Unicode>"Il Dolce stile è la scuola che contiene con maggior consapevolezza e buona grazia il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="192,1106 263,1111 335,1108 406,1108 478,1108 549,1108 621,1108 692,1108 764,1107 835,1106 907,1104 978,1103 1050,1102 1121,1101 1193,1101 1264,1100 1336,1099 1407,1100 1479,1098 1550,1099 1622,1102 1622,1048 1550,1045 1479,1044 1407,1046 1336,1045 1264,1046 1193,1047 1121,1047 1050,1048 978,1049 907,1050 835,1052 764,1053 692,1054 621,1054 549,1054 478,1054 406,1054 335,1054 263,1057 192,1052"/>
+                <Baseline points="192,1088 263,1093 335,1090 406,1090 478,1090 549,1090 621,1090 692,1090 764,1089 835,1088 907,1086 978,1085 1050,1084 1121,1083 1193,1083 1264,1082 1336,1081 1407,1082 1479,1080 1550,1081 1622,1084"/>
+                <TextEquiv>
+                    <Unicode>senso della collaborazione a un'opera di poesia oggettiva, e insomma la scuola che più</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="178,1186 249,1186 320,1185 391,1184 462,1182 533,1180 604,1178 675,1181 746,1183 817,1180 888,1181 959,1180 1030,1180 1101,1180 1172,1180 1243,1178 1314,1175 1385,1172 1456,1173 1527,1172 1598,1174 1598,1120 1527,1118 1456,1119 1385,1118 1314,1121 1243,1124 1172,1126 1101,1126 1030,1126 959,1126 888,1127 817,1126 746,1129 675,1127 604,1124 533,1126 462,1128 391,1130 320,1131 249,1132 178,1132"/>
+                <Baseline points="178,1168 249,1168 320,1167 391,1166 462,1164 533,1162 604,1160 675,1163 746,1165 817,1162 888,1163 959,1162 1030,1162 1101,1162 1172,1162 1243,1160 1314,1157 1385,1154 1456,1155 1527,1154 1598,1156"/>
+                <TextEquiv>
+                    <Unicode>ha il senso della scuola." Contini, pag.13" Ci sono in più, nel dolce stile, tutte le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="200,1256 270,1258 341,1256 412,1254 483,1254 554,1256 624,1254 695,1256 766,1253 837,1256 908,1255 978,1254 1049,1252 1120,1252 1191,1252 1262,1251 1332,1248 1403,1246 1474,1249 1545,1250 1616,1254 1616,1200 1545,1196 1474,1195 1403,1192 1332,1194 1262,1197 1191,1198 1120,1198 1049,1198 978,1200 908,1201 837,1202 766,1199 695,1202 624,1200 554,1202 483,1200 412,1200 341,1202 270,1204 200,1202"/>
+                <Baseline points="200,1238 270,1240 341,1238 412,1236 483,1236 554,1238 624,1236 695,1238 766,1235 837,1238 908,1237 978,1236 1049,1234 1120,1234 1191,1234 1262,1233 1332,1230 1403,1228 1474,1231 1545,1232 1616,1236"/>
+                <TextEquiv>
+                    <Unicode>premesse sentimentali d'una congruenza di lavoro, e in primo luogo l'ira d'una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="198,1334 270,1336 343,1335 416,1333 488,1333 561,1329 634,1332 706,1330 779,1330 852,1328 925,1327 997,1327 1070,1326 1143,1325 1215,1324 1288,1324 1361,1326 1433,1326 1506,1326 1579,1328 1652,1328 1652,1274 1579,1274 1506,1272 1433,1272 1361,1272 1288,1270 1215,1270 1143,1271 1070,1272 997,1273 925,1273 852,1274 779,1276 706,1276 634,1278 561,1275 488,1279 416,1279 343,1281 270,1282 198,1280"/>
+                <Baseline points="198,1316 270,1318 343,1317 416,1315 488,1315 561,1311 634,1314 706,1312 779,1312 852,1310 925,1309 997,1309 1070,1308 1143,1307 1215,1306 1288,1306 1361,1308 1433,1308 1506,1308 1579,1310 1652,1310"/>
+                <TextEquiv>
+                    <Unicode>amicizia che ricorda, in questi signori decaduti e borghesi dell'alta cultura, la pari-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;} gap {offset:34; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="182,1412 220,1414 259,1414 298,1412 336,1412 375,1409 414,1408 452,1406 491,1406 530,1405 569,1402 607,1402 646,1402 685,1402 723,1402 762,1403 801,1407 839,1408 878,1407 917,1411 956,1412 956,1358 917,1357 878,1353 839,1354 801,1353 762,1349 723,1348 685,1348 646,1348 607,1348 569,1348 530,1351 491,1352 452,1352 414,1354 375,1355 336,1358 298,1358 259,1360 220,1360 182,1358"/>
+                <Baseline points="182,1394 220,1396 259,1396 298,1394 336,1394 375,1391 414,1390 452,1388 491,1388 530,1387 569,1384 607,1384 646,1384 685,1384 723,1384 762,1385 801,1389 839,1390 878,1389 917,1393 956,1394"/>
+                <TextEquiv>
+                    <Unicode>tà e la solidarietà dei cavalieri         .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="214,1488 240,1486 267,1486 293,1485 320,1484 346,1484 373,1484 399,1485 426,1486 452,1484 479,1484 505,1483 532,1481 558,1479 585,1479 612,1478 612,1424 585,1425 558,1425 532,1427 505,1429 479,1430 452,1430 426,1432 399,1431 373,1430 346,1430 320,1430 293,1431 267,1432 240,1432 214,1434"/>
+                <Baseline points="214,1470 240,1468 267,1468 293,1467 320,1466 346,1466 373,1466 399,1467 426,1468 452,1466 479,1466 505,1465 532,1463 558,1461 585,1461 612,1460"/>
+                <TextEquiv>
+                    <Unicode>Tre amici di Dante:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715537540385_863" custom="readingOrder {index:15;}">
+                <Coords points="209,1511 1624,1496 1624,1546 209,1561"/>
+                <Baseline points="209,1556 1624,1541"/>
+                <TextEquiv>
+                    <Unicode>Guido Guinizzelli, "un curiale guittoniano" che "giungeva a includere l'aned-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715537543337_868" custom="readingOrder {index:16;} hi {offset:19; length:34;rend:underline;}">
+                <Coords points="201,1582 1222,1580 1222,1630 201,1632"/>
+                <Baseline points="201,1627 1222,1625"/>
+                <TextEquiv>
+                    <Unicode>dotica borghese di chi vedesse a Lucia un var capuzzo".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;} hi {offset:0; length:16;rend:underline;}">
+                <Coords points="212,1789 280,1786 349,1787 418,1785 487,1784 556,1784 624,1785 693,1785 762,1783 831,1783 900,1781 968,1778 1037,1777 1106,1775 1175,1777 1244,1776 1312,1775 1381,1773 1450,1775 1519,1776 1588,1777 1588,1726 1519,1725 1450,1724 1381,1722 1312,1724 1244,1725 1175,1726 1106,1724 1037,1726 968,1727 900,1730 831,1732 762,1732 693,1734 624,1734 556,1733 487,1733 418,1734 349,1736 280,1735 212,1738"/>
+                <Baseline points="212,1772 280,1769 349,1770 418,1768 487,1767 556,1767 624,1768 693,1768 762,1766 831,1766 900,1764 968,1761 1037,1760 1106,1758 1175,1760 1244,1759 1312,1758 1381,1756 1450,1758 1519,1759 1588,1760"/>
+                <TextEquiv>
+                    <Unicode>Guido Cavalcanti,intruso in tutti i generi della lirica stilnovistica ma che non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;} hi {offset:69; length:4;rend:underline;}">
+                <Coords points="214,1857 284,1856 354,1857 424,1859 494,1859 565,1861 635,1861 705,1859 775,1859 845,1859 916,1859 986,1861 1056,1860 1126,1859 1196,1857 1267,1858 1337,1858 1407,1857 1477,1853 1547,1850 1648,1845 1648,1794 1547,1799 1477,1802 1407,1806 1337,1807 1267,1807 1196,1806 1126,1808 1056,1809 986,1810 916,1808 845,1808 775,1808 705,1808 635,1810 565,1810 494,1808 424,1808 354,1806 284,1805 214,1806"/>
+                <Baseline points="214,1840 284,1839 354,1840 424,1842 494,1842 565,1844 635,1844 705,1842 775,1842 845,1842 916,1842 986,1844 1056,1843 1126,1842 1196,1840 1267,1841 1337,1841 1407,1840 1477,1836 1547,1833 1647,1829"/>
+                <TextEquiv>
+                    <Unicode>"comprometteva mai la sua malinconia splentica di gentiluomo  un po' snob"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;} hi {offset:0; length:15;rend:underline;}">
+                <Coords points="228,1978 298,1975 368,1970 438,1968 508,1970 579,1972 649,1972 719,1970 789,1966 859,1966 930,1966 1000,1966 1070,1965 1140,1964 1210,1964 1281,1960 1351,1959 1421,1956 1491,1954 1561,1954 1632,1956 1632,1926 1561,1924 1491,1924 1421,1926 1351,1929 1281,1930 1210,1934 1140,1934 1070,1935 1000,1936 930,1936 859,1936 789,1936 719,1940 649,1942 579,1942 508,1940 438,1938 368,1940 298,1945 228,1948"/>
+                <Baseline points="228,1968 298,1965 368,1960 438,1958 508,1960 579,1962 649,1962 719,1960 789,1956 859,1956 930,1956 1000,1956 1070,1955 1140,1954 1210,1954 1281,1950 1351,1949 1421,1946 1491,1944 1561,1944 1632,1946"/>
+                <TextEquiv>
+                    <Unicode>Cino da Pistoia: "l'unità tonale di questo precursore di Petrarca è un tantino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="218,2020 288,2020 359,2018 430,2018 501,2012 572,2011 642,2010 713,2008 784,2007 855,2008 926,2008 996,2008 1067,2008 1138,2007 1209,2006 1280,2004 1350,2003 1421,2000 1492,1998 1563,2000 1634,2002 1634,1972 1563,1970 1492,1968 1421,1970 1350,1973 1280,1974 1209,1976 1138,1977 1067,1978 996,1978 926,1978 855,1978 784,1977 713,1978 642,1980 572,1981 501,1982 430,1988 359,1988 288,1990 218,1990"/>
+                <Baseline points="218,2010 288,2010 359,2008 430,2008 501,2002 572,2001 642,2000 713,1998 784,1997 855,1998 926,1998 996,1998 1067,1998 1138,1997 1209,1996 1280,1994 1350,1993 1421,1990 1492,1988 1563,1990 1634,1992"/>
+                <TextEquiv>
+                    <Unicode>involontaria, o diciamo psicologistica; ecc.ecc." si ricondnduce ai modi carica-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715537550304_873" custom="readingOrder {index:21;}">
+                <Coords points="227,2012 1214,2006 1214,2056 227,2062"/>
+                <Baseline points="227,2057 1214,2051"/>
+                <TextEquiv>
+                    <Unicode>rali d'un Cecco Angiolieri e del Trecento giullaresco"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>22 maggio&#13;
+Le Rime di Dante e gli scultori Pisani.&#13;
+La Vita Nova: tentativo di unificazione poetica / Contini), cioè di unificazione tra la&#13;
+materia autobiografica, la materia biografica della giovinezza, e quella proposta dalla&#13;
+fantasia e dal sentimento. Quindi, dentro uno schema narrativo, l'effluvio di cose im-&#13;
+palpabili di un mondo, di un'emisfero "poetico" e intellettuale, da lui solo raggiunto.&#13;
+Anche la "Vita Nova" è dunque un poema d'amore, un romanzo, un "canto" nella tradi-&#13;
+zione provenzale.&#13;
+"Il Dolce stile è la scuola che contiene con maggior consapevolezza e buona grazia il&#13;
+senso della collaborazione a un'opera di poesia oggettiva, e insomma la scuola che più&#13;
+ha il senso della scuola." Contini, pag.13" Ci sono in più, nel dolce stile, tutte le&#13;
+premesse sentimentali d'una congruenza di lavoro, e in primo luogo l'ira d'una&#13;
+amicizia che ricorda, in questi signori decaduti e borghesi dell'alta cultura, la pari-&#13;
+tà e la solidarietà dei cavalieri         .&#13;
+Tre amici di Dante:&#13;
+Guido Guinizzelli, "un curiale guittoniano" che "giungeva a includere l'aned-&#13;
+dotica borghese di chi vedesse a Lucia un var capuzzo".&#13;
+Guido Cavalcanti,intruso in tutti i generi della lirica stilnovistica ma che non&#13;
+"comprometteva mai la sua malinconia splentica di gentiluomo  un po' snob"&#13;
+Cino da Pistoia: "l'unità tonale di questo precursore di Petrarca è un tantino&#13;
+involontaria, o diciamo psicologistica; ecc.ecc." si ricondnduce ai modi carica-&#13;
+rali d'un Cecco Angiolieri e del Trecento giullaresco"</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

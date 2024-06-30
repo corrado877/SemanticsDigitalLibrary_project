@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:22:28.560+01:00</Created>
+        <LastChange>2024-06-20T10:59:26.893+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325977" pageNr="17" tsid="175603496" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=BCULACYGUVROIGJTYLTVMYHO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FDPOUNBXSUQRONHIYBQEVDYJ" imageId="53899344"/>
+    </Metadata>
+    <Page imageFilename="Q_1958_06_0011_c5r.jpg" imageWidth="1798" imageHeight="2539" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746060434" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1716121372579_93"/>
+                <RegionRefIndexed index="2" regionRef="region_1716121387443_96"/>
+                <RegionRefIndexed index="3" regionRef="region_1716121412858_101"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="125,272 140,2223 1589,2223 1574,272"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1716121372579_93" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="206,378 142,378 142,297 206,297"/>
+            <TextLine id="line_1716121462003_115" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:left;}">
+                <Coords points="150,320 200,320 200,370 150,370"/>
+                <Baseline points="150,365 200,365"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1716121387443_96" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="138,449 1575,449 1575,1534 138,1534"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="137,552 206,550 276,550 346,550 416,550 486,550 555,550 625,550 695,548 765,546 835,548 904,546 974,544 1044,544 1114,542 1184,542 1253,543 1323,542 1393,542 1463,542 1533,536 1533,484 1463,490 1393,490 1323,490 1253,491 1184,490 1114,490 1044,492 974,492 904,494 835,496 765,494 695,496 625,498 555,498 486,498 416,498 346,498 276,498 206,498 137,500"/>
+                <Baseline points="137,535 206,533 276,533 346,533 416,533 486,533 555,533 625,533 695,531 765,529 835,531 904,529 974,527 1044,527 1114,525 1184,525 1253,526 1323,525 1393,525 1463,525 1533,519"/>
+                <TextEquiv>
+                    <Unicode>no, in cui una generazione, appena giunta alla maggiore età, stava perdendo ogni rapporto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="137,625 206,626 275,623 344,623 413,621 482,622 551,624 620,623 689,622 758,621 828,621 897,621 966,620 1035,619 1104,619 1173,618 1242,619 1311,617 1380,619 1449,620 1519,623 1519,574 1449,571 1380,570 1311,568 1242,570 1173,569 1104,570 1035,570 966,571 897,572 828,572 758,572 689,573 620,574 551,575 482,573 413,572 344,574 275,574 206,577 137,576"/>
+                <Baseline points="137,609 206,610 275,607 344,607 413,605 482,606 551,608 620,607 689,606 758,605 828,605 897,605 966,604 1035,603 1104,603 1173,602 1242,603 1311,601 1380,603 1449,604 1519,607"/>
+                <TextEquiv>
+                    <Unicode>con la realtà. Ogni generazione, che ha la disgrazia, di venir fuori dopo un cataclisma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="147,697 215,698 284,700 353,697 422,698 491,697 559,697 628,695 697,693 766,693 835,693 903,692 972,693 1041,691 1110,691 1179,691 1247,691 1316,689 1385,690 1454,690 1523,689 1523,640 1454,641 1385,641 1316,640 1247,642 1179,642 1110,642 1041,642 972,644 903,643 835,644 766,644 697,644 628,646 559,648 491,648 422,649 353,648 284,651 215,649 147,648"/>
+                <Baseline points="147,681 215,682 284,684 353,681 422,682 491,681 559,681 628,679 697,677 766,677 835,677 903,676 972,677 1041,675 1110,675 1179,675 1247,675 1316,673 1385,674 1454,674 1523,673"/>
+                <TextEquiv>
+                    <Unicode>come è la guerra, avrà la sua parte in una storia che nemmeno servirà mai. La società</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="133,772 203,774 273,772 343,772 413,771 483,770 553,771 623,772 693,772 763,771 833,770 903,770 973,769 1043,768 1113,768 1183,768 1253,767 1323,768 1393,768 1463,767 1533,770 1533,718 1463,715 1393,716 1323,716 1253,715 1183,716 1113,716 1043,716 973,717 903,718 833,718 763,719 693,720 623,720 553,719 483,718 413,719 343,720 273,720 203,722 133,720"/>
+                <Baseline points="133,755 203,757 273,755 343,755 413,754 483,753 553,754 623,755 693,755 763,754 833,753 903,753 973,752 1043,751 1113,751 1183,751 1253,750 1323,751 1393,751 1463,750 1533,753"/>
+                <TextEquiv>
+                    <Unicode>non si perde a illuminare gli anni del proprio movimento. A parte il tentativo di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="135,857 206,853 278,853 350,851 421,850 493,849 565,851 636,849 708,849 780,848 852,847 923,847 995,845 1067,845 1138,843 1210,843 1282,845 1353,845 1425,847 1497,849 1569,849 1569,795 1497,795 1425,793 1353,791 1282,791 1210,789 1138,789 1067,791 995,791 923,793 852,793 780,794 708,795 636,795 565,797 493,795 421,796 350,797 278,799 206,799 135,803"/>
+                <Baseline points="135,839 206,835 278,835 350,833 421,832 493,831 565,833 636,831 708,831 780,830 852,829 923,829 995,827 1067,827 1138,825 1210,825 1282,827 1353,827 1425,829 1497,831 1569,831"/>
+                <TextEquiv>
+                    <Unicode>piantarci nel senso si una "poetica" dell'umano, che era la comune nostra aspirazione, era</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="133,933 203,928 273,926 343,925 413,925 484,925 554,925 624,927 694,927 764,925 835,923 905,921 975,919 1045,919 1115,919 1186,919 1256,918 1326,919 1396,919 1466,919 1537,921 1537,867 1466,865 1396,865 1326,865 1256,864 1186,865 1115,865 1045,865 975,865 905,867 835,869 764,871 694,873 624,873 554,871 484,871 413,871 343,871 273,872 203,874 133,879"/>
+                <Baseline points="133,915 203,910 273,908 343,907 413,907 484,907 554,907 624,909 694,909 764,907 835,905 905,903 975,901 1045,901 1115,901 1186,901 1256,900 1326,901 1396,901 1466,901 1537,903"/>
+                <TextEquiv>
+                    <Unicode>faticoso riprendere, o meglio: prendere per la prima volta il nostro posto nella società. Unica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="141,1007 212,1003 284,999 355,1000 427,999 498,999 570,1000 641,999 713,998 784,999 856,997 927,996 999,995 1070,995 1142,994 1213,995 1285,994 1356,993 1428,995 1499,996 1571,999 1571,944 1499,941 1428,940 1356,938 1285,939 1213,940 1142,939 1070,940 999,940 927,941 856,942 784,944 713,943 641,944 570,945 498,944 427,944 355,945 284,944 212,948 141,952"/>
+                <Baseline points="141,989 212,985 284,981 355,982 427,981 498,981 570,982 641,981 713,980 784,981 856,979 927,978 999,977 1070,977 1142,976 1213,977 1285,976 1356,975 1428,977 1499,978 1571,981"/>
+                <TextEquiv>
+                    <Unicode>cosa vera: avevamo già appreso a vivere vicino agli altri uomini. Questo sentimento, sottin-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:7;}">
+                <Coords points="133,1085 204,1083 275,1083 347,1078 418,1079 490,1077 561,1075 632,1077 704,1075 775,1075 847,1075 918,1073 989,1073 1061,1074 1132,1071 1204,1071 1275,1069 1346,1069 1418,1069 1489,1070 1561,1073 1561,1019 1489,1016 1418,1015 1346,1015 1275,1015 1204,1017 1132,1017 1061,1020 989,1019 918,1019 847,1021 775,1021 704,1021 632,1023 561,1021 490,1023 418,1025 347,1024 275,1029 204,1029 133,1031"/>
+                <Baseline points="133,1067 204,1065 275,1065 347,1060 418,1061 490,1059 561,1057 632,1059 704,1057 775,1057 847,1057 918,1055 989,1055 1061,1056 1132,1053 1204,1053 1275,1051 1346,1051 1418,1051 1489,1052 1561,1055"/>
+                <TextEquiv>
+                    <Unicode>tendeva la partecipazione ad una ideologia discretamente sovvertitrice nell'ordine della cul-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:8;}">
+                <Coords points="137,1157 205,1156 274,1157 343,1155 411,1155 480,1154 549,1151 617,1151 686,1150 755,1147 824,1147 892,1147 961,1147 1030,1147 1098,1147 1167,1147 1236,1147 1304,1149 1373,1147 1442,1147 1511,1151 1511,1097 1442,1093 1373,1093 1304,1095 1236,1093 1167,1093 1098,1093 1030,1093 961,1093 892,1093 824,1093 755,1093 686,1096 617,1097 549,1097 480,1100 411,1101 343,1101 274,1103 205,1102 137,1103"/>
+                <Baseline points="137,1139 205,1138 274,1139 343,1137 411,1137 480,1136 549,1133 617,1133 686,1132 755,1129 824,1129 892,1129 961,1129 1030,1129 1098,1129 1167,1129 1236,1129 1304,1131 1373,1129 1442,1129 1511,1133"/>
+                <TextEquiv>
+                    <Unicode>tura. Per questa ragione: per questa vocazione naturale ci eravamo già fatto un vangelo di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716121289194_59" custom="readingOrder {index:9;} person {offset:0; length:7;firstname:Arthur; dateOfDeath:10\u0020November\u00201891; dateOfBirth:20\u0020October\u00201854; lastname:Rimbaud;}">
+                <Coords points="139,1179 169,1181 243,1180 317,1176 392,1174 540,1174 614,1172 688,1172 763,1174 911,1174 985,1172 1059,1170 1134,1172 1208,1172 1282,1170 1356,1172 1430,1172 1505,1174 1505,1226 1430,1224 1356,1224 1282,1222 1208,1224 1134,1224 1059,1222 985,1224 911,1226 763,1226 688,1224 614,1224 540,1226 392,1226 317,1228 243,1232 169,1233 139,1231"/>
+                <Baseline points="139,1214 169,1216 243,1215 317,1211 392,1209 466,1209 540,1209 614,1207 688,1207 763,1209 837,1209 911,1209 985,1207 1059,1205 1134,1207 1208,1207 1282,1205 1356,1207 1430,1207 1505,1209"/>
+                <TextEquiv>
+                    <Unicode>Rimbaud, che compilavamo a fatica. Non erano le parole, le immagini, i suoni nella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:10;} person {offset:9; length:7;firstname:Arthur\u0020; dateOfDeath:10\u0020November\u00201891; dateOfBirth:20\u0020October\u00201854; lastname:Rimbaud;}">
+                <Coords points="137,1313 206,1308 276,1305 346,1304 415,1303 485,1303 555,1302 624,1301 694,1299 764,1298 834,1297 903,1297 973,1297 1043,1298 1112,1297 1182,1297 1252,1297 1321,1299 1391,1301 1461,1301 1531,1303 1531,1254 1461,1252 1391,1252 1321,1250 1252,1248 1182,1248 1112,1248 1043,1249 973,1248 903,1248 834,1248 764,1249 694,1250 624,1252 555,1253 485,1254 415,1254 346,1255 276,1256 206,1259 137,1264"/>
+                <Baseline points="137,1297 206,1292 276,1289 346,1288 415,1287 485,1287 555,1286 624,1285 694,1283 764,1282 834,1281 903,1281 973,1281 1043,1282 1112,1281 1182,1281 1252,1281 1321,1283 1391,1285 1461,1285 1531,1287"/>
+                <TextEquiv>
+                    <Unicode>prosa di Rimbaud: era un nascosto, scontroso insegnante che cercavamo, un'indicazione,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:11;} del {offset:3; length:3;rend:overstrike;} gap {offset:3; length:0;quantity:3; unit:character; reason:illegible;}">
+                <Coords points="151,1379 220,1380 289,1379 358,1377 427,1375 496,1375 565,1377 634,1375 703,1375 772,1374 841,1373 910,1373 979,1371 1048,1371 1117,1370 1186,1372 1255,1371 1324,1369 1393,1371 1462,1371 1531,1371 1531,1322 1462,1322 1393,1322 1324,1320 1255,1322 1186,1323 1117,1321 1048,1322 979,1322 910,1324 841,1324 772,1325 703,1326 634,1326 565,1328 496,1326 427,1326 358,1328 289,1330 220,1331 151,1330"/>
+                <Baseline points="151,1363 220,1364 289,1363 358,1361 427,1359 496,1359 565,1361 634,1359 703,1359 772,1358 841,1357 910,1357 979,1355 1048,1355 1117,1354 1186,1356 1255,1355 1324,1353 1393,1355 1462,1355 1531,1355"/>
+                <TextEquiv>
+                    <Unicode>un     cenno che ci aiutasse a incominciare la vita. Non c'era ragione di chiedere altra cosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:12;}">
+                <Coords points="133,1460 204,1458 276,1458 348,1458 420,1457 492,1456 564,1454 636,1456 708,1454 780,1454 852,1454 923,1454 995,1454 1067,1454 1139,1454 1211,1454 1283,1452 1355,1452 1427,1450 1499,1450 1571,1452 1571,1400 1499,1398 1427,1398 1355,1400 1283,1400 1211,1402 1139,1402 1067,1402 995,1402 923,1402 852,1402 780,1402 708,1402 636,1404 564,1402 492,1404 420,1405 348,1406 276,1406 204,1406 133,1408"/>
+                <Baseline points="133,1443 204,1441 276,1441 348,1441 420,1440 492,1439 564,1437 636,1439 708,1437 780,1437 852,1437 923,1437 995,1437 1067,1437 1139,1437 1211,1437 1283,1435 1355,1435 1427,1433 1499,1433 1571,1435"/>
+                <TextEquiv>
+                    <Unicode>alla "poesia", a quella vasta realtà che noi chiamiamo la poesia, e che non aveva altro sa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:13;}">
+                <Coords points="147,1540 183,1537 220,1536 257,1536 294,1533 331,1532 368,1532 405,1532 442,1530 479,1530 516,1529 552,1528 589,1528 626,1527 663,1526 700,1526 737,1526 774,1526 811,1526 848,1528 885,1528 885,1476 848,1476 811,1474 774,1474 737,1474 700,1474 663,1474 626,1475 589,1476 552,1476 516,1477 479,1478 442,1478 405,1480 368,1480 331,1480 294,1481 257,1484 220,1484 183,1485 147,1488"/>
+                <Baseline points="147,1523 183,1520 220,1519 257,1519 294,1516 331,1515 368,1515 405,1515 442,1513 479,1513 516,1512 552,1511 589,1511 626,1510 663,1509 700,1509 737,1509 774,1509 811,1509 848,1511 885,1511"/>
+                <TextEquiv>
+                    <Unicode>pore da quello che avevamo conosciuto alla vita.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>no, in cui una generazione, appena giunta alla maggiore età, stava perdendo ogni rapporto&#13;
+con la realtà. Ogni generazione, che ha la disgrazia, di venir fuori dopo un cataclisma&#13;
+come è la guerra, avrà la sua parte in una storia che nemmeno servirà mai. La società&#13;
+non si perde a illuminare gli anni del proprio movimento. A parte il tentativo di&#13;
+piantarci nel senso si una "poetica" dell'umano, che era la comune nostra aspirazione, era&#13;
+faticoso riprendere, o meglio: prendere per la prima volta il nostro posto nella società. Unica&#13;
+cosa vera: avevamo già appreso a vivere vicino agli altri uomini. Questo sentimento, sottin-&#13;
+tendeva la partecipazione ad una ideologia discretamente sovvertitrice nell'ordine della cul-&#13;
+tura. Per questa ragione: per questa vocazione naturale ci eravamo già fatto un vangelo di&#13;
+Rimbaud, che compilavamo a fatica. Non erano le parole, le immagini, i suoni nella&#13;
+prosa di Rimbaud: era un nascosto, scontroso insegnante che cercavamo, un'indicazione,&#13;
+un     cenno che ci aiutasse a incominciare la vita. Non c'era ragione di chiedere altra cosa&#13;
+alla "poesia", a quella vasta realtà che noi chiamiamo la poesia, e che non aveva altro sa-&#13;
+pore da quello che avevamo conosciuto alla vita.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1716121412858_101" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="140,1541 1574,1541 1574,2082 140,2082"/>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:0;} person {offset:67; length:11;firstname:Isidore\u0020Lucien; dateOfDeath:24\u0020November\u00201870; dateOfBirth:4\u0020April\u00201846; lastname:Ducasse;} person {offset:80; length:6; continued:true;firstname:Frédéric-Louis; dateOfDeath:21\u0020gennaio\u00201961; dateOfBirth:1\u0020settembre\u00201887; lastname:Sauser;}">
+                <Coords points="162,1613 260,1612 333,1610 406,1609 479,1606 551,1603 624,1605 697,1605 770,1606 843,1605 915,1605 988,1604 1061,1603 1134,1603 1207,1603 1279,1602 1352,1601 1425,1603 1498,1604 1571,1605 1571,1551 1498,1550 1425,1549 1352,1547 1279,1548 1207,1549 1134,1549 1061,1549 988,1550 915,1551 843,1551 770,1552 697,1551 624,1551 551,1549 479,1552 406,1555 333,1556 260,1558 162,1559"/>
+                <Baseline points="161,1601 260,1594 333,1592 406,1591 479,1588 551,1585 624,1587 697,1587 770,1588 843,1587 915,1587 988,1586 1061,1585 1134,1585 1207,1585 1279,1584 1352,1583 1425,1585 1498,1586 1571,1587"/>
+                <TextEquiv>
+                    <Unicode>Con animo così disposto, attendevamo di mettere le mani sul nostro Lautréamont. Blaise</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716122296164_205" custom="readingOrder {index:1;} person {offset:0; length:8; continued:true;firstname:Frédéric-Louis; dateOfDeath:21\u0020gennaio\u00201961; dateOfBirth:1\u0020settembre\u00201887; lastname:Sauser;}">
+                <Coords points="145,1632 216,1632 287,1633 358,1633 429,1632 500,1630 571,1628 642,1628 713,1630 856,1630 927,1631 998,1630 1069,1631 1140,1630 1189,1640 1259,1640 1259,1680 1211,1682 1140,1682 1069,1683 998,1682 927,1683 856,1682 713,1682 642,1680 571,1680 500,1682 429,1684 358,1685 287,1685 216,1684 145,1684"/>
+                <Baseline points="145,1667 216,1667 287,1668 358,1668 429,1667 500,1665 571,1663 642,1663 713,1665 784,1665 856,1665 927,1666 998,1665 1069,1666 1140,1665 1211,1665 1259,1663"/>
+                <TextEquiv>
+                    <Unicode>Cendrars ci acconciò l'attesa: egli stesso ne provocò, e curò la ristampa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:2;} add {offset:0; length:6;place:above;} date {offset:0; length:6;year:1920; day:0; month:0;}">
+                <Coords points="1183,1637 1229,1637 1268,1634 1298,1634 1298,1598 1265,1597 1236,1602 1191,1600"/>
+                <Baseline points="1197,1627 1229,1625 1261,1625 1293,1623"/>
+                <TextEquiv>
+                    <Unicode>(1920)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716122296164_204" custom="readingOrder {index:3;}">
+                <Coords points="1259,1640 1284,1641 1353,1626 1567,1626 1567,1678 1353,1678 1282,1680 1259,1680"/>
+                <Baseline points="1259,1663 1282,1663 1353,1661 1424,1661 1495,1661 1567,1661"/>
+                <TextEquiv>
+                    <Unicode>presso le edizioni del-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:4;} foreign {offset:3; length:8;lang:french;} person {offset:65; length:16;firstname:Rémy; dateOfDeath:27\u0020September\u00201915; dateOfBirth:4\u0020April\u00201858; lastname:de\u0020Gourmont;}">
+                <Coords points="135,1762 206,1762 278,1762 350,1757 422,1756 494,1756 565,1756 637,1756 709,1757 781,1757 853,1756 924,1755 996,1754 1068,1756 1140,1754 1212,1754 1283,1753 1355,1754 1427,1756 1499,1753 1571,1754 1571,1702 1499,1701 1427,1704 1355,1702 1283,1701 1212,1702 1140,1702 1068,1704 996,1702 924,1703 853,1704 781,1705 709,1705 637,1704 565,1704 494,1704 422,1704 350,1705 278,1710 206,1710 135,1710"/>
+                <Baseline points="135,1745 206,1745 278,1745 350,1740 422,1739 494,1739 565,1739 637,1739 709,1740 781,1740 853,1739 924,1738 996,1737 1068,1739 1140,1737 1212,1737 1283,1736 1355,1737 1427,1739 1499,1736 1571,1737"/>
+                <TextEquiv>
+                    <Unicode>la "Sirène". Come in traduzione, veniva utilizzato lo scritto di Rémy de Gourmont. L'accento</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:5;} foreign {offset:46; length:8;lang:french;} unclear {offset:55; length:7;reason:illegible;} gap {offset:55; length:0;quantity:7; unit:character; reason:illegible;} foreign {offset:66; length:20;lang:french;}">
+                <Coords points="143,1840 213,1838 284,1836 355,1836 426,1836 497,1835 567,1836 638,1836 709,1835 780,1832 851,1834 921,1833 992,1832 1063,1830 1134,1830 1205,1830 1275,1828 1346,1828 1417,1829 1488,1830 1559,1834 1559,1782 1488,1778 1417,1777 1346,1776 1275,1776 1205,1778 1134,1778 1063,1778 992,1780 921,1781 851,1782 780,1780 709,1783 638,1784 567,1784 497,1783 426,1784 355,1784 284,1784 213,1786 143,1788"/>
+                <Baseline points="143,1823 213,1821 284,1819 355,1819 426,1819 497,1818 567,1819 638,1819 709,1818 780,1815 851,1817 921,1816 992,1815 1063,1813 1134,1813 1205,1813 1275,1811 1346,1811 1417,1812 1488,1813 1559,1817"/>
+                <TextEquiv>
+                    <Unicode>vi era messo sul visionario, sul patologico: "un génie         et même franchemente un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:6;} foreign {offset:0; length:9;lang:french;} person {offset:80; length:8;firstname:Rémy; dateOfDeath:27\u0020September\u00201915; dateOfBirth:4\u0020April\u00201858; lastname:de\u0020Gourmont;}">
+                <Coords points="149,1903 220,1903 291,1904 362,1903 433,1903 504,1904 575,1904 646,1903 717,1906 788,1903 859,1901 930,1899 1001,1899 1072,1897 1143,1897 1214,1897 1285,1896 1356,1895 1427,1895 1498,1896 1569,1897 1569,1867 1498,1866 1427,1865 1356,1865 1285,1866 1214,1867 1143,1867 1072,1867 1001,1869 930,1869 859,1871 788,1873 717,1876 646,1873 575,1874 504,1874 433,1873 362,1873 291,1874 220,1873 149,1873"/>
+                <Baseline points="149,1893 220,1893 291,1894 362,1893 433,1893 504,1894 575,1894 646,1893 717,1896 788,1893 859,1891 930,1889 1001,1889 1072,1887 1143,1887 1214,1887 1285,1886 1356,1885 1427,1885 1498,1886 1569,1887"/>
+                <TextEquiv>
+                    <Unicode>génie fou". Se la chiave, oggi, può parere un poco arrugginita, tuttavia quando Gourmont</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716123272054_244" custom="readingOrder {index:7;} date {offset:10; length:4;year:1986; day:0; month:0;} del {offset:46; length:4;rend:overstrike;} gap {offset:46; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="147,1949 217,1950 287,1951 357,1951 427,1949 498,1947 638,1947 708,1945 778,1945 849,1947 919,1951 989,1950 1059,1951 1064,1950 1064,1980 1059,1981 989,1980 919,1981 849,1977 778,1975 708,1975 638,1977 498,1977 427,1979 357,1981 287,1981 217,1980 147,1979"/>
+                <Baseline points="147,1969 217,1970 287,1971 357,1971 427,1969 498,1967 568,1967 638,1967 708,1965 778,1965 849,1967 919,1971 989,1970 1059,1971 1064,1970"/>
+                <TextEquiv>
+                    <Unicode>la usava (1896) si applicava ancora ad aprire     </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:8;} add {offset:0; length:5;place:above;}">
+                <Coords points="971,1939 1001,1941 1031,1941 1061,1941 1061,1911 1031,1911 1001,1911 971,1909"/>
+                <Baseline points="971,1929 1001,1931 1031,1931 1061,1931"/>
+                <TextEquiv>
+                    <Unicode>casse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716123272053_243" custom="readingOrder {index:9;}">
+                <Coords points="1064,1950 1129,1947 1200,1946 1270,1944 1340,1941 1410,1941 1480,1940 1551,1947 1551,1977 1480,1970 1410,1971 1340,1971 1270,1974 1200,1976 1129,1977 1064,1980"/>
+                <Baseline points="1064,1970 1129,1967 1200,1966 1270,1964 1340,1961 1410,1961 1480,1960 1551,1967"/>
+                <TextEquiv>
+                    <Unicode>di poesia maledetta. Tuttavia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716121352007_87" custom="readingOrder {index:10;} person {offset:73; length:11;firstname:Isidore\u0020Lucien; dateOfDeath:24\u0020November\u00201870; dateOfBirth:4\u0020April\u00201846; lastname:Ducasse;}">
+                <Coords points="149,2011 155,2011 233,2010 312,2010 390,2008 468,2009 547,2008 625,2006 782,2006 860,2004 938,2003 1016,2002 1095,2002 1173,2000 1251,2000 1330,2002 1408,2004 1486,2007 1565,2016 1565,2074 1486,2065 1408,2062 1330,2060 1251,2058 1173,2058 1095,2060 1016,2060 938,2061 860,2062 782,2064 625,2064 547,2066 468,2067 390,2066 312,2068 233,2068 155,2069 149,2069"/>
+                <Baseline points="149,2050 155,2050 233,2049 312,2049 390,2047 468,2048 547,2047 625,2045 703,2045 782,2045 860,2043 938,2042 1016,2041 1095,2041 1173,2039 1251,2039 1330,2041 1408,2043 1486,2046 1565,2055"/>
+                <TextEquiv>
+                    <Unicode>non mancavano, in quello studio, acutezze che i successivi scopritori di Lautréamont, non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Con animo così disposto, attendevamo di mettere le mani sul nostro Lautréamont. Blaise&#13;
+Cendrars ci acconciò l'attesa: egli stesso ne provocò, e curò la ristampa&#13;
+(1920)&#13;
+presso le edizioni del-&#13;
+la "Sirène". Come in traduzione, veniva utilizzato lo scritto di Rémy de Gourmont. L'accento&#13;
+vi era messo sul visionario, sul patologico: "un génie         et même franchemente un&#13;
+génie fou". Se la chiave, oggi, può parere un poco arrugginita, tuttavia quando Gourmont&#13;
+la usava (1896) si applicava ancora ad aprire     &#13;
+casse&#13;
+di poesia maledetta. Tuttavia&#13;
+non mancavano, in quello studio, acutezze che i successivi scopritori di Lautréamont, non</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

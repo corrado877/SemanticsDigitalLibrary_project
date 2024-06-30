@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:07:49.932+01:00</Created>
+        <LastChange>2024-06-20T11:29:57.879+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325497" pageNr="41" tsid="175603508" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=YIDNBFBSHKEXKYJBZQWOYVTP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HAFFFADKCFCDTBXZWWEJLQEP" imageId="53903596"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_02_0007_c3r.jpg" imageWidth="1798" imageHeight="2479" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746065238" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718875781136_446"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718875781136_446" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="170,271 170,321 225,321 225,271"/>
+            <TextLine id="line_1718875781246_449" custom="readingOrder {index:0;}">
+                <Coords points="170,271 225,271 225,321 170,321"/>
+                <Baseline points="170,316 225,316"/>
+                <TextEquiv>
+                    <Unicode>5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="139,462 139,2032 1595,2032 1595,462"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="157,515 228,514 299,513 370,519 442,516 513,515 584,515 656,515 727,515 798,514 870,515 941,515 1012,515 1083,515 1155,515 1226,513 1297,511 1369,512 1440,513 1511,513 1583,517 1583,468 1511,464 1440,464 1369,463 1297,462 1226,464 1155,466 1083,466 1012,466 941,466 870,466 798,465 727,466 656,466 584,466 513,466 442,467 370,470 299,464 228,465 157,466"/>
+                <Baseline points="157,499 228,498 299,497 370,503 442,500 513,499 584,499 656,499 727,499 798,498 870,499 941,499 1012,499 1083,499 1155,499 1226,497 1297,495 1369,496 1440,497 1511,497 1583,501"/>
+                <TextEquiv>
+                    <Unicode>ripensarli, oggi, così a distanza, mi pare che questa figura, questa testa, e la suggestione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="149,593 220,592 292,587 363,587 435,589 507,589 578,589 650,587 721,589 793,589 865,591 936,591 1008,591 1079,592 1151,591 1223,589 1294,589 1366,589 1437,587 1509,589 1581,591 1581,542 1509,540 1437,538 1366,540 1294,540 1223,540 1151,542 1079,543 1008,542 936,542 865,542 793,540 721,540 650,538 578,540 507,540 435,540 363,538 292,538 220,543 149,544"/>
+                <Baseline points="149,577 220,576 292,571 363,571 435,573 507,573 578,573 650,571 721,573 793,573 865,575 936,575 1008,575 1079,576 1151,575 1223,573 1294,573 1366,573 1437,571 1509,573 1581,575"/>
+                <TextEquiv>
+                    <Unicode>e quasi il mistero che si sentono affondati e irraggiungibili, questo "oggetto" degno di medi_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="139,668 210,668 282,668 354,668 426,668 498,668 569,666 641,668 713,666 785,667 857,666 928,666 1000,666 1072,664 1144,662 1216,664 1287,663 1359,662 1431,664 1503,665 1575,668 1575,617 1503,614 1431,613 1359,611 1287,612 1216,613 1144,611 1072,613 1000,615 928,615 857,615 785,616 713,615 641,617 569,615 498,617 426,617 354,617 282,617 210,617 139,617"/>
+                <Baseline points="139,651 210,651 282,651 354,651 426,651 498,651 569,649 641,651 713,649 785,650 857,649 928,649 1000,649 1072,647 1144,645 1216,647 1287,646 1359,645 1431,647 1503,648 1575,651"/>
+                <TextEquiv>
+                    <Unicode>tazione e di lenta osservazione, cosparso alla superfice di qualcosa come una malinconia im_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="167,754 237,748 307,746 377,746 448,744 518,744 588,744 659,744 729,742 799,744 870,742 940,742 1010,742 1080,741 1151,740 1221,739 1291,739 1362,738 1432,740 1502,741 1573,742 1573,691 1502,690 1432,689 1362,687 1291,688 1221,688 1151,689 1080,690 1010,691 940,691 870,691 799,693 729,691 659,693 588,693 518,693 448,693 377,695 307,695 237,697 167,703"/>
+                <Baseline points="167,737 237,731 307,729 377,729 448,727 518,727 588,727 659,727 729,725 799,727 870,725 940,725 1010,725 1080,724 1151,723 1221,722 1291,722 1362,721 1432,723 1502,724 1573,725"/>
+                <TextEquiv>
+                    <Unicode>ponderabile, - questo misterioso "Gentiluomo ubriaco", resti nel tempo e nella memoria col</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="175,824 243,816 312,814 381,816 450,817 519,818 587,820 656,818 725,818 794,820 863,818 931,818 1000,816 1069,818 1138,818 1207,818 1275,816 1344,816 1413,812 1482,813 1551,818 1551,767 1482,762 1413,761 1344,765 1275,765 1207,767 1138,767 1069,767 1000,765 931,767 863,767 794,769 725,767 656,767 587,769 519,767 450,766 381,765 312,763 243,765 175,773"/>
+                <Baseline points="175,807 243,799 312,797 381,799 450,800 519,801 587,803 656,801 725,801 794,803 863,801 931,801 1000,799 1069,801 1138,801 1207,801 1275,799 1344,799 1413,795 1482,796 1551,801"/>
+                <TextEquiv>
+                    <Unicode>peso inevitabile di uno di quei sassi, o massi di sasso, in cui il genio particolare di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="177,894 247,892 317,892 387,892 458,894 528,894 598,894 669,895 739,894 809,894 880,895 950,892 1020,890 1090,890 1161,890 1231,890 1301,890 1372,892 1442,894 1512,892 1583,900 1583,849 1512,841 1442,843 1372,841 1301,839 1231,839 1161,839 1090,839 1020,839 950,841 880,844 809,843 739,843 669,844 598,843 528,843 458,843 387,841 317,841 247,841 177,843"/>
+                <Baseline points="177,877 247,875 317,875 387,875 458,877 528,877 598,877 669,878 739,877 809,877 880,878 950,875 1020,873 1090,873 1161,873 1231,873 1301,873 1372,875 1442,877 1512,875 1583,883"/>
+                <TextEquiv>
+                    <Unicode>Costantino Brancusi, lo scultore rumeno, da cui si può dire che incomincia una "nuova scul_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="157,976 228,972 299,971 370,968 441,970 512,968 583,966 654,968 725,968 796,968 868,968 939,968 1010,968 1081,966 1152,964 1223,964 1294,964 1365,968 1436,968 1507,968 1579,970 1579,919 1507,917 1436,917 1365,917 1294,913 1223,913 1152,913 1081,915 1010,917 939,917 868,917 796,917 725,917 654,917 583,915 512,917 441,919 370,917 299,920 228,921 157,925"/>
+                <Baseline points="157,959 228,955 299,954 370,951 441,953 512,951 583,949 654,951 725,951 796,951 868,951 939,951 1010,951 1081,949 1152,947 1223,947 1294,947 1365,951 1436,951 1507,951 1579,953"/>
+                <TextEquiv>
+                    <Unicode>tura, ha saputo vedere e rivelare alla luce della vita,una testa, un volto umano, spingendolo, si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="165,1051 235,1045 305,1047 375,1045 445,1043 515,1044 585,1043 655,1041 725,1044 795,1043 866,1045 936,1045 1006,1045 1076,1045 1146,1045 1216,1045 1286,1045 1356,1046 1426,1045 1496,1046 1567,1051 1567,1003 1496,998 1426,997 1356,998 1286,997 1216,997 1146,997 1076,997 1006,997 936,997 866,997 795,995 725,996 655,993 585,995 515,996 445,995 375,997 305,999 235,997 165,1003"/>
+                <Baseline points="165,1035 235,1029 305,1031 375,1029 445,1027 515,1028 585,1027 655,1025 725,1028 795,1027 866,1029 936,1029 1006,1029 1076,1029 1146,1029 1216,1029 1286,1029 1356,1030 1426,1029 1496,1030 1567,1035"/>
+                <TextEquiv>
+                    <Unicode>può dire, fino all'orlo del sorriso. Peccato che, in quei lontani anni, Carrà, probabilmente,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="167,1117 237,1121 307,1121 377,1121 447,1121 517,1121 587,1119 657,1118 727,1119 797,1119 868,1119 938,1120 1008,1121 1078,1121 1148,1122 1218,1121 1288,1121 1358,1121 1428,1121 1498,1123 1569,1125 1569,1077 1498,1075 1428,1073 1358,1073 1288,1073 1218,1073 1148,1074 1078,1073 1008,1073 938,1072 868,1071 797,1071 727,1071 657,1070 587,1071 517,1073 447,1073 377,1073 307,1073 237,1073 167,1069"/>
+                <Baseline points="167,1101 237,1105 307,1105 377,1105 447,1105 517,1105 587,1103 657,1102 727,1103 797,1103 868,1103 938,1104 1008,1105 1078,1105 1148,1106 1218,1105 1288,1105 1358,1105 1428,1105 1498,1107 1569,1109"/>
+                <TextEquiv>
+                    <Unicode>non aveva conoscenza dell'opera di Brancusi. E' stato un tempo, quello, in cui artisti, come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="157,1200 228,1195 299,1194 370,1194 441,1193 512,1192 583,1194 654,1195 725,1196 796,1196 868,1197 939,1196 1010,1197 1081,1198 1152,1196 1223,1198 1294,1196 1365,1197 1436,1198 1507,1198 1579,1200 1579,1149 1507,1147 1436,1147 1365,1146 1294,1145 1223,1147 1152,1145 1081,1147 1010,1146 939,1145 868,1146 796,1145 725,1145 654,1144 583,1143 512,1141 441,1142 370,1143 299,1143 228,1144 157,1149"/>
+                <Baseline points="157,1183 228,1178 299,1177 370,1177 441,1176 512,1175 583,1177 654,1178 725,1179 796,1179 868,1180 939,1179 1010,1180 1081,1181 1152,1179 1223,1181 1294,1179 1365,1180 1436,1181 1507,1181 1579,1183"/>
+                <TextEquiv>
+                    <Unicode>ricercatori solitari, si applicarono a comporre sule proprie tele un'armonia di spazi, una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;} gap {offset:32; length:0;quantity:8; unit:character; reason:illegible;}">
+                <Coords points="157,1272 226,1274 296,1276 366,1274 436,1272 506,1272 575,1272 645,1273 715,1273 785,1274 855,1274 924,1275 994,1276 1064,1274 1134,1274 1204,1274 1273,1274 1343,1275 1413,1276 1483,1276 1553,1276 1553,1225 1483,1225 1413,1225 1343,1224 1273,1223 1204,1223 1134,1223 1064,1223 994,1225 924,1224 855,1223 785,1223 715,1222 645,1222 575,1221 506,1221 436,1221 366,1223 296,1225 226,1223 157,1221"/>
+                <Baseline points="157,1255 226,1257 296,1259 366,1257 436,1255 506,1255 575,1255 645,1256 715,1256 785,1257 855,1257 924,1258 994,1259 1064,1257 1134,1257 1204,1257 1273,1257 1343,1258 1413,1259 1483,1259 1553,1259"/>
+                <TextEquiv>
+                    <Unicode>musicale proporzione di volumi,          ogni cosa, di quanto avevano fra le mani, più</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="155,1354 226,1353 298,1350 369,1348 441,1348 513,1346 584,1347 656,1348 727,1349 799,1349 871,1350 942,1349 1014,1350 1085,1350 1157,1350 1229,1350 1300,1352 1372,1352 1443,1350 1515,1350 1587,1348 1587,1297 1515,1299 1443,1299 1372,1301 1300,1301 1229,1299 1157,1299 1085,1299 1014,1299 942,1298 871,1299 799,1298 727,1298 656,1297 584,1296 513,1295 441,1297 369,1297 298,1299 226,1302 155,1303"/>
+                <Baseline points="155,1337 226,1336 298,1333 369,1331 441,1331 513,1329 584,1330 656,1331 727,1332 799,1332 871,1333 942,1332 1014,1333 1085,1333 1157,1333 1229,1333 1300,1335 1372,1335 1443,1333 1515,1333 1587,1331"/>
+                <TextEquiv>
+                    <Unicode>col bastoncino del pennello, con un rigido pensiero, con un lampo silenzioso, che s'appoggiava tra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="151,1426 221,1424 291,1424 362,1422 432,1424 503,1424 573,1424 643,1422 714,1424 784,1422 855,1423 925,1424 995,1424 1066,1426 1136,1426 1207,1426 1277,1424 1347,1424 1418,1426 1488,1424 1559,1426 1559,1375 1488,1373 1418,1375 1347,1373 1277,1373 1207,1375 1136,1375 1066,1375 995,1373 925,1373 855,1372 784,1371 714,1373 643,1371 573,1373 503,1373 432,1373 362,1371 291,1373 221,1373 151,1375"/>
+                <Baseline points="151,1409 221,1407 291,1407 362,1405 432,1407 503,1407 573,1407 643,1405 714,1407 784,1405 855,1406 925,1407 995,1407 1066,1409 1136,1409 1207,1409 1277,1407 1347,1407 1418,1409 1488,1407 1559,1409"/>
+                <TextEquiv>
+                    <Unicode>l'orlo dell'occhio e una pacata ansia del cuore. La poesia, di alcuni poeti italiani, stava loro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="147,1502 172,1499 198,1499 223,1500 249,1500 274,1500 300,1500 325,1502 351,1500 377,1500 402,1500 428,1500 453,1500 479,1500 504,1502 530,1502 555,1501 581,1501 607,1502 607,1451 581,1450 555,1450 530,1451 504,1451 479,1449 453,1449 428,1449 402,1449 377,1449 351,1449 325,1451 300,1449 274,1449 249,1449 223,1449 198,1448 172,1448 147,1451"/>
+                <Baseline points="147,1485 172,1482 198,1482 223,1483 249,1483 274,1483 300,1483 325,1485 351,1483 377,1483 402,1483 428,1483 453,1483 479,1483 504,1485 530,1485 555,1484 581,1484 607,1485"/>
+                <TextEquiv>
+                    <Unicode>dappresso. Quel tempo è finito.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="179,1574 247,1574 316,1575 385,1574 453,1576 522,1576 591,1573 659,1574 728,1574 797,1576 866,1574 934,1572 1003,1574 1072,1574 1140,1574 1209,1573 1278,1572 1346,1570 1415,1572 1484,1572 1553,1574 1553,1523 1484,1521 1415,1521 1346,1519 1278,1521 1209,1522 1140,1523 1072,1523 1003,1523 934,1521 866,1523 797,1525 728,1523 659,1523 591,1522 522,1525 453,1525 385,1523 316,1524 247,1523 179,1523"/>
+                <Baseline points="179,1557 247,1557 316,1558 385,1557 453,1559 522,1559 591,1556 659,1557 728,1557 797,1559 866,1557 934,1555 1003,1557 1072,1557 1140,1557 1209,1556 1278,1555 1346,1553 1415,1555 1484,1555 1553,1557"/>
+                <TextEquiv>
+                    <Unicode>Il lavoro pittorico di Carrà si è svolto, in ogni momento, come la messa in pratica di una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="155,1652 226,1650 297,1651 368,1650 439,1651 510,1649 581,1652 652,1648 723,1648 794,1650 865,1648 936,1646 1007,1648 1078,1647 1149,1648 1220,1650 1291,1649 1362,1648 1433,1649 1504,1651 1575,1650 1575,1599 1504,1600 1433,1598 1362,1597 1291,1598 1220,1599 1149,1597 1078,1596 1007,1597 936,1595 865,1597 794,1599 723,1597 652,1597 581,1601 510,1598 439,1600 368,1599 297,1600 226,1599 155,1601"/>
+                <Baseline points="155,1635 226,1633 297,1634 368,1633 439,1634 510,1632 581,1635 652,1631 723,1631 794,1633 865,1631 936,1629 1007,1631 1078,1630 1149,1631 1220,1633 1291,1632 1362,1631 1433,1632 1504,1634 1575,1633"/>
+                <TextEquiv>
+                    <Unicode>riflessione e di un'indagine, incominciata una volta, e continuata senza interruzione fino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="163,1722 234,1723 305,1723 377,1726 448,1724 520,1724 591,1724 662,1726 734,1724 805,1724 877,1724 948,1726 1019,1726 1091,1724 1162,1727 1234,1726 1305,1726 1376,1729 1448,1728 1519,1728 1591,1732 1591,1681 1519,1677 1448,1677 1376,1678 1305,1675 1234,1675 1162,1676 1091,1673 1019,1675 948,1675 877,1673 805,1673 734,1673 662,1675 591,1673 520,1673 448,1673 377,1675 305,1672 234,1672 163,1671"/>
+                <Baseline points="163,1705 234,1706 305,1706 377,1709 448,1707 520,1707 591,1707 662,1709 734,1707 805,1707 877,1707 948,1709 1019,1709 1091,1707 1162,1710 1234,1709 1305,1709 1376,1712 1448,1711 1519,1711 1591,1715"/>
+                <TextEquiv>
+                    <Unicode>ad oggi. La riflessione di un tale pittore non va senza un accompagnamento o applicazione scritta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="157,1798 228,1801 300,1804 371,1802 443,1802 514,1800 586,1801 657,1800 729,1798 800,1799 872,1800 943,1800 1015,1800 1086,1800 1158,1799 1229,1801 1301,1802 1372,1802 1444,1800 1515,1802 1587,1810 1587,1759 1515,1751 1444,1749 1372,1751 1301,1751 1229,1750 1158,1748 1086,1749 1015,1749 943,1749 872,1749 800,1748 729,1747 657,1749 586,1750 514,1749 443,1751 371,1751 300,1753 228,1750 157,1747"/>
+                <Baseline points="157,1781 228,1784 300,1787 371,1785 443,1785 514,1783 586,1784 657,1783 729,1781 800,1782 872,1783 943,1783 1015,1783 1086,1783 1158,1782 1229,1784 1301,1785 1372,1785 1444,1783 1515,1785 1587,1793"/>
+                <TextEquiv>
+                    <Unicode>Come si sa, Carlo Carrà, è stato uno degli scrittori "importanti"della nuova letteratura italia_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="161,1881 232,1879 303,1875 374,1875 445,1876 517,1877 588,1875 659,1877 730,1875 801,1874 873,1874 944,1875 1015,1875 1086,1877 1157,1873 1229,1872 1300,1869 1371,1869 1442,1872 1513,1871 1585,1885 1585,1836 1513,1822 1442,1823 1371,1820 1300,1820 1229,1823 1157,1824 1086,1828 1015,1826 944,1826 873,1825 801,1825 730,1826 659,1828 588,1826 517,1828 445,1827 374,1826 303,1826 232,1830 161,1832"/>
+                <Baseline points="161,1865 232,1863 303,1859 374,1859 445,1860 517,1861 588,1859 659,1861 730,1859 801,1858 873,1858 944,1859 1015,1859 1086,1861 1157,1857 1229,1856 1300,1853 1371,1853 1442,1856 1513,1855 1585,1869"/>
+                <TextEquiv>
+                    <Unicode>na. Basterebbero, a dimostrarlo, gli scritti in prosa, ma di un tono pittosto lirico nell'imma_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="149,1963 221,1959 293,1959 365,1955 437,1955 510,1953 582,1951 654,1952 726,1951 798,1952 871,1951 943,1953 1015,1953 1087,1954 1159,1951 1232,1949 1304,1949 1376,1949 1448,1951 1520,1949 1593,1953 1593,1904 1520,1900 1448,1902 1376,1900 1304,1900 1232,1900 1159,1902 1087,1905 1015,1904 943,1904 871,1902 798,1903 726,1902 654,1903 582,1902 510,1904 437,1906 365,1906 293,1910 221,1910 149,1914"/>
+                <Baseline points="149,1947 221,1943 293,1943 365,1939 437,1939 510,1937 582,1935 654,1936 726,1935 798,1936 871,1935 943,1937 1015,1937 1087,1938 1159,1935 1232,1933 1304,1933 1376,1933 1448,1935 1520,1933 1593,1937"/>
+                <TextEquiv>
+                    <Unicode>ginazione, pubblicati nella "Voce", la rivista letteraria fiorentina, negli anni 1915 e 1916, e in alcune</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:20;} del {offset:57; length:1;rend:overstrike;}">
+                <Coords points="155,2029 227,2029 299,2029 371,2031 443,2029 515,2031 587,2029 659,2029 731,2029 803,2029 875,2031 947,2032 1019,2031 1091,2031 1163,2029 1235,2029 1307,2027 1379,2027 1451,2027 1523,2027 1595,2029 1595,1980 1523,1978 1451,1978 1379,1978 1307,1978 1235,1980 1163,1980 1091,1982 1019,1982 947,1983 875,1982 803,1980 731,1980 659,1980 587,1980 515,1982 443,1980 371,1982 299,1980 227,1980 155,1980"/>
+                <Baseline points="155,2013 227,2013 299,2013 371,2015 443,2013 515,2015 587,2013 659,2013 731,2013 803,2013 875,2015 947,2016 1019,2015 1091,2015 1163,2013 1235,2013 1307,2011 1379,2011 1451,2011 1523,2011 1595,2013"/>
+                <TextEquiv>
+                    <Unicode>riviste d'avanguardia degli di fine guerra: 1917,1918,1916; cioè "La Brigata" e "La Raccolta"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ripensarli, oggi, così a distanza, mi pare che questa figura, questa testa, e la suggestione&#13;
+e quasi il mistero che si sentono affondati e irraggiungibili, questo "oggetto" degno di medi_&#13;
+tazione e di lenta osservazione, cosparso alla superfice di qualcosa come una malinconia im_&#13;
+ponderabile, - questo misterioso "Gentiluomo ubriaco", resti nel tempo e nella memoria col&#13;
+peso inevitabile di uno di quei sassi, o massi di sasso, in cui il genio particolare di&#13;
+Costantino Brancusi, lo scultore rumeno, da cui si può dire che incomincia una "nuova scul_&#13;
+tura, ha saputo vedere e rivelare alla luce della vita,una testa, un volto umano, spingendolo, si&#13;
+può dire, fino all'orlo del sorriso. Peccato che, in quei lontani anni, Carrà, probabilmente,&#13;
+non aveva conoscenza dell'opera di Brancusi. E' stato un tempo, quello, in cui artisti, come&#13;
+ricercatori solitari, si applicarono a comporre sule proprie tele un'armonia di spazi, una&#13;
+musicale proporzione di volumi,          ogni cosa, di quanto avevano fra le mani, più&#13;
+col bastoncino del pennello, con un rigido pensiero, con un lampo silenzioso, che s'appoggiava tra&#13;
+l'orlo dell'occhio e una pacata ansia del cuore. La poesia, di alcuni poeti italiani, stava loro&#13;
+dappresso. Quel tempo è finito.&#13;
+Il lavoro pittorico di Carrà si è svolto, in ogni momento, come la messa in pratica di una&#13;
+riflessione e di un'indagine, incominciata una volta, e continuata senza interruzione fino&#13;
+ad oggi. La riflessione di un tale pittore non va senza un accompagnamento o applicazione scritta.&#13;
+Come si sa, Carlo Carrà, è stato uno degli scrittori "importanti"della nuova letteratura italia_&#13;
+na. Basterebbero, a dimostrarlo, gli scritti in prosa, ma di un tono pittosto lirico nell'imma_&#13;
+ginazione, pubblicati nella "Voce", la rivista letteraria fiorentina, negli anni 1915 e 1916, e in alcune&#13;
+riviste d'avanguardia degli di fine guerra: 1917,1918,1916; cioè "La Brigata" e "La Raccolta"</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

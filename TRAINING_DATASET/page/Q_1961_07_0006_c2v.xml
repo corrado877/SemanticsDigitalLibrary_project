@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:16:39.388+01:00</Created>
+        <LastChange>2024-06-20T11:43:22.619+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325506" pageNr="59" tsid="175603537" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=XRYVJCGOCAMUVZHIGXKSUCDO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OOMMJJZEZJXRJQZUVRCNNKDA" imageId="53903825"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_07_0006_c2v.jpg" imageWidth="1798" imageHeight="2476" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746068764" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718180392999_568"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718180392999_568" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1555,278 1555,329 1625,329 1625,278"/>
+            <TextLine id="line_1718180393100_571" custom="readingOrder {index:0;}">
+                <Coords points="1555,279 1624,278 1625,328 1556,329"/>
+                <Baseline points="1556,324 1625,323"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="194,444 202,2053 1662,2053 1654,444"/>
+            <TextLine id="line_1718180400783_576" custom="readingOrder {index:0;}">
+                <Coords points="218,456 1646,452 1646,502 218,506"/>
+                <Baseline points="218,501 1646,497"/>
+                <TextEquiv>
+                    <Unicode>detiene il misterioso segreto, che dalla materia trapassa nel suo cuore. E' la potenza indeci_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718180404892_581" custom="readingOrder {index:1;}">
+                <Coords points="207,530 1648,528 1648,578 207,580"/>
+                <Baseline points="207,575 1648,573"/>
+                <TextEquiv>
+                    <Unicode>frabile delle forme, la sostanza medesima della terra, dell'aria, che inducono ad un'espres_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="208,663 279,665 351,663 423,664 495,663 567,661 638,661 710,663 782,663 854,662 926,663 997,663 1069,663 1141,663 1213,661 1285,659 1356,658 1428,657 1500,657 1572,657 1644,659 1644,607 1572,605 1500,605 1428,605 1356,606 1285,607 1213,609 1141,611 1069,611 997,611 926,611 854,610 782,611 710,611 638,609 567,609 495,611 423,612 351,611 279,613 208,611"/>
+                <Baseline points="208,646 279,648 351,646 423,647 495,646 567,644 638,644 710,646 782,646 854,645 926,646 997,646 1069,646 1141,646 1213,644 1285,642 1356,641 1428,640 1500,640 1572,640 1644,642"/>
+                <TextEquiv>
+                    <Unicode>sione profonda e scavata, di cui il linguaggio si plasma e vive di vita autonoma. Non è</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718180416942_590" custom="readingOrder {index:3;}">
+                <Coords points="209,684 478,682 478,732 209,734"/>
+                <Baseline points="209,729 478,727"/>
+                <TextEquiv>
+                    <Unicode>frequente, o quasi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718180419093_595" custom="readingOrder {index:4;} add {offset:0; length:1;place:above;}">
+                <Coords points="467,657 507,657 507,707 467,707"/>
+                <Baseline points="467,702 507,702"/>
+                <TextEquiv>
+                    <Unicode>è</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718180422989_600" custom="readingOrder {index:5;}">
+                <Coords points="482,676 1620,676 1620,726 482,726"/>
+                <Baseline points="482,721 1620,721"/>
+                <TextEquiv>
+                    <Unicode>impossibile, trovare nella poesia italiana precedenti o esempi di un tale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="202,818 272,815 342,816 412,814 482,814 552,812 622,812 692,812 762,812 832,812 903,812 973,812 1043,813 1113,812 1183,812 1253,811 1323,810 1393,812 1463,811 1533,810 1604,808 1604,754 1533,756 1463,757 1393,758 1323,756 1253,757 1183,758 1113,758 1043,759 973,758 903,758 832,758 762,758 692,758 622,758 552,758 482,760 412,760 342,762 272,761 202,764"/>
+                <Baseline points="202,800 272,797 342,798 412,796 482,796 552,794 622,794 692,794 762,794 832,794 903,794 973,794 1043,795 1113,794 1183,794 1253,793 1323,792 1393,794 1463,793 1533,792 1604,790"/>
+                <TextEquiv>
+                    <Unicode>esercizio. Per l'Ungaretti è espressione di natura, così in prosa, come, si vedrà, nella poesia in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="210,897 280,895 351,893 422,889 492,889 563,887 634,887 704,887 775,885 846,885 917,888 987,887 1058,887 1129,886 1199,885 1270,883 1341,885 1411,885 1482,887 1553,887 1624,889 1624,838 1553,836 1482,836 1411,834 1341,834 1270,832 1199,834 1129,835 1058,836 987,836 917,837 846,834 775,834 704,836 634,836 563,836 492,838 422,838 351,842 280,844 210,846"/>
+                <Baseline points="210,880 280,878 351,876 422,872 492,872 563,870 634,870 704,870 775,868 846,868 917,871 987,870 1058,870 1129,869 1199,868 1270,866 1341,868 1411,868 1482,870 1553,870 1624,872"/>
+                <TextEquiv>
+                    <Unicode>versi. Sono ghirigori, scavature, labirinti che la terra e il suolo d'africa hanno rimandato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:8;}">
+                <Coords points="212,971 282,967 353,966 424,963 494,961 565,962 636,961 706,962 777,961 848,961 919,961 989,961 1060,959 1131,961 1201,961 1272,961 1343,962 1413,963 1484,962 1555,959 1626,957 1626,906 1555,908 1484,911 1413,912 1343,911 1272,910 1201,910 1131,910 1060,908 989,910 919,910 848,910 777,910 706,911 636,910 565,911 494,910 424,912 353,915 282,916 212,920"/>
+                <Baseline points="212,954 282,950 353,949 424,946 494,944 565,945 636,944 706,945 777,944 848,944 919,944 989,944 1060,942 1131,944 1201,944 1272,944 1343,945 1413,946 1484,945 1555,942 1626,940"/>
+                <TextEquiv>
+                    <Unicode>e rifuso nei caratteri dell'architettura araba. Dice Ungaretti:" Ero appena fuggito dal luogo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:9;}">
+                <Coords points="222,1043 292,1043 362,1041 432,1039 502,1040 572,1043 642,1043 712,1041 782,1039 852,1038 922,1036 992,1035 1062,1033 1132,1034 1202,1035 1272,1036 1342,1036 1412,1035 1482,1035 1552,1035 1622,1033 1622,981 1552,983 1482,983 1412,983 1342,984 1272,984 1202,983 1132,982 1062,981 992,983 922,984 852,986 782,987 712,989 642,991 572,991 502,988 432,987 362,989 292,991 222,991"/>
+                <Baseline points="222,1026 292,1026 362,1024 432,1022 502,1023 572,1026 642,1026 712,1024 782,1022 852,1021 922,1019 992,1018 1062,1016 1132,1017 1202,1018 1272,1019 1342,1019 1412,1018 1482,1018 1552,1018 1622,1016"/>
+                <TextEquiv>
+                    <Unicode>atro, e andavo- per una piazzetta gremita di bandiere verdi o rosse alle finestre e alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:10;}">
+                <Coords points="210,1125 282,1121 354,1119 426,1117 498,1117 570,1119 642,1118 714,1119 786,1119 858,1117 930,1115 1002,1115 1074,1115 1146,1113 1218,1113 1290,1113 1362,1112 1434,1109 1506,1111 1578,1111 1650,1113 1650,1061 1578,1059 1506,1059 1434,1057 1362,1060 1290,1061 1218,1061 1146,1061 1074,1063 1002,1063 930,1063 858,1065 786,1067 714,1067 642,1066 570,1067 498,1065 426,1065 354,1067 282,1069 210,1073"/>
+                <Baseline points="210,1108 282,1104 354,1102 426,1100 498,1100 570,1102 642,1101 714,1102 786,1102 858,1100 930,1098 1002,1098 1074,1098 1146,1096 1218,1096 1290,1096 1362,1095 1434,1092 1506,1094 1578,1094 1650,1096"/>
+                <TextEquiv>
+                    <Unicode>botteghe, e sui carretti, e sulle casse - errando, quando, con la mano sinistra, mi fece-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:11;}">
+                <Coords points="210,1196 281,1198 352,1194 423,1193 494,1192 566,1193 637,1194 708,1194 779,1194 850,1192 922,1194 993,1190 1064,1190 1135,1190 1206,1188 1278,1188 1349,1188 1420,1188 1491,1188 1562,1190 1634,1194 1634,1145 1562,1141 1491,1139 1420,1139 1349,1139 1278,1139 1206,1139 1135,1141 1064,1141 993,1141 922,1145 850,1143 779,1145 708,1145 637,1145 566,1144 494,1143 423,1144 352,1145 281,1149 210,1147"/>
+                <Baseline points="210,1180 281,1182 352,1178 423,1177 494,1176 566,1177 637,1178 708,1178 779,1178 850,1176 922,1178 993,1174 1064,1174 1135,1174 1206,1172 1278,1172 1349,1172 1420,1172 1491,1172 1562,1174 1634,1178"/>
+                <TextEquiv>
+                    <Unicode>un pittore canuto - segno e - sopra il dorso dell'altra mano che ritraeva la folla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:12;}">
+                <Coords points="210,1278 281,1272 352,1270 423,1268 494,1266 566,1268 637,1266 708,1266 779,1265 850,1266 922,1266 993,1266 1064,1266 1135,1264 1206,1266 1278,1266 1349,1266 1420,1264 1491,1262 1562,1261 1634,1262 1634,1213 1562,1212 1491,1213 1420,1215 1349,1217 1278,1217 1206,1217 1135,1215 1064,1217 993,1217 922,1217 850,1217 779,1216 708,1217 637,1217 566,1219 494,1217 423,1219 352,1221 281,1223 210,1229"/>
+                <Baseline points="210,1262 281,1256 352,1254 423,1252 494,1250 566,1252 637,1250 708,1250 779,1249 850,1250 922,1250 993,1250 1064,1250 1135,1248 1206,1250 1278,1250 1349,1250 1420,1248 1491,1246 1562,1245 1634,1246"/>
+                <TextEquiv>
+                    <Unicode>- del cielo tesse una mano - strappata un cadavere? - cadde". Dalla città il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:13;}">
+                <Coords points="206,1346 277,1347 349,1346 420,1346 492,1346 563,1344 635,1343 706,1342 778,1343 849,1342 921,1342 992,1340 1064,1340 1135,1340 1207,1340 1278,1340 1350,1338 1421,1336 1493,1338 1564,1336 1636,1336 1636,1287 1564,1287 1493,1289 1421,1287 1350,1289 1278,1291 1207,1291 1135,1291 1064,1291 992,1291 921,1293 849,1293 778,1294 706,1293 635,1294 563,1295 492,1297 420,1297 349,1297 277,1298 206,1297"/>
+                <Baseline points="206,1330 277,1331 349,1330 420,1330 492,1330 563,1328 635,1327 706,1326 778,1327 849,1326 921,1326 992,1324 1064,1324 1135,1324 1207,1324 1278,1324 1350,1322 1421,1320 1493,1322 1564,1320 1636,1320"/>
+                <TextEquiv>
+                    <Unicode>viandante avanza verso il deserto. Baluardi di pietra, torrioni. Moschee e cimiteri. "Ma ci sono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:14;} gap {offset:23; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="220,1420 291,1421 363,1420 435,1420 507,1420 579,1420 650,1420 722,1420 794,1418 866,1420 938,1420 1009,1419 1081,1418 1153,1418 1225,1417 1297,1418 1368,1416 1440,1418 1512,1418 1584,1419 1656,1422 1656,1368 1584,1365 1512,1364 1440,1364 1368,1362 1297,1364 1225,1363 1153,1364 1081,1364 1009,1365 938,1366 866,1366 794,1364 722,1366 650,1366 579,1366 507,1366 435,1366 363,1366 291,1367 220,1366"/>
+                <Baseline points="220,1402 291,1403 363,1402 435,1402 507,1402 579,1402 650,1402 722,1402 794,1400 866,1402 938,1402 1009,1401 1081,1400 1153,1400 1225,1399 1297,1400 1368,1398 1440,1400 1512,1400 1584,1401 1656,1404"/>
+                <TextEquiv>
+                    <Unicode>altre tombe, stele che        piano piano nel deserto come un branco di pecorelle, e si perdono".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:15;}">
+                <Coords points="214,1498 286,1498 359,1496 431,1496 504,1497 576,1496 649,1495 721,1496 794,1496 866,1496 939,1494 1011,1494 1084,1492 1156,1492 1229,1490 1301,1492 1374,1493 1446,1494 1519,1496 1591,1498 1664,1504 1664,1450 1591,1444 1519,1442 1446,1440 1374,1439 1301,1438 1229,1436 1156,1438 1084,1438 1011,1440 939,1440 866,1442 794,1442 721,1442 649,1441 576,1442 504,1443 431,1442 359,1442 286,1444 214,1444"/>
+                <Baseline points="214,1480 286,1480 359,1478 431,1478 504,1479 576,1478 649,1477 721,1478 794,1478 866,1478 939,1476 1011,1476 1084,1474 1156,1474 1229,1472 1301,1474 1374,1475 1446,1476 1519,1478 1591,1480 1664,1486"/>
+                <TextEquiv>
+                    <Unicode>Una moschea:".. una moschea che, vista di sotto, pareva un presepe di cenere..." Sopra </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718180442827_605" custom="readingOrder {index:16;}">
+                <Coords points="211,1519 1662,1517 1662,1567 211,1569"/>
+                <Baseline points="211,1564 1662,1562"/>
+                <TextEquiv>
+                    <Unicode>è il cielo, occupato da uccelli.." nibbi erano lassù. fermi e con le ali a moto. Arriva un branco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718180447603_610" custom="readingOrder {index:17;}">
+                <Coords points="211,1595 1657,1580 1657,1630 211,1645"/>
+                <Baseline points="211,1640 1657,1625"/>
+                <TextEquiv>
+                    <Unicode>di corvi. Fu la guerra. I corvi, a giudicarli dal peso, pezzi di ghisa; i nibbi- e avresti detto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:18;}">
+                <Coords points="210,1731 268,1727 326,1723 384,1721 443,1719 501,1719 559,1719 618,1719 676,1719 734,1718 793,1717 851,1718 909,1719 967,1721 1026,1719 1084,1717 1142,1717 1201,1717 1259,1717 1317,1715 1376,1713 1376,1662 1317,1664 1259,1666 1201,1666 1142,1666 1084,1666 1026,1668 967,1670 909,1668 851,1667 793,1666 734,1667 676,1668 618,1668 559,1668 501,1668 443,1668 384,1670 326,1672 268,1676 210,1680"/>
+                <Baseline points="210,1714 268,1710 326,1706 384,1704 443,1702 501,1702 559,1702 618,1702 676,1702 734,1701 793,1700 851,1701 909,1702 967,1704 1026,1702 1084,1700 1142,1700 1201,1700 1259,1700 1317,1698 1376,1696"/>
+                <TextEquiv>
+                    <Unicode>che anche a toccarli t'avrebbero fatto quell'effetto - pomice rovente."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:19;}">
+                <Coords points="230,1804 298,1802 367,1802 435,1802 504,1799 573,1798 641,1798 710,1798 778,1798 847,1798 916,1798 984,1798 1053,1797 1121,1796 1190,1796 1259,1796 1327,1796 1396,1796 1464,1795 1533,1793 1602,1788 1602,1734 1533,1739 1464,1741 1396,1742 1327,1742 1259,1742 1190,1742 1121,1742 1053,1743 984,1744 916,1744 847,1744 778,1744 710,1744 641,1744 573,1744 504,1745 435,1748 367,1748 298,1748 230,1750"/>
+                <Baseline points="230,1786 298,1784 367,1784 435,1784 504,1781 573,1780 641,1780 710,1780 778,1780 847,1780 916,1780 984,1780 1053,1779 1121,1778 1190,1778 1259,1778 1327,1778 1396,1778 1464,1777 1533,1775 1602,1770"/>
+                <TextEquiv>
+                    <Unicode>L'itinerario ungarettiano si sposta: vola, ritorna, punta comel'ago della bussola. La </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:20;}">
+                <Coords points="218,1882 289,1878 361,1878 433,1878 505,1878 577,1880 649,1877 721,1878 793,1878 865,1877 937,1876 1008,1873 1080,1870 1152,1870 1224,1870 1296,1868 1368,1870 1440,1868 1512,1870 1584,1873 1656,1876 1656,1822 1584,1819 1512,1816 1440,1814 1368,1816 1296,1814 1224,1816 1152,1816 1080,1816 1008,1819 937,1822 865,1823 793,1824 721,1824 649,1823 577,1826 505,1824 433,1824 361,1824 289,1824 218,1828"/>
+                <Baseline points="218,1864 289,1860 361,1860 433,1860 505,1860 577,1862 649,1859 721,1860 793,1860 865,1859 937,1858 1008,1855 1080,1852 1152,1852 1224,1852 1296,1850 1368,1852 1440,1850 1512,1852 1584,1855 1656,1858"/>
+                <TextEquiv>
+                    <Unicode>Corsica prima, indi un generico mezzogiorno, che vuol dire Salerno, Ercolano, Pompei e Napoli. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718180480568_621" custom="readingOrder {index:21;} gap {offset:0; length:0;}">
+                <Coords points="214,1901 1664,1895 1664,1945 214,1951"/>
+                <Baseline points="214,1946 1664,1940"/>
+                <TextEquiv>
+                    <Unicode>Elea e la primavera: uno dei capitoli; che risuona, nel titolo, nella nostalgia meravigliosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:22;}">
+                <Coords points="206,2034 276,2033 346,2033 417,2030 487,2029 558,2030 628,2030 698,2028 769,2028 839,2026 910,2027 980,2028 1050,2026 1121,2026 1191,2026 1262,2024 1332,2021 1402,2020 1473,2020 1543,2020 1614,2018 1614,1964 1543,1966 1473,1966 1402,1966 1332,1967 1262,1970 1191,1972 1121,1972 1050,1972 980,1974 910,1973 839,1972 769,1974 698,1974 628,1976 558,1976 487,1975 417,1976 346,1979 276,1979 206,1980"/>
+                <Baseline points="206,2016 276,2015 346,2015 417,2012 487,2011 558,2012 628,2012 698,2010 769,2010 839,2008 910,2009 980,2010 1050,2008 1121,2008 1191,2008 1262,2006 1332,2003 1402,2002 1473,2002 1543,2002 1614,2000"/>
+                <TextEquiv>
+                    <Unicode>di un canto immaginato da Leopardi. Più è la Grecia, fattasi Italia, nell'incontro del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>detiene il misterioso segreto, che dalla materia trapassa nel suo cuore. E' la potenza indeci_&#13;
+frabile delle forme, la sostanza medesima della terra, dell'aria, che inducono ad un'espres_&#13;
+sione profonda e scavata, di cui il linguaggio si plasma e vive di vita autonoma. Non è&#13;
+frequente, o quasi&#13;
+è&#13;
+impossibile, trovare nella poesia italiana precedenti o esempi di un tale&#13;
+esercizio. Per l'Ungaretti è espressione di natura, così in prosa, come, si vedrà, nella poesia in&#13;
+versi. Sono ghirigori, scavature, labirinti che la terra e il suolo d'africa hanno rimandato&#13;
+e rifuso nei caratteri dell'architettura araba. Dice Ungaretti:" Ero appena fuggito dal luogo&#13;
+atro, e andavo- per una piazzetta gremita di bandiere verdi o rosse alle finestre e alle&#13;
+botteghe, e sui carretti, e sulle casse - errando, quando, con la mano sinistra, mi fece-&#13;
+un pittore canuto - segno e - sopra il dorso dell'altra mano che ritraeva la folla&#13;
+- del cielo tesse una mano - strappata un cadavere? - cadde". Dalla città il&#13;
+viandante avanza verso il deserto. Baluardi di pietra, torrioni. Moschee e cimiteri. "Ma ci sono&#13;
+altre tombe, stele che        piano piano nel deserto come un branco di pecorelle, e si perdono".&#13;
+Una moschea:".. una moschea che, vista di sotto, pareva un presepe di cenere..." Sopra &#13;
+è il cielo, occupato da uccelli.." nibbi erano lassù. fermi e con le ali a moto. Arriva un branco&#13;
+di corvi. Fu la guerra. I corvi, a giudicarli dal peso, pezzi di ghisa; i nibbi- e avresti detto&#13;
+che anche a toccarli t'avrebbero fatto quell'effetto - pomice rovente."&#13;
+L'itinerario ungarettiano si sposta: vola, ritorna, punta comel'ago della bussola. La &#13;
+Corsica prima, indi un generico mezzogiorno, che vuol dire Salerno, Ercolano, Pompei e Napoli. &#13;
+Elea e la primavera: uno dei capitoli; che risuona, nel titolo, nella nostalgia meravigliosa&#13;
+di un canto immaginato da Leopardi. Più è la Grecia, fattasi Italia, nell'incontro del</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

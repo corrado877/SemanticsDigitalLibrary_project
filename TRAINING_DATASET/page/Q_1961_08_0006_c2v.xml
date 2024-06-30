@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:22:29.554+01:00</Created>
+        <LastChange>2024-06-20T12:03:21.262+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326022" pageNr="64" tsid="175602715" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=BLESNIJJIGSEOBRMTSTWMQWT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OFSACUKLBKCDUUGKVASEOSZB" imageId="53903854"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_08_0006_c2v.jpg" imageWidth="1798" imageHeight="2471" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746069694" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718877501233_190"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718877501233_190" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1630,334 1552,334 1552,270 1630,270"/>
+            <TextLine id="line_1718186610931_2038" custom="readingOrder {index:0;}">
+                <Coords points="1573,275 1620,275 1620,325 1573,325"/>
+                <Baseline points="1573,320 1620,320"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="191,274 193,1999 1670,1990 1668,265"/>
+            <TextLine id="line_1718186614364_2043" custom="readingOrder {index:0;}">
+                <Coords points="262,416 1502,423 1502,473 262,466"/>
+                <Baseline points="262,461 1502,468"/>
+                <TextEquiv>
+                    <Unicode>L'amico giungeva, insieme a me, le sere seguenti, nasondendo nel paltoncino </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} add {offset:0; length:9;place:above;}">
+                <Coords points="1507,437 1537,431 1568,431 1598,433 1629,433 1629,403 1598,403 1568,401 1537,401 1507,407"/>
+                <Baseline points="1507,427 1537,421 1568,421 1598,423 1629,423"/>
+                <TextEquiv>
+                    <Unicode>pacchetti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186615956_2048" custom="readingOrder {index:2;} del {offset:0; length:10;rend:overstrike;}">
+                <Coords points="1515,423 1652,427 1653,477 1516,473"/>
+                <Baseline points="1516,468 1647,465"/>
+                <TextEquiv>
+                    <Unicode>cartoncini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186620201_2053" custom="readingOrder {index:3;}">
+                <Coords points="218,493 1650,493 1650,543 218,543"/>
+                <Baseline points="218,538 1650,538"/>
+                <TextEquiv>
+                    <Unicode>di cioccolata, che all'improvviso offriva alla ragazza. Dopo le consuete sugli automobi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186646083_2063" custom="readingOrder {index:4;}">
+                <Coords points="221,565 1653,571 1653,621 221,615"/>
+                <Baseline points="221,610 1653,616"/>
+                <TextEquiv>
+                    <Unicode>lini, che egli pretendeva di guidare con sfrenata imprevidenza, rischiando di spezzare il la-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186649715_2068" custom="readingOrder {index:5;}">
+                <Coords points="231,637 1651,649 1651,699 231,687"/>
+                <Baseline points="231,682 1651,694"/>
+                <TextEquiv>
+                    <Unicode>gno dallo steccato, si staccava da me. Camminava rapido, coi suoi piccoli passi, verso la signora.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186653269_2073" custom="readingOrder {index:6;}">
+                <Coords points="229,724 1653,724 1653,774 229,774"/>
+                <Baseline points="229,769 1653,769"/>
+                <TextEquiv>
+                    <Unicode>Le ricordava l'impegno della gara al tiro al bersaglio. La ragazza, un poco riluttante, si faceva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186656966_2078" custom="readingOrder {index:7;}">
+                <Coords points="235,800 229,798 1657,799 1657,849 218,847 213,844"/>
+                <Baseline points="215,840 219,842 1657,844"/>
+                <TextEquiv>
+                    <Unicode>tirare per il braccio. Poco dopo la mezzanotte, spesso, sopraggiungeva il marito. Affacciati al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;} del {offset:79; length:6;rend:overstrike;} gap {offset:79; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="213,922 283,925 354,925 424,926 495,926 566,924 636,926 707,924 777,924 848,922 919,922 989,924 1060,924 1130,924 1201,924 1272,922 1342,923 1413,922 1483,924 1554,924 1625,928 1625,877 1554,873 1483,873 1413,871 1342,872 1272,871 1201,873 1130,873 1060,873 989,873 919,871 848,871 777,873 707,873 636,875 566,873 495,875 424,875 354,874 283,874 213,871"/>
+                <Baseline points="213,905 283,908 354,908 424,909 495,909 566,907 636,909 707,907 777,907 848,905 919,905 989,907 1060,907 1130,907 1201,907 1272,905 1342,906 1413,905 1483,907 1554,907 1625,911"/>
+                <TextEquiv>
+                    <Unicode>banco del tiro, miravano, sparavano con i corti fuciletti. Il padrone del tiro        inerte, e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186661778_2083" custom="readingOrder {index:9;}">
+                <Coords points="227,946 1653,954 1653,1004 227,996"/>
+                <Baseline points="227,991 1653,999"/>
+                <TextEquiv>
+                    <Unicode>addormentato, assisteva. Io guardavo, commentavo, partecipando di rado. Una sera ci fu alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="221,1082 290,1077 360,1074 430,1073 500,1074 570,1072 640,1074 710,1075 780,1076 850,1078 920,1078 989,1080 1059,1078 1129,1077 1199,1078 1269,1077 1339,1077 1409,1076 1479,1077 1549,1076 1619,1080 1619,1029 1549,1025 1479,1026 1409,1025 1339,1026 1269,1026 1199,1027 1129,1026 1059,1027 989,1029 920,1027 850,1027 780,1025 710,1024 640,1023 570,1021 500,1023 430,1022 360,1023 290,1026 221,1031"/>
+                <Baseline points="221,1065 290,1060 360,1057 430,1056 500,1057 570,1055 640,1057 710,1058 780,1059 850,1061 920,1061 989,1063 1059,1061 1129,1060 1199,1061 1269,1060 1339,1060 1409,1059 1479,1060 1549,1059 1619,1063"/>
+                <TextEquiv>
+                    <Unicode>spalle il marito. Uomo massiccio, abbronzato, un tiro di barcaiolo del Po. Ironico, si rivolse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186665813_2088" custom="readingOrder {index:11;}">
+                <Coords points="223,1099 1651,1103 1651,1153 223,1149"/>
+                <Baseline points="223,1144 1651,1148"/>
+                <TextEquiv>
+                    <Unicode>a me: "Mi par che quel ragazzo... quel giovanotto, ci sappia fare poco... "Io mi strinsi nel-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:12;}">
+                <Coords points="217,1236 288,1231 360,1230 432,1228 504,1228 576,1228 648,1228 720,1230 792,1228 864,1226 936,1228 1007,1228 1079,1228 1151,1230 1223,1231 1295,1232 1367,1231 1439,1231 1511,1230 1583,1232 1655,1236 1655,1185 1583,1181 1511,1179 1439,1180 1367,1180 1295,1181 1223,1180 1151,1179 1079,1177 1007,1177 936,1177 864,1175 792,1177 720,1179 648,1177 576,1177 504,1177 432,1177 360,1179 288,1180 217,1185"/>
+                <Baseline points="217,1219 288,1214 360,1213 432,1211 504,1211 576,1211 648,1211 720,1213 792,1211 864,1209 936,1211 1007,1211 1079,1211 1151,1213 1223,1214 1295,1215 1367,1214 1439,1214 1511,1213 1583,1215 1655,1219"/>
+                <TextEquiv>
+                    <Unicode>le spalle. La moglie lo avvertì, e posava il fucile, ridendo."Hai proprio ragione, Roberto...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:13;}">
+                <Coords points="229,1313 299,1307 370,1303 441,1303 511,1301 582,1301 653,1301 723,1301 794,1301 865,1301 936,1303 1006,1303 1077,1303 1148,1304 1218,1303 1289,1301 1360,1303 1430,1301 1501,1303 1572,1303 1643,1307 1643,1258 1572,1254 1501,1254 1430,1252 1360,1254 1289,1252 1218,1254 1148,1255 1077,1254 1006,1254 936,1254 865,1252 794,1252 723,1252 653,1252 582,1252 511,1252 441,1254 370,1254 299,1258 229,1264"/>
+                <Baseline points="229,1297 299,1291 370,1287 441,1287 511,1285 582,1285 653,1285 723,1285 794,1285 865,1285 936,1287 1006,1287 1077,1287 1148,1288 1218,1287 1289,1285 1360,1287 1430,1285 1501,1287 1572,1287 1643,1291"/>
+                <TextEquiv>
+                    <Unicode>questo signore è poco bravo... così ho vinto la scommessa." S'attaccava alle spalle del ma-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:14;}">
+                <Coords points="221,1381 290,1381 359,1378 429,1377 498,1377 568,1377 637,1377 706,1377 776,1377 845,1379 915,1377 984,1378 1053,1380 1123,1381 1192,1377 1262,1377 1331,1377 1400,1376 1470,1377 1539,1377 1609,1381 1609,1332 1539,1328 1470,1328 1400,1327 1331,1328 1262,1328 1192,1328 1123,1332 1053,1331 984,1329 915,1328 845,1330 776,1328 706,1328 637,1328 568,1328 498,1328 429,1328 359,1329 290,1332 221,1332"/>
+                <Baseline points="221,1365 290,1365 359,1362 429,1361 498,1361 568,1361 637,1361 706,1361 776,1361 845,1363 915,1361 984,1362 1053,1364 1123,1365 1192,1361 1262,1361 1331,1361 1400,1360 1470,1361 1539,1361 1609,1365"/>
+                <TextEquiv>
+                    <Unicode>rito, mentre si volgevano per rientrare nella loro pista. L' nonno scavalcava con un salto la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:15;}">
+                <Coords points="223,1452 293,1453 363,1454 433,1454 504,1453 574,1454 644,1454 715,1456 785,1453 855,1456 926,1453 996,1454 1066,1454 1136,1454 1207,1454 1277,1456 1347,1455 1418,1454 1488,1456 1558,1456 1629,1458 1629,1407 1558,1405 1488,1405 1418,1403 1347,1404 1277,1405 1207,1403 1136,1403 1066,1403 996,1403 926,1402 855,1405 785,1402 715,1405 644,1403 574,1403 504,1402 433,1403 363,1403 293,1402 223,1401"/>
+                <Baseline points="223,1435 293,1436 363,1437 433,1437 504,1436 574,1437 644,1437 715,1439 785,1436 855,1439 926,1436 996,1437 1066,1437 1136,1437 1207,1437 1277,1439 1347,1438 1418,1437 1488,1439 1558,1439 1629,1441"/>
+                <TextEquiv>
+                    <Unicode>ringhiera bassa. Andava nella cabina per staccare la corrente. Intanto la moglie incomincia-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:16;}">
+                <Coords points="237,1527 307,1530 377,1531 447,1527 518,1527 588,1529 658,1531 729,1527 799,1527 869,1527 940,1528 1010,1527 1080,1529 1150,1530 1221,1529 1291,1529 1361,1529 1432,1532 1502,1535 1572,1538 1643,1545 1643,1496 1572,1489 1502,1486 1432,1483 1361,1480 1291,1480 1221,1480 1150,1481 1080,1480 1010,1478 940,1479 869,1478 799,1478 729,1478 658,1482 588,1480 518,1478 447,1478 377,1482 307,1481 237,1478"/>
+                <Baseline points="237,1511 307,1514 377,1515 447,1511 518,1511 588,1513 658,1515 729,1511 799,1511 869,1511 940,1512 1010,1511 1080,1513 1150,1514 1221,1513 1291,1513 1361,1513 1432,1516 1502,1519 1572,1522 1643,1529"/>
+                <TextEquiv>
+                    <Unicode>ciava a spegnere le luci d'acetilene intorno. Rise, chiamò ripetutamente il marito: -" Oggi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:17;}">
+                <Coords points="237,1613 307,1609 377,1609 447,1607 517,1605 587,1605 657,1605 727,1607 797,1607 867,1608 937,1609 1007,1609 1077,1608 1147,1608 1217,1609 1287,1609 1357,1609 1427,1607 1497,1607 1567,1608 1637,1611 1637,1562 1567,1559 1497,1558 1427,1558 1357,1560 1287,1560 1217,1560 1147,1559 1077,1559 1007,1560 937,1560 867,1559 797,1558 727,1558 657,1556 587,1556 517,1556 447,1558 377,1560 307,1560 237,1564"/>
+                <Baseline points="237,1597 307,1593 377,1593 447,1591 517,1589 587,1589 657,1589 727,1591 797,1591 867,1592 937,1593 1007,1593 1077,1592 1147,1592 1217,1593 1287,1593 1357,1593 1427,1591 1497,1591 1567,1592 1637,1595"/>
+                <TextEquiv>
+                    <Unicode>gridava, - la giornata è stata buona, quasi come di domenica... Roberto, Roberto... "Sa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:18;}">
+                <Coords points="225,1684 251,1684 277,1683 303,1682 330,1682 356,1683 382,1684 408,1682 435,1680 461,1680 487,1683 513,1684 540,1684 566,1683 592,1682 618,1684 645,1686 645,1635 618,1633 592,1631 566,1632 540,1633 513,1633 487,1632 461,1629 435,1629 408,1631 382,1633 356,1632 330,1631 303,1631 277,1632 251,1633 225,1633"/>
+                <Baseline points="225,1667 251,1667 277,1666 303,1665 330,1665 356,1666 382,1667 408,1665 435,1663 461,1663 487,1666 513,1667 540,1667 566,1666 592,1665 618,1667 645,1669"/>
+                <TextEquiv>
+                    <Unicode>lutammo, forte, la signora.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:19;}">
+                <Coords points="249,1760 318,1761 388,1758 457,1760 527,1757 596,1759 666,1756 735,1756 805,1757 874,1758 944,1758 1013,1758 1083,1758 1152,1760 1222,1758 1291,1758 1361,1760 1430,1758 1500,1761 1569,1762 1639,1760 1639,1709 1569,1711 1500,1710 1430,1707 1361,1709 1291,1707 1222,1707 1152,1709 1083,1707 1013,1707 944,1707 874,1707 805,1706 735,1705 666,1705 596,1708 527,1706 457,1709 388,1707 318,1710 249,1709"/>
+                <Baseline points="249,1743 318,1744 388,1741 457,1743 527,1740 596,1742 666,1739 735,1739 805,1740 874,1741 944,1741 1013,1741 1083,1741 1152,1743 1222,1741 1291,1741 1361,1743 1430,1741 1500,1744 1569,1745 1639,1743"/>
+                <TextEquiv>
+                    <Unicode>Con l'amico, passo passo, uscimmo dalla piazza. Teneva affondate le mani nel cappotto. Il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186677704_2096" custom="readingOrder {index:20;}">
+                <Coords points="217,1779 685,1785 684,1835 216,1829"/>
+                <Baseline points="216,1824 684,1830"/>
+                <TextEquiv>
+                    <Unicode>cappello, come usava, gli era sceso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186679463_2101" custom="readingOrder {index:21;} add {offset:0; length:5;place:above;}">
+                <Coords points="688,1756 770,1756 770,1806 688,1806"/>
+                <Baseline points="688,1801 770,1801"/>
+                <TextEquiv>
+                    <Unicode>dalla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718186682880_2106" custom="readingOrder {index:22;} del {offset:0; length:5;rend:overstrike;} gap {offset:0; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="698,1779 1614,1779 1614,1829 698,1829"/>
+                <Baseline points="698,1824 1614,1824"/>
+                <TextEquiv>
+                    <Unicode>      nuca verso il collo. Alla fine del fanale osservai il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:23;}">
+                <Coords points="217,1911 286,1911 356,1910 426,1911 495,1909 565,1909 635,1907 704,1907 774,1906 844,1905 914,1905 983,1907 1053,1907 1123,1907 1192,1908 1262,1909 1332,1911 1401,1912 1471,1913 1541,1917 1611,1919 1611,1870 1541,1868 1471,1864 1401,1863 1332,1862 1262,1860 1192,1859 1123,1858 1053,1858 983,1858 914,1856 844,1856 774,1857 704,1858 635,1858 565,1860 495,1860 426,1862 356,1861 286,1862 217,1862"/>
+                <Baseline points="217,1895 286,1895 356,1894 426,1895 495,1893 565,1893 635,1891 704,1891 774,1890 844,1889 914,1889 983,1891 1053,1891 1123,1891 1192,1892 1262,1893 1332,1895 1401,1896 1471,1897 1541,1901 1611,1903"/>
+                <TextEquiv>
+                    <Unicode>malumore stampato sul viso di lui. Volle esagerarlo. Ostentando, quasi, una gelosia offesa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:24;}">
+                <Coords points="227,1990 296,1984 366,1984 435,1985 505,1984 575,1984 644,1987 714,1986 783,1986 853,1986 923,1988 992,1986 1062,1988 1131,1987 1201,1986 1271,1987 1340,1988 1410,1990 1479,1988 1549,1987 1619,1988 1619,1937 1549,1936 1479,1937 1410,1939 1340,1937 1271,1936 1201,1935 1131,1936 1062,1937 992,1935 923,1937 853,1935 783,1935 714,1935 644,1936 575,1933 505,1933 435,1934 366,1933 296,1933 227,1939"/>
+                <Baseline points="227,1973 296,1967 366,1967 435,1968 505,1967 575,1967 644,1970 714,1969 783,1969 853,1969 923,1971 992,1969 1062,1971 1131,1970 1201,1969 1271,1970 1340,1971 1410,1973 1479,1971 1549,1970 1619,1971"/>
+                <TextEquiv>
+                    <Unicode>provocata. Costruendosi appena, trovava gli insulti più puerili: "... suonavo, cosa crede</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>L'amico giungeva, insieme a me, le sere seguenti, nasondendo nel paltoncino &#13;
+pacchetti&#13;
+cartoncini&#13;
+di cioccolata, che all'improvviso offriva alla ragazza. Dopo le consuete sugli automobi-&#13;
+lini, che egli pretendeva di guidare con sfrenata imprevidenza, rischiando di spezzare il la-&#13;
+gno dallo steccato, si staccava da me. Camminava rapido, coi suoi piccoli passi, verso la signora.&#13;
+Le ricordava l'impegno della gara al tiro al bersaglio. La ragazza, un poco riluttante, si faceva&#13;
+tirare per il braccio. Poco dopo la mezzanotte, spesso, sopraggiungeva il marito. Affacciati al&#13;
+banco del tiro, miravano, sparavano con i corti fuciletti. Il padrone del tiro        inerte, e&#13;
+addormentato, assisteva. Io guardavo, commentavo, partecipando di rado. Una sera ci fu alle&#13;
+spalle il marito. Uomo massiccio, abbronzato, un tiro di barcaiolo del Po. Ironico, si rivolse&#13;
+a me: "Mi par che quel ragazzo... quel giovanotto, ci sappia fare poco... "Io mi strinsi nel-&#13;
+le spalle. La moglie lo avvertì, e posava il fucile, ridendo."Hai proprio ragione, Roberto...&#13;
+questo signore è poco bravo... così ho vinto la scommessa." S'attaccava alle spalle del ma-&#13;
+rito, mentre si volgevano per rientrare nella loro pista. L' nonno scavalcava con un salto la&#13;
+ringhiera bassa. Andava nella cabina per staccare la corrente. Intanto la moglie incomincia-&#13;
+ciava a spegnere le luci d'acetilene intorno. Rise, chiamò ripetutamente il marito: -" Oggi,&#13;
+gridava, - la giornata è stata buona, quasi come di domenica... Roberto, Roberto... "Sa-&#13;
+lutammo, forte, la signora.&#13;
+Con l'amico, passo passo, uscimmo dalla piazza. Teneva affondate le mani nel cappotto. Il&#13;
+cappello, come usava, gli era sceso&#13;
+dalla&#13;
+      nuca verso il collo. Alla fine del fanale osservai il&#13;
+malumore stampato sul viso di lui. Volle esagerarlo. Ostentando, quasi, una gelosia offesa&#13;
+provocata. Costruendosi appena, trovava gli insulti più puerili: "... suonavo, cosa crede</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T17:16:39.078+01:00</Created>
+        <LastChange>2024-06-20T11:42:55.723+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325503" pageNr="52" tsid="175603534" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=QAOEDMRMPIRNLDAKWLAAFIRG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RQEPCQQULNNOBPQSYUUGNHQN" imageId="53903823"/>
+    </Metadata>
+    <Page imageFilename="Q_1961_07_0004_c1v.jpg" imageWidth="1798" imageHeight="2476" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746067373" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718178847441_189"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718178847441_189" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1559,271 1559,329 1625,329 1625,271"/>
+            <TextLine id="line_1718178847571_192" custom="readingOrder {index:0;}">
+                <Coords points="1567,271 1625,280 1617,329 1559,320"/>
+                <Baseline points="1560,315 1618,324"/>
+                <TextEquiv>
+                    <Unicode>2 :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2 :</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="195,405 195,2056 1663,2048 1663,397"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} add {offset:0; length:9;place:above;}">
+                <Coords points="206,457 235,455 264,457 293,459 322,459 322,420 293,420 264,418 235,416 206,418"/>
+                <Baseline points="206,444 235,442 264,444 293,446 322,446"/>
+                <TextEquiv>
+                    <Unicode>Ungaretti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718178860003_200" custom="readingOrder {index:1;} del {offset:36; length:1;rend:overstrike;} gap {offset:36; length:0;quantity:1; unit:character; reason:illegible;}">
+                <Coords points="213,462 791,457 791,507 213,512"/>
+                <Baseline points="213,507 791,502"/>
+                <TextEquiv>
+                    <Unicode>dimostri l'importanza, per lui, che  </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718178862020_205" custom="readingOrder {index:2;} add {offset:0; length:2;place:above;}">
+                <Coords points="777,416 818,425 807,474 766,465"/>
+                <Baseline points="767,460 808,469"/>
+                <TextEquiv>
+                    <Unicode>ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718178866727_210" custom="readingOrder {index:3;}">
+                <Coords points="799,456 1619,458 1619,508 799,506"/>
+                <Baseline points="799,501 1619,503"/>
+                <TextEquiv>
+                    <Unicode>sempre l'incontro visuale della sua mente con gli oggetti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="202,592 272,589 343,589 413,586 484,587 554,587 625,586 695,585 766,584 836,582 907,583 977,582 1048,582 1118,582 1189,582 1259,580 1330,580 1400,580 1471,583 1541,583 1612,586 1612,537 1541,534 1471,534 1400,531 1330,531 1259,531 1189,533 1118,533 1048,533 977,533 907,534 836,533 766,535 695,536 625,537 554,538 484,538 413,537 343,540 272,540 202,543"/>
+                <Baseline points="202,576 272,573 343,573 413,570 484,571 554,571 625,570 695,569 766,568 836,566 907,567 977,566 1048,566 1118,566 1189,566 1259,564 1330,564 1400,564 1471,567 1541,567 1612,570"/>
+                <TextEquiv>
+                    <Unicode>materiali del mondo esterno. Chiunque potrà così avvertire come il ritmo della  frase, cadenza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="206,668 276,666 347,666 417,664 488,664 558,665 629,662 699,662 770,662 840,662 911,660 981,660 1052,658 1122,658 1193,660 1263,660 1334,659 1404,658 1475,658 1545,657 1616,660 1616,611 1545,608 1475,609 1404,609 1334,610 1263,611 1193,611 1122,609 1052,609 981,611 911,611 840,613 770,613 699,613 629,613 558,616 488,615 417,615 347,617 276,617 206,619"/>
+                <Baseline points="206,652 276,650 347,650 417,648 488,648 558,649 629,646 699,646 770,646 840,646 911,644 981,644 1052,642 1122,642 1193,644 1263,644 1334,643 1404,642 1475,642 1545,641 1616,644"/>
+                <TextEquiv>
+                    <Unicode>sintattica e mondi d'immagini, in un tale genere di prosa, corrispondano alla natura: al na_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="210,742 255,743 300,744 345,742 391,742 436,741 481,740 527,739 572,738 617,738 663,738 708,738 753,738 798,738 844,736 889,736 934,736 980,735 1025,734 1070,736 1116,738 1116,689 1070,687 1025,685 980,686 934,687 889,687 844,687 798,689 753,689 708,689 663,689 617,689 572,689 527,690 481,691 436,692 391,693 345,693 300,695 255,694 210,693"/>
+                <Baseline points="210,726 255,727 300,728 345,726 391,726 436,725 481,724 527,723 572,722 617,722 663,722 708,722 753,722 798,722 844,720 889,720 934,720 980,719 1025,718 1070,720 1116,722"/>
+                <TextEquiv>
+                    <Unicode>scere e fluire della parola fisica, della voce di Ungaretti.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718178883092_218" custom="readingOrder {index:7;}">
+                <Coords points="214,765 1598,749 1599,799 215,815"/>
+                <Baseline points="215,810 1599,794"/>
+                <TextEquiv>
+                    <Unicode>Come chiameremo dunque la prosa di Giuseppe Ungaretti che l'editore A. Mondadori</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:8;} add {offset:0; length:14;place:above;}">
+                <Coords points="1406,748 1431,746 1457,746 1483,747 1509,748 1534,749 1560,750 1586,752 1612,754 1638,756 1638,720 1612,718 1586,716 1560,714 1534,713 1509,712 1483,711 1457,710 1431,710 1406,712"/>
+                <Baseline points="1406,736 1431,734 1457,734 1483,735 1509,736 1534,737 1560,738 1586,740 1612,742 1638,744"/>
+                <TextEquiv>
+                    <Unicode>(Milano, 1961)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:9;} hi {offset:49; length:17;rend:underline;} gap {offset:84; length:0; continued:true;quantity:12; unit:character; reason:illegible;}">
+                <Coords points="202,898 273,896 344,893 415,890 486,890 558,890 629,890 700,890 771,890 842,890 914,890 985,886 1056,886 1127,886 1198,886 1270,886 1341,885 1412,884 1483,882 1554,883 1626,882 1626,833 1554,834 1483,833 1412,835 1341,836 1270,837 1198,837 1127,837 1056,837 985,837 914,841 842,841 771,841 700,841 629,841 558,841 486,841 415,841 344,844 273,847 202,849"/>
+                <Baseline points="202,882 273,880 344,877 415,874 486,874 558,874 629,874 700,874 771,874 842,874 914,874 985,870 1056,870 1127,870 1198,870 1270,870 1341,869 1412,868 1483,866 1554,867 1626,866"/>
+                <TextEquiv>
+                    <Unicode>ha pubblicato col titolo, così ungarettiano di: "Il deserto e dopo"? Diremo, con l'       </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718178888109_223" custom="readingOrder {index:10;} gap {offset:0; length:0; continued:true;quantity:12; unit:character; reason:illegible;}">
+                <Coords points="205,917 1639,909 1639,959 205,967"/>
+                <Baseline points="205,962 1639,954"/>
+                <TextEquiv>
+                    <Unicode>       : prose di viaggio e saggi. I saggi, verranno inseguito. In quanto ai viaggi: gli iti_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:11;}">
+                <Coords points="208,1046 280,1048 352,1046 424,1046 496,1044 568,1044 640,1044 712,1046 784,1044 856,1042 928,1040 1000,1040 1072,1040 1144,1040 1216,1038 1288,1036 1360,1035 1432,1033 1504,1036 1576,1038 1648,1044 1648,995 1576,989 1504,987 1432,984 1360,986 1288,987 1216,989 1144,991 1072,991 1000,991 928,991 856,993 784,995 712,997 640,995 568,995 496,995 424,997 352,997 280,999 208,997"/>
+                <Baseline points="208,1030 280,1032 352,1030 424,1030 496,1028 568,1028 640,1028 712,1030 784,1028 856,1026 928,1024 1000,1024 1072,1024 1144,1024 1216,1022 1288,1020 1360,1019 1432,1017 1504,1020 1576,1022 1648,1028"/>
+                <TextEquiv>
+                    <Unicode>nerari di Ungaretti, è evidente, seguono un ideale, intimo, inevitabile e prestabilito per_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:12;}">
+                <Coords points="206,1128 277,1128 348,1125 419,1122 490,1120 562,1120 633,1120 704,1118 775,1117 846,1116 918,1116 989,1115 1060,1116 1131,1115 1202,1113 1274,1112 1345,1112 1416,1110 1487,1110 1558,1109 1630,1112 1630,1063 1558,1060 1487,1061 1416,1061 1345,1063 1274,1063 1202,1064 1131,1066 1060,1067 989,1066 918,1067 846,1067 775,1068 704,1069 633,1071 562,1071 490,1071 419,1073 348,1076 277,1079 206,1079"/>
+                <Baseline points="206,1112 277,1112 348,1109 419,1106 490,1104 562,1104 633,1104 704,1102 775,1101 846,1100 918,1100 989,1099 1060,1100 1131,1099 1202,1097 1274,1096 1345,1096 1416,1094 1487,1094 1558,1093 1630,1096"/>
+                <TextEquiv>
+                    <Unicode>corso, a cui lo scrittore è portato, come il destino e il sangue portano l'uomo per mano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:13;}">
+                <Coords points="210,1200 281,1198 353,1198 425,1195 497,1196 569,1194 640,1194 712,1194 784,1193 856,1192 928,1190 999,1191 1071,1192 1143,1190 1215,1190 1287,1188 1358,1187 1430,1186 1502,1186 1574,1186 1646,1188 1646,1139 1574,1137 1502,1137 1430,1137 1358,1138 1287,1139 1215,1141 1143,1141 1071,1143 999,1142 928,1141 856,1143 784,1144 712,1145 640,1145 569,1145 497,1147 425,1146 353,1149 281,1149 210,1151"/>
+                <Baseline points="210,1184 281,1182 353,1182 425,1179 497,1180 569,1178 640,1178 712,1178 784,1177 856,1176 928,1174 999,1175 1071,1176 1143,1174 1215,1174 1287,1172 1358,1171 1430,1170 1502,1170 1574,1170 1646,1172"/>
+                <TextEquiv>
+                    <Unicode>Sono le vie, che egli ritrova, tracciate e scavate, dalla sua vita, dalla nascita e destinazione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:14;}">
+                <Coords points="214,1278 284,1275 354,1276 425,1272 495,1271 566,1270 636,1270 706,1269 777,1268 847,1266 918,1266 988,1266 1058,1266 1129,1267 1199,1266 1270,1265 1340,1264 1410,1264 1481,1262 1551,1262 1622,1264 1622,1215 1551,1213 1481,1213 1410,1215 1340,1215 1270,1216 1199,1217 1129,1218 1058,1217 988,1217 918,1217 847,1217 777,1219 706,1220 636,1221 566,1221 495,1222 425,1223 354,1227 284,1226 214,1229"/>
+                <Baseline points="214,1262 284,1259 354,1260 425,1256 495,1255 566,1254 636,1254 706,1253 777,1252 847,1250 918,1250 988,1250 1058,1250 1129,1251 1199,1250 1270,1249 1340,1248 1410,1248 1481,1246 1551,1246 1622,1248"/>
+                <TextEquiv>
+                    <Unicode>ad una poesi, che è solamente, il chiarimento e la ragione della vita, che gli era riservata.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718178911341_230" custom="readingOrder {index:15;}">
+                <Coords points="211,1297 1651,1289 1651,1339 211,1347"/>
+                <Baseline points="211,1342 1651,1334"/>
+                <TextEquiv>
+                    <Unicode>Ungaretti si dirige al sud e ad oriente, al nord e a occidente. Ma una visione, un mirag_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:16;}">
+                <Coords points="220,1426 290,1420 361,1418 432,1416 502,1416 573,1414 644,1414 714,1414 785,1412 856,1412 927,1414 997,1416 1068,1414 1139,1413 1209,1412 1280,1410 1351,1409 1421,1408 1492,1408 1563,1408 1634,1412 1634,1382 1563,1378 1492,1378 1421,1378 1351,1379 1280,1380 1209,1382 1139,1383 1068,1384 997,1386 927,1384 856,1382 785,1382 714,1384 644,1384 573,1384 502,1386 432,1386 361,1388 290,1390 220,1396"/>
+                <Baseline points="220,1416 290,1410 361,1408 432,1406 502,1406 573,1404 644,1404 714,1404 785,1402 856,1402 927,1404 997,1406 1068,1404 1139,1403 1209,1402 1280,1400 1351,1399 1421,1398 1492,1398 1563,1398 1634,1402"/>
+                <TextEquiv>
+                    <Unicode>gio caro e ineluttabile, lo attraggono verso il sud e l'oriente. Il lucchese Ungaretti è</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718178922010_238" custom="readingOrder {index:17;}">
+                <Coords points="213,1443 297,1443 297,1493 213,1493"/>
+                <Baseline points="213,1488 297,1488"/>
+                <TextEquiv>
+                    <Unicode>nato </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:18;} add {offset:0; length:14;place:above;}">
+                <Coords points="220,1458 245,1456 270,1454 296,1452 321,1452 346,1451 372,1449 397,1448 422,1448 448,1450 448,1420 422,1418 397,1418 372,1419 346,1421 321,1422 296,1422 270,1424 245,1426 220,1428"/>
+                <Baseline points="220,1448 245,1446 270,1444 296,1442 321,1442 346,1441 372,1439 397,1438 422,1438 448,1440"/>
+                <TextEquiv>
+                    <Unicode>ad Alessandris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1718178924907_243" custom="readingOrder {index:19;}">
+                <Coords points="305,1443 1653,1441 1653,1491 305,1493"/>
+                <Baseline points="305,1488 1653,1486"/>
+                <TextEquiv>
+                    <Unicode>d'Egitto. "Parto per l'Egitto!" dice all'apertura  del primo foglio di viaggio. "Ci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:20;}">
+                <Coords points="220,1576 289,1576 359,1576 429,1578 499,1576 569,1576 638,1575 708,1573 778,1572 848,1569 918,1570 987,1568 1057,1568 1127,1569 1197,1570 1267,1570 1336,1572 1406,1570 1476,1570 1546,1568 1616,1568 1616,1519 1546,1519 1476,1521 1406,1521 1336,1523 1267,1521 1197,1521 1127,1520 1057,1519 987,1519 918,1521 848,1520 778,1523 708,1524 638,1526 569,1527 499,1527 429,1529 359,1527 289,1527 220,1527"/>
+                <Baseline points="220,1560 289,1560 359,1560 429,1562 499,1560 569,1560 638,1559 708,1557 778,1556 848,1553 918,1554 987,1552 1057,1552 1127,1553 1197,1554 1267,1554 1336,1556 1406,1554 1476,1554 1546,1552 1616,1552"/>
+                <TextEquiv>
+                    <Unicode>sono nato, in una notte, mi dissero, burrascosa. Credo che il tempo, per me, non avrà</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:21;}">
+                <Coords points="210,1654 281,1654 353,1652 424,1650 496,1648 567,1646 639,1647 710,1646 782,1646 853,1646 925,1646 996,1646 1068,1646 1139,1648 1211,1648 1282,1648 1354,1648 1425,1646 1497,1646 1568,1646 1640,1648 1640,1599 1568,1597 1497,1597 1425,1597 1354,1599 1282,1599 1211,1599 1139,1599 1068,1597 996,1597 925,1597 853,1597 782,1597 710,1597 639,1598 567,1597 496,1599 424,1601 353,1603 281,1605 210,1605"/>
+                <Baseline points="210,1638 281,1638 353,1636 424,1634 496,1632 567,1630 639,1631 710,1630 782,1630 853,1630 925,1630 996,1630 1068,1630 1139,1632 1211,1632 1282,1632 1354,1632 1425,1630 1497,1630 1568,1630 1640,1632"/>
+                <TextEquiv>
+                    <Unicode>mai voglia di farsi buono._ Ho vissuto in Egitto i primi vent'anni, e mi sono diven_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:22;}">
+                <Coords points="208,1736 277,1734 347,1733 416,1728 486,1726 555,1724 625,1724 694,1724 764,1724 833,1725 903,1726 972,1724 1042,1725 1111,1724 1181,1724 1250,1724 1320,1723 1389,1722 1459,1720 1528,1720 1598,1716 1598,1667 1528,1671 1459,1671 1389,1673 1320,1674 1250,1675 1181,1675 1111,1675 1042,1676 972,1675 903,1677 833,1676 764,1675 694,1675 625,1675 555,1675 486,1677 416,1679 347,1684 277,1685 208,1687"/>
+                <Baseline points="208,1720 277,1718 347,1717 416,1712 486,1710 555,1708 625,1708 694,1708 764,1708 833,1709 903,1710 972,1708 1042,1709 1111,1708 1181,1708 1250,1708 1320,1707 1389,1706 1459,1704 1528,1704 1598,1700"/>
+                <TextEquiv>
+                    <Unicode>tati, in più di vent'anni lontano, una bolla di sapone, una nuvoletta iridescente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:23;}">
+                <Coords points="210,1808 281,1804 352,1804 424,1804 495,1802 567,1802 638,1802 709,1802 781,1800 852,1798 924,1798 995,1796 1066,1798 1138,1795 1209,1795 1281,1796 1352,1794 1423,1794 1495,1794 1566,1795 1638,1796 1638,1747 1566,1746 1495,1745 1423,1745 1352,1745 1281,1747 1209,1746 1138,1746 1066,1749 995,1747 924,1749 852,1749 781,1751 709,1753 638,1753 567,1753 495,1753 424,1755 352,1755 281,1755 210,1759"/>
+                <Baseline points="210,1792 281,1788 352,1788 424,1788 495,1786 567,1786 638,1786 709,1786 781,1784 852,1782 924,1782 995,1780 1066,1782 1138,1779 1209,1779 1281,1780 1352,1778 1423,1778 1495,1778 1566,1779 1638,1780"/>
+                <TextEquiv>
+                    <Unicode>con l'interna vaghezza di luoghi e di persone nel trattenuto dissolversi d'un giorno.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:24;}">
+                <Coords points="210,1882 281,1880 352,1880 423,1881 494,1878 565,1878 636,1876 707,1876 778,1873 849,1872 921,1871 992,1872 1063,1870 1134,1870 1205,1870 1276,1870 1347,1870 1418,1870 1489,1868 1560,1867 1632,1870 1632,1821 1560,1818 1489,1819 1418,1821 1347,1821 1276,1821 1205,1821 1134,1821 1063,1821 992,1823 921,1822 849,1823 778,1824 707,1827 636,1827 565,1829 494,1829 423,1832 352,1831 281,1831 210,1833"/>
+                <Baseline points="210,1866 281,1864 352,1864 423,1865 494,1862 565,1862 636,1860 707,1860 778,1857 849,1856 921,1855 992,1856 1063,1854 1134,1854 1205,1854 1276,1854 1347,1854 1418,1854 1489,1852 1560,1851 1632,1854"/>
+                <TextEquiv>
+                    <Unicode>Carità finale della memoria!" L'interpunzione esclamativa nella grammatica di Un_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:25;} del {offset:74; length:1;rend:overstrike;} gap {offset:74; length:0;quantity:1; unit:character; reason:illegible;}">
+                <Coords points="218,1962 289,1956 360,1956 431,1953 503,1952 574,1952 645,1952 717,1952 788,1951 859,1950 931,1950 1002,1948 1073,1946 1144,1946 1216,1946 1287,1944 1358,1943 1430,1944 1501,1942 1572,1943 1644,1946 1644,1897 1572,1894 1501,1893 1430,1895 1358,1894 1287,1895 1216,1897 1144,1897 1073,1897 1002,1899 931,1901 859,1901 788,1902 717,1903 645,1903 574,1903 503,1903 431,1904 360,1907 289,1907 218,1913"/>
+                <Baseline points="218,1946 289,1940 360,1940 431,1937 503,1936 574,1936 645,1936 717,1936 788,1935 859,1934 931,1934 1002,1932 1073,1930 1144,1930 1216,1930 1287,1928 1358,1927 1430,1928 1501,1926 1572,1927 1644,1930"/>
+                <TextEquiv>
+                    <Unicode>garetti ha, da un certo momento, una ragione di fatalità. L'esclamazione (  il "grido")</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_44" custom="readingOrder {index:26;}">
+                <Coords points="216,2038 287,2032 358,2030 429,2028 500,2028 571,2027 642,2026 713,2028 784,2027 855,2026 926,2024 997,2022 1068,2022 1139,2024 1210,2024 1281,2024 1352,2023 1423,2022 1494,2021 1565,2022 1636,2026 1636,1977 1565,1973 1494,1972 1423,1973 1352,1974 1281,1975 1210,1975 1139,1975 1068,1973 997,1973 926,1975 855,1977 784,1978 713,1979 642,1977 571,1978 500,1979 429,1979 358,1981 287,1983 216,1989"/>
+                <Baseline points="216,2022 287,2016 358,2014 429,2012 500,2012 571,2011 642,2010 713,2012 784,2011 855,2010 926,2008 997,2006 1068,2006 1139,2008 1210,2008 1281,2008 1352,2007 1423,2006 1494,2005 1565,2006 1636,2010"/>
+                <TextEquiv>
+                    <Unicode>è nel tono della sua vita umana. (Da ricordare, che al principio del suo scrivere in prosa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ungaretti&#13;
+dimostri l'importanza, per lui, che  &#13;
+ha&#13;
+sempre l'incontro visuale della sua mente con gli oggetti&#13;
+materiali del mondo esterno. Chiunque potrà così avvertire come il ritmo della  frase, cadenza&#13;
+sintattica e mondi d'immagini, in un tale genere di prosa, corrispondano alla natura: al na_&#13;
+scere e fluire della parola fisica, della voce di Ungaretti.&#13;
+Come chiameremo dunque la prosa di Giuseppe Ungaretti che l'editore A. Mondadori&#13;
+(Milano, 1961)&#13;
+ha pubblicato col titolo, così ungarettiano di: "Il deserto e dopo"? Diremo, con l'       &#13;
+       : prose di viaggio e saggi. I saggi, verranno inseguito. In quanto ai viaggi: gli iti_&#13;
+nerari di Ungaretti, è evidente, seguono un ideale, intimo, inevitabile e prestabilito per_&#13;
+corso, a cui lo scrittore è portato, come il destino e il sangue portano l'uomo per mano.&#13;
+Sono le vie, che egli ritrova, tracciate e scavate, dalla sua vita, dalla nascita e destinazione&#13;
+ad una poesi, che è solamente, il chiarimento e la ragione della vita, che gli era riservata.&#13;
+Ungaretti si dirige al sud e ad oriente, al nord e a occidente. Ma una visione, un mirag_&#13;
+gio caro e ineluttabile, lo attraggono verso il sud e l'oriente. Il lucchese Ungaretti è&#13;
+nato &#13;
+ad Alessandris&#13;
+d'Egitto. "Parto per l'Egitto!" dice all'apertura  del primo foglio di viaggio. "Ci&#13;
+sono nato, in una notte, mi dissero, burrascosa. Credo che il tempo, per me, non avrà&#13;
+mai voglia di farsi buono._ Ho vissuto in Egitto i primi vent'anni, e mi sono diven_&#13;
+tati, in più di vent'anni lontano, una bolla di sapone, una nuvoletta iridescente&#13;
+con l'interna vaghezza di luoghi e di persone nel trattenuto dissolversi d'un giorno.&#13;
+Carità finale della memoria!" L'interpunzione esclamativa nella grammatica di Un_&#13;
+garetti ha, da un certo momento, una ragione di fatalità. L'esclamazione (  il "grido")&#13;
+è nel tono della sua vita umana. (Da ricordare, che al principio del suo scrivere in prosa,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:37:29.062+02:00</Created>
+        <LastChange>2024-06-21T10:21:02.039+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326058" pageNr="115" tsid="175603585" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=IXSLKLXKKZEKPCYCRYIHOWXV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TMDUVBZNUAECAHVBIVJRVHPJ" imageId="54316463"/>
+    </Metadata>
+    <Page imageFilename="Q_12_1957_0009_c4r.jpg" imageWidth="1798" imageHeight="2523" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746080126" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="139,521 139,2100 1597,2100 1597,521"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="171,572 239,574 308,574 377,576 446,576 515,576 583,577 652,574 721,576 790,577 859,578 927,576 996,575 1065,574 1134,572 1203,572 1271,572 1340,572 1409,573 1478,572 1547,576 1547,525 1478,521 1409,522 1340,521 1271,521 1203,521 1134,521 1065,523 996,524 927,525 859,527 790,526 721,525 652,523 583,526 515,525 446,525 377,525 308,523 239,523 171,521"/>
+                <Baseline points="171,555 239,557 308,557 377,559 446,559 515,559 583,560 652,557 721,559 790,560 859,561 927,559 996,558 1065,557 1134,555 1203,555 1271,555 1340,555 1409,556 1478,555 1547,559"/>
+                <TextEquiv>
+                    <Unicode>Dietro il banco, si muovevano il padrone e sua moglie, occupati nelle loro armoniose mansioni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="147,652 218,652 290,650 362,652 433,652 505,650 577,649 648,648 720,648 792,650 864,652 935,650 1007,650 1079,649 1150,647 1222,650 1294,648 1365,648 1437,648 1509,648 1581,648 1581,597 1509,597 1437,597 1365,597 1294,597 1222,599 1150,596 1079,598 1007,599 935,599 864,601 792,599 720,597 648,597 577,598 505,599 433,601 362,601 290,599 218,601 147,601"/>
+                <Baseline points="147,635 218,635 290,633 362,635 433,635 505,633 577,632 648,631 720,631 792,633 864,635 935,633 1007,633 1079,632 1150,630 1222,633 1294,631 1365,631 1437,631 1509,631 1581,631"/>
+                <TextEquiv>
+                    <Unicode>Al padrone era riservato di tagliare la bocca di dama, deposta su di un tavoletto di legno. Il taglo av-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="147,730 218,730 290,730 362,732 434,732 506,730 577,730 649,728 721,730 793,729 865,728 936,727 1008,726 1080,724 1152,722 1224,722 1295,722 1367,722 1439,722 1511,722 1583,726 1583,675 1511,671 1439,671 1367,671 1295,671 1224,671 1152,671 1080,673 1008,675 936,676 865,677 793,678 721,679 649,677 577,679 506,679 434,681 362,681 290,679 218,679 147,679"/>
+                <Baseline points="147,713 218,713 290,713 362,715 434,715 506,713 577,713 649,711 721,713 793,712 865,711 936,710 1008,709 1080,707 1152,705 1224,705 1295,705 1367,705 1439,705 1511,705 1583,709"/>
+                <TextEquiv>
+                    <Unicode>veniva, accuratamente, e prese le giuste misure, affondando un coltello sottile, affilatissimo, che correva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716113818701_160" custom="readingOrder {index:3;} del {offset:33; length:5;rend:overwritten;}">
+                <Coords points="143,748 738,744 738,794 143,798"/>
+                <Baseline points="143,793 738,789"/>
+                <TextEquiv>
+                    <Unicode>stando appoggiato ad una riga di ferro.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716113822377_165" custom="readingOrder {index:4;} add {offset:0; length:5;place:above;}">
+                <Coords points="644,708 722,708 722,758 644,758"/>
+                <Baseline points="644,753 722,753"/>
+                <TextEquiv>
+                    <Unicode>legno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716113832794_170" custom="readingOrder {index:5;}">
+                <Coords points="749,741 1584,746 1584,796 749,791"/>
+                <Baseline points="749,786 1584,791"/>
+                <TextEquiv>
+                    <Unicode>Intanto, la moglie, seduta, silenziosa sopra il suo mati-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:6;}">
+                <Coords points="147,884 218,879 290,878 362,876 434,877 506,878 577,877 649,876 721,876 793,878 865,878 936,878 1008,878 1080,878 1152,875 1224,876 1295,874 1367,874 1439,872 1511,873 1583,872 1583,821 1511,822 1439,821 1367,823 1295,823 1224,825 1152,824 1080,827 1008,827 936,827 865,827 793,827 721,825 649,825 577,826 506,827 434,826 362,825 290,827 218,828 147,833"/>
+                <Baseline points="147,867 218,862 290,861 362,859 434,860 506,861 577,860 649,859 721,859 793,861 865,861 936,861 1008,861 1080,861 1152,858 1224,859 1295,857 1367,857 1439,855 1511,856 1583,855"/>
+                <TextEquiv>
+                    <Unicode>nè di cotone bianco, serviva a qualcuno, cavandole da una scansia, altre delicatezze, confetti,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716114103922_232" custom="readingOrder {index:7;}">
+                <Coords points="153,896 1476,900 1476,950 153,946"/>
+                <Baseline points="153,941 1476,945"/>
+                <TextEquiv>
+                    <Unicode>palline di zucchero, che cavava da lucidi vasi di vetro. Il Fiacchi, nei suoi ricordi bolognesi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716114106325_237" custom="readingOrder {index:8;}">
+                <Coords points="1479,869 1514,871 1511,921 1476,919"/>
+                <Baseline points="1476,914 1511,916"/>
+                <TextEquiv>
+                    <Unicode>ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716114109944_242" custom="readingOrder {index:9;}">
+                <Coords points="1481,896 1598,898 1597,948 1480,946"/>
+                <Baseline points="1480,941 1597,943"/>
+                <TextEquiv>
+                    <Unicode>una pa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:10;} hi {offset:57; length:34; continued:true;rend:underline;}">
+                <Coords points="161,1030 231,1032 301,1030 371,1032 441,1033 511,1032 581,1031 651,1029 721,1028 791,1028 862,1028 932,1028 1002,1026 1072,1026 1142,1024 1212,1025 1282,1025 1352,1024 1422,1023 1492,1024 1563,1028 1563,977 1492,973 1422,972 1352,973 1282,974 1212,974 1142,973 1072,975 1002,975 932,977 862,977 791,977 721,977 651,978 581,980 511,981 441,982 371,981 301,979 231,981 161,979"/>
+                <Baseline points="161,1013 231,1015 301,1013 371,1015 441,1016 511,1015 581,1014 651,1012 721,1011 791,1011 862,1011 932,1011 1002,1009 1072,1009 1142,1007 1212,1008 1282,1008 1352,1007 1422,1006 1492,1007 1563,1011"/>
+                <TextEquiv>
+                    <Unicode>gina, di grata poesia, da questio luogo, che incomincia: A vultar zò sùbit dalla va del Can</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:11;} hi {offset:0; length:17; continued:true;rend:underline;} hi {offset:51; length:38;rend:underline;}">
+                <Coords points="165,1104 236,1108 308,1108 379,1106 451,1106 523,1106 594,1107 666,1104 737,1104 809,1104 881,1104 952,1102 1024,1103 1095,1102 1167,1102 1239,1100 1310,1100 1382,1100 1453,1100 1525,1099 1597,1104 1597,1053 1525,1048 1453,1049 1382,1049 1310,1049 1239,1049 1167,1051 1095,1051 1024,1052 952,1051 881,1053 809,1053 737,1053 666,1053 594,1056 523,1055 451,1055 379,1055 308,1057 236,1057 165,1053"/>
+                <Baseline points="165,1087 236,1091 308,1091 379,1089 451,1089 523,1089 594,1090 666,1087 737,1087 809,1087 881,1087 952,1085 1024,1086 1095,1085 1167,1085 1239,1083 1310,1083 1382,1083 1453,1083 1525,1082 1597,1087"/>
+                <TextEquiv>
+                    <Unicode>a j era una porta..." E continua il suo quadro:".. nelle scanzie lungo la parete vi erano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:12;} hi {offset:0; length:42;rend:underline;} hi {offset:44; length:18;rend:underline;} hi {offset:64; length:14;rend:underline;} hi {offset:80; length:11; continued:true;rend:underline;}">
+                <Coords points="155,1186 227,1183 299,1182 371,1182 443,1180 515,1180 587,1178 659,1179 731,1178 803,1178 876,1182 948,1181 1020,1180 1092,1180 1164,1180 1236,1178 1308,1178 1380,1178 1452,1176 1524,1178 1597,1182 1597,1131 1524,1127 1452,1125 1380,1127 1308,1127 1236,1127 1164,1129 1092,1129 1020,1129 948,1130 876,1131 803,1127 731,1127 659,1128 587,1127 515,1129 443,1129 371,1131 299,1131 227,1132 155,1135"/>
+                <Baseline points="155,1169 227,1166 299,1165 371,1165 443,1163 515,1163 587,1161 659,1162 731,1161 803,1161 876,1165 948,1164 1020,1163 1092,1163 1164,1163 1236,1161 1308,1161 1380,1161 1452,1159 1524,1161 1597,1165"/>
+                <TextEquiv>
+                    <Unicode>alcuni vasi con dei confetti di coriandoli, dei perfetti amori, degli amaretti, intercalati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:13;} hi {offset:0; length:83; continued:true;rend:underline;}">
+                <Coords points="157,1258 226,1256 296,1258 366,1257 436,1256 506,1256 575,1255 645,1254 715,1256 785,1255 855,1256 924,1256 994,1255 1064,1254 1134,1254 1204,1254 1273,1252 1343,1252 1413,1252 1483,1250 1553,1248 1553,1197 1483,1199 1413,1201 1343,1201 1273,1201 1204,1203 1134,1203 1064,1203 994,1204 924,1205 855,1205 785,1204 715,1205 645,1203 575,1204 506,1205 436,1205 366,1206 296,1207 226,1205 157,1207"/>
+                <Baseline points="157,1241 226,1239 296,1241 366,1240 436,1239 506,1239 575,1238 645,1237 715,1239 785,1238 855,1239 924,1239 994,1238 1064,1237 1134,1237 1204,1237 1273,1235 1343,1235 1413,1235 1483,1233 1553,1231"/>
+                <TextEquiv>
+                    <Unicode>da delle piccole zucchette di rosolio Camino o Latte di vecchia, Zuccherini lunghi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:14;} hi {offset:0; length:82; continued:true;rend:underline;}">
+                <Coords points="157,1332 227,1334 297,1334 367,1332 438,1332 508,1332 578,1332 649,1330 719,1330 789,1330 860,1330 930,1330 1000,1332 1070,1331 1141,1332 1211,1332 1281,1332 1352,1330 1422,1330 1492,1330 1563,1330 1563,1279 1492,1279 1422,1279 1352,1279 1281,1281 1211,1281 1141,1281 1070,1280 1000,1281 930,1279 860,1279 789,1279 719,1279 649,1279 578,1281 508,1281 438,1281 367,1281 297,1283 227,1283 157,1281"/>
+                <Baseline points="157,1315 227,1317 297,1317 367,1315 438,1315 508,1315 578,1315 649,1313 719,1313 789,1313 860,1313 930,1313 1000,1315 1070,1314 1141,1315 1211,1315 1281,1315 1352,1313 1422,1313 1492,1313 1563,1313"/>
+                <TextEquiv>
+                    <Unicode>inerajà scuna in Zemma ch'el parevan statar da zardein... Là, da un lato del banco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:15;} hi {offset:0; length:85; continued:true;rend:underline;}">
+                <Coords points="145,1414 215,1410 286,1410 357,1410 428,1408 499,1408 569,1406 640,1407 711,1407 782,1406 853,1406 923,1405 994,1404 1065,1403 1136,1404 1207,1404 1277,1405 1348,1406 1419,1405 1490,1406 1561,1404 1561,1353 1490,1355 1419,1354 1348,1355 1277,1354 1207,1353 1136,1353 1065,1352 994,1353 923,1354 853,1355 782,1355 711,1356 640,1356 569,1355 499,1357 428,1357 357,1359 286,1359 215,1359 145,1363"/>
+                <Baseline points="145,1397 215,1393 286,1393 357,1393 428,1391 499,1391 569,1389 640,1390 711,1390 782,1389 853,1389 923,1388 994,1387 1065,1386 1136,1387 1207,1387 1277,1388 1348,1389 1419,1388 1490,1389 1561,1387"/>
+                <TextEquiv>
+                    <Unicode>su di un bel foglio di carta, giaceva un cuscino di bocca di dama, con sù una riga di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:16;} hi {offset:0; length:46; continued:true;rend:underline;}">
+                <Coords points="145,1492 181,1488 217,1486 254,1487 290,1486 327,1484 363,1486 399,1482 436,1483 472,1484 509,1484 545,1484 581,1483 618,1481 654,1481 691,1482 727,1484 763,1484 800,1485 836,1486 873,1484 873,1433 836,1435 800,1434 763,1433 727,1433 691,1431 654,1430 618,1430 581,1432 545,1433 509,1433 472,1433 436,1432 399,1431 363,1435 327,1433 290,1435 254,1436 217,1435 181,1437 145,1441"/>
+                <Baseline points="145,1475 181,1471 217,1469 254,1470 290,1469 327,1467 363,1469 399,1465 436,1466 472,1467 509,1467 545,1467 581,1466 618,1464 654,1464 691,1465 727,1467 763,1467 800,1468 836,1469 873,1467"/>
+                <TextEquiv>
+                    <Unicode>legno per tagliare a dritto filo le fette ..."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:17;}">
+                <Coords points="163,1564 232,1560 301,1561 370,1558 439,1558 508,1558 577,1558 646,1558 715,1558 784,1561 854,1560 923,1560 992,1560 1061,1558 1130,1558 1199,1557 1268,1556 1337,1558 1406,1559 1475,1558 1545,1558 1545,1507 1475,1507 1406,1508 1337,1507 1268,1505 1199,1506 1130,1507 1061,1507 992,1509 923,1509 854,1509 784,1510 715,1507 646,1507 577,1507 508,1507 439,1507 370,1507 301,1510 232,1509 163,1513"/>
+                <Baseline points="163,1547 232,1543 301,1544 370,1541 439,1541 508,1541 577,1541 646,1541 715,1541 784,1544 854,1543 923,1543 992,1543 1061,1541 1130,1541 1199,1540 1268,1539 1337,1541 1406,1542 1475,1541 1545,1541"/>
+                <TextEquiv>
+                    <Unicode>Tutto, come nel nostro ricordo: la bocca di dama, con la sua riga di ferro, i vasi di vetro, i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716114477965_288" custom="readingOrder {index:18;}">
+                <Coords points="158,1586 1306,1582 1306,1632 158,1636"/>
+                <Baseline points="158,1631 1306,1627"/>
+                <TextEquiv>
+                    <Unicode>confetti: ogni cosa affondata nel profumo inimitabile di vaniglia. Cose </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716114480429_293" custom="readingOrder {index:19;} add {offset:0; length:3;place:above;}">
+                <Coords points="1282,1546 1341,1542 1344,1592 1285,1596"/>
+                <Baseline points="1285,1591 1344,1587"/>
+                <TextEquiv>
+                    <Unicode>che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716114482972_298" custom="readingOrder {index:20;}">
+                <Coords points="1314,1580 1596,1589 1595,1639 1313,1630"/>
+                <Baseline points="1313,1625 1595,1634"/>
+                <TextEquiv>
+                    <Unicode>si guardavano, stan-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:21;}">
+                <Coords points="151,1703 222,1706 293,1707 365,1707 436,1706 508,1705 579,1705 650,1705 722,1705 793,1704 865,1703 936,1703 1007,1703 1079,1703 1150,1703 1222,1704 1293,1701 1364,1702 1436,1701 1507,1701 1579,1703 1579,1673 1507,1671 1436,1671 1364,1672 1293,1671 1222,1674 1150,1673 1079,1673 1007,1673 936,1673 865,1673 793,1674 722,1675 650,1675 579,1675 508,1675 436,1676 365,1677 293,1677 222,1676 151,1673"/>
+                <Baseline points="151,1693 222,1696 293,1697 365,1697 436,1696 508,1695 579,1695 650,1695 722,1695 793,1694 865,1693 936,1693 1007,1693 1079,1693 1150,1693 1222,1694 1293,1691 1364,1692 1436,1691 1507,1691 1579,1693"/>
+                <TextEquiv>
+                    <Unicode>do sulla strada, davanti alla porticina spalancata, a occhi aperti, quasi sognango. E quando si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:22;} add {offset:0; length:9;place:above;}">
+                <Coords points="155,1745 183,1743 212,1745 241,1745 270,1745 299,1743 299,1713 270,1715 241,1715 212,1715 183,1713 155,1715"/>
+                <Baseline points="155,1735 183,1733 212,1735 241,1735 270,1735 299,1733"/>
+                <TextEquiv>
+                    <Unicode>ritornava</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716113857509_178" custom="readingOrder {index:23;} date {offset:0; length:9;year:0; day:0; month:0;}">
+                <Coords points="155,1736 1563,1732 1563,1782 155,1786"/>
+                <Baseline points="155,1781 1563,1777"/>
+                <TextEquiv>
+                    <Unicode>rientrava verso il giardinetto pubblico: e i muri delle case, riscaldati, odoravano di paste,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:24;}">
+                <Coords points="151,1875 222,1867 293,1865 365,1863 436,1863 508,1861 579,1861 650,1863 722,1861 793,1861 865,1859 936,1859 1007,1859 1079,1858 1150,1859 1222,1859 1293,1859 1364,1855 1436,1857 1507,1859 1579,1863 1579,1814 1507,1810 1436,1808 1364,1806 1293,1810 1222,1810 1150,1810 1079,1809 1007,1810 936,1810 865,1810 793,1812 722,1812 650,1814 579,1812 508,1812 436,1814 365,1814 293,1816 222,1818 151,1826"/>
+                <Baseline points="151,1859 222,1851 293,1849 365,1847 436,1847 508,1845 579,1845 650,1847 722,1845 793,1845 865,1843 936,1843 1007,1843 1079,1842 1150,1843 1222,1843 1293,1843 1364,1839 1436,1841 1507,1843 1579,1847"/>
+                <TextEquiv>
+                    <Unicode>quasi di pasta dolce, nostra madre, tenendoci per mano, osservava quietamente: "Sarete conten-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:25;}">
+                <Coords points="147,1943 199,1941 251,1939 304,1939 356,1937 409,1939 461,1938 513,1937 566,1935 618,1936 671,1937 723,1937 775,1937 828,1937 880,1935 933,1935 985,1935 1037,1936 1090,1936 1142,1939 1195,1943 1195,1894 1142,1890 1090,1887 1037,1887 985,1886 933,1886 880,1886 828,1888 775,1888 723,1888 671,1888 618,1887 566,1886 513,1888 461,1889 409,1890 356,1888 304,1890 251,1890 199,1892 147,1894"/>
+                <Baseline points="147,1927 199,1925 251,1923 304,1923 356,1921 409,1923 461,1922 513,1921 566,1919 618,1920 671,1921 723,1921 775,1921 828,1921 880,1919 933,1919 985,1919 1037,1920 1090,1920 1142,1923 1195,1927"/>
+                <TextEquiv>
+                    <Unicode>ti, anche stasera avete visto la pasticceria di via del Cane."-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716113871232_187" custom="readingOrder {index:26;} hi {offset:0; length:1;rend:center;}">
+                <Coords points="766,2045 813,2046 812,2096 765,2095"/>
+                <Baseline points="765,2090 812,2091"/>
+                <TextEquiv>
+                    <Unicode>*</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dietro il banco, si muovevano il padrone e sua moglie, occupati nelle loro armoniose mansioni.&#13;
+Al padrone era riservato di tagliare la bocca di dama, deposta su di un tavoletto di legno. Il taglo av-&#13;
+veniva, accuratamente, e prese le giuste misure, affondando un coltello sottile, affilatissimo, che correva&#13;
+stando appoggiato ad una riga di ferro.&#13;
+legno&#13;
+Intanto, la moglie, seduta, silenziosa sopra il suo mati-&#13;
+nè di cotone bianco, serviva a qualcuno, cavandole da una scansia, altre delicatezze, confetti,&#13;
+palline di zucchero, che cavava da lucidi vasi di vetro. Il Fiacchi, nei suoi ricordi bolognesi,&#13;
+ha&#13;
+una pa-&#13;
+gina, di grata poesia, da questio luogo, che incomincia: A vultar zò sùbit dalla va del Can&#13;
+a j era una porta..." E continua il suo quadro:".. nelle scanzie lungo la parete vi erano&#13;
+alcuni vasi con dei confetti di coriandoli, dei perfetti amori, degli amaretti, intercalati&#13;
+da delle piccole zucchette di rosolio Camino o Latte di vecchia, Zuccherini lunghi,&#13;
+inerajà scuna in Zemma ch'el parevan statar da zardein... Là, da un lato del banco&#13;
+su di un bel foglio di carta, giaceva un cuscino di bocca di dama, con sù una riga di&#13;
+legno per tagliare a dritto filo le fette ..."&#13;
+Tutto, come nel nostro ricordo: la bocca di dama, con la sua riga di ferro, i vasi di vetro, i&#13;
+confetti: ogni cosa affondata nel profumo inimitabile di vaniglia. Cose &#13;
+che&#13;
+si guardavano, stan-&#13;
+do sulla strada, davanti alla porticina spalancata, a occhi aperti, quasi sognango. E quando si&#13;
+ritornava&#13;
+rientrava verso il giardinetto pubblico: e i muri delle case, riscaldati, odoravano di paste,&#13;
+quasi di pasta dolce, nostra madre, tenendoci per mano, osservava quietamente: "Sarete conten-&#13;
+ti, anche stasera avete visto la pasticceria di via del Cane."-&#13;
+*</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

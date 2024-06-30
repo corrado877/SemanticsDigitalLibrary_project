@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:16:21.658+01:00</Created>
+        <LastChange>2024-06-20T10:59:57.115+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325430" pageNr="1" tsid="175603469" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=QRPKSPYCLWPHFRHLGJKYHXSZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ICSPSLQZIFYIHYZIXIRECILN" imageId="53898433"/>
+    </Metadata>
+    <Page imageFilename="Q_1958_03_0001_piatto_ant_r.jpg" imageWidth="1798" imageHeight="2531" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746057003" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1712400836556_8"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="heading" id="region_1712400836556_8" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="1272,762 558,763 557,550 1281,543"/>
+            <TextLine id="line_1712401103268_13" custom="readingOrder {index:0;} hi {offset:0; length:17;rend:underline; type:double;} date {offset:19; length:14;year:1958; day:2; month:1;}">
+                <Coords points="576,558 954,571 1278,565 1265,658 960,659 575,652"/>
+                <Baseline points="586,623 952,619 1256,623"/>
+                <TextEquiv>
+                    <Unicode>I vecchi mestieri (2 gennaio 1958)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1712402608148_135" custom="readingOrder {index:1;} del {offset:0; length:36;rend:overstrike;} hi {offset:0; length:24;rend:underline; type:double;} gap {offset:0; length:0;quantity:23; unit:character; reason:illegible;} gap {offset:24; length:0;quantity:12; unit:character; reason:illegible;}">
+                <Coords points="564,751 1267,746 1272,663 567,666"/>
+                <Baseline points="575,732 1263,721 1268,726"/>
+                <TextEquiv>
+                    <Unicode>                                    </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>I vecchi mestieri (2 gennaio 1958)&#13;
+                                    </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

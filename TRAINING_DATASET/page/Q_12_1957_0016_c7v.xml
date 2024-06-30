@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:37:30.231+02:00</Created>
+        <LastChange>2024-06-21T10:24:45.197+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326070" pageNr="120" tsid="175603603" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=MVFJDLOTNKDUMASVTDFVZFJB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZHWBOUGQUJUTETLEFYZTLPVQ" imageId="54316482"/>
+    </Metadata>
+    <Page imageFilename="Q_12_1957_0016_c7v.jpg" imageWidth="1798" imageHeight="2523" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746081183" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="202,321 205,2151 1695,2145 1692,315"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} hi {offset:0; length:17;rend:underline; type:double;}">
+                <Coords points="811,399 837,401 863,400 889,400 916,401 942,401 968,401 994,403 1021,403 1047,403 1073,403 1099,406 1126,410 1152,409 1178,409 1205,411 1205,362 1178,360 1152,360 1126,361 1099,357 1073,354 1047,354 1021,354 994,354 968,352 942,352 916,352 889,351 863,351 837,352 811,350"/>
+                <Baseline points="811,383 837,385 863,384 889,384 916,385 942,385 968,385 994,387 1021,387 1047,387 1073,387 1099,390 1126,394 1152,393 1178,393 1205,395"/>
+                <TextEquiv>
+                    <Unicode>Gente a Bruxelles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} structure {type:page-number;}">
+                <Coords points="1573,421 1598,428 1623,429 1649,423 1649,374 1623,380 1598,379 1573,372"/>
+                <Baseline points="1573,405 1598,412 1623,413 1649,407"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} hi {offset:1; length:9;rend:underline;}">
+                <Coords points="264,502 328,502 350,500 376,499 405,499 431,499 462,500 525,501 519,361 456,360 430,362 404,362 385,359 359,360 326,349 262,349"/>
+                <Baseline points="303,437 328,437 354,436 380,435 405,436 431,436 457,435 483,435"/>
+                <TextEquiv>
+                    <Unicode>[Bruxelles]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191103022_203" custom="readingOrder {index:3;}">
+                <Coords points="253,527 1624,515 1624,565 253,577"/>
+                <Baseline points="253,572 1624,560"/>
+                <TextEquiv>
+                    <Unicode>Solo affacciandomi alla piazza, che sta davanti al palazzo di città, mi accorsi che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191107499_208" custom="readingOrder {index:4;}">
+                <Coords points="225,603 1687,595 1687,645 225,653"/>
+                <Baseline points="225,648 1687,640"/>
+                <TextEquiv>
+                    <Unicode>incominciava a piovere. Erano delle piccolo goccie, di un'acqua tiepida; cadevano tutte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191112156_213" custom="readingOrder {index:5;}">
+                <Coords points="233,679 1665,671 1665,721 233,729"/>
+                <Baseline points="233,724 1665,716"/>
+                <TextEquiv>
+                    <Unicode>uguali, ad una misurata distanza fra di loro. Bastava osservarle, e quasi numerarle,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191116422_218" custom="readingOrder {index:6;}">
+                <Coords points="233,755 1681,747 1681,797 233,805"/>
+                <Baseline points="233,800 1681,792"/>
+                <TextEquiv>
+                    <Unicode>sul selciato pulito della Grand' Place, dove subito dopo si asciugavano. Il Belgio è un pae-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191119923_223" custom="readingOrder {index:7;}">
+                <Coords points="231,828 1659,824 1659,874 231,878"/>
+                <Baseline points="231,873 1659,869"/>
+                <TextEquiv>
+                    <Unicode>se di affabili incanti, di miraggi. Pensai, per assurda immaginazione, che un im-&lt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191123266_228" custom="readingOrder {index:8;}">
+                <Coords points="243,904 1657,896 1657,946 243,954"/>
+                <Baseline points="243,949 1657,941"/>
+                <TextEquiv>
+                    <Unicode>menso colabrodo, collocato in cielo, lasciasse cadere quella minuta pioggerella, che dise-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="255,1041 325,1039 396,1036 467,1033 538,1031 609,1032 679,1031 750,1031 821,1029 892,1027 963,1027 1033,1027 1104,1027 1175,1025 1246,1025 1317,1023 1387,1025 1458,1027 1529,1026 1600,1026 1671,1023 1671,974 1600,977 1529,977 1458,978 1387,976 1317,974 1246,976 1175,976 1104,978 1033,978 963,978 892,978 821,980 750,982 679,982 609,983 538,982 467,984 396,987 325,990 255,992"/>
+                <Baseline points="255,1025 325,1023 396,1020 467,1017 538,1015 609,1016 679,1015 750,1015 821,1013 892,1011 963,1011 1033,1011 1104,1011 1175,1009 1246,1009 1317,1007 1387,1009 1458,1011 1529,1010 1600,1010 1671,1007"/>
+                <TextEquiv>
+                    <Unicode>gnava per terra un preciso disegno fatto di un'infinità di puntolini d'acqua... Sia-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191130274_233" custom="readingOrder {index:10;}">
+                <Coords points="253,1058 1669,1042 1670,1092 254,1108"/>
+                <Baseline points="254,1103 1670,1087"/>
+                <TextEquiv>
+                    <Unicode>mo nella terra di Brenghel, mi dicevo. Alzai gli occhi in aria: non c'era che il cielo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191135745_238" custom="readingOrder {index:11;}">
+                <Coords points="238,1131 1661,1123 1661,1173 238,1181"/>
+                <Baseline points="238,1176 1661,1168"/>
+                <TextEquiv>
+                    <Unicode>distesamente grigio e lucente; un morbido cielo di velluto. Era giunto fin qui, per varie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:12;} hi {offset:42; length:14;rend:underline;}">
+                <Coords points="233,1257 304,1257 376,1257 448,1257 519,1258 591,1255 663,1257 734,1257 806,1257 878,1255 950,1257 1021,1258 1093,1257 1165,1255 1236,1255 1308,1253 1380,1253 1451,1252 1523,1251 1595,1251 1667,1259 1667,1210 1595,1202 1523,1202 1451,1203 1380,1204 1308,1204 1236,1206 1165,1206 1093,1208 1021,1209 950,1208 878,1206 806,1208 734,1208 663,1208 591,1206 519,1209 448,1208 376,1208 304,1208 233,1208"/>
+                <Baseline points="233,1241 304,1241 376,1241 448,1241 519,1242 591,1239 663,1241 734,1241 806,1241 878,1239 950,1241 1021,1242 1093,1241 1165,1239 1236,1239 1308,1237 1380,1237 1451,1236 1523,1235 1595,1235 1667,1243"/>
+                <TextEquiv>
+                    <Unicode>strade, l'ultima delle quali si chiamava: rue de l'Etuve. Via della stufa. Speravo di ricordare,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:13;} gap {offset:73; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="237,1345 308,1339 380,1339 452,1340 523,1337 595,1337 667,1336 738,1335 810,1335 882,1337 954,1337 1025,1335 1097,1335 1169,1333 1240,1332 1312,1329 1384,1328 1455,1327 1527,1327 1599,1325 1671,1329 1671,1280 1599,1276 1527,1278 1455,1278 1384,1279 1312,1280 1240,1283 1169,1284 1097,1286 1025,1286 954,1288 882,1288 810,1286 738,1286 667,1287 595,1288 523,1288 452,1291 380,1290 308,1290 237,1296"/>
+                <Baseline points="237,1329 308,1323 380,1323 452,1324 523,1321 595,1321 667,1320 738,1319 810,1319 882,1321 954,1321 1025,1319 1097,1319 1169,1317 1240,1316 1312,1313 1384,1312 1455,1311 1527,1311 1599,1309 1671,1313"/>
+                <TextEquiv>
+                    <Unicode>perfettamente ordinata come in una fiera, le gioie meravigliose che è il        degli uccelli.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:14;} del {offset:59; length:12;rend:overstrike;} gap {offset:59; length:0;quantity:12; unit:character; reason:illegible;}">
+                <Coords points="241,1411 311,1412 381,1413 451,1410 521,1409 591,1411 661,1410 731,1409 801,1409 871,1408 941,1407 1011,1409 1081,1409 1151,1409 1221,1409 1291,1409 1361,1408 1431,1407 1501,1404 1571,1405 1641,1407 1641,1358 1571,1356 1501,1355 1431,1358 1361,1359 1291,1360 1221,1360 1151,1360 1081,1360 1011,1360 941,1358 871,1359 801,1360 731,1360 661,1361 591,1362 521,1360 451,1361 381,1364 311,1363 241,1362"/>
+                <Baseline points="241,1395 311,1396 381,1397 451,1394 521,1393 591,1395 661,1394 731,1393 801,1393 871,1392 941,1391 1011,1393 1081,1393 1151,1393 1221,1393 1291,1393 1361,1392 1431,1391 1501,1388 1571,1389 1641,1391"/>
+                <TextEquiv>
+                    <Unicode>Credo non si incontro un simile spettacolo in nessun'altro              angolo del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:15;}">
+                <Coords points="243,1487 314,1483 385,1484 456,1482 527,1481 598,1481 669,1481 740,1483 811,1482 882,1481 954,1482 1025,1481 1096,1479 1167,1480 1238,1477 1309,1479 1380,1475 1451,1475 1522,1475 1593,1473 1665,1473 1665,1443 1593,1443 1522,1445 1451,1445 1380,1445 1309,1449 1238,1447 1167,1450 1096,1449 1025,1451 954,1452 882,1451 811,1452 740,1453 669,1451 598,1451 527,1451 456,1452 385,1454 314,1453 243,1457"/>
+                <Baseline points="243,1477 314,1473 385,1474 456,1472 527,1471 598,1471 669,1471 740,1473 811,1472 882,1471 954,1472 1025,1471 1096,1469 1167,1470 1238,1467 1309,1469 1380,1465 1451,1465 1522,1465 1593,1463 1665,1463"/>
+                <TextEquiv>
+                    <Unicode>mondo. La Grand' Place, in tale occasione, si ricopre di centinaia e centinaia di gabbie,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191143993_243" custom="readingOrder {index:16;}">
+                <Coords points="242,1515 583,1515 583,1565 242,1565"/>
+                <Baseline points="242,1560 583,1560"/>
+                <TextEquiv>
+                    <Unicode>di legno, di vimini,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:17;} add {offset:0; length:7;place:above;}">
+                <Coords points="581,1523 607,1521 634,1521 660,1521 687,1521 687,1491 660,1491 634,1491 607,1491 581,1493"/>
+                <Baseline points="581,1513 607,1511 634,1511 660,1511 687,1511"/>
+                <TextEquiv>
+                    <Unicode>filo di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191147259_248" custom="readingOrder {index:18;}">
+                <Coords points="598,1510 1690,1505 1690,1555 598,1560"/>
+                <Baseline points="598,1555 1690,1550"/>
+                <TextEquiv>
+                    <Unicode>di ferro, entro cui migliaia e migliaia di uccelli sono chiusi, in at-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191152552_253" custom="readingOrder {index:19;}">
+                <Coords points="242,1582 1680,1582 1680,1632 242,1632"/>
+                <Baseline points="242,1627 1680,1627"/>
+                <TextEquiv>
+                    <Unicode>tesa di passare nella casa del nuovo padrone. Piccolissimi uccelli: dai colori di smalto verde, az-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191157963_258" custom="readingOrder {index:20;}">
+                <Coords points="243,1663 449,1666 448,1716 242,1713"/>
+                <Baseline points="242,1708 448,1711"/>
+                <TextEquiv>
+                    <Unicode>zurro, grigio;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:21;} add {offset:0; length:45;place:above;}">
+                <Coords points="269,1667 300,1667 332,1669 364,1669 395,1669 427,1669 459,1669 490,1669 522,1669 554,1669 586,1669 617,1669 649,1669 681,1669 712,1671 744,1671 776,1671 807,1671 839,1673 871,1671 903,1677 903,1647 871,1641 839,1643 807,1641 776,1641 744,1641 712,1641 681,1639 649,1639 617,1639 586,1639 554,1639 522,1639 490,1639 459,1639 427,1639 395,1639 364,1639 332,1639 300,1637 269,1637"/>
+                <Baseline points="269,1657 300,1657 332,1659 364,1659 395,1659 427,1659 459,1659 490,1659 522,1659 554,1659 586,1659 617,1659 649,1659 681,1659 712,1661 744,1661 776,1661 807,1661 839,1663 871,1661 903,1667"/>
+                <TextEquiv>
+                    <Unicode>come nei gioielli, sulle miniature dell'Asia;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191164512_263" custom="readingOrder {index:22;}">
+                <Coords points="460,1664 1654,1656 1654,1706 460,1714"/>
+                <Baseline points="460,1709 1654,1701"/>
+                <TextEquiv>
+                    <Unicode>uccelli massicci, colore di roccia e di pietra, venuti dalle montagne inaccessibili</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191180110_276" custom="readingOrder {index:23;}">
+                <Coords points="237,1740 1652,1732 1652,1782 237,1790"/>
+                <Baseline points="237,1785 1652,1777"/>
+                <TextEquiv>
+                    <Unicode>del Nord; o quelli, portati fin qui dal vento tempestoso dell'oceano: bravi, essi stessi, di una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191168873_268" custom="readingOrder {index:24;}">
+                <Coords points="256,1818 1631,1805 1631,1855 256,1868"/>
+                <Baseline points="256,1863 1631,1850"/>
+                <TextEquiv>
+                    <Unicode>tempesta. La loro voce: il canto, lo strido, lo squittio, il fischio, l'armonioso,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191185044_281" custom="readingOrder {index:25;} del {offset:75; length:5;rend:overwritten;}">
+                <Coords points="246,1893 1686,1885 1686,1935 246,1943"/>
+                <Baseline points="246,1938 1686,1930"/>
+                <TextEquiv>
+                    <Unicode>generale mormorio riempiva la piazza. Migliaia di uccelli, di animali, che      </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191187761_286" custom="readingOrder {index:26;}">
+                <Coords points="1602,1846 1696,1871 1683,1919 1589,1894"/>
+                <Baseline points="1590,1889 1684,1914"/>
+                <TextEquiv>
+                    <Unicode>hanno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191192041_291" custom="readingOrder {index:27;}">
+                <Coords points="245,1971 1676,1959 1676,2009 245,2021"/>
+                <Baseline points="245,2016 1676,2004"/>
+                <TextEquiv>
+                    <Unicode>in comune solo l'abito di piume e di penne, e il capo che finisce in becco. Per il resto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191195951_296" custom="readingOrder {index:28;}">
+                <Coords points="239,2047 1338,2037 1338,2087 239,2097"/>
+                <Baseline points="239,2092 1338,2082"/>
+                <TextEquiv>
+                    <Unicode>è dalla loro voce l'eco, la nostalgia della patria d'origine: campagne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;} add {offset:0; length:8;place:above;}">
+                <Coords points="1351,2035 1378,2037 1406,2037 1434,2040 1461,2041 1489,2041 1517,2035 1517,2005 1489,2011 1461,2011 1434,2010 1406,2007 1378,2007 1351,2005"/>
+                <Baseline points="1351,2025 1378,2027 1406,2027 1434,2030 1461,2031 1489,2031 1517,2025"/>
+                <TextEquiv>
+                    <Unicode>ronzanti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1716191198795_301" custom="readingOrder {index:30;} del {offset:0; length:7;rend:overwritten;}">
+                <Coords points="1356,2031 1657,2037 1656,2087 1355,2081"/>
+                <Baseline points="1355,2076 1656,2082"/>
+                <TextEquiv>
+                    <Unicode>tiepide dal lavoro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gente a Bruxelles&#13;
+1&#13;
+[Bruxelles]&#13;
+Solo affacciandomi alla piazza, che sta davanti al palazzo di città, mi accorsi che&#13;
+incominciava a piovere. Erano delle piccolo goccie, di un'acqua tiepida; cadevano tutte&#13;
+uguali, ad una misurata distanza fra di loro. Bastava osservarle, e quasi numerarle,&#13;
+sul selciato pulito della Grand' Place, dove subito dopo si asciugavano. Il Belgio è un pae-&#13;
+se di affabili incanti, di miraggi. Pensai, per assurda immaginazione, che un im-&lt;&#13;
+menso colabrodo, collocato in cielo, lasciasse cadere quella minuta pioggerella, che dise-&#13;
+gnava per terra un preciso disegno fatto di un'infinità di puntolini d'acqua... Sia-&#13;
+mo nella terra di Brenghel, mi dicevo. Alzai gli occhi in aria: non c'era che il cielo&#13;
+distesamente grigio e lucente; un morbido cielo di velluto. Era giunto fin qui, per varie&#13;
+strade, l'ultima delle quali si chiamava: rue de l'Etuve. Via della stufa. Speravo di ricordare,&#13;
+perfettamente ordinata come in una fiera, le gioie meravigliose che è il        degli uccelli.&#13;
+Credo non si incontro un simile spettacolo in nessun'altro              angolo del&#13;
+mondo. La Grand' Place, in tale occasione, si ricopre di centinaia e centinaia di gabbie,&#13;
+di legno, di vimini,&#13;
+filo di&#13;
+di ferro, entro cui migliaia e migliaia di uccelli sono chiusi, in at-&#13;
+tesa di passare nella casa del nuovo padrone. Piccolissimi uccelli: dai colori di smalto verde, az-&#13;
+zurro, grigio;&#13;
+come nei gioielli, sulle miniature dell'Asia;&#13;
+uccelli massicci, colore di roccia e di pietra, venuti dalle montagne inaccessibili&#13;
+del Nord; o quelli, portati fin qui dal vento tempestoso dell'oceano: bravi, essi stessi, di una&#13;
+tempesta. La loro voce: il canto, lo strido, lo squittio, il fischio, l'armonioso,&#13;
+generale mormorio riempiva la piazza. Migliaia di uccelli, di animali, che      &#13;
+hanno&#13;
+in comune solo l'abito di piume e di penne, e il capo che finisce in becco. Per il resto,&#13;
+è dalla loro voce l'eco, la nostalgia della patria d'origine: campagne&#13;
+ronzanti&#13;
+tiepide dal lavoro</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

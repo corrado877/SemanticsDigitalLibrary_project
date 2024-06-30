@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-03-29T16:16:22.154+01:00</Created>
+        <LastChange>2024-06-20T11:00:24.528+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74325969" pageNr="3" tsid="175603489" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=LYSJBUQICLIYIVBWGAHGDWFW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CJEVEKIEQIRRELNCMFBAQBOS" imageId="53898439"/>
+    </Metadata>
+    <Page imageFilename="Q_1958_03_0004_c1v.jpg" imageWidth="1798" imageHeight="2531" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746057440" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1713350034646_345"/>
+                <RegionRefIndexed index="1" regionRef="region_1713024739027_173"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+                <RegionRefIndexed index="3" regionRef="region_1713203828291_561"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1713350034646_345" custom="readingOrder {index:0;}">
+            <Coords points="207,326 1676,326 1676,2132 207,2132"/>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1713024739027_173" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="1520,357 1631,358 1630,429 1519,429"/>
+            <TextLine id="line_1713203532002_495" custom="readingOrder {index:0;} hi {offset:0; length:2;rend:right;}">
+                <Coords points="1529,363 1623,361 1625,420 1532,418"/>
+                <Baseline points="1532,407 1621,408"/>
+                <TextEquiv>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="208,495 216,1407 1656,1412 1659,498"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="214,573 297,569 367,567 437,565 507,564 577,561 647,562 717,563 787,565 857,563 928,563 998,563 1068,562 1138,562 1208,561 1278,561 1348,562 1418,561 1488,562 1558,563 1629,561 1629,531 1558,533 1488,532 1418,531 1348,532 1278,531 1208,531 1138,532 1068,532 998,533 928,533 857,533 787,535 717,533 647,532 577,531 507,534 437,535 367,537 300,522 216,523"/>
+                <Baseline points="227,563 297,559 367,557 437,555 507,554 577,551 647,552 717,553 787,555 857,553 928,553 998,553 1068,552 1138,552 1208,551 1278,551 1348,552 1418,551 1488,552 1558,553 1629,551"/>
+                <TextEquiv>
+                    <Unicode>Al principio del nuovo secolo, la nazione italiana andava rassodando la sua forma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713025488865_266" custom="readingOrder {index:1;}">
+                <Coords points="222,603 447,603 447,653 222,653"/>
+                <Baseline points="225,641 446,642"/>
+                <TextEquiv>
+                    <Unicode>zione politica </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} add {offset:0; length:6;place:above;}">
+                <Coords points="433,603 462,607 491,605 521,603 521,573 491,575 462,577 433,573"/>
+                <Baseline points="433,593 462,597 491,595 521,593"/>
+                <TextEquiv>
+                    <Unicode>ancora</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713025559826_279" custom="readingOrder {index:3;}">
+                <Coords points="450,605 1656,593 1656,643 453,645"/>
+                <Baseline points="444,635 1642,633"/>
+                <TextEquiv>
+                    <Unicode>recente, non senza guardare e prendere ad esempio i progressi compiuti,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;} place {offset:72; length:7;country:France;} place {offset:81; length:6; continued:true;country:Germany;}">
+                <Coords points="215,731 286,727 357,727 428,729 500,725 571,725 642,724 714,723 785,724 856,723 928,721 999,723 1070,721 1141,722 1213,720 1284,719 1355,721 1427,721 1498,719 1569,723 1641,723 1641,675 1569,675 1498,671 1427,673 1355,673 1284,671 1213,672 1141,674 1070,673 999,675 928,673 856,675 785,676 714,675 642,676 571,677 500,677 428,681 357,679 286,679 215,683"/>
+                <Baseline points="215,715 286,711 357,711 428,713 500,709 571,709 642,708 714,707 785,708 856,707 928,705 999,707 1070,705 1141,706 1213,704 1284,703 1355,705 1427,705 1498,703 1569,707 1641,707"/>
+                <TextEquiv>
+                    <Unicode>in tale senso, dalle maggiori e più antiche nazioni europee: in ispecie Francia, Germa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;} place {offset:0; length:3; continued:true;country:Germany;} place {offset:6; length:12;country:England;}">
+                <Coords points="213,805 284,805 355,800 426,799 497,799 568,801 639,801 710,803 781,803 852,801 924,801 995,800 1066,799 1137,799 1208,797 1279,797 1350,795 1421,795 1492,797 1563,796 1635,795 1635,747 1563,748 1492,749 1421,747 1350,747 1279,749 1208,749 1137,751 1066,751 995,752 924,753 852,753 781,755 710,755 639,753 568,753 497,751 426,751 355,752 284,757 213,757"/>
+                <Baseline points="213,789 284,789 355,784 426,783 497,783 568,785 639,785 710,787 781,787 852,785 924,785 995,784 1066,783 1137,783 1208,781 1279,781 1350,779 1421,779 1492,781 1563,780 1635,779"/>
+                <TextEquiv>
+                    <Unicode>nia ed Inghilterra. La professione, o mestiere, a cui noi si attendeva, con uno scru-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="225,885 295,883 366,880 437,879 508,877 579,875 650,875 721,876 792,874 863,873 934,876 1004,875 1075,873 1146,873 1217,873 1288,875 1359,873 1430,873 1501,873 1572,875 1643,877 1643,829 1572,827 1501,825 1430,825 1359,825 1288,827 1217,825 1146,825 1075,825 1004,827 934,828 863,825 792,826 721,828 650,827 579,827 508,829 437,831 366,832 295,835 225,837"/>
+                <Baseline points="225,869 295,867 366,864 437,863 508,861 579,859 650,859 721,860 792,858 863,857 934,860 1004,859 1075,857 1146,857 1217,857 1288,859 1359,857 1430,857 1501,857 1572,859 1643,861"/>
+                <TextEquiv>
+                    <Unicode>polo e, perciò un'ambizione di progresso sociale, oltre che tecnico, aveva rapp-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="231,961 301,956 371,953 441,953 511,952 581,951 651,950 721,952 791,949 861,949 932,948 1002,949 1072,951 1142,949 1212,949 1282,948 1352,948 1422,947 1492,949 1562,951 1633,951 1633,903 1562,903 1492,901 1422,899 1352,900 1282,900 1212,901 1142,901 1072,903 1002,901 932,900 861,901 791,901 721,904 651,902 581,903 511,904 441,905 371,905 301,908 231,913"/>
+                <Baseline points="231,945 301,940 371,937 441,937 511,936 581,935 651,934 721,936 791,933 861,933 932,932 1002,933 1072,935 1142,933 1212,933 1282,932 1352,932 1422,931 1492,933 1562,935 1633,935"/>
+                <TextEquiv>
+                    <Unicode>porti e, starci per dire, una inevitabile parentela e congiunzione con taluni mestieri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;} hi {offset:31; length:11;rend:underline;} hi {offset:44; length:9;rend:underline;} hi {offset:55; length:13;rend:underline;}">
+                <Coords points="233,1027 302,1031 372,1031 442,1029 511,1030 581,1029 651,1027 720,1027 790,1025 860,1024 930,1024 999,1023 1069,1023 1139,1023 1208,1021 1278,1021 1348,1021 1417,1021 1487,1019 1557,1021 1627,1029 1627,981 1557,973 1487,971 1417,973 1348,973 1278,973 1208,973 1139,975 1069,975 999,975 930,976 860,976 790,977 720,979 651,979 581,981 511,982 442,981 372,983 302,983 233,979"/>
+                <Baseline points="233,1011 302,1015 372,1015 442,1013 511,1014 581,1013 651,1011 720,1011 790,1009 860,1008 930,1008 999,1007 1069,1007 1139,1007 1208,1005 1278,1005 1348,1005 1417,1005 1487,1003 1557,1005 1627,1013"/>
+                <TextEquiv>
+                    <Unicode>ad essa affini, e consaguinei: il muratore, il fabbro, il lattoniere, il ramaio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;} hi {offset:3; length:9;rend:underline;}">
+                <Coords points="229,1111 300,1107 371,1103 442,1103 513,1103 585,1104 656,1105 727,1103 798,1103 869,1101 941,1103 1012,1101 1083,1103 1154,1103 1225,1101 1297,1101 1368,1098 1439,1097 1510,1099 1581,1100 1653,1103 1653,1055 1581,1052 1510,1051 1439,1049 1368,1050 1297,1053 1225,1053 1154,1055 1083,1055 1012,1053 941,1055 869,1053 798,1055 727,1055 656,1057 585,1056 513,1055 442,1055 371,1055 300,1059 229,1063"/>
+                <Baseline points="229,1095 300,1091 371,1087 442,1087 513,1087 585,1088 656,1089 727,1087 798,1087 869,1085 941,1087 1012,1085 1083,1087 1154,1087 1225,1085 1297,1085 1368,1082 1439,1081 1510,1083 1581,1084 1653,1087"/>
+                <TextEquiv>
+                    <Unicode>il falegname, e talune speciali nazioni e diramazioni di codesti più generici: come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713349814265_322" custom="readingOrder {index:10;}">
+                <Coords points="229,1124 465,1124 623,1124 862,1122 1081,1122 1177,1123 1214,1175 1187,1197 1159,1170 1082,1172 862,1172 623,1174 466,1174 231,1174"/>
+                <Baseline points="239,1174 484,1165 641,1164 866,1161 1086,1161 1161,1165 1190,1193"/>
+                <TextEquiv>
+                    <Unicode>il modellatore in legno, il fonditore di ghisa, il fornaciaio </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713349856615_331" custom="readingOrder {index:11;}">
+                <Coords points="1190,1129 1403,1122 1612,1124 1612,1174 1403,1172 1214,1172"/>
+                <Baseline points="1209,1166 1398,1166 1509,1160 1603,1167"/>
+                <TextEquiv>
+                    <Unicode>di laterizi, il tornitore,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="225,1255 292,1259 360,1257 428,1257 496,1255 564,1253 632,1252 700,1251 768,1251 836,1253 904,1254 971,1253 1039,1253 1107,1253 1175,1251 1243,1250 1311,1249 1379,1247 1447,1247 1515,1249 1583,1247 1583,1199 1515,1201 1447,1199 1379,1199 1311,1201 1243,1202 1175,1203 1107,1205 1039,1205 971,1205 904,1206 836,1205 768,1203 700,1203 632,1204 564,1205 496,1207 428,1209 360,1209 292,1211 225,1207"/>
+                <Baseline points="225,1239 292,1243 360,1241 428,1241 496,1239 564,1237 632,1236 700,1235 768,1235 836,1237 904,1238 971,1237 1039,1237 1107,1237 1175,1235 1243,1234 1311,1233 1379,1231 1447,1231 1515,1233 1583,1231"/>
+                <TextEquiv>
+                    <Unicode>il verniciatore. Il costruttore fumista aveva bisogno, di volta in volta, del lavoro,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:13;}">
+                <Coords points="217,1337 286,1337 356,1335 425,1335 495,1335 565,1335 634,1334 704,1333 773,1333 843,1334 913,1333 982,1331 1052,1329 1121,1329 1191,1325 1261,1326 1330,1323 1400,1327 1469,1327 1539,1327 1609,1327 1609,1279 1539,1279 1469,1279 1400,1279 1330,1275 1261,1278 1191,1277 1121,1281 1052,1281 982,1283 913,1285 843,1286 773,1285 704,1285 634,1286 565,1287 495,1287 425,1287 356,1287 286,1289 217,1289"/>
+                <Baseline points="217,1321 286,1321 356,1319 425,1319 495,1319 565,1319 634,1318 704,1317 773,1317 843,1318 913,1317 982,1315 1052,1313 1121,1313 1191,1309 1261,1310 1330,1307 1400,1311 1469,1311 1539,1311 1609,1311"/>
+                <TextEquiv>
+                    <Unicode>dalla prestazione di tutte queste diverse arti. L'attività della mia famiglia, e la mia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:14;} place {offset:55; length:7;country:Italy;}">
+                <Coords points="221,1411 272,1411 324,1413 376,1413 427,1413 479,1413 531,1411 582,1408 634,1407 686,1407 738,1407 789,1407 841,1403 893,1405 944,1405 996,1405 1048,1405 1099,1403 1151,1403 1203,1403 1255,1407 1255,1359 1203,1355 1151,1355 1099,1355 1048,1357 996,1357 944,1357 893,1357 841,1355 789,1359 738,1359 686,1359 634,1359 582,1360 531,1363 479,1365 427,1365 376,1365 324,1365 272,1363 221,1363"/>
+                <Baseline points="221,1395 272,1395 324,1397 376,1397 427,1397 479,1397 531,1395 582,1392 634,1391 686,1391 738,1391 789,1391 841,1387 893,1389 944,1389 996,1389 1048,1389 1099,1387 1151,1387 1203,1387 1255,1391"/>
+                <TextEquiv>
+                    <Unicode>esperienza nel riguardo, si sono svolte nella città di Bologna.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Al principio del nuovo secolo, la nazione italiana andava rassodando la sua forma&#13;
+zione politica &#13;
+ancora&#13;
+recente, non senza guardare e prendere ad esempio i progressi compiuti,&#13;
+in tale senso, dalle maggiori e più antiche nazioni europee: in ispecie Francia, Germa-&#13;
+nia ed Inghilterra. La professione, o mestiere, a cui noi si attendeva, con uno scru-&#13;
+polo e, perciò un'ambizione di progresso sociale, oltre che tecnico, aveva rapp-&#13;
+porti e, starci per dire, una inevitabile parentela e congiunzione con taluni mestieri&#13;
+ad essa affini, e consaguinei: il muratore, il fabbro, il lattoniere, il ramaio&#13;
+il falegname, e talune speciali nazioni e diramazioni di codesti più generici: come&#13;
+il modellatore in legno, il fonditore di ghisa, il fornaciaio &#13;
+di laterizi, il tornitore,&#13;
+il verniciatore. Il costruttore fumista aveva bisogno, di volta in volta, del lavoro,&#13;
+dalla prestazione di tutte queste diverse arti. L'attività della mia famiglia, e la mia&#13;
+esperienza nel riguardo, si sono svolte nella città di Bologna.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1713203828291_561" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="216,1423 1668,1423 1668,2106 216,2106"/>
+            <TextLine id="line_1713203850009_565" custom="readingOrder {index:0;}">
+                <Coords points="228,1440 1644,1429 1645,1479 228,1490"/>
+                <Baseline points="228,1478 1645,1467"/>
+                <TextEquiv>
+                    <Unicode>Fin da ragazzo, come è naturale, ho praticato le botteghe e officine di codesti artigiani,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713203890498_574" custom="readingOrder {index:1;}">
+                <Coords points="222,1515 1662,1510 1662,1560 222,1565"/>
+                <Baseline points="222,1552 1183,1548 1201,1542 1276,1545 1447,1545 1657,1546"/>
+                <TextEquiv>
+                    <Unicode>osservandone, e apprezzandone le diverse caratteristiche di lavoro, e rispettandone l'inge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713204408809_643" custom="readingOrder {index:2;}">
+                <Coords points="224,1584 1176,1581 1220,1635 1196,1652 1162,1629 224,1634"/>
+                <Baseline points="224,1629 1163,1624 1199,1648"/>
+                <TextEquiv>
+                    <Unicode>nuità e la perizia sempre sveglia, che di ogni arte facevano </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713204449720_651" custom="readingOrder {index:3;}">
+                <Coords points="1223,1571 1252,1580 1656,1577 1656,1627 1245,1630 1199,1610"/>
+                <Baseline points="1210,1614 1246,1625 1656,1622"/>
+                <TextEquiv>
+                    <Unicode>un campo di specializzazione,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713203908657_584" custom="readingOrder {index:4;}">
+                <Coords points="219,1666 1658,1656 1658,1706 219,1716"/>
+                <Baseline points="226,1704 1659,1694"/>
+                <TextEquiv>
+                    <Unicode>di qualificazione tecnica. Così accadeva di rilevare come ad ogni diversa arte, corrispondeva,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713204571497_675" custom="readingOrder {index:5;}">
+                <Coords points="227,1738 481,1731 839,1731 1132,1731 1416,1727 1660,1726 1660,1776 1417,1777 1132,1781 839,1781 482,1781 228,1788"/>
+                <Baseline points="228,1783 482,1776 839,1776 1132,1776 1417,1772 1660,1770"/>
+                <TextEquiv>
+                    <Unicode>in certo modo, un temperamento, un carattere umano, e una sfumatura di progresso so-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713204664930_698" custom="readingOrder {index:6;}">
+                <Coords points="234,1823 397,1807 483,1827 555,1853 535,1889 481,1863 398,1857 240,1873"/>
+                <Baseline points="239,1868 398,1852 482,1858 536,1879"/>
+                <TextEquiv>
+                    <Unicode>ciale, che rendevano </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713204771025_715" custom="readingOrder {index:7;}">
+                <Coords points="518,1795 695,1804 964,1802 1234,1802 1503,1797 1646,1798 1646,1848 1503,1847 1234,1852 964,1852 694,1854 517,1842"/>
+                <Baseline points="519,1840 694,1849 964,1847 1234,1847 1503,1842 1646,1843"/>
+                <TextEquiv>
+                    <Unicode>armonioso il complesso di tanti uomini nei diversi loro mestieri,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713204617817_685" custom="readingOrder {index:8;}">
+                <Coords points="229,1895 483,1886 843,1883 1261,1878 1647,1878 1647,1928 1261,1928 843,1933 484,1936 231,1945"/>
+                <Baseline points="231,1940 484,1931 843,1928 1261,1923 1647,1923"/>
+                <TextEquiv>
+                    <Unicode>e, si può dire, veramente civile la loro convivenza sociale. Mi ricordo, con discreta </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713203976058_604" custom="readingOrder {index:9;}">
+                <Coords points="223,1970 1662,1960 1662,2010 223,2020"/>
+                <Baseline points="224,2010 1663,2000"/>
+                <TextEquiv>
+                    <Unicode>approssimazione, il luogo di tali botteghe ed officine esistenti nella mia città: di esse, quel-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1713204639224_690" custom="readingOrder {index:10;}">
+                <Coords points="228,2038 527,2036 912,2030 1346,2033 1650,2029 1651,2079 1346,2083 912,2080 528,2086 228,2088"/>
+                <Baseline points="228,2083 528,2081 912,2075 1346,2078 1651,2074"/>
+                <TextEquiv>
+                    <Unicode>le almeno situate nella parte orientale della città, cioè nella strada e piazza intorno al quar-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fin da ragazzo, come è naturale, ho praticato le botteghe e officine di codesti artigiani,&#13;
+osservandone, e apprezzandone le diverse caratteristiche di lavoro, e rispettandone l'inge-&#13;
+nuità e la perizia sempre sveglia, che di ogni arte facevano &#13;
+un campo di specializzazione,&#13;
+di qualificazione tecnica. Così accadeva di rilevare come ad ogni diversa arte, corrispondeva,&#13;
+in certo modo, un temperamento, un carattere umano, e una sfumatura di progresso so-&#13;
+ciale, che rendevano &#13;
+armonioso il complesso di tanti uomini nei diversi loro mestieri,&#13;
+e, si può dire, veramente civile la loro convivenza sociale. Mi ricordo, con discreta &#13;
+approssimazione, il luogo di tali botteghe ed officine esistenti nella mia città: di esse, quel-&#13;
+le almeno situate nella parte orientale della città, cioè nella strada e piazza intorno al quar-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

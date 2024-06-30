@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-04-09T18:37:28.639+02:00</Created>
+        <LastChange>2024-06-21T10:19:33.155+02:00</LastChange>
+        <TranskribusMetadata docId="3071423" pageId="74326046" pageNr="112" tsid="175603599" status="GT" userId="222264" imgUrl="https://files.transkribus.eu/Get?id=GTDQOAMSIQTATLSKUNKOMBTW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RKOXRSACXOREIFTNDEREEAGN" imageId="54316455"/>
+    </Metadata>
+    <Page imageFilename="Q_12_1957_0006_c2v.jpg" imageWidth="1798" imageHeight="2523" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719746079456" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="184,264 180,2211 1679,2207 1683,260"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="1429,359 1454,359 1479,360 1505,363 1516,277 1484,276 1458,275 1427,271"/>
+                <Baseline points="1429,345 1454,345 1479,346 1505,349"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1535,363 1569,361 1603,361 1603,318 1569,318 1535,320"/>
+                <Baseline points="1535,349 1569,347 1603,347"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} hi {offset:0; length:8;rend:color; type:grey;}">
+                <Coords points="365,473 390,471 415,468 440,467 466,467 491,465 516,465 541,464 567,462 592,461 617,461 643,461 643,418 617,418 592,418 567,419 541,421 516,422 491,422 466,424 440,424 415,425 390,428 365,430"/>
+                <Baseline points="365,459 390,457 415,454 440,453 466,453 491,451 516,451 541,450 567,448 592,447 617,447 643,447"/>
+                <TextEquiv>
+                    <Unicode>baccanti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="203,567 275,565 347,563 419,561 491,560 564,561 636,563 708,562 780,559 852,559 925,559 997,558 1069,559 1141,561 1213,561 1286,559 1358,559 1430,558 1502,559 1574,559 1647,561 1647,531 1574,529 1502,529 1430,528 1358,529 1286,529 1213,531 1141,531 1069,529 997,528 925,529 852,529 780,529 708,532 636,533 564,531 491,530 419,531 347,533 275,535 203,537"/>
+                <Baseline points="203,557 275,555 347,553 419,551 491,550 564,551 636,553 708,552 780,549 852,549 925,549 997,548 1069,549 1141,551 1213,551 1286,549 1358,549 1430,548 1502,549 1574,549 1647,551"/>
+                <TextEquiv>
+                    <Unicode>nostro Bartolomeo Passerotti: ma con altro fiato. e subito la sua preferenza al grande Breu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862444543_48" custom="readingOrder {index:4;} del {offset:30; length:12;rend:overstrike;}">
+                <Coords points="204,593 956,591 956,641 204,643"/>
+                <Baseline points="204,638 956,636"/>
+                <TextEquiv>
+                    <Unicode>ghel. Copi Brueghel, a penna, introducendo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;} add {offset:0; length:12;place:above;}">
+                <Coords points="855,593 881,596 907,597 933,596 960,595 986,595 1012,595 1038,593 1065,593 1065,563 1038,563 1012,565 986,565 960,565 933,566 907,567 881,566 855,563"/>
+                <Baseline points="855,583 881,586 907,587 933,586 960,585 986,585 1012,585 1038,583 1065,583"/>
+                <TextEquiv>
+                    <Unicode>introducendo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862446656_53" custom="readingOrder {index:6;}">
+                <Coords points="970,589 1624,595 1624,645 970,639"/>
+                <Baseline points="970,634 1624,640"/>
+                <TextEquiv>
+                    <Unicode>nelle rigide forme di lui, ferme come il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;} gap {offset:0; length:0;quantity:4; unit:character; reason:illegible;}">
+                <Coords points="209,715 279,716 350,717 421,717 492,716 563,715 633,717 704,718 775,715 846,717 917,715 987,717 1058,717 1129,718 1200,715 1271,715 1341,713 1412,713 1483,715 1554,717 1625,717 1625,674 1554,674 1483,672 1412,670 1341,670 1271,672 1200,672 1129,675 1058,674 987,674 917,672 846,674 775,672 704,675 633,674 563,672 492,673 421,674 350,674 279,673 209,672"/>
+                <Baseline points="209,701 279,702 350,703 421,703 492,702 563,701 633,703 704,704 775,701 846,703 917,701 987,703 1058,703 1129,704 1200,701 1271,701 1341,699 1412,699 1483,701 1554,703 1625,703"/>
+                <TextEquiv>
+                    <Unicode>     , il primo tratto della sua impazienza, arricciando appena i contorni,          e mac-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="197,795 269,794 341,793 413,791 485,791 557,789 629,790 701,789 773,791 845,792 917,791 989,792 1061,793 1133,793 1205,793 1277,791 1349,790 1421,789 1493,789 1565,789 1637,793 1637,750 1565,746 1493,746 1421,746 1349,747 1277,748 1205,750 1133,750 1061,750 989,749 917,748 845,749 773,748 701,746 629,747 557,746 485,748 413,748 341,750 269,751 197,752"/>
+                <Baseline points="197,781 269,780 341,779 413,777 485,777 557,775 629,776 701,775 773,777 845,778 917,777 989,778 1061,779 1133,779 1205,779 1277,777 1349,776 1421,775 1493,775 1565,775 1637,779"/>
+                <TextEquiv>
+                    <Unicode>chiando di inchiostri, di bistro, i buchi delle ombre. E' un piacere fisico. Si direbbe che avesse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862450519_58" custom="readingOrder {index:9;}">
+                <Coords points="212,816 1670,827 1670,877 212,866"/>
+                <Baseline points="212,861 1670,872"/>
+                <TextEquiv>
+                    <Unicode>già colto la profondità patetica delle macchie dilatate nelle carte di Tiziano. Di certo, le conob-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715934944041_240" custom="readingOrder {index:10;}">
+                <Coords points="208,889 1026,885 1026,935 208,939"/>
+                <Baseline points="208,934 1026,930"/>
+                <TextEquiv>
+                    <Unicode>be poi. Le anatomie dei corpi lo attraggono: corpi ignudi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:11;}">
+                <Coords points="1016,898 1077,902 1103,901 1129,903 1129,873 1103,871 1077,872 1016,868"/>
+                <Baseline points="1025,891 1077,892 1103,891 1129,893"/>
+                <TextEquiv>
+                    <Unicode>ignudi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715934946331_245" custom="readingOrder {index:12;} del {offset:0; length:4;rend:overtyped;}">
+                <Coords points="1042,885 1657,894 1656,944 1041,935"/>
+                <Baseline points="1041,930 1656,939"/>
+                <TextEquiv>
+                    <Unicode>nudi di uomini e di donne. Ma se an-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715935074817_261" custom="readingOrder {index:13;}">
+                <Coords points="204,967 1501,963 1501,1013 204,1017"/>
+                <Baseline points="204,1012 1501,1008"/>
+                <TextEquiv>
+                    <Unicode>che si ispira ad un fregio classico, ad un bassorilievo antico, la corposità vitale dei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715935077042_266" custom="readingOrder {index:14;} del {offset:0; length:5;rend:overstrike;} gap {offset:0; length:0;quantity:5; unit:character; reason:illegible;}">
+                <Coords points="1486,934 1569,934 1569,984 1486,984"/>
+                <Baseline points="1486,979 1569,979"/>
+                <TextEquiv>
+                    <Unicode>     </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715935079159_271" custom="readingOrder {index:15;}">
+                <Coords points="1514,971 1645,975 1644,1025 1513,1021"/>
+                <Baseline points="1513,1016 1644,1020"/>
+                <TextEquiv>
+                    <Unicode>corpi in-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:16;}">
+                <Coords points="201,1097 273,1095 345,1095 417,1095 489,1092 561,1093 633,1093 705,1094 777,1093 849,1091 922,1091 994,1091 1066,1091 1138,1091 1210,1091 1282,1089 1354,1088 1426,1087 1498,1089 1570,1090 1643,1093 1643,1063 1570,1060 1498,1059 1426,1057 1354,1058 1282,1059 1210,1061 1138,1061 1066,1061 994,1061 922,1061 849,1061 777,1063 705,1064 633,1063 561,1063 489,1062 417,1065 345,1065 273,1065 201,1067"/>
+                <Baseline points="201,1087 273,1085 345,1085 417,1085 489,1082 561,1083 633,1083 705,1084 777,1083 849,1081 922,1081 994,1081 1066,1081 1138,1081 1210,1081 1282,1079 1354,1078 1426,1077 1498,1079 1570,1080 1643,1083"/>
+                <TextEquiv>
+                    <Unicode>comincia a limitarsi, fino al punto che sembra di avvertire il sottile crepitio della forma.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862488977_74" custom="readingOrder {index:17;} hi {offset:9; length:8;rend:underline; type:grey;}">
+                <Coords points="213,1128 1569,1124 1569,1174 213,1178"/>
+                <Baseline points="213,1173 1569,1169"/>
+                <TextEquiv>
+                    <Unicode>Corpi di baccanti, di bagnanti in pose arcaiche, fremono, e giocano come la carne dei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:18;}">
+                <Coords points="1501,1127 1526,1126 1551,1127 1577,1125 1577,1095 1551,1097 1526,1096 1501,1097"/>
+                <Baseline points="1501,1117 1526,1116 1551,1117 1577,1115"/>
+                <TextEquiv>
+                    <Unicode>nudi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862492505_79" custom="readingOrder {index:19;}">
+                <Coords points="1580,1121 1650,1124 1648,1174 1578,1171"/>
+                <Baseline points="1578,1166 1648,1169"/>
+                <TextEquiv>
+                    <Unicode>corpi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:20;} add {offset:0; length:9;place:above;}">
+                <Coords points="201,1205 226,1205 251,1205 276,1205 301,1205 326,1206 351,1209 351,1179 326,1176 301,1175 276,1175 251,1175 226,1175 201,1175"/>
+                <Baseline points="201,1195 226,1195 251,1195 276,1195 301,1195 326,1196 351,1199"/>
+                <TextEquiv>
+                    <Unicode>femminili</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862503256_87" custom="readingOrder {index:21;}">
+                <Coords points="202,1199 910,1198 910,1248 202,1249"/>
+                <Baseline points="202,1244 910,1243"/>
+                <TextEquiv>
+                    <Unicode>di Renoir. Altri corpi: anatomie eroiche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:22;}">
+                <Coords points="817,1203 844,1201 871,1201 898,1202 925,1203 952,1203 979,1203 1006,1203 1033,1204 1061,1205 1061,1175 1033,1174 1006,1173 979,1173 952,1173 925,1173 898,1172 871,1171 844,1171 817,1173"/>
+                <Baseline points="817,1193 844,1191 871,1191 898,1192 925,1193 952,1193 979,1193 1006,1193 1033,1194 1061,1195"/>
+                <TextEquiv>
+                    <Unicode>e drammatiche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862507012_92" custom="readingOrder {index:23;}">
+                <Coords points="916,1198 1652,1199 1652,1249 916,1248"/>
+                <Baseline points="916,1243 1652,1244"/>
+                <TextEquiv>
+                    <Unicode>, sembrano richiamare il modellato ondulante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:24;}">
+                <Coords points="209,1323 268,1323 327,1323 386,1325 445,1323 504,1323 563,1323 622,1323 681,1323 740,1323 799,1325 858,1326 917,1327 976,1325 1035,1327 1094,1327 1153,1327 1212,1327 1271,1328 1330,1328 1389,1329 1389,1286 1330,1285 1271,1285 1212,1284 1153,1284 1094,1284 1035,1284 976,1282 917,1284 858,1283 799,1282 740,1280 681,1280 622,1280 563,1280 504,1280 445,1280 386,1282 327,1280 268,1280 209,1280"/>
+                <Baseline points="209,1309 268,1309 327,1309 386,1311 445,1309 504,1309 563,1309 622,1309 681,1309 740,1309 799,1311 858,1312 917,1313 976,1311 1035,1313 1094,1313 1153,1313 1212,1313 1271,1314 1330,1314 1389,1315"/>
+                <TextEquiv>
+                    <Unicode>di Tintoretto, ma in una chiusura del ritmo, più serrata, più magica.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:25;} hi {offset:53; length:38; continued:true;rend:underline; type:grey;}">
+                <Coords points="209,1393 280,1394 352,1395 424,1393 496,1394 568,1395 640,1394 712,1395 784,1391 856,1392 928,1395 999,1393 1071,1392 1143,1393 1215,1394 1287,1395 1359,1394 1431,1394 1503,1395 1575,1396 1647,1399 1647,1369 1575,1366 1503,1365 1431,1364 1359,1364 1287,1365 1215,1364 1143,1363 1071,1362 999,1363 928,1365 856,1362 784,1361 712,1365 640,1364 568,1365 496,1364 424,1363 352,1365 280,1364 209,1363"/>
+                <Baseline points="209,1383 280,1384 352,1385 424,1383 496,1384 568,1385 640,1384 712,1385 784,1381 856,1382 928,1385 999,1383 1071,1382 1143,1383 1215,1384 1287,1385 1359,1384 1431,1384 1503,1385 1575,1386 1647,1389"/>
+                <TextEquiv>
+                    <Unicode>Passano, dentro i fogli disegnati da Rubens, i ricordi ordinati, gli echi nostalgici d'Ita-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862517140_100" custom="readingOrder {index:26;} hi {offset:0; length:51; continued:true;rend:underline; type:grey;}">
+                <Coords points="208,1426 1113,1424 1113,1474 208,1476"/>
+                <Baseline points="208,1471 1113,1469"/>
+                <TextEquiv>
+                    <Unicode>lia, come in un corteo, in una processione, in una festa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:27;}">
+                <Coords points="1041,1427 1068,1427 1095,1427 1122,1427 1149,1426 1176,1426 1203,1427 1203,1397 1176,1396 1149,1396 1122,1397 1095,1397 1068,1397 1041,1397"/>
+                <Baseline points="1041,1417 1068,1417 1095,1417 1122,1417 1149,1416 1176,1416 1203,1417"/>
+                <TextEquiv>
+                    <Unicode>curatrice,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862519253_105" custom="readingOrder {index:28;}">
+                <Coords points="1127,1423 1626,1423 1626,1473 1127,1473"/>
+                <Baseline points="1127,1468 1626,1468"/>
+                <TextEquiv>
+                    <Unicode>dove il sentimento e i sensi sono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862526454_113" custom="readingOrder {index:29;}">
+                <Coords points="207,1501 554,1503 554,1553 207,1551"/>
+                <Baseline points="207,1546 554,1548"/>
+                <TextEquiv>
+                    <Unicode>tenuti in sordina da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:30;} add {offset:0; length:2;place:above;}">
+                <Coords points="515,1511 544,1511 573,1511 573,1468 544,1468 515,1468"/>
+                <Baseline points="515,1497 544,1497 573,1497"/>
+                <TextEquiv>
+                    <Unicode>un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862529952_118" custom="readingOrder {index:31;}">
+                <Coords points="564,1501 1630,1503 1630,1553 564,1551"/>
+                <Baseline points="564,1546 1630,1548"/>
+                <TextEquiv>
+                    <Unicode>intelletto lucidissimo. Tiziano è il nome cercato più di frequente: è</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:32;}">
+                <Coords points="205,1635 276,1631 348,1629 420,1629 492,1629 564,1627 636,1627 708,1627 780,1627 852,1627 924,1623 995,1625 1067,1625 1139,1625 1211,1625 1283,1625 1355,1624 1427,1625 1499,1627 1571,1628 1643,1631 1643,1588 1571,1585 1499,1584 1427,1582 1355,1581 1283,1582 1211,1582 1139,1582 1067,1582 995,1582 924,1580 852,1584 780,1584 708,1584 636,1584 564,1584 492,1586 420,1586 348,1586 276,1588 205,1592"/>
+                <Baseline points="205,1621 276,1617 348,1615 420,1615 492,1615 564,1613 636,1613 708,1613 780,1613 852,1613 924,1609 995,1611 1067,1611 1139,1611 1211,1611 1283,1611 1355,1610 1427,1611 1499,1613 1571,1614 1643,1617"/>
+                <TextEquiv>
+                    <Unicode>come la voce di un coro che si perde verso la Schelda, verso l'Oceano mai fermo. Anche Raf-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:33;}">
+                <Coords points="209,1711 278,1707 348,1704 417,1706 487,1705 556,1703 626,1704 695,1705 765,1703 834,1702 904,1701 973,1701 1043,1698 1112,1697 1182,1699 1251,1698 1321,1698 1390,1699 1460,1700 1529,1700 1599,1701 1599,1658 1529,1657 1460,1657 1390,1656 1321,1655 1251,1655 1182,1656 1112,1654 1043,1655 973,1658 904,1658 834,1659 765,1660 695,1662 626,1661 556,1660 487,1662 417,1663 348,1661 278,1664 209,1668"/>
+                <Baseline points="209,1697 278,1693 348,1690 417,1692 487,1691 556,1689 626,1690 695,1691 765,1689 834,1688 904,1687 973,1687 1043,1684 1112,1683 1182,1685 1251,1684 1321,1684 1390,1685 1460,1686 1529,1686 1599,1687"/>
+                <TextEquiv>
+                    <Unicode>faello, Giulio Romano. e i bolognesi, cioè i Carracci. Annibale, naturalmente: di cui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:34;} gap {offset:72; length:0;quantity:9; unit:character; reason:illegible;}">
+                <Coords points="211,1781 281,1780 352,1778 423,1777 494,1780 565,1779 636,1779 707,1781 778,1779 849,1778 920,1779 990,1777 1061,1780 1132,1780 1203,1783 1274,1779 1345,1778 1416,1778 1487,1780 1558,1781 1629,1783 1629,1740 1558,1738 1487,1737 1416,1735 1345,1735 1274,1736 1203,1740 1132,1737 1061,1737 990,1734 920,1736 849,1735 778,1736 707,1738 636,1736 565,1736 494,1737 423,1734 352,1735 281,1737 211,1738"/>
+                <Baseline points="211,1767 281,1766 352,1764 423,1763 494,1766 565,1765 636,1765 707,1767 778,1765 849,1764 920,1765 990,1763 1061,1766 1132,1766 1203,1769 1274,1765 1345,1764 1416,1764 1487,1766 1558,1767 1629,1769"/>
+                <TextEquiv>
+                    <Unicode>sembra cogliere la vitalità, la felicità dell'invenzione plastica , per          , maliziosa -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:35;}">
+                <Coords points="207,1851 279,1853 351,1851 423,1849 495,1850 568,1849 640,1849 712,1847 784,1851 856,1850 929,1853 1001,1851 1073,1849 1145,1850 1217,1849 1290,1849 1362,1848 1434,1849 1506,1850 1578,1850 1651,1853 1651,1823 1578,1820 1506,1820 1434,1819 1362,1818 1290,1819 1217,1819 1145,1820 1073,1819 1001,1821 929,1823 856,1820 784,1821 712,1817 640,1819 568,1819 495,1820 423,1819 351,1821 279,1823 207,1821"/>
+                <Baseline points="207,1841 279,1843 351,1841 423,1839 495,1840 568,1839 640,1839 712,1837 784,1841 856,1840 929,1843 1001,1841 1073,1839 1145,1840 1217,1839 1290,1839 1362,1838 1434,1839 1506,1840 1578,1840 1651,1843"/>
+                <TextEquiv>
+                    <Unicode>mente, studia la suggestione della forma impalpabile, indefinibile del più grande dei vene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862539527_126" custom="readingOrder {index:36;}">
+                <Coords points="210,1887 263,1885 265,1935 212,1937"/>
+                <Baseline points="212,1932 265,1930"/>
+                <TextEquiv>
+                    <Unicode>ti.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:37;} add {offset:0; length:28;place:above;}">
+                <Coords points="219,1889 244,1885 269,1885 295,1886 320,1887 345,1887 371,1887 396,1887 421,1887 447,1887 472,1887 498,1887 523,1887 548,1887 574,1887 599,1886 624,1885 650,1885 675,1884 701,1881 701,1851 675,1854 650,1855 624,1855 599,1856 574,1857 548,1857 523,1857 498,1857 472,1857 447,1857 421,1857 396,1857 371,1857 345,1857 320,1857 295,1856 269,1855 244,1855 219,1859"/>
+                <Baseline points="219,1879 244,1875 269,1875 295,1876 320,1877 345,1877 371,1877 396,1877 421,1877 447,1877 472,1877 498,1877 523,1877 548,1877 574,1877 599,1876 624,1875 650,1875 675,1874 701,1871"/>
+                <TextEquiv>
+                    <Unicode>simile ad una polvere d'oro.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862542886_131" custom="readingOrder {index:38;} del {offset:53; length:7;rend:overstrike;} gap {offset:53; length:0;quantity:7; unit:character; reason:illegible;}">
+                <Coords points="279,1878 1208,1885 1208,1935 279,1928"/>
+                <Baseline points="279,1923 1208,1930"/>
+                <TextEquiv>
+                    <Unicode>La sua opera, a sua volta: così nei dipinti, come in        </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:39;} add {offset:0; length:6;place:above;}">
+                <Coords points="1155,1889 1185,1889 1215,1889 1245,1891 1245,1861 1215,1859 1185,1859 1155,1859"/>
+                <Baseline points="1155,1879 1185,1879 1215,1879 1245,1881"/>
+                <TextEquiv>
+                    <Unicode>taluni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862545234_136" custom="readingOrder {index:40;}">
+                <Coords points="1217,1880 1657,1878 1657,1928 1217,1930"/>
+                <Baseline points="1217,1925 1657,1923"/>
+                <TextEquiv>
+                    <Unicode>di questi disegni, quando</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715936255996_429" custom="readingOrder {index:41;}">
+                <Coords points="207,1956 398,1959 397,2009 206,2006"/>
+                <Baseline points="206,2001 397,2004"/>
+                <TextEquiv>
+                    <Unicode>è più lieve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_45" custom="readingOrder {index:42;} add {offset:0; length:14;place:above;}">
+                <Coords points="213,1963 239,1963 265,1961 292,1961 318,1960 345,1959 371,1958 398,1957 424,1959 451,1959 451,1929 424,1929 398,1927 371,1928 345,1929 318,1930 292,1931 265,1931 239,1933 213,1933"/>
+                <Baseline points="213,1953 239,1953 265,1951 292,1951 318,1950 345,1949 371,1948 398,1947 424,1949 451,1949"/>
+                <TextEquiv>
+                    <Unicode>di ispirazione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715936263918_434" custom="readingOrder {index:43;}">
+                <Coords points="410,1953 543,1957 542,2007 409,2003"/>
+                <Baseline points="409,1998 542,2002"/>
+                <TextEquiv>
+                    <Unicode>: e quasi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715936265902_439" custom="readingOrder {index:44;} add {offset:0; length:1;place:above;}">
+                <Coords points="540,1914 576,1916 574,1966 538,1964"/>
+                <Baseline points="538,1959 574,1961"/>
+                <TextEquiv>
+                    <Unicode>è</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715936667901_511" custom="readingOrder {index:45;}">
+                <Coords points="567,1947 1656,1960 1655,2010 566,1997"/>
+                <Baseline points="566,1992 1655,2005"/>
+                <TextEquiv>
+                    <Unicode>sbollito il colore della realtà, evoca un altro tra i grandi: Wattean,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862557074_148" custom="readingOrder {index:46;} del {offset:5; length:10;rend:overstrike;} gap {offset:5; length:0;quantity:10; unit:character; reason:illegible;}">
+                <Coords points="204,2033 539,2031 539,2081 204,2083"/>
+                <Baseline points="204,2078 539,2076"/>
+                <TextEquiv>
+                    <Unicode>che,           </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_47" custom="readingOrder {index:47;} add {offset:0; length:23;place:above;}">
+                <Coords points="325,2035 351,2037 377,2037 403,2037 429,2038 455,2038 481,2035 507,2035 534,2035 560,2035 586,2035 612,2034 638,2033 664,2033 690,2035 717,2033 717,2003 690,2005 664,2003 638,2003 612,2004 586,2005 560,2005 534,2005 507,2005 481,2005 455,2008 429,2008 403,2007 377,2007 351,2007 325,2005"/>
+                <Baseline points="325,2025 351,2027 377,2027 403,2027 429,2028 455,2028 481,2025 507,2025 534,2025 560,2025 586,2025 612,2024 638,2023 664,2023 690,2025 717,2023"/>
+                <TextEquiv>
+                    <Unicode>avendo guardato a fondo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862560495_153" custom="readingOrder {index:48;}">
+                <Coords points="563,2029 707,2034 705,2084 561,2079"/>
+                <Baseline points="561,2074 705,2079"/>
+                <TextEquiv>
+                    <Unicode>l'animo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_50" custom="readingOrder {index:49;} add {offset:0; length:13;place:under;}">
+                <Coords points="655,2173 681,2173 707,2173 733,2173 759,2173 786,2174 812,2177 838,2177 864,2181 891,2181 891,2138 864,2138 838,2134 812,2134 786,2131 759,2130 733,2130 707,2130 681,2130 655,2130"/>
+                <Baseline points="655,2159 681,2159 707,2159 733,2159 759,2159 786,2160 812,2163 838,2163 864,2167 891,2167"/>
+                <TextEquiv>
+                    <Unicode>del fiammingo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1715862564675_158" custom="readingOrder {index:50;}">
+                <Coords points="709,2033 1655,2036 1655,2086 709,2083"/>
+                <Baseline points="709,2078 1655,2081"/>
+                <TextEquiv>
+                    <Unicode>, ne sortì una nuova bellezza, più arcana ancora, più triste.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5&#13;
+2&#13;
+baccanti&#13;
+nostro Bartolomeo Passerotti: ma con altro fiato. e subito la sua preferenza al grande Breu-&#13;
+ghel. Copi Brueghel, a penna, introducendo&#13;
+introducendo&#13;
+nelle rigide forme di lui, ferme come il&#13;
+     , il primo tratto della sua impazienza, arricciando appena i contorni,          e mac-&#13;
+chiando di inchiostri, di bistro, i buchi delle ombre. E' un piacere fisico. Si direbbe che avesse&#13;
+già colto la profondità patetica delle macchie dilatate nelle carte di Tiziano. Di certo, le conob-&#13;
+be poi. Le anatomie dei corpi lo attraggono: corpi ignudi &#13;
+ignudi&#13;
+nudi di uomini e di donne. Ma se an-&#13;
+che si ispira ad un fregio classico, ad un bassorilievo antico, la corposità vitale dei&#13;
+     &#13;
+corpi in-&#13;
+comincia a limitarsi, fino al punto che sembra di avvertire il sottile crepitio della forma.&#13;
+Corpi di baccanti, di bagnanti in pose arcaiche, fremono, e giocano come la carne dei&#13;
+nudi&#13;
+corpi&#13;
+femminili&#13;
+di Renoir. Altri corpi: anatomie eroiche&#13;
+e drammatiche&#13;
+, sembrano richiamare il modellato ondulante&#13;
+di Tintoretto, ma in una chiusura del ritmo, più serrata, più magica.&#13;
+Passano, dentro i fogli disegnati da Rubens, i ricordi ordinati, gli echi nostalgici d'Ita-&#13;
+lia, come in un corteo, in una processione, in una festa&#13;
+curatrice,&#13;
+dove il sentimento e i sensi sono&#13;
+tenuti in sordina da&#13;
+un&#13;
+intelletto lucidissimo. Tiziano è il nome cercato più di frequente: è&#13;
+come la voce di un coro che si perde verso la Schelda, verso l'Oceano mai fermo. Anche Raf-&#13;
+faello, Giulio Romano. e i bolognesi, cioè i Carracci. Annibale, naturalmente: di cui&#13;
+sembra cogliere la vitalità, la felicità dell'invenzione plastica , per          , maliziosa -&#13;
+mente, studia la suggestione della forma impalpabile, indefinibile del più grande dei vene&#13;
+ti.&#13;
+simile ad una polvere d'oro.&#13;
+La sua opera, a sua volta: così nei dipinti, come in        &#13;
+taluni&#13;
+di questi disegni, quando&#13;
+è più lieve&#13;
+di ispirazione&#13;
+: e quasi &#13;
+è&#13;
+sbollito il colore della realtà, evoca un altro tra i grandi: Wattean,&#13;
+che,           &#13;
+avendo guardato a fondo&#13;
+l'animo,&#13;
+del fiammingo&#13;
+, ne sortì una nuova bellezza, più arcana ancora, più triste.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
